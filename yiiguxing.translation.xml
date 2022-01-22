@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="nexus" />
+      <item value="snapshots" />
       <item value="Neither the String for abbreviation nor the replacement String are null or empty The length to truncate to is less than the length of the supplied String The length to truncate to is greater than 0 The abbreviated String will have enough room for the length supplied replacement String and the first and last characters of the supplied String for abbreviation" />
       <item value="Prints a boolean and then terminate the line. This method behaves as though it invokes &lt;code&gt;{@link print(boolean)}&lt;code&gt; and then &lt;code&gt;{@link println()}&lt;code&gt;." />
       <item value="synchronized" />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
