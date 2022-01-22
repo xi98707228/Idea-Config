@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="releases" />
       <item value="nexus" />
       <item value="snapshots" />
       <item value="Neither the String for abbreviation nor the replacement String are null or empty The length to truncate to is less than the length of the supplied String The length to truncate to is greater than 0 The abbreviated String will have enough room for the length supplied replacement String and the first and last characters of the supplied String for abbreviation" />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
