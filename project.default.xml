@@ -1,0 +1,73 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="8" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="X:\DevlopTools\Maven\MavenReposity" />
+            <option name="mavenHome" value="X:/DevlopTools/Maven/apache-maven-3.6.3" />
+            <option name="userSettingsFile" value="X:\DevlopTools\Maven\apache-maven-3.6.3\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="downloadAnnotationsAutomatically" value="true" />
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+            <option name="jdkForImporter" value="#JAVA_HOME" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI" />
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

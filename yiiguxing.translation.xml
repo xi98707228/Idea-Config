@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
+    <histories>
+      <item value="Prints a boolean and then terminate the line. This method behaves as though it invokes &lt;code&gt;{@link print(boolean)}&lt;code&gt; and then &lt;code&gt;{@link println()}&lt;code&gt;." />
+      <item value="synchronized" />
+      <item value="println" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1642834005812" />
+  </component>
+  <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
