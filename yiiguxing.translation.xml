@@ -4,7 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="book Hs" />
+      <item value="type" />
+      <item value="class type" />
+      <item value="Hash Map" />
       <item value="operation" />
+      <item value="class" />
+      <item value="validate String Not Null" />
+      <item value="like" />
+      <item value="eq" />
+      <item value="Restrictions" />
+      <item value="过滤掉是发放操作的" />
       <item value="recover Manage" />
       <item value="revocery Manage" />
       <item value="revocer Manage" />
@@ -20,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="LATIN" value="2" />
       </map>
     </option>
