@@ -4,6 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Double Binary Operator" />
+      <item value="Concurrent Map" />
+      <item value="Comparison and hashing" />
+      <item value="A map entry (key-value pair). The &lt;tt&gt;Map.entrySet&lt;tt&gt; method returns a collection-view of the map, whose elements are of this class. The &lt;i&gt;only&lt;i&gt; way to obtain a reference to a map entry is from the iterator of this collection-view. These &lt;tt&gt;Map.Entry&lt;tt&gt; objects are valid &lt;i&gt;only&lt;i&gt; for the duration of the iteration; more formally, the behavior of a map entry is undefined if the backing map has been modified after the entry was returned by the iterator, except through the &lt;tt&gt;setValue&lt;tt&gt; operation on the map entry. @see MapentrySet() @since 1.2" />
+      <item value="Views" />
+      <item value="Bulk Operations" />
+      <item value="Modification Operations" />
+      <item value="Query Operations" />
+      <item value="Josh Bloch" />
+      <item value="usable bits of normal node hash" />
+      <item value="segment Shift" />
+      <item value="segments" />
+      <item value="segment Mask" />
+      <item value="Represents not generating anything or the complete lack of a method" />
+      <item value="NONE" />
+      <item value="Order By Segment List" />
+      <item value="get Sql Segment" />
+      <item value="Merge Segments" />
+      <item value="Application" />
+      <item value="njdt" />
+      <item value="ame: njdt-xz-manage ████████ ██ ██ ██ ████████ ██ ████ ████ ██ ████ ██ ██ ████████ ████████ ░░░░░░██ ░██ ░██ ░██░ ██░░░░░ ████ ░██░██ ██░██ ████ ░██░██ ░██ ████ ██░░░░░░██░██░░░░░ ██ ░██ ░██ ░██░ ██ ██░░██" />
       <item value="process Inst Id" />
       <item value="Abstract Wrapper" />
       <item value="Safe Varargs" />
@@ -33,33 +54,13 @@
       <item value="SHUTDOWN" />
       <item value="NANOSECONDS" />
       <item value="Domain Name Mapping Builder" />
-      <item value="Async" />
-      <item value="Execute Operate Point Cut Log Annotation" />
-      <item value="handle End Process Give Store Pjws" />
-      <item value="description" />
-      <item value="获取当前流程关联的数据列表" />
-      <item value="config rpc client" />
-      <item value="Constructors" />
-      <item value="default constructor" />
-      <item value="Pjws Store Ws Book" />
-      <item value="constructor" />
-      <item value="Appender Ref Action" />
-      <item value="Registering" />
-      <item value="Joran Configurator" />
-      <item value="get Patterns" />
-      <item value="Pattern" />
-      <item value="@return Z = 字母 S = 数字 T = 特殊字符" />
-      <item value="Array List" />
-      <item value="loss Action" />
-      <item value="授权简易处理单" />
-      <item value="get And Accumulate" />
-      <item value="Atomic Reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="FILIPINO" value="1" />
+        <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SAMOAN" value="1" />
