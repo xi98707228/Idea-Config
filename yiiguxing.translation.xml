@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ritten by Doug Lea with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained at http:creativecommons.orgpublicdomainzero1.0" />
+      <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
+      <item value="Doug Lea" />
+      <item value="COUNT BITS" />
+      <item value="SHUTDOWN" />
+      <item value="NANOSECONDS" />
+      <item value="Domain Name Mapping Builder" />
+      <item value="Async" />
+      <item value="Execute Operate Point Cut Log Annotation" />
       <item value="handle End Process Give Store Pjws" />
       <item value="description" />
       <item value="获取当前流程关联的数据列表" />
@@ -45,14 +54,13 @@
       <item value="snapshots" />
       <item value="Neither the String for abbreviation nor the replacement String are null or empty The length to truncate to is less than the length of the supplied String The length to truncate to is greater than 0 The abbreviated String will have enough room for the length supplied replacement String and the first and last characters of the supplied String for abbreviation" />
       <item value="Prints a boolean and then terminate the line. This method behaves as though it invokes &lt;code&gt;{@link print(boolean)}&lt;code&gt; and then &lt;code&gt;{@link println()}&lt;code&gt;." />
-      <item value="synchronized" />
-      <item value="println" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="LATIN" value="2" />
+        <entry key="SAMOAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
