@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="config rpc client" />
+      <item value="Constructors" />
+      <item value="default constructor" />
+      <item value="Pjws Store Ws Book" />
+      <item value="constructor" />
+      <item value="Appender Ref Action" />
+      <item value="Registering" />
+      <item value="Joran Configurator" />
       <item value="get Patterns" />
       <item value="Pattern" />
       <item value="@return Z = 字母 S = 数字 T = 特殊字符" />
@@ -13,7 +21,6 @@
       <item value="get And Accumulate" />
       <item value="Atomic Reference" />
       <item value="add Cache Data If Absent" />
-      <item value="config rpc client" />
       <item value="book Hs" />
       <item value="type" />
       <item value="class type" />
@@ -40,9 +47,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="LATIN" value="2" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
