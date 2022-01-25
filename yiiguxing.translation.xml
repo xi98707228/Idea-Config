@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="handle End Process Give Store Pjws" />
       <item value="description" />
       <item value="获取当前流程关联的数据列表" />
       <item value="config rpc client" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="LATIN" value="2" />
         <entry key="GREEK" value="1" />
       </map>
