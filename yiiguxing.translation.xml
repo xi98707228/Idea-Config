@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="staff Ms" />
       <item value="temp String Param" />
       <item value="temp Object Param" />
       <item value="get To Void List Admin" />
@@ -53,12 +54,11 @@
       <item value="Pjws To Void Action" />
       <item value="completable" />
       <item value="Listenable Future" />
-      <item value="Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
