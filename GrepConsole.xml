@@ -3,9 +3,10 @@
     <option name="profiles">
       <list>
         <Profile>
+          <option name="bufferStreams" value="true" />
           <option name="defaultProfile" value="true" />
-          <option name="enableMaxLengthGrepLimit" value="false" />
-          <option name="enableMaxLengthLimit" value="false" />
+          <option name="enableFoldings" value="true" />
+          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
