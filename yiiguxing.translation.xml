@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="timed Project Notice Expire" />
       <item value="Double Binary Operator" />
       <item value="Concurrent Map" />
       <item value="Comparison and hashing" />
@@ -53,7 +54,6 @@
       <item value="COUNT BITS" />
       <item value="SHUTDOWN" />
       <item value="NANOSECONDS" />
-      <item value="Domain Name Mapping Builder" />
     </histories>
     <option name="languageScores">
       <map>
