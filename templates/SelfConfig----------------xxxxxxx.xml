@@ -1,7 +1,7 @@
 <templateSet group="SelfConfig----------------xxxxxxx">
   <template name="*" value="** ---&gt;&#10; *&#10; * @author: xqh , 987072248@qq.com&#10; * @date: $date$ - $time$&#10;$params$&#10; **/" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters()) ———————————————— 版权声明：本文为CSDN博主「Andy_Li_」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 原文链接：https://blog.csdn.net/liqing0013/article/details/84104419" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
