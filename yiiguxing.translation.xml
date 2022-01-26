@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="IS LOSE" />
+      <item value="IS LOSS" />
+      <item value="IS TO VOID" />
       <item value="the Admin" />
       <item value="can Admin" />
       <item value="is Admin" />
@@ -51,14 +54,11 @@
       <item value="get Executor Qualifier" />
       <item value="Net Util Localhost Lazy Holder" />
       <item value="Network Iface And Inet Address" />
-      <item value="Find the first loopback interface available from its INET address (127.0.0.1 or ::1) Note that we do not use NetworkInterface.isLoopback() in the first place because it takes long time on a certain environment. (e.g. Windows with -Djava.net.preferIPv4Stack=true)" />
-      <item value="LOCALHOST 6_BYTES" />
-      <item value="ritten by Doug Lea with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained at http:creativecommons.orgpublicdomainzero1.0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
