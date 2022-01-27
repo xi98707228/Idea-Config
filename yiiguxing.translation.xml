@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="xqh" />
+      <item value="get Count Tick" />
       <item value="args" />
       <item value="compare Date Is After" />
       <item value="Druid Abstract Data Source" />
@@ -52,24 +54,23 @@
       <item value="Josh Bloch" />
       <item value="usable bits of normal node hash" />
       <item value="segment Shift" />
-      <item value="segments" />
-      <item value="segment Mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="129" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SAMOAN" value="1" />
         <entry key="GREEK" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642834005812" />
+    <option name="lastTrimTime" value="1643270169423" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
