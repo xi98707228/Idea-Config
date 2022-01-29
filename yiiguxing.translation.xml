@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Pjws Repeat Verify Result Type" />
       <item value="transfer Data" />
       <item value="xqh" />
       <item value="get Count Tick" />
@@ -53,12 +54,11 @@
       <item value="Modification Operations" />
       <item value="Query Operations" />
       <item value="Josh Bloch" />
-      <item value="usable bits of normal node hash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
