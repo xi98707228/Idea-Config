@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="special Voucher Processing Order Data" />
       <item value="Pjws Repeat Verify Result Type" />
       <item value="transfer Data" />
       <item value="xqh" />
@@ -53,12 +54,11 @@
       <item value="Bulk Operations" />
       <item value="Modification Operations" />
       <item value="Query Operations" />
-      <item value="Josh Bloch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643270169423" />
+    <option name="lastTrimTime" value="1643705128244" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
