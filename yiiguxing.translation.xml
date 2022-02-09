@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="add Shutdown Hook" />
+      <item value="Feature" />
       <item value="Functional Interface" />
       <item value="user To Void Book Relation List" />
       <item value="get Operation" />
@@ -52,13 +54,11 @@
       <item value="to Void" />
       <item value="IS LOSE" />
       <item value="IS LOSS" />
-      <item value="IS TO VOID" />
-      <item value="the Admin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
