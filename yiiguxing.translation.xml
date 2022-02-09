@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="author" />
+      <item value="date" />
       <item value="QUERY TEAM ORG INFO CRON" />
       <item value="Schedule Query Team Org Info" />
       <item value="add Listener" />
@@ -52,13 +54,11 @@
       <item value="compare Date Is After" />
       <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
-      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
-      <item value="Team Org Wsbh Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
