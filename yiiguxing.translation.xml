@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="flag" />
+      <item value="get Status Name" />
+      <item value="NOT USE" />
+      <item value="IS USE" />
+      <item value="Pjws Rk Status" />
+      <item value="book" />
+      <item value="已使用" />
+      <item value="Pjws Store Ws Tick" />
+      <item value="for" />
       <item value="true" />
       <item value="V Acall" />
       <item value="handle Save Process Cancel Store Data List" />
@@ -45,20 +54,11 @@
       <item value="Unsatisfied" />
       <item value="Dynamic Routing Data Source" />
       <item value="Druid Data Source" />
-      <item value="Reposity Back" />
-      <item value="load Nacos Data" />
-      <item value="count Tick" />
-      <item value="split" />
-      <item value="get To Void Store Data" />
-      <item value="Table Data Info" />
-      <item value="login User" />
-      <item value="find Can Loss List By Org Id" />
-      <item value="staff Ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
