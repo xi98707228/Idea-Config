@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="_row ids" />
+      <item value="index Of" />
+      <item value="作废原因" />
+      <item value="Application Context Aware" />
+      <item value="Application Event Publisher Aware" />
       <item value="add Shutdown Hook" />
       <item value="Feature" />
       <item value="Functional Interface" />
@@ -49,16 +54,11 @@
       <item value="temp String Param" />
       <item value="temp Object Param" />
       <item value="get To Void List Admin" />
-      <item value="删除成功" />
-      <item value="row group" />
-      <item value="to Void" />
-      <item value="IS LOSE" />
-      <item value="IS LOSS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
