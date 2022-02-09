@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Override" />
       <item value="special Voucher Processing Order Data" />
       <item value="Pjws Repeat Verify Result Type" />
       <item value="transfer Data" />
@@ -53,12 +54,11 @@
       <item value="Views" />
       <item value="Bulk Operations" />
       <item value="Modification Operations" />
-      <item value="Query Operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="LATIN" value="2" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643705128244" />
+    <option name="lastTrimTime" value="1644369472256" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
