@@ -1,6 +1,6 @@
 <application>
   <component name="RainbowSettings">
-    <option name="numberOfColors" value="12" />
+    <option name="numberOfColors" value="16" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="version" value="6.21" />
   </component>

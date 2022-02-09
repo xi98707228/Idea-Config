@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="QUERY TEAM ORG INFO CRON" />
+      <item value="Schedule Query Team Org Info" />
+      <item value="add Listener" />
+      <item value="Joran Configurator" />
+      <item value="declare" />
+      <item value="Na N" />
+      <item value="Infinity" />
+      <item value="xqh" />
       <item value="flag" />
       <item value="get Status Name" />
       <item value="NOT USE" />
@@ -39,7 +47,6 @@
       <item value="special Voucher Processing Order Data" />
       <item value="Pjws Repeat Verify Result Type" />
       <item value="transfer Data" />
-      <item value="xqh" />
       <item value="get Count Tick" />
       <item value="args" />
       <item value="compare Date Is After" />
@@ -47,25 +54,19 @@
       <item value="test Connection Internal" />
       <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
       <item value="Team Org Wsbh Mapper" />
-      <item value="wrong" />
-      <item value="Unsatisfied Dependency Exception" />
-      <item value="failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException" />
-      <item value="Injection of resource dependencies failed; nested exception is" />
-      <item value="Unsatisfied" />
-      <item value="Dynamic Routing Data Source" />
-      <item value="Druid Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SAMOAN" value="1" />
         <entry key="GREEK" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
