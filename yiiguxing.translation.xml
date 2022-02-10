@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="for Class" />
+      <item value="operation" />
+      <item value="max Priority" />
+      <item value="Virtual Machine." />
+      <item value="Uncaught Exception Handler" />
+      <item value="find By Book Id" />
+      <item value="Pjws Store Ws Tick" />
+      <item value="tick" />
+      <item value="equals" />
+      <item value="get Use Flag" />
+      <item value="get Loss" />
       <item value="resolve Rk Type Return Enum String" />
       <item value="定额罚款专用收据" />
       <item value="专用凭证处理单" />
@@ -43,22 +54,11 @@
       <item value="Joran Configurator" />
       <item value="declare" />
       <item value="Na N" />
-      <item value="Infinity" />
-      <item value="xqh" />
-      <item value="flag" />
-      <item value="get Status Name" />
-      <item value="NOT USE" />
-      <item value="IS USE" />
-      <item value="Pjws Rk Status" />
-      <item value="book" />
-      <item value="已使用" />
-      <item value="Pjws Store Ws Tick" />
-      <item value="for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
