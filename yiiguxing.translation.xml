@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="定额罚款专用收据" />
+      <item value="专用凭证处理单" />
+      <item value="lookup" />
       <item value="Pjws All Tick Query Vo" />
       <item value="book Code" />
       <item value="vue Type Code" />
@@ -51,14 +54,11 @@
       <item value="Pjws Store Ws Tick" />
       <item value="for" />
       <item value="true" />
-      <item value="V Acall" />
-      <item value="handle Save Process Cancel Store Data List" />
-      <item value="_row ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="199" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
