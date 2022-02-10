@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="log Exceptions" />
+      <item value="JDBC Exception Reporter" />
       <item value="page Num" />
       <item value="TAG QUOTE ASCII CHAR" />
       <item value="custom Page" />
@@ -52,13 +54,11 @@
       <item value="Typed Value" />
       <item value="and" />
       <item value="Criterion" />
-      <item value="QUERY TEAM ORG INFO CRON" />
-      <item value="Schedule Query Team Org Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
