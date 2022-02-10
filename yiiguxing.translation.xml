@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resolve Rk Type Return Enum String" />
       <item value="定额罚款专用收据" />
       <item value="专用凭证处理单" />
       <item value="lookup" />
@@ -53,12 +54,11 @@
       <item value="已使用" />
       <item value="Pjws Store Ws Tick" />
       <item value="for" />
-      <item value="true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
