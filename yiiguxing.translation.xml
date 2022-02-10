@@ -4,6 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Pjws All Tick Query Vo" />
+      <item value="book Code" />
+      <item value="vue Type Code" />
+      <item value="vue Class Type Code" />
+      <item value="et-all Tick" />
+      <item value="tick Query Vo" />
+      <item value="null" />
+      <item value="get Data Table" />
+      <item value="date" />
+      <item value="Base Controller" />
+      <item value="Pjws All Library Query Vo" />
+      <item value="get All Library" />
+      <item value="author" />
+      <item value="get All Tick" />
+      <item value="查询所有的单号票据总库数据列表" />
+      <item value="DEBUG" />
+      <item value="start code" />
+      <item value="debug" />
+      <item value="select By Id" />
+      <item value="Preparing" />
+      <item value="SELECT" />
+      <item value="ROW ID" />
       <item value="Servlet" />
       <item value="being" />
       <item value="print If Info Enabled" />
@@ -11,8 +33,6 @@
       <item value="Typed Value" />
       <item value="and" />
       <item value="Criterion" />
-      <item value="author" />
-      <item value="date" />
       <item value="QUERY TEAM ORG INFO CRON" />
       <item value="Schedule Query Team Org Info" />
       <item value="add Listener" />
@@ -34,37 +54,19 @@
       <item value="V Acall" />
       <item value="handle Save Process Cancel Store Data List" />
       <item value="_row ids" />
-      <item value="index Of" />
-      <item value="作废原因" />
-      <item value="Application Context Aware" />
-      <item value="Application Event Publisher Aware" />
-      <item value="add Shutdown Hook" />
-      <item value="Feature" />
-      <item value="Functional Interface" />
-      <item value="user To Void Book Relation List" />
-      <item value="get Operation" />
-      <item value="Pjws Book Relation" />
-      <item value="IS CALLBACK" />
-      <item value="book Relation" />
-      <item value="classes" />
-      <item value="njdtxzzf" />
-      <item value="selected" />
-      <item value="is Multi Instance" />
-      <item value="d 0 eeae 1 f-889 a-4 cd 8-a 710-340 e 285268 ea config-0" />
-      <item value="Override" />
-      <item value="special Voucher Processing Order Data" />
-      <item value="Pjws Repeat Verify Result Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SAMOAN" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
