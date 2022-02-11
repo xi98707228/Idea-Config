@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Reflections Reflections" />
+      <item value="load Nacos Data" />
+      <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync andor @EnableCaching." />
+      <item value="The bean 'userMapper' could not be injected because it is a JDK dynamic proxy" />
+      <item value="Logging Failure Analysis Reporter" />
       <item value="2022-02-11T11:46:23+08:00 [" />
       <item value="Guarantee Ld Integral Mapper" />
       <item value="WARNING" />
@@ -49,16 +54,11 @@
       <item value="get Loss" />
       <item value="resolve Rk Type Return Enum String" />
       <item value="定额罚款专用收据" />
-      <item value="专用凭证处理单" />
-      <item value="lookup" />
-      <item value="Pjws All Tick Query Vo" />
-      <item value="book Code" />
-      <item value="vue Type Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
