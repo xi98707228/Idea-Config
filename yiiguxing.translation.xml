@@ -3,7 +3,33 @@
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Appender Ref Action" />
+      <item value="Logger" />
+      <item value="appender" />
+      <item value="Attaching" />
+      <item value="Logger Action" />
+      <item value="Spring" />
+      <item value="Initializing" />
+      <item value="Web Application Context" />
+      <item value="embedded" />
+      <item value="remove Abandoned" />
+      <item value="production" />
+      <item value="tick Library" />
+      <item value="order Direction" />
+      <item value="newIndexAction-showTaskTodoList" />
+      <item value="newIndexAction-showTaskTodoList newIndexAction-showTaskTodoList" />
+      <item value="action" />
+      <item value="New Index Action" />
+      <item value="show Task Todo List" />
+      <item value="new Index Action" />
+      <item value="book Id" />
+      <item value="String Redis Serializer" />
+      <item value="Redis Template" />
+      <item value="extends" />
+      <item value="Redis Accessor" />
+      <item value="Process Engine String Pool" />
       <item value="debug" />
       <item value="select List" />
       <item value="SELECT" />
@@ -29,39 +55,15 @@
       <item value="Calendar" />
       <item value="was cached in the local repository, resolution will not be reattempted until the update interval of nexus-aliyun has elapsed or updates are forced -&gt; [Help 1]" />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="After correcting the problems, you can resume the build with the command" />
-      <item value="switch" />
-      <item value="Maven" />
-      <item value="trace" />
-      <item value="ERROR" />
-      <item value="fter correcting the problems, you can resume the build with the command" />
-      <item value="Finished" />
-      <item value="order Direction" />
-      <item value="validate Jar File" />
-      <item value="is Give Book Relation" />
-      <item value="lambda" />
-      <item value="Pjws Book Relation" />
-      <item value="eq" />
-      <item value="Jared Levy" />
-      <item value="View Caching Abstract Map" />
-      <item value="Can Ignore Return Value" />
-      <item value="permissions" />
-      <item value="log Exceptions" />
-      <item value="JDBC Exception Reporter" />
-      <item value="page Num" />
-      <item value="TAG QUOTE ASCII CHAR" />
-      <item value="custom Page" />
-      <item value="current Timestr" />
-      <item value="for Class" />
-      <item value="operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
+        <entry key="DANISH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
-        <entry key="FINNISH" value="1" />
+        <entry key="FINNISH" value="3" />
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="3" />
