@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="newIndexAction-showTaskList newIndexAction-showTaskList newIndexAction-showTaskList" />
+      <item value="new Index Action-show Task List" />
+      <item value="tick Code" />
       <item value="Reflections Reflections" />
       <item value="load Nacos Data" />
       <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync andor @EnableCaching." />
@@ -51,16 +54,14 @@
       <item value="tick" />
       <item value="equals" />
       <item value="get Use Flag" />
-      <item value="get Loss" />
-      <item value="resolve Rk Type Return Enum String" />
-      <item value="定额罚款专用收据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="3" />
