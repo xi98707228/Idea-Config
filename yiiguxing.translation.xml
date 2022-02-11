@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="track Task" />
+      <item value="get Instance" />
+      <item value="Calendar" />
+      <item value="was cached in the local repository, resolution will not be reattempted until the update interval of nexus-aliyun has elapsed or updates are forced -&gt; [Help 1]" />
+      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
+      <item value="After correcting the problems, you can resume the build with the command" />
+      <item value="switch" />
+      <item value="Maven" />
+      <item value="trace" />
+      <item value="ERROR" />
+      <item value="fter correcting the problems, you can resume the build with the command" />
+      <item value="Finished" />
+      <item value="order Direction" />
       <item value="validate Jar File" />
       <item value="is Give Book Relation" />
       <item value="lambda" />
@@ -41,24 +54,11 @@
       <item value="et-all Tick" />
       <item value="tick Query Vo" />
       <item value="null" />
-      <item value="get Data Table" />
-      <item value="date" />
-      <item value="Base Controller" />
-      <item value="Pjws All Library Query Vo" />
-      <item value="get All Library" />
-      <item value="author" />
-      <item value="get All Tick" />
-      <item value="查询所有的单号票据总库数据列表" />
-      <item value="DEBUG" />
-      <item value="start code" />
-      <item value="debug" />
-      <item value="select By Id" />
-      <item value="Preparing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
