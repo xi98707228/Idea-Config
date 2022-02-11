@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="validate Jar File" />
+      <item value="is Give Book Relation" />
+      <item value="lambda" />
+      <item value="Pjws Book Relation" />
+      <item value="eq" />
+      <item value="Jared Levy" />
+      <item value="View Caching Abstract Map" />
+      <item value="Can Ignore Return Value" />
+      <item value="permissions" />
       <item value="log Exceptions" />
       <item value="JDBC Exception Reporter" />
       <item value="page Num" />
@@ -45,20 +54,11 @@
       <item value="debug" />
       <item value="select By Id" />
       <item value="Preparing" />
-      <item value="SELECT" />
-      <item value="ROW ID" />
-      <item value="Servlet" />
-      <item value="being" />
-      <item value="print If Info Enabled" />
-      <item value="Unable" />
-      <item value="Typed Value" />
-      <item value="and" />
-      <item value="Criterion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRISIAN" value="1" />
