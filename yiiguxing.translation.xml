@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="found" />
+      <item value="get User From Cache" />
+      <item value="User Details" />
+      <item value="Abstract User Details Authentication Provider" />
+      <item value="Alex" />
+      <item value="Ben" />
+      <item value="author" />
+      <item value="Ben Alex" />
+      <item value="Jaas Name Callback Handler" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,remakes,is_use,end_use_time,create_time,create_user_nick_name FROM mag_sp' at line 1 The error may exist in comruoyiprojectmanagespareinstrumentmapperMagSpareInternalNumberLogMapper.java (best guess)" />
       <item value="Preparing" />
       <item value="select List" />
@@ -17,7 +26,6 @@
       <item value="Serializable" />
       <item value="Mag Spare Internal Number Log" />
       <item value="data" />
-      <item value="author" />
       <item value="2022" />
       <item value="get Data List" />
       <item value="获取历史使用过的内部编号数据列表" />
@@ -47,25 +55,17 @@
       <item value="Nested" />
       <item value="download" />
       <item value="file Module" />
-      <item value="show Report Data" />
-      <item value="intern" />
-      <item value="维保项目" />
-      <item value="WEI BAO" />
-      <item value="其他" />
-      <item value="QI TA" />
-      <item value="CGLIB CLASS SEPARATOR" />
-      <item value="Dynamic Unadvised Exposed Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="3" />
         <entry key="FRISIAN" value="1" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
