@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CURRENT INTERNAL NUMBER REDIS KEY" />
+      <item value="IS OFF" />
+      <item value="get Status Code" />
       <item value="found" />
       <item value="get User From Cache" />
       <item value="User Details" />
@@ -52,14 +55,11 @@
       <item value="hubin miemie HCL" />
       <item value="HCL" />
       <item value="miemie" />
-      <item value="Nested" />
-      <item value="download" />
-      <item value="file Module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
