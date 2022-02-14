@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="intern" />
+      <item value="维保项目" />
+      <item value="WEI BAO" />
+      <item value="其他" />
+      <item value="QI TA" />
       <item value="CGLIB CLASS SEPARATOR" />
       <item value="Dynamic Unadvised Exposed Interceptor" />
       <item value="get Status Name" />
@@ -50,16 +55,11 @@
       <item value="new Index Action-show Task List" />
       <item value="tick Code" />
       <item value="Reflections Reflections" />
-      <item value="load Nacos Data" />
-      <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync andor @EnableCaching." />
-      <item value="The bean 'userMapper' could not be injected because it is a JDK dynamic proxy" />
-      <item value="Logging Failure Analysis Reporter" />
-      <item value="2022-02-11T11:46:23+08:00 [" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="316" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
@@ -67,6 +67,7 @@
         <entry key="FRISIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="3" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SAMOAN" value="1" />
         <entry key="SLOVAK" value="1" />
@@ -76,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644369472256" />
+    <option name="lastTrimTime" value="1644801773453" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
