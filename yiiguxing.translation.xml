@@ -5,7 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Is Use Internal Number" />
+      <item value="Redis键" />
+      <item value="Spring Boot Servlet Initializer" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="3 SSJU 371644824585163_Cluster Manager" />
+      <item value="internal After Statement Execute" />
+      <item value="Mag Spare Internal Number Log" />
+      <item value="is Null" />
       <item value="CURRENT INTERNAL NUMBER REDIS KEY" />
+      <item value="current Internal Number Redis Cache" />
+      <item value="save Status" />
+      <item value="当前编号出现重复" />
+      <item value="mag Spare Internal Number Log Service" />
       <item value="IS OFF" />
       <item value="get Status Code" />
       <item value="found" />
@@ -27,7 +39,6 @@
       <item value="public" />
       <item value="verify Repeat Input Internal Number" />
       <item value="Serializable" />
-      <item value="Mag Spare Internal Number Log" />
       <item value="data" />
       <item value="2022" />
       <item value="get Data List" />
@@ -44,22 +55,11 @@
       <item value="default" />
       <item value="mag Spare Internal Number Log Mapper" />
       <item value="lambda" />
-      <item value="Override" />
-      <item value="change Reverse" />
-      <item value="get Sql Segment" />
-      <item value="transform List" />
-      <item value="Merge Segments" />
-      <item value="object Field Offset" />
-      <item value="Doug Lea" />
-      <item value="param Name Seq" />
-      <item value="hubin miemie HCL" />
-      <item value="HCL" />
-      <item value="miemie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
