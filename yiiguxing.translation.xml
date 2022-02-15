@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="可以写数据字典来控制" />
+      <item value="height" />
+      <item value="double" />
+      <item value="default" />
+      <item value="width" />
       <item value="Mapper Factory Bean" />
       <item value="poolable Connection" />
       <item value="select Mag Spare Instrument List" />
@@ -50,16 +55,11 @@
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,remakes,is_use,end_use_time,create_time,create_user_nick_name FROM mag_sp' at line 1 The error may exist in comruoyiprojectmanagespareinstrumentmapperMagSpareInternalNumberLogMapper.java (best guess)" />
       <item value="Preparing" />
       <item value="select List" />
-      <item value="Global Exception Handler" />
-      <item value="handle Exception" />
-      <item value="change Reverse Current Internal Number Status" />
-      <item value="boolean" />
-      <item value="public" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="428" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
