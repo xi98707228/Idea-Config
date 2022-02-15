@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="comruoyiprojectcustomermapper Customer Project Contact Mapper.java" />
+      <item value="Customer Project Contact Mapper" />
+      <item value="customer" />
+      <item value="3 dadef 860 d 1 ca 71 e 36 c 8 e 7 e 13 db 04488" />
+      <item value="handle Exception" />
+      <item value="Global Exception Handler" />
+      <item value="SQL Integrity Constraint Violation Exception" />
+      <item value="Total" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="clinit" />
       <item value="使用迭代器" />
       <item value="Iterator" />
       <item value="Sys Dept" />
@@ -44,22 +55,11 @@
       <item value="Mapper Factory Bean" />
       <item value="poolable Connection" />
       <item value="select Mag Spare Instrument List" />
-      <item value="DESKTOP" />
-      <item value="Druid Abstract Data Source" />
-      <item value="insert Mag Spare Instrument" />
-      <item value="get Current Is Use Internal Number And Re Freshen" />
-      <item value="re Freshen Current Internal Number Cache" />
-      <item value="refreshen Current Internal Number Cache" />
-      <item value="Re Freshen Current Internal Number Cache" />
-      <item value="CURRENT INTERNAL NUMBER REDIS KEY" />
-      <item value="mag Spare Internal Number Log Mapper" />
-      <item value="Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at https:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="Mag Spare Internal Number Log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
@@ -72,7 +72,7 @@
         <entry key="SAMOAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="GREEK" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
