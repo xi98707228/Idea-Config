@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="在当前客户中新增项目 , 新增更新 操作" />
+      <item value="project" />
+      <item value="Processor" />
+      <item value="Handles the {@code lombok.Synchronized} annotation for eclipse." />
+      <item value="INSTANCE LOCK NAME" />
+      <item value="STATIC LOCK NAME" />
+      <item value="Almost exactly like putting the 'synchronized' keyword on a method, except will synchronize on a private internal Object, so that other code not under your control doesn't meddle with your thread management by locking on your own instance. &lt;p&gt; For non-static methods, a field named {@code lock} is used, and for static methods, {@code LOCK} is used. These will be generated if needed and if they aren't already present. The contents of the fields will be serializable. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSynchronized&quot;&gt;the project lombok features page for &amp;64;Synchronized&lt;a&gt;." />
+      <item value="Synchronized" />
+      <item value="Miniprogram notice" />
+      <item value="Provider For" />
+      <item value="Don't use this annotation, ever - Read the documentation." />
+      <item value="Name of static 'constructor' method to generate (blank = generate a normal constructor)." />
+      <item value="If you specify a static constructor name, then the generated constructor will be private, and instead a static factory method is created that other classes can use to create instances. We suggest the name: &quot;of&quot;, like so:" />
+      <item value="&lt;pre&gt; public @Data(staticConstructor = &quot;of&quot;) class Point { final int x, y; } &lt;pre&gt;" />
+      <item value="Default: No static constructor, instead the normal constructor is public." />
+      <item value="primary Key" />
+      <item value="operate-customer-project" />
+      <item value="Request Body" />
+      <item value="987072248" />
       <item value="不是新建用户" />
       <item value="comruoyiprojectcustomermapper Customer Project Contact Mapper.java" />
       <item value="Customer Project Contact Mapper" />
@@ -36,30 +55,12 @@
       <item value="invoke Within Transaction" />
       <item value="Transaction Aspect Support" />
       <item value="Application Health Indicator" />
-      <item value="Health Indicator" />
-      <item value="Version Context Executor" />
-      <item value="IO Context" />
-      <item value="restartedMain restartedMain restartedMain restartedMain" />
-      <item value="transient" />
-      <item value="volatile" />
-      <item value="Indicates that a field defining a constant value may be referenced from native code. The annotation may be used as a hint by tools that generate native header files to determine whether a header file is required, and if so, what declarations it should contain." />
-      <item value="Native" />
-      <item value="dept Ancestors" />
-      <item value="leader User Id" />
-      <item value="row id" />
-      <item value="customer project contact" />
-      <item value="可以写数据字典来控制" />
-      <item value="height" />
-      <item value="double" />
-      <item value="default" />
-      <item value="width" />
-      <item value="Mapper Factory Bean" />
-      <item value="poolable Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="495" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
