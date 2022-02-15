@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Is Use Internal Number And Re Freshen" />
+      <item value="re Freshen Current Internal Number Cache" />
+      <item value="refreshen Current Internal Number Cache" />
+      <item value="Re Freshen Current Internal Number Cache" />
+      <item value="CURRENT INTERNAL NUMBER REDIS KEY" />
+      <item value="mag Spare Internal Number Log Mapper" />
+      <item value="Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at https:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+      <item value="Mag Spare Internal Number Log" />
+      <item value="current Internal Number Redis Cache" />
+      <item value="is Null" />
+      <item value="lambda" />
       <item value="mag Spare Instrument Mapper" />
       <item value="synchronized" />
       <item value="verify Repeat Input Internal Number" />
@@ -16,10 +27,6 @@
       <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="3 SSJU 371644824585163_Cluster Manager" />
       <item value="internal After Statement Execute" />
-      <item value="Mag Spare Internal Number Log" />
-      <item value="is Null" />
-      <item value="CURRENT INTERNAL NUMBER REDIS KEY" />
-      <item value="current Internal Number Redis Cache" />
       <item value="save Status" />
       <item value="当前编号出现重复" />
       <item value="mag Spare Internal Number Log Service" />
@@ -48,18 +55,11 @@
       <item value="get Data List" />
       <item value="获取历史使用过的内部编号数据列表" />
       <item value="Get Mapping" />
-      <item value="Table Data Info" />
-      <item value="like" />
-      <item value="order By Desc" />
-      <item value="hubin" />
-      <item value="Joshua Bloch" />
-      <item value="Retention Policy" />
-      <item value="RUNTIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
