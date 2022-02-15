@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="author" />
+      <item value="date" />
+      <item value="param" />
       <item value="在当前客户中新增项目 , 新增更新 操作" />
       <item value="project" />
       <item value="Processor" />
@@ -52,14 +55,11 @@
       <item value="IS OFF" />
       <item value="项目默认就是未开始" />
       <item value="NOT HAVE RUNNING" />
-      <item value="invoke Within Transaction" />
-      <item value="Transaction Aspect Support" />
-      <item value="Application Health Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
@@ -70,6 +70,7 @@
         <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SAMOAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="GREEK" value="1" />
