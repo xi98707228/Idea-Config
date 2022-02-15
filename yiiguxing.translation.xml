@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mag Spare Instrument Mapper" />
+      <item value="synchronized" />
+      <item value="verify Repeat Input Internal Number" />
       <item value="fair" />
       <item value="Mapper Factory Bean" />
       <item value="get Current Is Use Internal Number" />
@@ -39,7 +42,6 @@
       <item value="change Reverse Current Internal Number Status" />
       <item value="boolean" />
       <item value="public" />
-      <item value="verify Repeat Input Internal Number" />
       <item value="Serializable" />
       <item value="data" />
       <item value="2022" />
@@ -53,13 +55,11 @@
       <item value="Joshua Bloch" />
       <item value="Retention Policy" />
       <item value="RUNTIME" />
-      <item value="FIELD" />
-      <item value="default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
