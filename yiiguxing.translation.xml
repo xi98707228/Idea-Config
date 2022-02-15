@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Application Health Indicator" />
+      <item value="Health Indicator" />
+      <item value="Version Context Executor" />
+      <item value="IO Context" />
+      <item value="restartedMain restartedMain restartedMain restartedMain" />
+      <item value="transient" />
+      <item value="volatile" />
+      <item value="Indicates that a field defining a constant value may be referenced from native code. The annotation may be used as a hint by tools that generate native header files to determine whether a header file is required, and if so, what declarations it should contain." />
+      <item value="Native" />
       <item value="dept Ancestors" />
       <item value="leader User Id" />
       <item value="row id" />
@@ -18,7 +27,6 @@
       <item value="poolable Connection" />
       <item value="select Mag Spare Instrument List" />
       <item value="DESKTOP" />
-      <item value="volatile" />
       <item value="Druid Abstract Data Source" />
       <item value="insert Mag Spare Instrument" />
       <item value="get Current Is Use Internal Number And Re Freshen" />
@@ -47,19 +55,11 @@
       <item value="mag Spare Internal Number Log Service" />
       <item value="IS OFF" />
       <item value="get Status Code" />
-      <item value="found" />
-      <item value="get User From Cache" />
-      <item value="User Details" />
-      <item value="Abstract User Details Authentication Provider" />
-      <item value="Alex" />
-      <item value="Ben" />
-      <item value="author" />
-      <item value="Ben Alex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
@@ -72,6 +72,7 @@
         <entry key="SAMOAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
