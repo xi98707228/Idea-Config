@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="987072248" />
+      <item value="back" />
+      <item value="handler-back-library" />
+      <item value="pjws-collect-handler" />
+      <item value="Pjws Collect Handler Controller" />
+      <item value="处理 -- 退回总库" />
+      <item value="date" />
+      <item value="author" />
+      <item value="For sharing of FieldAccessors. This branching structure is currently only two levels deep (i.e., one root Field and potentially many Field objects pointing to it.) If this branching structure would ever contain cycles, deadlocks can occur in annotation code." />
+      <item value="Cached field accessor created with override" />
+      <item value="This is guaranteed to be interned by the VM in the 1.4 reflection implementation" />
+      <item value="Accessible Object" />
+      <item value="No Such Field Exception" />
+      <item value="Property Count Is Not Equal" />
+      <item value="Runnable" />
+      <item value="handle Back Library" />
       <item value="iter Count" />
       <item value="Pjws Data Collect Controller" />
       <item value="查询所有的文书票据总库数据列表" />
@@ -17,8 +33,6 @@
       <item value="I Team Org Service" />
       <item value="鏍囪瘑绗" />
       <item value="qq.com" />
-      <item value="987072248" />
-      <item value="author" />
       <item value="xqh" />
       <item value="button Active" />
       <item value="delete" />
@@ -41,25 +55,11 @@
       <item value="Principal User" />
       <item value="Path Variable" />
       <item value="save Json Relation Data" />
-      <item value="custom row id" />
-      <item value="Preparing" />
-      <item value="合同结束日期" />
-      <item value="dd" />
-      <item value="MM" />
-      <item value="yyyy" />
-      <item value="select List COUNT" />
-      <item value="set Start Time" />
-      <item value="set End Time" />
-      <item value="contract File By Id" />
-      <item value="Project Status Type" />
-      <item value="在项目进行关联合同的时候" />
-      <item value="Illegal State Exception" />
-      <item value="All subclasses should override this method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="569" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
