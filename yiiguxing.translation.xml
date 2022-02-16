@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="iter Count" />
+      <item value="Pjws Data Collect Controller" />
+      <item value="查询所有的文书票据总库数据列表" />
+      <item value="Resource" />
+      <item value="Pjws Book Relation Service" />
+      <item value="pjws Book Relation Service" />
+      <item value="pjws Tick Relation Service" />
+      <item value="Pjws Store Ws Book Service" />
+      <item value="Pjws Store Ws Tick Service" />
+      <item value="I Team Org Service" />
+      <item value="鏍囪瘑绗" />
+      <item value="qq.com" />
+      <item value="987072248" />
+      <item value="author" />
+      <item value="xqh" />
+      <item value="button Active" />
+      <item value="delete" />
+      <item value="确定退回总库吗" />
+      <item value="webapps" />
+      <item value="Hbm Binder" />
+      <item value="bind Root Persistent Class Common Values" />
+      <item value="add Instance" />
+      <item value="Session Factory Impl" />
       <item value="limit Time" />
       <item value="is Multi Instance" />
       <item value="load Nacos Data" />
@@ -32,34 +55,11 @@
       <item value="在项目进行关联合同的时候" />
       <item value="Illegal State Exception" />
       <item value="All subclasses should override this method" />
-      <item value="is Annotation Present" />
-      <item value="when The Project Is Associated With The Contract" />
-      <item value="author" />
-      <item value="date" />
-      <item value="param" />
-      <item value="在当前客户中新增项目 , 新增更新 操作" />
-      <item value="project" />
-      <item value="Processor" />
-      <item value="Handles the {@code lombok.Synchronized} annotation for eclipse." />
-      <item value="INSTANCE LOCK NAME" />
-      <item value="STATIC LOCK NAME" />
-      <item value="Almost exactly like putting the 'synchronized' keyword on a method, except will synchronize on a private internal Object, so that other code not under your control doesn't meddle with your thread management by locking on your own instance. &lt;p&gt; For non-static methods, a field named {@code lock} is used, and for static methods, {@code LOCK} is used. These will be generated if needed and if they aren't already present. The contents of the fields will be serializable. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSynchronized&quot;&gt;the project lombok features page for &amp;64;Synchronized&lt;a&gt;." />
-      <item value="Synchronized" />
-      <item value="Miniprogram notice" />
-      <item value="Provider For" />
-      <item value="Don't use this annotation, ever - Read the documentation." />
-      <item value="Name of static 'constructor' method to generate (blank = generate a normal constructor)." />
-      <item value="If you specify a static constructor name, then the generated constructor will be private, and instead a static factory method is created that other classes can use to create instances. We suggest the name: &quot;of&quot;, like so:" />
-      <item value="&lt;pre&gt; public @Data(staticConstructor = &quot;of&quot;) class Point { final int x, y; } &lt;pre&gt;" />
-      <item value="Default: No static constructor, instead the normal constructor is public." />
-      <item value="primary Key" />
-      <item value="Request Body" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="542" />
+        <entry key="ENGLISH" value="543" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
@@ -76,7 +76,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
