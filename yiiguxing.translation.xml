@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="when The Project Is Associated With The Contract" />
+      <item value="在项目进行关联合同的时候" />
       <item value="author" />
       <item value="date" />
       <item value="param" />
@@ -53,13 +55,11 @@
       <item value="Project Category Enum" />
       <item value="now Date" />
       <item value="IS OFF" />
-      <item value="项目默认就是未开始" />
-      <item value="NOT HAVE RUNNING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
