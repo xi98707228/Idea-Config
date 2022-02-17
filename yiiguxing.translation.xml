@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="existing mapping for key" />
       <item value="check Invariants" />
@@ -54,12 +55,11 @@
       <item value="back" />
       <item value="handler-back-library" />
       <item value="pjws-collect-handler" />
-      <item value="处理 -- 退回总库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="640" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
