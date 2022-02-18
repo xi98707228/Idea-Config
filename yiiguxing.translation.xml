@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="custom Contract Relation Service" />
+      <item value="success" />
+      <item value="get Tree Select By Dept Id" />
+      <item value="relation Project Contract File List" />
+      <item value="获取所有的已关联合同信息" />
+      <item value="QUOTATION CONTRACT" />
       <item value="Validator" />
       <item value="Hibernate" />
       <item value="appropriate" />
@@ -29,7 +36,6 @@
       <item value="String Builder" />
       <item value="buies spare cost balance" />
       <item value="code Point Before" />
-      <item value="QUOTATION CONTRACT" />
       <item value="relation Project Instance" />
       <item value="set End Time" />
       <item value="update By Id" />
@@ -49,17 +55,11 @@
       <item value="Multipart File" />
       <item value="Create a copy, don't share the array" />
       <item value="Note: offset or count might be near -1&gt;&gt;&gt;1." />
-      <item value="verify Phone Number Repeat" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="existing mapping for key" />
-      <item value="check Invariants" />
-      <item value="Recursive invariant check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
