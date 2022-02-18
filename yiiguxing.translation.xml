@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handler" />
+      <item value="handle Back Vo" />
+      <item value="apply" />
+      <item value="pjws Book Relation Service" />
+      <item value="get Book Id" />
+      <item value="get Operation" />
+      <item value="Pjws Operation Type" />
       <item value="safe Create Security Manager" />
       <item value="SECURITY MANAGER CREATION ALREADY ATTEMPTED" />
       <item value="get Security Manager" />
@@ -48,20 +55,13 @@
       <item value="merage Excepted List Size" />
       <item value="merage Except List Size" />
       <item value="Unsupported Operation Exception" />
-      <item value="system All Phone Number" />
-      <item value="repeat Phone Number" />
-      <item value="public" />
-      <item value="CH ID" />
-      <item value="Pjws Tick Relation" />
-      <item value="Pjws Collect Handler Controller" />
-      <item value="tick Store List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="682" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="4" />
