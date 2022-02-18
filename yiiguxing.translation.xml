@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="safe Create Security Manager" />
+      <item value="SECURITY MANAGER CREATION ALREADY ATTEMPTED" />
+      <item value="get Security Manager" />
+      <item value="Class Context Security Manager" />
+      <item value="Logger Factory" />
       <item value="get Data Type" />
       <item value="Michael McCloskey" />
       <item value="String Builder" />
@@ -50,16 +55,11 @@
       <item value="Pjws Tick Relation" />
       <item value="Pjws Collect Handler Controller" />
       <item value="tick Store List" />
-      <item value="lambda" />
-      <item value="REGISTER" />
-      <item value="debug" />
-      <item value="Pjws Book Relation" />
-      <item value="Register" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="676" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
