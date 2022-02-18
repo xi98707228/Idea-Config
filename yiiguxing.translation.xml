@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Data Type" />
+      <item value="Michael McCloskey" />
+      <item value="String Builder" />
+      <item value="buies spare cost balance" />
+      <item value="code Point Before" />
       <item value="QUOTATION CONTRACT" />
       <item value="relation Project Instance" />
       <item value="set End Time" />
@@ -50,16 +55,11 @@
       <item value="debug" />
       <item value="Pjws Book Relation" />
       <item value="Register" />
-      <item value="following" />
-      <item value="Pjws Rk Status" />
-      <item value="NOT GIVE" />
-      <item value="set Zd Code" />
-      <item value="Abstract Sequential List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="ENGLISH" value="671" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="3" />
