@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="文单主键Id" />
+      <item value="query Tick Life Cycle" />
+      <item value="life Cycle" />
+      <item value="tick Id" />
+      <item value="get Effective Session Tracking Modes" />
+      <item value="Session Tracking Mode" />
+      <item value="Protocol Handler" />
+      <item value="engine" />
+      <item value="Initializing" />
+      <item value="Servlet" />
       <item value="Database Error" />
       <item value="throw Sql Exception" />
       <item value="Pooling Data Source" />
@@ -15,10 +25,8 @@
       <item value="鍏抽棴鐨勮繛鎺" />
       <item value="作废" />
       <item value="发放" />
-      <item value="tick Id" />
       <item value="TRACE" />
       <item value="Get Mapping" />
-      <item value="query Tick Life Cycle" />
       <item value="The synchronization state." />
       <item value="Count Down Latch" />
       <item value="patro Pointsl Service" />
@@ -47,19 +55,11 @@
       <item value="ae 812 f 13 db 0 e config" />
       <item value="Pjws Store Ws Tick" />
       <item value="get Book Row Id" />
-      <item value="tick Code" />
-      <item value="get Create Time" />
-      <item value="Nacos Property Source Builder" />
-      <item value="load Nacos Data" />
-      <item value="configuration" />
-      <item value="并修改其内容" />
-      <item value="Ajax Result" />
-      <item value="custom Contract Relation Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="764" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
