@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Attaching" />
       <item value="shared" />
       <item value="书本前缀" />
       <item value="jzg Assessment" />
@@ -54,12 +55,11 @@
       <item value="A synchronizer that may be exclusively owned by a thread. This class provides a basis for creating locks and related synchronizers that may entail a notion of ownership. The {@code AbstractOwnableSynchronizer} class itself does not manage or use this information. However, subclasses and tools may use appropriately maintained values to help control and monitor access and provide diagnostics." />
       <item value="The current owner of exclusive mode synchronization." />
       <item value="Sets the thread that currently owns exclusive access. A {@code null} argument indicates that no thread owns access. This method does not otherwise impose any synchronization or {@code volatile} field accesses. @param thread the owner thread" />
-      <item value="Returns the thread last set by {@code setExclusiveOwnerThread}, or {@code null} if never set. This method does not otherwise impose any synchronization or {@code volatile} field accesses. @return the owner thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="789" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
