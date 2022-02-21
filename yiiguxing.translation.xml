@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="书本前缀" />
+      <item value="jzg Assessment" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="Contended" />
+      <item value="Implementation for put and putIfAbsent" />
+      <item value="only If Absent" />
+      <item value="table Index" />
+      <item value="new Entry Index" />
+      <item value="values" />
+      <item value="Session Factory Impl" />
       <item value="put If Absent" />
       <item value="Table Info Helper" />
       <item value="pjws Data Collect Service" />
@@ -45,21 +55,11 @@
       <item value="Sets the thread that currently owns exclusive access. A {@code null} argument indicates that no thread owns access. This method does not otherwise impose any synchronization or {@code volatile} field accesses. @param thread the owner thread" />
       <item value="Returns the thread last set by {@code setExclusiveOwnerThread}, or {@code null} if never set. This method does not otherwise impose any synchronization or {@code volatile} field accesses. @return the owner thread" />
       <item value="updaters" />
-      <item value="Setup to support compareAndSet. We need to natively implement this here: For the sake of permitting future enhancements, we cannot explicitly subclass AtomicInteger, which would be efficient and useful otherwise. So, as the lesser of evils, we natively implement using hotspot intrinsics API. And while we are at it, we do the same for other CASable fields (which could otherwise be done with atomic field updaters)." />
-      <item value="CA Sable" />
-      <item value="next Offset" />
-      <item value="Returns a collection containing threads that may be waiting to acquire in exclusive mode. This has the same properties as {@link getQueuedThreads} except that it only returns those threads waiting due to an exclusive acquire." />
-      <item value="The current owner of exclusive mode synchronization" />
-      <item value="exclusive Owner Thread" />
-      <item value="Abstract Ownable Synchronizer" />
-      <item value="Used by Condition" />
-      <item value="Used by addWaiter" />
-      <item value="EXCLUSIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="787" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
