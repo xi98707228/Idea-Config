@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Database Error" />
+      <item value="throw Sql Exception" />
+      <item value="Pooling Data Source" />
+      <item value="rollback" />
+      <item value="rollback And Reset Auto Commit" />
+      <item value="transaction" />
+      <item value="driver" />
+      <item value="鍏抽棴鐨勮繛鎺" />
+      <item value="作废" />
+      <item value="发放" />
       <item value="tick Id" />
       <item value="TRACE" />
       <item value="Get Mapping" />
@@ -45,21 +55,11 @@
       <item value="并修改其内容" />
       <item value="Ajax Result" />
       <item value="custom Contract Relation Service" />
-      <item value="success" />
-      <item value="get Tree Select By Dept Id" />
-      <item value="relation Project Contract File List" />
-      <item value="获取所有的已关联合同信息" />
-      <item value="QUOTATION CONTRACT" />
-      <item value="Validator" />
-      <item value="Hibernate" />
-      <item value="appropriate" />
-      <item value="clear References Jdbc" />
-      <item value="start Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644801773453" />
+    <option name="lastTrimTime" value="1645405761482" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
