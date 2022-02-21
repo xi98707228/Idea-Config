@@ -5,10 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="文单主键Id" />
-      <item value="query Tick Life Cycle" />
+      <item value="pjws Data Collect Service" />
+      <item value="tick" />
+      <item value="query" />
       <item value="life Cycle" />
+      <item value="success" />
+      <item value="String" />
+      <item value="query View Tick Life Cycle" />
+      <item value="987072248" />
+      <item value="文单主键Id" />
       <item value="tick Id" />
+      <item value="Get Mapping" />
+      <item value="query Tick Life Cycle" />
       <item value="get Effective Session Tracking Modes" />
       <item value="Session Tracking Mode" />
       <item value="Protocol Handler" />
@@ -26,7 +34,6 @@
       <item value="作废" />
       <item value="发放" />
       <item value="TRACE" />
-      <item value="Get Mapping" />
       <item value="The synchronization state." />
       <item value="Count Down Latch" />
       <item value="patro Pointsl Service" />
@@ -48,18 +55,11 @@
       <item value="EXCLUSIVE" />
       <item value="acquire Queued" />
       <item value="try Acquire" />
-      <item value="Abstract Queued Synchronizer" />
-      <item value="Synchronization control For CountDownLatch. Uses AQS state to represent count." />
-      <item value="count Down" />
-      <item value="A synchronization aid that allows one or more threads to wait until a set of operations being performed in other threads completes. &lt;p&gt;A {@code CountDownLatch} is initialized with a given &lt;em&gt;count&lt;em&gt;. The {@link await await} methods block until the current count reaches zero due to invocations of the {@link countDown} method, after which all waiting threads are released and any subsequent invocations of {@link await await} return immediately. This is a one-shot phenomenon -- the count cannot be reset. If you need a version that resets the count, consider using a {@link CyclicBarrier}. &lt;p&gt;A {@code CountDownLatch} is a versatile synchronization tool and can be used for a number of purposes. A {@code CountDownLatch} initialized with a count of one serves as a simple onoff latch, or gate: all threads invoking {@link await await} wait at the gate until it is opened by a thread invoking {@link countDown}. A {@code CountDownLatch} initialized to &lt;em&gt;N&lt;em&gt; can be used to make one thread wait until &lt;em&gt;N&lt;em&gt; threads have completed some action, or some action has been completed N times. &lt;p&gt;A useful property of a {@code CountDownLatch} is that it doesn't require that threads calling {@code countDown} wait for the count to reach zero before proceeding, it simply prevents any thread from proceeding past an {@link await await} until all threads could pass. &lt;p&gt;&lt;b&gt;Sample usage:&lt;b&gt; Here is a pair of classes in which a group of worker threads use two countdown latches: &lt;ul&gt; &lt;li&gt;The first is a start signal that prevents any worker from proceeding until the driver is ready for them to proceed; &lt;li&gt;The second is a completion signal that allows the driver to wait until all workers have completed. &lt;ul&gt; &lt;pre&gt; {@code class Driver { ... void main() throws InterruptedException { CountDownLatch startSignal = new CountDownLatch(1); CountDownLatch doneSignal = new CountDownLatch(N); for (int i = 0; i &lt; N; ++i) create and start threads new Thread(new Worker(startSignal, doneSignal)).start(); doSomethingElse(); don't let run yet startSignal.countDown(); let all threads proceed doSomethingElse(); doneSignal.await(); wait for all to finish } } class Worker implements Runnable { private final CountDownLatch startSignal; private final CountDownLatch doneSignal; Worker(CountDownLatch startSignal, CountDownLatch doneSignal) { this.startSignal = startSignal; this.doneSignal = doneSignal; } public void run() { try { startSignal.await(); doWork(); doneSignal.countDown(); } catch (InterruptedException ex) {} return; } void doWork() { ... } }}&lt;pre&gt; &lt;p&gt;Another typical usage would be to divide a problem into N parts, describe each part with a Runnable that executes that portion and counts down on the latch, and queue all the Runnables to an Executor. When all sub-parts are complete, the coordinating thread will be able to pass through await. (When threads must repeatedly count down in this way, instead use a {@link CyclicBarrier}.) &lt;pre&gt; {@code class Driver2 { ... void main() throws InterruptedException { CountDownLatch doneSignal = new CountDownLatch(N); Executor e = ... for (int i = 0; i &lt; N; ++i) create and start threads e.execute(new WorkerRunnable(doneSignal, i)); doneSignal.await(); wait for all to finish } } class WorkerRunnable implements Runnable { private final CountDownLatch doneSignal; private final int i; WorkerRunnable(CountDownLatch doneSignal, int i) { this.doneSignal = doneSignal; this.i = i; } public void run() { try { doWork(i); doneSignal.countDown(); } catch (InterruptedException ex) {} return; } void doWork() { ... } }}&lt;pre&gt; &lt;p&gt;Memory consistency effects: Until the count reaches zero, actions in a thread prior to calling {@code countDown()} &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions following a successful return from a corresponding {@code await()} in another thread." />
-      <item value="ae 812 f 13 db 0 e config" />
-      <item value="Pjws Store Ws Tick" />
-      <item value="get Book Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="774" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
