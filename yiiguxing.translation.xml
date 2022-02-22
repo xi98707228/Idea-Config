@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="select Menu List By Role Id" />
       <item value="get Money Num" />
       <item value="JNDI" />
       <item value="temp Bind Point Variable" />
@@ -54,12 +55,11 @@
       <item value="鍏抽棴鐨勮繛鎺" />
       <item value="作废" />
       <item value="发放" />
-      <item value="TRACE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="795" />
+        <entry key="ENGLISH" value="796" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
