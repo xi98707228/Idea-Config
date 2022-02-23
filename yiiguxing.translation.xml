@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="assignment" />
+      <item value="保存保存" />
+      <item value="pjws Loss Index" />
       <item value="compose" />
       <item value="eturns a composed function that first applies the before function to its input, and then applies this function to the result. If evaluation of either function throws an exception, it is relayed to the caller of the composed function." />
       <item value="Compile-Time Checking of Exceptions" />
@@ -52,14 +55,11 @@
       <item value="tick" />
       <item value="query" />
       <item value="life Cycle" />
-      <item value="success" />
-      <item value="String" />
-      <item value="query View Tick Life Cycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="816" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
