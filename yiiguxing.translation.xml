@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="list" />
+      <item value="get" />
+      <item value="index" />
+      <item value="Table Data Info" />
+      <item value="get Index Data List" />
+      <item value="get Data Table" />
+      <item value="遗失管理列表中批量管理遗失申请" />
       <item value="apply user id" />
       <item value="apply time" />
       <item value="startcode" />
@@ -39,7 +48,6 @@
       <item value="success" />
       <item value="String" />
       <item value="query View Tick Life Cycle" />
-      <item value="987072248" />
       <item value="文单主键Id" />
       <item value="tick Id" />
       <item value="Get Mapping" />
@@ -47,22 +55,14 @@
       <item value="get Effective Session Tracking Modes" />
       <item value="Session Tracking Mode" />
       <item value="Protocol Handler" />
-      <item value="engine" />
-      <item value="Initializing" />
-      <item value="Servlet" />
-      <item value="Database Error" />
-      <item value="throw Sql Exception" />
-      <item value="Pooling Data Source" />
-      <item value="rollback" />
-      <item value="rollback And Reset Auto Commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="812" />
+        <entry key="ENGLISH" value="811" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="4" />
         <entry key="FRISIAN" value="1" />
