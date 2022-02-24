@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transport" />
+      <item value="of Minutes" />
+      <item value="Duration Unit" />
+      <item value="Nested Configuration Property" />
       <item value="Preparing" />
       <item value="get Process Relation Tick Data List" />
       <item value="cron" />
@@ -51,15 +55,11 @@
       <item value="[ERROR] 'dependencies.dependency.version' for org.apache.poi:poi-ooxml:jar is missing. @ line 111, column 21" />
       <item value="Ant Path Matcher" />
       <item value="Attaching" />
-      <item value="shared" />
-      <item value="书本前缀" />
-      <item value="jzg Assessment" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="834" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
