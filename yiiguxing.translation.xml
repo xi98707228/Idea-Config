@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Xz Manage Server Application" />
+      <item value="songzhouyang" />
+      <item value="Suppress Warnings" />
+      <item value="scheduler Factory NON CLUSTERED" />
+      <item value="Commons Logger" />
+      <item value="strategy" />
+      <item value="Setting" />
+      <item value="autowire" />
+      <item value="successfully" />
+      <item value="njdtxzzf" />
+      <item value="Artifact" />
+      <item value="exploded" />
+      <item value="Tld Locations Cache" />
+      <item value="advice Value" />
       <item value="Parameters" />
       <item value="String Scope Utils" />
       <item value="update" />
@@ -41,25 +55,11 @@
       <item value="wait Remove Current Loss Index Relation Data List" />
       <item value="Pjws Tick Relation" />
       <item value="assignment" />
-      <item value="保存保存" />
-      <item value="pjws Loss Index" />
-      <item value="compose" />
-      <item value="eturns a composed function that first applies the before function to its input, and then applies this function to the result. If evaluation of either function throws an exception, it is relayed to the caller of the composed function." />
-      <item value="Compile-Time Checking of Exceptions" />
-      <item value="jls" />
-      <item value="serial Version UID" />
-      <item value="Frank Yellin" />
-      <item value="Exception" />
-      <item value="qq" />
-      <item value="987072248" />
-      <item value="list" />
-      <item value="get" />
-      <item value="index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="862" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />

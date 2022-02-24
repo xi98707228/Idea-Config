@@ -128,7 +128,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*Exception.*" />
+                      <option name="grepExpression" value=".*Exception:.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
