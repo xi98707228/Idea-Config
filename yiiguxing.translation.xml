@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="update" />
       <item value="get Tickcode" />
       <item value="EQ task Id" />
       <item value="flag" />
@@ -54,12 +55,11 @@
       <item value="index" />
       <item value="Table Data Info" />
       <item value="get Index Data List" />
-      <item value="get Data Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
