@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Tickcode" />
+      <item value="EQ task Id" />
+      <item value="flag" />
+      <item value="pjws Store Ws Tick Service" />
+      <item value="已使用" />
       <item value="find False Pay List" />
       <item value="鎺堟潈鏁版嵁鏇存柊缁撴潫===================" />
       <item value="鎺堟潈鏁版嵁鏇存柊缁撴潫" />
@@ -50,16 +55,11 @@
       <item value="Table Data Info" />
       <item value="get Index Data List" />
       <item value="get Data Table" />
-      <item value="遗失管理列表中批量管理遗失申请" />
-      <item value="apply user id" />
-      <item value="apply time" />
-      <item value="startcode" />
-      <item value="apply user name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="841" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
