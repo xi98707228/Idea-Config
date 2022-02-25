@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Table Info Helper" />
+      <item value="init Table Fields" />
+      <item value="primary" />
       <item value="Sign Login Service" />
       <item value="load-balancer" />
       <item value="terminal-security" />
@@ -52,14 +55,11 @@
       <item value="Preparing" />
       <item value="get Process Relation Tick Data List" />
       <item value="cron" />
-      <item value="Task Description" />
-      <item value="Returns {@code true} if the provided reference is non-{@code null} otherwise returns {@code false}. @apiNote This method exists to be used as a {@link java.util.function.Predicate}, {@code filter(Objects::nonNull)} @param obj a reference to be checked against {@code null} @return {@code true} if the provided reference is non-{@code null} otherwise {@code false} @see java.util.function.Predicate @since 1.8" />
-      <item value="选择的数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="875" />
+        <entry key="ENGLISH" value="876" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
