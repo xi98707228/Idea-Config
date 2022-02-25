@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then {@code false} is returned and the predicate is not evaluated. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;short-circuiting terminal operation&lt;a&gt;. @apiNote This method evaluates the &lt;em&gt;existential quantification&lt;em&gt; of the predicate over the elements of the stream (for some x P(x)). @param predicate a &lt;a href=&quot;package-summary.htmlNonInterference&quot;&gt;non-interfering&lt;a&gt;, &lt;a href=&quot;package-summary.htmlStatelessness&quot;&gt;stateless&lt;a&gt; predicate to apply to elements of this stream @return {@code true} if any elements of the stream match the provided predicate, otherwise {@code false}" />
+      <item value="any Match" />
+      <item value="all Match" />
       <item value="Xz Manage Server Application" />
       <item value="songzhouyang" />
       <item value="Suppress Warnings" />
@@ -52,14 +55,11 @@
       <item value="add Cache Data If Absent" />
       <item value="is Changed Service Info" />
       <item value="待删除的当前遗失流程关联的Relation记录数据列表Row Id" />
-      <item value="wait Remove Current Loss Index Relation Data List" />
-      <item value="Pjws Tick Relation" />
-      <item value="assignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="863" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="864" />
+        <entry key="ENGLISH" value="865" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
