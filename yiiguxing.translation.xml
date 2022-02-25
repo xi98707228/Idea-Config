@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Field number for &lt;code&gt;get&lt;code&gt; and &lt;code&gt;set&lt;code&gt; indicating the day of the month. This is a synonym for &lt;code&gt;DAY_OF_MONTH&lt;code&gt;. The first day of the month has value 1." />
+      <item value="Field number for &lt;code&gt;get&lt;code&gt; and &lt;code&gt;set&lt;code&gt; indicating the day of the month. This is a synonym for &lt;code&gt;DATE&lt;code&gt;. The first day of the month has value 1." />
+      <item value="get Specified Day Before" />
       <item value="statistics Days" />
       <item value="init Current Statistics Time Line Field" />
       <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria: &lt;p&gt; &lt;ul&gt; &lt;li&gt;The method MUST NOT have any parameters except in the case of interceptors in which case it takes an InvocationContext object as defined by the Interceptors specification.&lt;li&gt; &lt;li&gt;The method defined on an interceptor class MUST HAVE one of the following signatures: &lt;p&gt; void &amp;060;METHOD&amp;062;(InvocationContext) &lt;p&gt; Object &amp;060;METHOD&amp;062;(InvocationContext) throws Exception &lt;p&gt; &lt;i&gt;Note: A PostConstruct interceptor method must not throw application exceptions, but it may be declared to throw checked exceptions including the java.lang.Exception if the same interceptor method interposes on business or timeout methods in addition to lifecycle events. If a PostConstruct interceptor method returns a value, it is ignored by the container.&lt;i&gt; &lt;li&gt; &lt;li&gt;The method defined on a non-interceptor class MUST HAVE the following signature: &lt;p&gt; void &amp;060;METHOD&amp;062;() &lt;li&gt; &lt;li&gt;The method on which PostConstruct is applied MAY be public, protected, package private or private.&lt;li&gt; &lt;li&gt;The method MUST NOT be static except for the application client.&lt;li&gt; &lt;li&gt;The method MAY be final.&lt;li&gt; &lt;li&gt;If the method throws an unchecked exception the class MUST NOT be put into service except in the case of EJBs where the EJB can handle exceptions and even recover from them.&lt;li&gt;&lt;ul&gt; @since Common Annotations 1.0 @see javax.annotation.PreDestroy" />
@@ -52,14 +55,11 @@
       <item value="鎺堟潈鏁版嵁鏇存柊缁撴潫===================" />
       <item value="鎺堟潈鏁版嵁鏇存柊缁撴潫" />
       <item value="login User Name" />
-      <item value="Security Utils" />
-      <item value="get Login User" />
-      <item value="parse Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="889" />
+        <entry key="ENGLISH" value="890" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
