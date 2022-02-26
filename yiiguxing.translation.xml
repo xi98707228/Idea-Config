@@ -5,14 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Handle Statistics Dispatcher" />
+      <item value="Environment Capable" />
+      <item value="Listable Bean Factory" />
+      <item value="Parameters" />
+      <item value="Druid Abstract Data Source" />
+      <item value="Inject Data Mapper" />
+      <item value="ditiedasha" />
       <item value="get Id" />
       <item value="statistics Config" />
       <item value="Device Info" />
       <item value="获取所有设备标签" />
-      <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
       <item value="device Tags" />
-      <item value="Handle Statistics Dispatcher" />
       <item value="Terminal Pool" />
       <item value="handle Dispatcher Statistics" />
       <item value="Field number for &lt;code&gt;get&lt;code&gt; and &lt;code&gt;set&lt;code&gt; indicating the day of the month. This is a synonym for &lt;code&gt;DAY_OF_MONTH&lt;code&gt;. The first day of the month has value 1." />
@@ -50,16 +55,11 @@
       <item value="successfully" />
       <item value="njdtxzzf" />
       <item value="Artifact" />
-      <item value="exploded" />
-      <item value="Tld Locations Cache" />
-      <item value="advice Value" />
-      <item value="Parameters" />
-      <item value="String Scope Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="908" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645405761482" />
+    <option name="lastTrimTime" value="1645841312226" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
