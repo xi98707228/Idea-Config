@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="并且不是保存使用物料" />
+      <item value="isBuinessOperate Then Assert buiesId" />
+      <item value="name is consistent with reflection API" />
+      <item value="operate Spare Data List" />
+      <item value="987072248" />
+      <item value="relation Spare List" />
+      <item value="只能在负责人处理的时候进行" />
       <item value="find Pay History By Tick Id" />
       <item value="vacjy R List" />
       <item value="get Row Id" />
@@ -48,18 +55,11 @@
       <item value="get Id" />
       <item value="statistics Config" />
       <item value="Device Info" />
-      <item value="获取所有设备标签" />
-      <item value="test Connection Internal" />
-      <item value="device Tags" />
-      <item value="Terminal Pool" />
-      <item value="handle Dispatcher Statistics" />
-      <item value="Field number for &lt;code&gt;get&lt;code&gt; and &lt;code&gt;set&lt;code&gt; indicating the day of the month. This is a synonym for &lt;code&gt;DAY_OF_MONTH&lt;code&gt;. The first day of the month has value 1." />
-      <item value="Field number for &lt;code&gt;get&lt;code&gt; and &lt;code&gt;set&lt;code&gt; indicating the day of the month. This is a synonym for &lt;code&gt;DATE&lt;code&gt;. The first day of the month has value 1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="954" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
