@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove By Id" />
+      <item value="Table Info Helper" />
       <item value="System Index Statistics Service" />
       <item value="Abstract System Index Statistics Service" />
       <item value="Abstract Index Statistics Service" />
@@ -47,19 +49,17 @@
       <item value="Class, interface (including annotation type), or enum declaration" />
       <item value="resolve Data Type" />
       <item value="updatatime" />
-      <item value="Table Info Helper" />
       <item value="init Table Fields" />
       <item value="primary" />
       <item value="Sign Login Service" />
       <item value="load-balancer" />
       <item value="terminal-security" />
       <item value="firewall" />
-      <item value="transfer Station" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="926" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
