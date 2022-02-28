@@ -5,4 +5,12 @@
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>

@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="conditions" />
+      <item value="reinitialize" />
+      <item value="compute If Absent" />
+      <item value="Clone Not Supported Exception" />
+      <item value="Neal Gafter" />
+      <item value="Arthur van Hoff" />
+      <item value="Josh Bloch" />
+      <item value="Doug Lea" />
+      <item value="DEFAULT LOAD FACTOR" />
+      <item value="load Factor" />
+      <item value="registering" />
+      <item value="Table Info Helper" />
+      <item value="table" />
+      <item value="td" />
       <item value="deep Equals" />
       <item value="require Non Null" />
       <item value="debug" />
@@ -41,25 +55,12 @@
       <item value="Live Reload" />
       <item value="list" />
       <item value="Array List" />
-      <item value="V Acjy Relation" />
-      <item value="Query Wrapper" />
-      <item value="get Operation" />
-      <item value="并且不是保存使用物料" />
-      <item value="isBuinessOperate Then Assert buiesId" />
-      <item value="name is consistent with reflection API" />
-      <item value="operate Spare Data List" />
-      <item value="987072248" />
-      <item value="relation Spare List" />
-      <item value="只能在负责人处理的时候进行" />
-      <item value="find Pay History By Tick Id" />
-      <item value="vacjy R List" />
-      <item value="get Row Id" />
-      <item value="index Member List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="997" />
-        <entry key="ENGLISH" value="998" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />
@@ -70,11 +71,12 @@
         <entry key="DUTCH" value="3" />
         <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="SAMOAN" value="2" />
+        <entry key="SAMOAN" value="3" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="5" />
