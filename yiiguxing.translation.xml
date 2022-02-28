@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="debug" />
+      <item value="V ACJYRELATION PW" />
+      <item value="中队缴款" />
+      <item value="SELECT" />
+      <item value="012921" />
+      <item value="operation" />
+      <item value="WHERE" />
+      <item value="count" />
+      <item value="FROM" />
+      <item value="set Application Context" />
+      <item value="Managed Resource" />
+      <item value="for a deeper and optionally more focused refresh of bean components." />
+      <item value="Rod Johnson" />
+      <item value="Juergen Hoeller" />
+      <item value="Bean Definition Parser" />
+      <item value="Default typically equals {@link NO}, unless a different default has been configured at the component-scan instruction level." />
+      <item value="Create a JDK dynamic proxy implementing &lt;i&gt;all&lt;i&gt; interfaces exposed by the class of the target object." />
+      <item value="TARGET CLASS" />
+      <item value="Scope identifier for request scope: &quot;request&quot;. Supported in addition to the standard scopes &quot;singleton&quot; and &quot;prototype&quot;." />
+      <item value="Refresh Scope" />
+      <item value="RESULT CUSTOM JSP" />
       <item value="get Edit Pjws Relaiton" />
       <item value="temp String Param" />
       <item value="temp Object Param" />
@@ -34,32 +55,11 @@
       <item value="index Member List" />
       <item value="set Builder Names" />
       <item value="ac Service" />
-      <item value="builder Name" />
-      <item value="Ac Index Member" />
-      <item value="get Cf Tick Id" />
-      <item value="deal Method" />
-      <item value="Rest Controller" />
-      <item value="edit Pjws Relation" />
-      <item value="Table Name" />
-      <item value="Data" />
-      <item value="V AC JYRELATION PW" />
-      <item value="remove By Id" />
-      <item value="Table Info Helper" />
-      <item value="System Index Statistics Service" />
-      <item value="Abstract System Index Statistics Service" />
-      <item value="Abstract Index Statistics Service" />
-      <item value="Abstract Index Statistics" />
-      <item value="Abstract" />
-      <item value="print If Info Enabled" />
-      <item value="add Cache Data If Absent" />
-      <item value="listener" />
-      <item value="config rpc client" />
-      <item value="定时清理更新Redis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="994" />
+        <entry key="ENGLISH" value="995" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />
@@ -77,7 +77,7 @@
         <entry key="SAMOAN" value="2" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="1" />
-        <entry key="GREEK" value="1" />
+        <entry key="GREEK" value="5" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="4" />
