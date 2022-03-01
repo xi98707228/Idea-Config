@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DEFAULT" />
+      <item value="Joran Configurator" />
+      <item value="cluster Name" />
+      <item value="4 d 02892181 bd config" />
+      <item value="code First" />
       <item value="new Index Action" />
       <item value="process Structure Utils" />
       <item value="JVMTI THREAD STATE BLOCKED ON MONITOR ENTER" />
@@ -50,16 +55,11 @@
       <item value="Class Visitor" />
       <item value="Abstract Class Generator" />
       <item value="instance Heart Beat Time Out" />
-      <item value="updater" />
-      <item value="current" />
-      <item value="process Service Info" />
-      <item value="tld Scan Jar" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1081" />
+        <entry key="CHINESE" value="1085" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
