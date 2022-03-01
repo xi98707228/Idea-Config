@@ -6,6 +6,24 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="new Index Action" />
+      <item value="process Structure Utils" />
+      <item value="JVMTI THREAD STATE BLOCKED ON MONITOR ENTER" />
+      <item value="Caller Sensitive" />
+      <item value="Unsafe mechanics" />
+      <item value="The result type returned by this Future's {@code get} method" />
+      <item value="Future" />
+      <item value="nanos" />
+      <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
+      <item value="Abstract Executor Service" />
+      <item value="Synchronization implementation for semaphore. Uses AQS state to represent permits. Subclassed into fair and nonfair versions." />
+      <item value="Semaphore" />
+      <item value="Count Down Latch" />
+      <item value="a" />
+      <item value="Illegal Argument Exception" />
+      <item value="negative" />
+      <item value="Constructs a {@code CountDownLatch} initialized with the given count. @param count the number of times {@link countDown} must be invoked before threads can pass through {@link await} @throws IllegalArgumentException if {@code count} is negative" />
+      <item value="release Shared" />
+      <item value="acquire Shared Interruptibly" />
       <item value="code Second" />
       <item value="授权执法一大队" />
       <item value="Request Param" />
@@ -37,29 +55,11 @@
       <item value="process Service Info" />
       <item value="tld Scan Jar" />
       <item value="milliseconds" />
-      <item value="debug" />
-      <item value="Enable" />
-      <item value="deployed" />
-      <item value="get Date Format Str" />
-      <item value="apply Time" />
-      <item value="select List COUNT" />
-      <item value="Query Wrapper" />
-      <item value="Parameters" />
-      <item value="select List" />
-      <item value="SELECT" />
-      <item value="PJWS PAYMENT INDEX" />
-      <item value="WHERE" />
-      <item value="ROWNUM" />
-      <item value="Pjws Payment Jk Query Vo" />
-      <item value="temp String Param" />
-      <item value="get Jk Query List" />
-      <item value="jk query list" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1063" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -79,7 +79,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="SAMOAN" value="3" />
         <entry key="SLOVAK" value="4" />
-        <entry key="SLOVENIAN" value="1" />
+        <entry key="SLOVENIAN" value="2" />
         <entry key="GREEK" value="5" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="2" />
