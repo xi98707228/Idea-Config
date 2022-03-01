@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pjws Payment Index" />
+      <item value="Ajax Result" />
+      <item value="success" />
+      <item value="pjws Payment Index Service" />
+      <item value="pay Instrance" />
+      <item value="select One" />
       <item value="An extension of ThreadLocal that obtains its initial value from the specified {@code Supplier}." />
       <item value="initial Value" />
       <item value="Supplied Thread Local" />
@@ -49,17 +55,11 @@
       <item value="Arthur van Hoff" />
       <item value="Josh Bloch" />
       <item value="Doug Lea" />
-      <item value="DEFAULT LOAD FACTOR" />
-      <item value="load Factor" />
-      <item value="registering" />
-      <item value="Table Info Helper" />
-      <item value="table" />
-      <item value="td" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1049" />
-        <entry key="ENGLISH" value="1050" />
+        <entry key="CHINESE" value="1053" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
