@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Request Param" />
+      <item value="init Process Form Data Map" />
+      <item value="Hash Map" />
+      <item value="qos" />
+      <item value="======================== 票据文书 遗失申请 start =================" />
+      <item value="start" />
+      <item value="票据文书" />
+      <item value="缴款流程" />
+      <item value="business Key" />
       <item value="Pjws Payment Index" />
       <item value="Ajax Result" />
       <item value="success" />
@@ -46,20 +55,11 @@
       <item value="author" />
       <item value="lookup" />
       <item value="work Record Org Name Clear" />
-      <item value="readonly" />
-      <item value="conditions" />
-      <item value="reinitialize" />
-      <item value="compute If Absent" />
-      <item value="Clone Not Supported Exception" />
-      <item value="Neal Gafter" />
-      <item value="Arthur van Hoff" />
-      <item value="Josh Bloch" />
-      <item value="Doug Lea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1053" />
-        <entry key="ENGLISH" value="1054" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1061" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
