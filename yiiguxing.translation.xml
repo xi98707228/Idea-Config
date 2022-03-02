@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="update" />
+      <item value="缴款流程" />
       <item value="create Row" />
       <item value="Can not" />
       <item value="Can" />
@@ -50,16 +52,14 @@
       <item value="======================== 票据文书 遗失申请 start =================" />
       <item value="start" />
       <item value="票据文书" />
-      <item value="缴款流程" />
       <item value="business Key" />
       <item value="Pjws Payment Index" />
       <item value="Ajax Result" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1111" />
+        <entry key="CHINESE" value="1111" />
+        <entry key="ENGLISH" value="1112" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
