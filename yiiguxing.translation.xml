@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="print If Info Enabled" />
       <item value="Inner Auth" />
       <item value="create Styles" />
       <item value="set Alignment" />
@@ -12,7 +13,6 @@
       <item value="update" />
       <item value="回收流程" />
       <item value="pjws Recovery Index Service" />
-      <item value="print If Info Enabled" />
       <item value="restarted Main" />
       <item value="缴款流程" />
       <item value="create Row" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1124" />
-        <entry key="ENGLISH" value="1125" />
+        <entry key="CHINESE" value="1125" />
+        <entry key="ENGLISH" value="1126" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
