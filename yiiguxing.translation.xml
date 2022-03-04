@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Output Stream" />
+      <item value="File Input Stream" />
+      <item value="Wrapper Adapter" />
       <item value="memory Char Map" />
       <item value="attachment" />
       <item value="Content" />
@@ -52,14 +55,11 @@
       <item value="nanos" />
       <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
       <item value="Abstract Executor Service" />
-      <item value="Synchronization implementation for semaphore. Uses AQS state to represent permits. Subclassed into fair and nonfair versions." />
-      <item value="Semaphore" />
-      <item value="Count Down Latch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1135" />
+        <entry key="CHINESE" value="1137" />
+        <entry key="ENGLISH" value="1138" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
