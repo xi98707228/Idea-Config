@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="relation Type" />
+      <item value="upload User Name" />
+      <item value="custom Show File Name" />
       <item value="Output Stream" />
       <item value="File Input Stream" />
       <item value="Wrapper Adapter" />
@@ -52,14 +55,11 @@
       <item value="Unsafe mechanics" />
       <item value="The result type returned by this Future's {@code get} method" />
       <item value="Future" />
-      <item value="nanos" />
-      <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
-      <item value="Abstract Executor Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1137" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="CHINESE" value="1140" />
+        <entry key="ENGLISH" value="1141" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
