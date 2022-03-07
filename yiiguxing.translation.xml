@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="skipped" />
       <item value="relation Type" />
       <item value="upload User Name" />
       <item value="custom Show File Name" />
@@ -54,12 +55,11 @@
       <item value="Caller Sensitive" />
       <item value="Unsafe mechanics" />
       <item value="The result type returned by this Future's {@code get} method" />
-      <item value="Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
