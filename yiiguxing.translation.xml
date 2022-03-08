@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Smart Class Loader" />
+      <item value="Conditional On Property" />
+      <item value="Named Bean Holder" />
+      <item value="Return the name of this bean in a Spring bean factory, if known." />
+      <item value="Rod Johnson" />
+      <item value="Extension for [ListableBeanFactory.getBeansOfType] providing a `getBeansOfType&lt;Foo&gt;()` variant." />
+      <item value="reified" />
+      <item value="compute If Absent" />
+      <item value="Used to dereference a {@link FactoryBean} instance and distinguish it from beans &lt;i&gt;created&lt;i&gt; by the FactoryBean. For example, if the bean named {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} will return the factory, not the instance returned by the factory." />
+      <item value="transformed Bean Name" />
+      <item value="Listable Bean Factory" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="Abstract Refreshable Config Application Context" />
+      <item value="produce-group Contract" />
+      <item value="produce-group" />
       <item value="proxy Row Id" />
       <item value="Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag" />
       <item value="Primary --&gt; This GroupType Proxy Not Really Instance , Then Is Record Tag" />
@@ -40,26 +55,11 @@
       <item value="Table Id" />
       <item value="Could" />
       <item value="print If Info Enabled" />
-      <item value="Inner Auth" />
-      <item value="create Styles" />
-      <item value="set Alignment" />
-      <item value="file Url" />
-      <item value="update" />
-      <item value="回收流程" />
-      <item value="pjws Recovery Index Service" />
-      <item value="restarted Main" />
-      <item value="缴款流程" />
-      <item value="create Row" />
-      <item value="Can not" />
-      <item value="Can" />
-      <item value="真正执行票据文书遗失的操作" />
-      <item value="debug" />
-      <item value="Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1155" />
-        <entry key="ENGLISH" value="1156" />
+        <entry key="CHINESE" value="1170" />
+        <entry key="ENGLISH" value="1171" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
