@@ -5,8 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="start Builder Bean" />
+      <item value="get Tree Select By Dept Id" />
       <item value="Parameters" />
+      <item value="SELECT" />
+      <item value="project row id" />
+      <item value="debug" />
+      <item value="Preparing" />
+      <item value="start Builder Bean" />
       <item value="Copy the property values of the given source bean into the target bean. &lt;p&gt;Note: The source and target classes do not have to match or even be derived from each other, as long as the properties match. Any bean properties that the source bean exposes but the target bean does not will silently be ignored. &lt;p&gt;This is just a convenience method. For more complex transfer needs, consider using a full BeanWrapper." />
       <item value="Security Utils" />
       <item value="get Login User" />
@@ -50,16 +55,11 @@
       <item value="skipped" />
       <item value="relation Type" />
       <item value="upload User Name" />
-      <item value="custom Show File Name" />
-      <item value="Output Stream" />
-      <item value="File Input Stream" />
-      <item value="Wrapper Adapter" />
-      <item value="memory Char Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1182" />
+        <entry key="CHINESE" value="1188" />
+        <entry key="ENGLISH" value="1189" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
