@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="row Id" />
+      <item value="piid" />
+      <item value="task Content" />
+      <item value="chbm" />
+      <item value="advice" />
       <item value="Appender Ref Action" />
       <item value="configuration" />
       <item value="devlop service" />
@@ -50,16 +55,12 @@
       <item value="强制添加缴款单相关" />
       <item value="all Children Tema Org Id List" />
       <item value="get Org P Id" />
-      <item value="stream" />
-      <item value="do It" />
-      <item value="param Name Value Pairs" />
-      <item value="Tarl Utils" />
-      <item value="tail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1257" />
+        <entry key="CHINESE" value="1259" />
+        <entry key="ENGLISH" value="1260" />
+        <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -71,7 +72,7 @@
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="5" />
-        <entry key="LATIN" value="3" />
+        <entry key="LATIN" value="4" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
