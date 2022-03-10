@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add" />
+      <item value="result Acjy Relation List" />
+      <item value="is Parallel" />
+      <item value="Terminal Op" />
+      <item value="evaluate" />
+      <item value="previous Stage" />
+      <item value="The &quot;upstream&quot; pipeline, or null if this is the source stage." />
+      <item value="Abstract Pipeline" />
+      <item value="Stateless Op" />
+      <item value="Override" />
+      <item value="强制添加缴款单相关" />
+      <item value="all Children Tema Org Id List" />
+      <item value="get Org P Id" />
+      <item value="stream" />
       <item value="do It" />
       <item value="param Name Value Pairs" />
       <item value="Tarl Utils" />
@@ -41,25 +55,11 @@
       <item value="Group Contract Type" />
       <item value="Smart Class Loader" />
       <item value="Conditional On Property" />
-      <item value="Named Bean Holder" />
-      <item value="Return the name of this bean in a Spring bean factory, if known." />
-      <item value="Rod Johnson" />
-      <item value="Extension for [ListableBeanFactory.getBeansOfType] providing a `getBeansOfType&lt;Foo&gt;()` variant." />
-      <item value="reified" />
-      <item value="compute If Absent" />
-      <item value="Used to dereference a {@link FactoryBean} instance and distinguish it from beans &lt;i&gt;created&lt;i&gt; by the FactoryBean. For example, if the bean named {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} will return the factory, not the instance returned by the factory." />
-      <item value="transformed Bean Name" />
-      <item value="Listable Bean Factory" />
-      <item value="Hierarchical Bean Factory" />
-      <item value="Abstract Refreshable Config Application Context" />
-      <item value="produce-group Contract" />
-      <item value="produce-group" />
-      <item value="Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -69,7 +69,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="4" />
         <entry key="FRISIAN" value="1" />
-        <entry key="DUTCH" value="3" />
+        <entry key="DUTCH" value="5" />
         <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
