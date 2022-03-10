@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Qz Edit Payment Data List" />
       <item value="Server List Factory" />
       <item value="set Builder Names" />
       <item value="http" />
@@ -54,12 +55,11 @@
       <item value="CHILD" />
       <item value="file Module" />
       <item value="show Image" />
-      <item value="show File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="1203" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
