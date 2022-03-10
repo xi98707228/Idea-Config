@@ -5,7 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ac Index Members" />
+      <item value="Pjws Tick Relation" />
+      <item value="tick" />
       <item value="add" />
+      <item value="avjy List" />
+      <item value="DEBUG" />
+      <item value="SELECT" />
+      <item value="select List COUNT" />
+      <item value="select List" />
+      <item value="debug" />
+      <item value="exec" />
+      <item value="8993" />
+      <item value="Parameters" />
+      <item value="Query Wrapper" />
+      <item value="v Acjy Relation Service" />
+      <item value="list" />
+      <item value="lambda" />
+      <item value="Simple Entry" />
+      <item value="Simple Immutable Entry" />
+      <item value="nacos" />
+      <item value="cloud" />
+      <item value="alibaba" />
+      <item value="Nacos Property Source Builder" />
+      <item value="INFO" />
+      <item value="restarted Main" />
+      <item value="flag" />
+      <item value="get Cf Tick Id" />
+      <item value="index Of" />
       <item value="result Acjy Relation List" />
       <item value="is Parallel" />
       <item value="Terminal Op" />
@@ -28,38 +55,11 @@
       <item value="get Qz Edit Payment Data List" />
       <item value="Server List Factory" />
       <item value="set Builder Names" />
-      <item value="http" />
-      <item value="select List COUNT" />
-      <item value="exec" />
-      <item value="DEBUG" />
-      <item value="V TASK WORKITEM" />
-      <item value="running" />
-      <item value="Parameters" />
-      <item value="Chunk Tokenizer" />
-      <item value="grab the remaining chunk" />
-      <item value="feign" />
-      <item value="get Tree Select By Dept Id" />
-      <item value="SELECT" />
-      <item value="project row id" />
-      <item value="debug" />
-      <item value="Preparing" />
-      <item value="start Builder Bean" />
-      <item value="Copy the property values of the given source bean into the target bean. &lt;p&gt;Note: The source and target classes do not have to match or even be derived from each other, as long as the properties match. Any bean properties that the source bean exposes but the target bean does not will silently be ignored. &lt;p&gt;This is just a convenience method. For more complex transfer needs, consider using a full BeanWrapper." />
-      <item value="Security Utils" />
-      <item value="get Login User" />
-      <item value="i Customer Manage Service" />
-      <item value="proxy Row Id" />
-      <item value="contract Group" />
-      <item value="Peter Jones" />
-      <item value="rawtypes" />
-      <item value="Group Contract Type" />
-      <item value="Smart Class Loader" />
-      <item value="Conditional On Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1253" />
+        <entry key="ENGLISH" value="1254" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -80,6 +80,7 @@
         <entry key="SAMOAN" value="3" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="2" />
+        <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="5" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
