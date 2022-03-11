@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="白色" />
+      <item value="contains Any" />
       <item value="Task Export Wapper" />
       <item value="captcha" />
       <item value="row Id" />
@@ -53,13 +55,11 @@
       <item value="The &quot;upstream&quot; pipeline, or null if this is the source stage." />
       <item value="Abstract Pipeline" />
       <item value="Stateless Op" />
-      <item value="Override" />
-      <item value="强制添加缴款单相关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1261" />
-        <entry key="ENGLISH" value="1261" />
+        <entry key="CHINESE" value="1262" />
+        <entry key="ENGLISH" value="1262" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
