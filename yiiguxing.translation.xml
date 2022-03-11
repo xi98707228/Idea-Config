@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Captcha Exception" />
+      <item value="authentication" />
+      <item value="用户验证" />
+      <item value="null" />
+      <item value="SUCCESS" />
       <item value="Ruoyi Scheduler DESKTOP" />
       <item value="永无BUG" />
       <item value="白色" />
@@ -50,16 +55,11 @@
       <item value="get Cf Tick Id" />
       <item value="index Of" />
       <item value="result Acjy Relation List" />
-      <item value="is Parallel" />
-      <item value="Terminal Op" />
-      <item value="evaluate" />
-      <item value="previous Stage" />
-      <item value="The &quot;upstream&quot; pipeline, or null if this is the source stage." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1264" />
-        <entry key="ENGLISH" value="1263" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
