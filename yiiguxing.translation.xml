@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cached Introspection Results" />
+      <item value="Property Descriptor" />
+      <item value="get Tree Select By Dept Id" />
       <item value="proxy Row Id" />
       <item value="group Type" />
       <item value="operate Empty Contract Info Record" />
@@ -12,7 +15,6 @@
       <item value="produce-empty Info Record" />
       <item value="produce" />
       <item value="代理的文件组Row Id" />
-      <item value="get Tree Select By Dept Id" />
       <item value="Parameters" />
       <item value="Tomcat启动初始化的线程数" />
       <item value="driver Class Name" />
@@ -53,13 +55,11 @@
       <item value="DEBUG" />
       <item value="SELECT" />
       <item value="select List COUNT" />
-      <item value="select List" />
-      <item value="debug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1293" />
-        <entry key="ENGLISH" value="1294" />
+        <entry key="CHINESE" value="1297" />
+        <entry key="ENGLISH" value="1298" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
