@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="template go Templet" />
+      <item value="business Key" />
+      <item value="process Key" />
+      <item value="post Type" />
+      <item value="show Task Todo List" />
+      <item value="New Index Action" />
+      <item value="web Flux Response Writer" />
+      <item value="Application Event Publisher" />
+      <item value="Gateway Filter" />
+      <item value="match Blacklist" />
+      <item value="Parse Exception" />
+      <item value="get Current Date Time" />
       <item value="The load factor for this table. Overrides of this value in constructors affect only the initial table capacity. The actual floating point value isn't normally used -- it is simpler to use expressions such as {@code n - (n &gt;&gt;&gt; 2)} for the associated resizing threshold." />
       <item value="Overview" />
       <item value="specification" />
@@ -43,23 +55,11 @@
       <item value="group Type" />
       <item value="operate Empty Contract Info Record" />
       <item value="produce-empty Contract Info Record" />
-      <item value="produce-empty Info Record" />
-      <item value="produce" />
-      <item value="代理的文件组Row Id" />
-      <item value="Parameters" />
-      <item value="Tomcat启动初始化的线程数" />
-      <item value="driver Class Name" />
-      <item value="master" />
-      <item value="url" />
-      <item value="13336" />
-      <item value="character Encoding" />
-      <item value="use Unicode" />
-      <item value="nsei device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1341" />
+        <entry key="ENGLISH" value="1342" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
