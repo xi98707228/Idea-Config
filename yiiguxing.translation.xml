@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Table Id" />
+      <item value="special" />
       <item value="Mapper Factory Bean" />
       <item value="wx User Mapper" />
       <item value="then Comparing" />
@@ -53,13 +55,11 @@
       <item value="contains Any" />
       <item value="Task Export Wapper" />
       <item value="captcha" />
-      <item value="row Id" />
-      <item value="piid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1314" />
-        <entry key="ENGLISH" value="1315" />
+        <entry key="CHINESE" value="1316" />
+        <entry key="ENGLISH" value="1317" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
