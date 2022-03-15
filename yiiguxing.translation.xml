@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Security Utils" />
+      <item value="query Book Relation List" />
+      <item value="Pjws Book Relation" />
+      <item value="result Table Data Rows" />
+      <item value="Array List" />
       <item value="distinct" />
       <item value="detected" />
       <item value="Platform Notification" />
@@ -35,7 +40,6 @@
       <item value="less than 1 in ten million" />
       <item value="Int Binary Operator" />
       <item value="get And Accumulate" />
-      <item value="Security Utils" />
       <item value="Date" />
       <item value="cftick" />
       <item value="Table Id" />
@@ -51,15 +55,11 @@
       <item value="collect Entry" />
       <item value="is Copy" />
       <item value="过滤掉哪些环节的意见" />
-      <item value="_ooOoo_ o8888888o 88&quot; . &quot;88 (| ^_^ |) O\ = O _`---'\_" />
-      <item value="get Piid" />
-      <item value="ac Index Members" />
-      <item value="Localizable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1347" />
-        <entry key="ENGLISH" value="1348" />
+        <entry key="CHINESE" value="1352" />
+        <entry key="ENGLISH" value="1353" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
