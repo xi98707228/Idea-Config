@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Changes" />
+      <item value="detected" />
+      <item value="compiler" />
       <item value="sxpz show name" />
       <item value="sxpz name" />
       <item value="ROW ID" />
@@ -34,7 +37,6 @@
       <item value="result Table Data Rows" />
       <item value="Array List" />
       <item value="distinct" />
-      <item value="detected" />
       <item value="Platform Notification" />
       <item value="Expose" />
       <item value="不走流程" />
@@ -53,13 +55,11 @@
       <item value="Parse Exception" />
       <item value="get Current Date Time" />
       <item value="The load factor for this table. Overrides of this value in constructors affect only the initial table capacity. The actual floating point value isn't normally used -- it is simpler to use expressions such as {@code n - (n &gt;&gt;&gt; 2)} for the associated resizing threshold." />
-      <item value="Overview" />
-      <item value="specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1376" />
-        <entry key="ENGLISH" value="1377" />
+        <entry key="CHINESE" value="1379" />
+        <entry key="ENGLISH" value="1380" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
