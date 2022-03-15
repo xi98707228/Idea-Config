@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="distinct" />
       <item value="detected" />
       <item value="Platform Notification" />
       <item value="Expose" />
@@ -54,12 +55,11 @@
       <item value="get Piid" />
       <item value="ac Index Members" />
       <item value="Localizable" />
-      <item value="localizable WSP_1014_CAN NOT FIND POLICY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1346" />
-        <entry key="ENGLISH" value="1347" />
+        <entry key="CHINESE" value="1347" />
+        <entry key="ENGLISH" value="1348" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
