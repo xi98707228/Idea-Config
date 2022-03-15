@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="to Array" />
+      <item value="values" />
+      <item value="geo Commands" />
+      <item value="Redis Callback" />
       <item value="Instantiation Exception" />
       <item value="Illegal Access Exception" />
       <item value="Utility class that implements the standard C ctype functionality." />
@@ -51,15 +55,11 @@
       <item value="operation" />
       <item value="V ACJYRELATION" />
       <item value="Ac Index Member" />
-      <item value="template go Templet" />
-      <item value="business Key" />
-      <item value="post Type" />
-      <item value="show Task Todo List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="1391" />
+        <entry key="ENGLISH" value="1392" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
