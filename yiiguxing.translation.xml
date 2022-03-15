@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MAX SELECTABLE FDS" />
+      <item value="Selector Provider" />
+      <item value="Abstract Selector" />
       <item value="process Key" />
       <item value="process" />
       <item value="call Accounts" />
@@ -52,14 +55,11 @@
       <item value="cftick" />
       <item value="Table Id" />
       <item value="special" />
-      <item value="Mapper Factory Bean" />
-      <item value="wx User Mapper" />
-      <item value="then Comparing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1361" />
-        <entry key="ENGLISH" value="1362" />
+        <entry key="CHINESE" value="1364" />
+        <entry key="ENGLISH" value="1365" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
