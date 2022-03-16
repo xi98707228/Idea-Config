@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="List" />
+      <item value="get Tick Type" />
+      <item value="get Apply Time" />
+      <item value="Team Org" />
+      <item value="tick Money" />
+      <item value="Pw Count Bean" />
+      <item value="get Org Name" />
+      <item value="ddpay List" />
+      <item value="Pjws Payment Index" />
+      <item value="lambda" />
+      <item value="count Bean" />
+      <item value="pjws Payment Index Service" />
       <item value="默认查询" />
       <item value="} else { 不传部门，默认查询" />
       <item value="begin Time" />
@@ -37,29 +49,17 @@
       <item value="is Prompt" />
       <item value="init Table Fields" />
       <item value="Collection Utils" />
-      <item value="Team Org" />
       <item value="result Team Meta Data" />
       <item value="get Team Org Dd Data" />
       <item value="team Org" />
       <item value="987072248" />
       <item value="Suppress Warnings" />
       <item value="raw Value" />
-      <item value="values" />
-      <item value="raw Values" />
-      <item value="to Array" />
-      <item value="geo Commands" />
-      <item value="Redis Callback" />
-      <item value="Instantiation Exception" />
-      <item value="Illegal Access Exception" />
-      <item value="Utility class that implements the standard C ctype functionality." />
-      <item value="Used to accumulate information about a subtree of the object graph so that optimizations can be applied to the subtree." />
-      <item value="Zero width positive lookahead." />
-      <item value="Security Context Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
-        <entry key="ENGLISH" value="1439" />
+        <entry key="CHINESE" value="1457" />
+        <entry key="ENGLISH" value="1458" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
