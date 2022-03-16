@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is zk qk" />
       <item value="query Index Statics Charts" />
       <item value="create org name" />
       <item value="New Index Action" />
@@ -54,12 +55,11 @@
       <item value="pjws Bill Index Service" />
       <item value="Default Digest Algorithm Identifier Finder" />
       <item value="DIRECT" />
-      <item value="This class represents a proxy setting, typically a type (http, socks) and a socket address. A {@code Proxy} is an immutable object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1424" />
-        <entry key="ENGLISH" value="1425" />
+        <entry key="CHINESE" value="1425" />
+        <entry key="ENGLISH" value="1426" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
