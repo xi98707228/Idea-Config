@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Registering" />
+      <item value="Joran Configurator" />
+      <item value="Attaching" />
+      <item value="Joshua Bloch" />
+      <item value="various" />
+      <item value="Retention Policy" />
+      <item value="retained" />
+      <item value="annotations" />
       <item value="is zk qk" />
       <item value="query Index Statics Charts" />
       <item value="create org name" />
@@ -47,19 +55,11 @@
       <item value="detected" />
       <item value="compiler" />
       <item value="sxpz show name" />
-      <item value="sxpz name" />
-      <item value="ROW ID" />
-      <item value="temp Object Param" />
-      <item value="temp String Param" />
-      <item value="start Page" />
-      <item value="pjws Bill Index Service" />
-      <item value="Default Digest Algorithm Identifier Finder" />
-      <item value="DIRECT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1425" />
-        <entry key="ENGLISH" value="1426" />
+        <entry key="CHINESE" value="1431" />
+        <entry key="ENGLISH" value="1432" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
