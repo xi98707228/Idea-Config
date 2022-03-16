@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Cache Data If Absent" />
+      <item value="listener" />
       <item value="Registering" />
       <item value="Joran Configurator" />
       <item value="Attaching" />
@@ -53,13 +55,11 @@
       <item value="The name of the request parameter to bind to." />
       <item value="Changes" />
       <item value="detected" />
-      <item value="compiler" />
-      <item value="sxpz show name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1431" />
-        <entry key="ENGLISH" value="1432" />
+        <entry key="CHINESE" value="1435" />
+        <entry key="ENGLISH" value="1436" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
