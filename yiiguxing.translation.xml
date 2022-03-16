@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apply book num" />
+      <item value="title" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="Preparing" />
       <item value="ac Service" />
       <item value="conditions" />
       <item value="sq Count Bean" />
@@ -50,16 +55,11 @@
       <item value="根据用户ID获取岗位选择框列表" />
       <item value="用户ID" />
       <item value="选中岗位ID列表" />
-      <item value="select Post List By User Id" />
-      <item value="value Of" />
-      <item value="String" />
-      <item value="Contract File Status Type" />
-      <item value="NOT RELATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1473" />
-        <entry key="ENGLISH" value="1474" />
+        <entry key="CHINESE" value="1478" />
+        <entry key="ENGLISH" value="1479" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
