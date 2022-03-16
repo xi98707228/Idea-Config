@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Index Statics Charts" />
+      <item value="create org name" />
+      <item value="New Index Action" />
+      <item value="ac Service" />
       <item value="email" />
       <item value="根据用户ID获取岗位选择框列表" />
       <item value="用户ID" />
@@ -51,15 +55,11 @@
       <item value="Default Digest Algorithm Identifier Finder" />
       <item value="DIRECT" />
       <item value="This class represents a proxy setting, typically a type (http, socks) and a socket address. A {@code Proxy} is an immutable object." />
-      <item value="Proxy" />
-      <item value="MAX SELECTABLE FDS" />
-      <item value="Selector Provider" />
-      <item value="Abstract Selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1419" />
+        <entry key="CHINESE" value="1424" />
+        <entry key="ENGLISH" value="1425" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
