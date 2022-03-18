@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="create User" />
       <item value="orcl edition" />
       <item value="quarter" />
       <item value="Jzg Apply Index Service" />
@@ -54,12 +55,11 @@
       <item value="debug" />
       <item value="Preparing" />
       <item value="ac Service" />
-      <item value="conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1526" />
-        <entry key="ENGLISH" value="1527" />
+        <entry key="CHINESE" value="1527" />
+        <entry key="ENGLISH" value="1528" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
