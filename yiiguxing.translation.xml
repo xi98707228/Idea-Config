@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="orcl edition" />
+      <item value="quarter" />
+      <item value="Jzg Apply Index Service" />
+      <item value="Team Org Old Service" />
+      <item value="jzg Apply Index Service" />
+      <item value="fastjson" />
       <item value="subscribe" />
       <item value="Configuration Holder" />
       <item value="write" />
@@ -49,20 +55,14 @@
       <item value="Preparing" />
       <item value="ac Service" />
       <item value="conditions" />
-      <item value="sq Count Bean" />
-      <item value="Array List" />
-      <item value="get Org Name" />
-      <item value="get Org Id" />
-      <item value="team Org" />
-      <item value="size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1521" />
-        <entry key="ENGLISH" value="1522" />
+        <entry key="CHINESE" value="1526" />
+        <entry key="ENGLISH" value="1527" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="1" />
+        <entry key="ICELANDIC" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="3" />
