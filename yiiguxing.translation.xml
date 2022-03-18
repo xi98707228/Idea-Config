@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MINUTES" />
+      <item value="get All Library" />
       <item value="current Export Session Map" />
       <item value="String" />
       <item value="class Dispatcher Type" />
@@ -17,7 +19,6 @@
       <item value="sheet Name" />
       <item value="current Export Session Key" />
       <item value="export Collect Data Model" />
-      <item value="get All Library" />
       <item value="pw Index List" />
       <item value="Pw Payment Index Bean" />
       <item value="Service Room" />
@@ -54,12 +55,11 @@
       <item value="RESULT CUSTOM JSP" />
       <item value="List" />
       <item value="get Tick Type" />
-      <item value="get Apply Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1511" />
-        <entry key="ENGLISH" value="1512" />
+        <entry key="CHINESE" value="1513" />
+        <entry key="ENGLISH" value="1514" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
