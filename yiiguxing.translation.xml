@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="selfdept" />
+      <item value="V User" />
+      <item value="jzg Assess Ment Query Vo" />
+      <item value="process Service Info" />
+      <item value="took" />
+      <item value="Reflections" />
+      <item value="Local Config Info Processor" />
+      <item value="clinit" />
+      <item value="dynamic" />
       <item value="Observer" />
       <item value="create User" />
       <item value="orcl edition" />
@@ -46,25 +55,16 @@
       <item value="self Ch Org" />
       <item value="Pjws Tick Relation" />
       <item value="find By Form Id" />
-      <item value="pw Payment Zd Bean" />
-      <item value="equals" />
-      <item value="012904" />
-      <item value="org Id" />
-      <item value="apply book num" />
-      <item value="title" />
-      <item value="Parameters" />
-      <item value="debug" />
-      <item value="Preparing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1528" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1538" />
+        <entry key="ENGLISH" value="1538" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="POLISH" value="1" />
-        <entry key="AFRIKAANS" value="1" />
+        <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="3" />
         <entry key="FRENCH" value="6" />
