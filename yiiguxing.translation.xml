@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Appender Ref Action" />
       <item value="Application" />
       <item value="set Auth" />
       <item value="Autowired" />
@@ -54,12 +55,11 @@
       <item value="end Time" />
       <item value="Inject Data Mapper" />
       <item value="MINUTES" />
-      <item value="get All Library" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1579" />
-        <entry key="ENGLISH" value="1580" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
