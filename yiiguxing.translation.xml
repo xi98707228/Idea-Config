@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dynamic Routing Data Source" />
+      <item value="init Table Fields" />
+      <item value="Preparing" />
+      <item value="integral" />
+      <item value="integral Ld Count" />
+      <item value="Ajax Result" />
       <item value="query" />
       <item value="param Name Seq" />
       <item value="is Not Empty" />
@@ -27,7 +33,6 @@
       <item value="create Criteria" />
       <item value="select List COUNT" />
       <item value="select List" />
-      <item value="Preparing" />
       <item value="Parameters" />
       <item value="Appender Ref Action" />
       <item value="Application" />
@@ -50,16 +55,11 @@
       <item value="biz Service" />
       <item value="qualifying" />
       <item value="system" />
-      <item value="The alias 'TeamOrg' is already mapped to the value" />
-      <item value="persistence" />
-      <item value="Http Client Bean Holder" />
-      <item value="Destruction" />
-      <item value="selfdept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1604" />
-        <entry key="ENGLISH" value="1605" />
+        <entry key="CHINESE" value="1611" />
+        <entry key="ENGLISH" value="1612" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
