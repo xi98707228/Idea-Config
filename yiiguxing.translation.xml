@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="work Order Id" />
+      <item value="from User Name" />
+      <item value="order Type" />
+      <item value="create Time" />
+      <item value="overhaul Reason" />
       <item value="Framework Endpoint" />
       <item value="work Order Statistics Data Map" />
       <item value="获取当前查询条件下查询到的工单数据列表" />
@@ -50,16 +55,11 @@
       <item value="query" />
       <item value="param Name Seq" />
       <item value="PERCENT" />
-      <item value="asset Hard Un Nomal Service" />
-      <item value="asset Record Service" />
-      <item value="rawtype" />
-      <item value="处理模糊查询中包含特殊字符" />
-      <item value="Mapper Factory Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1651" />
-        <entry key="ENGLISH" value="1652" />
+        <entry key="CHINESE" value="1656" />
+        <entry key="ENGLISH" value="1657" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
