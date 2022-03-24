@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Customer Dept Id" />
+      <item value="Customer Project" />
+      <item value="project" />
+      <item value="Get Mapping" />
+      <item value="Path Variable" />
+      <item value="get Project" />
       <item value="根据客户主键查找当前客户所有的项目数据列表" />
       <item value="get Customer Project Statistics List" />
       <item value="I Gx Oa Work Order Service" />
@@ -47,19 +53,13 @@
       <item value="discovery" />
       <item value="show Task Todo List" />
       <item value="bridged Method" />
-      <item value="project" />
       <item value="annotations" />
       <item value="Rod Johnson" />
-      <item value="Jdk Dynamic Aop Proxy" />
-      <item value="get Create User Id" />
-      <item value="compute If Absent" />
-      <item value="current User Jzg Assessment Redis Key" />
-      <item value="Excel Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1620" />
-        <entry key="ENGLISH" value="1620" />
+        <entry key="CHINESE" value="1625" />
+        <entry key="ENGLISH" value="1626" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
