@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="move Root To Front" />
+      <item value="rotate Right" />
+      <item value="balance Insertion" />
+      <item value="depending" />
+      <item value="messier" />
+      <item value="Removes the given node, that must be present before this call. This is messier than typical red-black deletion code because we cannot swap the contents of an interior node with a leaf successor that is pinned by &quot;next&quot; pointers that are accessible independently during traversal. So instead we swap the tree linkages. If the current tree appears to have too few nodes, the bin is converted back to a plain bin. (The test triggers somewhere between 2 and 6 nodes, depending on tree structure)." />
+      <item value="comparable Class For" />
+      <item value="untreeify" />
+      <item value="A node used to store the data." />
+      <item value="do Red Black Insert" />
+      <item value="make Black" />
+      <item value="do Red Black Delete" />
+      <item value="rotate Left" />
+      <item value="left Is Previous" />
+      <item value="Implements an AVLNode which keeps the offset updated. &lt;p&gt; This node contains the real work. TreeList is just there to implement {@link java.util.List}. The nodes don't know the index of the object they are holding. They do know however their position relative to their parent node. This allows to calculate the index of a node while traversing the tree. &lt;p&gt; The Faedelung calculation stores a flag for both the left and right child to indicate if they are a child (false) or a link as in linked list (true)." />
+      <item value="AVL Node" />
+      <item value="Internal Logger" />
+      <item value="Engine Proc Workitem" />
+      <item value="more Person Handel" />
+      <item value="instance" />
       <item value="get Vuser" />
       <item value="get Login User" />
       <item value="Security Utils" />
@@ -35,37 +55,17 @@
       <item value="Mike Bostock" />
       <item value="Louis Wasserman" />
       <item value="Gwt Compatible" />
-      <item value="Forwarding Map" />
-      <item value="optional" />
-      <item value="is Not Empty" />
-      <item value="promobj" />
-      <item value="get Actual Repair Device Ids" />
-      <item value="Repair Device Log" />
-      <item value="Cannot determine value type from string '4,3,2,1'" />
-      <item value="Error attempting to get column 'score' from result set." />
-      <item value="row Id" />
-      <item value="customer Project Service" />
-      <item value="get Customer Dept Id" />
-      <item value="Customer Project" />
-      <item value="project" />
-      <item value="Get Mapping" />
-      <item value="Path Variable" />
-      <item value="get Project" />
-      <item value="根据客户主键查找当前客户所有的项目数据列表" />
-      <item value="get Customer Project Statistics List" />
-      <item value="I Gx Oa Work Order Service" />
-      <item value="Dynamic Routing Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1671" />
-        <entry key="ENGLISH" value="1672" />
+        <entry key="CHINESE" value="1690" />
+        <entry key="ENGLISH" value="1691" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="2" />
-        <entry key="DANISH" value="3" />
+        <entry key="DANISH" value="5" />
         <entry key="RUSSIAN" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
@@ -78,7 +78,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SAMOAN" value="3" />
         <entry key="SLOVAK" value="4" />
