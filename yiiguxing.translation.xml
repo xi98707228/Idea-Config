@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="statistics" />
+      <item value="get Work Order Statistics Data" />
+      <item value="list" />
       <item value="启动成功" />
       <item value="售后工程师" />
       <item value="检修原因" />
@@ -52,14 +55,11 @@
       <item value="from User Name" />
       <item value="create Time" />
       <item value="Framework Endpoint" />
-      <item value="获取当前查询条件下查询到的工单数据列表" />
-      <item value="all other fields defaulted" />
-      <item value="@package com.ruoyi.project.multipleStatistics.constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
-        <entry key="ENGLISH" value="1713" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
