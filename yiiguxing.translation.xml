@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="order Statistics Search Filter" />
+      <item value="project Row Id" />
+      <item value="customer Dept Id" />
+      <item value="resolve Plan" />
+      <item value="overhaul Reason" />
+      <item value="select List" />
+      <item value="debug" />
+      <item value="work order id" />
+      <item value="Parameters" />
+      <item value="Preparing" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="connection set Network Timeout" />
       <item value="Returns an object that implements the given interface to allow access to non-standard methods, or standard methods not exposed by the proxy. If the receiver implements the interface then the result is the receiver or a proxy for the receiver. If the receiver is a wrapper and the wrapped object implements the interface then the result is the wrapped object or a proxy for the wrapped object. Otherwise return the the result of calling &lt;code&gt;unwrap&lt;code&gt; recursively on the wrapped object or a proxy for that result. If the receiver is not a wrapper and does not implement the interface, then an &lt;code&gt;SQLException&lt;code&gt; is thrown." />
@@ -12,7 +21,6 @@
       <item value="Wrapper" />
       <item value="Druid Abstract Data Source" />
       <item value="unchecked" />
-      <item value="customer Dept Id" />
       <item value="File Abstract Wrapper" />
       <item value="byte" />
       <item value="reference" />
@@ -46,20 +54,11 @@
       <item value="Service Contract Statistical Controller" />
       <item value="DESKTOP" />
       <item value="3 SSJU 371648693482758_Cluster Manager" />
-      <item value="3 SSJU 371648693482758_Misfire Handler" />
-      <item value="the pointcut expression where to bind the advice" />
-      <item value="execute Aspect" />
-      <item value="execute Apsect" />
-      <item value="execute Apsect Cut" />
-      <item value="Refreshable" />
-      <item value="result Tree" />
-      <item value="SOTRE CUSTOMER TREE JSON KEY" />
-      <item value="response.addHeader(&quot;Content-Length&quot;, &quot;&quot; + showFile.length()); response.setContentType(&quot;imagejpg&quot;); outputStream.write(buffer);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1876" />
-        <entry key="ENGLISH" value="1877" />
+        <entry key="CHINESE" value="1958" />
+        <entry key="ENGLISH" value="1959" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
