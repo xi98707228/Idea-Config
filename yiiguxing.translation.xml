@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="result Tree" />
+      <item value="SOTRE CUSTOMER TREE JSON KEY" />
       <item value="response.addHeader(&quot;Content-Length&quot;, &quot;&quot; + showFile.length()); response.setContentType(&quot;imagejpg&quot;); outputStream.write(buffer);" />
       <item value="Atomic Reference Field Updater" />
       <item value="Fills the buffer with more data, taking into account shuffling and other tricks for dealing with marks. Assumes that it is being called by a synchronized method. This method also assumes that all data has already been read in, hence pos &gt; count." />
@@ -53,13 +55,11 @@
       <item value="Bulk Task" />
       <item value="inner" />
       <item value="get Resolve Fields" />
-      <item value="parent" />
-      <item value="extends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1816" />
-        <entry key="ENGLISH" value="1817" />
+        <entry key="CHINESE" value="1818" />
+        <entry key="ENGLISH" value="1819" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
