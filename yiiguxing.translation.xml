@@ -4,6 +4,25 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Notification Broadcaster Support" />
+      <item value="execute Add User To Process Node" />
+      <item value="package" />
+      <item value="author" />
+      <item value="date" />
+      <item value="Version" />
+      <item value="Order" />
+      <item value="Primary" />
+      <item value="Component" />
+      <item value="Abstract Status Process Engine" />
+      <item value="extends" />
+      <item value="Message Digest" />
+      <item value="Viliam Holub" />
+      <item value="murmurhash 2_64" />
+      <item value="EOF" />
+      <item value="To The Add All Current ProcessNode FROM User" />
+      <item value="To Add All Current ProcessNode FROM User" />
+      <item value="Process Engine Impl" />
+      <item value="Abstract Process Engine" />
       <item value="Abstract Process Engine Utils" />
       <item value="Process Structure Utils" />
       <item value="HV 000001" />
@@ -11,7 +30,6 @@
       <item value="transport" />
       <item value="Protocol Handler" />
       <item value="Configurable Listable Bean Factory" />
-      <item value="Component" />
       <item value="Enable Auto Configuration" />
       <item value="post Process Bean Factory" />
       <item value="Embedded Value Resolution Support" />
@@ -36,29 +54,11 @@
       <item value="File Abstract Wrapper" />
       <item value="byte" />
       <item value="reference" />
-      <item value="Soft Reference" />
-      <item value="Weak Reference" />
-      <item value="Appendable" />
-      <item value="charset" />
-      <item value="Same Url Data Interceptor" />
-      <item value="Async Handler Interceptor" />
-      <item value="Handler Interceptor Adapter" />
-      <item value="extends" />
-      <item value="Service Contract Search Filter" />
-      <item value="Base Filter" />
-      <item value="Equals And Hash Code" />
-      <item value="get Service Contract List" />
-      <item value="param String" />
-      <item value="multiple Statistics" />
-      <item value="project" />
-      <item value="ruoyi" />
-      <item value="package" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1969" />
-        <entry key="ENGLISH" value="1970" />
+        <entry key="CHINESE" value="1983" />
+        <entry key="ENGLISH" value="1984" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -82,7 +82,7 @@
         <entry key="PORTUGUESE" value="4" />
         <entry key="SAMOAN" value="3" />
         <entry key="SESOTHO" value="1" />
-        <entry key="SLOVAK" value="4" />
+        <entry key="SLOVAK" value="5" />
         <entry key="SLOVENIAN" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="6" />
