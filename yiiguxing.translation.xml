@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="File Abstract Wrapper" />
+      <item value="byte" />
       <item value="reference" />
       <item value="Soft Reference" />
       <item value="Weak Reference" />
@@ -53,13 +55,11 @@
       <item value="pos" />
       <item value="0 xff" />
       <item value="add Header" />
-      <item value="available" />
-      <item value="payment Credence Dir Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1864" />
-        <entry key="ENGLISH" value="1865" />
+        <entry key="CHINESE" value="1866" />
+        <entry key="ENGLISH" value="1867" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
