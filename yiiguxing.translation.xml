@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="response.addHeader(&quot;Content-Length&quot;, &quot;&quot; + showFile.length()); response.setContentType(&quot;imagejpg&quot;); outputStream.write(buffer);" />
+      <item value="Atomic Reference Field Updater" />
+      <item value="Fills the buffer with more data, taking into account shuffling and other tricks for dealing with marks. Assumes that it is being called by a synchronized method. This method also assumes that all data has already been read in, hence pos &gt; count." />
+      <item value="fill" />
+      <item value="The current position in the buffer. This is the index of the next character to be read from the &lt;code&gt;buf&lt;code&gt; array. &lt;p&gt; This value is always in the range &lt;code&gt;0&lt;code&gt; through &lt;code&gt;count&lt;code&gt;. If it is less than &lt;code&gt;count&lt;code&gt;, then &lt;code&gt;buf[pos]&lt;code&gt; is the next byte to be supplied as input; if it is equal to &lt;code&gt;count&lt;code&gt;, then the next &lt;code&gt;read&lt;code&gt; or &lt;code&gt;skip&lt;code&gt; operation will require more bytes to be read from the contained input stream." />
+      <item value="pos" />
+      <item value="0 xff" />
+      <item value="add Header" />
+      <item value="available" />
       <item value="payment Credence Dir Path" />
       <item value="price Table Dir Path" />
       <item value="get Is Lock" />
@@ -46,20 +55,11 @@
       <item value="get Resolve Fields" />
       <item value="parent" />
       <item value="extends" />
-      <item value="OUT TYPE" />
-      <item value="Gx Oa Device Dto" />
-      <item value="Ignore DTO" />
-      <item value="get Statistical Customer Tree" />
-      <item value="---&gt; 综合统计相关接口 @author xqh , 987072248@qq.com @data 2022-03-23 15:16:18 @package com.ruoyi.project.multipleStatistics" />
-      <item value="Multiple Statistics Controller" />
-      <item value="i Sys User Service" />
-      <item value="result Detail Data" />
-      <item value="Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1808" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1816" />
+        <entry key="ENGLISH" value="1817" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -89,7 +89,7 @@
         <entry key="GREEK" value="6" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
