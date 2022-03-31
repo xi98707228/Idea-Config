@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiple Statistics" />
+      <item value="project" />
+      <item value="ruoyi" />
+      <item value="package" />
+      <item value="filter" />
+      <item value="Base Filter" />
+      <item value="Json Format" />
+      <item value="pojo" />
+      <item value="import lombok.Data;" />
+      <item value="import com.fasterxml.jackson.annotation.JsonFormat;" />
+      <item value="Data" />
+      <item value="Accessors" />
+      <item value="Javac" />
+      <item value="Javac Node" />
+      <item value="Permit" />
+      <item value="Service Contract Statistical Controller" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="DESKTOP" />
+      <item value="3 SSJU 371648693482758_Cluster Manager" />
+      <item value="3 SSJU 371648693482758_Misfire Handler" />
       <item value="the pointcut expression where to bind the advice" />
       <item value="execute Aspect" />
       <item value="execute Apsect" />
@@ -35,31 +55,11 @@
       <item value="current Customer Data" />
       <item value="Immutable" />
       <item value="Validator" />
-      <item value="Hibernate Validator, declare and validate application constraints" />
-      <item value="preinit" />
-      <item value="background" />
-      <item value="Hibernate" />
-      <item value="transport" />
-      <item value="discard" />
-      <item value="result Statistics Detail Data" />
-      <item value="set Create User Name" />
-      <item value="login User" />
-      <item value="客户的dept Id" />
-      <item value="create User Name" />
-      <item value="987072248" />
-      <item value="abstract" />
-      <item value="客户部门Id" />
-      <item value="设备信息" />
-      <item value="order Statistics Table Data" />
-      <item value="Objects" />
-      <item value="eq" />
-      <item value="call Super" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1823" />
-        <entry key="ENGLISH" value="1824" />
+        <entry key="CHINESE" value="1849" />
+        <entry key="ENGLISH" value="1850" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -84,7 +84,7 @@
         <entry key="SAMOAN" value="3" />
         <entry key="SESOTHO" value="1" />
         <entry key="SLOVAK" value="4" />
-        <entry key="SLOVENIAN" value="2" />
+        <entry key="SLOVENIAN" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="6" />
         <entry key="ITALIAN" value="2" />
