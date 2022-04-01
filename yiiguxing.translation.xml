@@ -4,6 +4,31 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Neither directly nor indirectly present" />
+      <item value="get Annotations By Type" />
+      <item value="present, and return any annotations inside the container. Container" />
+      <item value="annotations may be generated at compile-time to wrap multiple" />
+      <item value="annotations of the argument type." />
+      <item value="Represents an annotated element of the program currently running in this VM. This interface allows annotations to be read reflectively. All annotations returned by methods in this interface are immutable and serializable. The arrays returned by methods of this interface may be modified by callers without affecting the arrays returned to other callers. &lt;p&gt;The {@link getAnnotationsByType(Class)} and {@link getDeclaredAnnotationsByType(Class)} methods support multiple annotations of the same type on an element. If the argument to either method is a repeatable annotation type (JLS 9.6), then the method will &quot;look through&quot; a container annotation (JLS 9.7), if present, and return any annotations inside the container. Container annotations may be generated at compile-time to wrap multiple annotations of the argument type. &lt;p&gt;The terms &lt;em&gt;directly present&lt;em&gt;, &lt;em&gt;indirectly present&lt;em&gt;, &lt;em&gt;present&lt;em&gt;, and &lt;em&gt;associated&lt;em&gt; are used throughout this interface to describe precisely which annotations are returned by methods: &lt;ul&gt; &lt;li&gt; An annotation &lt;i&gt;A&lt;i&gt; is &lt;em&gt;directly present&lt;em&gt; on an element &lt;i&gt;E&lt;i&gt; if &lt;i&gt;E&lt;i&gt; has a {@code RuntimeVisibleAnnotations} or {@code RuntimeVisibleParameterAnnotations} or {@code RuntimeVisibleTypeAnnotations} attribute, and the attribute contains &lt;i&gt;A&lt;i&gt;. &lt;li&gt;An annotation &lt;i&gt;A&lt;i&gt; is &lt;em&gt;indirectly present&lt;em&gt; on an element &lt;i&gt;E&lt;i&gt; if &lt;i&gt;E&lt;i&gt; has a {@code RuntimeVisibleAnnotations} or {@code RuntimeVisibleParameterAnnotations} or {@code RuntimeVisibleTypeAnnotations} attribute, and &lt;i&gt;A&lt;i&gt; 's type is repeatable, and the attribute contains exactly one annotation whose value element contains &lt;i&gt;A&lt;i&gt; and whose type is the containing annotation type of &lt;i&gt;A&lt;i&gt; 's type. &lt;li&gt;An annotation &lt;i&gt;A&lt;i&gt; is present on an element &lt;i&gt;E&lt;i&gt; if either: &lt;ul&gt; &lt;li&gt;&lt;i&gt;A&lt;i&gt; is directly present on &lt;i&gt;E&lt;i&gt;; or &lt;li&gt;No annotation of &lt;i&gt;A&lt;i&gt; 's type is directly present on &lt;i&gt;E&lt;i&gt;, and &lt;i&gt;E&lt;i&gt; is a class, and &lt;i&gt;A&lt;i&gt; 's type is inheritable, and &lt;i&gt;A&lt;i&gt; is present on the superclass of &lt;i&gt;E&lt;i&gt;. &lt;ul&gt; &lt;li&gt;An annotation &lt;i&gt;A&lt;i&gt; is &lt;em&gt;associated&lt;em&gt; with an element &lt;i&gt;E&lt;i&gt; if either: &lt;ul&gt; &lt;li&gt;&lt;i&gt;A&lt;i&gt; is directly or indirectly present on &lt;i&gt;E&lt;i&gt;; or &lt;li&gt;No annotation of &lt;i&gt;A&lt;i&gt; 's type is directly or indirectly present on &lt;i&gt;E&lt;i&gt;, and &lt;i&gt;E&lt;i&gt; is a class, and &lt;i&gt;A&lt;i&gt;'s type is inheritable, and &lt;i&gt;A&lt;i&gt; is associated with the superclass of &lt;i&gt;E&lt;i&gt;. &lt;ul&gt; &lt;ul&gt; &lt;p&gt;The table below summarizes which kind of annotation presence different methods in this interface examine. &lt;table border&gt; &lt;caption&gt;Overview of kind of presence detected by different AnnotatedElement methods&lt;caption&gt; &lt;tr&gt;&lt;th colspan=2&gt;&lt;th&gt;&lt;th colspan=4&gt;Kind of Presence&lt;th&gt; &lt;tr&gt;&lt;th colspan=2&gt;Method&lt;th&gt;&lt;th&gt;Directly Present&lt;th&gt;&lt;th&gt;Indirectly Present&lt;th&gt;&lt;th&gt;Present&lt;th&gt;&lt;th&gt;Associated&lt;th&gt; &lt;tr&gt;&lt;td align=right&gt;{@code T}&lt;td&gt;&lt;td&gt;{@link getAnnotation(Class) getAnnotation(Class&amp;lt;T&amp;gt;)} &lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;X&lt;td&gt;&lt;td&gt;&lt;td&gt; &lt;tr&gt; &lt;tr&gt;&lt;td align=right&gt;{@code Annotation[]}&lt;td&gt;&lt;td&gt;{@link getAnnotations getAnnotations()} &lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;X&lt;td&gt;&lt;td&gt;&lt;td&gt; &lt;tr&gt; &lt;tr&gt;&lt;td align=right&gt;{@code T[]}&lt;td&gt;&lt;td&gt;{@link getAnnotationsByType(Class) getAnnotationsByType(Class&amp;lt;T&amp;gt;)} &lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;X&lt;td&gt; &lt;tr&gt; &lt;tr&gt;&lt;td align=right&gt;{@code T}&lt;td&gt;&lt;td&gt;{@link getDeclaredAnnotation(Class) getDeclaredAnnotation(Class&amp;lt;T&amp;gt;)} &lt;td&gt;X&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt; &lt;tr&gt; &lt;tr&gt;&lt;td align=right&gt;{@code Annotation[]}&lt;td&gt;&lt;td&gt;{@link getDeclaredAnnotations getDeclaredAnnotations()} &lt;td&gt;X&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt; &lt;tr&gt; &lt;tr&gt;&lt;td align=right&gt;{@code T[]}&lt;td&gt;&lt;td&gt;{@link getDeclaredAnnotationsByType(Class) getDeclaredAnnotationsByType(Class&amp;lt;T&amp;gt;)} &lt;td&gt;X&lt;td&gt;&lt;td&gt;X&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt;&lt;td&gt; &lt;tr&gt; &lt;table&gt; &lt;p&gt;For an invocation of {@code get[Declared]AnnotationsByType( Class &lt; T &gt;)}, the order of annotations which are directly or indirectly present on an element &lt;i&gt;E&lt;i&gt; is computed as if indirectly present annotations on &lt;i&gt;E&lt;i&gt; are directly present on &lt;i&gt;E&lt;i&gt; in place of their container annotation, in the order in which they appear in the value element of the container annotation. &lt;p&gt;There are several compatibility concerns to keep in mind if an annotation type &lt;i&gt;T&lt;i&gt; is originally &lt;em&gt;not&lt;em&gt; repeatable and later modified to be repeatable. The containing annotation type for &lt;i&gt;T&lt;i&gt; is &lt;i&gt;TC&lt;i&gt;. &lt;ul&gt; &lt;li&gt;Modifying &lt;i&gt;T&lt;i&gt; to be repeatable is source and binary compatible with existing uses of &lt;i&gt;T&lt;i&gt; and with existing uses of &lt;i&gt;TC&lt;i&gt;. That is, for source compatibility, source code with annotations of type &lt;i&gt;T&lt;i&gt; or of type &lt;i&gt;TC&lt;i&gt; will still compile. For binary compatibility, class files with annotations of type &lt;i&gt;T&lt;i&gt; or of type &lt;i&gt;TC&lt;i&gt; (or with other kinds of uses of type &lt;i&gt;T&lt;i&gt; or of type &lt;i&gt;TC&lt;i&gt;) will link against the modified version of &lt;i&gt;T&lt;i&gt; if they linked against the earlier version. (An annotation type &lt;i&gt;TC&lt;i&gt; may informally serve as an acting containing annotation type before &lt;i&gt;T&lt;i&gt; is modified to be formally repeatable. Alternatively, when &lt;i&gt;T&lt;i&gt; is made repeatable, &lt;i&gt;TC&lt;i&gt; can be introduced as a new type.) &lt;li&gt;If an annotation type &lt;i&gt;TC&lt;i&gt; is present on an element, and &lt;i&gt;T&lt;i&gt; is modified to be repeatable with &lt;i&gt;TC&lt;i&gt; as its containing annotation type then: &lt;ul&gt; &lt;li&gt;The change to &lt;i&gt;T&lt;i&gt; is behaviorally compatible with respect to the {@code get[Declared]Annotation(Class&lt;T&gt;)} (called with an argument of &lt;i&gt;T&lt;i&gt; or &lt;i&gt;TC&lt;i&gt;) and {@code get[Declared]Annotations()} methods because the results of the methods will not change due to &lt;i&gt;TC&lt;i&gt; becoming the containing annotation type for &lt;i&gt;T&lt;i&gt;. &lt;li&gt;The change to &lt;i&gt;T&lt;i&gt; changes the results of the {@code get[Declared]AnnotationsByType(Class&lt;T&gt;)} methods called with an argument of &lt;i&gt;T&lt;i&gt;, because those methods will now recognize an annotation of type &lt;i&gt;TC&lt;i&gt; as a container annotation for &lt;i&gt;T&lt;i&gt; and will &quot;look through&quot; it to expose annotations of type &lt;i&gt;T&lt;i&gt;. &lt;ul&gt; &lt;li&gt;If an annotation of type &lt;i&gt;T&lt;i&gt; is present on an element and &lt;i&gt;T&lt;i&gt; is made repeatable and more annotations of type &lt;i&gt;T&lt;i&gt; are added to the element: &lt;ul&gt; &lt;li&gt; The addition of the annotations of type &lt;i&gt;T&lt;i&gt; is both source compatible and binary compatible. &lt;li&gt;The addition of the annotations of type &lt;i&gt;T&lt;i&gt; changes the results of the {@code get[Declared]Annotation(Class&lt;T&gt;)} methods and {@code get[Declared]Annotations()} methods, because those methods will now only see a container annotation on the element and not see an annotation of type &lt;i&gt;T&lt;i&gt;. &lt;li&gt;The addition of the annotations of type &lt;i&gt;T&lt;i&gt; changes the results of the {@code get[Declared]AnnotationsByType(Class&lt;T&gt;)} methods, because their results will expose the additional annotations of type &lt;i&gt;T&lt;i&gt; whereas previously they exposed only a single annotation of type &lt;i&gt;T&lt;i&gt;. &lt;ul&gt; &lt;ul&gt; &lt;p&gt;If an annotation returned by a method in this interface contains (directly or indirectly) a {@link Class}-valued member referring to a class that is not accessible in this VM, attempting to read the class by calling the relevant Class-returning method on the returned annotation will result in a {@link TypeNotPresentException}. &lt;p&gt;Similarly, attempting to read an enum-valued member will result in a {@link EnumConstantNotPresentException} if the enum constant in the annotation is no longer present in the enum type. &lt;p&gt;If an annotation type &lt;i&gt;T&lt;i&gt; is (meta-)annotated with an {@code @Repeatable} annotation whose value element indicates a type &lt;i&gt;TC&lt;i&gt;, but &lt;i&gt;TC&lt;i&gt; does not declare a {@code value()} method with a return type of &lt;i&gt;T&lt;i&gt;{@code []}, then an exception of type {@link java.lang.annotation.AnnotationFormatError} is thrown. &lt;p&gt;Finally, attempting to read a member whose definition has evolved incompatibly will result in a {@link" />
+      <item value="All subclasses should override this method" />
+      <item value="Josh Bloch" />
+      <item value="Root Bean Definition" />
+      <item value="get Cached Object For Factory Bean" />
+      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
+      <item value="Null Bean" />
+      <item value="unique Bean" />
+      <item value="bean Names For Type Including Ancestors" />
+      <item value="is Factory Dereference" />
+      <item value="trace" />
+      <item value="do Get Bean" />
+      <item value="Abstract Nestable Property Accessor" />
+      <item value="Juergen Hoeller" />
+      <item value="Singleton Bean Registry" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="FACTORY BEAN PREFIX" />
+      <item value="13 April 2001" />
+      <item value="Rod Johnson" />
+      <item value="save Submit Form Handle Procedure" />
       <item value="filter Search Contract List" />
       <item value="不获被取代理文件" />
       <item value="debug" />
@@ -29,36 +54,11 @@
       <item value="Primary" />
       <item value="Component" />
       <item value="Abstract Status Process Engine" />
-      <item value="extends" />
-      <item value="Message Digest" />
-      <item value="Viliam Holub" />
-      <item value="murmurhash 2_64" />
-      <item value="EOF" />
-      <item value="To The Add All Current ProcessNode FROM User" />
-      <item value="To Add All Current ProcessNode FROM User" />
-      <item value="Process Engine Impl" />
-      <item value="Abstract Process Engine" />
-      <item value="Abstract Process Engine Utils" />
-      <item value="Process Structure Utils" />
-      <item value="HV 000001" />
-      <item value="socket" />
-      <item value="transport" />
-      <item value="Protocol Handler" />
-      <item value="Configurable Listable Bean Factory" />
-      <item value="Enable Auto Configuration" />
-      <item value="post Process Bean Factory" />
-      <item value="Embedded Value Resolution Support" />
-      <item value="Date Time Format" />
-      <item value="order Statistics Search Filter" />
-      <item value="project Row Id" />
-      <item value="customer Dept Id" />
-      <item value="resolve Plan" />
-      <item value="overhaul Reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1997" />
-        <entry key="ENGLISH" value="1998" />
+        <entry key="CHINESE" value="2023" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
