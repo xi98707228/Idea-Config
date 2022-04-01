@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Priority" />
+      <item value="RUNTIME" />
+      <item value="Retention Policy" />
+      <item value="Retention" />
+      <item value="Target" />
+      <item value="Documented" />
+      <item value="Order" />
       <item value="Neither directly nor indirectly present" />
       <item value="get Annotations By Type" />
       <item value="present, and return any annotations inside the container. Container" />
@@ -47,18 +54,11 @@
       <item value="Notification Broadcaster Support" />
       <item value="execute Add User To Process Node" />
       <item value="package" />
-      <item value="author" />
-      <item value="date" />
-      <item value="Version" />
-      <item value="Order" />
-      <item value="Primary" />
-      <item value="Component" />
-      <item value="Abstract Status Process Engine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2023" />
-        <entry key="ENGLISH" value="2024" />
+        <entry key="CHINESE" value="2030" />
+        <entry key="ENGLISH" value="2031" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
