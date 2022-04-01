@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="不获被取代理文件" />
       <item value="debug" />
       <item value="start Page" />
       <item value="Custom Contract File Relation" />
@@ -53,11 +54,10 @@
       <item value="resolve Plan" />
       <item value="overhaul Reason" />
       <item value="select List" />
-      <item value="work order id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1996" />
+        <entry key="CHINESE" value="1997" />
         <entry key="ENGLISH" value="1997" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
