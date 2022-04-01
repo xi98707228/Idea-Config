@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Time" />
       <item value="Producer" />
       <item value="DEFAULT MAX EVICTABLE IDLE TIME MILLIS" />
       <item value="image Key" />
@@ -53,12 +54,11 @@
       <item value="Parameters" />
       <item value="Preparing" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="connection set Network Timeout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1991" />
-        <entry key="ENGLISH" value="1992" />
+        <entry key="CHINESE" value="1992" />
+        <entry key="ENGLISH" value="1993" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
