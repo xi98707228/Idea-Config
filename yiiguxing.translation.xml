@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Process Active Def Mapping By Template Id" />
+      <item value="boolean" />
+      <item value="bean Names For Annotation Including Ancestors" />
+      <item value="Endpoint" />
+      <item value="ADVICE PREFIX" />
+      <item value="PRIMARY KEY PIID" />
+      <item value="get Process Active Def Mapping" />
+      <item value="get Process Active Mapping" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="Value Wrapper" />
       <item value="Assertion Failed Error" />
@@ -31,7 +39,6 @@
       <item value="流程实例Id" />
       <item value="期望" />
       <item value="input Active Id" />
-      <item value="get Process Active Mapping" />
       <item value="lambda" />
       <item value="如果没有选择左侧的" />
       <item value="get Work Order Statistics Data" />
@@ -47,18 +54,11 @@
       <item value="Query Operations" />
       <item value="get Process Active" />
       <item value="get Process" />
-      <item value="Priority" />
-      <item value="RUNTIME" />
-      <item value="Retention Policy" />
-      <item value="Retention" />
-      <item value="Target" />
-      <item value="Documented" />
-      <item value="Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2109" />
-        <entry key="ENGLISH" value="2110" />
+        <entry key="CHINESE" value="2120" />
+        <entry key="ENGLISH" value="2121" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648453619588" />
+    <option name="lastTrimTime" value="1649208835990" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
