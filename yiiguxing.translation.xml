@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Process Active Def Mapping By Template Id" />
+      <item value="i Engine Proc Def Service" />
       <item value="A component required a bean of type 'com.ruoyi.project.process.utils.process.StatusProcessEngine' that could not be found." />
       <item value="Init Translate Data Map" />
       <item value="Inject Data Mapper" />
@@ -52,13 +54,11 @@
       <item value="Druid Abstract Data Source" />
       <item value="adapt For Attribute" />
       <item value="Merged Annotation" />
-      <item value="get Process Active Def Mapping By Template Id" />
-      <item value="boolean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2169" />
-        <entry key="ENGLISH" value="2170" />
+        <entry key="CHINESE" value="2171" />
+        <entry key="ENGLISH" value="2172" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
