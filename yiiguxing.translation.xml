@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="A component required a bean of type 'com.ruoyi.project.process.utils.process.StatusProcessEngine' that could not be found." />
       <item value="Init Translate Data Map" />
       <item value="Inject Data Mapper" />
       <item value="Rossen Stoyanchev" />
@@ -11,7 +12,6 @@
       <item value="Mock Part" />
       <item value="Test Process Engine" />
       <item value="check Current Process Is End" />
-      <item value="A component required a bean of type 'com.ruoyi.project.process.utils.process.StatusProcessEngine' that could not be found." />
       <item value="determine Annotation Type" />
       <item value="get Declared Annotation" />
       <item value="has Plain Java Annotations Only" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2168" />
-        <entry key="ENGLISH" value="2169" />
+        <entry key="CHINESE" value="2169" />
+        <entry key="ENGLISH" value="2170" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
