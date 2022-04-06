@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="following" />
+      <item value="show Room Center List" />
+      <item value="Service Room" />
+      <item value="room Keys" />
+      <item value="del flag" />
       <item value="devlop service server" />
       <item value="SQL Syntax Error Exception" />
       <item value="phone number" />
@@ -49,23 +54,18 @@
       <item value="non Null" />
       <item value="Handle Log 4 j Log" />
       <item value="Handle Jul Log" />
-      <item value="Expression" />
-      <item value="Handle Commons Log" />
-      <item value="指定环节添加用户信息" />
-      <item value="为当前流程模板的" />
-      <item value="process Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2276" />
-        <entry key="ENGLISH" value="2276" />
+        <entry key="CHINESE" value="2279" />
+        <entry key="ENGLISH" value="2280" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="7" />
+        <entry key="DANISH" value="8" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="1" />
