@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="check Current Active Segment Is Input Expect" />
       <item value="Value Wrapper" />
       <item value="Assertion Failed Error" />
       <item value="Assertion Utils" />
@@ -30,7 +31,6 @@
       <item value="流程实例Id" />
       <item value="期望" />
       <item value="input Active Id" />
-      <item value="check Current Active Segment Is Input Expect" />
       <item value="get Process Active Mapping" />
       <item value="lambda" />
       <item value="如果没有选择左侧的" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2108" />
-        <entry key="ENGLISH" value="2109" />
+        <entry key="CHINESE" value="2109" />
+        <entry key="ENGLISH" value="2110" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
