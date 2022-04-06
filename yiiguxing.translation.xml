@@ -4,6 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="devlop service server" />
+      <item value="SQL Syntax Error Exception" />
+      <item value="phone number" />
+      <item value="Unknown" />
+      <item value="Bridge Method Resolver" />
+      <item value="get Dept" />
+      <item value="Async" />
+      <item value="process Future Status Call" />
+      <item value="insert User" />
+      <item value="insert User Role" />
+      <item value="process Active Def List By Template Id" />
+      <item value="set Act Def Id" />
+      <item value="String" />
+      <item value="wrapper User" />
+      <item value="Engine Proc Userorg" />
+      <item value="save" />
+      <item value="proc Userorg Service" />
+      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="DESKTOP" />
+      <item value="WARN" />
+      <item value="3 SSJU 371649225573398_Misfire Handler" />
+      <item value="Druid Abstract Data Source" />
+      <item value="test Connection Internal" />
+      <item value="execute Add User To Process Node" />
+      <item value="info" />
       <item value="Future" />
       <item value="operate User" />
       <item value="get Process Active Def List By Template Id" />
@@ -16,7 +42,6 @@
       <item value="the Wrapper User" />
       <item value="proc Def Id" />
       <item value="set Create Time" />
-      <item value="execute Add User To Process Node" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="get En Status" />
       <item value="expect Instance" />
@@ -29,36 +54,11 @@
       <item value="指定环节添加用户信息" />
       <item value="为当前流程模板的" />
       <item value="process Key" />
-      <item value="流程模板Id" />
-      <item value="环节Id" />
-      <item value="process Active Id" />
-      <item value="error" />
-      <item value="return" />
-      <item value="success" />
-      <item value="To The Add All Current ProcessNode FROM User" />
-      <item value="proc Act Def Service" />
-      <item value="Process Common Kit" />
-      <item value="process" />
-      <item value="check Current Process Is End" />
-      <item value="super" />
-      <item value="boolean" />
-      <item value="public" />
-      <item value="i Engine Proc Def Service" />
-      <item value="A component required a bean of type 'com.ruoyi.project.process.utils.process.StatusProcessEngine' that could not be found." />
-      <item value="Init Translate Data Map" />
-      <item value="Inject Data Mapper" />
-      <item value="Rossen Stoyanchev" />
-      <item value="Juergen Hoeller" />
-      <item value="Mock Part" />
-      <item value="Test Process Engine" />
-      <item value="determine Annotation Type" />
-      <item value="get Declared Annotation" />
-      <item value="has Plain Java Annotations Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2238" />
-        <entry key="ENGLISH" value="2239" />
+        <entry key="CHINESE" value="2276" />
+        <entry key="ENGLISH" value="2276" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -71,7 +71,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRISIAN" value="1" />
-        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="6" />
         <entry key="LATIN" value="5" />
         <entry key="ROMANIAN" value="4" />
