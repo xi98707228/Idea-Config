@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="proc Act Def Service" />
+      <item value="Process Common Kit" />
+      <item value="process" />
+      <item value="check Current Process Is End" />
+      <item value="super" />
+      <item value="boolean" />
+      <item value="public" />
+      <item value="Override" />
+      <item value="check Current Active Segment Is Input Expect" />
       <item value="get Process Active Def Mapping By Template Id" />
       <item value="i Engine Proc Def Service" />
       <item value="A component required a bean of type 'com.ruoyi.project.process.utils.process.StatusProcessEngine' that could not be found." />
@@ -13,7 +22,6 @@
       <item value="Juergen Hoeller" />
       <item value="Mock Part" />
       <item value="Test Process Engine" />
-      <item value="check Current Process Is End" />
       <item value="determine Annotation Type" />
       <item value="get Declared Annotation" />
       <item value="has Plain Java Annotations Only" />
@@ -46,19 +54,11 @@
       <item value="comparator" />
       <item value="Returns" />
       <item value="lexicographic" />
-      <item value="then Comparing" />
-      <item value="Note: although @After is ordered before @AfterReturning and @AfterThrowing, an @After advice method will actually be invoked after @AfterReturning and @AfterThrowing methods due to the fact that AspectJAfterAdvice.invoke(MethodInvocation) invokes proceed() in a `try` block and only invokes the @After advice method in a corresponding `finally` block." />
-      <item value="aspect Cut" />
-      <item value="After Returning" />
-      <item value="advice" />
-      <item value="Druid Abstract Data Source" />
-      <item value="adapt For Attribute" />
-      <item value="Merged Annotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2171" />
-        <entry key="ENGLISH" value="2172" />
+        <entry key="CHINESE" value="2180" />
+        <entry key="ENGLISH" value="2181" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
