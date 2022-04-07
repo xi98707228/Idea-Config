@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Suppress Warnings" />
+      <item value="save Price Table" />
       <item value="producing" />
       <item value="scan" />
       <item value="Reflections" />
@@ -52,13 +54,11 @@
       <item value="get Process Active Def Mapping User By Template Id" />
       <item value="get Process Active Def Mapping By Template Id" />
       <item value="process Active Def Mapping By Template Id" />
-      <item value="返回包装后的流程人员信息" />
-      <item value="the Wrapper User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2289" />
-        <entry key="ENGLISH" value="2290" />
+        <entry key="CHINESE" value="2291" />
+        <entry key="ENGLISH" value="2292" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
