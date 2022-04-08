@@ -4,9 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="producing" />
+      <item value="number Of Leading Zeros" />
+      <item value="shift" />
+      <item value="to Hex String" />
+      <item value="pos" />
+      <item value="Pushback Input Stream" />
+      <item value="login User Nick Name" />
       <item value="Suppress Warnings" />
       <item value="save Price Table" />
-      <item value="producing" />
       <item value="scan" />
       <item value="Reflections" />
       <item value="restarted Main" />
@@ -48,17 +54,11 @@
       <item value="execute Add User To Process Node" />
       <item value="info" />
       <item value="Future" />
-      <item value="operate User" />
-      <item value="get Process Active Def List By Template Id" />
-      <item value="Override" />
-      <item value="get Process Active Def Mapping User By Template Id" />
-      <item value="get Process Active Def Mapping By Template Id" />
-      <item value="process Active Def Mapping By Template Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2291" />
-        <entry key="ENGLISH" value="2292" />
+        <entry key="CHINESE" value="2297" />
+        <entry key="ENGLISH" value="2298" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -88,7 +88,7 @@
         <entry key="GREEK" value="6" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
