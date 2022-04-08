@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="custom name" />
+      <item value="custom row id" />
+      <item value="SELECT" />
+      <item value="Preparing" />
+      <item value="debug" />
+      <item value="select List" />
+      <item value="success" />
+      <item value="Process Url Vo" />
+      <item value="form Url" />
+      <item value="file Url" />
+      <item value="advice Url" />
+      <item value="process Url" />
+      <item value="operate Url" />
       <item value="producing" />
       <item value="number Of Leading Zeros" />
       <item value="shift" />
@@ -41,24 +54,11 @@
       <item value="process Active Def List By Template Id" />
       <item value="set Act Def Id" />
       <item value="wrapper User" />
-      <item value="Engine Proc Userorg" />
-      <item value="save" />
-      <item value="proc Userorg Service" />
-      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="DESKTOP" />
-      <item value="WARN" />
-      <item value="3 SSJU 371649225573398_Misfire Handler" />
-      <item value="Druid Abstract Data Source" />
-      <item value="test Connection Internal" />
-      <item value="execute Add User To Process Node" />
-      <item value="info" />
-      <item value="Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2297" />
-        <entry key="ENGLISH" value="2298" />
+        <entry key="CHINESE" value="2310" />
+        <entry key="ENGLISH" value="2311" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
