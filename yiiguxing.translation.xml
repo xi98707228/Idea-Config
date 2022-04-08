@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="custom Contract Cost Record Service" />
+      <item value="plan" />
+      <item value="controller" />
+      <item value="cost Module" />
+      <item value="ruoyi" />
+      <item value="Contract Cost Plan Controller" />
       <item value="log Startup Profile Info" />
       <item value="TRANSACTION REPEATABLE READ" />
       <item value="TRANSACTION READ COMMITTED" />
@@ -48,17 +54,11 @@
       <item value="Suppress Warnings" />
       <item value="save Price Table" />
       <item value="scan" />
-      <item value="Reflections" />
-      <item value="restarted Main" />
-      <item value="提交处理意见时" />
-      <item value="builder" />
-      <item value="String" />
-      <item value="process Template Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2328" />
-        <entry key="ENGLISH" value="2329" />
+        <entry key="CHINESE" value="2333" />
+        <entry key="ENGLISH" value="2334" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
