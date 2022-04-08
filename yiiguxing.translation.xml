@@ -4,6 +4,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="log Startup Profile Info" />
+      <item value="TRANSACTION REPEATABLE READ" />
+      <item value="TRANSACTION READ COMMITTED" />
+      <item value="TRANSACTION READ UNCOMMITTED" />
+      <item value="Isolation" />
+      <item value="set Contract Count" />
+      <item value="先在老接口界面添加文件" />
+      <item value="顺便直接更改合同数据" />
+      <item value="compare And Swap Object" />
+      <item value="Revision notes: This differs from previous versions of this class that relied on AbstractQueuedSynchronizer, mainly to avoid surprising users about retaining interrupt status during cancellation races. Sync control in the current design relies on a &quot;state&quot; field updated via CAS to track completion, along with a simple Treiber stack to hold waiting threads. Style note: As usual, we bypass overhead of using AtomicXFieldUpdaters and instead directly use Unsafe intrinsics." />
+      <item value="Trusted Future" />
+      <item value="is Cancelled" />
+      <item value="A {@code Future} represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method {@code get} when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the {@code cancel} method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a {@code Future} for the sake of cancellability but not provide a usable result, you can declare types of the form {@code Future&lt;?&gt;} and return {@code null} as a result of the underlying task. &lt;p&gt; &lt;b&gt;Sample Usage&lt;b&gt; (Note that the following classes are all made-up.) &lt;pre&gt; {@code interface ArchiveSearcher { String search(String target); } class App { ExecutorService executor = ... ArchiveSearcher searcher = ... void showSearch(final String target) throws InterruptedException { Future&lt;String&gt; future = executor.submit(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); displayOtherThings(); do other things while searching try { displayText(future.get()); use future } catch (ExecutionException ex) { cleanup(); return; } } }}&lt;pre&gt; The {@link FutureTask} class is an implementation of {@code Future} that implements {@code Runnable}, and so may be executed by an {@code Executor}. For example, the above construction with {@code submit} could be replaced by: &lt;pre&gt; {@code FutureTask&lt;String&gt; future = new FutureTask&lt;String&gt;(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); executor.execute(future);}&lt;pre&gt; &lt;p&gt;Memory consistency effects: Actions taken by the asynchronous computation &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt; &lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions following the corresponding {@code Future.get()} in another thread. @see FutureTask @see Executor @since 1.5 @author Doug Lea @param &lt;V&gt; The result type returned by this Future's {@code get} method" />
+      <item value="Runnable Future" />
+      <item value="What will be run" />
+      <item value="Future Task" />
+      <item value="file Util" />
       <item value="确认收款" />
       <item value="status" />
       <item value="contract Plan" />
@@ -37,28 +54,11 @@
       <item value="builder" />
       <item value="String" />
       <item value="process Template Id" />
-      <item value="get Proc Def Id" />
-      <item value="Engine Proc Act Def" />
-      <item value="socket" />
-      <item value="following" />
-      <item value="show Room Center List" />
-      <item value="Service Room" />
-      <item value="room Keys" />
-      <item value="del flag" />
-      <item value="devlop service server" />
-      <item value="SQL Syntax Error Exception" />
-      <item value="phone number" />
-      <item value="Unknown" />
-      <item value="Bridge Method Resolver" />
-      <item value="get Dept" />
-      <item value="Async" />
-      <item value="process Future Status Call" />
-      <item value="insert User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2314" />
-        <entry key="ENGLISH" value="2314" />
+        <entry key="CHINESE" value="2328" />
+        <entry key="ENGLISH" value="2329" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -74,7 +74,7 @@
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="6" />
         <entry key="LATIN" value="5" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
