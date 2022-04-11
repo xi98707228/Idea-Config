@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="HV 000001" />
+      <item value="address" />
+      <item value="socket" />
+      <item value="transport" />
       <item value="current Contract" />
       <item value="Condition for waiting puts" />
       <item value="Condition for waiting takes" />
@@ -50,15 +54,11 @@
       <item value="Thread Pool Executor" />
       <item value="Supporting optional run-after-shutdown parameters, which leads to overrides of shutdown methods to remove and cancel tasks that should NOT be run after shutdown, as well as different recheck logic when task (re)submission overlaps with a shutdown." />
       <item value="specializes" />
-      <item value="Scheduled Executor Service" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="plan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2381" />
-        <entry key="ENGLISH" value="2382" />
+        <entry key="CHINESE" value="2385" />
+        <entry key="ENGLISH" value="2385" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -69,7 +69,7 @@
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="1" />
-        <entry key="FINNISH" value="5" />
+        <entry key="FINNISH" value="6" />
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="6" />
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649208835990" />
+    <option name="lastTrimTime" value="1649640978422" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
