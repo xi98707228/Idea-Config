@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="end" />
       <item value="relation User" />
       <item value="HV 000001" />
       <item value="address" />
@@ -53,12 +54,11 @@
       <item value="Using a custom task type, ScheduledFutureTask for tasks, even those that don't require scheduling (i.e., those submitted using ExecutorService execute, not ScheduledExecutorService methods) which are treated as delayed tasks with a delay of zero." />
       <item value="Using a custom queue (DelayedWorkQueue), a variant of unbounded DelayQueue. The lack of capacity constraint and the fact that corePoolSize and maximumPoolSize are effectively identical simplifies some execution mechanics (see delayedExecute) compared to ThreadPoolExecutor." />
       <item value="Thread Pool Executor" />
-      <item value="Supporting optional run-after-shutdown parameters, which leads to overrides of shutdown methods to remove and cancel tasks that should NOT be run after shutdown, as well as different recheck logic when task (re)submission overlaps with a shutdown." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2385" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="CHINESE" value="2386" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
