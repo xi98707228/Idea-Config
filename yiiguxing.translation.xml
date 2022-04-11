@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Is Finish" />
+      <item value="未完全收款" />
+      <item value="get Cost Balance Finish" />
+      <item value="set Cost Balance Finish" />
+      <item value="确认收款" />
+      <item value="receive Time" />
+      <item value="custom Contract Cost Plan Record" />
       <item value="confirm Nick Name" />
       <item value="residue Cost" />
       <item value="为完成状态" />
@@ -47,18 +54,11 @@
       <item value="create File" />
       <item value="Deprecated" />
       <item value="leave Cost" />
-      <item value="UUID" />
-      <item value="String" />
-      <item value="收款计划的" />
-      <item value="actual Cost" />
-      <item value="relation Cost" />
-      <item value="Async Http Accessor" />
-      <item value="Smart Initializing Singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2442" />
-        <entry key="ENGLISH" value="2443" />
+        <entry key="CHINESE" value="2450" />
+        <entry key="ENGLISH" value="2451" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
