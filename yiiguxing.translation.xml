@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Balance Finish" />
+      <item value="get Contract Really Cost" />
+      <item value="如果通知记录有当前收款计划那么就删除该收款通知" />
+      <item value="Get Mapping" />
+      <item value="Table Data Info" />
       <item value="set Is Perfect" />
       <item value="custom Contract Cost Record Service" />
       <item value="判断是否包含权限" />
@@ -49,16 +54,11 @@
       <item value="end" />
       <item value="relation User" />
       <item value="HV 000001" />
-      <item value="address" />
-      <item value="socket" />
-      <item value="transport" />
-      <item value="current Contract" />
-      <item value="Condition for waiting puts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2433" />
-        <entry key="ENGLISH" value="2434" />
+        <entry key="CHINESE" value="2437" />
+        <entry key="ENGLISH" value="2438" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
