@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="判断是否包含权限" />
+      <item value="permissions" />
+      <item value="权限字符串" />
+      <item value="permission" />
+      <item value="用户是否具备某权限" />
+      <item value="has Permissions" />
       <item value="Cost Record Status Type" />
       <item value="WAIT PAYMENT" />
       <item value="当收款计划没有收取计划金额时为此标志位" />
@@ -48,17 +54,11 @@
       <item value="Condition for waiting puts" />
       <item value="Condition for waiting takes" />
       <item value="not Empty" />
-      <item value="not Full" />
-      <item value="dequeue" />
-      <item value="take" />
-      <item value="Java Collections Framework" />
-      <item value="Doug Lea" />
-      <item value="the type of elements held in this collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2426" />
-        <entry key="ENGLISH" value="2427" />
+        <entry key="CHINESE" value="2432" />
+        <entry key="ENGLISH" value="2432" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
