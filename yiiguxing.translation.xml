@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="confirm Nick Name" />
+      <item value="residue Cost" />
+      <item value="为完成状态" />
+      <item value="收款计划的Row Id" />
+      <item value="record Row Id" />
+      <item value="Enable Configuration Properties" />
       <item value="set Balance Finish" />
       <item value="get Contract Really Cost" />
       <item value="如果通知记录有当前收款计划那么就删除该收款通知" />
@@ -40,7 +46,6 @@
       <item value="customer Id" />
       <item value="create File" />
       <item value="Deprecated" />
-      <item value="residue Cost" />
       <item value="leave Cost" />
       <item value="UUID" />
       <item value="String" />
@@ -49,16 +54,11 @@
       <item value="relation Cost" />
       <item value="Async Http Accessor" />
       <item value="Smart Initializing Singleton" />
-      <item value="Async Rest Template Customizer Config" />
-      <item value="set Actual Cost" />
-      <item value="end" />
-      <item value="relation User" />
-      <item value="HV 000001" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2437" />
-        <entry key="ENGLISH" value="2438" />
+        <entry key="CHINESE" value="2442" />
+        <entry key="ENGLISH" value="2443" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
