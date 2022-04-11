@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="WAIT PAYMENT" />
+      <item value="custom contract costplan record" />
+      <item value="No Args Constructor" />
+      <item value="Custom Contract Cost Plan Record" />
+      <item value="Returns the signum function of the specified {@code long} value. (The return value is -1 if the specified value is negative; 0 if the specified value is zero; and 1 if the specified value is positive.) @param i the value whose signum is to be computed @return the signum function of the specified {@code long} value." />
       <item value="singleton Cost Record" />
       <item value="更改合同收款计划的状态" />
       <item value="操作成功" />
@@ -20,13 +25,11 @@
       <item value="Deprecated" />
       <item value="residue Cost" />
       <item value="leave Cost" />
-      <item value="Custom Contract Cost Plan Record" />
       <item value="UUID" />
       <item value="String" />
       <item value="收款计划的" />
       <item value="actual Cost" />
       <item value="relation Cost" />
-      <item value="WAIT PAYMENT" />
       <item value="Async Http Accessor" />
       <item value="Smart Initializing Singleton" />
       <item value="Async Rest Template Customizer Config" />
@@ -51,14 +54,11 @@
       <item value="CANCELLED" />
       <item value="EXCEPTIONAL" />
       <item value="NORMAL" />
-      <item value="COMPLETING" />
-      <item value="Possible state transitions: NEW -&gt; COMPLETING -&gt; NORMAL NEW -&gt; COMPLETING -&gt; EXCEPTIONAL NEW -&gt; CANCELLED NEW -&gt; INTERRUPTING -&gt; INTERRUPTED" />
-      <item value="INTERRUPTING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2415" />
-        <entry key="ENGLISH" value="2416" />
+        <entry key="CHINESE" value="2421" />
+        <entry key="ENGLISH" value="2422" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
