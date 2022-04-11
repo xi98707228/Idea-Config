@@ -4,7 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Cost Record Status Type" />
       <item value="WAIT PAYMENT" />
+      <item value="当收款计划没有收取计划金额时为此标志位" />
+      <item value="singleton Contract File" />
+      <item value="change Customer Contract Record Status" />
       <item value="custom contract costplan record" />
       <item value="No Args Constructor" />
       <item value="Custom Contract Cost Plan Record" />
@@ -50,15 +54,11 @@
       <item value="Java Collections Framework" />
       <item value="Doug Lea" />
       <item value="the type of elements held in this collection" />
-      <item value="enqueue" />
-      <item value="CANCELLED" />
-      <item value="EXCEPTIONAL" />
-      <item value="NORMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2421" />
-        <entry key="ENGLISH" value="2422" />
+        <entry key="CHINESE" value="2426" />
+        <entry key="ENGLISH" value="2427" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
