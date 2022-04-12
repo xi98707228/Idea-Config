@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="actually" />
+      <item value="Only proceed with retrieved object if still present (the expected case). If it disappeared concurrently, we return our locally created instance." />
+      <item value="Abstract Request Attributes Scope" />
       <item value="Request Mapping" />
       <item value="Rest Controller" />
       <item value="source Type" />
@@ -51,14 +54,11 @@
       <item value="权限字符串" />
       <item value="permission" />
       <item value="用户是否具备某权限" />
-      <item value="has Permissions" />
-      <item value="Cost Record Status Type" />
-      <item value="WAIT PAYMENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2474" />
-        <entry key="ENGLISH" value="2475" />
+        <entry key="CHINESE" value="2477" />
+        <entry key="ENGLISH" value="2478" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
