@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="inner Cost Order" />
+      <item value="is Inner Cost Order" />
+      <item value="is Relation Cost Order" />
       <item value="MM" />
       <item value="yyyy" />
       <item value="receive Time" />
@@ -51,14 +54,11 @@
       <item value="如果通知记录有当前收款计划那么就删除该收款通知" />
       <item value="Get Mapping" />
       <item value="Table Data Info" />
-      <item value="set Is Perfect" />
-      <item value="判断是否包含权限" />
-      <item value="permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2480" />
-        <entry key="ENGLISH" value="2481" />
+        <entry key="CHINESE" value="2483" />
+        <entry key="ENGLISH" value="2484" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
