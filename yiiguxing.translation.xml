@@ -4,13 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="finance Cost Order Service" />
+      <item value="财务模块" />
+      <item value="收款单相关接口" />
+      <item value="controller" />
+      <item value="finance" />
+      <item value="project" />
+      <item value="cost Plan Id" />
+      <item value="那么下次创建收款单的时候还可以选中当前收款计划加入到收款单中" />
       <item value="inner Cost Order" />
       <item value="is Inner Cost Order" />
       <item value="is Relation Cost Order" />
       <item value="MM" />
       <item value="yyyy" />
       <item value="receive Time" />
-      <item value="收款单相关接口" />
       <item value="actually" />
       <item value="Only proceed with retrieved object if still present (the expected case). If it disappeared concurrently, we return our locally created instance." />
       <item value="Abstract Request Attributes Scope" />
@@ -47,18 +54,11 @@
       <item value="residue Cost" />
       <item value="为完成状态" />
       <item value="收款计划的Row Id" />
-      <item value="record Row Id" />
-      <item value="Enable Configuration Properties" />
-      <item value="set Balance Finish" />
-      <item value="get Contract Really Cost" />
-      <item value="如果通知记录有当前收款计划那么就删除该收款通知" />
-      <item value="Get Mapping" />
-      <item value="Table Data Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2483" />
-        <entry key="ENGLISH" value="2484" />
+        <entry key="CHINESE" value="2490" />
+        <entry key="ENGLISH" value="2491" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
