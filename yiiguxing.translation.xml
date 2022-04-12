@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Request Mapping" />
+      <item value="Rest Controller" />
+      <item value="source Type" />
+      <item value="author Nick Name" />
+      <item value="author Nick" />
+      <item value="author" />
+      <item value="created User Name" />
+      <item value="create User Name" />
+      <item value="create Nick Name" />
       <item value="get Data List" />
       <item value="Finance Cost Plan Controller" />
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details. @param cls the {@code Class} object to be checked @return the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class @exception NullPointerException if the specified Class parameter is" />
@@ -13,7 +22,6 @@
       <item value="status" />
       <item value="create Time" />
       <item value="create User Nick Name" />
-      <item value="create User Name" />
       <item value="remakes" />
       <item value="确认收款标志位" />
       <item value="is Finish" />
@@ -46,19 +54,11 @@
       <item value="has Permissions" />
       <item value="Cost Record Status Type" />
       <item value="WAIT PAYMENT" />
-      <item value="当收款计划没有收取计划金额时为此标志位" />
-      <item value="singleton Contract File" />
-      <item value="change Customer Contract Record Status" />
-      <item value="custom contract costplan record" />
-      <item value="No Args Constructor" />
-      <item value="Custom Contract Cost Plan Record" />
-      <item value="Returns the signum function of the specified {@code long} value. (The return value is -1 if the specified value is negative; 0 if the specified value is zero; and 1 if the specified value is positive.) @param i the value whose signum is to be computed @return the signum function of the specified {@code long} value." />
-      <item value="singleton Cost Record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2466" />
-        <entry key="ENGLISH" value="2467" />
+        <entry key="CHINESE" value="2474" />
+        <entry key="ENGLISH" value="2475" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
