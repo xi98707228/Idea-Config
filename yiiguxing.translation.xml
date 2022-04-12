@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="MM" />
+      <item value="yyyy" />
+      <item value="receive Time" />
+      <item value="收款单相关接口" />
       <item value="actually" />
       <item value="Only proceed with retrieved object if still present (the expected case). If it disappeared concurrently, we return our locally created instance." />
       <item value="Abstract Request Attributes Scope" />
@@ -21,7 +25,6 @@
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details. @param cls the {@code Class} object to be checked @return the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class @exception NullPointerException if the specified Class parameter is" />
       <item value="is Assignable From" />
       <item value="Resolver Util" />
-      <item value="receive Time" />
       <item value="status" />
       <item value="create Time" />
       <item value="create User Nick Name" />
@@ -51,14 +54,11 @@
       <item value="set Is Perfect" />
       <item value="判断是否包含权限" />
       <item value="permissions" />
-      <item value="权限字符串" />
-      <item value="permission" />
-      <item value="用户是否具备某权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2477" />
-        <entry key="ENGLISH" value="2478" />
+        <entry key="CHINESE" value="2480" />
+        <entry key="ENGLISH" value="2481" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
