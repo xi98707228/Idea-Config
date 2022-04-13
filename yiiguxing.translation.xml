@@ -4,7 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="log Startup Profile Info" />
+      <item value="Finance Plan Order" />
+      <item value="Finance Cost Plan Part" />
       <item value="finance Plan Order Relation" />
+      <item value="finance Plan Order Service" />
+      <item value="success" />
       <item value="set Cost Order Id" />
       <item value="finance Cost Plan Part" />
       <item value="is Not Empty" />
@@ -49,16 +54,11 @@
       <item value="create Time" />
       <item value="create User Nick Name" />
       <item value="remakes" />
-      <item value="确认收款标志位" />
-      <item value="is Finish" />
-      <item value="last Pay Time" />
-      <item value="socket" />
-      <item value="custom Contract Cost Record Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2500" />
-        <entry key="ENGLISH" value="2501" />
+        <entry key="CHINESE" value="2507" />
+        <entry key="ENGLISH" value="2508" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
