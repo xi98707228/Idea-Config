@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="invoke Within Transaction" />
       <item value="Status Process Engine" />
       <item value="ID WORKER STR" />
       <item value="row id" />
@@ -53,12 +54,11 @@
       <item value="Abstract Request Attributes Scope" />
       <item value="Request Mapping" />
       <item value="Rest Controller" />
-      <item value="source Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2523" />
-        <entry key="ENGLISH" value="2524" />
+        <entry key="CHINESE" value="2524" />
+        <entry key="ENGLISH" value="2525" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
