@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Page" />
+      <item value="param String" />
+      <item value="param Object" />
+      <item value="finance Cost Order Service" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="actual Cost" />
       <item value="order Row Id" />
       <item value="cost Plan Row Id" />
@@ -49,16 +54,11 @@
       <item value="abandoned" />
       <item value="is Assignable From" />
       <item value="payment Way" />
-      <item value="finance Cost Order Service" />
-      <item value="财务模块" />
-      <item value="收款单相关接口" />
-      <item value="controller" />
-      <item value="finance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2546" />
-        <entry key="ENGLISH" value="2547" />
+        <entry key="CHINESE" value="2552" />
+        <entry key="ENGLISH" value="2553" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
