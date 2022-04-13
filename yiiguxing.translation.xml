@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Count Down Latch" />
+      <item value="Cyclic Barrier" />
+      <item value="release" />
+      <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
+      <item value="get Permits" />
+      <item value="acquires" />
+      <item value="available" />
       <item value="start Page" />
       <item value="param String" />
       <item value="param Object" />
@@ -47,18 +54,11 @@
       <item value="finance Plan Order Service" />
       <item value="success" />
       <item value="set Cost Order Id" />
-      <item value="finance Cost Plan Part" />
-      <item value="is Not Empty" />
-      <item value="get Order Row Id" />
-      <item value="MIN VALUE" />
-      <item value="abandoned" />
-      <item value="is Assignable From" />
-      <item value="payment Way" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2552" />
-        <entry key="ENGLISH" value="2553" />
+        <entry key="CHINESE" value="2558" />
+        <entry key="ENGLISH" value="2559" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
