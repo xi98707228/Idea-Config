@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="finance Plan Order Relation" />
+      <item value="set Cost Order Id" />
+      <item value="finance Cost Plan Part" />
+      <item value="is Not Empty" />
+      <item value="get Order Row Id" />
+      <item value="row Id" />
+      <item value="actual Cost" />
       <item value="MIN VALUE" />
       <item value="abandoned" />
       <item value="is Assignable From" />
@@ -47,18 +54,11 @@
       <item value="last Pay Time" />
       <item value="socket" />
       <item value="custom Contract Cost Record Service" />
-      <item value="get Is Finish" />
-      <item value="未完全收款" />
-      <item value="get Cost Balance Finish" />
-      <item value="set Cost Balance Finish" />
-      <item value="确认收款" />
-      <item value="custom Contract Cost Plan Record" />
-      <item value="confirm Nick Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2493" />
-        <entry key="ENGLISH" value="2494" />
+        <entry key="CHINESE" value="2500" />
+        <entry key="ENGLISH" value="2501" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
