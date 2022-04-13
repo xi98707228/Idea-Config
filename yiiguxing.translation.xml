@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="exception" />
+      <item value="Method Invocation" />
+      <item value="get Executor Qualifier" />
+      <item value="get Contract Really Cost" />
+      <item value="contract File" />
       <item value="invoke Within Transaction" />
       <item value="Status Process Engine" />
       <item value="ID WORKER STR" />
@@ -49,16 +54,11 @@
       <item value="MM" />
       <item value="yyyy" />
       <item value="receive Time" />
-      <item value="actually" />
-      <item value="Only proceed with retrieved object if still present (the expected case). If it disappeared concurrently, we return our locally created instance." />
-      <item value="Abstract Request Attributes Scope" />
-      <item value="Request Mapping" />
-      <item value="Rest Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2524" />
-        <entry key="ENGLISH" value="2525" />
+        <entry key="CHINESE" value="2529" />
+        <entry key="ENGLISH" value="2530" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
