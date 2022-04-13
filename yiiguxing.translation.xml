@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Methods" />
+      <item value="Object Factory" />
+      <item value="environment" />
+      <item value="principals" />
+      <item value="Subject" />
+      <item value="The class fingerprint that is set to indicate serialization compatibility with a previous version of the class." />
+      <item value="上传财务模块" />
+      <item value="attach Files" />
+      <item value="relation Row Id" />
+      <item value="cost Order" />
+      <item value="get Cost Order List" />
+      <item value="price Table Path" />
       <item value="Quartz Scheduler" />
       <item value="Count Down Latch" />
       <item value="Cyclic Barrier" />
@@ -42,23 +54,11 @@
       <item value="custom Dept Id" />
       <item value="remakes" />
       <item value="subtract" />
-      <item value="update Contract Actual Cost And Syncing" />
-      <item value="Async" />
-      <item value="Custom Contract Cost Record Service Impl" />
-      <item value="update Cost Plan Actual Cost And Sync Status" />
-      <item value="finance Plan Order Relation" />
-      <item value="更新收款计划金额" />
-      <item value="save" />
-      <item value="log Startup Profile Info" />
-      <item value="Finance Plan Order" />
-      <item value="Finance Cost Plan Part" />
-      <item value="finance Plan Order Service" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2559" />
-        <entry key="ENGLISH" value="2560" />
+        <entry key="CHINESE" value="2568" />
+        <entry key="ENGLISH" value="2569" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -73,6 +73,7 @@
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="6" />
+        <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="5" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAYALAM" value="1" />
