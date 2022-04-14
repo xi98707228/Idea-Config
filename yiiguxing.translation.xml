@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="argument type mismatch" />
       <item value="Simple Date Format" />
       <item value="get" />
       <item value="service room image" />
@@ -53,12 +54,11 @@
       <item value="cost Order" />
       <item value="get Cost Order List" />
       <item value="price Table Path" />
-      <item value="Quartz Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2615" />
-        <entry key="ENGLISH" value="2616" />
+        <entry key="CHINESE" value="2616" />
+        <entry key="ENGLISH" value="2617" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
