@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="msdownload" />
+      <item value="Temporal Accessor" />
+      <item value="Required Args Constructor" />
+      <item value="Eclipse's Parser class is instrumented to not attempt to fill in the body of any method or initializer or field initialization if this flag is set. Set it on the flag field of any method, field, or initializer you create!" />
+      <item value="get Upload Category" />
+      <item value="String paramString;" />
       <item value="Miscellaneous utility classes, such as String manipulation utilities, a Log4J configurer, and a state holder for paged lists of objects." />
       <item value="A common Spring annotation to declare that parameters and return values are to be considered as non-nullable by default for a given package. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at package level in association with {@link Nullable} annotations at parameter and return value level." />
       <item value="Non Null" />
@@ -48,17 +54,11 @@
       <item value="is Assignable From" />
       <item value="is Primitive" />
       <item value="The CGLIB class separator" />
-      <item value="The inner class separator character" />
-      <item value="Methods" />
-      <item value="Object Factory" />
-      <item value="environment" />
-      <item value="principals" />
-      <item value="Subject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2621" />
-        <entry key="ENGLISH" value="2622" />
+        <entry key="CHINESE" value="2627" />
+        <entry key="ENGLISH" value="2628" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
