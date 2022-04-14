@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Multipart File" />
       <item value="category Enum" />
       <item value="extends" />
       <item value="implements" />
@@ -53,12 +54,11 @@
       <item value="release" />
       <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
       <item value="get Permits" />
-      <item value="acquires" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2609" />
-        <entry key="ENGLISH" value="2610" />
+        <entry key="CHINESE" value="2610" />
+        <entry key="ENGLISH" value="2611" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
