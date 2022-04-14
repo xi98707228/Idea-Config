@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Parameters" />
+      <item value="order" />
+      <item value="cost" />
+      <item value="finance" />
+      <item value="Request Mapping" />
+      <item value="Rest Controller" />
       <item value="msdownload" />
       <item value="Temporal Accessor" />
       <item value="Required Args Constructor" />
@@ -48,17 +54,11 @@
       <item value="Finance Attach Category Enums" />
       <item value="project" />
       <item value="Service Impl" />
-      <item value="Copy to jodd.util &lt;p&gt; Pool of &lt;code&gt;String&lt;code&gt; constants to prevent repeating of hard-coded &lt;code&gt;String&lt;code&gt; literals in the code. Due to fact that these are &lt;code&gt;public static final&lt;code&gt; they will be inlined by java compiler and reference to this class will be dropped. There is &lt;b&gt;no&lt;b&gt; performance gain of using this pool. Read: https:java.sun.comdocsbooksjlsthird_editionhtmllexical.html3.10.5 &lt;ul&gt; &lt;li&gt;Literal strings within the same class in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in different packages likewise represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Strings computed by constant expressions are computed at compile time and then treated as if they were literals.&lt;li&gt; &lt;li&gt;Strings computed by concatenation at run time are newly created and therefore distinct.&lt;li&gt; &lt;ul&gt;" />
-      <item value="finance Attach Service" />
-      <item value="Finance Attach Service" />
-      <item value="is Assignable From" />
-      <item value="is Primitive" />
-      <item value="The CGLIB class separator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2627" />
-        <entry key="ENGLISH" value="2628" />
+        <entry key="CHINESE" value="2640" />
+        <entry key="ENGLISH" value="2641" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
