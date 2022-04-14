@@ -4,8 +4,31 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Copy to jodd.util &lt;p&gt; Pool of &lt;code&gt;String&lt;code&gt; constants to prevent repeating of hard-coded &lt;code&gt;String&lt;code&gt; literals in the code. Due to fact that these are &lt;code&gt;public static final&lt;code&gt; they will be inlined by java compiler and reference to this class will be dropped. There is &lt;b&gt;no&lt;b&gt; performance gain of using this pool. Read: https:java.sun.comdocsbooksjlsthird_editionhtmllexical.html3.10.5 &lt;ul&gt; &lt;li&gt;Literal strings within the same class in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in different packages likewise represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Strings computed by constant expressions are computed at compile time and then treated as if they were literals.&lt;li&gt; &lt;li&gt;Strings computed by concatenation at run time are newly created and therefore distinct.&lt;li&gt; &lt;ul&gt;" />
+      <item value="category Enum" />
+      <item value="extends" />
+      <item value="implements" />
+      <item value="Post Construct" />
+      <item value="Override" />
+      <item value="Listable Bean Factory" />
       <item value="finance Dir Path" />
+      <item value="Debug" />
+      <item value="@author Li Gong @author Roland Schemers" />
+      <item value="Caller Sensitive" />
+      <item value="Charset" />
+      <item value="Finance Attach Service Impl" />
+      <item value="类别枚举" />
+      <item value="upload Finance Attach" />
+      <item value="WARN" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="3 SSJU 371649837219104_Misfire Handler" />
+      <item value="DESKTOP" />
+      <item value="Finance Cost Order Service Impl" />
+      <item value="Finance Attach Category Enums" />
+      <item value="project" />
+      <item value="Service Impl" />
+      <item value="Copy to jodd.util &lt;p&gt; Pool of &lt;code&gt;String&lt;code&gt; constants to prevent repeating of hard-coded &lt;code&gt;String&lt;code&gt; literals in the code. Due to fact that these are &lt;code&gt;public static final&lt;code&gt; they will be inlined by java compiler and reference to this class will be dropped. There is &lt;b&gt;no&lt;b&gt; performance gain of using this pool. Read: https:java.sun.comdocsbooksjlsthird_editionhtmllexical.html3.10.5 &lt;ul&gt; &lt;li&gt;Literal strings within the same class in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in the same package represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Literal strings within different classes in different packages likewise represent references to the same &lt;code&gt;String&lt;code&gt; object.&lt;li&gt; &lt;li&gt;Strings computed by constant expressions are computed at compile time and then treated as if they were literals.&lt;li&gt; &lt;li&gt;Strings computed by concatenation at run time are newly created and therefore distinct.&lt;li&gt; &lt;ul&gt;" />
       <item value="finance Attach Service" />
       <item value="Finance Attach Service" />
       <item value="is Assignable From" />
@@ -31,34 +54,11 @@
       <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
       <item value="get Permits" />
       <item value="acquires" />
-      <item value="available" />
-      <item value="start Page" />
-      <item value="param String" />
-      <item value="param Object" />
-      <item value="finance Cost Order Service" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="actual Cost" />
-      <item value="order Row Id" />
-      <item value="cost Plan Row Id" />
-      <item value="update Contract Actual Cost And Sync Status" />
-      <item value="contract File" />
-      <item value="cost Plan Record" />
-      <item value="Custom Contract Cost Plan Record" />
-      <item value="设置最近收款时间" />
-      <item value="get Status Code" />
-      <item value="then Accept Both Async" />
-      <item value="then Accept Both" />
-      <item value="Completion Stage" />
-      <item value="exception" />
-      <item value="Method Invocation" />
-      <item value="get Executor Qualifier" />
-      <item value="get Contract Really Cost" />
-      <item value="invoke Within Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2575" />
-        <entry key="ENGLISH" value="2576" />
+        <entry key="CHINESE" value="2609" />
+        <entry key="ENGLISH" value="2610" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="8" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="12" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="1" />
