@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get" />
+      <item value="service room image" />
+      <item value="socket" />
+      <item value="finance Attach Mapper" />
       <item value="Multipart File" />
       <item value="category Enum" />
       <item value="extends" />
@@ -50,15 +54,11 @@
       <item value="price Table Path" />
       <item value="Quartz Scheduler" />
       <item value="Count Down Latch" />
-      <item value="Cyclic Barrier" />
-      <item value="release" />
-      <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
-      <item value="get Permits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2610" />
-        <entry key="ENGLISH" value="2611" />
+        <entry key="CHINESE" value="2614" />
+        <entry key="ENGLISH" value="2615" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
