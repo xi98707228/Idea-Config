@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Miscellaneous utility classes, such as String manipulation utilities, a Log4J configurer, and a state holder for paged lists of objects." />
+      <item value="A common Spring annotation to declare that parameters and return values are to be considered as non-nullable by default for a given package. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at package level in association with {@link Nullable} annotations at parameter and return value level." />
+      <item value="Non Null" />
+      <item value="Nullable" />
+      <item value="A common Spring annotation to declare that annotated elements cannot be {@code null}. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at parameter, return value, and field level. Method overrides should repeat parent {@code @NonNull} annotations unless they behave differently. &lt;p&gt;Use {@code @NonNullApi} (scope = parameters + return values) andor {@code @NonNullFields} (scope = fields) to set the default behavior to non-nullable in order to avoid annotating your whole codebase with {@code @NonNull}." />
       <item value="获取收款单数据列表" />
       <item value="search Filter" />
       <item value="argument type mismatch" />
@@ -49,16 +54,11 @@
       <item value="environment" />
       <item value="principals" />
       <item value="Subject" />
-      <item value="The class fingerprint that is set to indicate serialization compatibility with a previous version of the class." />
-      <item value="上传财务模块" />
-      <item value="attach Files" />
-      <item value="relation Row Id" />
-      <item value="cost Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2618" />
-        <entry key="ENGLISH" value="2618" />
+        <entry key="CHINESE" value="2621" />
+        <entry key="ENGLISH" value="2622" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -75,7 +75,7 @@
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="6" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="5" />
+        <entry key="LATIN" value="6" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
