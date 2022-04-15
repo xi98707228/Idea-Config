@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="关联对应模块数据的Row Id" />
-      <item value="上传的附件实体数组" />
-      <item value="上传文件类别" />
-      <item value="是否上传成功" />
-      <item value="file Category" />
-      <item value="Finance Attach Search Filter" />
-      <item value="param Object" />
-      <item value="exchange" />
-      <item value="Mono" />
-      <item value="search Filter" />
-      <item value="custom Dept Id" />
-      <item value="Base Filter" />
-      <item value="Finance Statistics Search Filter" />
-      <item value="Parameters" />
-      <item value="order" />
-      <item value="cost" />
-      <item value="finance" />
-      <item value="Request Mapping" />
-      <item value="Rest Controller" />
-      <item value="msdownload" />
-      <item value="Temporal Accessor" />
-      <item value="Required Args Constructor" />
-      <item value="Eclipse's Parser class is instrumented to not attempt to fill in the body of any method or initializer or field initialization if this flag is set. Set it on the flag field of any method, field, or initializer you create!" />
-      <item value="get Upload Category" />
-      <item value="String paramString;" />
-      <item value="Miscellaneous utility classes, such as String manipulation utilities, a Log4J configurer, and a state holder for paged lists of objects." />
-      <item value="A common Spring annotation to declare that parameters and return values are to be considered as non-nullable by default for a given package. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at package level in association with {@link Nullable} annotations at parameter and return value level." />
-      <item value="Non Null" />
-      <item value="Nullable" />
-      <item value="A common Spring annotation to declare that annotated elements cannot be {@code null}. &lt;p&gt;Leverages JSR-305 meta-annotations to indicate nullability in Java to common tools with JSR-305 support and used by Kotlin to infer nullability of Spring API. &lt;p&gt;Should be used at parameter, return value, and field level. Method overrides should repeat parent {@code @NonNull} annotations unless they behave differently. &lt;p&gt;Use {@code @NonNullApi} (scope = parameters + return values) andor {@code @NonNullFields} (scope = fields) to set the default behavior to non-nullable in order to avoid annotating your whole codebase with {@code @NonNull}." />
-      <item value="获取收款单数据列表" />
-      <item value="argument type mismatch" />
-      <item value="Simple Date Format" />
-      <item value="get" />
-      <item value="service room image" />
-      <item value="socket" />
-      <item value="finance Attach Mapper" />
-      <item value="Multipart File" />
-      <item value="category Enum" />
-      <item value="extends" />
-      <item value="implements" />
-      <item value="Post Construct" />
-      <item value="Override" />
-      <item value="Listable Bean Factory" />
-      <item value="finance Dir Path" />
-      <item value="Debug" />
-      <item value="@author Li Gong @author Roland Schemers" />
+      <item value="is Caller Sensitive" />
       <item value="Caller Sensitive" />
-      <item value="Charset" />
-      <item value="Finance Attach Service Impl" />
+      <item value="get Caller Class" />
+      <item value="Finance Statistics Service Impl" />
+      <item value="Service" />
+      <item value="Locked Updater" />
+      <item value="VM Supports CS 8" />
+      <item value="decrement And Get" />
+      <item value="Limit Latch" />
+      <item value="A synchronizer that may be exclusively owned by a thread. This class provides a basis for creating locks and related synchronizers that may entail a notion of ownership. The {@code AbstractOwnableSynchronizer} class itself does not manage or use this information. However, subclasses and tools may use appropriately maintained values to help control and monitor access and provide diagnostics." />
+      <item value="Abstract Ownable Synchronizer" />
+      <item value="Match the scales of two {@code BigDecimal}s to align their least significant digits. &lt;p&gt;If the scales of val[0] and val[1] differ, rescale (non-destructively) the lower-scaled {@code BigDecimal} so they match. That is, the lower-scaled reference will be replaced by a reference to a new object with the same scale as the other {@code BigDecimal}. @param val array of two elements referring to the two {@code BigDecimal}s to be aligned." />
+      <item value="set Int Compact Volatile" />
+      <item value="int Compact" />
+      <item value="Unsafe Holder" />
+      <item value="long Long Compare Magnitude" />
+      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
+      <item value="Finance Statistics Constant Pool" />
+      <item value="CONTRACT STATISTICS KEY" />
+      <item value="WORK ORDER STATISTICS KEY" />
+      <item value="Finance Module Statistics" />
+      <item value="contract Statistics" />
+      <item value="String" />
+      <item value="CONTRACT STATISTICS DATA" />
+      <item value="计算当前客户下边所有合同的所有金额信息" />
+      <item value="Part Bean" />
+      <item value="List" />
+      <item value="xqh" />
+      <item value="author" />
+      <item value="package" />
+      <item value="data" />
+      <item value="project" />
+      <item value="finance" />
+      <item value="service" />
+      <item value="ruoyi" />
+      <item value="Finance Statistics Service" />
+      <item value="compute Contract Part Statistics" />
+      <item value="computed Contract Part Statistics" />
+      <item value="computed Contract Data" />
+      <item value="computed Contract Part" />
+      <item value="statistics Part Result" />
+      <item value="statistics Part Name" />
+      <item value="part Statistics Name" />
+      <item value="part Statistics Result" />
+      <item value="customer Project List" />
+      <item value="get Customer Dept Id" />
+      <item value="get Custom Dept Id" />
+      <item value="search Filter" />
+      <item value="Object" />
+      <item value="execute Post Statistics Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2657" />
-        <entry key="ENGLISH" value="2657" />
+        <entry key="CHINESE" value="2776" />
+        <entry key="ENGLISH" value="2777" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -88,11 +88,11 @@
         <entry key="SLOVAK" value="5" />
         <entry key="SLOVENIAN" value="3" />
         <entry key="SPANISH" value="2" />
-        <entry key="GREEK" value="6" />
+        <entry key="GREEK" value="7" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
