@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="compute Contract Part Statistics" />
+      <item value="Ulf Zibis" />
+      <item value="Char Sequence" />
+      <item value="Appendable" />
+      <item value="Joshua Bloch" />
+      <item value="Override" />
+      <item value="Finance Statistics Contract" />
+      <item value="for Each" />
+      <item value="Finance Statistics Contract Part" />
+      <item value="statistics Contract Parts" />
+      <item value="compute Really Count Result" />
+      <item value="compute Count Result" />
+      <item value="总的合同金额" />
+      <item value="compute Contract Data" />
       <item value="is Caller Sensitive" />
       <item value="Caller Sensitive" />
       <item value="get Caller Class" />
@@ -40,25 +54,11 @@
       <item value="service" />
       <item value="ruoyi" />
       <item value="Finance Statistics Service" />
-      <item value="compute Contract Part Statistics" />
-      <item value="computed Contract Part Statistics" />
-      <item value="computed Contract Data" />
-      <item value="computed Contract Part" />
-      <item value="statistics Part Result" />
-      <item value="statistics Part Name" />
-      <item value="part Statistics Name" />
-      <item value="part Statistics Result" />
-      <item value="customer Project List" />
-      <item value="get Customer Dept Id" />
-      <item value="get Custom Dept Id" />
-      <item value="search Filter" />
-      <item value="Object" />
-      <item value="execute Post Statistics Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2776" />
-        <entry key="ENGLISH" value="2777" />
+        <entry key="CHINESE" value="2794" />
+        <entry key="ENGLISH" value="2795" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -83,6 +83,7 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="SAMOAN" value="5" />
         <entry key="SESOTHO" value="1" />
         <entry key="SLOVAK" value="5" />
