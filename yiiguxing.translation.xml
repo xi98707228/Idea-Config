@@ -4,10 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="lambda" />
+      <item value="param String" />
       <item value="execute Finance Module Statistics" />
       <item value="statistics" />
       <item value="execute" />
-      <item value="param String" />
       <item value="关联项目相关数据" />
       <item value="关联合同" />
       <item value="关联收款计划" />
@@ -53,12 +54,11 @@
       <item value="Unsafe Holder" />
       <item value="long Long Compare Magnitude" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
-      <item value="Finance Statistics Constant Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2817" />
-        <entry key="ENGLISH" value="2818" />
+        <entry key="CHINESE" value="2819" />
+        <entry key="ENGLISH" value="2820" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
