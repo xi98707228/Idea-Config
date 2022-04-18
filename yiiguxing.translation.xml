@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="accumulator Function" />
+      <item value="value Offset" />
+      <item value="set Create Time" />
+      <item value="save Finance Cost Order" />
       <item value="add" />
       <item value="INFLATED" />
       <item value="get Residue Cost" />
@@ -50,15 +54,11 @@
       <item value="param String" />
       <item value="is Not Empty" />
       <item value="customer Project Service" />
-      <item value="customer Project List" />
-      <item value="get Customer Dept Id" />
-      <item value="Customer Project" />
-      <item value="non Null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2924" />
-        <entry key="ENGLISH" value="2925" />
+        <entry key="CHINESE" value="2928" />
+        <entry key="ENGLISH" value="2929" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
