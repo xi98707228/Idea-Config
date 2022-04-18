@@ -4,12 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="i Customer Manage Service" />
+      <item value="wait Remove Dept Id" />
+      <item value="parse Long" />
+      <item value="wait Remove Project List" />
+      <item value="get Customer Dept Id" />
+      <item value="Quartz Scheduler" />
+      <item value="Tomcat" />
+      <item value="engine" />
+      <item value="Apache" />
+      <item value="Servlet" />
+      <item value="Starting" />
+      <item value="Standard Engine" />
+      <item value="wait Remove Customer" />
+      <item value="Customer Manage" />
+      <item value="i Sys Dept Service" />
+      <item value="merge Expected List Size" />
+      <item value="repeat Phone Number" />
       <item value="relation Contact Ids" />
       <item value="null" />
       <item value="select Project User" />
       <item value="get User Name" />
       <item value="和项目所有关联的人员" />
-      <item value="i Sys Dept Service" />
       <item value="Business Type" />
       <item value="business Type" />
       <item value="lambda" />
@@ -38,27 +54,11 @@
       <item value="Joshua Bloch" />
       <item value="Override" />
       <item value="Finance Statistics Contract" />
-      <item value="for Each" />
-      <item value="Finance Statistics Contract Part" />
-      <item value="statistics Contract Parts" />
-      <item value="compute Really Count Result" />
-      <item value="compute Count Result" />
-      <item value="总的合同金额" />
-      <item value="compute Contract Data" />
-      <item value="is Caller Sensitive" />
-      <item value="Caller Sensitive" />
-      <item value="get Caller Class" />
-      <item value="Finance Statistics Service Impl" />
-      <item value="Service" />
-      <item value="Locked Updater" />
-      <item value="VM Supports CS 8" />
-      <item value="decrement And Get" />
-      <item value="Limit Latch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2828" />
-        <entry key="ENGLISH" value="2829" />
+        <entry key="CHINESE" value="2848" />
+        <entry key="ENGLISH" value="2849" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
