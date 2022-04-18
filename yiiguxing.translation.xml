@@ -4,13 +4,38 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="add" />
+      <item value="INFLATED" />
+      <item value="get Residue Cost" />
+      <item value="Custom Contract Cost Plan Record" />
+      <item value="contract Row Id" />
+      <item value="statistics Part Result" />
+      <item value="statistics Part Really Result" />
+      <item value="compute Count Result" />
+      <item value="get Contract Should Cost" />
+      <item value="compute Contract Data" />
+      <item value="for Each" />
+      <item value="Finance Statistics Contract Part" />
+      <item value="get Contract Cost" />
+      <item value="get Contract Really Cost" />
+      <item value="计算正在计划中的金额" />
+      <item value="Exported" />
+      <item value="Native Window Handler" />
+      <item value="MOUSE ENTERED EVENTS" />
+      <item value="Access Bridge" />
+      <item value="Color Space" />
+      <item value="double Accumulate" />
+      <item value="Padded variant of AtomicLong supporting only raw accesses plus CAS. JVM intrinsics note: It would be possible to use a release-only form of CAS here, if it were provided." />
+      <item value="Contended" />
+      <item value="Striped 64" />
+      <item value="An object reference that may be updated atomically. See the {@link java.util.concurrent.atomic} package specification for description of the properties of atomic variables." />
+      <item value="Atomic Reference" />
       <item value="set Residue Cost" />
       <item value="update Cost Plan Actual Cost And Sync Status" />
       <item value="Resource" />
       <item value="lambda" />
       <item value="Custom Contract File Relation" />
       <item value="总的合同金额" />
-      <item value="compute Count Result" />
       <item value="Big Decimal" />
       <item value="总的实际收款" />
       <item value="总的应收收款" />
@@ -29,36 +54,11 @@
       <item value="get Customer Dept Id" />
       <item value="Customer Project" />
       <item value="non Null" />
-      <item value="当前客户下的所有合同信息" />
-      <item value="finance" />
-      <item value="Finance Statistics Constant Pool" />
-      <item value="======================== FinanceModuleStatistics String Pool =================" />
-      <item value="收入统计模块" />
-      <item value="REVENUE STATISTICS KEY" />
-      <item value="当前客户的所有项目" />
-      <item value="所有合同" />
-      <item value="所有收款计划" />
-      <item value="所有收款单" />
-      <item value="执行财务模块的统计接口" />
-      <item value="execute Finance Module Statistics" />
-      <item value="param Object" />
-      <item value="Quartz Scheduler" />
-      <item value="i Customer Manage Service" />
-      <item value="wait Remove Dept Id" />
-      <item value="parse Long" />
-      <item value="wait Remove Project List" />
-      <item value="Tomcat" />
-      <item value="engine" />
-      <item value="Apache" />
-      <item value="Servlet" />
-      <item value="Starting" />
-      <item value="Standard Engine" />
-      <item value="wait Remove Customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2898" />
-        <entry key="ENGLISH" value="2899" />
+        <entry key="CHINESE" value="2924" />
+        <entry key="ENGLISH" value="2925" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
