@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="last Packet Received Idle Millis" />
+      <item value="zero Date Time Behavior" />
+      <item value="character Encoding" />
+      <item value="use Unicode" />
+      <item value="3 SSJU 371650253254126_Cluster Manager" />
+      <item value="discard" />
+      <item value="test Connection Internal" />
+      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
+      <item value="Druid Abstract Data Source" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="Override" />
       <item value="compute Revenue Part Statistics" />
       <item value="param String" />
@@ -44,21 +54,11 @@
       <item value="statistics Part Result" />
       <item value="statistics Part Really Result" />
       <item value="compute Count Result" />
-      <item value="get Contract Should Cost" />
-      <item value="compute Contract Data" />
-      <item value="for Each" />
-      <item value="Finance Statistics Contract Part" />
-      <item value="get Contract Cost" />
-      <item value="get Contract Really Cost" />
-      <item value="计算正在计划中的金额" />
-      <item value="Exported" />
-      <item value="Native Window Handler" />
-      <item value="MOUSE ENTERED EVENTS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2969" />
-        <entry key="ENGLISH" value="2970" />
+        <entry key="CHINESE" value="2981" />
+        <entry key="ENGLISH" value="2982" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
