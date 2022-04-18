@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取客户名下的所有合同信息" />
+      <item value="custom Contract File Relation List" />
+      <item value="获取当前项目下的所有关联合同信息" />
       <item value="accumulator Function" />
       <item value="value Offset" />
       <item value="set Create Time" />
@@ -44,7 +47,6 @@
       <item value="总的实际收款" />
       <item value="总的应收收款" />
       <item value="compute Planing" />
-      <item value="custom Contract File Relation List" />
       <item value="handler Post Statistics Map" />
       <item value="execute Post Statistics Map" />
       <item value="customer Manage Service" />
@@ -52,13 +54,11 @@
       <item value="search Filter" />
       <item value="get Custom Project Row Id" />
       <item value="param String" />
-      <item value="is Not Empty" />
-      <item value="customer Project Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2928" />
-        <entry key="ENGLISH" value="2929" />
+        <entry key="CHINESE" value="2932" />
+        <entry key="ENGLISH" value="2932" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
