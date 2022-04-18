@@ -4,7 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="DEBUG" />
+      <item value="select List" />
+      <item value="debug" />
+      <item value="relation cost" />
+      <item value="SELECT" />
+      <item value="79 fbc 835 c 4302433 f 9 f 023043196 ebd 7" />
+      <item value="volatile" />
+      <item value="Override" />
       <item value="Finance Statistics Revenue" />
+      <item value="customer Project Service" />
+      <item value="customer Project Relation Service" />
+      <item value="compute Revenue Part Statistics" />
+      <item value="revenue Category Name" />
+      <item value="revenue Money" />
+      <item value="revenue Decimal" />
       <item value="pojo" />
       <item value="custom Contract File Relation List" />
       <item value="所有合同" />
@@ -40,25 +54,11 @@
       <item value="MOUSE ENTERED EVENTS" />
       <item value="Access Bridge" />
       <item value="Color Space" />
-      <item value="double Accumulate" />
-      <item value="Padded variant of AtomicLong supporting only raw accesses plus CAS. JVM intrinsics note: It would be possible to use a release-only form of CAS here, if it were provided." />
-      <item value="Contended" />
-      <item value="Striped 64" />
-      <item value="An object reference that may be updated atomically. See the {@link java.util.concurrent.atomic} package specification for description of the properties of atomic variables." />
-      <item value="Atomic Reference" />
-      <item value="set Residue Cost" />
-      <item value="update Cost Plan Actual Cost And Sync Status" />
-      <item value="Resource" />
-      <item value="lambda" />
-      <item value="Custom Contract File Relation" />
-      <item value="总的合同金额" />
-      <item value="Big Decimal" />
-      <item value="总的实际收款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2943" />
-        <entry key="ENGLISH" value="2944" />
+        <entry key="CHINESE" value="2964" />
+        <entry key="ENGLISH" value="2965" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
