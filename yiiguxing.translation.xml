@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Override" />
+      <item value="compute Revenue Part Statistics" />
+      <item value="param String" />
+      <item value="param Object" />
       <item value="DEBUG" />
       <item value="select List" />
       <item value="debug" />
@@ -11,11 +15,9 @@
       <item value="SELECT" />
       <item value="79 fbc 835 c 4302433 f 9 f 023043196 ebd 7" />
       <item value="volatile" />
-      <item value="Override" />
       <item value="Finance Statistics Revenue" />
       <item value="customer Project Service" />
       <item value="customer Project Relation Service" />
-      <item value="compute Revenue Part Statistics" />
       <item value="revenue Category Name" />
       <item value="revenue Money" />
       <item value="revenue Decimal" />
@@ -52,13 +54,11 @@
       <item value="Exported" />
       <item value="Native Window Handler" />
       <item value="MOUSE ENTERED EVENTS" />
-      <item value="Access Bridge" />
-      <item value="Color Space" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2964" />
-        <entry key="ENGLISH" value="2965" />
+        <entry key="CHINESE" value="2969" />
+        <entry key="ENGLISH" value="2970" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
