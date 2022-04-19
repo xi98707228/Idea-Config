@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="IS OFF" />
       <item value="关联项目相关数据" />
       <item value="instrument Revenue Count Atomic Reference" />
       <item value="statistics Projects" />
@@ -53,7 +54,6 @@
       <item value="post Accept" />
       <item value="set Priority" />
       <item value="Options Impl" />
-      <item value="Soft Reference" />
     </histories>
     <option name="languageScores">
       <map>
