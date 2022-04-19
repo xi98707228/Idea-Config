@@ -4,12 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Abstract Data Source" />
+      <item value="register Methods To Filter" />
+      <item value="Internal type checks within all update methods contain internal inlined optimizations checking for the common cases where the class is final (in which case a simple getClass comparison suffices) or is of type Object (in which case no check is needed because all objects are instances of Object). The Object case is handled simply by setting vclass to null in constructor. The targetCheck and updateCheck methods are invoked when these faster screenings fail." />
+      <item value="Atomic Reference Field Updater" />
+      <item value="statistics Revenue Data List" />
+      <item value="add" />
+      <item value="工单物料使用" />
+      <item value="时间段内的" />
+      <item value="list" />
+      <item value="Long Accumulator" />
+      <item value="base" />
+      <item value="checked Byte Offset" />
+      <item value="if array is null" />
+      <item value="Null Pointer Exception" />
+      <item value="Atomic Integer" />
+      <item value="Atomic Reference" />
+      <item value="3 SSJU 371650337182078_Misfire Handler" />
+      <item value="test Connection Internal" />
+      <item value="inject" />
+      <item value="Jsr 330 Factory" />
+      <item value="Functional Interface" />
+      <item value="Four Param Interface" />
       <item value="get Spare Customer Price" />
       <item value="instrument Revenue Count Atomic Reference" />
       <item value="get Actual Type Arguments" />
       <item value="get Generic Superclass" />
-      <item value="statistics Revenue Data List" />
-      <item value="add" />
       <item value="same Signs" />
       <item value="big Decimal" />
       <item value="subtract" />
@@ -19,10 +39,8 @@
       <item value="Mag Spare Order Relation" />
       <item value="filter" />
       <item value="ZERO" />
-      <item value="时间段内的" />
       <item value="mag Spare Order Relation Service" />
       <item value="Execute Operate Point Cut Log Annotation" />
-      <item value="工单物料使用" />
       <item value="Finance Statistics Revenue Part" />
       <item value="Keep Alive Cache" />
       <item value="post Accept" />
@@ -36,29 +54,11 @@
       <item value="Concurrent Navigable Map" />
       <item value="Transfer Queue" />
       <item value="set Exclusive Owner Thread" />
-      <item value="Fair Sync" />
-      <item value="Synchronous Queue" />
-      <item value="Abstract Method Error" />
-      <item value="mix 64" />
-      <item value="initial Seed" />
-      <item value="Thread Local Random" />
-      <item value="Recursive Task" />
-      <item value="compare And Set Tail" />
-      <item value="cancel Acquire" />
-      <item value="expect" />
-      <item value="compare And Set Wait Status" />
-      <item value="Application Shutdown Hooks" />
-      <item value="add Shutdown Hook" />
-      <item value="Jdk Flow Adapter" />
-      <item value="Reactor Thread Factory" />
-      <item value="Security Exception" />
-      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
-      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3071" />
-        <entry key="ENGLISH" value="3072" />
+        <entry key="CHINESE" value="3096" />
+        <entry key="ENGLISH" value="3097" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -80,7 +80,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="6" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
