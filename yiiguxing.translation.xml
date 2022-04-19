@@ -4,8 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Execute Operate Point Cut Log Annotation" />
+      <item value="big Decimal" />
+      <item value="subtract" />
+      <item value="Big Decimal" />
+      <item value="Big Integer" />
+      <item value="negate" />
+      <item value="Mag Spare Order Relation" />
+      <item value="filter" />
+      <item value="add" />
+      <item value="ZERO" />
       <item value="时间段内的" />
+      <item value="mag Spare Order Relation Service" />
+      <item value="Execute Operate Point Cut Log Annotation" />
       <item value="工单物料使用" />
       <item value="Finance Statistics Revenue Part" />
       <item value="Keep Alive Cache" />
@@ -23,7 +33,6 @@
       <item value="Fair Sync" />
       <item value="Synchronous Queue" />
       <item value="Abstract Method Error" />
-      <item value="Big Decimal" />
       <item value="mix 64" />
       <item value="initial Seed" />
       <item value="Thread Local Random" />
@@ -45,20 +54,11 @@
       <item value="Returns a reference to the currently executing thread object. @return the currently executing thread." />
       <item value="current Thread" />
       <item value="Abstract Queued Synchronizer" />
-      <item value="Completion Exception" />
-      <item value="cancel Waiter" />
-      <item value="Stamped Lock" />
-      <item value="Double Adder" />
-      <item value="Finance Statistics Revenue" />
-      <item value="compute Count Result" />
-      <item value="时间段内的收款单" />
-      <item value="数据" />
-      <item value="Serialization Proxy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3043" />
-        <entry key="ENGLISH" value="3044" />
+        <entry key="CHINESE" value="3062" />
+        <entry key="ENGLISH" value="3063" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
