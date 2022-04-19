@@ -4,9 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="statistics Revenue Data List" />
+      <item value="add" />
+      <item value="same Signs" />
       <item value="get Spare Customer Price" />
       <item value="instrument Revenue Count Atomic Reference" />
-      <item value="add" />
       <item value="big Decimal" />
       <item value="subtract" />
       <item value="Big Decimal" />
@@ -52,13 +54,11 @@
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted()" />
       <item value="is Interrupted" />
       <item value="interrupted" />
-      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
-      <item value="Returns a reference to the currently executing thread object. @return the currently executing thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3065" />
-        <entry key="ENGLISH" value="3066" />
+        <entry key="CHINESE" value="3067" />
+        <entry key="ENGLISH" value="3068" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
