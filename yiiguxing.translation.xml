@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="关联项目相关数据" />
+      <item value="instrument Revenue Count Atomic Reference" />
+      <item value="statistics Projects" />
+      <item value="stream" />
+      <item value="result Target Customer Data" />
+      <item value="default Order Num" />
+      <item value="dept Ancestors" />
+      <item value="Refresh Cache" />
       <item value="Druid Abstract Data Source" />
       <item value="register Methods To Filter" />
       <item value="Internal type checks within all update methods contain internal inlined optimizations checking for the common cases where the class is final (in which case a simple getClass comparison suffices) or is of type Object (in which case no check is needed because all objects are instances of Object). The Object case is handled simply by setting vclass to null in constructor. The targetCheck and updateCheck methods are invoked when these faster screenings fail." />
@@ -27,7 +35,6 @@
       <item value="Functional Interface" />
       <item value="Four Param Interface" />
       <item value="get Spare Customer Price" />
-      <item value="instrument Revenue Count Atomic Reference" />
       <item value="get Actual Type Arguments" />
       <item value="get Generic Superclass" />
       <item value="same Signs" />
@@ -47,18 +54,11 @@
       <item value="set Priority" />
       <item value="Options Impl" />
       <item value="Soft Reference" />
-      <item value="Server Socket Channel" />
-      <item value="sub Map" />
-      <item value="Sorted Map" />
-      <item value="Navigable Map" />
-      <item value="Concurrent Navigable Map" />
-      <item value="Transfer Queue" />
-      <item value="set Exclusive Owner Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3096" />
-        <entry key="ENGLISH" value="3097" />
+        <entry key="CHINESE" value="3104" />
+        <entry key="ENGLISH" value="3104" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
