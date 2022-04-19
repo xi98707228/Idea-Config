@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Refresh Cache" />
       <item value="INSTRUMENT STATISTICS KEY" />
       <item value="====================== 支出 ===================================" />
       <item value="REVENUE STATISTICS KEY" />
@@ -21,7 +22,6 @@
       <item value="result Target Customer Data" />
       <item value="default Order Num" />
       <item value="dept Ancestors" />
-      <item value="Refresh Cache" />
       <item value="Druid Abstract Data Source" />
       <item value="register Methods To Filter" />
       <item value="Internal type checks within all update methods contain internal inlined optimizations checking for the common cases where the class is final (in which case a simple getClass comparison suffices) or is of type Object (in which case no check is needed because all objects are instances of Object). The Object case is handled simply by setting vclass to null in constructor. The targetCheck and updateCheck methods are invoked when these faster screenings fail." />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3111" />
-        <entry key="ENGLISH" value="3112" />
+        <entry key="CHINESE" value="3112" />
+        <entry key="ENGLISH" value="3113" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
