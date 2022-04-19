@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="last Packet Received Idle Millis" />
-      <item value="zero Date Time Behavior" />
-      <item value="character Encoding" />
-      <item value="use Unicode" />
-      <item value="3 SSJU 371650253254126_Cluster Manager" />
-      <item value="discard" />
-      <item value="test Connection Internal" />
-      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
-      <item value="Druid Abstract Data Source" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Override" />
-      <item value="compute Revenue Part Statistics" />
-      <item value="param String" />
-      <item value="param Object" />
-      <item value="DEBUG" />
-      <item value="select List" />
-      <item value="debug" />
-      <item value="relation cost" />
-      <item value="SELECT" />
-      <item value="79 fbc 835 c 4302433 f 9 f 023043196 ebd 7" />
-      <item value="volatile" />
+      <item value="post Accept" />
+      <item value="set Priority" />
+      <item value="Options Impl" />
+      <item value="Soft Reference" />
+      <item value="Server Socket Channel" />
+      <item value="sub Map" />
+      <item value="Sorted Map" />
+      <item value="Navigable Map" />
+      <item value="Concurrent Navigable Map" />
+      <item value="Transfer Queue" />
+      <item value="set Exclusive Owner Thread" />
+      <item value="Fair Sync" />
+      <item value="Synchronous Queue" />
+      <item value="Abstract Method Error" />
+      <item value="Finance Statistics Revenue Part" />
+      <item value="Big Decimal" />
+      <item value="mix 64" />
+      <item value="initial Seed" />
+      <item value="Thread Local Random" />
+      <item value="Recursive Task" />
+      <item value="compare And Set Tail" />
+      <item value="cancel Acquire" />
+      <item value="expect" />
+      <item value="compare And Set Wait Status" />
+      <item value="Application Shutdown Hooks" />
+      <item value="add Shutdown Hook" />
+      <item value="Jdk Flow Adapter" />
+      <item value="Reactor Thread Factory" />
+      <item value="Security Exception" />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted()" />
+      <item value="is Interrupted" />
+      <item value="interrupted" />
+      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
+      <item value="Returns a reference to the currently executing thread object. @return the currently executing thread." />
+      <item value="current Thread" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="Completion Exception" />
+      <item value="cancel Waiter" />
+      <item value="Stamped Lock" />
+      <item value="Double Adder" />
       <item value="Finance Statistics Revenue" />
-      <item value="customer Project Service" />
-      <item value="customer Project Relation Service" />
-      <item value="revenue Category Name" />
-      <item value="revenue Money" />
-      <item value="revenue Decimal" />
-      <item value="pojo" />
-      <item value="custom Contract File Relation List" />
-      <item value="所有合同" />
-      <item value="当前客户的所有项目" />
-      <item value="customer Project List" />
-      <item value="Finance Statistics Search Filter" />
-      <item value="客户部门Id" />
-      <item value="客户统计数据" />
-      <item value="所有收款计划" />
-      <item value="获取客户名下的所有合同信息" />
-      <item value="获取当前项目下的所有关联合同信息" />
-      <item value="accumulator Function" />
-      <item value="value Offset" />
-      <item value="set Create Time" />
-      <item value="save Finance Cost Order" />
-      <item value="add" />
-      <item value="INFLATED" />
-      <item value="get Residue Cost" />
-      <item value="Custom Contract Cost Plan Record" />
-      <item value="contract Row Id" />
-      <item value="statistics Part Result" />
-      <item value="statistics Part Really Result" />
       <item value="compute Count Result" />
+      <item value="时间段内的收款单" />
+      <item value="数据" />
+      <item value="Serialization Proxy" />
+      <item value="weak Compare And Set" />
+      <item value="number Of Leading Zeros" />
+      <item value="shift" />
+      <item value="array Index Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2981" />
-        <entry key="ENGLISH" value="2982" />
+        <entry key="CHINESE" value="3038" />
+        <entry key="ENGLISH" value="3039" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
