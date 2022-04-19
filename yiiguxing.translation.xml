@@ -4,11 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Spare Customer Price" />
+      <item value="instrument Revenue Count Atomic Reference" />
+      <item value="get Actual Type Arguments" />
+      <item value="get Generic Superclass" />
       <item value="statistics Revenue Data List" />
       <item value="add" />
       <item value="same Signs" />
-      <item value="get Spare Customer Price" />
-      <item value="instrument Revenue Count Atomic Reference" />
       <item value="big Decimal" />
       <item value="subtract" />
       <item value="Big Decimal" />
@@ -52,13 +54,11 @@
       <item value="Security Exception" />
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted()" />
-      <item value="is Interrupted" />
-      <item value="interrupted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3067" />
-        <entry key="ENGLISH" value="3068" />
+        <entry key="CHINESE" value="3071" />
+        <entry key="ENGLISH" value="3072" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
