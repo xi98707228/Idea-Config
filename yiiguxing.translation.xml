@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Execute Operate Point Cut Log Annotation" />
+      <item value="时间段内的" />
+      <item value="工单物料使用" />
+      <item value="Finance Statistics Revenue Part" />
+      <item value="Keep Alive Cache" />
       <item value="post Accept" />
       <item value="set Priority" />
       <item value="Options Impl" />
@@ -18,7 +23,6 @@
       <item value="Fair Sync" />
       <item value="Synchronous Queue" />
       <item value="Abstract Method Error" />
-      <item value="Finance Statistics Revenue Part" />
       <item value="Big Decimal" />
       <item value="mix 64" />
       <item value="initial Seed" />
@@ -50,15 +54,11 @@
       <item value="时间段内的收款单" />
       <item value="数据" />
       <item value="Serialization Proxy" />
-      <item value="weak Compare And Set" />
-      <item value="number Of Leading Zeros" />
-      <item value="shift" />
-      <item value="array Index Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3038" />
-        <entry key="ENGLISH" value="3039" />
+        <entry key="CHINESE" value="3043" />
+        <entry key="ENGLISH" value="3044" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
