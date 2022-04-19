@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Cost Order" />
+      <item value="get Cost Type" />
+      <item value="Finance Statistics Service" />
+      <item value="Repeat Submit" />
+      <item value="Finance Statistics Expend" />
+      <item value="ADMIN" />
+      <item value="收入模块" />
+      <item value="test Connection Internal" />
+      <item value="login User" />
+      <item value="now Date" />
+      <item value="Date" />
       <item value="Refresh Cache" />
       <item value="INSTRUMENT STATISTICS KEY" />
       <item value="====================== 支出 ===================================" />
@@ -39,26 +50,15 @@
       <item value="Atomic Integer" />
       <item value="Atomic Reference" />
       <item value="3 SSJU 371650337182078_Misfire Handler" />
-      <item value="test Connection Internal" />
       <item value="inject" />
       <item value="Jsr 330 Factory" />
       <item value="Functional Interface" />
       <item value="Four Param Interface" />
-      <item value="get Spare Customer Price" />
-      <item value="get Actual Type Arguments" />
-      <item value="get Generic Superclass" />
-      <item value="same Signs" />
-      <item value="big Decimal" />
-      <item value="subtract" />
-      <item value="Big Decimal" />
-      <item value="Big Integer" />
-      <item value="negate" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3113" />
-        <entry key="ENGLISH" value="3114" />
+        <entry key="CHINESE" value="3127" />
+        <entry key="ENGLISH" value="3128" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
