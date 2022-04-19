@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="INSTRUMENT STATISTICS KEY" />
+      <item value="====================== 支出 ===================================" />
+      <item value="REVENUE STATISTICS KEY" />
+      <item value="COST ORDER STATISTICS KEY" />
+      <item value="EXPEND STATISTICS KEY" />
+      <item value="REIMBURSEMENT STATISTICS KEY" />
+      <item value="采购支出" />
       <item value="business Relation Row Id List" />
       <item value="Mag Spare Order Relation" />
       <item value="IS OFF" />
@@ -47,18 +54,11 @@
       <item value="Big Integer" />
       <item value="negate" />
       <item value="filter" />
-      <item value="ZERO" />
-      <item value="mag Spare Order Relation Service" />
-      <item value="Execute Operate Point Cut Log Annotation" />
-      <item value="Finance Statistics Revenue Part" />
-      <item value="Keep Alive Cache" />
-      <item value="post Accept" />
-      <item value="set Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3105" />
-        <entry key="ENGLISH" value="3106" />
+        <entry key="CHINESE" value="3111" />
+        <entry key="ENGLISH" value="3112" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
