@@ -4,6 +4,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="statistics Expend Data List" />
+      <item value="active" />
+      <item value="Develop Client Application" />
+      <item value="log Startup Profile Info" />
+      <item value="profiles" />
+      <item value="following" />
+      <item value="Finance Statistics Expend Part" />
+      <item value="Collection Utils" />
+      <item value="is Empty" />
+      <item value="wait Statistics Project Row Id List" />
+      <item value="collect" />
+      <item value="Collectors" />
+      <item value="List" />
+      <item value="Local Data Source Job Store" />
+      <item value="获取工单关联信息" />
+      <item value="Wrapper Adapter" />
+      <item value="Druid Abstract Data Source" />
       <item value="Finance Statistics Expend" />
       <item value="param Object" />
       <item value="finance Statistics Contract" />
@@ -36,29 +53,12 @@
       <item value="result Target Customer Data" />
       <item value="default Order Num" />
       <item value="dept Ancestors" />
-      <item value="Druid Abstract Data Source" />
       <item value="register Methods To Filter" />
-      <item value="Internal type checks within all update methods contain internal inlined optimizations checking for the common cases where the class is final (in which case a simple getClass comparison suffices) or is of type Object (in which case no check is needed because all objects are instances of Object). The Object case is handled simply by setting vclass to null in constructor. The targetCheck and updateCheck methods are invoked when these faster screenings fail." />
-      <item value="Atomic Reference Field Updater" />
-      <item value="statistics Revenue Data List" />
-      <item value="add" />
-      <item value="工单物料使用" />
-      <item value="时间段内的" />
-      <item value="list" />
-      <item value="Long Accumulator" />
-      <item value="base" />
-      <item value="checked Byte Offset" />
-      <item value="if array is null" />
-      <item value="Null Pointer Exception" />
-      <item value="Atomic Integer" />
-      <item value="Atomic Reference" />
-      <item value="3 SSJU 371650337182078_Misfire Handler" />
-      <item value="inject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3132" />
-        <entry key="ENGLISH" value="3133" />
+        <entry key="CHINESE" value="3149" />
+        <entry key="ENGLISH" value="3150" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
