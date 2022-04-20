@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="After Refresh Cache" />
+      <item value="get Tree Select By Dept Id" />
+      <item value="debug" />
+      <item value="CH UNORDERED ID" />
+      <item value="contains" />
+      <item value="validate Value" />
+      <item value="distinct" />
+      <item value="validate Map" />
+      <item value="get Cache Map" />
+      <item value="redis Cache" />
+      <item value="Boolean" />
+      <item value="Collection Utils" />
+      <item value="待上传的文件别名的重复性" />
+      <item value="verify" />
+      <item value="cost Order Row Ids" />
       <item value="Skipping" />
       <item value="statistics Expend Data List" />
       <item value="active" />
@@ -12,7 +27,6 @@
       <item value="profiles" />
       <item value="following" />
       <item value="Finance Statistics Expend Part" />
-      <item value="Collection Utils" />
       <item value="is Empty" />
       <item value="wait Statistics Project Row Id List" />
       <item value="collect" />
@@ -40,25 +54,11 @@
       <item value="INSTRUMENT STATISTICS KEY" />
       <item value="====================== 支出 ===================================" />
       <item value="REVENUE STATISTICS KEY" />
-      <item value="COST ORDER STATISTICS KEY" />
-      <item value="EXPEND STATISTICS KEY" />
-      <item value="REIMBURSEMENT STATISTICS KEY" />
-      <item value="采购支出" />
-      <item value="business Relation Row Id List" />
-      <item value="Mag Spare Order Relation" />
-      <item value="IS OFF" />
-      <item value="关联项目相关数据" />
-      <item value="instrument Revenue Count Atomic Reference" />
-      <item value="statistics Projects" />
-      <item value="stream" />
-      <item value="result Target Customer Data" />
-      <item value="default Order Num" />
-      <item value="dept Ancestors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3150" />
-        <entry key="ENGLISH" value="3151" />
+        <entry key="CHINESE" value="3167" />
+        <entry key="ENGLISH" value="3168" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
