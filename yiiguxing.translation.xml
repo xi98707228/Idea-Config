@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="领用人id" />
+      <item value="领用人名称" />
+      <item value="0为是" />
+      <item value="1为否" />
+      <item value="1未处理" />
       <item value="distinct" />
       <item value="After Refresh Cache" />
       <item value="Cursor" />
@@ -49,16 +54,11 @@
       <item value="collect" />
       <item value="Collectors" />
       <item value="List" />
-      <item value="Local Data Source Job Store" />
-      <item value="获取工单关联信息" />
-      <item value="Wrapper Adapter" />
-      <item value="Druid Abstract Data Source" />
-      <item value="Finance Statistics Expend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3178" />
-        <entry key="ENGLISH" value="3179" />
+        <entry key="CHINESE" value="3183" />
+        <entry key="ENGLISH" value="3183" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
