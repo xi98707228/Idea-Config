@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="distinct" />
+      <item value="After Refresh Cache" />
       <item value="Cursor" />
       <item value="non-Javadoc" />
       <item value="members" />
@@ -21,13 +23,11 @@
       <item value="169" />
       <item value="192" />
       <item value="validate Set" />
-      <item value="After Refresh Cache" />
       <item value="get Tree Select By Dept Id" />
       <item value="debug" />
       <item value="CH UNORDERED ID" />
       <item value="contains" />
       <item value="validate Value" />
-      <item value="distinct" />
       <item value="validate Map" />
       <item value="get Cache Map" />
       <item value="redis Cache" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3176" />
-        <entry key="ENGLISH" value="3177" />
+        <entry key="CHINESE" value="3178" />
+        <entry key="ENGLISH" value="3179" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
