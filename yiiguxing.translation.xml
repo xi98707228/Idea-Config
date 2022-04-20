@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Skipping" />
       <item value="statistics Expend Data List" />
       <item value="active" />
       <item value="Develop Client Application" />
@@ -53,12 +54,11 @@
       <item value="result Target Customer Data" />
       <item value="default Order Num" />
       <item value="dept Ancestors" />
-      <item value="register Methods To Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3149" />
-        <entry key="ENGLISH" value="3150" />
+        <entry key="CHINESE" value="3150" />
+        <entry key="ENGLISH" value="3151" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
