@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="report Generic" />
+      <item value="Druid Abstract Data Source" />
       <item value="领用人id" />
       <item value="领用人名称" />
       <item value="0为是" />
@@ -52,13 +54,11 @@
       <item value="is Empty" />
       <item value="wait Statistics Project Row Id List" />
       <item value="collect" />
-      <item value="Collectors" />
-      <item value="List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3183" />
-        <entry key="ENGLISH" value="3183" />
+        <entry key="CHINESE" value="3184" />
+        <entry key="ENGLISH" value="3185" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
