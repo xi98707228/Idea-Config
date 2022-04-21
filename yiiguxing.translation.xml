@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="query Wrapper" />
+      <item value="Report Row" />
+      <item value="lambda" />
+      <item value="ne" />
+      <item value="select List" />
+      <item value="set Node By Rows" />
+      <item value="Array List" />
+      <item value="nodes" />
+      <item value="查询条件" />
+      <item value="return" />
+      <item value="Override" />
       <item value="get En Status" />
       <item value="library" />
       <item value="optional" />
@@ -43,22 +54,11 @@
       <item value="1为否" />
       <item value="1未处理" />
       <item value="distinct" />
-      <item value="After Refresh Cache" />
-      <item value="Cursor" />
-      <item value="non-Javadoc" />
-      <item value="members" />
-      <item value="hibernate Lazy Initializer" />
-      <item value="Device Vo" />
-      <item value="get Data Table" />
-      <item value="is Receiving" />
-      <item value="Job Factory" />
-      <item value="set Check User Id" />
-      <item value="delete Relation User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3220" />
-        <entry key="ENGLISH" value="3220" />
+        <entry key="CHINESE" value="3233" />
+        <entry key="ENGLISH" value="3234" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -73,6 +73,7 @@
         <entry key="FINNISH" value="6" />
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="7" />
