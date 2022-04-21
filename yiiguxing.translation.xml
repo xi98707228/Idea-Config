@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="contains" />
+      <item value="只显示本部门的审核人" />
+      <item value="Engine Proc Userorg" />
+      <item value="query Workflow Next Steps By Proc Instd" />
       <item value="query Wrapper" />
       <item value="Report Row" />
       <item value="lambda" />
@@ -50,15 +54,11 @@
       <item value="Druid Abstract Data Source" />
       <item value="领用人id" />
       <item value="领用人名称" />
-      <item value="0为是" />
-      <item value="1为否" />
-      <item value="1未处理" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3233" />
-        <entry key="ENGLISH" value="3234" />
+        <entry key="CHINESE" value="3237" />
+        <entry key="ENGLISH" value="3238" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
