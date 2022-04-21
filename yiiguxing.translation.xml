@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Local Map" />
+      <item value="Transmittable Thread Local" />
+      <item value="Thread" />
+      <item value="String" />
+      <item value="println" />
+      <item value="t Get" />
+      <item value="current Thread" />
+      <item value="Jwt Utils" />
+      <item value="String username = JwtUtils.getUserName(claims);" />
+      <item value="is Empty" />
+      <item value="unauthorized Response" />
+      <item value="设置用户信息到请求" />
+      <item value="USER KEY" />
+      <item value="userkey" />
+      <item value="必须在网关通过请求头的方法传入" />
+      <item value="同时在Header Interceptor拦截器设置值" />
       <item value="report Generic" />
       <item value="Druid Abstract Data Source" />
       <item value="领用人id" />
@@ -38,27 +54,11 @@
       <item value="validate Map" />
       <item value="get Cache Map" />
       <item value="redis Cache" />
-      <item value="Boolean" />
-      <item value="Collection Utils" />
-      <item value="待上传的文件别名的重复性" />
-      <item value="verify" />
-      <item value="cost Order Row Ids" />
-      <item value="Skipping" />
-      <item value="statistics Expend Data List" />
-      <item value="active" />
-      <item value="Develop Client Application" />
-      <item value="log Startup Profile Info" />
-      <item value="profiles" />
-      <item value="following" />
-      <item value="Finance Statistics Expend Part" />
-      <item value="is Empty" />
-      <item value="wait Statistics Project Row Id List" />
-      <item value="collect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3184" />
-        <entry key="ENGLISH" value="3185" />
+        <entry key="CHINESE" value="3203" />
+        <entry key="ENGLISH" value="3204" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
