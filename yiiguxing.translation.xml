@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Jwt Authentication Token Filter" />
+      <item value="Filter" />
+      <item value="jwt Authentication Token Filter" />
+      <item value="store Thread Local" />
+      <item value="get Local" />
+      <item value="get Store Local" />
+      <item value="get" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="3 SSJU 371650511634065_Cluster Manager" />
+      <item value="DESKTOP" />
       <item value="get Local Map" />
       <item value="Transmittable Thread Local" />
       <item value="Thread" />
@@ -44,21 +54,11 @@
       <item value="202" />
       <item value="158" />
       <item value="169" />
-      <item value="192" />
-      <item value="validate Set" />
-      <item value="get Tree Select By Dept Id" />
-      <item value="debug" />
-      <item value="CH UNORDERED ID" />
-      <item value="contains" />
-      <item value="validate Value" />
-      <item value="validate Map" />
-      <item value="get Cache Map" />
-      <item value="redis Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3203" />
-        <entry key="ENGLISH" value="3204" />
+        <entry key="CHINESE" value="3216" />
+        <entry key="ENGLISH" value="3217" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
