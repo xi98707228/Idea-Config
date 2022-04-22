@@ -4,9 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="if (StringUtils.isNotEmpty(rowId)) { 更新操作 opt = &quot;update&quot;; String atName = parameterMap.get(&quot;atid&quot;) == null ? &quot;&quot; : parameterMap.get(&quot;atid&quot;).toString(); EngineProcInst in = engineFlowService.getProcInstByProcInstId(promobj.getPiid()); beanDest = iReqRepManageService.getById(rowId); saveIds = beanDest.getAttachmentResultIds() == null ? &quot;&quot; : beanDest.getAttachmentResultIds(); String title = beanDest.getTitle(); String atid = parameterMap.get(&quot;atid&quot;) == null ? &quot;&quot; : parameterMap.get(&quot;atid&quot;).toString(); beanDest.setActId(atid); BeanUtils.copyProperties(promobj, beanDest); beanDest.setTitle(title); }" />
+      <item value="委托业务检验报告管理" />
+      <item value="promobj" />
+      <item value="parameter Map" />
+      <item value="get By Id" />
+      <item value="i Req Rep Manage Service" />
+      <item value="save Ids" />
+      <item value="engine Flow Service" />
+      <item value="Druid Data Source" />
+      <item value="cj" />
+      <item value="datasource" />
+      <item value="type" />
+      <item value="driver Class Name" />
+      <item value="主库数据源" />
+      <item value="13336" />
+      <item value="nsei device" />
+      <item value="158" />
+      <item value="mysql" />
+      <item value="username" />
+      <item value="admin" />
+      <item value="parse Object" />
+      <item value="JSON" />
+      <item value="get Row Id" />
+      <item value="bean Dest" />
       <item value="report Type" />
       <item value="强制覆盖当前查询出来的人员" />
-      <item value="engine Flow Service" />
       <item value="check Report Examine List" />
       <item value="只显示本部门的审核人" />
       <item value="部门负责人" />
@@ -31,34 +54,11 @@
       <item value="get Contract By Success And This Dept" />
       <item value="永无BUG" />
       <item value="Jwt Authentication Token Filter" />
-      <item value="Filter" />
-      <item value="jwt Authentication Token Filter" />
-      <item value="store Thread Local" />
-      <item value="get Local" />
-      <item value="get Store Local" />
-      <item value="get" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="3 SSJU 371650511634065_Cluster Manager" />
-      <item value="DESKTOP" />
-      <item value="get Local Map" />
-      <item value="Transmittable Thread Local" />
-      <item value="Thread" />
-      <item value="String" />
-      <item value="println" />
-      <item value="t Get" />
-      <item value="current Thread" />
-      <item value="Jwt Utils" />
-      <item value="String username = JwtUtils.getUserName(claims);" />
-      <item value="is Empty" />
-      <item value="unauthorized Response" />
-      <item value="设置用户信息到请求" />
-      <item value="USER KEY" />
-      <item value="userkey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3244" />
-        <entry key="ENGLISH" value="3245" />
+        <entry key="CHINESE" value="3268" />
+        <entry key="ENGLISH" value="3270" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -82,7 +82,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="NORWEGIAN" value="6" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="PORTUGUESE" value="5" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SAMOAN" value="5" />
@@ -91,7 +91,7 @@
         <entry key="SLOVENIAN" value="3" />
         <entry key="SPANISH" value="2" />
         <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="5" />
