@@ -4,6 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Next Act Name" />
+      <item value="当前部门长的组织id" />
+      <item value="step2 读取流程实例节点" />
+      <item value="i Engine Proc Act Inst Service" />
+      <item value="current Act Inst" />
+      <item value="读取流程实例节点" />
+      <item value="获取根据流程实例ID和流程活动节点定义ID获取创建人信息" />
+      <item value="流程实例ID" />
+      <item value="流程活动节点定义ID" />
+      <item value="get Previous User" />
+      <item value="next Step Vo" />
+      <item value="print Stack Trace" />
+      <item value="process Instance Id" />
+      <item value="vusers Next" />
+      <item value="starts With" />
+      <item value="new Uer List" />
+      <item value="Query Wrapper" />
+      <item value="绩效委员会" />
+      <item value="get Login User" />
+      <item value="user" />
+      <item value="get Logon Name" />
+      <item value="simple Date Format" />
+      <item value="list" />
+      <item value="println" />
       <item value="resources" />
       <item value="get Payment Category Label" />
       <item value="resolve Handle Payment" />
@@ -30,35 +54,11 @@
       <item value="主库数据源" />
       <item value="13336" />
       <item value="nsei device" />
-      <item value="158" />
-      <item value="mysql" />
-      <item value="username" />
-      <item value="admin" />
-      <item value="parse Object" />
-      <item value="JSON" />
-      <item value="get Row Id" />
-      <item value="bean Dest" />
-      <item value="report Type" />
-      <item value="强制覆盖当前查询出来的人员" />
-      <item value="check Report Examine List" />
-      <item value="只显示本部门的审核人" />
-      <item value="部门负责人" />
-      <item value="Returns a canonical representation for the string object. &lt;p&gt; A pool of strings, initially empty, is maintained privately by the class {@code String}. &lt;p&gt; When the intern method is invoked, if the pool already contains a string equal to this {@code String} object as determined by the {@link equals(Object)} method, then the string from the pool is returned. Otherwise, this {@code String} object is added to the pool and a reference to this {@code String} object is returned. &lt;p&gt; It follows that for any two strings {@code s} and {@code t}, {@code s.intern() == t.intern()} is {@code true} if and only if {@code s.equals(t)} is {@code true}. &lt;p&gt; All literal strings and string-valued constant expressions are interned. String literals are defined in section 3.10.5 of the &lt;cite&gt;The Java&amp;trade; Language Specification&lt;cite&gt;. @return a string that has the same contents as this string, but is guaranteed to be from a pool of unique strings." />
-      <item value="contains" />
-      <item value="Engine Proc Userorg" />
-      <item value="query Workflow Next Steps By Proc Instd" />
-      <item value="query Wrapper" />
-      <item value="Report Row" />
-      <item value="lambda" />
-      <item value="ne" />
-      <item value="select List" />
-      <item value="set Node By Rows" />
-      <item value="Array List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3278" />
-        <entry key="ENGLISH" value="3279" />
+        <entry key="CHINESE" value="3301" />
+        <entry key="ENGLISH" value="3301" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
