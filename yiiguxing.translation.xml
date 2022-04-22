@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Report Vo List" />
       <item value="Security Utils" />
       <item value="master" />
       <item value="mysql" />
@@ -53,12 +54,11 @@
       <item value="save Ids" />
       <item value="engine Flow Service" />
       <item value="Druid Data Source" />
-      <item value="cj" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3306" />
-        <entry key="ENGLISH" value="3307" />
+        <entry key="CHINESE" value="3307" />
+        <entry key="ENGLISH" value="3308" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
