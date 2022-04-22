@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resources" />
+      <item value="get Payment Category Label" />
+      <item value="resolve Handle Payment" />
+      <item value="Scheduler" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="common" />
+      <item value="key" />
+      <item value="apply Bean" />
+      <item value="年终缴费" />
       <item value="if (StringUtils.isNotEmpty(rowId)) { 更新操作 opt = &quot;update&quot;; String atName = parameterMap.get(&quot;atid&quot;) == null ? &quot;&quot; : parameterMap.get(&quot;atid&quot;).toString(); EngineProcInst in = engineFlowService.getProcInstByProcInstId(promobj.getPiid()); beanDest = iReqRepManageService.getById(rowId); saveIds = beanDest.getAttachmentResultIds() == null ? &quot;&quot; : beanDest.getAttachmentResultIds(); String title = beanDest.getTitle(); String atid = parameterMap.get(&quot;atid&quot;) == null ? &quot;&quot; : parameterMap.get(&quot;atid&quot;).toString(); beanDest.setActId(atid); BeanUtils.copyProperties(promobj, beanDest); beanDest.setTitle(title); }" />
       <item value="委托业务检验报告管理" />
       <item value="promobj" />
@@ -44,21 +54,11 @@
       <item value="select List" />
       <item value="set Node By Rows" />
       <item value="Array List" />
-      <item value="nodes" />
-      <item value="查询条件" />
-      <item value="return" />
-      <item value="Override" />
-      <item value="get En Status" />
-      <item value="library" />
-      <item value="optional" />
-      <item value="get Contract By Success And This Dept" />
-      <item value="永无BUG" />
-      <item value="Jwt Authentication Token Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3268" />
-        <entry key="ENGLISH" value="3270" />
+        <entry key="CHINESE" value="3278" />
+        <entry key="ENGLISH" value="3279" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
