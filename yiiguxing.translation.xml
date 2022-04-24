@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Hour Rest Left Days And Hours" />
+      <item value="success" />
+      <item value="resmap" />
+      <item value="nacos" />
+      <item value="updater" />
+      <item value="naming" />
+      <item value="process Service Info" />
+      <item value="is Changed Service Info" />
+      <item value="d 0 b 93 bcd" />
+      <item value="print If Info Enabled" />
       <item value="收款计划状态" />
       <item value="init Handler Methods" />
       <item value="background" />
@@ -44,21 +54,11 @@
       <item value="szysdx 383" />
       <item value="operate" />
       <item value="get Next Act Name" />
-      <item value="当前部门长的组织id" />
-      <item value="step2 读取流程实例节点" />
-      <item value="i Engine Proc Act Inst Service" />
-      <item value="current Act Inst" />
-      <item value="读取流程实例节点" />
-      <item value="获取根据流程实例ID和流程活动节点定义ID获取创建人信息" />
-      <item value="流程实例ID" />
-      <item value="流程活动节点定义ID" />
-      <item value="get Previous User" />
-      <item value="next Step Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3349" />
-        <entry key="ENGLISH" value="3350" />
+        <entry key="CHINESE" value="3359" />
+        <entry key="ENGLISH" value="3360" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -74,7 +74,7 @@
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="6" />
+        <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="7" />
         <entry key="ROMANIAN" value="6" />
