@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Receive Time" />
+      <item value="param String" />
+      <item value="param Object" />
+      <item value="Query Wrapper" />
+      <item value="list" />
+      <item value="v Cost Plan Service" />
+      <item value="search Filter" />
+      <item value="finance Cost Order Service" />
       <item value="get-relation-plan" />
       <item value="show File Data" />
       <item value="repeat Phone Number" />
@@ -41,24 +49,16 @@
       <item value="vusers Next" />
       <item value="starts With" />
       <item value="new Uer List" />
-      <item value="Query Wrapper" />
       <item value="绩效委员会" />
       <item value="get Login User" />
       <item value="user" />
       <item value="get Logon Name" />
       <item value="simple Date Format" />
-      <item value="list" />
-      <item value="println" />
-      <item value="resources" />
-      <item value="get Payment Category Label" />
-      <item value="resolve Handle Payment" />
-      <item value="Scheduler" />
-      <item value="Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3331" />
-        <entry key="ENGLISH" value="3332" />
+        <entry key="CHINESE" value="3341" />
+        <entry key="ENGLISH" value="3342" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
