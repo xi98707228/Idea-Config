@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="收款计划状态" />
       <item value="init Handler Methods" />
       <item value="background" />
       <item value="preinit" />
@@ -53,7 +54,6 @@
       <item value="流程活动节点定义ID" />
       <item value="get Previous User" />
       <item value="next Step Vo" />
-      <item value="print Stack Trace" />
     </histories>
     <option name="languageScores">
       <map>
