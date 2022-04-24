@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Handler Methods" />
+      <item value="background" />
+      <item value="preinit" />
+      <item value="target" />
+      <item value="socket" />
+      <item value="transport" />
+      <item value="52457" />
+      <item value="HV 000001" />
+      <item value="Version" />
       <item value="get Receive Time" />
       <item value="param String" />
       <item value="param Object" />
@@ -45,24 +54,15 @@
       <item value="get Previous User" />
       <item value="next Step Vo" />
       <item value="print Stack Trace" />
-      <item value="process Instance Id" />
-      <item value="vusers Next" />
-      <item value="starts With" />
-      <item value="new Uer List" />
-      <item value="绩效委员会" />
-      <item value="get Login User" />
-      <item value="user" />
-      <item value="get Logon Name" />
-      <item value="simple Date Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3341" />
-        <entry key="ENGLISH" value="3342" />
+        <entry key="CHINESE" value="3349" />
+        <entry key="ENGLISH" value="3350" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="2" />
+        <entry key="ICELANDIC" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="4" />
         <entry key="DANISH" value="8" />
@@ -77,7 +77,7 @@
         <entry key="DUTCH" value="6" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="7" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
