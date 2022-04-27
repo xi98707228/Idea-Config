@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="proc Trans List" />
       <item value="existing" />
       <item value="failed" />
       <item value="Annotation" />
@@ -53,7 +54,6 @@
       <item value="get-relation-plan" />
       <item value="show File Data" />
       <item value="repeat Phone Number" />
-      <item value="phone Number" />
     </histories>
     <option name="languageScores">
       <map>
