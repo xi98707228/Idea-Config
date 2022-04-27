@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="existing" />
+      <item value="failed" />
+      <item value="Annotation" />
+      <item value="Attaching" />
+      <item value="Preparing" />
+      <item value="debug" />
+      <item value="SELECT" />
       <item value="Process Graph Item" />
       <item value="row Id" />
       <item value="process-graph&quot;" />
@@ -47,18 +54,11 @@
       <item value="show File Data" />
       <item value="repeat Phone Number" />
       <item value="phone Number" />
-      <item value="verify Phone Number Repeat" />
-      <item value="system All Phone Number" />
-      <item value="get Phonenumber" />
-      <item value="和当前准备键入的用户手机号是否有重复的" />
-      <item value="verify Phone List" />
-      <item value="file" />
-      <item value="主库数据源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3374" />
-        <entry key="ENGLISH" value="3375" />
+        <entry key="CHINESE" value="3382" />
+        <entry key="ENGLISH" value="3383" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
