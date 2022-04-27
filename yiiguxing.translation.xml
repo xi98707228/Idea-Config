@@ -4,11 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="process-graph&quot;" />
+      <item value="row Id" />
+      <item value="Process Graph Item" />
       <item value="Autowired" />
       <item value="calendar" />
       <item value="after Time" />
       <item value="Iengine Proc Act Def Relation Service" />
-      <item value="Process Graph Item" />
       <item value="Dictionary Parse" />
       <item value="guarantee Zf Integral Service" />
       <item value="Protocol Handler" />
@@ -52,13 +54,11 @@
       <item value="verify Phone List" />
       <item value="file" />
       <item value="主库数据源" />
-      <item value="master" />
-      <item value="13336" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3369" />
-        <entry key="ENGLISH" value="3370" />
+        <entry key="CHINESE" value="3372" />
+        <entry key="ENGLISH" value="3373" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
