@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="log Startup Profile Info" />
       <item value="config rpc client" />
       <item value="Initializing" />
       <item value="embedded" />
@@ -53,12 +54,11 @@
       <item value="target" />
       <item value="socket" />
       <item value="transport" />
-      <item value="52457" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3395" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3396" />
+        <entry key="ENGLISH" value="3397" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
