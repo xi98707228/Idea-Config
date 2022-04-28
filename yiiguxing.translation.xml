@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取自定义列信息" />
+      <item value="tree Node" />
+      <item value="install Payment Credence File Path" />
+      <item value="lookup" />
+      <item value="Standard Charsets" />
       <item value="application" />
       <item value="Length" />
       <item value="Content" />
@@ -49,16 +54,11 @@
       <item value="nacos" />
       <item value="updater" />
       <item value="naming" />
-      <item value="process Service Info" />
-      <item value="is Changed Service Info" />
-      <item value="d 0 b 93 bcd" />
-      <item value="收款计划状态" />
-      <item value="init Handler Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3404" />
-        <entry key="ENGLISH" value="3405" />
+        <entry key="CHINESE" value="3410" />
+        <entry key="ENGLISH" value="3410" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
