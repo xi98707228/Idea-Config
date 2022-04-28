@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="config rpc client" />
+      <item value="Initializing" />
+      <item value="embedded" />
+      <item value="Web Application Context" />
+      <item value="Spring" />
+      <item value="1 e 828206" />
+      <item value="4 c 9921223445_config" />
+      <item value="main" />
+      <item value="INFO" />
+      <item value="client" />
+      <item value="print If Info Enabled" />
+      <item value="imadcn" />
+      <item value="Identifier Generator" />
+      <item value="set Process Primary Key" />
       <item value="proc Trans List" />
       <item value="existing" />
       <item value="failed" />
@@ -32,7 +46,6 @@
       <item value="process Service Info" />
       <item value="is Changed Service Info" />
       <item value="d 0 b 93 bcd" />
-      <item value="print If Info Enabled" />
       <item value="收款计划状态" />
       <item value="init Handler Methods" />
       <item value="background" />
@@ -41,24 +54,11 @@
       <item value="socket" />
       <item value="transport" />
       <item value="52457" />
-      <item value="HV 000001" />
-      <item value="Version" />
-      <item value="get Receive Time" />
-      <item value="param String" />
-      <item value="param Object" />
-      <item value="Query Wrapper" />
-      <item value="list" />
-      <item value="v Cost Plan Service" />
-      <item value="search Filter" />
-      <item value="finance Cost Order Service" />
-      <item value="get-relation-plan" />
-      <item value="show File Data" />
-      <item value="repeat Phone Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3382" />
-        <entry key="ENGLISH" value="3383" />
+        <entry key="CHINESE" value="3395" />
+        <entry key="ENGLISH" value="3396" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -81,8 +81,8 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
-        <entry key="NORWEGIAN" value="6" />
-        <entry key="PORTUGUESE" value="5" />
+        <entry key="NORWEGIAN" value="7" />
+        <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SAMOAN" value="5" />
