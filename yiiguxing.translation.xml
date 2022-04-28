@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="debug" />
+      <item value="137" />
+      <item value="select List" />
+      <item value="nio" />
+      <item value="get Top Row" />
+      <item value="filter Node" />
+      <item value="Report Row" />
       <item value="node" />
       <item value="query Wrapper" />
       <item value="lambda" />
@@ -45,20 +52,13 @@
       <item value="Annotation" />
       <item value="Attaching" />
       <item value="Preparing" />
-      <item value="debug" />
       <item value="SELECT" />
       <item value="Process Graph Item" />
-      <item value="row Id" />
-      <item value="process-graph&quot;" />
-      <item value="Autowired" />
-      <item value="calendar" />
-      <item value="after Time" />
-      <item value="Iengine Proc Act Def Relation Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3418" />
-        <entry key="ENGLISH" value="3419" />
+        <entry key="CHINESE" value="3440" />
+        <entry key="ENGLISH" value="3440" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
         <entry key="NORWEGIAN" value="7" />
         <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="SAMOAN" value="5" />
         <entry key="SESOTHO" value="1" />
         <entry key="SLOVAK" value="5" />
