@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="report Row Service" />
+      <item value="dest" />
+      <item value="set Template Id" />
+      <item value="set Create Time" />
+      <item value="get Order Num" />
+      <item value="order" />
       <item value="获取自定义列信息" />
       <item value="tree Node" />
       <item value="install Payment Credence File Path" />
@@ -48,17 +54,11 @@
       <item value="guarantee Zf Integral Service" />
       <item value="Protocol Handler" />
       <item value="get" />
-      <item value="set Hour Rest Left Days And Hours" />
-      <item value="success" />
-      <item value="resmap" />
-      <item value="nacos" />
-      <item value="updater" />
-      <item value="naming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3410" />
-        <entry key="ENGLISH" value="3410" />
+        <entry key="CHINESE" value="3414" />
+        <entry key="ENGLISH" value="3415" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -76,6 +76,7 @@
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
+        <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="7" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="1" />
