@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="node" />
+      <item value="query Wrapper" />
+      <item value="lambda" />
+      <item value="get Parent Id" />
       <item value="report Row Service" />
       <item value="dest" />
       <item value="set Template Id" />
@@ -50,15 +54,11 @@
       <item value="calendar" />
       <item value="after Time" />
       <item value="Iengine Proc Act Def Relation Service" />
-      <item value="Dictionary Parse" />
-      <item value="guarantee Zf Integral Service" />
-      <item value="Protocol Handler" />
-      <item value="get" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3414" />
-        <entry key="ENGLISH" value="3415" />
+        <entry key="CHINESE" value="3418" />
+        <entry key="ENGLISH" value="3419" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
