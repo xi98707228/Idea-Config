@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Configuration Action" />
+      <item value="configuration" />
       <item value="project" />
       <item value="Self Process Search Filter" />
       <item value="business Key" />
@@ -52,13 +54,11 @@
       <item value="Counted Completer" />
       <item value="Abstract Task" />
       <item value="double Stream" />
-      <item value="get Top Row" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3519" />
-        <entry key="ENGLISH" value="3520" />
+        <entry key="CHINESE" value="3521" />
+        <entry key="ENGLISH" value="3522" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
