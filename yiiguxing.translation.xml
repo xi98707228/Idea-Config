@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="task Follow Service" />
       <item value="call Super" />
       <item value="business Key" />
       <item value="abstract" />
@@ -53,12 +54,11 @@
       <item value="array Index Scale" />
       <item value="number Of Leading Zeros" />
       <item value="ASHIFT" />
-      <item value="compare And Swap Int" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3525" />
-        <entry key="ENGLISH" value="3526" />
+        <entry key="CHINESE" value="3526" />
+        <entry key="ENGLISH" value="3527" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
