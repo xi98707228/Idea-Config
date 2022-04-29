@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="contract number" />
+      <item value="get Task Status" />
+      <item value="Driver" />
+      <item value="szysdx 383" />
+      <item value="localhost" />
+      <item value="6511026_developserve" />
+      <item value="njshide" />
+      <item value="deviceapi" />
       <item value="epoll" />
       <item value="is Not Empty" />
       <item value="String Utils" />
@@ -46,19 +54,11 @@
       <item value="Row Node" />
       <item value="old Capacity" />
       <item value="Unsupported Operation Exception" />
-      <item value="default Read Object" />
-      <item value="select User By User Name" />
-      <item value="String Builder" />
-      <item value="debug" />
-      <item value="137" />
-      <item value="nio" />
-      <item value="Report Row" />
-      <item value="query Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3505" />
-        <entry key="ENGLISH" value="3506" />
+        <entry key="CHINESE" value="3511" />
+        <entry key="ENGLISH" value="3512" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
