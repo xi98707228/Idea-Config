@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ok" />
       <item value="contract number" />
       <item value="get Task Status" />
       <item value="Driver" />
@@ -53,7 +54,6 @@
       <item value="children Node" />
       <item value="Row Node" />
       <item value="old Capacity" />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
@@ -100,7 +100,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650766324820" />
+    <option name="lastTrimTime" value="1651202621315" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
