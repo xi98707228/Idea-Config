@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="MENU TYPE" />
+      <item value="IS FRAME" />
+      <item value="COMPONENT" />
+      <item value="MENU NAME" />
       <item value="ok" />
       <item value="contract number" />
       <item value="get Task Status" />
@@ -50,15 +54,11 @@
       <item value="get Children" />
       <item value="filter Node" />
       <item value="children" />
-      <item value="is Empty" />
-      <item value="children Node" />
-      <item value="Row Node" />
-      <item value="old Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3511" />
-        <entry key="ENGLISH" value="3512" />
+        <entry key="CHINESE" value="3515" />
+        <entry key="ENGLISH" value="3516" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
