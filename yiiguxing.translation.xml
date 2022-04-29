@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="query Wrapper" />
       <item value="MENU TYPE" />
       <item value="IS FRAME" />
       <item value="COMPONENT" />
@@ -53,12 +54,11 @@
       <item value="master Secret" />
       <item value="get Children" />
       <item value="filter Node" />
-      <item value="children" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3515" />
-        <entry key="ENGLISH" value="3516" />
+        <entry key="CHINESE" value="3516" />
+        <entry key="ENGLISH" value="3517" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
