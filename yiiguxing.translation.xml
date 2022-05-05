@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="VARCHAR 2" />
       <item value="optional" />
       <item value="get Vuser" />
       <item value="Reflections" />
@@ -53,7 +54,6 @@
       <item value="node" />
       <item value="ret Node" />
       <item value="rows" />
-      <item value="此处作为最顶层的树形结构" />
     </histories>
     <option name="languageScores">
       <map>
