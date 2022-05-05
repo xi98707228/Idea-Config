@@ -3,8 +3,10 @@
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to retrieve application JMX service URL" />
+      <item value="get Node List" />
+      <item value="Config Expression Node" />
       <item value="Resource" />
       <item value="Fallback Factory" />
       <item value="Remote File Fallback Factory" />
@@ -52,14 +54,11 @@
       <item value="producing" />
       <item value="Rpc Client Factory" />
       <item value="自己提交的流程列表" />
-      <item value="process" />
-      <item value="get Self Process Data List" />
-      <item value="Security Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3588" />
-        <entry key="ENGLISH" value="3589" />
+        <entry key="CHINESE" value="3590" />
+        <entry key="ENGLISH" value="3591" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
