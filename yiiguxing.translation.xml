@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Data Size" />
+      <item value="handle Compute And Replace Entry Content" />
+      <item value="is Empty" />
+      <item value="current Month Data" />
       <item value="configuration" />
       <item value="appender" />
       <item value="Attaching" />
@@ -50,15 +54,11 @@
       <item value="String Utils" />
       <item value="if" />
       <item value="Invocation Handler" />
-      <item value="order By Asc" />
-      <item value="Collection Utils" />
-      <item value="set Children" />
-      <item value="node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3540" />
-        <entry key="ENGLISH" value="3541" />
+        <entry key="CHINESE" value="3544" />
+        <entry key="ENGLISH" value="3545" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
