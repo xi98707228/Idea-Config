@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fallback Factory" />
+      <item value="Remote File Fallback Factory" />
+      <item value="set Wfxw" />
       <item value="install Table Field Select Result" />
       <item value="Element UI Select Vo" />
       <item value="config Table" />
@@ -52,14 +55,11 @@
       <item value="get Self Process Data List" />
       <item value="Security Utils" />
       <item value="login User Name" />
-      <item value="param String" />
-      <item value="DEFAULT GROUP" />
-      <item value="用户服务调用失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3584" />
-        <entry key="ENGLISH" value="3585" />
+        <entry key="CHINESE" value="3587" />
+        <entry key="ENGLISH" value="3588" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
