@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="configuration" />
+      <item value="appender" />
+      <item value="Attaching" />
       <item value="VARCHAR 2" />
       <item value="optional" />
       <item value="get Vuser" />
@@ -26,7 +29,6 @@
       <item value="protected" />
       <item value="启动流程第一步并运行流程" />
       <item value="Configuration Action" />
-      <item value="configuration" />
       <item value="project" />
       <item value="Self Process Search Filter" />
       <item value="query Wrapper" />
@@ -52,13 +54,11 @@
       <item value="Collection Utils" />
       <item value="set Children" />
       <item value="node" />
-      <item value="ret Node" />
-      <item value="rows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3537" />
-        <entry key="ENGLISH" value="3538" />
+        <entry key="CHINESE" value="3540" />
+        <entry key="ENGLISH" value="3541" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
