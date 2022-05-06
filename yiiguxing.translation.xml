@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="replace All" />
       <item value="DEFAULT GROUP" />
       <item value="service" />
       <item value="success" />
@@ -53,12 +54,11 @@
       <item value="clear Cache" />
       <item value="processor" />
       <item value="query" />
-      <item value="Query Processor Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3619" />
-        <entry key="ENGLISH" value="3620" />
+        <entry key="CHINESE" value="3620" />
+        <entry key="ENGLISH" value="3621" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
