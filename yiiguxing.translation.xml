@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Key Universe" />
+      <item value="Enum Map" />
+      <item value="event Filters" />
+      <item value="project" />
+      <item value="Compute Strategy Dispatch" />
+      <item value="Expression Atomic" />
+      <item value="report Id" />
+      <item value="接收查询原子参数" />
       <item value="return Execute Result Map" />
       <item value="execute Query After Replace Expression" />
       <item value="expression Atomics" />
@@ -14,7 +22,6 @@
       <item value="get Caller Class" />
       <item value="Caller Sensitive" />
       <item value="Element UI Select Vo" />
-      <item value="Expression Atomic" />
       <item value="scale Compute Type" />
       <item value="String" />
       <item value="字段类型" />
@@ -37,7 +44,6 @@
       <item value="templateserver" />
       <item value="utils" />
       <item value="part" />
-      <item value="project" />
       <item value="清空当前查询到的表结构数据" />
       <item value="Slf 4 j" />
       <item value="Component" />
@@ -48,17 +54,11 @@
       <item value="ROWNUM" />
       <item value="FROM" />
       <item value="TMP PAGE" />
-      <item value="81 a 5 e 92 ba 71 a 46439460 ee 3 f 7465 f 0 ee" />
-      <item value="Expression Atomic Part" />
-      <item value="Exception" />
-      <item value="false" />
-      <item value="Config Expression Field" />
-      <item value="condition Field Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3691" />
-        <entry key="ENGLISH" value="3692" />
+        <entry key="CHINESE" value="3698" />
+        <entry key="ENGLISH" value="3699" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
