@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Redis Callback" />
+      <item value="Global Meta Controller" />
+      <item value="pjws-web-global" />
+      <item value="组织架构" />
+      <item value="query Meta Team Org Info List" />
       <item value="get Key Universe" />
       <item value="Enum Map" />
       <item value="event Filters" />
@@ -49,16 +54,11 @@
       <item value="Component" />
       <item value="data Base Utils" />
       <item value="query Dictionary" />
-      <item value="compute Data" />
-      <item value="PAGEHELPER ROW ID" />
-      <item value="ROWNUM" />
-      <item value="FROM" />
-      <item value="TMP PAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3698" />
-        <entry key="ENGLISH" value="3699" />
+        <entry key="CHINESE" value="3703" />
+        <entry key="ENGLISH" value="3704" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
