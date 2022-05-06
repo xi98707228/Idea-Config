@@ -4,12 +4,37 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="all Oracle Table Field" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="select List COUNT" />
+      <item value="open Oracle All Table Field Map List" />
+      <item value="SELECT" />
+      <item value="Preparing" />
+      <item value="debug debug debug" />
+      <item value="987072248" />
+      <item value="表达式原子部分" />
+      <item value="ruoyi" />
+      <item value="templateserver" />
+      <item value="utils" />
+      <item value="part" />
+      <item value="project" />
+      <item value="清空当前查询到的表结构数据" />
+      <item value="Slf 4 j" />
+      <item value="Component" />
+      <item value="data Base Utils" />
+      <item value="query Dictionary" />
+      <item value="compute Data" />
+      <item value="PAGEHELPER ROW ID" />
+      <item value="ROWNUM" />
+      <item value="FROM" />
+      <item value="TMP PAGE" />
+      <item value="81 a 5 e 92 ba 71 a 46439460 ee 3 f 7465 f 0 ee" />
       <item value="Expression Atomic Part" />
       <item value="Exception" />
       <item value="false" />
       <item value="Config Expression Field" />
       <item value="condition Field Name" />
-      <item value="987072248" />
       <item value="配置的表达式实例" />
       <item value="条件字段名称" />
       <item value="报告实例" />
@@ -24,41 +49,16 @@
       <item value="expression Node" />
       <item value="String" />
       <item value="exec" />
-      <item value="Parameters" />
-      <item value="debug" />
-      <item value="SELECT" />
       <item value="v user key" />
       <item value="logon name" />
       <item value="row id" />
       <item value="feng lr" />
       <item value="log Startup Profile Info" />
-      <item value="load Nacos Data" />
-      <item value="Nacos Property Source Builder" />
-      <item value="Josh Bloch" />
-      <item value="is Secure" />
-      <item value="producing" />
-      <item value="scan" />
-      <item value="Reflections" />
-      <item value="Failed to retrieve application JMX service URL" />
-      <item value="get Node List" />
-      <item value="Config Expression Node" />
-      <item value="Resource" />
-      <item value="Fallback Factory" />
-      <item value="Remote File Fallback Factory" />
-      <item value="set Wfxw" />
-      <item value="install Table Field Select Result" />
-      <item value="Element UI Select Vo" />
-      <item value="config Table" />
-      <item value="Table Field Type" />
-      <item value="select List" />
-      <item value="clear All Connect Cache" />
-      <item value="data Base Utils" />
-      <item value="表对应的所有表字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3634" />
-        <entry key="ENGLISH" value="3635" />
+        <entry key="CHINESE" value="3671" />
+        <entry key="ENGLISH" value="3672" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -81,7 +81,7 @@
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
-        <entry key="HMONG" value="2" />
+        <entry key="HMONG" value="4" />
         <entry key="NORWEGIAN" value="7" />
         <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
