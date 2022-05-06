@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Expression Atomic Part" />
+      <item value="Exception" />
+      <item value="false" />
+      <item value="Config Expression Field" />
+      <item value="condition Field Name" />
+      <item value="987072248" />
+      <item value="配置的表达式实例" />
+      <item value="条件字段名称" />
+      <item value="报告实例" />
+      <item value="表名称" />
+      <item value="config Expression Field" />
       <item value="all Table Name List" />
       <item value="replace All" />
       <item value="DEFAULT GROUP" />
@@ -43,22 +54,11 @@
       <item value="clear All Connect Cache" />
       <item value="data Base Utils" />
       <item value="表对应的所有表字段" />
-      <item value="向前端传输相关查询参数" />
-      <item value="xqh" />
-      <item value="date" />
-      <item value="author" />
-      <item value="987072248" />
-      <item value="清空当前查询到的表结构数据" />
-      <item value="structure" />
-      <item value="clear" />
-      <item value="cache" />
-      <item value="clear Cache" />
-      <item value="processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3621" />
-        <entry key="ENGLISH" value="3622" />
+        <entry key="CHINESE" value="3634" />
+        <entry key="ENGLISH" value="3635" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
