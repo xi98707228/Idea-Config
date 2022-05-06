@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Query Expression Handle Controller" />
+      <item value="template Manage" />
+      <item value="Query Dictionary" />
+      <item value="get Caller Class" />
+      <item value="Caller Sensitive" />
+      <item value="Element UI Select Vo" />
+      <item value="Expression Atomic" />
+      <item value="scale Compute Type" />
+      <item value="String" />
+      <item value="字段类型" />
+      <item value="field Type" />
+      <item value="Deprecated" />
+      <item value="field Translate" />
+      <item value="condition Name" />
+      <item value="condition Type" />
       <item value="all Oracle Table Field" />
       <item value="Parameters" />
       <item value="debug" />
@@ -39,26 +54,11 @@
       <item value="条件字段名称" />
       <item value="报告实例" />
       <item value="表名称" />
-      <item value="config Expression Field" />
-      <item value="all Table Name List" />
-      <item value="replace All" />
-      <item value="DEFAULT GROUP" />
-      <item value="service" />
-      <item value="success" />
-      <item value="config Condition Param Service" />
-      <item value="expression Node" />
-      <item value="String" />
-      <item value="exec" />
-      <item value="v user key" />
-      <item value="logon name" />
-      <item value="row id" />
-      <item value="feng lr" />
-      <item value="log Startup Profile Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3671" />
-        <entry key="ENGLISH" value="3672" />
+        <entry key="CHINESE" value="3685" />
+        <entry key="ENGLISH" value="3686" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
