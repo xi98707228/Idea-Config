@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="lambda" />
+      <item value="condition Params" />
+      <item value="Result Config Expression Vo" />
       <item value="register Aspect J Annotation Auto Proxy Creator If Necessary" />
       <item value="escalation" />
       <item value="Search Strategy" />
@@ -51,14 +54,11 @@
       <item value="Parameters" />
       <item value="debug" />
       <item value="select List COUNT" />
-      <item value="open Oracle All Table Field Map List" />
-      <item value="SELECT" />
-      <item value="Preparing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3715" />
-        <entry key="ENGLISH" value="3716" />
+        <entry key="CHINESE" value="3719" />
+        <entry key="ENGLISH" value="3720" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
