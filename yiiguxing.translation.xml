@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Room Manage Group Vo" />
+      <item value="luluking" />
+      <item value="lulukey" />
+      <item value="room Key" />
       <item value="Redis Callback" />
       <item value="Global Meta Controller" />
       <item value="pjws-web-global" />
@@ -50,15 +54,11 @@
       <item value="utils" />
       <item value="part" />
       <item value="清空当前查询到的表结构数据" />
-      <item value="Slf 4 j" />
-      <item value="Component" />
-      <item value="data Base Utils" />
-      <item value="query Dictionary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3703" />
-        <entry key="ENGLISH" value="3704" />
+        <entry key="CHINESE" value="3706" />
+        <entry key="ENGLISH" value="3707" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -95,6 +95,7 @@
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
+        <entry key="JAVANESE" value="1" />
         <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
