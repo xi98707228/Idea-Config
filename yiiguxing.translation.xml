@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="条件名称" />
+      <item value="condition Name" />
+      <item value="条件类型" />
+      <item value="condition Type" />
       <item value="jdbc" />
       <item value="oracle" />
       <item value="新获取到连接对象" />
@@ -50,15 +54,11 @@
       <item value="Query Dictionary" />
       <item value="get Caller Class" />
       <item value="Caller Sensitive" />
-      <item value="Element UI Select Vo" />
-      <item value="scale Compute Type" />
-      <item value="String" />
-      <item value="字段类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3728" />
-        <entry key="ENGLISH" value="3729" />
+        <entry key="CHINESE" value="3733" />
+        <entry key="ENGLISH" value="3733" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
