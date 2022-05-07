@@ -4,7 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="project" />
       <item value="templateserver" />
+      <item value="Expression Receive Data Vo" />
+      <item value="report Id" />
+      <item value="expression Atomics" />
+      <item value="Expression Atomic" />
       <item value="com" />
       <item value="qq" />
       <item value="987072248" />
@@ -25,7 +30,6 @@
       <item value="Map Reduce Values To Int Task" />
       <item value="condition Type" />
       <item value="Condition Type" />
-      <item value="project" />
       <item value="Tree Node" />
       <item value="Tree Bin" />
       <item value="Object Stream Field" />
@@ -50,15 +54,11 @@
       <item value="Result Config Expression Vo" />
       <item value="register Aspect J Annotation Auto Proxy Creator If Necessary" />
       <item value="escalation" />
-      <item value="Search Strategy" />
-      <item value="Hierarchical Bean Factory" />
-      <item value="set Application Context" />
-      <item value="Datagram Packet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3762" />
-        <entry key="ENGLISH" value="3763" />
+        <entry key="CHINESE" value="3769" />
+        <entry key="ENGLISH" value="3770" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
