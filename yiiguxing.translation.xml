@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String salt = getSalt();" />
+      <item value="B Crypt Password Encoder" />
       <item value="Expression Execute Param Segment" />
       <item value="condition Name" />
       <item value="条件名称" />
@@ -52,13 +54,11 @@
       <item value="discovery" />
       <item value="Query Expression Handle Controller" />
       <item value="template Manage" />
-      <item value="Query Dictionary" />
-      <item value="get Caller Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3734" />
-        <entry key="ENGLISH" value="3735" />
+        <entry key="CHINESE" value="3736" />
+        <entry key="ENGLISH" value="3737" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
