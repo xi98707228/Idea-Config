@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Expression Condition Params" />
+      <item value="config Condition Param Service" />
+      <item value="success" />
+      <item value="expression Node" />
       <item value="lambda" />
       <item value="condition Params" />
       <item value="Result Config Expression Vo" />
@@ -50,15 +54,11 @@
       <item value="field Translate" />
       <item value="condition Name" />
       <item value="condition Type" />
-      <item value="all Oracle Table Field" />
-      <item value="Parameters" />
-      <item value="debug" />
-      <item value="select List COUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3719" />
-        <entry key="ENGLISH" value="3720" />
+        <entry key="CHINESE" value="3723" />
+        <entry key="ENGLISH" value="3724" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
