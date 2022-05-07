@@ -4,13 +4,38 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="templateserver" />
+      <item value="com" />
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="author" />
+      <item value="data" />
+      <item value="package" />
+      <item value="Data" />
+      <item value="Expression Execute Param Segment" />
+      <item value="Basic Permission" />
+      <item value="Access Control Context" />
+      <item value="As LIFO Queue" />
+      <item value="common Pool" />
+      <item value="Contended" />
+      <item value="(1) Static utility functions (2) Nested (static) classes (3) Static fields (4) Fields, along with constants used when unpacking some of them (5) Internal control methods (6) Callbacks and other support for ForkJoinTask methods (7) Exported methods (8) Static block initializing statics in minimally dependent order" />
+      <item value="Fork Join Task" />
+      <item value="Counted Completer" />
+      <item value="Bulk Task" />
+      <item value="Map Reduce Values To Int Task" />
+      <item value="condition Type" />
+      <item value="Condition Type" />
+      <item value="project" />
+      <item value="Tree Node" />
+      <item value="Tree Bin" />
+      <item value="Object Stream Field" />
+      <item value="serial Persistent Fields" />
+      <item value="Segment" />
       <item value="String salt = getSalt();" />
       <item value="B Crypt Password Encoder" />
-      <item value="Expression Execute Param Segment" />
       <item value="condition Name" />
       <item value="条件名称" />
       <item value="条件类型" />
-      <item value="condition Type" />
       <item value="jdbc" />
       <item value="oracle" />
       <item value="新获取到连接对象" />
@@ -29,36 +54,11 @@
       <item value="Hierarchical Bean Factory" />
       <item value="set Application Context" />
       <item value="Datagram Packet" />
-      <item value="Datagram Socket" />
-      <item value="Malformed URL Exception" />
-      <item value="Room Manage Group Vo" />
-      <item value="luluking" />
-      <item value="lulukey" />
-      <item value="room Key" />
-      <item value="Redis Callback" />
-      <item value="Global Meta Controller" />
-      <item value="pjws-web-global" />
-      <item value="组织架构" />
-      <item value="query Meta Team Org Info List" />
-      <item value="get Key Universe" />
-      <item value="Enum Map" />
-      <item value="event Filters" />
-      <item value="project" />
-      <item value="Compute Strategy Dispatch" />
-      <item value="Expression Atomic" />
-      <item value="report Id" />
-      <item value="接收查询原子参数" />
-      <item value="return Execute Result Map" />
-      <item value="execute Query After Replace Expression" />
-      <item value="expression Atomics" />
-      <item value="discovery" />
-      <item value="Query Expression Handle Controller" />
-      <item value="template Manage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3736" />
-        <entry key="ENGLISH" value="3737" />
+        <entry key="CHINESE" value="3762" />
+        <entry key="ENGLISH" value="3763" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
