@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="No Args Constructor" />
+      <item value="Expression Atomic Part" />
       <item value="Query Expression Handle Controller" />
       <item value="expression Executor" />
       <item value="Mapped Statement" />
@@ -33,7 +35,6 @@
       <item value="no Creators, like default constructor, exist" />
       <item value="日期类型" />
       <item value="比如金额" />
-      <item value="Expression Atomic Part" />
       <item value="Expression Atomic" />
       <item value="configuration" />
       <item value="project" />
@@ -53,12 +54,11 @@
       <item value="Access Control Context" />
       <item value="As LIFO Queue" />
       <item value="common Pool" />
-      <item value="Contended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3801" />
-        <entry key="ENGLISH" value="3802" />
+        <entry key="CHINESE" value="3803" />
+        <entry key="ENGLISH" value="3804" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
