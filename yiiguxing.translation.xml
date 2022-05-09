@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="执行器" />
       <item value="Service" />
       <item value="Expression Atomic Part" />
       <item value="接收前端传递的查询原子参数" />
@@ -53,11 +54,10 @@
       <item value="expression Atomics" />
       <item value="com" />
       <item value="qq" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3815" />
+        <entry key="CHINESE" value="3816" />
         <entry key="ENGLISH" value="3816" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
