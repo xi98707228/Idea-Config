@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="build Executor Sql" />
       <item value="Abstract List" />
       <item value="ch must have a 1:M case mapping, but we can't handle it here. Return ch. since mapChar is already set, no need to redo it here. default : mapChar = ch;" />
       <item value="There are certain system configurations that may be controlled by VM options such as the maximum amount of direct memory and Integer cache size used to support the object identity semantics of autoboxing. Typically, the library will obtain these values from the properties set by the VM. If the properties are for internal implementation use only, these properties should be removed from the system properties. See java.lang.Integer.IntegerCache and the sun.misc.VM.saveAndRemoveProperties method for example. Save a private copy of the system properties object that can only be accessed by the internal implementation. Remove certain system properties that are not intended for public access." />
@@ -53,12 +54,11 @@
       <item value="Segment" />
       <item value="String salt = getSalt();" />
       <item value="B Crypt Password Encoder" />
-      <item value="condition Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3786" />
-        <entry key="ENGLISH" value="3787" />
+        <entry key="CHINESE" value="3787" />
+        <entry key="ENGLISH" value="3788" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
