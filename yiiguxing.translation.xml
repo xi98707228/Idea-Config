@@ -4,7 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Query Expression Handle Controller" />
+      <item value="expression Executor" />
+      <item value="Mapped Statement" />
+      <item value="select Query Executor For Compute Type" />
+      <item value="selected Query Executor For Compute Type" />
+      <item value="selected Query Executor For Computed Type" />
+      <item value="selected Query Executor For Computed" />
+      <item value="dispatcher Query Executor For Computed" />
+      <item value="With Compute" />
+      <item value="dispatcher Query Executor With Compute" />
+      <item value="返回执行该Sql语句的结果值" />
+      <item value="Abstract Query Expression Executor" />
+      <item value="返回待执行的Sql语句" />
       <item value="build Executor Sql" />
+      <item value="public interface QueryExpressionExecutor {" />
       <item value="Abstract List" />
       <item value="ch must have a 1:M case mapping, but we can't handle it here. Return ch. since mapChar is already set, no need to redo it here. default : mapChar = ch;" />
       <item value="There are certain system configurations that may be controlled by VM options such as the maximum amount of direct memory and Integer cache size used to support the object identity semantics of autoboxing. Typically, the library will obtain these values from the properties set by the VM. If the properties are for internal implementation use only, these properties should be removed from the system properties. See java.lang.Integer.IntegerCache and the sun.misc.VM.saveAndRemoveProperties method for example. Save a private copy of the system properties object that can only be accessed by the internal implementation. Remove certain system properties that are not intended for public access." />
@@ -40,25 +54,11 @@
       <item value="As LIFO Queue" />
       <item value="common Pool" />
       <item value="Contended" />
-      <item value="(1) Static utility functions (2) Nested (static) classes (3) Static fields (4) Fields, along with constants used when unpacking some of them (5) Internal control methods (6) Callbacks and other support for ForkJoinTask methods (7) Exported methods (8) Static block initializing statics in minimally dependent order" />
-      <item value="Fork Join Task" />
-      <item value="Counted Completer" />
-      <item value="Bulk Task" />
-      <item value="Map Reduce Values To Int Task" />
-      <item value="condition Type" />
-      <item value="Condition Type" />
-      <item value="Tree Node" />
-      <item value="Tree Bin" />
-      <item value="Object Stream Field" />
-      <item value="serial Persistent Fields" />
-      <item value="Segment" />
-      <item value="String salt = getSalt();" />
-      <item value="B Crypt Password Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3787" />
-        <entry key="ENGLISH" value="3788" />
+        <entry key="CHINESE" value="3801" />
+        <entry key="ENGLISH" value="3802" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
