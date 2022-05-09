@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ch must have a 1:M case mapping, but we can't handle it here. Return ch. since mapChar is already set, no need to redo it here. default : mapChar = ch;" />
+      <item value="There are certain system configurations that may be controlled by VM options such as the maximum amount of direct memory and Integer cache size used to support the object identity semantics of autoboxing. Typically, the library will obtain these values from the properties set by the VM. If the properties are for internal implementation use only, these properties should be removed from the system properties. See java.lang.Integer.IntegerCache and the sun.misc.VM.saveAndRemoveProperties method for example. Save a private copy of the system properties object that can only be accessed by the internal implementation. Remove certain system properties that are not intended for public access." />
+      <item value="Override" />
+      <item value="Query Expression Executor" />
+      <item value="Mpmc Array Queue L 1 Pad" />
+      <item value="Unsafe Ref Array Access" />
+      <item value="Do nothing" />
+      <item value="Query Expression Handle Support" />
+      <item value="open Oracle All Table Field Map List" />
+      <item value="return Execute Result Map" />
+      <item value="no Creators, like default constructor, exist" />
       <item value="日期类型" />
       <item value="比如金额" />
       <item value="Expression Atomic Part" />
@@ -43,22 +54,11 @@
       <item value="B Crypt Password Encoder" />
       <item value="condition Name" />
       <item value="条件名称" />
-      <item value="条件类型" />
-      <item value="jdbc" />
-      <item value="oracle" />
-      <item value="新获取到连接对象" />
-      <item value="获取指定表达式节点Id" />
-      <item value="的查询条件参数" />
-      <item value="get Expression Condition Params" />
-      <item value="config Condition Param Service" />
-      <item value="success" />
-      <item value="expression Node" />
-      <item value="lambda" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3776" />
-        <entry key="ENGLISH" value="3776" />
+        <entry key="CHINESE" value="3785" />
+        <entry key="ENGLISH" value="3786" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
