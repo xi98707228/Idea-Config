@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="return Execute Result Map" />
+      <item value="expression Atomic Parts" />
       <item value="No Args Constructor" />
       <item value="Expression Atomic Part" />
       <item value="Query Expression Handle Controller" />
@@ -31,7 +33,6 @@
       <item value="Do nothing" />
       <item value="Query Expression Handle Support" />
       <item value="open Oracle All Table Field Map List" />
-      <item value="return Execute Result Map" />
       <item value="no Creators, like default constructor, exist" />
       <item value="日期类型" />
       <item value="比如金额" />
@@ -53,12 +54,11 @@
       <item value="Basic Permission" />
       <item value="Access Control Context" />
       <item value="As LIFO Queue" />
-      <item value="common Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3803" />
-        <entry key="ENGLISH" value="3804" />
+        <entry key="CHINESE" value="3807" />
+        <entry key="ENGLISH" value="3808" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
