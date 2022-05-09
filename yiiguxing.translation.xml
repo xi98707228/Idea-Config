@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Ruoyi Scheduler DESKTOP" />
       <item value="return Execute Result Map" />
       <item value="expression Atomic Parts" />
       <item value="No Args Constructor" />
@@ -53,11 +54,10 @@
       <item value="Expression Execute Param Segment" />
       <item value="Basic Permission" />
       <item value="Access Control Context" />
-      <item value="As LIFO Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3807" />
+        <entry key="CHINESE" value="3809" />
         <entry key="ENGLISH" value="3808" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
