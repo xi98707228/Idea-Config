@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="比如金额" />
       <item value="Expression Atomic Part" />
       <item value="Expression Atomic" />
       <item value="configuration" />
@@ -53,11 +54,10 @@
       <item value="expression Node" />
       <item value="lambda" />
       <item value="condition Params" />
-      <item value="Result Config Expression Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3775" />
+        <entry key="CHINESE" value="3776" />
         <entry key="ENGLISH" value="3776" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
