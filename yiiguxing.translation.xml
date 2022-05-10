@@ -4,12 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Abstract Query Expression Executor" />
+      <item value="the type of mapped values" />
+      <item value="executor Sql" />
+      <item value="type Resolve Class" />
       <item value="current Execute Param Segment" />
       <item value="condition Type" />
       <item value="Condition Type" />
       <item value="DATE" />
       <item value="builder Condition Sql" />
-      <item value="executor Sql" />
       <item value="build Query Sql" />
       <item value="field Resolve Type" />
       <item value="build Sql Param" />
@@ -31,7 +34,6 @@
       <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
       <item value="group Atomic Expression Map" />
       <item value="expression Atomic Parts 1" />
-      <item value="Abstract Query Expression Executor" />
       <item value="execute Query Expression" />
       <item value="查询表达式" />
       <item value="select Query Executor For Compute Type" />
@@ -52,13 +54,11 @@
       <item value="Query Expression Executor" />
       <item value="Expression Receive Data Vo" />
       <item value="default Text Query Executor" />
-      <item value="Default Text Query Executor" />
-      <item value="grouping By" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3901" />
-        <entry key="ENGLISH" value="3902" />
+        <entry key="CHINESE" value="3906" />
+        <entry key="ENGLISH" value="3907" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
