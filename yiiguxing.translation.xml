@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Preparing" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="cb 738 acce 4 d 54 d 499 b 5 ca 10256363 ff 8" />
+      <item value="is required" />
+      <item value="param index" />
+      <item value="remakes" />
+      <item value="field name" />
+      <item value="node id" />
+      <item value="ROW ID" />
+      <item value="SELECT" />
       <item value="calendar" />
       <item value="format" />
       <item value="execute Field Segment" />
@@ -43,22 +54,11 @@
       <item value="Condition Type" />
       <item value="DATE" />
       <item value="builder Condition Sql" />
-      <item value="build Query Sql" />
-      <item value="field Resolve Type" />
-      <item value="build Sql Param" />
-      <item value="append" />
-      <item value="builder Field Sql" />
-      <item value="Field Result Resolve Type" />
-      <item value="get Field Name" />
-      <item value="SQL SINGLE MARK" />
-      <item value="cores" />
-      <item value="to date" />
-      <item value="return" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3947" />
-        <entry key="ENGLISH" value="3948" />
+        <entry key="CHINESE" value="3965" />
+        <entry key="ENGLISH" value="3966" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
