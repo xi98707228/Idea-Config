@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="builder Field Sql" />
+      <item value="field Resolve Type" />
+      <item value="Field Result Resolve Type" />
+      <item value="get Field Name" />
+      <item value="SQL SINGLE MARK" />
+      <item value="cores" />
       <item value="to date" />
       <item value="return" />
       <item value="Override" />
@@ -48,17 +54,11 @@
       <item value="Service" />
       <item value="接收前端传递的查询原子参数" />
       <item value="row Id" />
-      <item value="String" />
-      <item value="node Id" />
-      <item value="执行字段片段" />
-      <item value="Ruoyi Scheduler DESKTOP" />
-      <item value="return Execute Result Map" />
-      <item value="No Args Constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3875" />
-        <entry key="ENGLISH" value="3876" />
+        <entry key="CHINESE" value="3886" />
+        <entry key="ENGLISH" value="3887" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
