@@ -4,15 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
+      <item value="group Atomic Expression Map" />
+      <item value="expression Atomic Parts 1" />
+      <item value="Abstract Query Expression Executor" />
+      <item value="execute Query Expression" />
       <item value="查询表达式" />
+      <item value="success" />
+      <item value="select Query Executor For Compute Type" />
       <item value="expression Atomic Parts" />
+      <item value="executor Sql" />
+      <item value="build Executor Sql" />
+      <item value="text Query Executor" />
+      <item value="Text Query Executor" />
+      <item value="Inner Handle Executor" />
+      <item value="Query Expression Handle Controller" />
       <item value="collect" />
       <item value="Expression Atomic Part" />
       <item value="Collectors" />
       <item value="Post Mapping" />
       <item value="expression" />
       <item value="query-expression" />
-      <item value="Query Expression Handle Controller" />
       <item value="执行器" />
       <item value="expression Executor" />
       <item value="Query Expression Executor" />
@@ -23,12 +35,9 @@
       <item value="RUNTIME" />
       <item value="Request Body" />
       <item value="execute" />
-      <item value="execute Query Expression" />
       <item value="执行提供参数" />
       <item value="expression Receive Data" />
       <item value="Autowired" />
-      <item value="success" />
-      <item value="executor Sql" />
       <item value="Service" />
       <item value="接收前端传递的查询原子参数" />
       <item value="row Id" />
@@ -39,26 +48,17 @@
       <item value="return Execute Result Map" />
       <item value="No Args Constructor" />
       <item value="Mapped Statement" />
-      <item value="select Query Executor For Compute Type" />
       <item value="selected Query Executor For Compute Type" />
       <item value="selected Query Executor For Computed Type" />
       <item value="selected Query Executor For Computed" />
       <item value="dispatcher Query Executor For Computed" />
       <item value="With Compute" />
       <item value="dispatcher Query Executor With Compute" />
-      <item value="返回执行该Sql语句的结果值" />
-      <item value="Abstract Query Expression Executor" />
-      <item value="返回待执行的Sql语句" />
-      <item value="build Executor Sql" />
-      <item value="public interface QueryExpressionExecutor {" />
-      <item value="Abstract List" />
-      <item value="ch must have a 1:M case mapping, but we can't handle it here. Return ch. since mapChar is already set, no need to redo it here. default : mapChar = ch;" />
-      <item value="There are certain system configurations that may be controlled by VM options such as the maximum amount of direct memory and Integer cache size used to support the object identity semantics of autoboxing. Typically, the library will obtain these values from the properties set by the VM. If the properties are for internal implementation use only, these properties should be removed from the system properties. See java.lang.Integer.IntegerCache and the sun.misc.VM.saveAndRemoveProperties method for example. Save a private copy of the system properties object that can only be accessed by the internal implementation. Remove certain system properties that are not intended for public access." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3848" />
-        <entry key="ENGLISH" value="3848" />
+        <entry key="CHINESE" value="3868" />
+        <entry key="ENGLISH" value="3868" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -101,7 +101,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651714372008" />
+    <option name="lastTrimTime" value="1652146395569" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
