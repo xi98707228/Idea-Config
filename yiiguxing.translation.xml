@@ -4,10 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="append" />
-      <item value="field Resolve Type" />
-      <item value="current Execute Field Segment" />
       <item value="current Execute Param Segment" />
+      <item value="condition Type" />
+      <item value="Condition Type" />
+      <item value="DATE" />
+      <item value="builder Condition Sql" />
+      <item value="executor Sql" />
+      <item value="build Query Sql" />
+      <item value="field Resolve Type" />
+      <item value="build Sql Param" />
+      <item value="append" />
+      <item value="current Execute Field Segment" />
       <item value="builder Field Sql" />
       <item value="Field Result Resolve Type" />
       <item value="get Field Name" />
@@ -16,7 +23,6 @@
       <item value="to date" />
       <item value="return" />
       <item value="Override" />
-      <item value="executor Sql" />
       <item value="success" />
       <item value="758007 ea" />
       <item value="jdbc" />
@@ -48,17 +54,11 @@
       <item value="default Text Query Executor" />
       <item value="Default Text Query Executor" />
       <item value="grouping By" />
-      <item value="RUNTIME" />
-      <item value="Request Body" />
-      <item value="execute" />
-      <item value="执行提供参数" />
-      <item value="expression Receive Data" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3890" />
-        <entry key="ENGLISH" value="3891" />
+        <entry key="CHINESE" value="3901" />
+        <entry key="ENGLISH" value="3902" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
