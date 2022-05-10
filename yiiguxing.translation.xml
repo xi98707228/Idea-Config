@@ -4,8 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="builder Field Sql" />
+      <item value="append" />
       <item value="field Resolve Type" />
+      <item value="current Execute Field Segment" />
+      <item value="current Execute Param Segment" />
+      <item value="builder Field Sql" />
       <item value="Field Result Resolve Type" />
       <item value="get Field Name" />
       <item value="SQL SINGLE MARK" />
@@ -51,14 +54,11 @@
       <item value="执行提供参数" />
       <item value="expression Receive Data" />
       <item value="Autowired" />
-      <item value="Service" />
-      <item value="接收前端传递的查询原子参数" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3886" />
-        <entry key="ENGLISH" value="3887" />
+        <entry key="CHINESE" value="3890" />
+        <entry key="ENGLISH" value="3891" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
