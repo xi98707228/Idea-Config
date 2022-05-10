@@ -4,11 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="connection" />
+      <item value="Expression Atomic Part" />
+      <item value="generic Sql" />
+      <item value="Override" />
+      <item value="Expression Execute Field Segment" />
+      <item value="Expression Execute Param Segment" />
+      <item value="current Execute Field Segment" />
+      <item value="current Execute Param Segment" />
+      <item value="expression Atomic Part" />
+      <item value="expression Atomic Group Part" />
+      <item value="get Execute Field Segment" />
+      <item value="resolve Input Param Become Enum Type" />
+      <item value="compute Data" />
+      <item value="Entry Manage" />
+      <item value="SQL Exception" />
+      <item value="print If Info Enabled" />
+      <item value="is Changed Service Info" />
+      <item value="结束" />
+      <item value="查询表达式" />
+      <item value="return Execute Result Map" />
       <item value="executor Sql" />
       <item value="Abstract Query Expression Executor" />
       <item value="the type of mapped values" />
       <item value="type Resolve Class" />
-      <item value="current Execute Param Segment" />
       <item value="condition Type" />
       <item value="Condition Type" />
       <item value="DATE" />
@@ -17,7 +36,6 @@
       <item value="field Resolve Type" />
       <item value="build Sql Param" />
       <item value="append" />
-      <item value="current Execute Field Segment" />
       <item value="builder Field Sql" />
       <item value="Field Result Resolve Type" />
       <item value="get Field Name" />
@@ -25,7 +43,6 @@
       <item value="cores" />
       <item value="to date" />
       <item value="return" />
-      <item value="Override" />
       <item value="success" />
       <item value="758007 ea" />
       <item value="jdbc" />
@@ -35,30 +52,13 @@
       <item value="group Atomic Expression Map" />
       <item value="expression Atomic Parts 1" />
       <item value="execute Query Expression" />
-      <item value="查询表达式" />
       <item value="select Query Executor For Compute Type" />
       <item value="expression Atomic Parts" />
-      <item value="build Executor Sql" />
-      <item value="text Query Executor" />
-      <item value="Text Query Executor" />
-      <item value="Inner Handle Executor" />
-      <item value="Query Expression Handle Controller" />
-      <item value="collect" />
-      <item value="Expression Atomic Part" />
-      <item value="Collectors" />
-      <item value="Post Mapping" />
-      <item value="expression" />
-      <item value="query-expression" />
-      <item value="执行器" />
-      <item value="expression Executor" />
-      <item value="Query Expression Executor" />
-      <item value="Expression Receive Data Vo" />
-      <item value="default Text Query Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3907" />
-        <entry key="ENGLISH" value="3908" />
+        <entry key="CHINESE" value="3932" />
+        <entry key="ENGLISH" value="3933" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
