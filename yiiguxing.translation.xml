@@ -4,11 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="calendar" />
+      <item value="format" />
       <item value="execute Field Segment" />
       <item value="SUM" />
       <item value="SQL FROM" />
       <item value="SQL WHERE" />
-      <item value="format" />
       <item value="set" />
       <item value="Expression Execute Param Segment" />
       <item value="execute Query Sql" />
@@ -53,12 +54,11 @@
       <item value="cores" />
       <item value="to date" />
       <item value="return" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3945" />
-        <entry key="ENGLISH" value="3946" />
+        <entry key="CHINESE" value="3947" />
+        <entry key="ENGLISH" value="3948" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
