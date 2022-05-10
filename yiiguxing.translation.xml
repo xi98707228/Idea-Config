@@ -4,21 +4,40 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="执行器" />
-      <item value="Service" />
+      <item value="查询表达式" />
+      <item value="expression Atomic Parts" />
+      <item value="collect" />
       <item value="Expression Atomic Part" />
+      <item value="Collectors" />
+      <item value="Post Mapping" />
+      <item value="expression" />
+      <item value="query-expression" />
+      <item value="Query Expression Handle Controller" />
+      <item value="执行器" />
+      <item value="expression Executor" />
+      <item value="Query Expression Executor" />
+      <item value="Expression Receive Data Vo" />
+      <item value="default Text Query Executor" />
+      <item value="Default Text Query Executor" />
+      <item value="grouping By" />
+      <item value="RUNTIME" />
+      <item value="Request Body" />
+      <item value="execute" />
+      <item value="execute Query Expression" />
+      <item value="执行提供参数" />
+      <item value="expression Receive Data" />
+      <item value="Autowired" />
+      <item value="success" />
+      <item value="executor Sql" />
+      <item value="Service" />
       <item value="接收前端传递的查询原子参数" />
       <item value="row Id" />
       <item value="String" />
       <item value="node Id" />
       <item value="执行字段片段" />
-      <item value="collect" />
       <item value="Ruoyi Scheduler DESKTOP" />
       <item value="return Execute Result Map" />
-      <item value="expression Atomic Parts" />
       <item value="No Args Constructor" />
-      <item value="Query Expression Handle Controller" />
-      <item value="expression Executor" />
       <item value="Mapped Statement" />
       <item value="select Query Executor For Compute Type" />
       <item value="selected Query Executor For Compute Type" />
@@ -35,30 +54,11 @@
       <item value="Abstract List" />
       <item value="ch must have a 1:M case mapping, but we can't handle it here. Return ch. since mapChar is already set, no need to redo it here. default : mapChar = ch;" />
       <item value="There are certain system configurations that may be controlled by VM options such as the maximum amount of direct memory and Integer cache size used to support the object identity semantics of autoboxing. Typically, the library will obtain these values from the properties set by the VM. If the properties are for internal implementation use only, these properties should be removed from the system properties. See java.lang.Integer.IntegerCache and the sun.misc.VM.saveAndRemoveProperties method for example. Save a private copy of the system properties object that can only be accessed by the internal implementation. Remove certain system properties that are not intended for public access." />
-      <item value="Override" />
-      <item value="Query Expression Executor" />
-      <item value="Mpmc Array Queue L 1 Pad" />
-      <item value="Unsafe Ref Array Access" />
-      <item value="Do nothing" />
-      <item value="Query Expression Handle Support" />
-      <item value="open Oracle All Table Field Map List" />
-      <item value="no Creators, like default constructor, exist" />
-      <item value="日期类型" />
-      <item value="比如金额" />
-      <item value="Expression Atomic" />
-      <item value="configuration" />
-      <item value="project" />
-      <item value="templateserver" />
-      <item value="Expression Receive Data Vo" />
-      <item value="report Id" />
-      <item value="expression Atomics" />
-      <item value="com" />
-      <item value="qq" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3816" />
-        <entry key="ENGLISH" value="3816" />
+        <entry key="CHINESE" value="3848" />
+        <entry key="ENGLISH" value="3848" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
