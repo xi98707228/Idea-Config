@@ -4,9 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="executor Sql" />
       <item value="Abstract Query Expression Executor" />
       <item value="the type of mapped values" />
-      <item value="executor Sql" />
       <item value="type Resolve Class" />
       <item value="current Execute Param Segment" />
       <item value="condition Type" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3906" />
-        <entry key="ENGLISH" value="3907" />
+        <entry key="CHINESE" value="3907" />
+        <entry key="ENGLISH" value="3908" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
