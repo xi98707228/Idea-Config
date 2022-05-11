@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Multiple Statistics Common Pool" />
+      <item value="project" />
+      <item value="STORE CUSTOMER TREE JSON KEY" />
+      <item value="Refresh Cache" />
+      <item value="获取设备信息分页列表" />
+      <item value="device List" />
+      <item value="V Project Device" />
+      <item value="项目名称" />
       <item value="Compute Strategy" />
       <item value="result" />
       <item value="HALF UP" />
@@ -46,19 +54,11 @@
       <item value="Entry Manage" />
       <item value="SQL Exception" />
       <item value="print If Info Enabled" />
-      <item value="is Changed Service Info" />
-      <item value="结束" />
-      <item value="查询表达式" />
-      <item value="return Execute Result Map" />
-      <item value="executor Sql" />
-      <item value="Abstract Query Expression Executor" />
-      <item value="the type of mapped values" />
-      <item value="type Resolve Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3972" />
-        <entry key="ENGLISH" value="3973" />
+        <entry key="CHINESE" value="3984" />
+        <entry key="ENGLISH" value="3985" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
