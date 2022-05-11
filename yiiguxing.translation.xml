@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="计算累加和" />
       <item value="Preparing" />
       <item value="Parameters" />
       <item value="debug" />
@@ -53,12 +54,11 @@
       <item value="condition Type" />
       <item value="Condition Type" />
       <item value="DATE" />
-      <item value="builder Condition Sql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3965" />
-        <entry key="ENGLISH" value="3966" />
+        <entry key="CHINESE" value="3970" />
+        <entry key="ENGLISH" value="3970" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
