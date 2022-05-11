@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="subtract" />
+      <item value="parse Double" />
+      <item value="percent" />
+      <item value="String Builder" />
+      <item value="builder Field Sql" />
+      <item value="build Query Sql" />
+      <item value="table Name" />
+      <item value="create Statement" />
       <item value="Multiple Statistics Common Pool" />
       <item value="project" />
       <item value="STORE CUSTOMER TREE JSON KEY" />
@@ -46,19 +54,11 @@
       <item value="Expression Execute Field Segment" />
       <item value="current Execute Field Segment" />
       <item value="current Execute Param Segment" />
-      <item value="expression Atomic Part" />
-      <item value="expression Atomic Group Part" />
-      <item value="get Execute Field Segment" />
-      <item value="resolve Input Param Become Enum Type" />
-      <item value="compute Data" />
-      <item value="Entry Manage" />
-      <item value="SQL Exception" />
-      <item value="print If Info Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3984" />
-        <entry key="ENGLISH" value="3985" />
+        <entry key="CHINESE" value="3993" />
+        <entry key="ENGLISH" value="3994" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
