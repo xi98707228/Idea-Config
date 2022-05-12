@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Default Text Query Executor" />
+      <item value="Abstract Query Expression Executor" />
       <item value="joran" />
       <item value="get Chart Record List" />
       <item value="select Query All Entry Report" />
@@ -52,13 +54,11 @@
       <item value="debug" />
       <item value="cb 738 acce 4 d 54 d 499 b 5 ca 10256363 ff 8" />
       <item value="is required" />
-      <item value="param index" />
-      <item value="remakes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4015" />
-        <entry key="ENGLISH" value="4016" />
+        <entry key="CHINESE" value="4017" />
+        <entry key="ENGLISH" value="4018" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
