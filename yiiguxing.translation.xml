@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="with" />
       <item value="is Changed Service Info" />
       <item value="service" />
       <item value="process Service Info" />
@@ -53,12 +54,11 @@
       <item value="replace Map Item" />
       <item value="subtract" />
       <item value="parse Double" />
-      <item value="percent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4043" />
-        <entry key="ENGLISH" value="4044" />
+        <entry key="CHINESE" value="4044" />
+        <entry key="ENGLISH" value="4045" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
