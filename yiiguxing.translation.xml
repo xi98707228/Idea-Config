@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="select Query All Entry Report" />
       <item value="自动获取" />
       <item value="Spring" />
       <item value="init Connection" />
@@ -53,12 +54,11 @@
       <item value="remakes" />
       <item value="field name" />
       <item value="node id" />
-      <item value="ROW ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4012" />
-        <entry key="ENGLISH" value="4012" />
+        <entry key="CHINESE" value="4013" />
+        <entry key="ENGLISH" value="4014" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
