@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="joran" />
+      <item value="get Chart Record List" />
       <item value="select Query All Entry Report" />
       <item value="自动获取" />
       <item value="Spring" />
@@ -52,13 +54,11 @@
       <item value="is required" />
       <item value="param index" />
       <item value="remakes" />
-      <item value="field name" />
-      <item value="node id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4013" />
-        <entry key="ENGLISH" value="4014" />
+        <entry key="CHINESE" value="4015" />
+        <entry key="ENGLISH" value="4016" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
