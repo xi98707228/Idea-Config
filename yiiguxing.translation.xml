@@ -4,10 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Chart Record List" />
       <item value="Default Text Query Executor" />
       <item value="Abstract Query Expression Executor" />
       <item value="joran" />
-      <item value="get Chart Record List" />
       <item value="select Query All Entry Report" />
       <item value="自动获取" />
       <item value="Spring" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4017" />
-        <entry key="ENGLISH" value="4018" />
+        <entry key="CHINESE" value="4018" />
+        <entry key="ENGLISH" value="4019" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
