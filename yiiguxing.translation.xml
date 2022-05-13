@@ -4,9 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="01292602" />
+      <item value="Parameters" />
+      <item value="configuration" />
+      <item value="children Org List" />
+      <item value="parse Date" />
+      <item value="nfclogs" />
       <item value="debug" />
       <item value="select List COUNT" />
-      <item value="Parameters" />
       <item value="getuser List By Id" />
       <item value="Enum Un Update Exception" />
       <item value="translate Da Sha Device Tags" />
@@ -49,16 +54,11 @@
       <item value="Attaching" />
       <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
       <item value="stream" />
-      <item value="group Atomic Expression Map" />
-      <item value="单独进行计算" />
-      <item value="Expression Atomic Part" />
-      <item value="create Time" />
-      <item value="update Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4080" />
-        <entry key="ENGLISH" value="4081" />
+        <entry key="CHINESE" value="4088" />
+        <entry key="ENGLISH" value="4087" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
