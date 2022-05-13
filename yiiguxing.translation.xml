@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Parameters" />
+      <item value="debug" />
       <item value="getuser List By Id" />
       <item value="Enum Un Update Exception" />
       <item value="translate Da Sha Device Tags" />
@@ -27,7 +29,6 @@
       <item value="clear Cache" />
       <item value="data Base Utils" />
       <item value="clear All Connect Cache" />
-      <item value="debug" />
       <item value="config Table Service" />
       <item value="get Config Table List" />
       <item value="2 edf 652 c" />
@@ -53,12 +54,11 @@
       <item value="create Time" />
       <item value="update Time" />
       <item value="set Default Flag" />
-      <item value="后大队长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4076" />
-        <entry key="ENGLISH" value="4077" />
+        <entry key="CHINESE" value="4078" />
+        <entry key="ENGLISH" value="4079" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
