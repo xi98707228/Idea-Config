@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Enum Un Update Exception" />
+      <item value="translate Da Sha Device Tags" />
+      <item value="_init Current Statistics Time Line Field Test" />
+      <item value="statistics Model" />
+      <item value="Abstract System Index Statistics Service" />
+      <item value="statistics Config" />
       <item value="Status Process Engine" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="Arrays" />
@@ -48,17 +54,11 @@
       <item value="set Default Flag" />
       <item value="后大队长" />
       <item value="user List" />
-      <item value="Gx Sys Process User Relation" />
-      <item value="get Assignee Id" />
-      <item value="get Selfdept" />
-      <item value="部门负责人" />
-      <item value="dept Ids" />
-      <item value="date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4069" />
-        <entry key="ENGLISH" value="4070" />
+        <entry key="CHINESE" value="4074" />
+        <entry key="ENGLISH" value="4075" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
