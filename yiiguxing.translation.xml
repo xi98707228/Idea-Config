@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="clear Cache" />
+      <item value="data Base Utils" />
+      <item value="clear All Connect Cache" />
+      <item value="debug" />
+      <item value="config Table Service" />
+      <item value="get Config Table List" />
       <item value="2 edf 652 c" />
       <item value="limit Time" />
       <item value="client" />
@@ -48,17 +54,11 @@
       <item value="set Application Context" />
       <item value="filter" />
       <item value="group Atomic Scale Expression Map" />
-      <item value="季度环比" />
-      <item value="span" />
-      <item value="style" />
-      <item value="h 91191 c 8 oo 0" />
-      <item value="lt 621 bdkups" />
-      <item value="i 2 kg 20 mnrm 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4049" />
-        <entry key="ENGLISH" value="4049" />
+        <entry key="CHINESE" value="4054" />
+        <entry key="ENGLISH" value="4055" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
