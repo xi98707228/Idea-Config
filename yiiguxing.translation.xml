@@ -4,9 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Validator" />
+      <item value="Hibernate" />
+      <item value="v User" />
+      <item value="Nfc Patrol Points New Logs" />
+      <item value="Query Wrapper" />
+      <item value="eq" />
+      <item value="Configuration Action" />
+      <item value="action" />
+      <item value="joran" />
+      <item value="logback" />
+      <item value="classic" />
+      <item value="configuration" />
+      <item value="End" />
       <item value="01292602" />
       <item value="Parameters" />
-      <item value="configuration" />
       <item value="children Org List" />
       <item value="parse Date" />
       <item value="nfclogs" />
@@ -42,23 +54,11 @@
       <item value="client" />
       <item value="executor" />
       <item value="Request Param" />
-      <item value="with" />
-      <item value="is Changed Service Info" />
-      <item value="service" />
-      <item value="process Service Info" />
-      <item value="naming" />
-      <item value="result Expression Result List" />
-      <item value="sys" />
-      <item value="named" />
-      <item value="appender" />
-      <item value="Attaching" />
-      <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
-      <item value="stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4088" />
-        <entry key="ENGLISH" value="4087" />
+        <entry key="CHINESE" value="4102" />
+        <entry key="ENGLISH" value="4103" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
