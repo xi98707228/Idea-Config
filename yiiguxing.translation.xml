@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="iengine Proc Act Def Service" />
+      <item value="start Page" />
+      <item value="page Domain" />
+      <item value="default" />
+      <item value="Engine Proc Default User Controller" />
+      <item value="iengine Proc Def Service" />
       <item value="intercepting" />
       <item value="index Partal Service" />
       <item value="DAY OF MONTH" />
@@ -48,17 +54,11 @@
       <item value="check Current Process Is End" />
       <item value="build Sql" />
       <item value="connection" />
-      <item value="result Map" />
-      <item value="get Query Param Data" />
-      <item value="Hash Map" />
-      <item value="clear Cache" />
-      <item value="data Base Utils" />
-      <item value="clear All Connect Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4109" />
-        <entry key="ENGLISH" value="4110" />
+        <entry key="CHINESE" value="4119" />
+        <entry key="ENGLISH" value="4120" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
