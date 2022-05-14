@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="intercepting" />
       <item value="index Partal Service" />
       <item value="DAY OF MONTH" />
       <item value="List" />
@@ -53,12 +54,11 @@
       <item value="clear Cache" />
       <item value="data Base Utils" />
       <item value="clear All Connect Cache" />
-      <item value="config Table Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4108" />
-        <entry key="ENGLISH" value="4109" />
+        <entry key="CHINESE" value="4109" />
+        <entry key="ENGLISH" value="4110" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
