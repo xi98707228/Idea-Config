@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="2022426 14:51" />
+      <item value="门户Controller" />
+      <item value="print If Info Enabled" />
       <item value="iengine Proc Userorg Service" />
       <item value="Default User Flag" />
       <item value="iengine Proc Act Def Service" />
@@ -51,14 +54,11 @@
       <item value="debug" />
       <item value="select List COUNT" />
       <item value="getuser List By Id" />
-      <item value="Enum Un Update Exception" />
-      <item value="translate Da Sha Device Tags" />
-      <item value="_init Current Statistics Time Line Field Test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4138" />
-        <entry key="ENGLISH" value="4139" />
+        <entry key="CHINESE" value="4142" />
+        <entry key="ENGLISH" value="4141" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -101,7 +101,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652146395569" />
+    <option name="lastTrimTime" value="1652664507987" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
