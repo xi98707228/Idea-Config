@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="of Nullable" />
+      <item value="num Total" />
+      <item value="item Hours" />
+      <item value="get Instance" />
+      <item value="Calendar" />
+      <item value="HOUR OF DAY" />
+      <item value="MILLISECOND" />
+      <item value="time Fs" />
+      <item value="Final Array List" />
+      <item value="map" />
       <item value="Leet_4_Median Of Two Sorted Arrays" />
       <item value="Indicates a public API that can change at any time, and has no guarantee of API stability and backward-compatibility. &lt;p&gt;Usage guidelines: &lt;ol&gt; &lt;li&gt;This annotation is used only on public API. Internal interfaces should not use it. &lt;li&gt;This annotation should only be added to new APIs. Adding it to an existing API is considered API-breaking. &lt;li&gt;Removing this annotation from an API gives it stable status. &lt;ol&gt;" />
       <item value="Payload" />
@@ -44,21 +54,11 @@
       <item value="active Proc Def Inst" />
       <item value="Engineproc Userorg" />
       <item value="Import Aware" />
-      <item value="Spring's support for annotation-based transaction demarcation. Hooked into Spring's transaction interception infrastructure via a special TransactionAttributeSource implementation." />
-      <item value="is Candidate Class" />
-      <item value="Engineproc Act Def" />
-      <item value="get One" />
-      <item value="success" />
-      <item value="或者替换默认人" />
-      <item value="act Proc Def Id" />
-      <item value="start Page" />
-      <item value="page Domain" />
-      <item value="default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4170" />
-        <entry key="ENGLISH" value="4171" />
+        <entry key="CHINESE" value="4182" />
+        <entry key="ENGLISH" value="4183" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
