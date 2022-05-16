@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="module" />
+      <item value="recompiling" />
+      <item value="plugin" />
+      <item value="compiler" />
+      <item value="compile" />
+      <item value="default" />
+      <item value="njdt jx server" />
+      <item value="Changes" />
+      <item value="detected" />
       <item value="default Value" />
       <item value="item Hours" />
       <item value="get Instance" />
@@ -45,20 +54,11 @@
       <item value="Hibernate" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
-      <item value="charset" />
-      <item value="2022426 14:51" />
-      <item value="门户Controller" />
-      <item value="print If Info Enabled" />
-      <item value="iengine Proc Userorg Service" />
-      <item value="Default User Flag" />
-      <item value="iengine Proc Act Def Service" />
-      <item value="operate User Inst" />
-      <item value="active Proc Def Inst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4189" />
-        <entry key="ENGLISH" value="4190" />
+        <entry key="CHINESE" value="4205" />
+        <entry key="ENGLISH" value="4206" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
