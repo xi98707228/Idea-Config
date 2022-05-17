@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resource" />
       <item value="naming" />
       <item value="print If Info Enabled" />
       <item value="connection" />
@@ -53,12 +54,11 @@
       <item value="latch Await" />
       <item value="count Down" />
       <item value="interrupted" />
-      <item value="object Wait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4215" />
-        <entry key="ENGLISH" value="4216" />
+        <entry key="CHINESE" value="4216" />
+        <entry key="ENGLISH" value="4217" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
