@@ -4,11 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="show Office Supplies List" />
+      <item value="Gx Oa Dic Office Supplies" />
+      <item value="get Office Dict Supplies List" />
+      <item value="supplies Dic List Search Filter" />
+      <item value="system Service" />
+      <item value="product Name" />
+      <item value="dic Type" />
       <item value="Gx Oa Dic Office Supplies Service" />
       <item value="is Changed Service Info" />
       <item value="process Service Info" />
       <item value="return" />
-      <item value="show Office Supplies List" />
       <item value="supplies Relation List Search Filter" />
       <item value="Office Supplies Controller" />
       <item value="office Supplies Relation Service" />
@@ -48,17 +54,11 @@
       <item value="get Instance" />
       <item value="Calendar" />
       <item value="MINUTE" />
-      <item value="of Nullable" />
-      <item value="num Total" />
-      <item value="HOUR OF DAY" />
-      <item value="MILLISECOND" />
-      <item value="time Fs" />
-      <item value="Final Array List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4240" />
-        <entry key="ENGLISH" value="4241" />
+        <entry key="CHINESE" value="4248" />
+        <entry key="ENGLISH" value="4249" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
