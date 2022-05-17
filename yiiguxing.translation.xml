@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Simple Date Format" />
       <item value="select One" />
       <item value="team User Mapper" />
       <item value="mobile Service" />
@@ -53,12 +54,11 @@
       <item value="SEQUENCE" />
       <item value="Atomic Long" />
       <item value="Subscriber" />
-      <item value="get Secret Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4225" />
-        <entry key="ENGLISH" value="4226" />
+        <entry key="CHINESE" value="4226" />
+        <entry key="ENGLISH" value="4227" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
