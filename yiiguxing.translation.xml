@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Gx Oa Dic Office Supplies Service" />
+      <item value="is Changed Service Info" />
+      <item value="process Service Info" />
+      <item value="return" />
+      <item value="show Office Supplies List" />
+      <item value="supplies Relation List Search Filter" />
+      <item value="Office Supplies Controller" />
+      <item value="office Supplies Relation Service" />
+      <item value="office Supplies Service" />
       <item value="create User Name" />
       <item value="product Unit Price" />
       <item value="show Supplies Relation List" />
@@ -45,20 +54,11 @@
       <item value="MILLISECOND" />
       <item value="time Fs" />
       <item value="Final Array List" />
-      <item value="map" />
-      <item value="Leet_4_Median Of Two Sorted Arrays" />
-      <item value="Indicates a public API that can change at any time, and has no guarantee of API stability and backward-compatibility. &lt;p&gt;Usage guidelines: &lt;ol&gt; &lt;li&gt;This annotation is used only on public API. Internal interfaces should not use it. &lt;li&gt;This annotation should only be added to new APIs. Adding it to an existing API is considered API-breaking. &lt;li&gt;Removing this annotation from an API gives it stable status. &lt;ol&gt;" />
-      <item value="Payload" />
-      <item value="not Empty" />
-      <item value="not Full" />
-      <item value="Concurrency control uses the classic two-condition algorithm found in any textbook." />
-      <item value="Yml Change Parser" />
-      <item value="ignore Expire Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4229" />
-        <entry key="ENGLISH" value="4230" />
+        <entry key="CHINESE" value="4240" />
+        <entry key="ENGLISH" value="4241" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
