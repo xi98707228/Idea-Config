@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="create User Name" />
+      <item value="product Unit Price" />
       <item value="show Supplies Relation List" />
       <item value="Simple Date Format" />
       <item value="select One" />
@@ -52,13 +54,11 @@
       <item value="Concurrency control uses the classic two-condition algorithm found in any textbook." />
       <item value="Yml Change Parser" />
       <item value="ignore Expire Event" />
-      <item value="SEQUENCE" />
-      <item value="Atomic Long" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4227" />
-        <entry key="ENGLISH" value="4228" />
+        <entry key="CHINESE" value="4229" />
+        <entry key="ENGLISH" value="4230" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
