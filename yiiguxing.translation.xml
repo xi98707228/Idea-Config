@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Logger Context" />
+      <item value="operate Row Id" />
+      <item value="is Not Empty" />
+      <item value="String Utils" />
       <item value="ee 97 a 11 f" />
       <item value="product Unit" />
       <item value="create Time" />
@@ -50,15 +54,11 @@
       <item value="compile" />
       <item value="default" />
       <item value="njdt jx server" />
-      <item value="Changes" />
-      <item value="detected" />
-      <item value="default Value" />
-      <item value="item Hours" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4251" />
-        <entry key="ENGLISH" value="4252" />
+        <entry key="CHINESE" value="4256" />
+        <entry key="ENGLISH" value="4257" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
