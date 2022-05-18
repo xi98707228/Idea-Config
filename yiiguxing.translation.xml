@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ee 97 a 11 f" />
       <item value="product Unit" />
       <item value="create Time" />
       <item value="show Office Supplies List" />
@@ -53,12 +54,11 @@
       <item value="detected" />
       <item value="default Value" />
       <item value="item Hours" />
-      <item value="get Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4250" />
-        <entry key="ENGLISH" value="4251" />
+        <entry key="CHINESE" value="4251" />
+        <entry key="ENGLISH" value="4252" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
