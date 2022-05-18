@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Useful" />
       <item value="reference Table" />
       <item value="conditions" />
       <item value="dic Type" />
@@ -53,12 +54,11 @@
       <item value="connection" />
       <item value="4 db 4 d 5 d 7068 d" />
       <item value="4288" />
-      <item value="ee 9 cb 6 fb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4271" />
-        <entry key="ENGLISH" value="4272" />
+        <entry key="CHINESE" value="4272" />
+        <entry key="ENGLISH" value="4273" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
