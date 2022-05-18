@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delete" />
+      <item value="office Supplies delete Supplies Relation" />
       <item value="dic Name" />
       <item value="is Applied" />
       <item value="Useful" />
@@ -52,13 +54,11 @@
       <item value="intf" />
       <item value="resource" />
       <item value="naming" />
-      <item value="print If Info Enabled" />
-      <item value="connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4275" />
-        <entry key="ENGLISH" value="4276" />
+        <entry key="CHINESE" value="4277" />
+        <entry key="ENGLISH" value="4278" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
