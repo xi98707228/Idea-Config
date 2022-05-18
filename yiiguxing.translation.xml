@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Logger" />
+      <item value="Attaching" />
+      <item value="Appender Ref Action" />
+      <item value="logback" />
       <item value="meta Office Data" />
       <item value="is Resolve Lazily" />
       <item value="Multipart Resolver" />
@@ -50,15 +54,11 @@
       <item value="current" />
       <item value="Registering" />
       <item value="configuration" />
-      <item value="Connection" />
-      <item value="module" />
-      <item value="recompiling" />
-      <item value="plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4260" />
-        <entry key="ENGLISH" value="4261" />
+        <entry key="CHINESE" value="4264" />
+        <entry key="ENGLISH" value="4265" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
