@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="conditions" />
+      <item value="dic Type" />
+      <item value="Gx Oa Dic Office Supplies" />
+      <item value="dic List" />
+      <item value="system Service" />
       <item value="Logger" />
       <item value="Attaching" />
       <item value="Appender Ref Action" />
@@ -20,12 +25,9 @@
       <item value="product Unit" />
       <item value="create Time" />
       <item value="show Office Supplies List" />
-      <item value="Gx Oa Dic Office Supplies" />
       <item value="get Office Dict Supplies List" />
       <item value="supplies Dic List Search Filter" />
-      <item value="system Service" />
       <item value="product Name" />
-      <item value="dic Type" />
       <item value="Gx Oa Dic Office Supplies Service" />
       <item value="is Changed Service Info" />
       <item value="process Service Info" />
@@ -52,13 +54,11 @@
       <item value="4288" />
       <item value="ee 9 cb 6 fb" />
       <item value="current" />
-      <item value="Registering" />
-      <item value="configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4264" />
-        <entry key="ENGLISH" value="4265" />
+        <entry key="CHINESE" value="4270" />
+        <entry key="ENGLISH" value="4271" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
