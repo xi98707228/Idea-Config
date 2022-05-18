@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="meta Office Data" />
+      <item value="is Resolve Lazily" />
       <item value="Multipart Resolver" />
       <item value="Dispatcher Servlet" />
       <item value="Logger Context" />
@@ -52,13 +54,11 @@
       <item value="module" />
       <item value="recompiling" />
       <item value="plugin" />
-      <item value="compiler" />
-      <item value="compile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4258" />
-        <entry key="ENGLISH" value="4259" />
+        <entry key="CHINESE" value="4260" />
+        <entry key="ENGLISH" value="4261" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
