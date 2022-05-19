@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="orgs Of Month List" />
+      <item value="办公审批流程" />
+      <item value="Approve" />
+      <item value="operate Row Id" />
       <item value="directory" />
       <item value="NJSD" />
       <item value="office Supplies Relation" />
@@ -50,15 +54,11 @@
       <item value="dic Type" />
       <item value="dic List" />
       <item value="system Service" />
-      <item value="Logger" />
-      <item value="Attaching" />
-      <item value="Appender Ref Action" />
-      <item value="logback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4327" />
-        <entry key="ENGLISH" value="4328" />
+        <entry key="CHINESE" value="4330" />
+        <entry key="ENGLISH" value="4331" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
