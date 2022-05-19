@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="carry Bit Sum" />
+      <item value="recursion Method" />
+      <item value="recall Call Result" />
       <item value="987072248" />
       <item value="Gx Oa Office Supplies Service Impl" />
       <item value="office Supplies List" />
@@ -51,14 +54,11 @@
       <item value="provide Cache Map" />
       <item value="return" />
       <item value="office" />
-      <item value="get Office Select Data" />
-      <item value="Gx Oa Dic Office Supplies" />
-      <item value="dic Office Supplies Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4351" />
-        <entry key="ENGLISH" value="4350" />
+        <entry key="CHINESE" value="4352" />
+        <entry key="ENGLISH" value="4353" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
