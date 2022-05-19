@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get First Day" />
+      <item value="get Last Day" />
+      <item value="Date Util" />
+      <item value="get Instance" />
+      <item value="Calendar" />
+      <item value="YEAR" />
+      <item value="MONTH" />
+      <item value="get Parameter" />
+      <item value="validate String Not Null" />
+      <item value="year" />
+      <item value="create Month" />
+      <item value="month" />
       <item value="orgs Of Month List" />
       <item value="办公审批流程" />
       <item value="Approve" />
@@ -11,7 +23,6 @@
       <item value="directory" />
       <item value="NJSD" />
       <item value="office Supplies Relation" />
-      <item value="validate String Not Null" />
       <item value="proprice" />
       <item value="row Id" />
       <item value="dept Names" />
@@ -43,22 +54,11 @@
       <item value="office Suplies Dic Data" />
       <item value="Gx Oa Dic Office Supplies Service" />
       <item value="Redis Cache" />
-      <item value="Abstract Value Adapting Cache" />
-      <item value="delete" />
-      <item value="office Supplies delete Supplies Relation" />
-      <item value="dic Name" />
-      <item value="is Applied" />
-      <item value="Useful" />
-      <item value="reference Table" />
-      <item value="conditions" />
-      <item value="dic Type" />
-      <item value="dic List" />
-      <item value="system Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4330" />
-        <entry key="ENGLISH" value="4331" />
+        <entry key="CHINESE" value="4344" />
+        <entry key="ENGLISH" value="4345" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -78,7 +78,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="8" />
-        <entry key="ROMANIAN" value="6" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
