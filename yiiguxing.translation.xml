@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="老系统已结办" />
       <item value="get Activity Id" />
       <item value="order Num" />
       <item value="老版本流程" />
@@ -53,11 +54,10 @@
       <item value="get Orgid" />
       <item value="set Apply Dept Id" />
       <item value="apply Dept Id" />
-      <item value="Gx Oa Office Supplies Relation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4361" />
+        <entry key="CHINESE" value="4362" />
         <entry key="ENGLISH" value="4362" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
