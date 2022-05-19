@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="987072248" />
       <item value="Gx Oa Office Supplies Service Impl" />
       <item value="office Supplies List" />
       <item value="filter Query" />
@@ -53,12 +54,11 @@
       <item value="get Office Select Data" />
       <item value="Gx Oa Dic Office Supplies" />
       <item value="dic Office Supplies Service" />
-      <item value="provide Selected Cache Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4348" />
-        <entry key="ENGLISH" value="4349" />
+        <entry key="CHINESE" value="4351" />
+        <entry key="ENGLISH" value="4350" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
