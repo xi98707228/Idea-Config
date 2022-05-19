@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Gx Oa Supplies Logistics" />
+      <item value="String" />
+      <item value="PTID SL" />
+      <item value="year" />
+      <item value="BUSINESS KEY SL" />
+      <item value="user" />
+      <item value="get Logon Name" />
+      <item value="record Logistics" />
       <item value="老系统已结办" />
       <item value="get Activity Id" />
       <item value="order Num" />
@@ -32,7 +40,6 @@
       <item value="MONTH" />
       <item value="get Parameter" />
       <item value="validate String Not Null" />
-      <item value="year" />
       <item value="create Month" />
       <item value="month" />
       <item value="orgs Of Month List" />
@@ -47,18 +54,11 @@
       <item value="dept Names" />
       <item value="dept Name" />
       <item value="dept Ids" />
-      <item value="dept Id" />
-      <item value="supplies" />
-      <item value="operate Supplies Relation" />
-      <item value="login User" />
-      <item value="get Orgid" />
-      <item value="set Apply Dept Id" />
-      <item value="apply Dept Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4362" />
-        <entry key="ENGLISH" value="4362" />
+        <entry key="CHINESE" value="4368" />
+        <entry key="ENGLISH" value="4369" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
         <entry key="NORWEGIAN" value="7" />
         <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />
         <entry key="SESOTHO" value="2" />
         <entry key="SLOVAK" value="5" />
