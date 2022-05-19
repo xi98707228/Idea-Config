@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="directory" />
+      <item value="NJSD" />
+      <item value="office Supplies Relation" />
+      <item value="validate String Not Null" />
+      <item value="proprice" />
+      <item value="row Id" />
       <item value="dept Names" />
       <item value="dept Name" />
       <item value="dept Ids" />
@@ -48,17 +54,11 @@
       <item value="Attaching" />
       <item value="Appender Ref Action" />
       <item value="logback" />
-      <item value="meta Office Data" />
-      <item value="is Resolve Lazily" />
-      <item value="Multipart Resolver" />
-      <item value="Dispatcher Servlet" />
-      <item value="Logger Context" />
-      <item value="operate Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4323" />
-        <entry key="ENGLISH" value="4324" />
+        <entry key="CHINESE" value="4327" />
+        <entry key="ENGLISH" value="4328" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,12 +72,12 @@
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
         <entry key="FRISIAN" value="1" />
-        <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
-        <entry key="LATIN" value="7" />
+        <entry key="LATIN" value="8" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
