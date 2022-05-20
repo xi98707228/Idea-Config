@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Registering" />
       <item value="builder" />
       <item value="Gx Oa Office Supplies" />
       <item value="build Office Supplies" />
@@ -53,12 +54,11 @@
       <item value="Calendar" />
       <item value="YEAR" />
       <item value="MONTH" />
-      <item value="get Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4392" />
-        <entry key="ENGLISH" value="4393" />
+        <entry key="CHINESE" value="4393" />
+        <entry key="ENGLISH" value="4394" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
