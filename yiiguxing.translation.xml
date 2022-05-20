@@ -4,8 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="mutex" />
+      <item value="build Office Supplies" />
+      <item value="get Org Dtype" />
+      <item value="team Org" />
+      <item value="team Org List" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="builder" />
+      <item value="org" />
+      <item value="month" />
+      <item value="create Org Of Month" />
+      <item value="set Create Org Id" />
+      <item value="set Create Org Name" />
+      <item value="set Create Month" />
       <item value="office Supplies" />
+      <item value="judge Process Is Old" />
+      <item value="mutex" />
       <item value="Gx Oa Supplies Logistics" />
       <item value="String" />
       <item value="PTID SL" />
@@ -41,24 +54,11 @@
       <item value="YEAR" />
       <item value="MONTH" />
       <item value="get Parameter" />
-      <item value="validate String Not Null" />
-      <item value="create Month" />
-      <item value="month" />
-      <item value="orgs Of Month List" />
-      <item value="办公审批流程" />
-      <item value="Approve" />
-      <item value="operate Row Id" />
-      <item value="directory" />
-      <item value="NJSD" />
-      <item value="office Supplies Relation" />
-      <item value="proprice" />
-      <item value="row Id" />
-      <item value="dept Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4370" />
-        <entry key="ENGLISH" value="4371" />
+        <entry key="CHINESE" value="4389" />
+        <entry key="ENGLISH" value="4390" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
