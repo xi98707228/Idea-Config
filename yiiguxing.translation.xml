@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Reposity Back" />
+      <item value="default" />
+      <item value="transport" />
+      <item value="redirect Page Url" />
+      <item value="FILE URL" />
+      <item value="process Type" />
+      <item value="get One" />
+      <item value="gx Oa Leave Vo Service" />
+      <item value="equals" />
+      <item value="business Key" />
+      <item value="class" />
       <item value="user Id" />
       <item value="去重复的值" />
       <item value="redis Cache" />
@@ -43,22 +54,11 @@
       <item value="month" />
       <item value="create Org Of Month" />
       <item value="set Create Org Id" />
-      <item value="set Create Org Name" />
-      <item value="set Create Month" />
-      <item value="office Supplies" />
-      <item value="judge Process Is Old" />
-      <item value="mutex" />
-      <item value="Gx Oa Supplies Logistics" />
-      <item value="String" />
-      <item value="PTID SL" />
-      <item value="year" />
-      <item value="BUSINESS KEY SL" />
-      <item value="user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4445" />
-        <entry key="ENGLISH" value="4446" />
+        <entry key="CHINESE" value="4456" />
+        <entry key="ENGLISH" value="4457" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
