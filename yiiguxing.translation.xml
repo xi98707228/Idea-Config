@@ -4,12 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="builder" />
+      <item value="Gx Oa Office Supplies" />
       <item value="build Office Supplies" />
       <item value="get Org Dtype" />
       <item value="team Org" />
       <item value="team Org List" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="builder" />
       <item value="org" />
       <item value="month" />
       <item value="create Org Of Month" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4390" />
-        <entry key="ENGLISH" value="4391" />
+        <entry key="CHINESE" value="4392" />
+        <entry key="ENGLISH" value="4393" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
