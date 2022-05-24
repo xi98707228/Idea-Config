@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="流程结构Utils" />
+      <item value="987072248" />
+      <item value="process Structure Utils" />
+      <item value="附件Ids" />
       <item value="流程实例Id" />
       <item value="lookup" />
       <item value="create Month" />
@@ -50,15 +54,11 @@
       <item value="Boolean" />
       <item value="u Id List" />
       <item value="lambda" />
-      <item value="executor Repeat Map" />
-      <item value="hepler" />
-      <item value="iv User Service" />
-      <item value="list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4504" />
-        <entry key="ENGLISH" value="4504" />
+        <entry key="CHINESE" value="4507" />
+        <entry key="ENGLISH" value="4506" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
