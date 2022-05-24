@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="流程实例Id" />
+      <item value="lookup" />
+      <item value="create Month" />
+      <item value="OPERATE URL" />
+      <item value="办公用品申领流程" />
+      <item value="business Key" />
+      <item value="PROCESS URL" />
+      <item value="songzhouyang" />
+      <item value="create Year" />
+      <item value="row group" />
+      <item value="select Ids" />
       <item value="configuration" />
       <item value="update" />
       <item value="equals" />
@@ -14,14 +25,10 @@
       <item value="RESULT CUSTOM JSP" />
       <item value="Parse Exception" />
       <item value="description" />
-      <item value="row group" />
       <item value="classic" />
-      <item value="business Key" />
       <item value="office Bg Apply" />
       <item value="office Goods Bg" />
       <item value="office Goods" />
-      <item value="办公用品申领流程" />
-      <item value="PROCESS URL" />
       <item value="process Key" />
       <item value="equals(" />
       <item value="token Service" />
@@ -47,18 +54,11 @@
       <item value="hepler" />
       <item value="iv User Service" />
       <item value="list" />
-      <item value="query Wrapper" />
-      <item value="QueryWrapper&lt;VUser&gt; queryWrapper = new QueryWrapper&lt;&gt;();" />
-      <item value="V User" />
-      <item value="Query Wrapper" />
-      <item value="get Orgid" />
-      <item value="get Orgname" />
-      <item value="temp List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4494" />
-        <entry key="ENGLISH" value="4495" />
+        <entry key="CHINESE" value="4504" />
+        <entry key="ENGLISH" value="4504" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
