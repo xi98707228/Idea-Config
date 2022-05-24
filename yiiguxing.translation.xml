@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="AUTHORIZATION HEADER" />
+      <item value="Convert" />
       <item value="act Name Mapping" />
       <item value="save Submit Form Advice Data" />
       <item value="Pjws Rk Index" />
@@ -52,13 +54,11 @@
       <item value="流程结构Utils" />
       <item value="987072248" />
       <item value="process Structure Utils" />
-      <item value="附件Ids" />
-      <item value="流程实例Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4570" />
-        <entry key="ENGLISH" value="4571" />
+        <entry key="CHINESE" value="4572" />
+        <entry key="ENGLISH" value="4573" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
