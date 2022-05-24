@@ -4,6 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="update" />
+      <item value="equals" />
+      <item value="set Custom Page" />
+      <item value="page Url" />
+      <item value="go Template Choose List" />
+      <item value="Jzg Template Role" />
+      <item value="RESULT CUSTOM JSP" />
+      <item value="Parse Exception" />
+      <item value="description" />
+      <item value="row group" />
+      <item value="classic" />
+      <item value="business Key" />
+      <item value="office Bg Apply" />
+      <item value="office Goods Bg" />
+      <item value="office Goods" />
+      <item value="办公用品申领流程" />
+      <item value="PROCESS URL" />
+      <item value="process Key" />
+      <item value="equals(" />
+      <item value="token Service" />
+      <item value="入库流程相关" />
+      <item value="票据文书相关流程模板" />
       <item value="Reposity Back" />
       <item value="default" />
       <item value="transport" />
@@ -12,8 +34,6 @@
       <item value="process Type" />
       <item value="get One" />
       <item value="gx Oa Leave Vo Service" />
-      <item value="equals" />
-      <item value="business Key" />
       <item value="class" />
       <item value="user Id" />
       <item value="去重复的值" />
@@ -34,31 +54,11 @@
       <item value="get Orgname" />
       <item value="temp List" />
       <item value="coll" />
-      <item value="stream" />
-      <item value="选择关联用户页面" />
-      <item value="lookup" />
-      <item value="PROCESS SELECTED USER CACHE KEY" />
-      <item value="set User Id" />
-      <item value="get Show Status" />
-      <item value="Attaching" />
-      <item value="v user key" />
-      <item value="Parameters" />
-      <item value="Registering" />
-      <item value="builder" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="build Office Supplies" />
-      <item value="get Org Dtype" />
-      <item value="team Org" />
-      <item value="team Org List" />
-      <item value="org" />
-      <item value="month" />
-      <item value="create Org Of Month" />
-      <item value="set Create Org Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4456" />
-        <entry key="ENGLISH" value="4457" />
+        <entry key="CHINESE" value="4490" />
+        <entry key="ENGLISH" value="4491" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -101,7 +101,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652664507987" />
+    <option name="lastTrimTime" value="1653355838665" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
