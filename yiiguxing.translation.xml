@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="row Id" />
       <item value="流程结构Utils" />
       <item value="987072248" />
       <item value="process Structure Utils" />
@@ -53,12 +54,11 @@
       <item value="Ignore" />
       <item value="Boolean" />
       <item value="u Id List" />
-      <item value="lambda" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4507" />
-        <entry key="ENGLISH" value="4506" />
+        <entry key="ENGLISH" value="4507" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
