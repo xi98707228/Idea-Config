@@ -4,7 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="selected User Name" />
       <item value="query Supplies Logistics Select User Data" />
+      <item value="query Param" />
+      <item value="run Supplies Logistics Process" />
+      <item value="get Supplies Team Org Data" />
+      <item value="Collectors" />
+      <item value="next Act Id" />
+      <item value="global Submit Form Row Id" />
+      <item value="执行更新" />
+      <item value="login User" />
+      <item value="统一参数" />
+      <item value="从前端获取" />
+      <item value="流程预定义的目录" />
+      <item value="business Key" />
+      <item value="process Key" />
+      <item value="process Inst Id" />
+      <item value="team Org Data" />
+      <item value="jdbc Template" />
+      <item value="query For Object" />
+      <item value="selfdept" />
+      <item value="logon Name" />
       <item value="Engine Proc Userorg" />
       <item value="team Org" />
       <item value="Team Org" />
@@ -14,15 +34,11 @@
       <item value="的待选人员列表信息" />
       <item value="hlist" />
       <item value="application" />
-      <item value="process Key" />
-      <item value="get Supplies Team Org Data" />
       <item value="query Supplies Logistics User Data" />
       <item value="assignee Name" />
-      <item value="selected User Name" />
       <item value="user List" />
       <item value="selecteds" />
       <item value="selected User Id" />
-      <item value="global Submit Form Row Id" />
       <item value="row Ids" />
       <item value="operate Url" />
       <item value="row Group" />
@@ -38,33 +54,17 @@
       <item value="String" />
       <item value="get Identity Service" />
       <item value="process Engine" />
-      <item value="Ignore" />
-      <item value="load Nacos Data" />
-      <item value="Nacos Property Source Builder" />
-      <item value="log Startup Profile Info" />
-      <item value="I Constants" />
-      <item value="find User Select Json" />
-      <item value="query Process Users" />
-      <item value="person" />
-      <item value="select" />
-      <item value="process Tools" />
-      <item value="find" />
-      <item value="selected User Ids" />
-      <item value="ids" />
-      <item value="resize" />
-      <item value="treeify Bin" />
-      <item value="selfdept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4803" />
-        <entry key="ENGLISH" value="4804" />
+        <entry key="CHINESE" value="4825" />
+        <entry key="ENGLISH" value="4826" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="POLISH" value="1" />
-        <entry key="AFRIKAANS" value="7" />
+        <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="4" />
@@ -83,7 +83,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
         <entry key="NORWEGIAN" value="7" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />
