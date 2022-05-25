@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="月份" />
-      <item value="年份" />
-      <item value="用复选框选中的ids" />
-      <item value="parse Parameters" />
-      <item value="create Time" />
-      <item value="total Count" />
-      <item value="SESSION KEY USER" />
-      <item value="I Constants" />
-      <item value="session Map" />
-      <item value="V User" />
-      <item value="pt Id" />
-      <item value="status" />
-      <item value="is Select" />
-      <item value="condition" />
-      <item value="query Office Supplies Relation List" />
-      <item value="query Office Supplies List" />
-      <item value="logistics List" />
-      <item value="org Id In" />
-      <item value="create Year" />
-      <item value="create Month" />
-      <item value="apply Status" />
-      <item value="apply Id" />
-      <item value="Gx Oa Supplies Logistics" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="get Gx Oa Office Supplies By Id" />
-      <item value="get Create Org Id" />
-      <item value="user Duty Type Dic Map" />
-      <item value="user Info Duty Type List" />
-      <item value="get Commmon Dic List 2" />
-      <item value="query Office Supplies Logistics List" />
-      <item value="supplies" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="操作成功" />
-      <item value="unchecked" />
-      <item value="Date" />
-      <item value="相关联的配置" />
-      <item value="apply" />
-      <item value="staff Ms" />
-      <item value="total Price" />
-      <item value="dic Type" />
-      <item value="item Config" />
-      <item value="Gx Sys Process User Relation Office Service" />
-      <item value="form SL Logistics" />
+      <item value="Map processInfo = processService.startProcess( user.getLogonName(), BUSINESS_KEY_SL, processKey, processParameters); ProcessDefinitionEntity processDefinitionEntity = (ProcessDefinitionEntity) processInfo .get(&quot;processDefinitionEntity&quot;);" />
+      <item value="Custom Process Diagram Generator" />
       <item value="Conversion registration error" />
-      <item value="Artifact" />
-      <item value="Connected to server" />
-      <item value="Appender Ref Action" />
-      <item value="joran" />
-      <item value="logback" />
-      <item value="NJSD" />
+      <item value="Gx Sys Process User Relation" />
+      <item value="set Row Id" />
+      <item value="row Ids" />
+      <item value="team Org List" />
+      <item value="fetch Size" />
+      <item value="datasource" />
+      <item value="proxy Bean Methods" />
+      <item value="find Activity" />
+      <item value="process Act Name" />
+      <item value="process Act Id" />
+      <item value="get Property" />
+      <item value="process Definition Entity" />
+      <item value="usertask 9" />
+      <item value="apply Id" />
+      <item value="create Org Id" />
+      <item value="supplies List" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="process Key" />
+      <item value="Identity Service" />
+      <item value="Process Instance" />
+      <item value="get Id" />
+      <item value="process Instance" />
+      <item value="process Intance Id" />
+      <item value="String" />
+      <item value="process Def Id" />
+      <item value="logon Name" />
+      <item value="supplies Logistics Service" />
+      <item value="第一次提交流程" />
+      <item value="process Service" />
+      <item value="process Info" />
+      <item value="get Logon Name" />
+      <item value="create User Name" />
+      <item value="Object" />
+      <item value="params" />
+      <item value="query Process Users" />
+      <item value="assignee Name" />
+      <item value="row Group" />
+      <item value="org Type" />
+      <item value="ne Org Id" />
+      <item value="org Service" />
+      <item value="get Org List" />
+      <item value="conditions" />
+      <item value="process Parameters" />
+      <item value="process Structure Utils" />
+      <item value="统一参数" />
+      <item value="从前端获取" />
+      <item value="unchecked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4663" />
-        <entry key="ENGLISH" value="4663" />
+        <entry key="CHINESE" value="4721" />
+        <entry key="ENGLISH" value="4722" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
