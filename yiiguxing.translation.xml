@@ -4,8 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="selected User Name" />
+      <item value="class" />
+      <item value="Exception" />
+      <item value="supplies Logistics Service" />
       <item value="query Supplies Logistics Select User Data" />
+      <item value="Override" />
+      <item value="String" />
+      <item value="selected User Name" />
       <item value="query Param" />
       <item value="run Supplies Logistics Process" />
       <item value="get Supplies Team Org Data" />
@@ -49,16 +54,11 @@
       <item value="team Org List" />
       <item value="get Org Id" />
       <item value="office Supplies Logistics Serivce" />
-      <item value="Hash Map" />
-      <item value="Object" />
-      <item value="String" />
-      <item value="get Identity Service" />
-      <item value="process Engine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4825" />
-        <entry key="ENGLISH" value="4826" />
+        <entry key="CHINESE" value="4832" />
+        <entry key="ENGLISH" value="4833" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
