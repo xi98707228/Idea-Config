@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="parameter Map" />
       <item value="Quartz Scheduler" />
       <item value="Map processInfo = processService.startProcess( user.getLogonName(), BUSINESS_KEY_SL, processKey, processParameters); ProcessDefinitionEntity processDefinitionEntity = (ProcessDefinitionEntity) processInfo .get(&quot;processDefinitionEntity&quot;);" />
       <item value="Custom Process Diagram Generator" />
@@ -53,12 +54,11 @@
       <item value="process Parameters" />
       <item value="process Structure Utils" />
       <item value="统一参数" />
-      <item value="从前端获取" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4722" />
-        <entry key="ENGLISH" value="4723" />
+        <entry key="CHINESE" value="4723" />
+        <entry key="ENGLISH" value="4724" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
