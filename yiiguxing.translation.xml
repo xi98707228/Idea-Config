@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Array List" />
+      <item value="Team Org" />
+      <item value="engine Flow Service" />
+      <item value="process Act Instance Data" />
+      <item value="supplies Logistics Service" />
+      <item value="为已申领" />
+      <item value="更改当前办公用品申领总记录" />
+      <item value="current Process Inst" />
+      <item value="bean Dest.set Apply Status(&quot;1&quot;);" />
+      <item value="set Apply Status" />
+      <item value="&quot;usertask 9&quot;" />
+      <item value="Refresh Scope" />
+      <item value="get Logon Name" />
+      <item value="Arrays" />
+      <item value="row Ids" />
+      <item value="save Or Update" />
+      <item value="update By Id" />
       <item value="global Submit Form Row Id" />
       <item value="row Id" />
       <item value="bean Dest" />
@@ -25,7 +42,6 @@
       <item value="Nacos Property Source Builder" />
       <item value="configuration" />
       <item value="run Supplies Logistics Process" />
-      <item value="supplies Logistics Service" />
       <item value="C:\Users\NJSD\logs\csp\" />
       <item value="NJSD" />
       <item value="74 ee 70074205 ca 34 af 285 ea 6 da 534 c 60" />
@@ -39,27 +55,11 @@
       <item value="consumes" />
       <item value="restarted Main" />
       <item value="FROM" />
-      <item value="Parameters" />
-      <item value="mobile Function Mapper" />
-      <item value="Multipart File" />
-      <item value="add Resource Handlers" />
-      <item value="Spring" />
-      <item value="Initializing" />
-      <item value="Apache" />
-      <item value="Logger Action" />
-      <item value="Appender Ref Action" />
-      <item value="Setting" />
-      <item value="Attaching" />
-      <item value="default constructor not found" />
-      <item value="print If Info Enabled" />
-      <item value="attachment Dir Path" />
-      <item value="create File" />
-      <item value="Sys Notice Lib" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4936" />
-        <entry key="ENGLISH" value="4937" />
+        <entry key="CHINESE" value="4954" />
+        <entry key="ENGLISH" value="4955" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
