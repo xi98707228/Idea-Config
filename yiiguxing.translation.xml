@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="load Nacos Data" />
+      <item value="Nacos Property Source Builder" />
+      <item value="Spliterator" />
+      <item value="Singleton List" />
+      <item value="combiner" />
+      <item value="accumulator" />
       <item value="Array List" />
       <item value="Team Org" />
       <item value="engine Flow Service" />
@@ -38,8 +44,6 @@
       <item value="following" />
       <item value="The" />
       <item value="Ignore" />
-      <item value="load Nacos Data" />
-      <item value="Nacos Property Source Builder" />
       <item value="configuration" />
       <item value="run Supplies Logistics Process" />
       <item value="C:\Users\NJSD\logs\csp\" />
@@ -51,15 +55,11 @@
       <item value="Rest Controller" />
       <item value="修改用户" />
       <item value="business Type" />
-      <item value="File Upload Utils" />
-      <item value="consumes" />
-      <item value="restarted Main" />
-      <item value="FROM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4954" />
-        <entry key="ENGLISH" value="4955" />
+        <entry key="CHINESE" value="4961" />
+        <entry key="ENGLISH" value="4962" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
