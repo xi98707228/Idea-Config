@@ -5,6 +5,32 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="global Submit Form Row Id" />
+      <item value="row Id" />
+      <item value="bean Dest" />
+      <item value="开始页面" />
+      <item value="create Year" />
+      <item value="create Month" />
+      <item value="logistics List" />
+      <item value="lambda" />
+      <item value="office Supplies List" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="query Office Supplies List" />
+      <item value="office Supplies Serivce" />
+      <item value="Protocol Handler" />
+      <item value="following" />
+      <item value="The" />
+      <item value="Ignore" />
+      <item value="load Nacos Data" />
+      <item value="Nacos Property Source Builder" />
+      <item value="configuration" />
+      <item value="run Supplies Logistics Process" />
+      <item value="supplies Logistics Service" />
+      <item value="C:\Users\NJSD\logs\csp\" />
+      <item value="NJSD" />
+      <item value="74 ee 70074205 ca 34 af 285 ea 6 da 534 c 60" />
+      <item value="ROW ID" />
+      <item value="app code" />
       <item value="local File Prefix" />
       <item value="Rest Controller" />
       <item value="修改用户" />
@@ -29,37 +55,11 @@
       <item value="attachment Dir Path" />
       <item value="create File" />
       <item value="Sys Notice Lib" />
-      <item value="on Connected" />
-      <item value="Client Worker" />
-      <item value="本地文件上传路径" />
-      <item value="add Resource Handler" />
-      <item value="add Resource Locations" />
-      <item value="target Object" />
-      <item value="更新流程表单数据操作" />
-      <item value="Table Info Helper" />
-      <item value="get" />
-      <item value="query List" />
-      <item value="Security Utils" />
-      <item value="team Org Data" />
-      <item value="Mapped class was not specified" />
-      <item value="empty" />
-      <item value="load Nacos Data" />
-      <item value="get To String" />
-      <item value="parameter Map" />
-      <item value="get Row Id" />
-      <item value="submit Object" />
-      <item value="Dispatcher Servlet" />
-      <item value="DispatcherServlet" />
-      <item value="Spring DispatcherServlet 'dispatcherServlet'" />
-      <item value="supplies Logistics Service" />
-      <item value="update By Id" />
-      <item value="set Business Key" />
-      <item value="setBusinessKey setCreateTime(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4906" />
-        <entry key="ENGLISH" value="4907" />
+        <entry key="CHINESE" value="4936" />
+        <entry key="ENGLISH" value="4937" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -73,7 +73,7 @@
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
         <entry key="FRISIAN" value="2" />
-        <entry key="HAITIAN_CREOLE" value="5" />
+        <entry key="HAITIAN_CREOLE" value="6" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
