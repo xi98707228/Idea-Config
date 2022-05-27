@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query Relation List" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="query Office Supplies Relation List" />
+      <item value="office Supplies Serivce" />
+      <item value="show Task Todo List" />
+      <item value="form Save" />
+      <item value="办公用品申领流程" />
+      <item value="supplies" />
+      <item value="supplies List" />
+      <item value="supplies Logistics" />
+      <item value="set Bean" />
+      <item value="set Supplies List" />
+      <item value="process Url" />
+      <item value="process go Run Process" />
+      <item value="office Supplies Apply redirect To Form SL" />
       <item value="FILE URL" />
       <item value="Hibernate" />
       <item value="HV 000001" />
@@ -15,7 +30,6 @@
       <item value="INFO" />
       <item value="office Supplies redirect To Form" />
       <item value="process Inst Id" />
-      <item value="show Task Todo List" />
       <item value="2022" />
       <item value="file Corner 1" />
       <item value="judge Process Is Old Version" />
@@ -41,25 +55,11 @@
       <item value="engine Flow Service" />
       <item value="process Act Instance Data" />
       <item value="supplies Logistics Service" />
-      <item value="为已申领" />
-      <item value="更改当前办公用品申领总记录" />
-      <item value="current Process Inst" />
-      <item value="bean Dest.set Apply Status(&quot;1&quot;);" />
-      <item value="set Apply Status" />
-      <item value="&quot;usertask 9&quot;" />
-      <item value="Refresh Scope" />
-      <item value="get Logon Name" />
-      <item value="Arrays" />
-      <item value="row Ids" />
-      <item value="save Or Update" />
-      <item value="update By Id" />
-      <item value="global Submit Form Row Id" />
-      <item value="bean Dest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4982" />
-        <entry key="ENGLISH" value="4983" />
+        <entry key="CHINESE" value="4997" />
+        <entry key="ENGLISH" value="4998" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
