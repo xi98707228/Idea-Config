@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fast Byte Array Output Stream" />
       <item value="relation Distinct List" />
       <item value="INFO" />
       <item value="office Supplies redirect To Form" />
@@ -54,12 +55,11 @@
       <item value="create Month" />
       <item value="logistics List" />
       <item value="lambda" />
-      <item value="office Supplies List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4978" />
-        <entry key="ENGLISH" value="4979" />
+        <entry key="CHINESE" value="4979" />
+        <entry key="ENGLISH" value="4980" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
