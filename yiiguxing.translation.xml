@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query Wrapper" />
+      <item value="V Task Xz" />
+      <item value="apply" />
+      <item value="org Month Apply List" />
+      <item value="Org Month Apply Data Search Filter" />
+      <item value="month" />
+      <item value="Get Mapping" />
+      <item value="Ajax Result" />
+      <item value="return" />
+      <item value="本月申请的申领列表" />
       <item value="client" />
       <item value="Gx Oa Office Supplies Relation Service" />
       <item value="is Bspk Thismonth" />
@@ -45,21 +55,11 @@
       <item value="新版本流程" />
       <item value="get Piid" />
       <item value="is Not Empty" />
-      <item value="get Process Act Name" />
-      <item value="process Runed Em" />
-      <item value="row Id" />
-      <item value="get Login User" />
-      <item value="Process Config Exception" />
-      <item value="query List" />
-      <item value="load Nacos Data" />
-      <item value="Nacos Property Source Builder" />
-      <item value="Spliterator" />
-      <item value="Singleton List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5005" />
-        <entry key="ENGLISH" value="5006" />
+        <entry key="CHINESE" value="5016" />
+        <entry key="ENGLISH" value="5017" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
