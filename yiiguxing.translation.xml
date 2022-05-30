@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="project Name" />
+      <item value="customer Name" />
       <item value="select Other People Count List" />
       <item value="anonymous" />
       <item value="导出当前人员负责的所有项目的设备信息" />
@@ -53,13 +55,11 @@
       <item value="office Supplies redirect To Form" />
       <item value="process Inst Id" />
       <item value="2022" />
-      <item value="file Corner 1" />
-      <item value="judge Process Is Old Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5020" />
-        <entry key="ENGLISH" value="5021" />
+        <entry key="CHINESE" value="5022" />
+        <entry key="ENGLISH" value="5023" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
