@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="filename" />
+      <item value="Excel Export Util" />
+      <item value="arrays" />
+      <item value="builder" />
       <item value="project Name" />
       <item value="customer Name" />
       <item value="select Other People Count List" />
@@ -51,15 +55,11 @@
       <item value="clinit" />
       <item value="Sentinel" />
       <item value="Fast Byte Array Output Stream" />
-      <item value="INFO" />
-      <item value="office Supplies redirect To Form" />
-      <item value="process Inst Id" />
-      <item value="2022" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5022" />
-        <entry key="ENGLISH" value="5023" />
+        <entry key="CHINESE" value="5027" />
+        <entry key="ENGLISH" value="5028" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
