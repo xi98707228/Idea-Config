@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新版本流程" />
+      <item value="Logger Action" />
+      <item value="Appender Ref Action" />
+      <item value="action" />
+      <item value="joran" />
+      <item value="Logger" />
+      <item value="named" />
+      <item value="appender" />
+      <item value="Attaching" />
+      <item value="删除客户信息" />
+      <item value="get Is Notice" />
+      <item value="customer Project Service" />
+      <item value="running And Will Expire Project Lists" />
+      <item value="其他项目类型没有时间维度" />
+      <item value="所以不需要进行检测更新" />
+      <item value="get Project Category" />
+      <item value="Customer Project" />
+      <item value="compare Date Is After" />
+      <item value="to List" />
+      <item value="Collectors" />
+      <item value="timed Contract Notice Cost Plan Record" />
+      <item value="设置几天前提醒" />
+      <item value="Api Implicit Param" />
+      <item value="Custom Schedule Config" />
       <item value="get Device Code" />
       <item value="device Code" />
       <item value="get String" />
@@ -31,35 +55,11 @@
       <item value="njdtxzzf" />
       <item value="Session Factory Object Factory" />
       <item value="update" />
-      <item value="following" />
-      <item value="执行申领流程分发" />
-      <item value="filename" />
-      <item value="Excel Export Util" />
-      <item value="arrays" />
-      <item value="builder" />
-      <item value="project Name" />
-      <item value="customer Name" />
-      <item value="select Other People Count List" />
-      <item value="anonymous" />
-      <item value="导出当前人员负责的所有项目的设备信息" />
-      <item value="is Active" />
-      <item value="Field" />
-      <item value="query Wrapper" />
-      <item value="V Task Xz" />
-      <item value="apply" />
-      <item value="org Month Apply List" />
-      <item value="Org Month Apply Data Search Filter" />
-      <item value="month" />
-      <item value="Get Mapping" />
-      <item value="Ajax Result" />
-      <item value="return" />
-      <item value="本月申请的申领列表" />
-      <item value="client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5060" />
-        <entry key="ENGLISH" value="5061" />
+        <entry key="CHINESE" value="5099" />
+        <entry key="ENGLISH" value="5099" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -78,7 +78,7 @@
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
-        <entry key="LATIN" value="8" />
+        <entry key="LATIN" value="9" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
