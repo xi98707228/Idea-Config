@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Device Code" />
+      <item value="device Code" />
+      <item value="get String" />
+      <item value="object" />
+      <item value="Gx Oa Device" />
+      <item value="old Device" />
+      <item value="关联其Json数据" />
+      <item value="relation Project Device List" />
+      <item value="customer Project Relation Service" />
+      <item value="get Office Select Data" />
+      <item value="show Dept Supplies Relation List" />
       <item value="value" />
       <item value="search Content" />
       <item value="dic Name" />
@@ -44,22 +55,11 @@
       <item value="return" />
       <item value="本月申请的申领列表" />
       <item value="client" />
-      <item value="Gx Oa Office Supplies Relation Service" />
-      <item value="is Bspk Thismonth" />
-      <item value="this" />
-      <item value="relation Distinct List" />
-      <item value="clear" />
-      <item value="add All" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="query Relation List" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="query Office Supplies Relation List" />
-      <item value="office Supplies Serivce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5046" />
-        <entry key="ENGLISH" value="5047" />
+        <entry key="CHINESE" value="5060" />
+        <entry key="ENGLISH" value="5061" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
