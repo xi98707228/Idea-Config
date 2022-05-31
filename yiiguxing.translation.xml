@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="只有再部门负责人那一步才会触发" />
+      <item value="parameter Map" />
+      <item value="select Office Group Count" />
+      <item value="total Price" />
+      <item value="office Supplies Relation" />
+      <item value="users id" />
+      <item value="select Supplies Ids" />
+      <item value="office Supplies Relation Service" />
       <item value="save Submit Form Handle Procedure" />
       <item value="save Submit Form Advice Data" />
       <item value="engine Proc Act Inst Service" />
@@ -18,7 +26,6 @@
       <item value="select List" />
       <item value="copy Properties" />
       <item value="submit Object" />
-      <item value="users id" />
       <item value="supply" />
       <item value="center" />
       <item value="align" />
@@ -48,18 +55,11 @@
       <item value="其他项目类型没有时间维度" />
       <item value="所以不需要进行检测更新" />
       <item value="get Project Category" />
-      <item value="Customer Project" />
-      <item value="compare Date Is After" />
-      <item value="to List" />
-      <item value="Collectors" />
-      <item value="timed Contract Notice Cost Plan Record" />
-      <item value="设置几天前提醒" />
-      <item value="Api Implicit Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5131" />
-        <entry key="ENGLISH" value="5132" />
+        <entry key="CHINESE" value="5142" />
+        <entry key="ENGLISH" value="5142" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
