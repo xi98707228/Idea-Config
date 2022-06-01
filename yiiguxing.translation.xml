@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ARRAY INT BASE OFFSET" />
+      <item value="monitor Enter" />
+      <item value="set Int Compact Volatile" />
+      <item value="process Instance Id" />
+      <item value="PROCESS NODE END" />
       <item value="office Supplies Serivce" />
       <item value="query Statstic Data" />
       <item value="ENGINE PROC USERORG" />
@@ -50,16 +55,11 @@
       <item value="office Supplies Relation" />
       <item value="users id" />
       <item value="select Supplies Ids" />
-      <item value="office Supplies Relation Service" />
-      <item value="save Submit Form Handle Procedure" />
-      <item value="save Submit Form Advice Data" />
-      <item value="engine Proc Act Inst Service" />
-      <item value="PROCESS STATUS RUNNING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5180" />
-        <entry key="ENGLISH" value="5181" />
+        <entry key="CHINESE" value="5185" />
+        <entry key="ENGLISH" value="5186" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
