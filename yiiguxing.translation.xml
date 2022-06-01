@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PRODUCT UNIT" />
       <item value="bad SQL grammar" />
       <item value="do Translate" />
       <item value="| | |\|_)(_| | |_\ |_)||_|_\" />
@@ -54,12 +55,11 @@
       <item value="combine Latest" />
       <item value="Flux" />
       <item value="Reactive Discovery Client" />
-      <item value="discovery" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5217" />
-        <entry key="ENGLISH" value="5214" />
+        <entry key="ENGLISH" value="5215" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
