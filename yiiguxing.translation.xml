@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This has no effect on collections and maps as these types are automatically identified." />
+      <item value="maps" />
+      <item value="effect" />
+      <item value="Indicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. &lt;p&gt; This has no effect on collections and maps as these types are automatically identified. @author Stephane Nicoll @author Phillip Webb" />
+      <item value="Nested Configuration Property" />
       <item value="combine Latest" />
       <item value="Flux" />
       <item value="Reactive Discovery Client" />
@@ -22,7 +27,6 @@
       <item value="dynamic" />
       <item value="Wall Config" />
       <item value="stat" />
-      <item value="Nested Configuration Property" />
       <item value="Text Query Executor" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
@@ -51,15 +55,11 @@
       <item value="submit Object" />
       <item value="supply" />
       <item value="center" />
-      <item value="align" />
-      <item value="relation Distinct List" />
-      <item value="操作" />
-      <item value="并且user id不为空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5162" />
-        <entry key="ENGLISH" value="5163" />
+        <entry key="CHINESE" value="5167" />
+        <entry key="ENGLISH" value="5168" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
