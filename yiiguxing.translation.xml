@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bad SQL grammar" />
+      <item value="do Translate" />
+      <item value="| | |\|_)(_| | |_\ |_)||_|_\" />
+      <item value="_" />
+      <item value="restarted Main" />
       <item value="supplies Logistics Service" />
       <item value="sum Price" />
       <item value="PRODUCT PRICE" />
@@ -50,16 +55,11 @@
       <item value="Flux" />
       <item value="Reactive Discovery Client" />
       <item value="discovery" />
-      <item value="prune" />
-      <item value="netty" />
-      <item value="Configuration Factory" />
-      <item value="Data Source Proxy" />
-      <item value="Handler the TCC Aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5210" />
-        <entry key="ENGLISH" value="5211" />
+        <entry key="CHINESE" value="5217" />
+        <entry key="ENGLISH" value="5214" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
