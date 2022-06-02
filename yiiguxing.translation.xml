@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query Sum Statistics Item" />
+      <item value="get Sum Price" />
+      <item value="ROW ID" />
       <item value="PRODUCT UNIT" />
       <item value="bad SQL grammar" />
       <item value="do Translate" />
@@ -16,7 +19,6 @@
       <item value="PRODUCT PRICE" />
       <item value="SUM" />
       <item value="GX OA OFFICE SUPPLIES" />
-      <item value="ROW ID" />
       <item value="UNIT PRICE" />
       <item value="PRODUCT NAME" />
       <item value="Office Supplies Statistic Part" />
@@ -53,13 +55,11 @@
       <item value="Indicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. &lt;p&gt; This has no effect on collections and maps as these types are automatically identified. @author Stephane Nicoll @author Phillip Webb" />
       <item value="Nested Configuration Property" />
       <item value="combine Latest" />
-      <item value="Flux" />
-      <item value="Reactive Discovery Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5217" />
-        <entry key="ENGLISH" value="5215" />
+        <entry key="CHINESE" value="5219" />
+        <entry key="ENGLISH" value="5220" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
