@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="user Duty Type Dic Map" />
+      <item value="date" />
+      <item value="supplies" />
+      <item value="office" />
+      <item value="staff Ms" />
+      <item value="statistic Org Vo List" />
+      <item value="supplies Logistics" />
+      <item value="office Supplies Service" />
+      <item value="form Data" />
       <item value="Office Supplies Statistic Org Part" />
       <item value="statistic Org Part List" />
       <item value="Office Supplies Statistic Part" />
@@ -46,20 +55,11 @@
       <item value="create Year" />
       <item value="create Month" />
       <item value="Object" />
-      <item value="count Hql" />
-      <item value="query Sum Statistics Item" />
-      <item value="get Sum Price" />
-      <item value="PRODUCT UNIT" />
-      <item value="bad SQL grammar" />
-      <item value="do Translate" />
-      <item value="| | |\|_)(_| | |_\ |_)||_|_\" />
-      <item value="_" />
-      <item value="restarted Main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5270" />
-        <entry key="ENGLISH" value="5271" />
+        <entry key="CHINESE" value="5281" />
+        <entry key="ENGLISH" value="5282" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
