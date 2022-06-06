@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Quartz" />
+      <item value="instantiate" />
+      <item value="DATETIME" />
       <item value="jwt Authentication Token Filter" />
       <item value="transport" />
       <item value="Class Path Mapper Scanner" />
@@ -52,14 +55,11 @@
       <item value="GX OA OFFICE SUPPLIES" />
       <item value="AND" />
       <item value="查询所有的单位" />
-      <item value="initial Capacity" />
-      <item value="row Id" />
-      <item value="get Vuser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5298" />
-        <entry key="ENGLISH" value="5299" />
+        <entry key="CHINESE" value="5301" />
+        <entry key="ENGLISH" value="5302" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
