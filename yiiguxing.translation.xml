@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Class Path Mapper Scanner" />
+      <item value="Linked Hash Map" />
+      <item value="This accessibility update should be removed." />
+      <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type. &lt;p&gt;The underlying field's value is obtained as follows: &lt;p&gt;If the underlying field is a static field, the {@code obj} argument is ignored; it may be null. &lt;p&gt;Otherwise, the underlying field is an instance field. If the specified {@code obj} argument is null, the method throws a {@code NullPointerException}. If the specified object is not an instance of the class or interface declaring the underlying field, the method throws an {@code IllegalArgumentException}. &lt;p&gt;If this {@code Field} object is enforcing Java language access control, and the underlying field is inaccessible, the method throws an {@code IllegalAccessException}. If the underlying field is static, the class that declared the field is initialized if it has not already been initialized. &lt;p&gt;Otherwise, the value is retrieved from the underlying instance or static field. If the field has a primitive type, the value is wrapped in an object before being returned, otherwise it is returned as is. &lt;p&gt;If the field is hidden in the type of {@code obj}, the field's value is obtained according to the preceding rules. @param obj object from which the represented field's value is to be extracted @return the value of the represented field in object {@code obj}; primitive values are wrapped in an appropriate object before being returned" />
+      <item value="Enable Auto Configuration" />
+      <item value="SNMP ADAPTOR LOGGER" />
+      <item value="send Trap Message" />
+      <item value="Datagram Packet" />
+      <item value="datamgmt" />
+      <item value="szysdx 383" />
       <item value="Nacos Property Source Builder" />
       <item value="height" />
       <item value="supplies Logistics" />
@@ -45,21 +55,11 @@
       <item value="get Vuser" />
       <item value="get Login User" />
       <item value="Ajax Result" />
-      <item value="success" />
-      <item value="result Map" />
-      <item value="init Table Fields" />
-      <item value="审批流程" />
-      <item value="办公用品" />
-      <item value="set Driver Class Name" />
-      <item value="apply Id" />
-      <item value="product Count" />
-      <item value="获取某一个年度" />
-      <item value="某月办公用品统计信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5287" />
-        <entry key="ENGLISH" value="5288" />
+        <entry key="CHINESE" value="5296" />
+        <entry key="ENGLISH" value="5297" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -79,6 +79,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="10" />
+        <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAYALAM" value="1" />
@@ -104,7 +105,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653875116376" />
+    <option name="lastTrimTime" value="1654478029731" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
