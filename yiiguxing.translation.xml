@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="get Current Is Use Internal Number And Re Freshen" />
-      <item value="当前正在使用的内部编号数据" />
-      <item value="current Use Internal Number" />
-      <item value="select Mag Spare Instrument List" />
-      <item value="select Mag Spare Instrument List COUNT" />
-      <item value="Quartz" />
-      <item value="instantiate" />
-      <item value="DATETIME" />
-      <item value="jwt Authentication Token Filter" />
-      <item value="transport" />
-      <item value="Class Path Mapper Scanner" />
-      <item value="Linked Hash Map" />
-      <item value="This accessibility update should be removed." />
-      <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type. &lt;p&gt;The underlying field's value is obtained as follows: &lt;p&gt;If the underlying field is a static field, the {@code obj} argument is ignored; it may be null. &lt;p&gt;Otherwise, the underlying field is an instance field. If the specified {@code obj} argument is null, the method throws a {@code NullPointerException}. If the specified object is not an instance of the class or interface declaring the underlying field, the method throws an {@code IllegalArgumentException}. &lt;p&gt;If this {@code Field} object is enforcing Java language access control, and the underlying field is inaccessible, the method throws an {@code IllegalAccessException}. If the underlying field is static, the class that declared the field is initialized if it has not already been initialized. &lt;p&gt;Otherwise, the value is retrieved from the underlying instance or static field. If the field has a primitive type, the value is wrapped in an object before being returned, otherwise it is returned as is. &lt;p&gt;If the field is hidden in the type of {@code obj}, the field's value is obtained according to the preceding rules. @param obj object from which the represented field's value is to be extracted @return the value of the represented field in object {@code obj}; primitive values are wrapped in an appropriate object before being returned" />
-      <item value="Enable Auto Configuration" />
-      <item value="SNMP ADAPTOR LOGGER" />
-      <item value="send Trap Message" />
-      <item value="Datagram Packet" />
-      <item value="datamgmt" />
-      <item value="szysdx 383" />
-      <item value="Nacos Property Source Builder" />
-      <item value="height" />
-      <item value="supplies Logistics" />
+      <item value="sequence" />
+      <item value="Atomic Integer" />
+      <item value="application Context" />
+      <item value="Application Context" />
+      <item value="set Application Context" />
+      <item value="Service Contract Number Sequence" />
+      <item value="装载当前合同编号信息" />
+      <item value="initial Internal Number" />
+      <item value="ignore Dependency Interface" />
+      <item value="Atomic Long" />
+      <item value="Component" />
+      <item value="extract" />
+      <item value="Spec" />
+      <item value="Conditional On Missing Bean" />
+      <item value="log" />
+      <item value="Override" />
+      <item value="当前总代理合同row Id" />
+      <item value="i Customer Manage Service" />
+      <item value="contains Customer" />
+      <item value="Custom Contract File Relation" />
+      <item value="contract Group" />
+      <item value="save Contract Group" />
+      <item value="copy Properties" />
+      <item value="set Contract Should Cost" />
+      <item value="待上传的文件别名的重复性" />
+      <item value="Date Utils" />
+      <item value="get User Name" />
       <item value="login User" />
-      <item value="user Duty Type Dic Map" />
-      <item value="date" />
-      <item value="supplies" />
-      <item value="office" />
-      <item value="staff Ms" />
-      <item value="statistic Org Vo List" />
-      <item value="office Supplies Service" />
-      <item value="form Data" />
-      <item value="Office Supplies Statistic Org Part" />
-      <item value="statistic Org Part List" />
-      <item value="Office Supplies Statistic Part" />
-      <item value="execute Supplies Sql" />
-      <item value="query" />
-      <item value="jdbc Template" />
-      <item value="PRODUCT COUNT" />
-      <item value="SUM PRICE" />
-      <item value="GX OA DIC OFFICE SUPPLIES" />
-      <item value="query Office Statistics Part" />
-      <item value="team Org Mapper" />
-      <item value="Query Wrapper" />
-      <item value="PRODUCT PRICE" />
-      <item value="ROW ID" />
-      <item value="Gx Oa Dic Office Supplies" />
-      <item value="Http Message Not Writable Exception" />
-      <item value="项目设备信息表" />
-      <item value="Post Mapping" />
+      <item value="System Clock" />
+      <item value="new Single Thread Scheduled Executor" />
+      <item value="Id Worker" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="set Row Id" />
+      <item value="mag Spare Instrument" />
+      <item value="set Create User Name" />
+      <item value="当前正在使用的内部编号数据" />
+      <item value="get Current Is Use Internal Number And Re Freshen" />
+      <item value="get Now Date" />
+      <item value="get User" />
+      <item value="set Create User Id" />
+      <item value="execute Flush" />
+      <item value="wait Verify Number" />
+      <item value="article price" />
+      <item value="article name" />
+      <item value="row id" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="select Mag Spare Instrument List" />
+      <item value="change Reverse Current Internal Number Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5306" />
-        <entry key="ENGLISH" value="5307" />
+        <entry key="CHINESE" value="5382" />
+        <entry key="ENGLISH" value="5383" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
