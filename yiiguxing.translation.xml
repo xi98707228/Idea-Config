@@ -5,18 +5,47 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="redis Cache Sequence" />
+      <item value="query Current Sequence" />
+      <item value="Custom Contract File Relation" />
+      <item value="parent Data" />
+      <item value="all Proxy Contract Group List" />
+      <item value="save Contract Group" />
+      <item value="get Nick Name" />
+      <item value="set Contract Number" />
+      <item value="contract Group" />
+      <item value="custom Contract Relation Service" />
+      <item value="save" />
+      <item value="get Contract Number" />
+      <item value="next Peek Number" />
+      <item value="contract Number Sequence" />
+      <item value="redis Cache" />
+      <item value="peek Number" />
+      <item value="返回编号" />
+      <item value="获取合同编号" />
+      <item value="initial Internal Number" />
+      <item value="获取下一个编号" />
+      <item value="获取Redis中合同编号" />
+      <item value="set Application Context" />
+      <item value="装载当前合同编号信息" />
+      <item value="Integer" />
+      <item value="next Number" />
+      <item value="get And Increment" />
+      <item value="result Sequence" />
+      <item value="get Number" />
+      <item value="value Of" />
+      <item value="parse Int" />
+      <item value="Exception" />
+      <item value="class" />
       <item value="合同当前状态" />
       <item value="还是生效中" />
       <item value="Custom Contract Relation Service" />
       <item value="的合同信息" />
       <item value="并且同步其状态信息" />
-      <item value="next Number" />
       <item value="sequence" />
-      <item value="result Sequence" />
       <item value="Audio Data" />
       <item value="GET jvmPid" />
       <item value="get Datacenter Id" />
-      <item value="contract Group" />
       <item value="所有被当前记录代理的文件记录" />
       <item value="当前总代理合同row Id" />
       <item value="proxy Row Id" />
@@ -24,42 +53,13 @@
       <item value="Atomically increments by one the current value. @return the previous value" />
       <item value="实时内部编号" />
       <item value="为当前内部类初始化" />
-      <item value="initial Internal Number" />
       <item value="non Null" />
       <item value="else" />
-      <item value="custom Contract Relation Service" />
-      <item value="CONTRACT NUMBER REDIS KEY" />
-      <item value="Conditional On Bean" />
-      <item value="template Content Service" />
-      <item value="Request Body" />
-      <item value="gateway" />
-      <item value="LOCAL SNAPSHOT PATH" />
-      <item value="Media Type" />
-      <item value="Router Function Configuration" />
-      <item value="Scheduled Executor Service" />
-      <item value="Template Content" />
-      <item value="Avoid leaking our ClassLoader via ROOT if this Thread is reused across multiple ClassLoaders, as is common for Servlet Containers. The ThreadLocal is weakly referenced by the Thread, but its current value is strongly referenced and only lazily collected as new ThreadLocals are created. Use set(null) instead of remove() since remove() deletes the entry which is then re-created on the next get() (because of initialValue() handling). set(null) has same performance as set(toRestore)." />
-      <item value="office Supplies Service" />
-      <item value="supplies Logistics Service" />
-      <item value="Atomic Integer" />
-      <item value="application Context" />
-      <item value="Application Context" />
-      <item value="set Application Context" />
-      <item value="Service Contract Number Sequence" />
-      <item value="装载当前合同编号信息" />
-      <item value="ignore Dependency Interface" />
-      <item value="Atomic Long" />
-      <item value="Component" />
-      <item value="extract" />
-      <item value="Spec" />
-      <item value="Conditional On Missing Bean" />
-      <item value="log" />
-      <item value="Override" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5427" />
-        <entry key="ENGLISH" value="5427" />
+        <entry key="CHINESE" value="5471" />
+        <entry key="ENGLISH" value="5472" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
