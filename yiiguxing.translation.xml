@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="disk" />
+      <item value="987072248" />
+      <item value="force-download" />
+      <item value="response" />
+      <item value="export Pdf Stream" />
+      <item value="File Format" />
+      <item value="Resolve Html To Pdf" />
+      <item value="export Pdf File" />
+      <item value="新建Document对象" />
+      <item value="html String" />
+      <item value="Document" />
+      <item value="export File Path" />
+      <item value="Http Servlet Response" />
+      <item value="String" />
+      <item value="class" />
+      <item value="联系电话" />
+      <item value="送货单号" />
+      <item value="append HTML" />
+      <item value="html Text" />
       <item value="office" />
       <item value="project Principal Id" />
       <item value="build" />
@@ -36,30 +55,11 @@
       <item value="获取Redis中合同编号" />
       <item value="set Application Context" />
       <item value="装载当前合同编号信息" />
-      <item value="Integer" />
-      <item value="next Number" />
-      <item value="get And Increment" />
-      <item value="result Sequence" />
-      <item value="get Number" />
-      <item value="value Of" />
-      <item value="parse Int" />
-      <item value="Exception" />
-      <item value="class" />
-      <item value="合同当前状态" />
-      <item value="还是生效中" />
-      <item value="Custom Contract Relation Service" />
-      <item value="的合同信息" />
-      <item value="并且同步其状态信息" />
-      <item value="sequence" />
-      <item value="Audio Data" />
-      <item value="GET jvmPid" />
-      <item value="get Datacenter Id" />
-      <item value="所有被当前记录代理的文件记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5480" />
-        <entry key="ENGLISH" value="5481" />
+        <entry key="CHINESE" value="5508" />
+        <entry key="ENGLISH" value="5508" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
