@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="计算字段最小值" />
+      <item value="COMPUTE MIN VALUE" />
+      <item value="COMPUTE MAX VALUE" />
+      <item value="COMPUTE MULTIPLE MAX VALUE" />
       <item value="row id" />
       <item value="Skipping" />
       <item value="warn" />
@@ -51,15 +55,11 @@
       <item value="add Section" />
       <item value="添加段落并写入HTML文本" />
       <item value="html String" />
-      <item value="success" />
-      <item value="DISK" />
-      <item value="CHILDREN PATH" />
-      <item value="export File Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5611" />
-        <entry key="ENGLISH" value="5612" />
+        <entry key="CHINESE" value="5615" />
+        <entry key="ENGLISH" value="5615" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
