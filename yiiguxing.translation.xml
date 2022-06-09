@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the" />
+      <item value="nacos" />
+      <item value="Ignore" />
       <item value="field Name" />
       <item value="field Type Is Date" />
       <item value="condition Param Array" />
@@ -52,14 +55,11 @@
       <item value="This class represents a Socket Address with no protocol attachment. As an abstract class, it is meant to be subclassed with a specific, protocol dependent, implementation. &lt;p&gt; It provides an immutable object used by sockets for binding, connecting, or as returned values." />
       <item value="Inet Socket Address" />
       <item value="his class represents a socket for sending and receiving datagram packets. &lt;p&gt;A datagram socket is the sending or receiving point for a packet delivery service. Each packet sent or received on a datagram socket is individually addressed and routed. Multiple packets sent from one machine to another may be routed differently, and may arrive in any order. &lt;p&gt; Where possible, a newly constructed {@code DatagramSocket} has the {@link SocketOptionsSO_BROADCAST SO_BROADCAST} socket option enabled so as to allow the transmission of broadcast datagrams. In order to receive broadcast packets a DatagramSocket should be bound to the wildcard address. In some implementations, broadcast packets may also be received when a DatagramSocket is bound to a more specific address. &lt;p&gt; Example: {@code DatagramSocket s = new DatagramSocket(null); s.bind(new InetSocketAddress(8888)); } Which is equivalent to: {@code DatagramSocket s = new DatagramSocket(8888); } Both cases will create a DatagramSocket able to receive broadcasts on UDP port 8888. @author Pavani Diwanji @see java.net.DatagramPacket @see java.nio.channels.DatagramChannel @since JDK1.0" />
-      <item value="A read-only HeapDoubleBuffer. This class extends the corresponding readwrite class, overriding the mutation methods to throw a {@link ReadOnlyBufferException} and overriding the view-buffer methods to return an instance of this class rather than of the superclass." />
-      <item value="Internal state: keySet, may be empty but is never null, typ. a tiny array boolean isRegistered, protected by key set regLock, lock object to prevent duplicate registrations boolean isBlocking, protected by regLock" />
-      <item value="Selectable Channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5718" />
-        <entry key="ENGLISH" value="5719" />
+        <entry key="CHINESE" value="5720" />
+        <entry key="ENGLISH" value="5721" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
