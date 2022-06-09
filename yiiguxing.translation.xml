@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Feature" />
+      <item value="error" />
+      <item value="select List COUNT" />
+      <item value="field Name" />
+      <item value="field Type Is Date" />
+      <item value="row Id" />
+      <item value="是否是必须值的字段" />
+      <item value="日期类型是必须填写的字段" />
+      <item value="remakes" />
+      <item value="is Required" />
+      <item value="param Index" />
+      <item value="Config Expression Node" />
+      <item value="为当前表达式配置的查询参数" />
       <item value="report Id" />
       <item value="接收前端传递的查询原子参数" />
       <item value="执行字段片段" />
@@ -42,24 +55,11 @@
       <item value="STRING BUILDER SIZE" />
       <item value="success" />
       <item value="already" />
-      <item value="Expression Query Result Part" />
-      <item value="字段累加类型" />
-      <item value="group Atomic Multiple Expression Map" />
-      <item value="Config Condition Param" />
-      <item value="field Type Is Date" />
-      <item value="field Name" />
-      <item value="row Id" />
-      <item value="node Id" />
-      <item value="remakes" />
-      <item value="param Index" />
-      <item value="multiple Field" />
-      <item value="compute" />
-      <item value="utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5683" />
-        <entry key="ENGLISH" value="5684" />
+        <entry key="CHINESE" value="5698" />
+        <entry key="ENGLISH" value="5699" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
