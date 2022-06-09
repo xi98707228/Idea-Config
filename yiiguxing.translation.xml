@@ -5,11 +5,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="field Name" />
+      <item value="field Type Is Date" />
+      <item value="condition Param Array" />
+      <item value="config Condition Param" />
+      <item value="get Id Str" />
+      <item value="set Make Time" />
+      <item value="config Expression Node Service" />
+      <item value="json Object" />
+      <item value="Doug Lea" />
+      <item value="@author Doug Lea ({@code ConcurrentHashMap})" />
+      <item value="Closes any resources that are held by the client. &lt;p&gt; Note that (as described in Doug Lea's discussion about interrupting IO operations in &quot;Concurrent Programming in Java&quot; (Addison-Wesley Professional, 2nd edition, 1999) this method is used to interrupt any blocked IO operation in the client when the server is shutting down. The client implementation must anticipate this potential, and gracefully exit when the blocked IO operation throws the relevant {@link IOException} subclass. &lt;p&gt; Note also, that unlike {@link Closeableclose()} this method is not permitted to propagate any {@link IOException} that occurs when closing the underlying resource(s)." />
+      <item value="Note that (as described in Doug Lea's discussion about interrupting IO" />
+      <item value="Scott Violet" />
+      <item value="Amy Fowler" />
+      <item value="Jeff Dinkins" />
+      <item value="A human readable description of the file. For example, a file named &lt;i&gt;jag.jpg&lt;i&gt; might have a description that read: &quot;A JPEG image file of James Gosling's face&quot;." />
+      <item value="unascribed" />
       <item value="Feature" />
       <item value="error" />
       <item value="select List COUNT" />
-      <item value="field Name" />
-      <item value="field Type Is Date" />
       <item value="row Id" />
       <item value="是否是必须值的字段" />
       <item value="日期类型是必须填写的字段" />
@@ -40,26 +55,11 @@
       <item value="A read-only HeapDoubleBuffer. This class extends the corresponding readwrite class, overriding the mutation methods to throw a {@link ReadOnlyBufferException} and overriding the view-buffer methods to return an instance of this class rather than of the superclass." />
       <item value="Internal state: keySet, may be empty but is never null, typ. a tiny array boolean isRegistered, protected by key set regLock, lock object to prevent duplicate registrations boolean isBlocking, protected by regLock" />
       <item value="Selectable Channel" />
-      <item value="Abstract Selectable Channel" />
-      <item value="Byte Channel" />
-      <item value="Scattering Byte Channel" />
-      <item value="Gathering Byte Channel" />
-      <item value="Datagram Socket" />
-      <item value="argument" />
-      <item value="Datagram Packet" />
-      <item value="Standard RTSP header names and values." />
-      <item value="Rtsp Headers" />
-      <item value="Expression Atomic Part" />
-      <item value="否则不能获取实时的计算结果" />
-      <item value="Java default is 16, probably too small" />
-      <item value="STRING BUILDER SIZE" />
-      <item value="success" />
-      <item value="already" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5698" />
-        <entry key="ENGLISH" value="5699" />
+        <entry key="CHINESE" value="5718" />
+        <entry key="ENGLISH" value="5719" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
