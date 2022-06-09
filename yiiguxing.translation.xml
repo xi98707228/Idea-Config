@@ -5,9 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expression Atomic Part" />
       <item value="joran" />
       <item value="单独进行计算" />
-      <item value="Expression Atomic Part" />
       <item value="the" />
       <item value="nacos" />
       <item value="Ignore" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5723" />
-        <entry key="ENGLISH" value="5724" />
+        <entry key="CHINESE" value="5724" />
+        <entry key="ENGLISH" value="5725" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
