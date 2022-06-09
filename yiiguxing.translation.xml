@@ -5,6 +5,42 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="report Id" />
+      <item value="接收前端传递的查询原子参数" />
+      <item value="执行字段片段" />
+      <item value="表达式" />
+      <item value="Primary" />
+      <item value="executor Sql" />
+      <item value="Simple Chart Query Executor" />
+      <item value="build Executor Sql" />
+      <item value="set Socket Address" />
+      <item value="Caller Sensitive" />
+      <item value="Security Manager" />
+      <item value="Josh Bloch" />
+      <item value="Stack Trace Element" />
+      <item value="@param obj the object on which to test lock ownership @throws NullPointerException if obj is &lt;tt&gt;null&lt;tt&gt; @return &lt;tt&gt;true&lt;tt&gt; if the current thread holds the monitor lock on the specified object. @since 1.4" />
+      <item value="Returns &lt;tt&gt;true&lt;tt&gt; if and only if the current thread holds the monitor lock on the specified object. &lt;p&gt;This method is designed to allow a program to assert that the current thread already holds a specified lock: &lt;pre&gt; assert Thread.holdsLock(obj); &lt;pre&gt; @param obj the object on which to test lock ownership @throws NullPointerException if obj is &lt;tt&gt;null&lt;tt&gt; @return &lt;tt&gt;true&lt;tt&gt; if the current thread holds the monitor lock on the specified object." />
+      <item value="holds Lock" />
+      <item value="This class represents a Socket Address with no protocol attachment. As an abstract class, it is meant to be subclassed with a specific, protocol dependent, implementation. &lt;p&gt; It provides an immutable object used by sockets for binding, connecting, or as returned values." />
+      <item value="Inet Socket Address" />
+      <item value="his class represents a socket for sending and receiving datagram packets. &lt;p&gt;A datagram socket is the sending or receiving point for a packet delivery service. Each packet sent or received on a datagram socket is individually addressed and routed. Multiple packets sent from one machine to another may be routed differently, and may arrive in any order. &lt;p&gt; Where possible, a newly constructed {@code DatagramSocket} has the {@link SocketOptionsSO_BROADCAST SO_BROADCAST} socket option enabled so as to allow the transmission of broadcast datagrams. In order to receive broadcast packets a DatagramSocket should be bound to the wildcard address. In some implementations, broadcast packets may also be received when a DatagramSocket is bound to a more specific address. &lt;p&gt; Example: {@code DatagramSocket s = new DatagramSocket(null); s.bind(new InetSocketAddress(8888)); } Which is equivalent to: {@code DatagramSocket s = new DatagramSocket(8888); } Both cases will create a DatagramSocket able to receive broadcasts on UDP port 8888. @author Pavani Diwanji @see java.net.DatagramPacket @see java.nio.channels.DatagramChannel @since JDK1.0" />
+      <item value="A read-only HeapDoubleBuffer. This class extends the corresponding readwrite class, overriding the mutation methods to throw a {@link ReadOnlyBufferException} and overriding the view-buffer methods to return an instance of this class rather than of the superclass." />
+      <item value="Internal state: keySet, may be empty but is never null, typ. a tiny array boolean isRegistered, protected by key set regLock, lock object to prevent duplicate registrations boolean isBlocking, protected by regLock" />
+      <item value="Selectable Channel" />
+      <item value="Abstract Selectable Channel" />
+      <item value="Byte Channel" />
+      <item value="Scattering Byte Channel" />
+      <item value="Gathering Byte Channel" />
+      <item value="Datagram Socket" />
+      <item value="argument" />
+      <item value="Datagram Packet" />
+      <item value="Standard RTSP header names and values." />
+      <item value="Rtsp Headers" />
+      <item value="Expression Atomic Part" />
+      <item value="否则不能获取实时的计算结果" />
+      <item value="Java default is 16, probably too small" />
+      <item value="STRING BUILDER SIZE" />
+      <item value="success" />
       <item value="already" />
       <item value="Expression Query Result Part" />
       <item value="字段累加类型" />
@@ -19,47 +55,11 @@
       <item value="multiple Field" />
       <item value="compute" />
       <item value="utils" />
-      <item value="project" />
-      <item value="templateserver" />
-      <item value="Merged Annotations" />
-      <item value="Compute Strategy Dispatch" />
-      <item value="No Args Constructor" />
-      <item value="Expression Atomic Part" />
-      <item value="Field Result Resolve Type" />
-      <item value="build Executor Sql" />
-      <item value="get Execute Field Segment" />
-      <item value="COMPUTE MAX VALUE" />
-      <item value="计算字段最小值" />
-      <item value="COMPUTE MIN VALUE" />
-      <item value="COMPUTE MULTIPLE MAX VALUE" />
-      <item value="row id" />
-      <item value="Skipping" />
-      <item value="warn" />
-      <item value="log Startup Profile Info" />
-      <item value="set Modify Time" />
-      <item value="set Modify User Name" />
-      <item value="set Modify User Nick Name" />
-      <item value="template Content Service" />
-      <item value="template Manage Service" />
-      <item value="set Template Content" />
-      <item value="save Relation" />
-      <item value="export Pdf File For Applet With Work Order" />
-      <item value="E Ice Blue Office Pdf Util" />
-      <item value="export Order Relation Service" />
-      <item value="work Order Id" />
-      <item value="Gx Oa Export Order Relation Service" />
-      <item value="小程序端" />
-      <item value="工单PDF文件" />
-      <item value="workorder" />
-      <item value="generic" />
-      <item value="applet" />
-      <item value="generic Work Order For Applet" />
-      <item value="export Pdf Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5645" />
-        <entry key="ENGLISH" value="5646" />
+        <entry key="CHINESE" value="5683" />
+        <entry key="ENGLISH" value="5684" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
