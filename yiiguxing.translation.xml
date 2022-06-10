@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Compute Scale Strategy Dispatch" />
+      <item value="query" />
+      <item value="execute" />
+      <item value="Request Body" />
+      <item value="execute Query Expression" />
+      <item value="查询表达式" />
+      <item value="文本" />
+      <item value="Connection" />
+      <item value="RMI" />
+      <item value="base" />
+      <item value="directory" />
+      <item value="logs" />
+      <item value="NJSD" />
+      <item value="Users" />
+      <item value="name" />
+      <item value="print If Info Enabled" />
+      <item value="4 fc 8 d 008" />
+      <item value="client" />
       <item value="already Compute List Lis" />
       <item value="meta Merge Compute Expression List" />
       <item value="already Hash Compute Mapping" />
@@ -37,29 +55,11 @@
       <item value="error" />
       <item value="select List COUNT" />
       <item value="row Id" />
-      <item value="是否是必须值的字段" />
-      <item value="日期类型是必须填写的字段" />
-      <item value="remakes" />
-      <item value="is Required" />
-      <item value="param Index" />
-      <item value="Config Expression Node" />
-      <item value="为当前表达式配置的查询参数" />
-      <item value="report Id" />
-      <item value="接收前端传递的查询原子参数" />
-      <item value="执行字段片段" />
-      <item value="表达式" />
-      <item value="Primary" />
-      <item value="executor Sql" />
-      <item value="Simple Chart Query Executor" />
-      <item value="build Executor Sql" />
-      <item value="set Socket Address" />
-      <item value="Caller Sensitive" />
-      <item value="Security Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5730" />
-        <entry key="ENGLISH" value="5731" />
+        <entry key="CHINESE" value="5749" />
+        <entry key="ENGLISH" value="5750" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -73,7 +73,7 @@
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
         <entry key="FRISIAN" value="3" />
-        <entry key="HAITIAN_CREOLE" value="6" />
+        <entry key="HAITIAN_CREOLE" value="7" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
