@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="org Name" />
+      <item value="Hash Map" />
+      <item value="conditions" />
+      <item value="to char" />
+      <item value="V Acjy" />
+      <item value="deal Method" />
+      <item value="validate String Not Null" />
+      <item value="type" />
+      <item value="query ZF Content Totals" />
+      <item value="year month" />
+      <item value="票务稽查" />
+      <item value="动态报表" />
+      <item value="查询" />
+      <item value="数据类型模板" />
+      <item value="totaltimes" />
+      <item value="content" />
       <item value="get Session Factory" />
       <item value="使用滑板鞋" />
       <item value="宠物等动物" />
@@ -15,7 +31,6 @@
       <item value="携带自行车" />
       <item value="IMPORT" />
       <item value="get Deal Method" />
-      <item value="V Acjy" />
       <item value="all tables" />
       <item value="DATA TYPE" />
       <item value="COLUMN NAME" />
@@ -40,31 +55,16 @@
       <item value="base" />
       <item value="directory" />
       <item value="logs" />
-      <item value="NJSD" />
-      <item value="Users" />
-      <item value="name" />
-      <item value="4 fc 8 d 008" />
-      <item value="client" />
-      <item value="already Compute List Lis" />
-      <item value="meta Merge Compute Expression List" />
-      <item value="already Hash Compute Mapping" />
-      <item value="flow Execute Hashing" />
-      <item value="flow Executor" />
-      <item value="Expression Atomic Part" />
-      <item value="joran" />
-      <item value="单独进行计算" />
-      <item value="the" />
-      <item value="nacos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5770" />
-        <entry key="ENGLISH" value="5771" />
+        <entry key="CHINESE" value="5797" />
+        <entry key="ENGLISH" value="5798" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="4" />
-        <entry key="POLISH" value="2" />
+        <entry key="POLISH" value="6" />
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="13" />
@@ -85,7 +85,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
-        <entry key="NORWEGIAN" value="7" />
+        <entry key="NORWEGIAN" value="9" />
         <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
