@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="使用滑板鞋" />
+      <item value="宠物等动物" />
+      <item value="携带活禽" />
+      <item value="吐口香糖" />
+      <item value="乱扔果皮" />
+      <item value="纸屑等废弃物" />
+      <item value="携带自行车" />
+      <item value="IMPORT" />
+      <item value="get Deal Method" />
+      <item value="V Acjy" />
+      <item value="all tables" />
+      <item value="DATA TYPE" />
+      <item value="COLUMN NAME" />
+      <item value="query All Oracle Table Name Sql" />
       <item value="openfeign" />
       <item value="open Oracle All Table Field Map List" />
       <item value="open Oracle All Table Scheme" />
@@ -41,30 +55,16 @@
       <item value="the" />
       <item value="nacos" />
       <item value="Ignore" />
-      <item value="field Name" />
-      <item value="field Type Is Date" />
-      <item value="condition Param Array" />
-      <item value="config Condition Param" />
-      <item value="get Id Str" />
-      <item value="set Make Time" />
-      <item value="config Expression Node Service" />
-      <item value="json Object" />
-      <item value="Doug Lea" />
-      <item value="@author Doug Lea ({@code ConcurrentHashMap})" />
-      <item value="Closes any resources that are held by the client. &lt;p&gt; Note that (as described in Doug Lea's discussion about interrupting IO operations in &quot;Concurrent Programming in Java&quot; (Addison-Wesley Professional, 2nd edition, 1999) this method is used to interrupt any blocked IO operation in the client when the server is shutting down. The client implementation must anticipate this potential, and gracefully exit when the blocked IO operation throws the relevant {@link IOException} subclass. &lt;p&gt; Note also, that unlike {@link Closeableclose()} this method is not permitted to propagate any {@link IOException} that occurs when closing the underlying resource(s)." />
-      <item value="Note that (as described in Doug Lea's discussion about interrupting IO" />
-      <item value="Scott Violet" />
-      <item value="Amy Fowler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5755" />
-        <entry key="ENGLISH" value="5756" />
+        <entry key="CHINESE" value="5770" />
+        <entry key="ENGLISH" value="5770" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="4" />
-        <entry key="POLISH" value="1" />
+        <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="13" />
