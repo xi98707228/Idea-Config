@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="parse Long" />
+      <item value="IS BSPK THISMONTH" />
+      <item value="to char" />
+      <item value="create org id" />
+      <item value="query Spaces" />
+      <item value="add Scalar" />
       <item value="已装载完毕" />
       <item value="all Oracle Table Field" />
       <item value="日期参数" />
@@ -15,7 +21,6 @@
       <item value="org Name" />
       <item value="Hash Map" />
       <item value="conditions" />
-      <item value="to char" />
       <item value="V Acjy" />
       <item value="deal Method" />
       <item value="validate String Not Null" />
@@ -50,17 +55,12 @@
       <item value="driver" />
       <item value="新获取到连接对象" />
       <item value="print If Info Enabled" />
-      <item value="Compute Scale Strategy Dispatch" />
-      <item value="query" />
-      <item value="execute" />
-      <item value="Request Body" />
-      <item value="execute Query Expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5803" />
-        <entry key="ENGLISH" value="5803" />
-        <entry key="ALBANIAN" value="4" />
+        <entry key="CHINESE" value="5807" />
+        <entry key="ENGLISH" value="5808" />
+        <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="4" />
