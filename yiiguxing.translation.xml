@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="test Matching String" />
+      <item value="else" />
       <item value="org Name" />
       <item value="Hash Map" />
       <item value="conditions" />
@@ -53,13 +55,11 @@
       <item value="Connection" />
       <item value="RMI" />
       <item value="base" />
-      <item value="directory" />
-      <item value="logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5797" />
-        <entry key="ENGLISH" value="5798" />
+        <entry key="CHINESE" value="5799" />
+        <entry key="ENGLISH" value="5800" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
