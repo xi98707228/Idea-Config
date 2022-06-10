@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="open Oracle All Table Field Map List" />
+      <item value="open Oracle All Table Scheme" />
+      <item value="Spring装载Oracle数据库数据一共消耗" />
+      <item value="所有表对应表字段Map信息" />
+      <item value="driver" />
+      <item value="新获取到连接对象" />
+      <item value="print If Info Enabled" />
       <item value="Compute Scale Strategy Dispatch" />
       <item value="query" />
       <item value="execute" />
@@ -20,7 +27,6 @@
       <item value="NJSD" />
       <item value="Users" />
       <item value="name" />
-      <item value="print If Info Enabled" />
       <item value="4 fc 8 d 008" />
       <item value="client" />
       <item value="already Compute List Lis" />
@@ -49,17 +55,11 @@
       <item value="Scott Violet" />
       <item value="Amy Fowler" />
       <item value="Jeff Dinkins" />
-      <item value="A human readable description of the file. For example, a file named &lt;i&gt;jag.jpg&lt;i&gt; might have a description that read: &quot;A JPEG image file of James Gosling's face&quot;." />
-      <item value="unascribed" />
-      <item value="Feature" />
-      <item value="error" />
-      <item value="select List COUNT" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5749" />
-        <entry key="ENGLISH" value="5750" />
+        <entry key="CHINESE" value="5754" />
+        <entry key="ENGLISH" value="5755" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
