@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Session Factory" />
       <item value="使用滑板鞋" />
       <item value="宠物等动物" />
       <item value="携带活禽" />
@@ -54,12 +55,11 @@
       <item value="单独进行计算" />
       <item value="the" />
       <item value="nacos" />
-      <item value="Ignore" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5770" />
-        <entry key="ENGLISH" value="5770" />
+        <entry key="ENGLISH" value="5771" />
         <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
