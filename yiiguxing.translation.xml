@@ -5,12 +5,35 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="object Field Offset" />
+      <item value="Atomically increments by one the current value." />
+      <item value="result Sequence" />
+      <item value="sequence Type" />
+      <item value="get" />
+      <item value="Resource" />
+      <item value="SEQUENCE STORE MAP" />
+      <item value="Application Context" />
+      <item value="Hot Refresh" />
+      <item value="sequence Map" />
+      <item value="Concurrent Hash Map" />
+      <item value="full Add Count" />
+      <item value="Counted Completer" />
+      <item value="Map Reduce Mappings To Int Task" />
+      <item value="Unsafe mechanics" />
+      <item value="获取下一个编号" />
+      <item value="return" />
+      <item value="next Add Number" />
+      <item value="initial Internal Number" />
+      <item value="redis Cache" />
+      <item value="custom Contract Cost Record Service" />
+      <item value="finance Cost Order Service" />
+      <item value="CONTRACT NUMBER REDIS KEY" />
+      <item value="Atomic Integer" />
+      <item value="Constant" />
       <item value="next Peek Number" />
       <item value="get Contract Number" />
-      <item value="next Add Number" />
       <item value="FINANCE PLAN" />
       <item value="FINANCE ORDER" />
-      <item value="Atomic Integer" />
       <item value="Component" />
       <item value="Service Contract Number Sequence" />
       <item value="CONTRACT NUMBER PREFIX" />
@@ -21,7 +44,6 @@
       <item value="long Bits To Double" />
       <item value="power Of Two F" />
       <item value="query Current Sequence" />
-      <item value="获取下一个编号" />
       <item value="extracted" />
       <item value="search Filter" />
       <item value="K Queue" />
@@ -33,33 +55,11 @@
       <item value="Channel" />
       <item value="Mark Paluch" />
       <item value="Kqueue Provider" />
-      <item value="String Utils" />
-      <item value="inited" />
-      <item value="Jwt Authentication Token Filter" />
-      <item value="Custom Contract File Relation" />
-      <item value="bis" />
-      <item value="Copyright (c) 1994, 2013, Oracle andor its affiliates. All rights reserved. ORACLE PROPRIETARYCONFIDENTIAL. Use is subject to license terms." />
-      <item value="Global Exception Handler" />
-      <item value="develop client" />
-      <item value="custom Contract Path" />
-      <item value="ea 4247753040043641 e 2 cfafd 47 ffeee" />
-      <item value="Parameters" />
-      <item value="select List COUNT" />
-      <item value="Unsupported Encoding Exception" />
-      <item value="download File" />
-      <item value="originated Thread_" />
-      <item value="Weak Reference" />
-      <item value="This {@link AjaxController} resynchronizes calls calling from the main thread. The idea is that asynchronous AJAX calls performed directly in response to a user action (therefore in the &quot;main&quot; thread and not in the thread of a background task) are directly useful for the user. To easily have a testable state, these calls are performed synchronously." />
-      <item value="print Stack Trace" />
-      <item value="download File Path" />
-      <item value="original Data" />
-      <item value="to date" />
-      <item value="SQL FROM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5863" />
-        <entry key="ENGLISH" value="5864" />
+        <entry key="CHINESE" value="5898" />
+        <entry key="ENGLISH" value="5899" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
