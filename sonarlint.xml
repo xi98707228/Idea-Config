@@ -1,7 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules>
-      <Rule active="false" key="java:S3252" />
-    </rules>
+    <rules />
   </component>
 </application>

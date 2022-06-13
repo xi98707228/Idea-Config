@@ -1,0 +1,10 @@
+<templateSet group="Maven">
+  <template name="parent" value="&lt;parent&gt;&#10;   &lt;artifactId&gt;$ARTIFACT$&lt;/artifactId&gt;&#10;   &lt;groupId&gt;$GROUP$&lt;/groupId&gt;&#10;   &lt;version&gt;$VERSION$&lt;/version&gt;&#10;&lt;/parent&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ARTIFACT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GROUP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

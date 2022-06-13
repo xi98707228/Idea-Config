@@ -1,0 +1,37 @@
+<templateSet group="MMMMMM_ppppooommm">
+  <template name="pom-shiro-starter" value="&lt;!--   shiro starter --&gt;&#10;    &lt;dependency&gt;&#10;        &lt;groupId&gt;org.apache.shiro&lt;/groupId&gt;&#10;        &lt;artifactId&gt;shiro-spring-boot-starter&lt;/artifactId&gt;&#10;        &lt;version&gt;1.7.1&lt;/version&gt;&#10;    &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-mybatis" value="        &lt;!--  mybatis      --&gt;&#10;        &lt;dependency&gt;&#10;            &lt;groupId&gt;org.mybatis&lt;/groupId&gt;&#10;            &lt;artifactId&gt;mybatis&lt;/artifactId&gt;&#10;            &lt;version&gt;3.4.6&lt;/version&gt;&#10;        &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-log4j" value="&lt;!--    Log4J    --&gt;&#10;&lt;dependency&gt;&#10;    &lt;groupId&gt;log4j&lt;/groupId&gt;&#10;    &lt;artifactId&gt;log4j&lt;/artifactId&gt;&#10;    &lt;version&gt;1.2.17&lt;/version&gt;&#10;&lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-lombok" value="&lt;!--    Lombok  --&gt;&#10;        &lt;dependency&gt;&#10;            &lt;groupId&gt;org.projectlombok&lt;/groupId&gt;&#10;            &lt;artifactId&gt;lombok&lt;/artifactId&gt;&#10;            &lt;version&gt;1.18.8&lt;/version&gt;&#10;            &lt;scope&gt;provided&lt;/scope&gt;&#10;        &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-mysql 5.1" value="         &lt;!--  mysql      --&gt;&#10;        &lt;dependency&gt;&#10;            &lt;groupId&gt;mysql&lt;/groupId&gt;&#10;            &lt;artifactId&gt;mysql-connector-java&lt;/artifactId&gt;&#10;            &lt;version&gt;5.1.47&lt;/version&gt;&#10;        &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-druid-starter" value="&lt;!--    druid   --&gt;&#10;    &lt;dependency&gt;&#10;        &lt;groupId&gt;com.alibaba&lt;/groupId&gt;&#10;        &lt;artifactId&gt;druid-spring-boot-starter&lt;/artifactId&gt;&#10;        &lt;version&gt;1.2.5&lt;/version&gt;&#10;    &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-mysql 8.0" value="    &lt;dependency&gt;&#10;        &lt;groupId&gt;mysql&lt;/groupId&gt;&#10;        &lt;artifactId&gt;mysql-connector-java&lt;/artifactId&gt;&#10;        &lt;scope&gt;runtime&lt;/scope&gt;&#10;    &lt;/dependency&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

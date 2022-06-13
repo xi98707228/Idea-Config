@@ -1,7 +1,9 @@
 <application>
   <component name="RainbowSettings">
-    <option name="numberOfColors" value="16" />
+    <option name="cycleCountOnAllBrackets" value="true" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="numberOfColors" value="15" />
     <option name="suppressBigFileCheck" value="true" />
-    <option name="version" value="6.24" />
+    <option name="version" value="6.23" />
   </component>
 </application>

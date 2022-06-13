@@ -1,0 +1,22 @@
+<templateSet group="MMMMMMMMMMMMMMYYYYYYYYYY">
+  <template name="jdk1.8" value="&lt;plugin&gt;&#10;  &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;  &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;  &lt;version&gt;3.1&lt;/version&gt;&#10;  &lt;configuration&gt;&#10;    &lt;source&gt;1.8&lt;/source&gt;&#10;    &lt;target&gt;1.8&lt;/target&gt;&#10;    &lt;encoding&gt;utf-8&lt;/encoding&gt;&#10;  &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tomcat7" value="        &lt;plugin&gt;&#10;          &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;          &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;          &lt;version&gt;2.2&lt;/version&gt;&#10;          &lt;configuration&gt;&#10;              &lt;port&gt;80&lt;/port&gt;&#10;              &lt;path&gt;/TourWeb&lt;/path&gt;&#10;          &lt;/configuration&gt;&#10;        &lt;/plugin&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pom-build-resourcesss" value="    &lt;build&gt;&#10;        &lt;resources&gt;&#10;            &lt;resource&gt;&#10;                &lt;directory&gt;src/main/resources&lt;/directory&gt;&#10;                &lt;includes&gt;&#10;                    &lt;include&gt;**/*.properties&lt;/include&gt;&#10;                    &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                &lt;/includes&gt;&#10;                &lt;filtering&gt;true&lt;/filtering&gt;&#10;            &lt;/resource&gt;&#10;            &lt;resource&gt;&#10;                &lt;directory&gt;src/main/java&lt;/directory&gt;&#10;                &lt;includes&gt;&#10;                    &lt;include&gt;**/*.properties&lt;/include&gt;&#10;                    &lt;include&gt;**/*.xml&lt;/include&gt;&#10;                &lt;/includes&gt;&#10;                &lt;filtering&gt;true&lt;/filtering&gt;&#10;            &lt;/resource&gt;&#10;        &lt;/resources&gt;&#10;    &lt;/build&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="mybatis-mapper" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;&#10;&lt;!DOCTYPE mapper&#10;        PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot;&#10;        &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;&#10;&lt;mapper namespace=&quot;org.mybatis.example.BlogMapper&quot;&gt;&#10;    &#10;&lt;/mapper&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

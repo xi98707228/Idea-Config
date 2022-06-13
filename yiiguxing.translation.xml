@@ -1,114 +1,101 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="623" />
-    <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="object Field Offset" />
-      <item value="Atomically increments by one the current value." />
-      <item value="result Sequence" />
-      <item value="sequence Type" />
-      <item value="get" />
-      <item value="Resource" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="Application Context" />
-      <item value="Hot Refresh" />
-      <item value="sequence Map" />
-      <item value="Concurrent Hash Map" />
-      <item value="full Add Count" />
-      <item value="Counted Completer" />
-      <item value="Map Reduce Mappings To Int Task" />
-      <item value="Unsafe mechanics" />
-      <item value="获取下一个编号" />
-      <item value="return" />
-      <item value="next Add Number" />
-      <item value="initial Internal Number" />
-      <item value="redis Cache" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="finance Cost Order Service" />
-      <item value="CONTRACT NUMBER REDIS KEY" />
-      <item value="Atomic Integer" />
-      <item value="Constant" />
-      <item value="next Peek Number" />
-      <item value="get Contract Number" />
-      <item value="FINANCE PLAN" />
-      <item value="FINANCE ORDER" />
-      <item value="Component" />
-      <item value="Service Contract Number Sequence" />
-      <item value="CONTRACT NUMBER PREFIX" />
-      <item value="custom Contract Relation Service" />
-      <item value="NEGATIVE INFINITY" />
-      <item value="POSITIVE INFINITY" />
-      <item value="'耀'" />
-      <item value="long Bits To Double" />
-      <item value="power Of Two F" />
-      <item value="query Current Sequence" />
-      <item value="extracted" />
-      <item value="search Filter" />
-      <item value="K Queue" />
-      <item value="availability" />
-      <item value="Should be always called with true." />
-      <item value="instead" />
-      <item value="Platform Dependent 0 Substitution" />
-      <item value="Event Loop" />
-      <item value="Channel" />
-      <item value="Mark Paluch" />
-      <item value="Kqueue Provider" />
+      <item value="Piped Input Stream" />
+      <item value="receive" />
+      <item value="A piped input stream should be connected to a piped output stream; the piped input stream then provides whatever data bytes are written to the piped output stream. Typically, data is read from a &lt;code&gt;PipedInputStream&lt;code&gt; object by one thread and data is written to the corresponding &lt;code&gt;PipedOutputStream&lt;code&gt; by some other thread. Attempting to use both objects from a single thread is not recommended, as it may deadlock the thread. The piped input stream contains a buffer, decoupling read operations from write operations, within limits. A pipe is said to be &lt;a name=&quot;BROKEN&quot;&gt; &lt;i&gt;broken&lt;i&gt; &lt;a&gt; if a thread that was providing data bytes to the connected piped output stream is no longer alive." />
+      <item value="James Gosling" />
+      <item value="Reads the next byte of data from this input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. &lt;p&gt; This &lt;code&gt;read&lt;code&gt; method" />
+      <item value="This class does not properly convert characters into bytes. As of JDK&amp;nbsp;1.1, the preferred way to create a stream from a string is via the &lt;code&gt;StringReader&lt;code&gt; class." />
+      <item value="Byte Array Input Stream" />
+      <item value="socket Write 0" />
+      <item value="Instances of the file descriptor class serve as an opaque handle to the underlying machine-specific structure representing an open file, an open socket, or another source or sink of bytes. The main practical use for a file descriptor is to create a {@link FileInputStream} or {@link FileOutputStream} to contain it. &lt;p&gt;Applications should not create their own file descriptors." />
+      <item value="ensure Class Initialized" />
+      <item value="File Descriptor" />
+      <item value="register Natives" />
+      <item value="Flushable" />
+      <item value="Constant Pool" />
+      <item value="Java Lang Access" />
+      <item value="Repeatable" />
+      <item value="get Directly And Indirectly Present" />
+      <item value="get Annotations By Type" />
+      <item value="Annotated Element" />
+      <item value="Index Out Of Bounds Exception" />
+      <item value="finished" />
+      <item value="Process" />
+      <item value="Program" />
+      <item value="Files" />
+      <item value="Intelli J" />
+      <item value="javaagent" />
+      <item value="Java" />
+      <item value="public" />
+      <item value="resolve Class" />
+      <item value="prim Classes" />
+      <item value="Peek Input Stream" />
+      <item value="Block Data Input Stream" />
+      <item value="Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes. &lt;p&gt; Note that while some implementations of {@code InputStream} will return the total number of bytes in the stream, many will not. It is never correct to use the return value of this method to allocate a buffer intended to hold all data in this stream. &lt;p&gt; A subclass' implementation of this method may choose to throw an {@link IOException} if this input stream has been closed by invoking the {@link close()} method. &lt;p&gt; The {@code available} method for class {@code InputStream} always returns {@code 0}. &lt;p&gt; This method should be overridden by subclasses. @return an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking or {@code 0} when it reaches the end of the input stream. @exception IOException if an IO error occurs." />
+      <item value="Skips over and discards &lt;code&gt;n&lt;code&gt; bytes of data from this input stream. The &lt;code&gt;skip&lt;code&gt; method may, for a variety of reasons, end up skipping over some smaller number of bytes, possibly &lt;code&gt;0&lt;code&gt;. This may result from any of a number of conditions; reaching end of file before &lt;code&gt;n&lt;code&gt; bytes have been skipped is only one possibility. The actual number of bytes skipped is returned. If {@code n} is negative, the {@code skip} method for class {@code InputStream} always returns 0, and no bytes are skipped. Subclasses may handle the negative value differently. &lt;p&gt; The &lt;code&gt;skip&lt;code&gt; method of this class creates a byte array and then repeatedly reads into it until &lt;code&gt;n&lt;code&gt; bytes have been read or the end of the stream has been reached. Subclasses are encouraged to provide a more efficient implementation of this method. For instance, the implementation may depend on the ability to seek. @param n the number of bytes to be skipped. @return the actual number of bytes skipped. @exception IOException if the stream does not support seek, or if some other IO error" />
+      <item value="Reads some number of bytes from the input stream and stores them into the buffer array &lt;code&gt;b&lt;code&gt;. The number of bytes actually read is returned as an integer. This method blocks until input data is available, end of file is detected, or an exception is thrown. &lt;p&gt; If the length of &lt;code&gt;b&lt;code&gt; is zero, then no bytes are read and &lt;code&gt;0&lt;code&gt; is returned; otherwise, there is an attempt to read at least one byte. If no byte is available because the stream is at the end of the file, the value &lt;code&gt;-1&lt;code&gt; is returned; otherwise, at least one byte is read and stored into &lt;code&gt;b&lt;code&gt;. &lt;p&gt; The first byte read is stored into element &lt;code&gt;b[0]&lt;code&gt;, the next one into &lt;code&gt;b[1]&lt;code&gt;, and so on. The number of bytes read is, at most, equal to the length of &lt;code&gt;b&lt;code&gt;. Let &lt;i&gt;k&lt;i&gt; be the number of bytes actually read; these bytes will be stored in elements &lt;code&gt;b[0]&lt;code&gt; through &lt;code&gt;b[&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;-1]&lt;code&gt;, leaving elements &lt;code&gt;b[&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;]&lt;code&gt; through &lt;code&gt;b[b.length-1]&lt;code&gt; unaffected. &lt;p&gt; The &lt;code&gt;read(b)&lt;code&gt; method for class &lt;code&gt;InputStream&lt;code&gt; has the same effect as: &lt;pre&gt;&lt;code&gt; read(b, 0, b.length) &lt;code&gt;&lt;pre&gt; @param b the buffer into which the data is read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the stream has been reached. @exception IOException If the first byte cannot be read for any reason other than the end of the file, if the input stream has been closed, or if some other IO error occurs. @exception NullPointerException if &lt;code&gt;b&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @see java.io.InputStreamread(byte[], int, int)" />
+      <item value="Reads the next byte of data from the input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. This method blocks until input data is available, the end of the stream is detected, or an exception is thrown. &lt;p&gt; A subclass must provide an implementation of this method. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if an IO error occurs." />
+      <item value="read" />
+      <item value="skip" />
+      <item value="Josh Bloch" />
+      <item value="Auto Closeable" />
+      <item value="Data Input" />
+      <item value="Coding" />
+      <item value="MAX SKIP BUFFER SIZE" />
+      <item value="Input Stream" />
+      <item value="会先执行finally" />
+      <item value="catch" />
+      <item value="Runs the garbage collector. Calling this method suggests that the Java virtual machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the virtual machine has made its best effort to recycle all discarded objects. &lt;p&gt; The name &lt;code&gt;gc&lt;code&gt; stands for &quot;garbage collector&quot;. The virtual machine performs this recycling process automatically as needed, in a separate thread, even if the &lt;code&gt;gc&lt;code&gt; method is not invoked explicitly. &lt;p&gt; The method {@link Systemgc()} is the conventional and convenient means of invoking this method." />
+      <item value="post-increment is zero first time" />
+      <item value="Foul" />
+      <item value="You can choose to not throw any exceptions, even if base version does:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5898" />
-        <entry key="ENGLISH" value="5899" />
-        <entry key="ALBANIAN" value="5" />
+        <entry key="CHINESE" value="1750" />
+        <entry key="ENGLISH" value="1751" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="4" />
-        <entry key="POLISH" value="7" />
-        <entry key="AFRIKAANS" value="8" />
-        <entry key="DANISH" value="10" />
-        <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="4" />
-        <entry key="FRENCH" value="8" />
+        <entry key="POLISH" value="3" />
+        <entry key="DANISH" value="4" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="14" />
         <entry key="FILIPINO" value="2" />
-        <entry key="FINNISH" value="6" />
-        <entry key="FRISIAN" value="3" />
-        <entry key="HAITIAN_CREOLE" value="7" />
-        <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="7" />
-        <entry key="CATALAN" value="1" />
-        <entry key="KURDISH" value="4" />
-        <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="7" />
+        <entry key="FINNISH" value="1" />
+        <entry key="FRISIAN" value="1" />
+        <entry key="DUTCH" value="5" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="KANNADA" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="KURDISH" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LATVIAN" value="6" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="MALTESE" value="1" />
-        <entry key="MALAYALAM" value="1" />
-        <entry key="BENGALI" value="1" />
-        <entry key="HMONG" value="4" />
-        <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="9" />
-        <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="6" />
-        <entry key="SAMOAN" value="5" />
-        <entry key="SESOTHO" value="3" />
-        <entry key="SLOVAK" value="5" />
-        <entry key="SLOVENIAN" value="3" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="SPANISH" value="2" />
-        <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="5" />
-        <entry key="JAVANESE" value="1" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="MALAYALAM" value="2" />
+        <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="6" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="2" />
+        <entry key="SAMOAN" value="7" />
+        <entry key="SLOVAK" value="2" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="2" />
+        <entry key="IGBO" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655083072785" />
+    <option name="lastTrimTime" value="1654518697601" />
   </component>
   <component name="Settings">
-    <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="translateDocumentation" value="true" />
+    <option name="foldOriginal" value="true" />
+    <option name="showWordForms" value="false" />
   </component>
 </application>
