@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compute If Present" />
+      <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in:" />
+      <item value="key" />
+      <item value="mapping Function" />
+      <item value="compute If Absent" />
+      <item value="apply" />
+      <item value="require Non Null" />
+      <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new Value(f(k))); }&lt;pre&gt; &lt;p&gt;Or to implement a multi-value map, {@code Map&lt;K,Collection&lt;V&gt;&gt;}, supporting multiple values per key: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new HashSet&lt;V&gt;()).add(v); }&lt;pre&gt; @implSpec The default implementation is equivalent to the following steps for this {@code map}, then returning the current value or {@code null} if now absent: &lt;pre&gt; {@code if (map.get(key) == null) { V newValue = mappingFunction.apply(key); if (newValue != null) map.put(key, newValue); } }&lt;pre&gt; &lt;p&gt;The default implementation makes no guarantees about synchronization or atomicity properties of this method. Any implementation providing atomicity guarantees must override this method and document its concurrency properties. In particular, all implementations of subinterface {@link java.util.concurrent.ConcurrentMap} must document whether the function is applied once atomically only if the value is not present. @param key key with which the specified value is to be associated @param mappingFunction the function to compute a value @return the current (existing or computed) value associated with the specified key, or null if the computed value is null @throws NullPointerException if the specified key is null and this map does not support null keys, or the mappingFunction is null @throws UnsupportedOperationException if the {@code put} operation is not supported by this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws ClassCastException if the class of the specified key or value prevents it from being stored in this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @since 1.8" />
       <item value="sequence Number" />
       <item value="get" />
       <item value="object Field Offset" />
@@ -47,19 +55,11 @@
       <item value="query Current Sequence" />
       <item value="extracted" />
       <item value="search Filter" />
-      <item value="K Queue" />
-      <item value="availability" />
-      <item value="Should be always called with true." />
-      <item value="instead" />
-      <item value="Platform Dependent 0 Substitution" />
-      <item value="Event Loop" />
-      <item value="Channel" />
-      <item value="Mark Paluch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5900" />
-        <entry key="ENGLISH" value="5901" />
+        <entry key="CHINESE" value="5913" />
+        <entry key="ENGLISH" value="5914" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
