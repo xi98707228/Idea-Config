@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取下一个编号 并递增" />
+      <item value="next Add Number" />
+      <item value="String" />
+      <item value="get Sequence Number" />
+      <item value="sequence Type" />
+      <item value="get Sequence Suffix" />
+      <item value="获取合同编号" />
+      <item value="是否仅查看编号" />
+      <item value="Dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="Class Path Mapper Scanner" />
+      <item value="The primary design goal of this hash table is to maintain concurrent readability (typically method get(), but also iterators and related methods) while minimizing update contention. Secondary goals are to keep space consumption about the same or better than java.util.HashMap, and to support high initial insertion rates on an empty table by many threads." />
+      <item value="此时由于Redis缓存过期" />
+      <item value="设置收款计划序列" />
+      <item value="set Contract Number" />
+      <item value="custom Contract Cost Plan Record" />
+      <item value="save" />
+      <item value="custom Contract Cost Record Service" />
+      <item value="get Store Redis Key" />
+      <item value="sequence Number Generic" />
+      <item value="WAIT PAYMENT" />
+      <item value="costplan" />
+      <item value="number" />
+      <item value="get Contract Number" />
+      <item value="Finance Cost Plan Part" />
+      <item value="save Finance Cost Order.set Author Nick Name(login User.get Nick Name());" />
+      <item value="custom Contract Cost Plan Record.set Contract Number(sequence Number Generic.get Contract Number(Sequence Type.FINANCE PLAN,false));" />
+      <item value="get And Increment" />
+      <item value="sequence Map" />
+      <item value="获取数据库中的合同编号" />
+      <item value="entries" />
+      <item value="transport" />
+      <item value="radix" />
+      <item value="post Process Before Initialization" />
+      <item value="synthetic" />
+      <item value="apply Bean Post Processors After Initialization" />
+      <item value="Abstract Autowire Capable Bean Factory" />
+      <item value="omitted" />
+      <item value="Disconnected" />
+      <item value="VM" />
+      <item value="Atomic Integer" />
+      <item value="nested exception is java.lang.ClassCastException" />
+      <item value="set Application Context" />
+      <item value="old Value" />
+      <item value="query Cost Order Sequence" />
+      <item value="并递增" />
+      <item value="获取下一个编号" />
       <item value="compute If Present" />
       <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in:" />
       <item value="key" />
-      <item value="mapping Function" />
-      <item value="compute If Absent" />
-      <item value="apply" />
-      <item value="require Non Null" />
-      <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new Value(f(k))); }&lt;pre&gt; &lt;p&gt;Or to implement a multi-value map, {@code Map&lt;K,Collection&lt;V&gt;&gt;}, supporting multiple values per key: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new HashSet&lt;V&gt;()).add(v); }&lt;pre&gt; @implSpec The default implementation is equivalent to the following steps for this {@code map}, then returning the current value or {@code null} if now absent: &lt;pre&gt; {@code if (map.get(key) == null) { V newValue = mappingFunction.apply(key); if (newValue != null) map.put(key, newValue); } }&lt;pre&gt; &lt;p&gt;The default implementation makes no guarantees about synchronization or atomicity properties of this method. Any implementation providing atomicity guarantees must override this method and document its concurrency properties. In particular, all implementations of subinterface {@link java.util.concurrent.ConcurrentMap} must document whether the function is applied once atomically only if the value is not present. @param key key with which the specified value is to be associated @param mappingFunction the function to compute a value @return the current (existing or computed) value associated with the specified key, or null if the computed value is null @throws NullPointerException if the specified key is null and this map does not support null keys, or the mappingFunction is null @throws UnsupportedOperationException if the {@code put} operation is not supported by this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws ClassCastException if the class of the specified key or value prevents it from being stored in this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @since 1.8" />
-      <item value="sequence Number" />
-      <item value="get" />
-      <item value="object Field Offset" />
-      <item value="Atomically increments by one the current value." />
-      <item value="result Sequence" />
-      <item value="sequence Type" />
-      <item value="Resource" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="Application Context" />
-      <item value="Hot Refresh" />
-      <item value="sequence Map" />
-      <item value="Concurrent Hash Map" />
-      <item value="full Add Count" />
-      <item value="Counted Completer" />
-      <item value="Map Reduce Mappings To Int Task" />
-      <item value="Unsafe mechanics" />
-      <item value="获取下一个编号" />
-      <item value="return" />
-      <item value="next Add Number" />
-      <item value="initial Internal Number" />
-      <item value="redis Cache" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="finance Cost Order Service" />
-      <item value="CONTRACT NUMBER REDIS KEY" />
-      <item value="Atomic Integer" />
-      <item value="Constant" />
-      <item value="next Peek Number" />
-      <item value="get Contract Number" />
-      <item value="FINANCE PLAN" />
-      <item value="FINANCE ORDER" />
-      <item value="Component" />
-      <item value="Service Contract Number Sequence" />
-      <item value="CONTRACT NUMBER PREFIX" />
-      <item value="custom Contract Relation Service" />
-      <item value="NEGATIVE INFINITY" />
-      <item value="POSITIVE INFINITY" />
-      <item value="'耀'" />
-      <item value="long Bits To Double" />
-      <item value="power Of Two F" />
-      <item value="query Current Sequence" />
-      <item value="extracted" />
-      <item value="search Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5913" />
-        <entry key="ENGLISH" value="5914" />
+        <entry key="CHINESE" value="5974" />
+        <entry key="ENGLISH" value="5974" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
