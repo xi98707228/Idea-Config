@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Create Time" />
+      <item value="Exception" />
+      <item value="add Batch Record List" />
+      <item value="relation User" />
+      <item value="contract Id" />
       <item value="获取下一个编号 并递增" />
       <item value="next Add Number" />
       <item value="String" />
@@ -50,16 +55,11 @@
       <item value="set Application Context" />
       <item value="old Value" />
       <item value="query Cost Order Sequence" />
-      <item value="并递增" />
-      <item value="获取下一个编号" />
-      <item value="compute If Present" />
-      <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in:" />
-      <item value="key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5974" />
-        <entry key="ENGLISH" value="5974" />
+        <entry key="CHINESE" value="5979" />
+        <entry key="ENGLISH" value="5980" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
