@@ -5,7 +5,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="K Queue" />
+      <item value="availability" />
+      <item value="Should be always called with true." />
+      <item value="instead" />
+      <item value="Platform Dependent 0 Substitution" />
+      <item value="Event Loop" />
+      <item value="Channel" />
+      <item value="Mark Paluch" />
+      <item value="Kqueue Provider" />
+      <item value="String Utils" />
+      <item value="inited" />
+      <item value="Jwt Authentication Token Filter" />
       <item value="Custom Contract File Relation" />
+      <item value="bis" />
+      <item value="Copyright (c) 1994, 2013, Oracle andor its affiliates. All rights reserved. ORACLE PROPRIETARYCONFIDENTIAL. Use is subject to license terms." />
+      <item value="Global Exception Handler" />
+      <item value="develop client" />
+      <item value="custom Contract Path" />
+      <item value="ea 4247753040043641 e 2 cfafd 47 ffeee" />
+      <item value="Parameters" />
+      <item value="select List COUNT" />
+      <item value="Unsupported Encoding Exception" />
+      <item value="download File" />
       <item value="originated Thread_" />
       <item value="Weak Reference" />
       <item value="This {@link AjaxController} resynchronizes calls calling from the main thread. The idea is that asynchronous AJAX calls performed directly in response to a user action (therefore in the &quot;main&quot; thread and not in the thread of a background task) are directly useful for the user. To easily have a testable state, these calls are performed synchronously." />
@@ -33,41 +55,19 @@
       <item value="else" />
       <item value="org Name" />
       <item value="Hash Map" />
-      <item value="conditions" />
-      <item value="V Acjy" />
-      <item value="deal Method" />
-      <item value="validate String Not Null" />
-      <item value="type" />
-      <item value="query ZF Content Totals" />
-      <item value="year month" />
-      <item value="票务稽查" />
-      <item value="动态报表" />
-      <item value="查询" />
-      <item value="数据类型模板" />
-      <item value="totaltimes" />
-      <item value="content" />
-      <item value="get Session Factory" />
-      <item value="使用滑板鞋" />
-      <item value="宠物等动物" />
-      <item value="携带活禽" />
-      <item value="吐口香糖" />
-      <item value="乱扔果皮" />
-      <item value="纸屑等废弃物" />
-      <item value="携带自行车" />
-      <item value="IMPORT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5821" />
-        <entry key="ENGLISH" value="5822" />
+        <entry key="CHINESE" value="5842" />
+        <entry key="ENGLISH" value="5842" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="4" />
-        <entry key="POLISH" value="6" />
+        <entry key="POLISH" value="7" />
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
-        <entry key="GERMAN" value="13" />
+        <entry key="GERMAN" value="14" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
@@ -90,7 +90,7 @@
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />
-        <entry key="SESOTHO" value="2" />
+        <entry key="SESOTHO" value="3" />
         <entry key="SLOVAK" value="5" />
         <entry key="SLOVENIAN" value="3" />
         <entry key="SCOTS_GAELIC" value="1" />
