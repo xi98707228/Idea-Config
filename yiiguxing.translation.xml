@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Channel" />
+      <item value="JSR-51 Expert Group" />
+      <item value="receive" />
+      <item value="position" />
+      <item value="limit" />
+      <item value="缓存复制文件" />
       <item value="buffer Copy" />
       <item value="Heap Byte Buffer R" />
       <item value="allocate" />
       <item value="Piped Input Stream" />
-      <item value="receive" />
       <item value="A piped input stream should be connected to a piped output stream; the piped input stream then provides whatever data bytes are written to the piped output stream. Typically, data is read from a &lt;code&gt;PipedInputStream&lt;code&gt; object by one thread and data is written to the corresponding &lt;code&gt;PipedOutputStream&lt;code&gt; by some other thread. Attempting to use both objects from a single thread is not recommended, as it may deadlock the thread. The piped input stream contains a buffer, decoupling read operations from write operations, within limits. A pipe is said to be &lt;a name=&quot;BROKEN&quot;&gt; &lt;i&gt;broken&lt;i&gt; &lt;a&gt; if a thread that was providing data bytes to the connected piped output stream is no longer alive." />
       <item value="James Gosling" />
       <item value="Reads the next byte of data from this input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. &lt;p&gt; This &lt;code&gt;read&lt;code&gt; method" />
@@ -46,16 +51,11 @@
       <item value="Auto Closeable" />
       <item value="Data Input" />
       <item value="Coding" />
-      <item value="MAX SKIP BUFFER SIZE" />
-      <item value="Input Stream" />
-      <item value="会先执行finally" />
-      <item value="catch" />
-      <item value="Runs the garbage collector. Calling this method suggests that the Java virtual machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the virtual machine has made its best effort to recycle all discarded objects. &lt;p&gt; The name &lt;code&gt;gc&lt;code&gt; stands for &quot;garbage collector&quot;. The virtual machine performs this recycling process automatically as needed, in a separate thread, even if the &lt;code&gt;gc&lt;code&gt; method is not invoked explicitly. &lt;p&gt; The method {@link Systemgc()} is the conventional and convenient means of invoking this method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1754" />
-        <entry key="ENGLISH" value="1755" />
+        <entry key="CHINESE" value="1759" />
+        <entry key="ENGLISH" value="1760" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
