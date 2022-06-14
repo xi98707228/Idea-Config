@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="project" />
       <item value="next Peek Number" />
       <item value="sequence Type" />
       <item value="sequence Map" />
@@ -54,12 +55,11 @@
       <item value="Security Utils" />
       <item value="expect" />
       <item value="except" />
-      <item value="initialization Internal Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6048" />
-        <entry key="ENGLISH" value="6049" />
+        <entry key="CHINESE" value="6049" />
+        <entry key="ENGLISH" value="6050" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
