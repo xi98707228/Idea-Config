@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create Time" />
       <item value="project" />
       <item value="next Peek Number" />
       <item value="sequence Type" />
@@ -54,12 +55,11 @@
       <item value="get Login User" />
       <item value="Security Utils" />
       <item value="expect" />
-      <item value="except" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6049" />
-        <entry key="ENGLISH" value="6050" />
+        <entry key="CHINESE" value="6050" />
+        <entry key="ENGLISH" value="6051" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
