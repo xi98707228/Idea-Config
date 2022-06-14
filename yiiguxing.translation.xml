@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Writes the complete contents of this byte array output stream to the specified output stream argument, as if by calling the output stream's write method using &lt;code&gt;out.write(buf, 0, count)&lt;code&gt;." />
+      <item value="The Algorithm class which stores the Algorithm URI as a string." />
+      <item value="Algorithm" />
+      <item value="The number of valid bytes in the buffer." />
+      <item value="Writes a sub array as a sequence of bytes. @param b the data to be written @param off the start offset in the data @param len the number of bytes that are written @param append {@code true} to first advance the position to the" />
       <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
       <item value="Buffered Writer" />
       <item value="Writer" />
@@ -46,16 +51,11 @@
       <item value="get Directly And Indirectly Present" />
       <item value="get Annotations By Type" />
       <item value="Annotated Element" />
-      <item value="Index Out Of Bounds Exception" />
-      <item value="finished" />
-      <item value="Process" />
-      <item value="Program" />
-      <item value="Files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1778" />
-        <entry key="ENGLISH" value="1779" />
+        <entry key="CHINESE" value="1783" />
+        <entry key="ENGLISH" value="1784" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
