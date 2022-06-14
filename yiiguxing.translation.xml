@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="expect" />
+      <item value="except" />
+      <item value="initialization Internal Number" />
+      <item value="initial Internal Number" />
       <item value="Abstract the protocol implementation, including threading, etc. Processor is single threaded and specific to stream-based protocols, will not fit Jk protocols like JNI." />
       <item value="get Store Redis Key" />
       <item value="sequence Map" />
@@ -49,17 +55,11 @@
       <item value="transport" />
       <item value="radix" />
       <item value="post Process Before Initialization" />
-      <item value="synthetic" />
-      <item value="apply Bean Post Processors After Initialization" />
-      <item value="Abstract Autowire Capable Bean Factory" />
-      <item value="omitted" />
-      <item value="Disconnected" />
-      <item value="VM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5985" />
-        <entry key="ENGLISH" value="5986" />
+        <entry key="CHINESE" value="5991" />
+        <entry key="ENGLISH" value="5992" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
