@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compute Expend Part Statistics" />
+      <item value="Finance Statistics Revenue" />
+      <item value="statistics Revenue Data List" />
+      <item value="compute Count Result" />
+      <item value="statistics Projects" />
+      <item value="Finance Statistics Revenue Part" />
+      <item value="时间段内的收款单" />
+      <item value="lambda" />
+      <item value="cost Order Revenue Count" />
+      <item value="author" />
+      <item value="Joseph D. Darcy" />
+      <item value="Sergey V. Kuksenko" />
+      <item value="Josh Bloch" />
       <item value="ruoyi" />
       <item value="Finance Cost Plan Part" />
       <item value="trading Record" />
@@ -42,24 +55,11 @@
       <item value="get Sequence Suffix" />
       <item value="获取合同编号" />
       <item value="是否仅查看编号" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="Class Path Mapper Scanner" />
-      <item value="The primary design goal of this hash table is to maintain concurrent readability (typically method get(), but also iterators and related methods) while minimizing update contention. Secondary goals are to keep space consumption about the same or better than java.util.HashMap, and to support high initial insertion rates on an empty table by many threads." />
-      <item value="此时由于Redis缓存过期" />
-      <item value="设置收款计划序列" />
-      <item value="set Contract Number" />
-      <item value="custom Contract Cost Plan Record" />
-      <item value="save" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="sequence Number Generic" />
-      <item value="WAIT PAYMENT" />
-      <item value="costplan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6007" />
-        <entry key="ENGLISH" value="6006" />
+        <entry key="CHINESE" value="6017" />
+        <entry key="ENGLISH" value="6018" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="RUSSIAN" value="5" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
