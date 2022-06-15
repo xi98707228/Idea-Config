@@ -1,65 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Java代码中" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="create Time" />
-      <item value="project" />
-      <item value="next Peek Number" />
-      <item value="sequence Type" />
-      <item value="sequence Map" />
-      <item value="signature" />
-      <item value="Redis" />
-      <item value="里最新且有效的数据" />
-      <item value="set Cache Map" />
-      <item value="FINANCE PLAN" />
-      <item value="FINANCE ORDER" />
-      <item value="获取数据库中的合同编号" />
-      <item value="finance Cost Order Service" />
-      <item value="static" />
-      <item value="SERVICE CONTRACT" />
-      <item value="get Store Redis Key" />
-      <item value="get Cost Order List" />
-      <item value="Query Wrapper" />
-      <item value="list" />
-      <item value="is Not Empty" />
-      <item value="custom Name" />
-      <item value="compute Expend Part Statistics" />
-      <item value="Finance Statistics Revenue" />
-      <item value="statistics Revenue Data List" />
-      <item value="compute Count Result" />
-      <item value="statistics Projects" />
-      <item value="Finance Statistics Revenue Part" />
-      <item value="时间段内的收款单" />
-      <item value="lambda" />
-      <item value="cost Order Revenue Count" />
-      <item value="author" />
-      <item value="Joseph D. Darcy" />
-      <item value="Sergey V. Kuksenko" />
-      <item value="Josh Bloch" />
-      <item value="ruoyi" />
-      <item value="Finance Cost Plan Part" />
-      <item value="trading Record" />
-      <item value="current Contract" />
-      <item value="stream" />
-      <item value="add Batch Record List" />
-      <item value="cost Order Relation Bean" />
-      <item value="Druid Abstract Data Source" />
-      <item value="10:26:09.335 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371655170696056_MisfireHandler] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service_copy?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 306516" />
-      <item value="Finance Cost Order" />
+      <item value="32" />
+      <item value="06" />
+      <item value="11" />
+      <item value="15" />
+      <item value="987072248" />
+      <item value="2022" />
+      <item value="examine mag instrument" />
+      <item value="Examine Mag Instrument" />
+      <item value="ID WORKER STR" />
       <item value="row Id" />
-      <item value="payment Way" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
+      <item value="signature" />
+      <item value="handling Opinions" />
+      <item value="is End" />
+      <item value="builder Self Class Type" />
+      <item value="get Class" />
+      <item value="identity Hash Code" />
+      <item value="EXAMINE INSTRUMENT END" />
+      <item value="EXAMINE INSTRUMENT START" />
+      <item value="procedure Type" />
+      <item value="10" />
+      <item value="Getter" />
+      <item value="Examine Procedure Status" />
+      <item value="END" />
+      <item value="Abstract Exam Form Life Cycle" />
+      <item value="Abstract Examine Form Life Cycle" />
+      <item value="Summary exam form life cycle" />
+      <item value="摘要考试形式生命周期" />
+      <item value="开始" />
+      <item value="procedure" />
+      <item value="com" />
+      <item value="qq" />
+      <item value="Examine Procedure" />
+      <item value="start" />
+      <item value="Examine Procedure Relationship" />
+      <item value="EXAMINE INSTRUMENT TASK 1" />
+      <item value="Invalid Object Exception" />
+      <item value="procedure Title" />
+      <item value="Integer" />
+      <item value="String" />
+      <item value="过程标识" />
+      <item value="examine Type" />
+      <item value="examine User Id" />
+      <item value="Builder Target" />
+      <item value="Content Negotiation Strategy" />
+      <item value="strategy" />
+      <item value="examination" />
+      <item value="Examine Type" />
+      <item value="Arjen Poutsma" />
+      <item value="Juergen Hoeller" />
+      <item value="Abstract Examine Form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6052" />
-        <entry key="ENGLISH" value="6052" />
+        <entry key="CHINESE" value="6177" />
+        <entry key="ENGLISH" value="6171" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,21 +71,21 @@
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
-        <entry key="FRISIAN" value="3" />
+        <entry key="FRISIAN" value="4" />
         <entry key="HAITIAN_CREOLE" value="7" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
         <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="9" />
+        <entry key="PORTUGUESE" value="10" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />
