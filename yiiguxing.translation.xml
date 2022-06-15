@@ -4,11 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Query Expression Executor" />
+      <item value="这样的数字表达式" />
+      <item value="to date" />
+      <item value="get Examine List" />
+      <item value="examine mag instrument relationship" />
+      <item value="Examine Mag Instrument Relationship" />
+      <item value="审批物料关联数据信息" />
+      <item value="987072248" />
       <item value="32" />
       <item value="06" />
       <item value="11" />
       <item value="15" />
-      <item value="987072248" />
       <item value="2022" />
       <item value="examine mag instrument" />
       <item value="Examine Mag Instrument" />
@@ -47,18 +54,11 @@
       <item value="examine Type" />
       <item value="examine User Id" />
       <item value="Builder Target" />
-      <item value="Content Negotiation Strategy" />
-      <item value="strategy" />
-      <item value="examination" />
-      <item value="Examine Type" />
-      <item value="Arjen Poutsma" />
-      <item value="Juergen Hoeller" />
-      <item value="Abstract Examine Form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6177" />
-        <entry key="ENGLISH" value="6171" />
+        <entry key="CHINESE" value="6181" />
+        <entry key="ENGLISH" value="6181" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
