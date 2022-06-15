@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="process" />
+      <item value="ruoyi" />
+      <item value="com" />
+      <item value="project" />
+      <item value="987072248" />
+      <item value="53" />
+      <item value="utils" />
+      <item value="Status Process Engine" />
+      <item value="Process Future Status Call" />
       <item value="Query Expression Executor" />
       <item value="这样的数字表达式" />
       <item value="to date" />
@@ -11,7 +20,6 @@
       <item value="examine mag instrument relationship" />
       <item value="Examine Mag Instrument Relationship" />
       <item value="审批物料关联数据信息" />
-      <item value="987072248" />
       <item value="32" />
       <item value="06" />
       <item value="11" />
@@ -40,25 +48,17 @@
       <item value="摘要考试形式生命周期" />
       <item value="开始" />
       <item value="procedure" />
-      <item value="com" />
       <item value="qq" />
       <item value="Examine Procedure" />
       <item value="start" />
       <item value="Examine Procedure Relationship" />
       <item value="EXAMINE INSTRUMENT TASK 1" />
       <item value="Invalid Object Exception" />
-      <item value="procedure Title" />
-      <item value="Integer" />
-      <item value="String" />
-      <item value="过程标识" />
-      <item value="examine Type" />
-      <item value="examine User Id" />
-      <item value="Builder Target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6181" />
-        <entry key="ENGLISH" value="6181" />
+        <entry key="CHINESE" value="6190" />
+        <entry key="ENGLISH" value="6188" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
         <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="10" />
+        <entry key="PORTUGUESE" value="11" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />
