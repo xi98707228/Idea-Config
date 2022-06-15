@@ -1,17 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Else retry in case a new buf was CASed in fill()" />
+      <item value="Creates and returns an updater for objects with the given field. The Class arguments are needed to check that reflective types and generic types match. @param tclass the class of the objects holding the field @param vclass the class of the field @param fieldName the name of the field to be updated @param &lt;U&gt; the type of instances of tclass @param &lt;W&gt; the type of instances of vclass @return the updater @throws ClassCastException if the field is of the wrong type @throws IllegalArgumentException if the field is not volatile @throws RuntimeException with a nested reflection-based exception if the class does not hold field or is the wrong type, or the field is inaccessible to the caller according to Java language access control" />
+      <item value="Check to make sure that buffer has not been nulled out due to close; if not return it;" />
+      <item value="offsets" />
+      <item value="Valid only when markedChar &gt; 0" />
+      <item value="UNMARKED" />
+      <item value="INVALIDATED" />
+      <item value="Fills the input buffer, taking the mark into account if it is valid." />
+      <item value="EOF" />
+      <item value="Reads a line of text. A line is considered to be terminated by any one of a line feed ('\n'), a carriage return ('\r'), or a carriage return followed immediately by a linefeed. @param ignoreLF If true, the next '\n' will be skipped @return A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached @see java.io.LineNumberReaderreadLine()" />
+      <item value="If true, the next '\n' will be skipped" />
+      <item value="Readable" />
+      <item value="Reader" />
+      <item value="Buffered Reader" />
+      <item value="Filter Input Stream" />
+      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
+      <item value="Filter Output Stream" />
       <item value="Writes the complete contents of this byte array output stream to the specified output stream argument, as if by calling the output stream's write method using &lt;code&gt;out.write(buf, 0, count)&lt;code&gt;." />
       <item value="The Algorithm class which stores the Algorithm URI as a string." />
       <item value="Algorithm" />
       <item value="The number of valid bytes in the buffer." />
       <item value="Writes a sub array as a sequence of bytes. @param b the data to be written @param off the start offset in the data @param len the number of bytes that are written @param append {@code true} to first advance the position to the" />
-      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
       <item value="Buffered Writer" />
       <item value="Writer" />
       <item value="Sync Failed Exception" />
       <item value="Jonathan Payne" />
-      <item value="Filter Output Stream" />
       <item value="Shared Secrets" />
       <item value="Java Lang Access" />
       <item value="Platform Logger" />
@@ -36,26 +51,11 @@
       <item value="allocate" />
       <item value="Piped Input Stream" />
       <item value="A piped input stream should be connected to a piped output stream; the piped input stream then provides whatever data bytes are written to the piped output stream. Typically, data is read from a &lt;code&gt;PipedInputStream&lt;code&gt; object by one thread and data is written to the corresponding &lt;code&gt;PipedOutputStream&lt;code&gt; by some other thread. Attempting to use both objects from a single thread is not recommended, as it may deadlock the thread. The piped input stream contains a buffer, decoupling read operations from write operations, within limits. A pipe is said to be &lt;a name=&quot;BROKEN&quot;&gt; &lt;i&gt;broken&lt;i&gt; &lt;a&gt; if a thread that was providing data bytes to the connected piped output stream is no longer alive." />
-      <item value="James Gosling" />
-      <item value="Reads the next byte of data from this input stream. The value byte is returned as an &lt;code&gt;int&lt;code&gt; in the range &lt;code&gt;0&lt;code&gt; to &lt;code&gt;255&lt;code&gt;. If no byte is available because the end of the stream has been reached, the value &lt;code&gt;-1&lt;code&gt; is returned. &lt;p&gt; This &lt;code&gt;read&lt;code&gt; method" />
-      <item value="This class does not properly convert characters into bytes. As of JDK&amp;nbsp;1.1, the preferred way to create a stream from a string is via the &lt;code&gt;StringReader&lt;code&gt; class." />
-      <item value="Byte Array Input Stream" />
-      <item value="socket Write 0" />
-      <item value="Instances of the file descriptor class serve as an opaque handle to the underlying machine-specific structure representing an open file, an open socket, or another source or sink of bytes. The main practical use for a file descriptor is to create a {@link FileInputStream} or {@link FileOutputStream} to contain it. &lt;p&gt;Applications should not create their own file descriptors." />
-      <item value="ensure Class Initialized" />
-      <item value="File Descriptor" />
-      <item value="register Natives" />
-      <item value="Flushable" />
-      <item value="Constant Pool" />
-      <item value="Repeatable" />
-      <item value="get Directly And Indirectly Present" />
-      <item value="get Annotations By Type" />
-      <item value="Annotated Element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1783" />
-        <entry key="ENGLISH" value="1784" />
+        <entry key="CHINESE" value="1800" />
+        <entry key="ENGLISH" value="1801" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="3" />
