@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="image Path" />
+      <item value="启动成功" />
       <item value="process" />
       <item value="ruoyi" />
       <item value="com" />
@@ -52,13 +54,11 @@
       <item value="Examine Procedure" />
       <item value="start" />
       <item value="Examine Procedure Relationship" />
-      <item value="EXAMINE INSTRUMENT TASK 1" />
-      <item value="Invalid Object Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6190" />
-        <entry key="ENGLISH" value="6188" />
+        <entry key="CHINESE" value="6192" />
+        <entry key="ENGLISH" value="6191" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
