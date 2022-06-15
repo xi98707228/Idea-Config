@@ -4,6 +4,36 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Number" />
+      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
+      <item value="is System Domain Loader" />
+      <item value="array Base Offset" />
+      <item value="object Field Offset" />
+      <item value="get Declared Field" />
+      <item value="Long Adder" />
+      <item value="Counter Cell" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="Contended" />
+      <item value="Innocuous Fork Join Worker Thread" />
+      <item value="create User Name" />
+      <item value="async Store Entered Mag Instrument Data" />
+      <item value="identity" />
+      <item value="Process Struct No Impl Exception" />
+      <item value="DEFAULT GENERATE FEATURE" />
+      <item value="Examine Mag Instrument Relationship" />
+      <item value="row Id" />
+      <item value="examine Mag Instrument Relationship Service" />
+      <item value="entered Instrument Json List" />
+      <item value="examine Row Id" />
+      <item value="mag Instrument Store Data" />
+      <item value="submit Object" />
+      <item value="V Work Order List" />
+      <item value="Query Wrapper" />
+      <item value="work Order List Service" />
+      <item value="param String" />
+      <item value="param Object" />
+      <item value="保存保存" />
+      <item value="Dispatcher Servlet" />
       <item value="image Path" />
       <item value="启动成功" />
       <item value="process" />
@@ -20,45 +50,15 @@
       <item value="to date" />
       <item value="get Examine List" />
       <item value="examine mag instrument relationship" />
-      <item value="Examine Mag Instrument Relationship" />
       <item value="审批物料关联数据信息" />
       <item value="32" />
       <item value="06" />
       <item value="11" />
-      <item value="15" />
-      <item value="2022" />
-      <item value="examine mag instrument" />
-      <item value="Examine Mag Instrument" />
-      <item value="ID WORKER STR" />
-      <item value="row Id" />
-      <item value="signature" />
-      <item value="handling Opinions" />
-      <item value="is End" />
-      <item value="builder Self Class Type" />
-      <item value="get Class" />
-      <item value="identity Hash Code" />
-      <item value="EXAMINE INSTRUMENT END" />
-      <item value="EXAMINE INSTRUMENT START" />
-      <item value="procedure Type" />
-      <item value="10" />
-      <item value="Getter" />
-      <item value="Examine Procedure Status" />
-      <item value="END" />
-      <item value="Abstract Exam Form Life Cycle" />
-      <item value="Abstract Examine Form Life Cycle" />
-      <item value="Summary exam form life cycle" />
-      <item value="摘要考试形式生命周期" />
-      <item value="开始" />
-      <item value="procedure" />
-      <item value="qq" />
-      <item value="Examine Procedure" />
-      <item value="start" />
-      <item value="Examine Procedure Relationship" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6192" />
-        <entry key="ENGLISH" value="6191" />
+        <entry key="CHINESE" value="6221" />
+        <entry key="ENGLISH" value="6222" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
