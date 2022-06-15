@@ -1,101 +1,114 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Virtual Machine" />
-      <item value="Returns the current offset in this file. @return the offset from the beginning of the file, in bytes, at which the next read or write occurs. @exception IOException if an IO error occurs." />
-      <item value="get File Pointer" />
-      <item value="seek" />
-      <item value="Random Access File" />
-      <item value="Else retry in case a new buf was CASed in fill()" />
-      <item value="Creates and returns an updater for objects with the given field. The Class arguments are needed to check that reflective types and generic types match. @param tclass the class of the objects holding the field @param vclass the class of the field @param fieldName the name of the field to be updated @param &lt;U&gt; the type of instances of tclass @param &lt;W&gt; the type of instances of vclass @return the updater @throws ClassCastException if the field is of the wrong type @throws IllegalArgumentException if the field is not volatile @throws RuntimeException with a nested reflection-based exception if the class does not hold field or is the wrong type, or the field is inaccessible to the caller according to Java language access control" />
-      <item value="Check to make sure that buffer has not been nulled out due to close; if not return it;" />
-      <item value="offsets" />
-      <item value="Valid only when markedChar &gt; 0" />
-      <item value="UNMARKED" />
-      <item value="INVALIDATED" />
-      <item value="Fills the input buffer, taking the mark into account if it is valid." />
-      <item value="EOF" />
-      <item value="Reads a line of text. A line is considered to be terminated by any one of a line feed ('\n'), a carriage return ('\r'), or a carriage return followed immediately by a linefeed. @param ignoreLF If true, the next '\n' will be skipped @return A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached @see java.io.LineNumberReaderreadLine()" />
-      <item value="If true, the next '\n' will be skipped" />
-      <item value="Readable" />
-      <item value="Reader" />
-      <item value="Buffered Reader" />
-      <item value="Filter Input Stream" />
-      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
-      <item value="Filter Output Stream" />
-      <item value="Writes the complete contents of this byte array output stream to the specified output stream argument, as if by calling the output stream's write method using &lt;code&gt;out.write(buf, 0, count)&lt;code&gt;." />
-      <item value="The Algorithm class which stores the Algorithm URI as a string." />
-      <item value="Algorithm" />
-      <item value="The number of valid bytes in the buffer." />
-      <item value="Writes a sub array as a sequence of bytes. @param b the data to be written @param off the start offset in the data @param len the number of bytes that are written @param append {@code true} to first advance the position to the" />
-      <item value="Buffered Writer" />
-      <item value="Writer" />
-      <item value="Sync Failed Exception" />
-      <item value="Jonathan Payne" />
-      <item value="Shared Secrets" />
-      <item value="Java Lang Access" />
-      <item value="Platform Logger" />
-      <item value="ENABLED" />
-      <item value="TRIPWIRE PROPERTY" />
-      <item value="try Handle Pending" />
-      <item value="The number of times this WeakHashMap has been structurally modified. Structural modifications are those that change the number of mappings in the map or otherwise modify its internal structure (e.g., rehash). This field is used to make iterators on Collection-views of the map fail-fast." />
-      <item value="Reference Queue" />
-      <item value="Tripwire" />
-      <item value="Spliterator" />
-      <item value="install External" />
-      <item value="interpretation" />
-      <item value="Privileged Action" />
-      <item value="get Channel" />
-      <item value="JSR-51 Expert Group" />
-      <item value="receive" />
-      <item value="position" />
-      <item value="limit" />
-      <item value="缓存复制文件" />
+      <item value="devlop service" />
+      <item value="bean" />
+      <item value="Illegal State Exception" />
+      <item value="refresh" />
+      <item value="finish Bean Factory Initialization" />
+      <item value="Abstract Application Context" />
+      <item value="object Field Offset" />
+      <item value="Atomically increments by one the current value." />
+      <item value="result Sequence" />
+      <item value="sequence Type" />
+      <item value="get" />
+      <item value="Resource" />
+      <item value="SEQUENCE STORE MAP" />
+      <item value="Application Context" />
+      <item value="Hot Refresh" />
+      <item value="sequence Map" />
+      <item value="Concurrent Hash Map" />
+      <item value="full Add Count" />
+      <item value="Counted Completer" />
+      <item value="Map Reduce Mappings To Int Task" />
+      <item value="Unsafe mechanics" />
+      <item value="获取下一个编号" />
+      <item value="return" />
+      <item value="next Add Number" />
+      <item value="initial Internal Number" />
+      <item value="redis Cache" />
+      <item value="custom Contract Cost Record Service" />
+      <item value="finance Cost Order Service" />
+      <item value="CONTRACT NUMBER REDIS KEY" />
+      <item value="Atomic Integer" />
+      <item value="Constant" />
+      <item value="next Peek Number" />
+      <item value="get Contract Number" />
+      <item value="FINANCE PLAN" />
+      <item value="FINANCE ORDER" />
+      <item value="Component" />
+      <item value="Service Contract Number Sequence" />
+      <item value="CONTRACT NUMBER PREFIX" />
+      <item value="custom Contract Relation Service" />
+      <item value="NEGATIVE INFINITY" />
+      <item value="POSITIVE INFINITY" />
+      <item value="'耀'" />
+      <item value="long Bits To Double" />
+      <item value="power Of Two F" />
+      <item value="query Current Sequence" />
+      <item value="extracted" />
+      <item value="search Filter" />
+      <item value="K Queue" />
+      <item value="availability" />
+      <item value="Should be always called with true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="CHINESE" value="5904" />
+        <entry key="ENGLISH" value="5904" />
+        <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="POLISH" value="3" />
-        <entry key="DANISH" value="4" />
-        <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="14" />
+        <entry key="ICELANDIC" value="4" />
+        <entry key="POLISH" value="7" />
+        <entry key="AFRIKAANS" value="8" />
+        <entry key="DANISH" value="10" />
+        <entry key="GERMAN" value="14" />
+        <entry key="RUSSIAN" value="4" />
+        <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
-        <entry key="FINNISH" value="1" />
-        <entry key="FRISIAN" value="1" />
-        <entry key="DUTCH" value="5" />
-        <entry key="GALICIAN" value="1" />
-        <entry key="KANNADA" value="1" />
-        <entry key="CROATIAN" value="1" />
-        <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="LATVIAN" value="6" />
-        <entry key="LITHUANIAN" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="FINNISH" value="6" />
+        <entry key="FRISIAN" value="3" />
+        <entry key="HAITIAN_CREOLE" value="8" />
+        <entry key="HAUSA" value="1" />
+        <entry key="DUTCH" value="7" />
+        <entry key="CATALAN" value="1" />
+        <entry key="KURDISH" value="4" />
+        <entry key="LATIN" value="10" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
-        <entry key="MALAYALAM" value="2" />
-        <entry key="HMONG" value="1" />
-        <entry key="NORWEGIAN" value="6" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="2" />
-        <entry key="SAMOAN" value="7" />
-        <entry key="SLOVAK" value="2" />
-        <entry key="SLOVENIAN" value="1" />
-        <entry key="SPANISH" value="1" />
-        <entry key="GREEK" value="2" />
-        <entry key="IGBO" value="1" />
-        <entry key="ITALIAN" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="MALAYALAM" value="1" />
+        <entry key="BENGALI" value="1" />
+        <entry key="HMONG" value="4" />
+        <entry key="NORWEGIAN" value="9" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="6" />
+        <entry key="SAMOAN" value="5" />
+        <entry key="SESOTHO" value="3" />
+        <entry key="SLOVAK" value="5" />
+        <entry key="SLOVENIAN" value="3" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="GREEK" value="7" />
+        <entry key="ITALIAN" value="7" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="5" />
+        <entry key="JAVANESE" value="1" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655129179392" />
+    <option name="lastTrimTime" value="1655083072785" />
   </component>
   <component name="Settings">
-    <option name="foldOriginal" value="true" />
-    <option name="showWordForms" value="false" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
