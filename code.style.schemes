@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <MySQLCodeStyleSettings version="2">
+          <option name="KEYWORD_CASE" value="0" />
+          <option name="TYPE_CASE" value="3" />
+          <option name="IDENTIFIER_CASE" value="1" />
+        </MySQLCodeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>

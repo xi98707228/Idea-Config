@@ -1,64 +1,65 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Number" />
-      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
-      <item value="is System Domain Loader" />
-      <item value="array Base Offset" />
       <item value="object Field Offset" />
-      <item value="get Declared Field" />
-      <item value="Long Adder" />
-      <item value="Counter Cell" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
-      <item value="Contended" />
-      <item value="Innocuous Fork Join Worker Thread" />
-      <item value="create User Name" />
-      <item value="async Store Entered Mag Instrument Data" />
-      <item value="identity" />
-      <item value="Process Struct No Impl Exception" />
-      <item value="DEFAULT GENERATE FEATURE" />
-      <item value="Examine Mag Instrument Relationship" />
-      <item value="row Id" />
-      <item value="examine Mag Instrument Relationship Service" />
-      <item value="entered Instrument Json List" />
-      <item value="examine Row Id" />
-      <item value="mag Instrument Store Data" />
-      <item value="submit Object" />
-      <item value="V Work Order List" />
-      <item value="Query Wrapper" />
-      <item value="work Order List Service" />
-      <item value="param String" />
-      <item value="param Object" />
-      <item value="保存保存" />
-      <item value="Dispatcher Servlet" />
-      <item value="image Path" />
-      <item value="启动成功" />
-      <item value="process" />
-      <item value="ruoyi" />
-      <item value="com" />
-      <item value="project" />
-      <item value="987072248" />
-      <item value="53" />
-      <item value="utils" />
-      <item value="Status Process Engine" />
-      <item value="Process Future Status Call" />
-      <item value="Query Expression Executor" />
-      <item value="这样的数字表达式" />
-      <item value="to date" />
-      <item value="get Examine List" />
-      <item value="examine mag instrument relationship" />
-      <item value="审批物料关联数据信息" />
-      <item value="32" />
-      <item value="06" />
-      <item value="11" />
+      <item value="Atomically increments by one the current value." />
+      <item value="result Sequence" />
+      <item value="sequence Type" />
+      <item value="get" />
+      <item value="Resource" />
+      <item value="SEQUENCE STORE MAP" />
+      <item value="Application Context" />
+      <item value="Hot Refresh" />
+      <item value="sequence Map" />
+      <item value="Concurrent Hash Map" />
+      <item value="full Add Count" />
+      <item value="Counted Completer" />
+      <item value="Map Reduce Mappings To Int Task" />
+      <item value="Unsafe mechanics" />
+      <item value="获取下一个编号" />
+      <item value="return" />
+      <item value="next Add Number" />
+      <item value="initial Internal Number" />
+      <item value="redis Cache" />
+      <item value="custom Contract Cost Record Service" />
+      <item value="finance Cost Order Service" />
+      <item value="CONTRACT NUMBER REDIS KEY" />
+      <item value="Atomic Integer" />
+      <item value="Constant" />
+      <item value="next Peek Number" />
+      <item value="get Contract Number" />
+      <item value="FINANCE PLAN" />
+      <item value="FINANCE ORDER" />
+      <item value="Component" />
+      <item value="Service Contract Number Sequence" />
+      <item value="CONTRACT NUMBER PREFIX" />
+      <item value="custom Contract Relation Service" />
+      <item value="NEGATIVE INFINITY" />
+      <item value="POSITIVE INFINITY" />
+      <item value="'耀'" />
+      <item value="long Bits To Double" />
+      <item value="power Of Two F" />
+      <item value="query Current Sequence" />
+      <item value="extracted" />
+      <item value="search Filter" />
+      <item value="K Queue" />
+      <item value="availability" />
+      <item value="Should be always called with true." />
+      <item value="instead" />
+      <item value="Platform Dependent 0 Substitution" />
+      <item value="Event Loop" />
+      <item value="Channel" />
+      <item value="Mark Paluch" />
+      <item value="Kqueue Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6221" />
-        <entry key="ENGLISH" value="6222" />
+        <entry key="CHINESE" value="5898" />
+        <entry key="ENGLISH" value="5899" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -67,25 +68,25 @@
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
-        <entry key="FRISIAN" value="4" />
+        <entry key="FRISIAN" value="3" />
         <entry key="HAITIAN_CREOLE" value="7" />
         <entry key="HAUSA" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="2" />
+        <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="4" />
         <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="11" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="6" />
         <entry key="SAMOAN" value="5" />

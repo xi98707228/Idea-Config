@@ -1,9 +1,9 @@
 <application>
   <component name="CodotaSettings">
     <option name="methodCompletionsPercentageSet" value="true" />
-    <option name="id" value="caa33639-4d5b-4f2e-98b5-7734d5f4e962" />
+    <option name="id" value="491499bc-20dd-49f3-96ec-82d35a14f758" />
     <option name="wasRunBefore" value="true" />
-    <option name="firstRun" value="1642833798940" />
+    <option name="firstRun" value="1652795093009" />
     <option name="generation" value="129" />
     <option name="updateGeneration" value="1" />
     <option name="isInJSBeta" value="YES" />
@@ -17,11 +17,7 @@
     <option name="usedLanguages">
       <set>
         <option value="java" />
-        <option value="javascript" />
-        <option value="kotlin" />
       </set>
     </option>
-    <option name="lastTabnineRecommendationDisplayDate" value="1646114846107" />
-    <option name="tabnineRecommendationDontShowAgain" value="true" />
   </component>
 </application>
