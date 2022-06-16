@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Creates the directory named by this abstract pathname. @return &lt;code&gt;true&lt;code&gt; if and only if the directory was created; &lt;code&gt;false&lt;code&gt; otherwise @throws SecurityException If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method does not permit the named directory to be cre" />
+      <item value="Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories." />
+      <item value="canonicalize" />
+      <item value="MAX ENTRIES" />
+      <item value="Expiring Cache" />
+      <item value="Keep canonicalization caches in sync after file deletion and renaming operations. Could be more clever than this (i.e., only removeupdate affected entries) but probably not worth it since these entries expire after 30 seconds anyway." />
+      <item value="is Invalid" />
+      <item value="Renames the file denoted by this abstract pathname. &lt;p&gt; Many aspects of the behavior of this method are inherently platform-dependent: The rename operation might not be able to move a file from one filesystem to another, it might not be atomic, and it might not succeed if a file with the destination abstract pathname already exists. The return value should always be checked to make sure that the rename operation was successful." />
+      <item value="each path" />
+      <item value="Make Directories" />
+      <item value="usage" />
+      <item value="primary Source" />
+      <item value="Tests if a specified file should be included in a file list. @param dir the directory in which the file was found. @param name the name of the file. @return &lt;code&gt;true&lt;code&gt; if and only if the name should be included in the file list; &lt;code&gt;false&lt;code&gt; otherwise." />
+      <item value="this" />
+      <item value="Strip path information:" />
+      <item value="Server Socket" />
       <item value="Instances of this class support both reading and writing to a random access file. A random access file behaves like a large array of bytes stored in the file system. There is a kind of cursor, or index into the implied array, called the &lt;em&gt;file pointer&lt;em&gt;; input operations read bytes starting at the file pointer and advance the file pointer past the bytes read. If the random access file is created in readwrite mode, then output operations are also available; output operations write bytes starting at the file pointer and advance the file pointer past the bytes written. Output operations that write past the current end of the implied array cause the array to be extended. The file pointer can be read by the {@code getFilePointer} method and set by the {@code seek} method. &lt;p&gt; It is generally true of all the reading routines in this class that if end-of-file is reached before the desired number of bytes has been read, an {@code EOFException} (which is a kind of {@code IOException}) is thrown. If any byte cannot be read for any reason other than end-of-file, an {@code IOException} other than {@code EOFException} is thrown. In particular, an {@code IOException} may be thrown if the stream has been closed." />
       <item value="Random Access File" />
       <item value="devlop service" />
@@ -39,27 +55,11 @@
       <item value="Atomic Integer" />
       <item value="Constant" />
       <item value="next Peek Number" />
-      <item value="get Contract Number" />
-      <item value="FINANCE PLAN" />
-      <item value="FINANCE ORDER" />
-      <item value="Component" />
-      <item value="Service Contract Number Sequence" />
-      <item value="CONTRACT NUMBER PREFIX" />
-      <item value="custom Contract Relation Service" />
-      <item value="NEGATIVE INFINITY" />
-      <item value="POSITIVE INFINITY" />
-      <item value="'耀'" />
-      <item value="long Bits To Double" />
-      <item value="power Of Two F" />
-      <item value="query Current Sequence" />
-      <item value="extracted" />
-      <item value="search Filter" />
-      <item value="K Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5905" />
-        <entry key="ENGLISH" value="5906" />
+        <entry key="CHINESE" value="5922" />
+        <entry key="ENGLISH" value="5923" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
