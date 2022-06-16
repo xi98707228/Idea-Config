@@ -5,6 +5,36 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Work Order Special Statistics" />
+      <item value="param Object" />
+      <item value="V Order Statistics" />
+      <item value="time Segment Order List" />
+      <item value="Objects" />
+      <item value="non Null" />
+      <item value="special Statistics Search Filter" />
+      <item value="group By Customer Name Data Map" />
+      <item value="grouping By" />
+      <item value="special" />
+      <item value="workorder" />
+      <item value="statistics" />
+      <item value="return" />
+      <item value="for Name" />
+      <item value="Standard" />
+      <item value="Standard Charsets" />
+      <item value="param String" />
+      <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
+      <item value="optimus" />
+      <item value="SEPARATOR" />
+      <item value="A {@link org.springframework.web.servlet.handler.HandlerMethodMappingNamingStrategy HandlerMethodMappingNamingStrategy} for {@code RequestMappingInfo}-based handler method mappings. If the {@code RequestMappingInfo} name attribute is set, its value is used. Otherwise the name is based on the capital letters of the class name, followed by &quot;&quot; as a separator, and the method name. For example &quot;TCgetFoo&quot; for a class named TestController with method getFoo." />
+      <item value="Handler Method Mapping Naming Strategy" />
+      <item value="Mvc Uri Components Builder" />
+      <item value="Assign a name to this mapping. &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;b&gt; When used on both levels" />
+      <item value="工单特殊统计接口" />
+      <item value="时间段内" />
+      <item value="客户维修了多少次等信息" />
+      <item value="工单特殊统计查询过滤参数" />
+      <item value="987072248" />
+      <item value="call Super" />
       <item value="13336" />
       <item value="driver Class Name" />
       <item value="master" />
@@ -25,41 +55,11 @@
       <item value="volatile" />
       <item value="hearth" />
       <item value="设置进Redis中" />
-      <item value="get" />
-      <item value="sequence Type" />
-      <item value="sequence Map" />
-      <item value="next Add Number" />
-      <item value="result Sequence" />
-      <item value="initialization Internal Number" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="set Cache Map Value" />
-      <item value="peek Number" />
-      <item value="finance Cost Order Service" />
-      <item value="contract Cost Record Service" />
-      <item value="rollback For" />
-      <item value="initialization Cost Plan Sequence" />
-      <item value="trigger" />
-      <item value="trriger" />
-      <item value="store Redis Sequence" />
-      <item value="remove all HashSet KeyGroups for trigger Initialization All HashSet" />
-      <item value="remove all HashSet KeyGroups for trigger All Initialization HashSet" />
-      <item value="获取编号" />
-      <item value="get Store Redis Key" />
-      <item value="get Sequence Number" />
-      <item value="查看下一个编号" />
-      <item value="为当前内部类初始化" />
-      <item value="实时内部编号" />
-      <item value="Concurrent Hash Map" />
-      <item value="application Context" />
-      <item value="Application Context" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="szysdx 383" />
-      <item value="202" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6131" />
-        <entry key="ENGLISH" value="6130" />
+        <entry key="CHINESE" value="6194" />
+        <entry key="ENGLISH" value="6195" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
@@ -98,7 +98,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="8" />
+        <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
         <entry key="JAVANESE" value="1" />
