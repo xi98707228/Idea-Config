@@ -5,6 +5,47 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Custom Contract File Relation" />
+      <item value="iter Pc" />
+      <item value="transport" />
+      <item value="Druid Abstract Data Source" />
+      <item value="[INFO] ------------------------------------------------------------------------" />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="get Sequence Suffix" />
+      <item value="Trigger HeartBeatReaction" />
+      <item value="LifeCycle Perfect" />
+      <item value="heartbeat Reaction" />
+      <item value="volatile" />
+      <item value="hearth" />
+      <item value="设置进Redis中" />
+      <item value="get" />
+      <item value="sequence Type" />
+      <item value="sequence Map" />
+      <item value="next Add Number" />
+      <item value="result Sequence" />
+      <item value="initialization Internal Number" />
+      <item value="SEQUENCE STORE MAP" />
+      <item value="set Cache Map Value" />
+      <item value="peek Number" />
+      <item value="finance Cost Order Service" />
+      <item value="contract Cost Record Service" />
+      <item value="rollback For" />
+      <item value="initialization Cost Plan Sequence" />
+      <item value="trigger" />
+      <item value="trriger" />
+      <item value="store Redis Sequence" />
+      <item value="remove all HashSet KeyGroups for trigger Initialization All HashSet" />
+      <item value="remove all HashSet KeyGroups for trigger All Initialization HashSet" />
+      <item value="获取编号" />
+      <item value="get Store Redis Key" />
+      <item value="get Sequence Number" />
+      <item value="查看下一个编号" />
+      <item value="为当前内部类初始化" />
+      <item value="实时内部编号" />
+      <item value="Concurrent Hash Map" />
+      <item value="application Context" />
+      <item value="Application Context" />
+      <item value="custom Contract Cost Record Service" />
       <item value="szysdx 383" />
       <item value="202" />
       <item value="localhost" />
@@ -14,52 +55,11 @@
       <item value="Transaction Aspect Support" />
       <item value="select User Vo" />
       <item value="Gx Oa Work Order Mapper" />
-      <item value="Async" />
-      <item value="Override" />
-      <item value="update Project Name Execute Method" />
-      <item value="Returns {@code true} if the arguments are equal to each other and {@code false} otherwise. Consequently, if both arguments are {@code null}, {@code true} is returned and if exactly one argument is {@code null}, {@code false} is returned. Otherwise, equality is determined by using the {@link Objectequals equals} method of the first argument. @param a an object @param b an object to be compared with {@code a} for equality @return {@code true} if the arguments are equal to each other and {@code false} otherwise @see Objectequals(Object)" />
-      <item value="987072248" />
-      <item value="rollback For" />
-      <item value="Exception" />
-      <item value="customer" />
-      <item value="modify Project Data Vo" />
-      <item value="Transactional" />
-      <item value="这个接口仅支持修改操作" />
-      <item value="optional" />
-      <item value="物料入库审批" />
-      <item value="RELEASE" />
-      <item value="preinit" />
-      <item value="background" />
-      <item value="Version" />
-      <item value="clinit" />
-      <item value="socket" />
-      <item value="post Process Before Destruction" />
-      <item value="process Inst Id" />
-      <item value="user" />
-      <item value="new Add Data" />
-      <item value="Mag Spare Instrument" />
-      <item value="parse Object" />
-      <item value="instanceof" />
-      <item value="insert Mag Spare Instrument" />
-      <item value="article Inventory" />
-      <item value="store Examine Data List" />
-      <item value="target Class" />
-      <item value="set Create User Name" />
-      <item value="login User" />
-      <item value="Security Utils" />
-      <item value="get Login User" />
-      <item value="Request Body" />
-      <item value="Examine Store Relationship" />
-      <item value="super Service" />
-      <item value="前端传递参数异常" />
-      <item value="relation List" />
-      <item value="set Is End" />
-      <item value="submit Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6067" />
-        <entry key="ENGLISH" value="6067" />
+        <entry key="CHINESE" value="6123" />
+        <entry key="ENGLISH" value="6124" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
