@@ -5,70 +5,71 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提交保存" />
+      <item value="param" />
+      <item value="date" />
+      <item value="author" />
+      <item value="987072248" />
+      <item value="parameter Map" />
+      <item value="参数" />
+      <item value="票据文书申请流程的接口" />
+      <item value="Table Data Info" />
+      <item value="page" />
+      <item value="Examine Search Filter" />
+      <item value="param String" />
+      <item value="Object paramObject;" />
+      <item value="Status Process Engine" />
+      <item value="获取当前物料入库的所有审批信息" />
+      <item value="search Filter" />
+      <item value="list" />
+      <item value="examine" />
+      <item value="get Examine List" />
+      <item value="param Object" />
+      <item value="examine Mag Instrument Service" />
+      <item value="start Page" />
+      <item value="FORBIDDEN" />
+      <item value="Juergen Hoeller" />
+      <item value="Rob Harrop" />
+      <item value="Chris Beams" />
+      <item value="Rossen Stoyanchev" />
+      <item value="Rod Johnson" />
+      <item value="Central dispatcher for HTTP request handlerscontrollers, e.g. for web UI controllers or HTTP-based remote service exporters. Dispatches to registered handlers for processing a web request, providing convenient mapping and exception handling facilities. &lt;p&gt;This servlet is very flexible: It can be used with just about any workflow, with the installation of the appropriate adapter classes. It offers the following functionality that distinguishes it from other request-driven web MVC frameworks: &lt;ul&gt; &lt;li&gt;It is based around a JavaBeans configuration mechanism. &lt;li&gt;It can use any {@link HandlerMapping} implementation - pre-built or provided as part of an application - to control the routing of requests to handler objects. Default is {@link org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping} and {@link org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping}. HandlerMapping objects can be defined as beans in the servlet's application context, implementing the HandlerMapping interface, overriding the default HandlerMapping if present. HandlerMappings can be given any bean name (they are tested by type). &lt;li&gt;It can use any {@link HandlerAdapter}; this allows for using any handler interface. Default adapters are {@link org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter}, {@link org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter}, for Spring's {@link org.springframework.web.HttpRequestHandler} and {@link org.springframework.web.servlet.mvc.Controller} interfaces, respectively. A default {@link org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter} will be registered as well. HandlerAdapter objects can be added as beans in the application context, overriding the default HandlerAdapters. Like HandlerMappings, HandlerAdapters can be given any bean name (they are tested by type). &lt;li&gt;The dispatcher's exception resolution strategy can be specified via a {@link HandlerExceptionResolver}, for example mapping certain exceptions to error pages. Default are {@link org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver}, {@link org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver}, and {@link org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver}. These HandlerExceptionResolvers can be overridden through the application context. HandlerExceptionResolver can be given any bean name (they are tested by type). &lt;li&gt;Its view resolution strategy can be specified via a {@link ViewResolver} implementation, resolving symbolic view names into View objects. Default is {@link org.springframework.web.servlet.view.InternalResourceViewResolver}. ViewResolver objects can be added as beans in the application context, overriding the default ViewResolver. ViewResolvers can be given any bean name (they are tested by type). &lt;li&gt;If a {@link View} or view name is not supplied by the user, then the configured {@link RequestToViewNameTranslator} will translate the current request into a view name. The corresponding bean name is &quot;viewNameTranslator&quot;; the default is {@link org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator}. &lt;li&gt;The dispatcher's strategy for resolving multipart requests is determined by a {@link org.springframework.web.multipart.MultipartResolver} implementation. Implementations for Apache Commons FileUpload and Servlet 3 are included; the typical choice is {@link org.springframework.web.multipart.commons.CommonsMultipartResolver}. The MultipartResolver bean name is &quot;multipartResolver&quot;; default is none. &lt;li&gt;Its locale resolution strategy is determined by a {@link LocaleResolver}. Out-of-the-box implementations work via HTTP accept header, cookie, or session. The LocaleResolver bean name is &quot;localeResolver&quot;; default is {@link org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver}. &lt;li&gt;Its theme resolution strategy is determined by a {@link ThemeResolver}. Implementations for a fixed theme and for cookie and session storage are included. The ThemeResolver bean name is &quot;themeResolver&quot;; default is {@link org.springframework.web.servlet.theme.FixedThemeResolver}. &lt;ul&gt; &lt;p&gt;&lt;b&gt;NOTE: The {@code @RequestMapping} annotation will only be processed if a corresponding {@code HandlerMapping} (for type-level annotations) andor {@code HandlerAdapter} (for method-level annotations) is present in the dispatcher.&lt;b&gt; This is the case by default. However, if you are defining custom {@code HandlerMappings} or {@code HandlerAdapters}, then you need to make sure that a corresponding custom {@code RequestMappingHandlerMapping} andor {@code RequestMappingHandlerAdapter} is defined as well - provided that you intend to use {@code @RequestMapping}. &lt;p&gt;&lt;b&gt;A web application can define any number of DispatcherServlets.&lt;b&gt; Each servlet will operate in its own namespace, loading its own application context with mappings, handlers, etc. Only the root application context as loaded by {@link org.springframework.web.context.ContextLoaderListener}, if any, will be shared. &lt;p&gt;As of Spring 3.1, {@code DispatcherServlet} may now be injected with a web application context, rather than creating its own internally. This is useful in Servlet 3.0+ environments, which support programmatic registration of servlet instances. See the {@link DispatcherServlet(WebApplicationContext)} javadoc for details." />
+      <item value="Framework Servlet" />
+      <item value="springframework" />
+      <item value="Charset must not be null" />
+      <item value="Illegal Argument Exception" />
+      <item value="throws" />
+      <item value="return" />
+      <item value="charset" />
+      <item value="source" />
+      <item value="encoded" />
+      <item value="String" />
+      <item value="character" />
+      <item value="the" />
+      <item value="value" />
+      <item value="decoded" />
+      <item value="decode" />
+      <item value="URL Decoder" />
+      <item value="uri Decode" />
       <item value="current Act Id" />
       <item value="get Nick Name" />
       <item value="login User" />
       <item value="parse Object" />
-      <item value="get User" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
-      <item value="submit Object" />
-      <item value="target Object" />
-      <item value="login User Nick Name" />
-      <item value="login User Name" />
-      <item value="最后应该存在数据库中的" />
-      <item value="save Attachment Ids" />
-      <item value="票据文书申请流程的接口" />
-      <item value="987072248" />
-      <item value="parameter Map" />
-      <item value="is Not Empty" />
-      <item value="Objects" />
-      <item value="non Null" />
-      <item value="get Data Table" />
-      <item value="lambda" />
-      <item value="order By Desc" />
-      <item value="base Mapper" />
-      <item value="Thread Per Task Executor" />
-      <item value="Async Executions" />
-      <item value="Atomic Reference Field Updater" />
-      <item value="Completion Stage" />
-      <item value="Completable Future" />
-      <item value="关联表单row Id" />
-      <item value="需要进行哪种存储" />
-      <item value="is Empty" />
-      <item value="String Utils" />
-      <item value="global Submit Form Row Id" />
-      <item value="examine Mag Instrument Relationship Service" />
-      <item value="Service Impl" />
-      <item value="Examine Mag Instrument Relationship Service Impl" />
-      <item value="Examine Mag Instrument Relationship Mapper" />
-      <item value="async Store Entered Mag Instrument Data" />
-      <item value="entered Instrument Json List" />
-      <item value="insert" />
-      <item value="examine Mag Instrument Relationship Mapper" />
-      <item value="Custom Exception" />
-      <item value="form Id" />
-      <item value="examine mag instrument" />
-      <item value="Examine Mag Instrument" />
-      <item value="act Name" />
-      <item value="act Id" />
-      <item value="devlop service" />
-      <item value="bean" />
-      <item value="Illegal State Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5960" />
-        <entry key="ENGLISH" value="5961" />
+        <entry key="CHINESE" value="6014" />
+        <entry key="ENGLISH" value="6014" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
+        <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="4" />
         <entry key="POLISH" value="7" />
         <entry key="AFRIKAANS" value="8" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="RUSSIAN" value="5" />
         <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="6" />
@@ -79,7 +80,8 @@
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="4" />
         <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="LUXEMBOURGISH" value="2" />
+        <entry key="KINYARWANDA" value="2" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAYALAM" value="1" />
