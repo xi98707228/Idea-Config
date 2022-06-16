@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="relation List" />
+      <item value="set Is End" />
+      <item value="submit Object" />
+      <item value="target Object" />
+      <item value="save Attachment Ids" />
       <item value="dispatcher Servlet" />
       <item value="Dispatcher Servlet" />
       <item value="INFO" />
@@ -50,16 +55,11 @@
       <item value="character" />
       <item value="the" />
       <item value="value" />
-      <item value="decoded" />
-      <item value="decode" />
-      <item value="URL Decoder" />
-      <item value="uri Decode" />
-      <item value="current Act Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6016" />
-        <entry key="ENGLISH" value="6017" />
+        <entry key="CHINESE" value="6021" />
+        <entry key="ENGLISH" value="6022" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
