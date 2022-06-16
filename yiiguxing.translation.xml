@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Instances of this class support both reading and writing to a random access file. A random access file behaves like a large array of bytes stored in the file system. There is a kind of cursor, or index into the implied array, called the &lt;em&gt;file pointer&lt;em&gt;; input operations read bytes starting at the file pointer and advance the file pointer past the bytes read. If the random access file is created in readwrite mode, then output operations are also available; output operations write bytes starting at the file pointer and advance the file pointer past the bytes written. Output operations that write past the current end of the implied array cause the array to be extended. The file pointer can be read by the {@code getFilePointer} method and set by the {@code seek} method. &lt;p&gt; It is generally true of all the reading routines in this class that if end-of-file is reached before the desired number of bytes has been read, an {@code EOFException} (which is a kind of {@code IOException}) is thrown. If any byte cannot be read for any reason other than end-of-file, an {@code IOException} other than {@code EOFException} is thrown. In particular, an {@code IOException} may be thrown if the stream has been closed." />
+      <item value="Random Access File" />
       <item value="devlop service" />
       <item value="bean" />
       <item value="Illegal State Exception" />
@@ -53,13 +55,11 @@
       <item value="extracted" />
       <item value="search Filter" />
       <item value="K Queue" />
-      <item value="availability" />
-      <item value="Should be always called with true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5904" />
-        <entry key="ENGLISH" value="5904" />
+        <entry key="CHINESE" value="5905" />
+        <entry key="ENGLISH" value="5906" />
         <entry key="ALBANIAN" value="5" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
