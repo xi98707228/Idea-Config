@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="update Project Name Execute Method" />
+      <item value="Returns {@code true} if the arguments are equal to each other and {@code false} otherwise. Consequently, if both arguments are {@code null}, {@code true} is returned and if exactly one argument is {@code null}, {@code false} is returned. Otherwise, equality is determined by using the {@link Objectequals equals} method of the first argument. @param a an object @param b an object to be compared with {@code a} for equality @return {@code true} if the arguments are equal to each other and {@code false} otherwise @see Objectequals(Object)" />
+      <item value="987072248" />
+      <item value="rollback For" />
+      <item value="Exception" />
+      <item value="customer" />
+      <item value="modify Project Data Vo" />
+      <item value="Transactional" />
+      <item value="这个接口仅支持修改操作" />
       <item value="optional" />
       <item value="物料入库审批" />
       <item value="RELEASE" />
@@ -44,22 +53,13 @@
       <item value="param" />
       <item value="date" />
       <item value="author" />
-      <item value="987072248" />
       <item value="parameter Map" />
       <item value="参数" />
-      <item value="票据文书申请流程的接口" />
-      <item value="Table Data Info" />
-      <item value="page" />
-      <item value="Examine Search Filter" />
-      <item value="param String" />
-      <item value="Object paramObject;" />
-      <item value="Status Process Engine" />
-      <item value="获取当前物料入库的所有审批信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6046" />
-        <entry key="ENGLISH" value="6047" />
+        <entry key="CHINESE" value="6056" />
+        <entry key="ENGLISH" value="6057" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
