@@ -5,10 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="async Really Operate Store Data" />
       <item value="work order id" />
+      <item value="SELECT" />
+      <item value="from user id" />
+      <item value="order type" />
+      <item value="fault type" />
+      <item value="from user name" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="select List" />
       <item value="customer Name" />
       <item value="payment way" />
-      <item value="Preparing" />
       <item value="V Order Statistics" />
       <item value="special Statistics Search Filter" />
       <item value="group By Customer Name Data Map" />
@@ -47,19 +55,11 @@
       <item value="master" />
       <item value="devlop service" />
       <item value="order Asc Sorted Contract List" />
-      <item value="get Upload Time" />
-      <item value="Custom Contract File Relation" />
-      <item value="Validator" />
-      <item value="transport" />
-      <item value="iter Pc" />
-      <item value="Druid Abstract Data Source" />
-      <item value="[INFO] ------------------------------------------------------------------------" />
-      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6209" />
-        <entry key="ENGLISH" value="6210" />
+        <entry key="CHINESE" value="6222" />
+        <entry key="ENGLISH" value="6223" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
