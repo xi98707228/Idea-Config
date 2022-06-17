@@ -5,14 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="v Order Statistics Service" />
+      <item value="special Statistics Search Filter" />
+      <item value="non Null" />
+      <item value="V Order Statistics" />
+      <item value="group By Customer Name Data Map" />
+      <item value="success" />
+      <item value="Instantiation Exception" />
       <item value="get Work Order Special Statistics" />
       <item value="param Object" />
-      <item value="V Order Statistics" />
       <item value="time Segment Order List" />
       <item value="Objects" />
-      <item value="non Null" />
-      <item value="special Statistics Search Filter" />
-      <item value="group By Customer Name Data Map" />
       <item value="grouping By" />
       <item value="special" />
       <item value="workorder" />
@@ -52,14 +55,11 @@
       <item value="Trigger HeartBeatReaction" />
       <item value="LifeCycle Perfect" />
       <item value="heartbeat Reaction" />
-      <item value="volatile" />
-      <item value="hearth" />
-      <item value="设置进Redis中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6194" />
-        <entry key="ENGLISH" value="6195" />
+        <entry key="CHINESE" value="6201" />
+        <entry key="ENGLISH" value="6202" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
@@ -98,7 +98,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="10" />
+        <entry key="ITALIAN" value="13" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
         <entry key="JAVANESE" value="1" />
