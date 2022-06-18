@@ -1,114 +1,42 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="623" />
-    <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Creates the directory named by this abstract pathname. @return &lt;code&gt;true&lt;code&gt; if and only if the directory was created; &lt;code&gt;false&lt;code&gt; otherwise @throws SecurityException If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method does not permit the named directory to be cre" />
-      <item value="Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories." />
-      <item value="canonicalize" />
-      <item value="MAX ENTRIES" />
-      <item value="Expiring Cache" />
-      <item value="Keep canonicalization caches in sync after file deletion and renaming operations. Could be more clever than this (i.e., only removeupdate affected entries) but probably not worth it since these entries expire after 30 seconds anyway." />
-      <item value="is Invalid" />
-      <item value="Renames the file denoted by this abstract pathname. &lt;p&gt; Many aspects of the behavior of this method are inherently platform-dependent: The rename operation might not be able to move a file from one filesystem to another, it might not be atomic, and it might not succeed if a file with the destination abstract pathname already exists. The return value should always be checked to make sure that the rename operation was successful." />
-      <item value="each path" />
-      <item value="Make Directories" />
-      <item value="usage" />
-      <item value="primary Source" />
-      <item value="Tests if a specified file should be included in a file list. @param dir the directory in which the file was found. @param name the name of the file. @return &lt;code&gt;true&lt;code&gt; if and only if the name should be included in the file list; &lt;code&gt;false&lt;code&gt; otherwise." />
-      <item value="this" />
-      <item value="Strip path information:" />
-      <item value="Server Socket" />
-      <item value="Instances of this class support both reading and writing to a random access file. A random access file behaves like a large array of bytes stored in the file system. There is a kind of cursor, or index into the implied array, called the &lt;em&gt;file pointer&lt;em&gt;; input operations read bytes starting at the file pointer and advance the file pointer past the bytes read. If the random access file is created in readwrite mode, then output operations are also available; output operations write bytes starting at the file pointer and advance the file pointer past the bytes written. Output operations that write past the current end of the implied array cause the array to be extended. The file pointer can be read by the {@code getFilePointer} method and set by the {@code seek} method. &lt;p&gt; It is generally true of all the reading routines in this class that if end-of-file is reached before the desired number of bytes has been read, an {@code EOFException} (which is a kind of {@code IOException}) is thrown. If any byte cannot be read for any reason other than end-of-file, an {@code IOException} other than {@code EOFException} is thrown. In particular, an {@code IOException} may be thrown if the stream has been closed." />
-      <item value="Random Access File" />
-      <item value="devlop service" />
-      <item value="bean" />
-      <item value="Illegal State Exception" />
-      <item value="refresh" />
-      <item value="finish Bean Factory Initialization" />
-      <item value="Abstract Application Context" />
-      <item value="object Field Offset" />
-      <item value="Atomically increments by one the current value." />
-      <item value="result Sequence" />
-      <item value="sequence Type" />
-      <item value="get" />
-      <item value="Resource" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="Application Context" />
-      <item value="Hot Refresh" />
-      <item value="sequence Map" />
-      <item value="Concurrent Hash Map" />
-      <item value="full Add Count" />
-      <item value="Counted Completer" />
-      <item value="Map Reduce Mappings To Int Task" />
-      <item value="Unsafe mechanics" />
-      <item value="获取下一个编号" />
-      <item value="return" />
-      <item value="next Add Number" />
-      <item value="initial Internal Number" />
-      <item value="redis Cache" />
-      <item value="custom Contract Cost Record Service" />
-      <item value="finance Cost Order Service" />
-      <item value="CONTRACT NUMBER REDIS KEY" />
-      <item value="Atomic Integer" />
-      <item value="Constant" />
-      <item value="next Peek Number" />
+      <item value="available" />
+      <item value="ckage" />
+      <item value="Test Eof" />
+      <item value="Skip a leftover '\n', if necessary" />
+      <item value="David Connelly" />
+      <item value="Jonathan Payne" />
+      <item value="The position within the pushback buffer from which the next byte will be read. When the buffer is empty, &lt;code&gt;pos&lt;code&gt; is equal to &lt;code&gt;buf.length&lt;code&gt;; when the buffer is full, &lt;code&gt;pos&lt;code&gt; is equal to zero." />
+      <item value="unread" />
+      <item value="Pushback Input Stream" />
+      <item value="If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file" />
+      <item value="If an IO error occurred" />
+      <item value="&lt;code&gt;true&lt;code&gt; if the named file does not exist and was successfully created; &lt;code&gt;false&lt;code&gt; if the named file already exists" />
+      <item value="Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist. The check for the existence of the file and the creation of the file if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the file. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The {@link java.nio.channels.FileLock FileLock} facility should be used instead. @return &lt;code&gt;true&lt;code&gt; if the named file does not exist and was successfully created; &lt;code&gt;false&lt;code&gt; if the named file already exists @throws IOException If an IO error occurred @throws SecurityException If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file @since 1.2" />
+      <item value="Ho Hum Exception" />
+      <item value="Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist. The check for the existence of the file and the creation of the file if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the file. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The {@link java.nio.channels.FileLock FileLock} facility should be used instead." />
+      <item value="Creates the directory named by this abstract pathname." />
+      <item value="Deletes the file or directory denoted by this abstract pathname. If this pathname denotes a directory, then the directory must be empty in order to be deleted." />
+      <item value="Tests whether the file or directory denoted by this abstract pathname exists." />
+      <item value="again" />
+      <item value="Flushable" />
+      <item value="Track both the text- and character-output streams, so that their buffers can be flushed without flushing the entire stream." />
+      <item value="The underlying output stream to be filtered." />
+      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
+      <item value="Snmp Table Cache" />
+      <item value="Jvm RT Class Path Table Meta Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5922" />
-        <entry key="ENGLISH" value="5923" />
-        <entry key="ALBANIAN" value="5" />
-        <entry key="ARABIC" value="1" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="4" />
-        <entry key="POLISH" value="7" />
-        <entry key="AFRIKAANS" value="8" />
-        <entry key="DANISH" value="10" />
-        <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="4" />
-        <entry key="FRENCH" value="8" />
-        <entry key="FILIPINO" value="2" />
-        <entry key="FINNISH" value="6" />
-        <entry key="FRISIAN" value="3" />
-        <entry key="HAITIAN_CREOLE" value="8" />
-        <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="7" />
-        <entry key="CATALAN" value="1" />
-        <entry key="KURDISH" value="4" />
-        <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="7" />
-        <entry key="MALTESE" value="1" />
-        <entry key="MALAYALAM" value="1" />
-        <entry key="BENGALI" value="1" />
-        <entry key="HMONG" value="4" />
-        <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="9" />
-        <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="6" />
-        <entry key="SAMOAN" value="5" />
-        <entry key="SESOTHO" value="3" />
-        <entry key="SLOVAK" value="5" />
-        <entry key="SLOVENIAN" value="3" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="SPANISH" value="2" />
-        <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="7" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="5" />
-        <entry key="JAVANESE" value="1" />
-        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655083072785" />
-  </component>
-  <component name="Settings">
-    <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1655556977798" />
   </component>
 </application>
