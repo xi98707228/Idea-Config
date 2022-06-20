@@ -1,45 +1,116 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Random Access File Factory" />
-      <item value="Factory" />
-      <item value="read Unsigned Byte" />
-      <item value="available" />
-      <item value="ckage" />
-      <item value="Test Eof" />
-      <item value="Skip a leftover '\n', if necessary" />
-      <item value="David Connelly" />
-      <item value="Jonathan Payne" />
-      <item value="The position within the pushback buffer from which the next byte will be read. When the buffer is empty, &lt;code&gt;pos&lt;code&gt; is equal to &lt;code&gt;buf.length&lt;code&gt;; when the buffer is full, &lt;code&gt;pos&lt;code&gt; is equal to zero." />
-      <item value="unread" />
-      <item value="Pushback Input Stream" />
-      <item value="If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file" />
-      <item value="If an IO error occurred" />
-      <item value="&lt;code&gt;true&lt;code&gt; if the named file does not exist and was successfully created; &lt;code&gt;false&lt;code&gt; if the named file already exists" />
-      <item value="Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist. The check for the existence of the file and the creation of the file if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the file. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The {@link java.nio.channels.FileLock FileLock} facility should be used instead. @return &lt;code&gt;true&lt;code&gt; if the named file does not exist and was successfully created; &lt;code&gt;false&lt;code&gt; if the named file already exists @throws IOException If an IO error occurred @throws SecurityException If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file @since 1.2" />
-      <item value="Ho Hum Exception" />
-      <item value="Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist. The check for the existence of the file and the creation of the file if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the file. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The {@link java.nio.channels.FileLock FileLock} facility should be used instead." />
-      <item value="Creates the directory named by this abstract pathname." />
-      <item value="Deletes the file or directory denoted by this abstract pathname. If this pathname denotes a directory, then the directory must be empty in order to be deleted." />
-      <item value="Tests whether the file or directory denoted by this abstract pathname exists." />
-      <item value="again" />
-      <item value="Flushable" />
-      <item value="Track both the text- and character-output streams, so that their buffers can be flushed without flushing the entire stream." />
-      <item value="The underlying output stream to be filtered." />
-      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
-      <item value="Snmp Table Cache" />
-      <item value="Jvm RT Class Path Table Meta Impl" />
+      <item value="current Act Name" />
+      <item value="process Inst Id" />
+      <item value="active" />
+      <item value="following" />
+      <item value="sys User In Applet Mapper" />
+      <item value="Mapper Factory Bean" />
+      <item value="Skipping" />
+      <item value="Class Path Mapper Scanner" />
+      <item value="Develop Client Application" />
+      <item value="Version" />
+      <item value="RELEASE" />
+      <item value="preinit" />
+      <item value="Validator" />
+      <item value="Hibernate" />
+      <item value="HV 000001" />
+      <item value="clinit" />
+      <item value="target" />
+      <item value="默认关闭" />
+      <item value="Kqueue Provider" />
+      <item value="without" />
+      <item value="optional" />
+      <item value="Parameters" />
+      <item value="socket" />
+      <item value="Jwt Authentication Token Filter" />
+      <item value="jwt Authentication Token Filter" />
+      <item value="Servlet" />
+      <item value="Starting" />
+      <item value="Standard Engine" />
+      <item value="Tomcat" />
+      <item value="Apache" />
+      <item value="engine" />
+      <item value="dept id" />
+      <item value="select Dept By Id" />
+      <item value="DEBUG" />
+      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
+      <item value="Druid Abstract Data Source" />
+      <item value="sequence Number Generic" />
+      <item value="get User Name" />
+      <item value="no lock when adding to empty bin" />
+      <item value="Sequence Type" />
+      <item value="get Store Redis Key" />
+      <item value="save Attachment Ids" />
+      <item value="transport" />
+      <item value="business Key" />
+      <item value="get One" />
+      <item value="examine Borrow Money Service" />
+      <item value="examine Mag Instrument Service" />
+      <item value="get Examine List" />
+      <item value="Examine Personal Reimbursement" />
+      <item value="sequence Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
-        <entry key="HMONG" value="1" />
+        <entry key="CHINESE" value="6427" />
+        <entry key="ENGLISH" value="6428" />
+        <entry key="ALBANIAN" value="7" />
+        <entry key="ARABIC" value="1" />
+        <entry key="BASQUE" value="1" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="ICELANDIC" value="5" />
+        <entry key="POLISH" value="7" />
+        <entry key="AFRIKAANS" value="8" />
+        <entry key="DANISH" value="10" />
+        <entry key="GERMAN" value="14" />
+        <entry key="RUSSIAN" value="5" />
+        <entry key="FRENCH" value="8" />
+        <entry key="FILIPINO" value="2" />
+        <entry key="FINNISH" value="6" />
+        <entry key="FRISIAN" value="3" />
+        <entry key="HAITIAN_CREOLE" value="9" />
+        <entry key="HAUSA" value="1" />
+        <entry key="DUTCH" value="8" />
+        <entry key="CATALAN" value="1" />
+        <entry key="KURDISH" value="4" />
+        <entry key="LATIN" value="10" />
+        <entry key="LUXEMBOURGISH" value="3" />
+        <entry key="KINYARWANDA" value="2" />
+        <entry key="ROMANIAN" value="9" />
+        <entry key="MALTESE" value="1" />
+        <entry key="MALAYALAM" value="1" />
+        <entry key="BENGALI" value="1" />
+        <entry key="HMONG" value="4" />
+        <entry key="NORWEGIAN" value="9" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="6" />
+        <entry key="SAMOAN" value="5" />
+        <entry key="SESOTHO" value="3" />
+        <entry key="SLOVAK" value="5" />
+        <entry key="SLOVENIAN" value="3" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="GREEK" value="7" />
+        <entry key="ITALIAN" value="13" />
         <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="5" />
+        <entry key="JAVANESE" value="1" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655556977798" />
+    <option name="lastTrimTime" value="1655691013219" />
+  </component>
+  <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
