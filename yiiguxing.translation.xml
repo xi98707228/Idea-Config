@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="current Act Name" />
+      <item value="process Inst Id" />
       <item value="active" />
       <item value="following" />
       <item value="sys User In Applet Mapper" />
@@ -53,13 +55,11 @@
       <item value="get Examine List" />
       <item value="Examine Personal Reimbursement" />
       <item value="sequence Type" />
-      <item value="SEQUENCE STORE MAP" />
-      <item value="set Cache Map Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6425" />
-        <entry key="ENGLISH" value="6426" />
+        <entry key="CHINESE" value="6427" />
+        <entry key="ENGLISH" value="6428" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
