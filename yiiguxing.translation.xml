@@ -5,19 +5,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fill User Name" />
+      <item value="contract name" />
+      <item value="contract id" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="save Submit Form Handle Procedure" />
       <item value="target Object" />
       <item value="examine Store Relationship Service" />
       <item value="执行更新" />
       <item value="判断流程是否是进行结束节点" />
       <item value="Develop Client Application" />
-      <item value="debug" />
       <item value="Preparing" />
       <item value="config id" />
       <item value="config key" />
       <item value="config value" />
       <item value="select" />
       <item value="config name" />
-      <item value="Parameters" />
       <item value="请先行添加物料编号规则" />
       <item value="Ruoyi Scheduler DESKTOP" />
       <item value="Quartz Scheduler" />
@@ -51,15 +55,11 @@
       <item value="the type of the class modeled by this {@code Class}" />
       <item value="get Wait Handle Examine List" />
       <item value="examine Task Service" />
-      <item value="handle Reflection Exception" />
-      <item value="MODE THREADLOCAL" />
-      <item value="MODE INHERITABLETHREADLOCAL" />
-      <item value="Ben Alex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6317" />
-        <entry key="ENGLISH" value="6318" />
+        <entry key="CHINESE" value="6324" />
+        <entry key="ENGLISH" value="6325" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
