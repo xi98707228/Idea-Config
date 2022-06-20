@@ -5,10 +5,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="add Item Bean" />
-      <item value="resolve Store Json Data List" />
-      <item value="Reference Pipeline" />
+      <item value="Ruoyi Scheduler DESKTOP" />
+      <item value="Quartz Scheduler" />
+      <item value="parse Object" />
+      <item value="Simple Async Uncaught Exception Handler" />
+      <item value="real time refresh" />
+      <item value="real time flush" />
+      <item value="heartbeat Reaction" />
+      <item value="init Table Fields" />
+      <item value="socket" />
+      <item value="init Handler Methods" />
+      <item value="store Relationship" />
+      <item value="examine Row Id" />
       <item value="String" />
+      <item value="examine Mag Instrument Service" />
+      <item value="resolve Store Json Data List" />
+      <item value="add Item Bean" />
+      <item value="Reference Pipeline" />
       <item value="get Examine Instrument Info" />
       <item value="DEBUG" />
       <item value="select List COUNT" />
@@ -18,8 +31,6 @@
       <item value="test Connection Internal" />
       <item value="审批表单信息" />
       <item value="审批表单row Id" />
-      <item value="examine Row Id" />
-      <item value="examine Mag Instrument Service" />
       <item value="result Form Data" />
       <item value="store Relationship Data List" />
       <item value="Examine Store Relationship" />
@@ -44,22 +55,11 @@
       <item value="更新物料数据" />
       <item value="update Spare Instrument" />
       <item value="data Base Store By Old Data" />
-      <item value="data Base Store Old Data" />
-      <item value="update Only Article Inventory For Mag Instrument" />
-      <item value="update Only Mag Instrument For Article Inventory" />
-      <item value="update Only Mag Instrument To Article Inventory" />
-      <item value="mag Spare Instrument Service" />
-      <item value="update Mag Spare Instrument" />
-      <item value="store Json" />
-      <item value="新增的物料数据" />
-      <item value="Examine Mag Instrument Part" />
-      <item value="false" />
-      <item value="new Add Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6282" />
-        <entry key="ENGLISH" value="6283" />
+        <entry key="CHINESE" value="6299" />
+        <entry key="ENGLISH" value="6298" />
         <entry key="ALBANIAN" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
@@ -107,7 +107,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655083072785" />
+    <option name="lastTrimTime" value="1655691013219" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
