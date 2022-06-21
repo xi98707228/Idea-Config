@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="use Where" />
+      <item value="reimbursement Type" />
+      <item value="source Order Name" />
+      <item value="unpark" />
+      <item value="Caller Sensitive" />
+      <item value="native" />
+      <item value="SECONDARY" />
+      <item value="Time Zone Name Provider" />
+      <item value="Lock Support" />
+      <item value="Abstract Ownable Synchronizer" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="Stamped Lock" />
       <item value="resolver" />
       <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
       <item value="init Handler Methods" />
@@ -43,23 +55,11 @@
       <item value="Starting" />
       <item value="Standard Engine" />
       <item value="Tomcat" />
-      <item value="Apache" />
-      <item value="engine" />
-      <item value="dept id" />
-      <item value="select Dept By Id" />
-      <item value="DEBUG" />
-      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
-      <item value="Druid Abstract Data Source" />
-      <item value="sequence Number Generic" />
-      <item value="get User Name" />
-      <item value="no lock when adding to empty bin" />
-      <item value="Sequence Type" />
-      <item value="get Store Redis Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6436" />
-        <entry key="ENGLISH" value="6436" />
+        <entry key="CHINESE" value="6450" />
+        <entry key="ENGLISH" value="6451" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
