@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cost Order account" />
+      <item value="init Handler Methods" />
+      <item value="Engine Proc Userorg" />
+      <item value="engine Proc User Org List" />
+      <item value="Async Uncaught Exception Handler" />
+      <item value="Async Annotation Advisor" />
+      <item value="Unsafe mechanics" />
+      <item value="put Ordered Object" />
+      <item value="lazy Set Next" />
+      <item value="compare And Swap Object" />
+      <item value="try Push Stack" />
+      <item value="Returns {@code true} if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return {@code true}. @return {@code true} if this task completed" />
+      <item value="may Interrupt If Running" />
+      <item value="A {@code Future} represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method {@code get} when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the {@code cancel} method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a {@code Future} for the sake of cancellability but not provide a usable result, you can declare types of the form {@code Future&lt;?&gt;} and return {@code null} as a result of the underlying task. &lt;p&gt; &lt;b&gt;Sample Usage&lt;b&gt; (Note that the following classes are all made-up.) &lt;pre&gt; {@code interface ArchiveSearcher { String search(String target); } class App { ExecutorService executor = ... ArchiveSearcher searcher = ... void showSearch(final String target) throws InterruptedException { Future&lt;String&gt; future = executor.submit(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); displayOtherThings(); do other things while searching try { displayText(future.get()); use future } catch (ExecutionException ex) { cleanup(); return; } } }}&lt;pre&gt; The {@link FutureTask} class is an implementation of {@code Future} that implements {@code Runnable}, and so may be executed by an {@code Executor}. For example, the above construction with {@code submit} could be replaced by: &lt;pre&gt; {@code FutureTask&lt;String&gt; future = new FutureTask&lt;String&gt;(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); executor.execute(future);}&lt;pre&gt; &lt;p&gt;Memory consistency effects: Actions taken by the asynchronous computation &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt; &lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions following the corresponding {@code Future.get()} in another thread." />
+      <item value="Runnable Future" />
+      <item value="See the internal documentation of class ForkJoinPool for a general implementation overview. ForkJoinTasks are mainly responsible for maintaining their &quot;status&quot; field amidst relays to methods in ForkJoinWorkerThread and ForkJoinPool. The methods of this class are more-or-less layered into (1) basic status maintenance (2) execution and awaiting completion (3) user-level methods that additionally report results. This is sometimes hard to see because this file orders exported methods in a way that flows well in javadocs. The status field holds run control status bits packed into a single int to minimize footprint and to ensure atomicity (via CAS). Status is initially zero, and takes on nonnegative values until completed, upon which status (anded with DONE_MASK) holds value NORMAL, CANCELLED, or EXCEPTIONAL. Tasks undergoing blocking waits by other threads have the SIGNAL bit set. Completion of a stolen task with SIGNAL set awakens any waiters via notifyAll. Even though suboptimal for some purposes, we use basic builtin waitnotify to take advantage of &quot;monitor inflation&quot; in JVMs that we would otherwise need to emulate to avoid adding further per-task bookkeeping overhead. We want these monitors to be &quot;fat&quot;, i.e., not use biasing or thin-lock techniques, so use some odd coding idioms that tend to avoid them, mainly by arranging that every synchronized block performs a wait, notifyAll or both. These control bits occupy only (some of) the upper half (16 bits) of status field. The lower bits are used for user-defined tags." />
+      <item value="Fork Join Task" />
+      <item value="Fork Join Pool" />
+      <item value="Bi Relay" />
+      <item value="Recursively constructs a tree of completions." />
+      <item value="async Update Reimbursement Relationship Data List" />
+      <item value="examine Personal Reimbursement Service" />
+      <item value="target Object" />
       <item value="init Table Fields" />
       <item value="transport" />
       <item value="Examine Store Reimbursement Relationship" />
@@ -23,43 +46,20 @@
       <item value="Mybatis Default Parameter Handler" />
       <item value="set Attachment Result Ids" />
       <item value="save Attachment Ids" />
-      <item value="target Object" />
       <item value="String Scope Utils" />
       <item value="Bean Utils" />
       <item value="set Update Time" />
       <item value="set Act Id" />
       <item value="更新流程表单数据操作" />
-      <item value="examine Personal Reimbursement Service" />
       <item value="set Act Name" />
       <item value="copy Properties" />
       <item value="handler Ids Concat String" />
       <item value="get By Id" />
-      <item value="current Act Id" />
-      <item value="current Act Name" />
-      <item value="login User" />
-      <item value="async Store Reimbursement Relationship Data List" />
-      <item value="Runtime Exception" />
-      <item value="Default Transaction Attribute" />
-      <item value="Defines zero (0) or more exception {@link Class classes}, which must be subclasses of {@link Throwable}, indicating which exception types must cause a transaction rollback. &lt;p&gt;By default, a transaction will be rolling back on {@link RuntimeException} and {@link Error} but not on checked exceptions (business exceptions). See {@link org.springframework.transaction.interceptor.DefaultTransactionAttributerollbackOn(Throwable)} for a detailed explanation. &lt;p&gt;This is the preferred way to construct a rollback rule (in contrast to {@link rollbackForClassName}), matching the exception class and its subclasses. &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttributeRollbackRuleAttribute(Class clazz)}. @see rollbackForClassName @see org.springframework.transaction.interceptor.DefaultTransactionAttributerollbackOn(Throwable)" />
-      <item value="is Candidate Class" />
-      <item value="luxiaolei" />
-      <item value="Sync Finisher" />
-      <item value="Completion Stage" />
-      <item value="public Stage" />
-      <item value="Update" />
-      <item value="login User Nick Name" />
-      <item value="bill Number" />
-      <item value="reimbursement Type" />
-      <item value="source Order Id" />
-      <item value="use Where" />
-      <item value="source Order Name" />
-      <item value="unpark" />
-      <item value="Caller Sensitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6513" />
-        <entry key="ENGLISH" value="6514" />
+        <entry key="CHINESE" value="6535" />
+        <entry key="ENGLISH" value="6536" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
