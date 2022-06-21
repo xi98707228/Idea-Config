@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Examine Store Reimbursement Relationship" />
       <item value="Hibernate" />
       <item value="HV 000001" />
       <item value="socket" />
@@ -15,7 +16,6 @@
       <item value="Validator" />
       <item value="address" />
       <item value="examine Store Reimbursement Relationship Service" />
-      <item value="Examine Store Reimbursement Relationship" />
       <item value="Exception" />
       <item value="前端参数异常" />
       <item value="JSON Token" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6510" />
-        <entry key="ENGLISH" value="6511" />
+        <entry key="CHINESE" value="6511" />
+        <entry key="ENGLISH" value="6512" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
