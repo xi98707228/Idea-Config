@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="luxiaolei" />
+      <item value="Sync Finisher" />
+      <item value="Completion Stage" />
+      <item value="public Stage" />
+      <item value="Update" />
+      <item value="login User Nick Name" />
       <item value="bill Number" />
       <item value="reimbursement Type" />
       <item value="source Order Id" />
@@ -49,17 +55,11 @@
       <item value="Kqueue Provider" />
       <item value="without" />
       <item value="optional" />
-      <item value="Parameters" />
-      <item value="socket" />
-      <item value="Jwt Authentication Token Filter" />
-      <item value="jwt Authentication Token Filter" />
-      <item value="Servlet" />
-      <item value="Starting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6452" />
-        <entry key="ENGLISH" value="6453" />
+        <entry key="CHINESE" value="6459" />
+        <entry key="ENGLISH" value="6458" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
