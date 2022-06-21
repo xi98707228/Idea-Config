@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
+      <item value="Jabber Client Thread" />
+      <item value="Buffered Reader" />
+      <item value="Method called by {@link com.fasterxml.jackson.core.JsonFactory} instance when creating parser given an {@link Reader}, when this decorator has been registered. @param ctxt IO context in use (provides access to declared encoding) NOTE: at this point context may not have all information initialized; specifically auto-detected encoding is only available once parsing starts, which may occur only after this method is called. @param r Original reader @return Reader to use; either passed in argument, or something that calls it (for example, a {@link FilterReader}) @throws IOException if construction of {@link Reader} fails" />
+      <item value="Pushback Reader" />
+      <item value="is Java Identifier Part" />
+      <item value="Java Writer" />
+      <item value="Filter Writer" />
+      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
+      <item value="Non Closing Output Stream" />
+      <item value="Appendable" />
+      <item value="is Underflow" />
+      <item value="Expunge a stale entry by rehashing any possibly colliding entries lying between staleSlot and the next null slot. This also expunges any other stale entries encountered before the trailing null. See Knuth, Section 6.4 @param staleSlot index of slot known to have null key @return the index of the next null slot after staleSlot (all between staleSlot and this slot will have been checked for expunging)." />
+      <item value="expunge Stale Entry" />
+      <item value="impl Write" />
       <item value="Stream Decoder" />
       <item value="Win 32 Error Mode" />
       <item value="for Input Stream Reader" />
@@ -36,20 +51,11 @@
       <item value="Ho Hum Exception" />
       <item value="Atomically creates a new, empty file named by this abstract pathname if and only if a file with this name does not yet exist. The check for the existence of the file and the creation of the file if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the file. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The {@link java.nio.channels.FileLock FileLock} facility should be used instead." />
       <item value="Creates the directory named by this abstract pathname." />
-      <item value="Deletes the file or directory denoted by this abstract pathname. If this pathname denotes a directory, then the directory must be empty in order to be deleted." />
-      <item value="Tests whether the file or directory denoted by this abstract pathname exists." />
-      <item value="again" />
-      <item value="Flushable" />
-      <item value="Track both the text- and character-output streams, so that their buffers can be flushed without flushing the entire stream." />
-      <item value="The underlying output stream to be filtered." />
-      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
-      <item value="Snmp Table Cache" />
-      <item value="Jvm RT Class Path Table Meta Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
       </map>
