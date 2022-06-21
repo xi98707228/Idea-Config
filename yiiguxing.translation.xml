@@ -5,6 +5,33 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="examine Store Reimbursement Relationship Service" />
+      <item value="Examine Store Reimbursement Relationship" />
+      <item value="Exception" />
+      <item value="前端参数异常" />
+      <item value="JSON Token" />
+      <item value="Mybatis Default Parameter Handler" />
+      <item value="set Attachment Result Ids" />
+      <item value="save Attachment Ids" />
+      <item value="target Object" />
+      <item value="String Scope Utils" />
+      <item value="Bean Utils" />
+      <item value="set Update Time" />
+      <item value="set Act Id" />
+      <item value="更新流程表单数据操作" />
+      <item value="examine Personal Reimbursement Service" />
+      <item value="set Act Name" />
+      <item value="copy Properties" />
+      <item value="handler Ids Concat String" />
+      <item value="get By Id" />
+      <item value="current Act Id" />
+      <item value="current Act Name" />
+      <item value="login User" />
+      <item value="async Store Reimbursement Relationship Data List" />
+      <item value="Runtime Exception" />
+      <item value="Default Transaction Attribute" />
+      <item value="Defines zero (0) or more exception {@link Class classes}, which must be subclasses of {@link Throwable}, indicating which exception types must cause a transaction rollback. &lt;p&gt;By default, a transaction will be rolling back on {@link RuntimeException} and {@link Error} but not on checked exceptions (business exceptions). See {@link org.springframework.transaction.interceptor.DefaultTransactionAttributerollbackOn(Throwable)} for a detailed explanation. &lt;p&gt;This is the preferred way to construct a rollback rule (in contrast to {@link rollbackForClassName}), matching the exception class and its subclasses. &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttributeRollbackRuleAttribute(Class clazz)}. @see rollbackForClassName @see org.springframework.transaction.interceptor.DefaultTransactionAttributerollbackOn(Throwable)" />
+      <item value="is Candidate Class" />
       <item value="luxiaolei" />
       <item value="Sync Finisher" />
       <item value="Completion Stage" />
@@ -28,38 +55,11 @@
       <item value="resolver" />
       <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
       <item value="init Handler Methods" />
-      <item value="really" />
-      <item value="realy" />
-      <item value="reimbursement" />
-      <item value="param Object" />
-      <item value="start Page" />
-      <item value="user In Applet Wxwork Service" />
-      <item value="current Act Name" />
-      <item value="process Inst Id" />
-      <item value="active" />
-      <item value="following" />
-      <item value="sys User In Applet Mapper" />
-      <item value="Mapper Factory Bean" />
-      <item value="Skipping" />
-      <item value="Class Path Mapper Scanner" />
-      <item value="Develop Client Application" />
-      <item value="Version" />
-      <item value="RELEASE" />
-      <item value="preinit" />
-      <item value="Validator" />
-      <item value="Hibernate" />
-      <item value="HV 000001" />
-      <item value="clinit" />
-      <item value="target" />
-      <item value="默认关闭" />
-      <item value="Kqueue Provider" />
-      <item value="without" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6459" />
-        <entry key="ENGLISH" value="6458" />
+        <entry key="CHINESE" value="6500" />
+        <entry key="ENGLISH" value="6501" />
         <entry key="ALBANIAN" value="7" />
         <entry key="ARABIC" value="1" />
         <entry key="BASQUE" value="1" />
