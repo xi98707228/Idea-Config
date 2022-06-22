@@ -1,116 +1,67 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="623" />
-    <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="cost Order account" />
-      <item value="init Handler Methods" />
-      <item value="Engine Proc Userorg" />
-      <item value="engine Proc User Org List" />
-      <item value="Async Uncaught Exception Handler" />
-      <item value="Async Annotation Advisor" />
-      <item value="Unsafe mechanics" />
-      <item value="put Ordered Object" />
-      <item value="lazy Set Next" />
-      <item value="compare And Swap Object" />
-      <item value="try Push Stack" />
-      <item value="Returns {@code true} if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return {@code true}. @return {@code true} if this task completed" />
-      <item value="may Interrupt If Running" />
-      <item value="A {@code Future} represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method {@code get} when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the {@code cancel} method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a {@code Future} for the sake of cancellability but not provide a usable result, you can declare types of the form {@code Future&lt;?&gt;} and return {@code null} as a result of the underlying task. &lt;p&gt; &lt;b&gt;Sample Usage&lt;b&gt; (Note that the following classes are all made-up.) &lt;pre&gt; {@code interface ArchiveSearcher { String search(String target); } class App { ExecutorService executor = ... ArchiveSearcher searcher = ... void showSearch(final String target) throws InterruptedException { Future&lt;String&gt; future = executor.submit(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); displayOtherThings(); do other things while searching try { displayText(future.get()); use future } catch (ExecutionException ex) { cleanup(); return; } } }}&lt;pre&gt; The {@link FutureTask} class is an implementation of {@code Future} that implements {@code Runnable}, and so may be executed by an {@code Executor}. For example, the above construction with {@code submit} could be replaced by: &lt;pre&gt; {@code FutureTask&lt;String&gt; future = new FutureTask&lt;String&gt;(new Callable&lt;String&gt;() { public String call() { return searcher.search(target); }}); executor.execute(future);}&lt;pre&gt; &lt;p&gt;Memory consistency effects: Actions taken by the asynchronous computation &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt; &lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions following the corresponding {@code Future.get()} in another thread." />
-      <item value="Runnable Future" />
-      <item value="See the internal documentation of class ForkJoinPool for a general implementation overview. ForkJoinTasks are mainly responsible for maintaining their &quot;status&quot; field amidst relays to methods in ForkJoinWorkerThread and ForkJoinPool. The methods of this class are more-or-less layered into (1) basic status maintenance (2) execution and awaiting completion (3) user-level methods that additionally report results. This is sometimes hard to see because this file orders exported methods in a way that flows well in javadocs. The status field holds run control status bits packed into a single int to minimize footprint and to ensure atomicity (via CAS). Status is initially zero, and takes on nonnegative values until completed, upon which status (anded with DONE_MASK) holds value NORMAL, CANCELLED, or EXCEPTIONAL. Tasks undergoing blocking waits by other threads have the SIGNAL bit set. Completion of a stolen task with SIGNAL set awakens any waiters via notifyAll. Even though suboptimal for some purposes, we use basic builtin waitnotify to take advantage of &quot;monitor inflation&quot; in JVMs that we would otherwise need to emulate to avoid adding further per-task bookkeeping overhead. We want these monitors to be &quot;fat&quot;, i.e., not use biasing or thin-lock techniques, so use some odd coding idioms that tend to avoid them, mainly by arranging that every synchronized block performs a wait, notifyAll or both. These control bits occupy only (some of) the upper half (16 bits) of status field. The lower bits are used for user-defined tags." />
-      <item value="Fork Join Task" />
-      <item value="Fork Join Pool" />
-      <item value="Bi Relay" />
-      <item value="Recursively constructs a tree of completions." />
-      <item value="async Update Reimbursement Relationship Data List" />
-      <item value="examine Personal Reimbursement Service" />
-      <item value="target Object" />
-      <item value="init Table Fields" />
-      <item value="transport" />
-      <item value="Examine Store Reimbursement Relationship" />
-      <item value="Hibernate" />
-      <item value="HV 000001" />
-      <item value="socket" />
-      <item value="background" />
-      <item value="INFO" />
-      <item value="Version" />
-      <item value="Validator" />
-      <item value="address" />
-      <item value="examine Store Reimbursement Relationship Service" />
-      <item value="Exception" />
-      <item value="前端参数异常" />
-      <item value="JSON Token" />
-      <item value="Mybatis Default Parameter Handler" />
-      <item value="set Attachment Result Ids" />
-      <item value="save Attachment Ids" />
-      <item value="String Scope Utils" />
-      <item value="Bean Utils" />
-      <item value="set Update Time" />
-      <item value="set Act Id" />
-      <item value="更新流程表单数据操作" />
-      <item value="set Act Name" />
-      <item value="copy Properties" />
-      <item value="handler Ids Concat String" />
-      <item value="get By Id" />
+      <item value="The &lt;code&gt;DataOutput&lt;code&gt; interface provides for converting data from any of the Java primitive types to a series of bytes and writing these bytes to a binary stream. There is also a facility for converting a &lt;code&gt;String&lt;code&gt; into &lt;a href=&quot;DataInput.htmlmodified-utf-8&quot;&gt;modified UTF-8&lt;a&gt; format and writing the resulting series of bytes. &lt;p&gt; For all the methods in this interface that write bytes, it is generally true that if a byte cannot be written for any reason, an &lt;code&gt;IOException&lt;code&gt; is thrown." />
+      <item value="Data Input Stream" />
+      <item value="Frank Yellin" />
+      <item value="A data input stream lets an application read primitive Java data types from an underlying input stream in a machine-independent way. An application uses a data output stream to write data that can later be read by a data input stream. &lt;p&gt; DataInputStream is not necessarily safe for multithreaded access. Thread safety is optional and is the responsibility of users of methods in this class." />
+      <item value="accept" />
+      <item value="Jabber Client Thread" />
+      <item value="Buffered Reader" />
+      <item value="Method called by {@link com.fasterxml.jackson.core.JsonFactory} instance when creating parser given an {@link Reader}, when this decorator has been registered. @param ctxt IO context in use (provides access to declared encoding) NOTE: at this point context may not have all information initialized; specifically auto-detected encoding is only available once parsing starts, which may occur only after this method is called. @param r Original reader @return Reader to use; either passed in argument, or something that calls it (for example, a {@link FilterReader}) @throws IOException if construction of {@link Reader} fails" />
+      <item value="Pushback Reader" />
+      <item value="is Java Identifier Part" />
+      <item value="Java Writer" />
+      <item value="Filter Writer" />
+      <item value="This class is the superclass of all classes that filter output streams. These streams sit on top of an already existing output stream (the &lt;i&gt;underlying&lt;i&gt; output stream) which it uses as its basic sink of data, but possibly transforming the data along the way or providing additional functionality. &lt;p&gt; The class &lt;code&gt;FilterOutputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;OutputStream&lt;code&gt; with versions that pass all requests to the underlying output stream. Subclasses of &lt;code&gt;FilterOutputStream&lt;code&gt; may further override some of these methods as well as provide additional methods and fields." />
+      <item value="Non Closing Output Stream" />
+      <item value="Appendable" />
+      <item value="is Underflow" />
+      <item value="Expunge a stale entry by rehashing any possibly colliding entries lying between staleSlot and the next null slot. This also expunges any other stale entries encountered before the trailing null. See Knuth, Section 6.4 @param staleSlot index of slot known to have null key @return the index of the next null slot after staleSlot (all between staleSlot and this slot will have been checked for expunging)." />
+      <item value="expunge Stale Entry" />
+      <item value="impl Write" />
+      <item value="Stream Decoder" />
+      <item value="Win 32 Error Mode" />
+      <item value="for Input Stream Reader" />
+      <item value="remaining" />
+      <item value="The object used to synchronize operations on this stream. For efficiency, a character-stream object may use an object other than itself to protect critical sections. A subclass should therefore use the object in this field rather than &lt;tt&gt;this&lt;tt&gt; or a synchronized method." />
+      <item value="Mark Reinhold" />
+      <item value="try Acquire Shared Nanos" />
+      <item value="release" />
+      <item value="Not quite a no-op; ensures volatile write semantics" />
+      <item value="A thread-safe variant of {@link java.util.ArrayList} in which all mutative operations ({@code add}, {@code set}, and so on) are implemented by making a fresh copy of the underlying array. &lt;p&gt;This is ordinarily too costly, but may be &lt;em&gt;more&lt;em&gt; efficient than alternatives when traversal operations vastly outnumber mutations, and is useful when you cannot or don't want to synchronize traversals, yet need to preclude interference among concurrent threads. The &quot;snapshot&quot; style iterator method uses a reference to the state of the array at the point that the iterator was created. This array never changes during the lifetime of the iterator, so interference is impossible and the iterator is guaranteed not to throw {@code ConcurrentModificationException}. The iterator will not reflect additions, removals, or changes to the list since the iterator was created. Element-changing operations on iterators themselves ({@code remove}, {@code set}, and {@code add}) are not supported. These methods throw {@code UnsupportedOperationException}. &lt;p&gt;All elements are permitted, including {@code null}. &lt;p&gt;Memory consistency effects: As with other concurrent collections, actions in a thread prior to placing an object into a {@code CopyOnWriteArrayList} &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions subsequent to the access or removal of that element from the {@code CopyOnWriteArrayList} in another thread. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
+      <item value="get Component Type" />
+      <item value="Buffer" />
+      <item value="Char Buffer" />
+      <item value="Readable" />
+      <item value="seek" />
+      <item value="poiniter" />
+      <item value="Random Access File Factory" />
+      <item value="Factory" />
+      <item value="read Unsigned Byte" />
+      <item value="available" />
+      <item value="ckage" />
+      <item value="Test Eof" />
+      <item value="Skip a leftover '\n', if necessary" />
+      <item value="David Connelly" />
+      <item value="Jonathan Payne" />
+      <item value="The position within the pushback buffer from which the next byte will be read. When the buffer is empty, &lt;code&gt;pos&lt;code&gt; is equal to &lt;code&gt;buf.length&lt;code&gt;; when the buffer is full, &lt;code&gt;pos&lt;code&gt; is equal to zero." />
+      <item value="unread" />
+      <item value="Pushback Input Stream" />
+      <item value="If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file" />
+      <item value="If an IO error occurred" />
+      <item value="&lt;code&gt;true&lt;code&gt; if the named file does not exist and was successfully created; &lt;code&gt;false&lt;code&gt; if the named file already exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6535" />
-        <entry key="ENGLISH" value="6536" />
-        <entry key="ALBANIAN" value="7" />
-        <entry key="ARABIC" value="1" />
-        <entry key="BASQUE" value="1" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="6" />
-        <entry key="POLISH" value="7" />
-        <entry key="AFRIKAANS" value="8" />
-        <entry key="DANISH" value="10" />
-        <entry key="GERMAN" value="14" />
-        <entry key="RUSSIAN" value="5" />
-        <entry key="FRENCH" value="8" />
-        <entry key="FILIPINO" value="2" />
-        <entry key="FINNISH" value="6" />
-        <entry key="FRISIAN" value="3" />
-        <entry key="HAITIAN_CREOLE" value="9" />
-        <entry key="HAUSA" value="1" />
-        <entry key="DUTCH" value="8" />
-        <entry key="CATALAN" value="1" />
-        <entry key="KURDISH" value="4" />
-        <entry key="LATIN" value="10" />
-        <entry key="LUXEMBOURGISH" value="3" />
-        <entry key="KINYARWANDA" value="2" />
-        <entry key="ROMANIAN" value="9" />
-        <entry key="MALTESE" value="1" />
-        <entry key="MALAYALAM" value="1" />
-        <entry key="BENGALI" value="1" />
-        <entry key="HMONG" value="4" />
-        <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="10" />
-        <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="6" />
-        <entry key="SAMOAN" value="5" />
-        <entry key="SESOTHO" value="3" />
-        <entry key="SLOVAK" value="5" />
-        <entry key="SLOVENIAN" value="3" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="SPANISH" value="2" />
-        <entry key="GREEK" value="7" />
-        <entry key="ITALIAN" value="13" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="5" />
-        <entry key="JAVANESE" value="1" />
-        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655691013219" />
-  </component>
-  <component name="Settings">
-    <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1655556977798" />
   </component>
 </application>
