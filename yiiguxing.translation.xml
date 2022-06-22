@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取意见列表" />
       <item value="personal Reimbursement Data" />
       <item value="The &lt;code&gt;DataOutput&lt;code&gt; interface provides for converting data from any of the Java primitive types to a series of bytes and writing these bytes to a binary stream. There is also a facility for converting a &lt;code&gt;String&lt;code&gt; into &lt;a href=&quot;DataInput.htmlmodified-utf-8&quot;&gt;modified UTF-8&lt;a&gt; format and writing the resulting series of bytes. &lt;p&gt; For all the methods in this interface that write bytes, it is generally true that if a byte cannot be written for any reason, an &lt;code&gt;IOException&lt;code&gt; is thrown." />
       <item value="Data Input Stream" />
@@ -50,11 +51,10 @@
       <item value="unread" />
       <item value="Pushback Input Stream" />
       <item value="If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method denies write access to the file" />
-      <item value="If an IO error occurred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
