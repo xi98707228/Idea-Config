@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trying to read the doubles after the line produces an end-of-file exception:" />
+      <item value="Read the lines of text:" />
+      <item value="The doubles written BEFORE the line of text read back correctly:" />
+      <item value="Signals that an end of file or end of stream has been reached unexpectedly during input. &lt;p&gt; This exception is mainly used by data input streams to signal end of stream. Note that many other input operations return a special value on end of stream rather than throwing an exception." />
+      <item value="EOF Exception" />
       <item value="ISO-8859-1" />
       <item value="Input Stream" />
       <item value="An InputStreamReader is a bridge from byte streams to character streams: It reads bytes and decodes them into characters using a specified {@link java.nio.charset.Charset charset}. The charset that it uses may be specified by name or may be given explicitly, or the platform's default charset may be accepted. &lt;p&gt; Each invocation of one of an InputStreamReader's read() methods may cause one or more bytes to be read from the underlying byte-input stream. To enable the efficient conversion of bytes to characters, more bytes may be read ahead from the underlying stream than are necessary to satisfy the current read operation. &lt;p&gt; For top efficiency, consider wrapping an InputStreamReader within a BufferedReader. For example:" />
@@ -46,16 +51,11 @@
       <item value="read Unsigned Byte" />
       <item value="available" />
       <item value="ckage" />
-      <item value="Test Eof" />
-      <item value="Skip a leftover '\n', if necessary" />
-      <item value="David Connelly" />
-      <item value="Jonathan Payne" />
-      <item value="The position within the pushback buffer from which the next byte will be read. When the buffer is empty, &lt;code&gt;pos&lt;code&gt; is equal to &lt;code&gt;buf.length&lt;code&gt;; when the buffer is full, &lt;code&gt;pos&lt;code&gt; is equal to zero." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
       </map>
