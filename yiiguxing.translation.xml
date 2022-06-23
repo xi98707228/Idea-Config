@@ -1,12 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avatar" />
+      <item value="select All V User" />
+      <item value="get System Core Users" />
+      <item value="I Sys Role Service" />
+      <item value="logistics Number" />
+      <item value="logistics Company" />
+      <item value="source Order Id" />
+      <item value="leader User Nick" />
+      <item value="leader User Name" />
       <item value="remakes" />
       <item value="contract Number" />
       <item value="sequence Number" />
       <item value="invoice Number" />
       <item value="Json Format" />
-      <item value="logistics Number" />
       <item value="leader User" />
       <item value="物流公司" />
       <item value="try Handle Pending" />
@@ -43,19 +51,11 @@
       <item value="Access Control Context" />
       <item value="Privileged Action" />
       <item value="Hierarchical Bean Factory" />
-      <item value="Configurable Bean Factory" />
-      <item value="Singleton Bean Registry" />
-      <item value="set Autowire Candidate Resolver" />
-      <item value="javax Inject Provider Class" />
-      <item value="Provider" />
-      <item value="Configurable Listable Bean Factory" />
-      <item value="get Bean Factory" />
-      <item value="Abstract Application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
