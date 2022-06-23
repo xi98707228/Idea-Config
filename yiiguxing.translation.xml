@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Product Custom Contract Relationship" />
+      <item value="row Id" />
+      <item value="primitive" />
+      <item value="representing" />
+      <item value="Class" />
       <item value="value" />
       <item value="minimum" />
       <item value="MIN VALUE" />
@@ -46,16 +51,11 @@
       <item value="Resource Bundle" />
       <item value="String Manager" />
       <item value="select Dict Data By Type" />
-      <item value="The two possible authentication types for a resource." />
-      <item value="Authentication Type" />
-      <item value="Finance Sell Invoice Relationship" />
-      <item value="ID WORKER STR" />
-      <item value="Propagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
