@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remakes" />
+      <item value="contract Number" />
+      <item value="sequence Number" />
+      <item value="invoice Number" />
+      <item value="Json Format" />
+      <item value="logistics Number" />
+      <item value="leader User" />
+      <item value="物流公司" />
       <item value="try Handle Pending" />
       <item value="Treated specially by GC" />
       <item value="A Reference instance is in one of four possible internal states: Active: Subject to special treatment by the garbage collector. Some time after the collector detects that the reachability of the referent has changed to the appropriate state, it changes the instance's state to either Pending or Inactive, depending upon whether or not the instance was registered with a queue when it was created. In the former case it also adds the instance to the pending-Reference list. Newly-created instances are Active. Pending: An element of the pending-Reference list, waiting to be enqueued by the Reference-handler thread. Unregistered instances are never in this state. Enqueued: An element of the queue with which the instance was registered when it was created. When an instance is removed from its ReferenceQueue, it is made Inactive. Unregistered instances are never in this state. Inactive: Nothing more to do. Once an instance becomes Inactive its state will never change again. The state is encoded in the queue and next fields as follows: Active: queue = ReferenceQueue with which instance is registered, or ReferenceQueue.NULL if it was not registered with a queue; next = null. Pending: queue = ReferenceQueue with which instance is registered; next = this Enqueued: queue = ReferenceQueue.ENQUEUED; next = Following instance in queue, or this if at end of list. Inactive: queue = ReferenceQueue.NULL; next = this. With this scheme the collector need only examine the next field in order to determine whether a Reference instance requires special treatment: If the next field is null then the instance is active; if it is non-null, then the collector should treat the instance normally. To ensure that a concurrent collector can discover active Reference objects without interfering with application threads that may apply the enqueue() method to those objects, collectors should link discovered objects through the discovered field. The discovered field is also used for linking Reference objects in the pending list." />
@@ -22,7 +30,6 @@
       <item value="Authentication Type" />
       <item value="Finance Sell Invoice Relationship" />
       <item value="ID WORKER STR" />
-      <item value="sequence Number" />
       <item value="Propagation" />
       <item value="rollback For" />
       <item value="Exception" />
@@ -44,18 +51,11 @@
       <item value="Configurable Listable Bean Factory" />
       <item value="get Bean Factory" />
       <item value="Abstract Application Context" />
-      <item value="Context Closed Event" />
-      <item value="Eagerly load the ContextClosedEvent class to avoid weird classloader issues on application shutdown in WebLogic 8.1. (Reported by Dustin Woods.)" />
-      <item value="Protocol Resolver" />
-      <item value="No thread context class loader -&gt; use class loader of this class." />
-      <item value="get Caller Class" />
-      <item value="get Context Class Loader" />
-      <item value="Abstract Refreshable Config Application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
