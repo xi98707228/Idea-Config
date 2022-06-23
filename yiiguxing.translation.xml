@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="try Handle Pending" />
+      <item value="Treated specially by GC" />
+      <item value="A Reference instance is in one of four possible internal states: Active: Subject to special treatment by the garbage collector. Some time after the collector detects that the reachability of the referent has changed to the appropriate state, it changes the instance's state to either Pending or Inactive, depending upon whether or not the instance was registered with a queue when it was created. In the former case it also adds the instance to the pending-Reference list. Newly-created instances are Active. Pending: An element of the pending-Reference list, waiting to be enqueued by the Reference-handler thread. Unregistered instances are never in this state. Enqueued: An element of the queue with which the instance was registered when it was created. When an instance is removed from its ReferenceQueue, it is made Inactive. Unregistered instances are never in this state. Inactive: Nothing more to do. Once an instance becomes Inactive its state will never change again. The state is encoded in the queue and next fields as follows: Active: queue = ReferenceQueue with which instance is registered, or ReferenceQueue.NULL if it was not registered with a queue; next = null. Pending: queue = ReferenceQueue with which instance is registered; next = this Enqueued: queue = ReferenceQueue.ENQUEUED; next = Following instance in queue, or this if at end of list. Inactive: queue = ReferenceQueue.NULL; next = this. With this scheme the collector need only examine the next field in order to determine whether a Reference instance requires special treatment: If the next field is null then the instance is active; if it is non-null, then the collector should treat the instance normally. To ensure that a concurrent collector can discover active Reference objects without interfering with application threads that may apply the enqueue() method to those objects, collectors should link discovered objects through the discovered field. The discovered field is also used for linking Reference objects in the pending list." />
+      <item value="Soft Reference" />
+      <item value="String Coding" />
+      <item value="Historically Named Charset" />
+      <item value="is System Domain Loader" />
+      <item value="misc" />
+      <item value="do Privileged" />
+      <item value="cs" />
+      <item value="bug Level" />
+      <item value="Privileged Exception Action" />
+      <item value="Access Controller" />
       <item value="select List COUNT" />
       <item value="Resource Bundle" />
       <item value="String Manager" />
@@ -19,7 +32,6 @@
       <item value="set Use Caches" />
       <item value="Given a URL that refers to a .properties file, load that file. This is done under an AccessController so that this method will succeed when this jarfile is privileged but the caller is not. This method must therefore remain private to avoid security issues. &lt;p&gt; {@code Null} is returned if the URL cannot be opened." />
       <item value="get Properties" />
-      <item value="do Privileged" />
       <item value="destroy Bean" />
       <item value="Access Control Context" />
       <item value="Privileged Action" />
@@ -39,23 +51,11 @@
       <item value="get Caller Class" />
       <item value="get Context Class Loader" />
       <item value="Abstract Refreshable Config Application Context" />
-      <item value="load Bean Definitions" />
-      <item value="validating" />
-      <item value="Abstract Xml Application Context" />
-      <item value="Persistence Exception Translation Interceptor" />
-      <item value="True Class Filter" />
-      <item value="Advice" />
-      <item value="Thread-local instance of bea" />
-      <item value="{@link ThreadLocal} subclass that exposes a specified name as {@link toString()} result (allowing for introspection)." />
-      <item value="Thread Local Target Source" />
-      <item value="Abstract Pointcut Advisor" />
-      <item value="Copies an array from the specified source array, beginning at the specified position, to the specified position of the destination array. A subsequence of array components are copied from the source array referenced by &lt;code&gt;src&lt;code&gt; to the destination array referenced by &lt;code&gt;dest&lt;code&gt;. The number of components copied is equal to the &lt;code&gt;length&lt;code&gt; argument. The components at positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; in the source array are copied into positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+length-1&lt;code&gt;, respectively, of the destination array. &lt;p&gt; If the &lt;code&gt;src&lt;code&gt; and &lt;code&gt;dest&lt;code&gt; arguments refer to the same array object, then the copying is performed as if the components at positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; were first copied to a temporary array with &lt;code&gt;length&lt;code&gt; components and then the contents of the temporary array were copied into positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+length-1&lt;code&gt; of the destination array. &lt;p&gt; If &lt;code&gt;dest&lt;code&gt; is &lt;code&gt;null&lt;code&gt;, then a &lt;code&gt;NullPointerException&lt;code&gt; is thrown. &lt;p&gt; If &lt;code&gt;src&lt;code&gt; is &lt;code&gt;null&lt;code&gt;, then a &lt;code&gt;NullPointerException&lt;code&gt; is thrown and the destination array is not modified. &lt;p&gt; Otherwise, if any of the following is true, an &lt;code&gt;ArrayStoreException&lt;code&gt; is thrown and the destination is not modified: &lt;ul&gt; &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an object that is not an array. &lt;li&gt;The &lt;code&gt;dest&lt;code&gt; argument refers to an object that is not an array. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument and &lt;code&gt;dest&lt;code&gt; argument refer to arrays whose component types are different primitive types. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an array with a primitive component type and the &lt;code&gt;dest&lt;code&gt; argument refers to an array with a reference component type. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an array with a reference component type and the &lt;code&gt;dest&lt;code&gt; argument refers to an array with a primitive component type. &lt;ul&gt; &lt;p&gt; Otherwise, if any of the following is true, an &lt;code&gt;IndexOutOfBoundsException&lt;code&gt; is thrown and the destination is not modified: &lt;ul&gt; &lt;li&gt;The &lt;code&gt;srcPos&lt;code&gt; argument is negative. &lt;li&gt;The &lt;code&gt;destPos&lt;code&gt; argument is negative. &lt;li&gt;The &lt;code&gt;length&lt;code&gt; argument is negative. &lt;li&gt;&lt;code&gt;srcPos+length&lt;code&gt; is greater than &lt;code&gt;src.length&lt;code&gt;, the length of the source array. &lt;li&gt;&lt;code&gt;destPos+length&lt;code&gt; is greater than &lt;code&gt;dest.length&lt;code&gt;, the length of the destination array. &lt;ul&gt; &lt;p&gt; Otherwise, if any actual component of the source array from position &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; cannot be converted to the component type of the destination array by assignment conversion, an &lt;code&gt;ArrayStoreException&lt;code&gt; is thrown. In this case, let &lt;b&gt;&lt;i&gt;k&lt;i&gt;&lt;b&gt; be the smallest nonnegative integer less than length such that &lt;code&gt;src[srcPos+&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;]&lt;code&gt; cannot be converted to the component type of the destination array; when the exception is thrown, source array components from positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;-1&lt;code&gt; will already have been copied to destination array positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+&lt;code&gt;&lt;i&gt;k&lt;I&gt;&lt;code&gt;-1&lt;code&gt; and no other positions of the destination array will have been modified. (Because of the restrictions already itemized, this paragraph effectively applies only to the situation where both arrays have component types that are reference types.)" />
-      <item value="Clone Not Supported Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
