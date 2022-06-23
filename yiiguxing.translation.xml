@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="3 SSJU 371655957004654_Cluster Manager" />
+      <item value="compare And Set Wait Status" />
+      <item value="Makes available the permit for the given thread, if it was not already available. If the thread was blocked on {@code park} then it will unblock. Otherwise, its next call to {@code park} is guaranteed not to block. This operation is not guaranteed to have any effect at all if the given thread has not been started." />
+      <item value="unpark" />
+      <item value="transfer For Signal" />
+      <item value="Removes and transfers nodes until hit non-cancelled one or null. Split out from signal in part to encourage compilers to inline the case of no waiters. @param first (non-null) the first node on condition queue" />
+      <item value="unlink Cancelled Waiters" />
+      <item value="Used to establish initial head or SHARED marker" />
+      <item value="predecessor" />
+      <item value="is Shared" />
+      <item value="Craig" />
+      <item value="Wait queue node class. &lt;p&gt;The wait queue is a variant of a &quot;CLH&quot; (Craig, Landin, and Hagersten) lock queue. CLH locks are normally used for spinlocks. We instead use them for blocking synchronizers, but use the same basic tactic of holding some of the control information about a thread in the predecessor of its node. A &quot;status&quot; field in each node keeps track of whether a thread should block. A node is signalled when its predecessor releases. Each node of the queue otherwise serves as a specific-notification-style monitor holding a single waiting thread. The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend. So the currently released contender thread may need to rewait. &lt;p&gt;To enqueue into a CLH lock, you atomically splice it in as new tail. To dequeue, you just set the head field. &lt;pre&gt; +------+ prev +-----+ +-----+ head | | &lt;---- | | &lt;---- | | tail +------+ +-----+ +-----+ &lt;pre&gt; &lt;p&gt;Insertion into a CLH queue requires only a single atomic operation on &quot;tail&quot;, so there is a simple atomic point of demarcation from unqueued to queued. Similarly, dequeuing involves only updating the &quot;head&quot;. However, it takes a bit more work for nodes to determine who their successors are, in part to deal with possible cancellation due to timeouts and interrupts. &lt;p&gt;The &quot;prev&quot; links (not used in original CLH locks), are mainly needed to handle cancellation. If a node is cancelled, its successor is (normally) relinked to a non-cancelled predecessor. For explanation of similar mechanics in the case of spin locks, see the papers by Scott and Scherer at http:www.cs.rochester.eduuscottsynchronization &lt;p&gt;We also use &quot;next&quot; links to implement blocking mechanics. The thread id for each node is kept in its own node, so a predecessor signals the next node to wake up by traversing next link to determine which thread it is. Determination of successor must avoid races with newly queued nodes to set the &quot;next&quot; fields of their predecessors. This is solved when necessary by checking backwards from the atomically updated &quot;tail&quot; when a node's successor appears to be null. (Or, said differently, the next-links are an optimization so that we don't usually need a backward scan.) &lt;p&gt;Cancellation introduces some conservatism to the basic algorithms. Since we must poll for cancellation of other nodes, we can miss noticing whether a cancelled node is ahead or behind us. This is dealt with by always unparking successors upon cancellation, allowing them to stabilize on a new predecessor, unless we can identify an uncancelled predecessor who will carry this responsibility. &lt;p&gt;CLH queues need a dummy header node to get started. But we don't create them on construction, because it would be wasted effort if there is never contention. Instead, the node is constructed and head and tail pointers are set upon first contention. &lt;p&gt;Threads waiting on Conditions use the same nodes, but use an additional link. Conditions only need to link nodes in simple (non-concurrent) linked queues because they are only accessed when exclusively held. Upon await, a node is inserted into a condition queue. Upon signal, the node is transferred to the main queue. A special value of status field is used to mark which queue a node is on. &lt;p&gt;Thanks go to Dave Dice, Mark Moir, Victor Luchangco, Bill Scherer and Michael Scott, along with members of JSR-166 expert group, for helpful ideas, discussions, and critiques on the design of this class." />
+      <item value="Status field, taking on only the values: SIGNAL: The successor of this node is (or will soon be) blocked (via park), so the current node must unpark its successor when it releases or cancels. To avoid races, acquire methods must first indicate they need a signal, then retry the atomic acquire, and then, on failure, block. CANCELLED: This node is cancelled due to timeout or interrupt. Nodes never leave this state. In particular, a thread with cancelled node never again blocks. CONDITION: This node is currently on a condition queue. It will not be used as a sync queue node until transferred, at which time the status will be set to 0. (Use of this value here has nothing to do with the other uses of the field, but simplifies mechanics.) PROPAGATE: A releaseShared should be propagated to other nodes. This is set (for head node only) in doReleaseShared to ensure propagation continues, even if other operations have since intervened. 0: None of the above The values are arranged numerically to simplify use. Non-negative values mean that a node doesn't need to signal. So, most code doesn't need to check for particular values, just for sign. The field is initialized to 0 for normal sync nodes, and CONDITION for condition nodes. It is modified using CAS (or when possible, unconditional volatile writes)." />
+      <item value="transient" />
+      <item value="SHARED" />
+      <item value="self Interrupt" />
+      <item value="Setup to support compareAndSet. We need to natively implement this here: For the sake of permitting future enhancements, we cannot explicitly subclass AtomicInteger, which would be efficient and useful otherwise. So, as the lesser of evils, we natively implement using hotspot intrinsics API. And while we are at it, we do the same for other CASable fields (which could otherwise be done with atomic field updaters)." />
+      <item value="state Offset" />
+      <item value="compare And Set State" />
+      <item value="set Use Unfair Lock" />
+      <item value="Fnv Hash" />
+      <item value="use Local Session State" />
+      <item value="use Unfair Lock" />
+      <item value="Atomic Reference Field Updater" />
+      <item value="Atomic Long Field Updater" />
+      <item value="increment Cached Prepared Statement Hit Count" />
+      <item value="test On Borrow" />
+      <item value="jdbc Url" />
+      <item value="Druid Abstract Data Source" />
       <item value="Product Custom Contract Relationship" />
       <item value="row Id" />
       <item value="primitive" />
@@ -22,40 +52,12 @@
       <item value="select All V User" />
       <item value="get System Core Users" />
       <item value="I Sys Role Service" />
-      <item value="logistics Number" />
-      <item value="logistics Company" />
-      <item value="source Order Id" />
-      <item value="leader User Nick" />
-      <item value="leader User Name" />
-      <item value="remakes" />
-      <item value="contract Number" />
-      <item value="sequence Number" />
-      <item value="invoice Number" />
-      <item value="Json Format" />
-      <item value="leader User" />
-      <item value="物流公司" />
-      <item value="try Handle Pending" />
-      <item value="Treated specially by GC" />
-      <item value="A Reference instance is in one of four possible internal states: Active: Subject to special treatment by the garbage collector. Some time after the collector detects that the reachability of the referent has changed to the appropriate state, it changes the instance's state to either Pending or Inactive, depending upon whether or not the instance was registered with a queue when it was created. In the former case it also adds the instance to the pending-Reference list. Newly-created instances are Active. Pending: An element of the pending-Reference list, waiting to be enqueued by the Reference-handler thread. Unregistered instances are never in this state. Enqueued: An element of the queue with which the instance was registered when it was created. When an instance is removed from its ReferenceQueue, it is made Inactive. Unregistered instances are never in this state. Inactive: Nothing more to do. Once an instance becomes Inactive its state will never change again. The state is encoded in the queue and next fields as follows: Active: queue = ReferenceQueue with which instance is registered, or ReferenceQueue.NULL if it was not registered with a queue; next = null. Pending: queue = ReferenceQueue with which instance is registered; next = this Enqueued: queue = ReferenceQueue.ENQUEUED; next = Following instance in queue, or this if at end of list. Inactive: queue = ReferenceQueue.NULL; next = this. With this scheme the collector need only examine the next field in order to determine whether a Reference instance requires special treatment: If the next field is null then the instance is active; if it is non-null, then the collector should treat the instance normally. To ensure that a concurrent collector can discover active Reference objects without interfering with application threads that may apply the enqueue() method to those objects, collectors should link discovered objects through the discovered field. The discovered field is also used for linking Reference objects in the pending list." />
-      <item value="Soft Reference" />
-      <item value="String Coding" />
-      <item value="Historically Named Charset" />
-      <item value="is System Domain Loader" />
-      <item value="misc" />
-      <item value="do Privileged" />
-      <item value="cs" />
-      <item value="bug Level" />
-      <item value="Privileged Exception Action" />
-      <item value="Access Controller" />
-      <item value="select List COUNT" />
-      <item value="Resource Bundle" />
-      <item value="String Manager" />
-      <item value="select Dict Data By Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
+        <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
