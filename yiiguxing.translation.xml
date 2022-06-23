@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Bytes" />
+      <item value="span" />
+      <item value="select Config List" />
       <item value="avatar" />
       <item value="select All V User" />
       <item value="get System Core Users" />
@@ -48,14 +51,11 @@
       <item value="Given a URL that refers to a .properties file, load that file. This is done under an AccessController so that this method will succeed when this jarfile is privileged but the caller is not. This method must therefore remain private to avoid security issues. &lt;p&gt; {@code Null} is returned if the URL cannot be opened." />
       <item value="get Properties" />
       <item value="destroy Bean" />
-      <item value="Access Control Context" />
-      <item value="Privileged Action" />
-      <item value="Hierarchical Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="HMONG" value="1" />
