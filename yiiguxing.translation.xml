@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="describe" />
       <item value="product" />
       <item value="contract Id" />
       <item value="String" />
@@ -51,12 +52,11 @@
       <item value="set Use Unfair Lock" />
       <item value="Fnv Hash" />
       <item value="use Local Session State" />
-      <item value="use Unfair Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
