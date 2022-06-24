@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hibernate" />
+      <item value="Version" />
+      <item value="background" />
+      <item value="preinit" />
+      <item value="address" />
+      <item value="agent Key" />
+      <item value="product Name" />
+      <item value="row Id" />
+      <item value="File Item Stream Impl" />
+      <item value="File Size Limit Exceeded Exception" />
       <item value="product Price" />
       <item value="product Count" />
       <item value="Properties to be used in configuring a {@link MultipartConfigElement}. &lt;ul&gt; &lt;li&gt;{@link getLocation() location} specifies the directory where uploaded files will be stored. When not specified, a temporary directory will be used.&lt;li&gt; &lt;li&gt;{@link getMaxFileSize() max-file-size} specifies the maximum size permitted for uploaded files. The default is 1MB&lt;li&gt; &lt;li&gt;{@link getMaxRequestSize() max-request-size} specifies the maximum size allowed for {@literal multipartform-data} requests. The default is 10MB.&lt;li&gt; &lt;li&gt;{@link getFileSizeThreshold() file-size-threshold} specifies the size threshold after which files will be written to disk. The default is 0.&lt;li&gt; &lt;ul&gt;" />
@@ -10,7 +20,6 @@
       <item value="DEFAULT SIZE THRESHOLD" />
       <item value="Invalid Extension Exception" />
       <item value="assert Allowed" />
-      <item value="File Size Limit Exceeded Exception" />
       <item value="3 SSJU 371655957004654_Cluster Manager" />
       <item value="compare And Set Wait Status" />
       <item value="Makes available the permit for the given thread, if it was not already available. If the thread was blocked on {@code park} then it will unblock. Otherwise, its next call to {@code park} is guaranteed not to block. This operation is not guaranteed to have any effect at all if the given thread has not been started." />
@@ -41,25 +50,17 @@
       <item value="jdbc Url" />
       <item value="Druid Abstract Data Source" />
       <item value="Product Custom Contract Relationship" />
-      <item value="row Id" />
       <item value="primitive" />
       <item value="representing" />
-      <item value="Class" />
-      <item value="value" />
-      <item value="minimum" />
-      <item value="MIN VALUE" />
-      <item value="0 x 80000000" />
-      <item value="0 x 7 fffffff" />
-      <item value="indicated Amount" />
-      <item value="amount Collected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
@@ -67,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655556977798" />
+    <option name="lastTrimTime" value="1656033455862" />
   </component>
 </application>
