@@ -2,13 +2,21 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="product" />
+      <item value="contract Id" />
+      <item value="String" />
+      <item value="Path Variable" />
+      <item value="product Custom Contract Relationship Service" />
+      <item value="Product Custom Contract Relationship" />
+      <item value="agent Key" />
+      <item value="Product Relation Form Vo" />
+      <item value="保存合同关联的产品信息" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="Hibernate" />
       <item value="Version" />
       <item value="background" />
       <item value="preinit" />
       <item value="address" />
-      <item value="agent Key" />
       <item value="product Name" />
       <item value="row Id" />
       <item value="File Item Stream Impl" />
@@ -44,19 +52,11 @@
       <item value="Fnv Hash" />
       <item value="use Local Session State" />
       <item value="use Unfair Lock" />
-      <item value="Atomic Reference Field Updater" />
-      <item value="Atomic Long Field Updater" />
-      <item value="increment Cached Prepared Statement Hit Count" />
-      <item value="test On Borrow" />
-      <item value="jdbc Url" />
-      <item value="Druid Abstract Data Source" />
-      <item value="Product Custom Contract Relationship" />
-      <item value="primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
