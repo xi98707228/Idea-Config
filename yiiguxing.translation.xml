@@ -2,6 +2,44 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Property Change Support" />
+      <item value="capitalize" />
+      <item value="change First Character Case" />
+      <item value="has Length" />
+      <item value="on Startup" />
+      <item value="url Patterns" />
+      <item value="dispatcher Types" />
+      <item value="servlet Registration Beans" />
+      <item value="Dynamic Registration Bean" />
+      <item value="Functional Interface" />
+      <item value="Servlet Context Initializer" />
+      <item value="Exposable Servlet Endpoint" />
+      <item value="base Path" />
+      <item value="clean Base Path" />
+      <item value="Override" />
+      <item value="Servlet Exception" />
+      <item value="servlet Endpoint" />
+      <item value="Exposable Endpoint" />
+      <item value="Path Mapped Endpoint" />
+      <item value="Multipart Config" />
+      <item value="determine Name" />
+      <item value="Support classes for the open source scheduler &lt;a href=&quot;https:www.quartz-scheduler.org&quot;&gt;Quartz&lt;a&gt;, allowing to set up Quartz Schedulers, JobDetails and Triggers as beans in a Spring context. Also provides convenience classes for implementing Quartz Jobs." />
+      <item value="application Context" />
+      <item value="Servlet Component Registering Post Processor" />
+      <item value="Annotation Type Filter" />
+      <item value="annotation Type" />
+      <item value="Annotated Bean Definition" />
+      <item value="Bean Definition Builder" />
+      <item value="annotation" />
+      <item value="Web Listener Handler" />
+      <item value="builder" />
+      <item value="Servlet Component Handler" />
+      <item value="semi Automatic" />
+      <item value="add Sell Invoice Data Method" />
+      <item value="source Order Id" />
+      <item value="source Order Name" />
+      <item value="product Key" />
+      <item value="源单相关" />
       <item value="保存合同关联的产品信息" />
       <item value="return" />
       <item value="success" />
@@ -9,56 +47,19 @@
       <item value="; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'describe," />
       <item value="Constructor threw exception; nested exception is java.lang.NullPointerException: productCustomContractRelationships is marked non-null but is null" />
       <item value="productCustomContractRelationships is marked non-null but is null" />
-      <item value="product Key" />
       <item value="product Count" />
       <item value="product Amount" />
       <item value="product Unit Price" />
       <item value="product Name" />
       <item value="set Contract Name" />
-      <item value="proxy Row Id" />
-      <item value="contains Customer" />
-      <item value="未开票金额" />
-      <item value="set Already Invoice Amount" />
-      <item value="set Without Invoice Amount" />
-      <item value="save Contract Group" />
-      <item value="返回生成的project Id" />
-      <item value="link" />
-      <item value="此接口目前仅支持上传单一文件" />
-      <item value="call Upload Contract Group" />
-      <item value="upload Project Relation Contract File" />
-      <item value="product Custom Contract Relationship Service" />
-      <item value="Add Attribute" />
-      <item value="already Invoice Amount" />
-      <item value="without Invoice Amount" />
-      <item value="remakes" />
-      <item value="describe" />
-      <item value="product" />
-      <item value="contract Id" />
-      <item value="String" />
-      <item value="Path Variable" />
-      <item value="Product Custom Contract Relationship" />
-      <item value="agent Key" />
-      <item value="Product Relation Form Vo" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Hibernate" />
-      <item value="Version" />
-      <item value="background" />
-      <item value="preinit" />
-      <item value="address" />
-      <item value="row Id" />
-      <item value="File Item Stream Impl" />
-      <item value="File Size Limit Exceeded Exception" />
-      <item value="product Price" />
-      <item value="Properties to be used in configuring a {@link MultipartConfigElement}. &lt;ul&gt; &lt;li&gt;{@link getLocation() location} specifies the directory where uploaded files will be stored. When not specified, a temporary directory will be used.&lt;li&gt; &lt;li&gt;{@link getMaxFileSize() max-file-size} specifies the maximum size permitted for uploaded files. The default is 1MB&lt;li&gt; &lt;li&gt;{@link getMaxRequestSize() max-request-size} specifies the maximum size allowed for {@literal multipartform-data} requests. The default is 10MB.&lt;li&gt; &lt;li&gt;{@link getFileSizeThreshold() file-size-threshold} specifies the size threshold after which files will be written to disk. The default is 0.&lt;li&gt; &lt;ul&gt;" />
-      <item value="Standard Servlet Multipart Resolver" />
-      <item value="set Resolve Lazily" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
