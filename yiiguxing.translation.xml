@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="process Key" />
       <item value="Property Change Support" />
       <item value="capitalize" />
       <item value="change First Character Case" />
@@ -51,12 +52,11 @@
       <item value="product Amount" />
       <item value="product Unit Price" />
       <item value="product Name" />
-      <item value="set Contract Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
