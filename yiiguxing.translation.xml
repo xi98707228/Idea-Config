@@ -2,6 +2,21 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关联销售发票产品信息" />
+      <item value="product Invoice Relation Form Vo" />
+      <item value="sell Invoice" />
+      <item value="product" />
+      <item value="relation" />
+      <item value="agent Key" />
+      <item value="set Agent Key" />
+      <item value="select Mag Spare Instrument List" />
+      <item value="Custom Contract File Relation" />
+      <item value="is Not Empty" />
+      <item value="String Utils" />
+      <item value="change Sell Invoice Money Contract" />
+      <item value="sell Invoice Relationship" />
+      <item value="Product Sell Invoice Relationship" />
+      <item value="success" />
       <item value="with" />
       <item value="errors" />
       <item value="completed" />
@@ -37,26 +52,11 @@
       <item value="Servlet Component Registering Post Processor" />
       <item value="Annotation Type Filter" />
       <item value="annotation Type" />
-      <item value="Annotated Bean Definition" />
-      <item value="Bean Definition Builder" />
-      <item value="annotation" />
-      <item value="Web Listener Handler" />
-      <item value="builder" />
-      <item value="Servlet Component Handler" />
-      <item value="semi Automatic" />
-      <item value="add Sell Invoice Data Method" />
-      <item value="source Order Id" />
-      <item value="source Order Name" />
-      <item value="product Key" />
-      <item value="源单相关" />
-      <item value="保存合同关联的产品信息" />
-      <item value="return" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="393" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
