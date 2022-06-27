@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handler Ids Concat String" />
+      <item value="bean Dest" />
+      <item value="query Statstic Data By Apply Id" />
       <item value="get Orgname" />
       <item value="office Bg Examine" />
       <item value="handle Runtime Exception" />
@@ -49,14 +52,11 @@
       <item value="process Runed" />
       <item value="process Key" />
       <item value="Property Change Support" />
-      <item value="capitalize" />
-      <item value="change First Character Case" />
-      <item value="has Length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
