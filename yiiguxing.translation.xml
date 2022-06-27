@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="module" />
+      <item value="Changes" />
+      <item value="recompiling" />
+      <item value="detected" />
       <item value="source Order Id" />
       <item value="change Sell Invoice Money Contract" />
       <item value="update By Id" />
@@ -47,16 +52,11 @@
       <item value="Override" />
       <item value="Servlet Exception" />
       <item value="servlet Endpoint" />
-      <item value="Exposable Endpoint" />
-      <item value="Path Mapped Endpoint" />
-      <item value="Multipart Config" />
-      <item value="determine Name" />
-      <item value="Support classes for the open source scheduler &lt;a href=&quot;https:www.quartz-scheduler.org&quot;&gt;Quartz&lt;a&gt;, allowing to set up Quartz Schedulers, JobDetails and Triggers as beans in a Spring context. Also provides convenience classes for implementing Quartz Jobs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
