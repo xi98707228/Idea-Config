@@ -2,12 +2,16 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="process Inst Id" />
+      <item value="process Runed Em" />
+      <item value="process Key" />
+      <item value="business Key" />
+      <item value="office Bg Examine" />
       <item value="apply Id" />
       <item value="Gx Oa Supplies Logistics" />
       <item value="employees" />
       <item value="ruoyi" />
       <item value="set Create Time" />
-      <item value="business Key" />
       <item value="get Bootstrap Registry Initializers From Spring Factories" />
       <item value="set Apply Status" />
       <item value="set Create User Name" />
@@ -17,7 +21,6 @@
       <item value="bean Dest" />
       <item value="query Statstic Data By Apply Id" />
       <item value="get Orgname" />
-      <item value="office Bg Examine" />
       <item value="handle Runtime Exception" />
       <item value="MAX GLOBAL ENTITY LENGTH" />
       <item value="Push Payload" />
@@ -49,14 +52,11 @@
       <item value="agent Key" />
       <item value="set Agent Key" />
       <item value="select Mag Spare Instrument List" />
-      <item value="Custom Contract File Relation" />
-      <item value="Product Sell Invoice Relationship" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
