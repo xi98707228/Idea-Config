@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Standard Charsets" />
+      <item value="Input Stream Reader" />
       <item value="Trying to read the doubles after the line produces an end-of-file exception:" />
       <item value="Read the lines of text:" />
       <item value="The doubles written BEFORE the line of text read back correctly:" />
@@ -49,19 +51,17 @@
       <item value="Random Access File Factory" />
       <item value="Factory" />
       <item value="read Unsigned Byte" />
-      <item value="available" />
-      <item value="ckage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="HMONG" value="1" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655556977798" />
+    <option name="lastTrimTime" value="1656330804182" />
   </component>
 </application>
