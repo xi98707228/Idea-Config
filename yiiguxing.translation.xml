@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="apply Id" />
+      <item value="Gx Oa Supplies Logistics" />
+      <item value="employees" />
+      <item value="ruoyi" />
+      <item value="set Create Time" />
+      <item value="business Key" />
+      <item value="get Bootstrap Registry Initializers From Spring Factories" />
+      <item value="set Apply Status" />
+      <item value="set Create User Name" />
+      <item value="String Utils" />
+      <item value="v task" />
       <item value="handler Ids Concat String" />
       <item value="bean Dest" />
       <item value="query Statstic Data By Apply Id" />
@@ -39,24 +50,13 @@
       <item value="set Agent Key" />
       <item value="select Mag Spare Instrument List" />
       <item value="Custom Contract File Relation" />
-      <item value="String Utils" />
       <item value="Product Sell Invoice Relationship" />
       <item value="success" />
-      <item value="with" />
-      <item value="errors" />
-      <item value="completed" />
-      <item value="Auto" />
-      <item value="product Amount" />
-      <item value="product Count" />
-      <item value="product Unit Price" />
-      <item value="process Runed" />
-      <item value="process Key" />
-      <item value="Property Change Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
