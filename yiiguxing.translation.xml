@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Orgname" />
       <item value="office Bg Examine" />
       <item value="handle Runtime Exception" />
       <item value="MAX GLOBAL ENTITY LENGTH" />
@@ -51,12 +52,11 @@
       <item value="capitalize" />
       <item value="change First Character Case" />
       <item value="has Length" />
-      <item value="on Startup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
