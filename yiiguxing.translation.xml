@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="new String For Utf 8" />
+      <item value="CHARSET" />
+      <item value="DEFAULT CHARSET" />
       <item value="max Nums Array Length" />
       <item value="reference Table" />
       <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
@@ -49,14 +52,11 @@
       <item value="Functional Interface" />
       <item value="Servlet Context Initializer" />
       <item value="Exposable Servlet Endpoint" />
-      <item value="base Path" />
-      <item value="clean Base Path" />
-      <item value="Override" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
