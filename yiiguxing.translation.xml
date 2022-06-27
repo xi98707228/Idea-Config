@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="office Bg Examine" />
+      <item value="handle Runtime Exception" />
       <item value="MAX GLOBAL ENTITY LENGTH" />
       <item value="Push Payload" />
       <item value="Native Http Client" />
@@ -50,13 +52,11 @@
       <item value="change First Character Case" />
       <item value="has Length" />
       <item value="on Startup" />
-      <item value="url Patterns" />
-      <item value="dispatcher Types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
