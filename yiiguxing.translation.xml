@@ -2,6 +2,24 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="相关联的配置" />
+      <item value="detail Total" />
+      <item value="office" />
+      <item value="page Url" />
+      <item value="Object" />
+      <item value="String" />
+      <item value="res Map" />
+      <item value="Hash Map" />
+      <item value="Array List" />
+      <item value="office Supplies Logistics Serivce" />
+      <item value="办公用品审批流程" />
+      <item value="process Inst Id" />
+      <item value="business Key" />
+      <item value="equals" />
+      <item value="get Parameter" />
+      <item value="rel" />
+      <item value="dic Type" />
+      <item value="validate String Not Null" />
       <item value="Preparing" />
       <item value="get Ptid" />
       <item value="form" />
@@ -22,10 +40,8 @@
       <item value="Reflections" />
       <item value="task Id" />
       <item value="operate" />
-      <item value="process Inst Id" />
       <item value="process Runed Em" />
       <item value="process Key" />
-      <item value="business Key" />
       <item value="office Bg Examine" />
       <item value="apply Id" />
       <item value="Gx Oa Supplies Logistics" />
@@ -36,27 +52,11 @@
       <item value="set Apply Status" />
       <item value="set Create User Name" />
       <item value="String Utils" />
-      <item value="v task" />
-      <item value="handler Ids Concat String" />
-      <item value="bean Dest" />
-      <item value="query Statstic Data By Apply Id" />
-      <item value="get Orgname" />
-      <item value="handle Runtime Exception" />
-      <item value="MAX GLOBAL ENTITY LENGTH" />
-      <item value="Push Payload" />
-      <item value="Native Http Client" />
-      <item value="Authenticator" />
-      <item value="is Authentication Needed" />
-      <item value="new String For Utf 8" />
-      <item value="CHARSET" />
-      <item value="DEFAULT CHARSET" />
-      <item value="max Nums Array Length" />
-      <item value="reference Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="478" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
