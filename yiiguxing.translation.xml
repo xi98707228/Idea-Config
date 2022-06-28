@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Preparing" />
+      <item value="get Ptid" />
+      <item value="form" />
       <item value="Query Wrapper" />
       <item value="query Form Privilege Json New" />
       <item value="save" />
@@ -49,14 +52,11 @@
       <item value="DEFAULT CHARSET" />
       <item value="max Nums Array Length" />
       <item value="reference Table" />
-      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
-      <item value="module" />
-      <item value="Changes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
