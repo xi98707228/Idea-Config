@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="act Name Mapping" />
+      <item value="find Process Act Name" />
+      <item value="create Org Name" />
       <item value="comparing" />
       <item value="Byte Array Input Stream" />
       <item value="export Model" />
@@ -49,14 +52,11 @@
       <item value="rel" />
       <item value="dic Type" />
       <item value="validate String Not Null" />
-      <item value="Preparing" />
-      <item value="get Ptid" />
-      <item value="form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
