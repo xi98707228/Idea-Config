@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
+      <item value="office Supplies Service" />
+      <item value="get Declared Constructor" />
+      <item value="Return an {@code int} value OR-ing together the source language modifiers that can be applied to a class. @return an {@code int} value OR-ing together the source language modifiers that can be applied to a class." />
+      <item value="CLASS MODIFIERS" />
+      <item value="Modifier" />
       <item value="sum Statis Org Vo" />
       <item value="statistic Org Vo List" />
       <item value="supplies" />
@@ -46,17 +52,11 @@
       <item value="build Settings" />
       <item value="Settings Factory" />
       <item value="Session Factory Impl" />
-      <item value="Reflections" />
-      <item value="task Id" />
-      <item value="operate" />
-      <item value="process Runed Em" />
-      <item value="process Key" />
-      <item value="office Bg Examine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
