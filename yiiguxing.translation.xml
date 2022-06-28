@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Is End" />
+      <item value="global Submit Form Row Id" />
+      <item value="set Row Id" />
+      <item value="Command Executor" />
+      <item value="create Region Factory" />
+      <item value="hibernate" />
+      <item value="No Caching Region Factory" />
+      <item value="build Settings" />
+      <item value="Settings Factory" />
       <item value="Session Factory Impl" />
       <item value="Reflections" />
       <item value="task Id" />
@@ -43,20 +52,11 @@
       <item value="detected" />
       <item value="source Order Id" />
       <item value="change Sell Invoice Money Contract" />
-      <item value="update By Id" />
-      <item value="sell Invoice Relationship" />
-      <item value="is Not Empty" />
-      <item value="Jwt Authentication Token Filter" />
-      <item value="jwt Authentication Token Filter" />
-      <item value="关联销售发票产品信息" />
-      <item value="product Invoice Relation Form Vo" />
-      <item value="sell Invoice" />
-      <item value="product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
