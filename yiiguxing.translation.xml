@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sum Statis Org Vo" />
+      <item value="statistic Org Vo List" />
+      <item value="supplies" />
+      <item value="V User" />
+      <item value="SESSION KEY USER" />
+      <item value="form SP Total" />
+      <item value="statistic Org Part List" />
+      <item value="query Office Statistics Part" />
+      <item value="org Id List" />
       <item value="相关联的配置" />
       <item value="detail Total" />
       <item value="office" />
@@ -43,23 +52,15 @@
       <item value="process Runed Em" />
       <item value="process Key" />
       <item value="office Bg Examine" />
-      <item value="apply Id" />
-      <item value="Gx Oa Supplies Logistics" />
-      <item value="employees" />
-      <item value="ruoyi" />
-      <item value="set Create Time" />
-      <item value="get Bootstrap Registry Initializers From Spring Factories" />
-      <item value="set Apply Status" />
-      <item value="set Create User Name" />
-      <item value="String Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="490" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
