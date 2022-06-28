@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="statistic Org Vo List" />
+      <item value="Hash Map" />
+      <item value="query Office Statistics Part" />
+      <item value="office Name Set" />
+      <item value="set Product Standard" />
+      <item value="office Supplies Statistic Part" />
+      <item value="PRODUCT PRICE" />
+      <item value="PRODUCT COMMENT" />
+      <item value="GX OA OFFICE SUPPLIES RELATION" />
       <item value="ORG NAME" />
       <item value="success" />
       <item value="office Supplies Service" />
@@ -10,13 +19,11 @@
       <item value="CLASS MODIFIERS" />
       <item value="Modifier" />
       <item value="sum Statis Org Vo" />
-      <item value="statistic Org Vo List" />
       <item value="supplies" />
       <item value="V User" />
       <item value="SESSION KEY USER" />
       <item value="form SP Total" />
       <item value="statistic Org Part List" />
-      <item value="query Office Statistics Part" />
       <item value="org Id List" />
       <item value="相关联的配置" />
       <item value="detail Total" />
@@ -25,7 +32,6 @@
       <item value="Object" />
       <item value="String" />
       <item value="res Map" />
-      <item value="Hash Map" />
       <item value="Array List" />
       <item value="office Supplies Logistics Serivce" />
       <item value="办公用品审批流程" />
@@ -46,17 +52,11 @@
       <item value="set Is End" />
       <item value="global Submit Form Row Id" />
       <item value="set Row Id" />
-      <item value="Command Executor" />
-      <item value="create Region Factory" />
-      <item value="hibernate" />
-      <item value="No Caching Region Factory" />
-      <item value="build Settings" />
-      <item value="Settings Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
