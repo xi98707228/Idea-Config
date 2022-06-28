@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="comparing" />
+      <item value="Byte Array Input Stream" />
+      <item value="export Model" />
+      <item value="response" />
+      <item value="Http Servlet Response" />
+      <item value="util" />
       <item value="supplies Logistics" />
       <item value="statistic Org Vo List" />
       <item value="Hash Map" />
@@ -46,17 +52,11 @@
       <item value="Preparing" />
       <item value="get Ptid" />
       <item value="form" />
-      <item value="Query Wrapper" />
-      <item value="query Form Privilege Json New" />
-      <item value="save" />
-      <item value="check Current Process Is End" />
-      <item value="set Is End" />
-      <item value="global Submit Form Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
