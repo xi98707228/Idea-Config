@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Externalizable" />
+      <item value="Recovering" />
       <item value="process get User All Process" />
       <item value="process Key" />
       <item value="act Name Mapping" />
@@ -50,13 +52,11 @@
       <item value="process Inst Id" />
       <item value="business Key" />
       <item value="equals" />
-      <item value="get Parameter" />
-      <item value="rel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="525" />
+        <entry key="CHINESE" value="526" />
+        <entry key="ENGLISH" value="527" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656033455862" />
+    <option name="lastTrimTime" value="1656465821511" />
   </component>
 </application>
