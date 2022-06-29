@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="987072248" />
       <item value="Greenhouse Controls" />
       <item value="Write to a different stream:" />
       <item value="s &amp; i initialized only in non-default" />
@@ -50,11 +51,10 @@
       <item value="Socket Permission" />
       <item value="Deflater Output Stream" />
       <item value="HAM" />
-      <item value="Standard Charsets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
+        <entry key="CHINESE" value="128" />
         <entry key="ENGLISH" value="127" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
