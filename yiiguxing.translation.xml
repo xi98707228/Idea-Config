@@ -4,6 +4,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="process Service Info" />
+      <item value="service" />
+      <item value="gx Oa Office Supplies Hc Service" />
+      <item value="input" />
+      <item value="初始化耗材申请表单信息" />
+      <item value="Gx Oa Office Supplies Service" />
+      <item value="office Supplies Service" />
+      <item value="office Supplies Relation Service" />
+      <item value="process Structure Utils" />
+      <item value="team Org Service" />
+      <item value="获取不重复列表和总和" />
+      <item value="query Office Relation List" />
+      <item value="耗材申请流程关联数据信息" />
+      <item value="耗材申请表单row Id" />
+      <item value="需要关联哪些办公用品的dic Ids" />
+      <item value="dic Relation Ids" />
+      <item value="relation Id" />
+      <item value="office Supplies Serivce" />
       <item value="Security Utils" />
       <item value="get Office Select Data" />
       <item value="provide Cache Map" />
@@ -36,29 +54,11 @@
       <item value="申请表单" />
       <item value="return" />
       <item value="unchecked" />
-      <item value="session Map" />
-      <item value="get Parameter" />
-      <item value="msg" />
-      <item value="status" />
-      <item value="supplies" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="validate String Not Null" />
-      <item value="更新页面" />
-      <item value="office Supplies Serivce" />
-      <item value="form Info Filter" />
-      <item value="gx Oa Office Supplies Hc Service" />
-      <item value="office Supplies Relation Service" />
-      <item value="relation List" />
-      <item value="ZERO" />
-      <item value="Array List" />
-      <item value="Lifecycle State" />
-      <item value="add" />
-      <item value="query Relation List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="586" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="602" />
+        <entry key="ENGLISH" value="603" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
