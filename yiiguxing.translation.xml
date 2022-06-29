@@ -2,6 +2,23 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dic Type" />
+      <item value="申请表单" />
+      <item value="return" />
+      <item value="unchecked" />
+      <item value="session Map" />
+      <item value="get Parameter" />
+      <item value="msg" />
+      <item value="status" />
+      <item value="supplies" />
+      <item value="Gx Oa Office Supplies Relation" />
+      <item value="validate String Not Null" />
+      <item value="更新页面" />
+      <item value="office Supplies Serivce" />
+      <item value="form Info Filter" />
+      <item value="gx Oa Office Supplies Hc Service" />
+      <item value="office Supplies Relation Service" />
+      <item value="relation List" />
       <item value="ZERO" />
       <item value="Array List" />
       <item value="Lifecycle State" />
@@ -35,28 +52,11 @@
       <item value="success" />
       <item value="office Supplies Service" />
       <item value="get Declared Constructor" />
-      <item value="Return an {@code int} value OR-ing together the source language modifiers that can be applied to a class. @return an {@code int} value OR-ing together the source language modifiers that can be applied to a class." />
-      <item value="CLASS MODIFIERS" />
-      <item value="Modifier" />
-      <item value="sum Statis Org Vo" />
-      <item value="supplies" />
-      <item value="V User" />
-      <item value="SESSION KEY USER" />
-      <item value="form SP Total" />
-      <item value="statistic Org Part List" />
-      <item value="org Id List" />
-      <item value="相关联的配置" />
-      <item value="detail Total" />
-      <item value="office" />
-      <item value="page Url" />
-      <item value="Object" />
-      <item value="String" />
-      <item value="res Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
