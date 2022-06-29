@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Lifecycle State" />
+      <item value="add" />
+      <item value="query Relation List" />
+      <item value="is Changed Service Info" />
       <item value="Externalizable" />
       <item value="Recovering" />
       <item value="process get User All Process" />
@@ -48,15 +52,11 @@
       <item value="res Map" />
       <item value="Array List" />
       <item value="office Supplies Logistics Serivce" />
-      <item value="办公用品审批流程" />
-      <item value="process Inst Id" />
-      <item value="business Key" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="526" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="CHINESE" value="530" />
+        <entry key="ENGLISH" value="531" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
