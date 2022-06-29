@@ -4,8 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="dic Type" />
+      <item value="get Office Select Data" />
       <item value="provide Cache Map" />
+      <item value="get Cache Map" />
+      <item value="dic Type" />
       <item value="OFFICE DIC CACHE" />
       <item value="Sentinel" />
       <item value="Sentinel SCG Auto Configuration" />
@@ -52,13 +54,11 @@
       <item value="add" />
       <item value="query Relation List" />
       <item value="is Changed Service Info" />
-      <item value="Externalizable" />
-      <item value="Recovering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="CHINESE" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
