@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Sentinel" />
+      <item value="Sentinel SCG Auto Configuration" />
+      <item value="Configuration Contributor" />
+      <item value="An object which has a context and add methods for updating internal status messages." />
+      <item value="joran" />
       <item value="Code Source" />
       <item value="get Implementation Version" />
       <item value="Return the full version string of the present Spring Boot codebase, or {@code null} if it cannot be determined. @return the version of Spring Boot or {@code null} @see PackagegetImplementationVersion()" />
@@ -47,16 +54,11 @@
       <item value="Recovering" />
       <item value="process get User All Process" />
       <item value="process Key" />
-      <item value="act Name Mapping" />
-      <item value="find Process Act Name" />
-      <item value="create Org Name" />
-      <item value="comparing" />
-      <item value="Byte Array Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="579" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
