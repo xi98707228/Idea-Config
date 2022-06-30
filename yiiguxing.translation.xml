@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="elements" />
+      <item value="new Elements" />
+      <item value="Recursive Task" />
+      <item value="Not quite a no-op; ensures volatile write semantics" />
+      <item value="Snapshot of the array" />
       <item value="更新原有的用品数据" />
       <item value="Tomcat" />
       <item value="service" />
@@ -49,16 +54,11 @@
       <item value="set Main Id" />
       <item value="unit Price" />
       <item value="counts" />
-      <item value="unit Pricef" />
-      <item value="如果数据库中不存在该种类型的办公用品" />
-      <item value="datasource" />
-      <item value="initial" />
-      <item value="Web Application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
