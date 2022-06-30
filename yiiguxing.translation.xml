@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="org Id" />
+      <item value="dept Id" />
+      <item value="Base Util" />
+      <item value="计算数量总和" />
+      <item value="计算金额总和" />
+      <item value="copy Properties" />
       <item value="org Name" />
       <item value="is Not Empty" />
       <item value="relationed" />
@@ -48,23 +54,17 @@
       <item value="耗材申请表单row Id" />
       <item value="需要关联哪些办公用品的dic Ids" />
       <item value="relation Id" />
-      <item value="office Supplies Serivce" />
-      <item value="Security Utils" />
-      <item value="get Office Select Data" />
-      <item value="provide Cache Map" />
-      <item value="get Cache Map" />
-      <item value="dic Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="HMONG" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
