@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="系统异常" />
       <item value="org Id" />
       <item value="dept Id" />
       <item value="Base Util" />
@@ -53,11 +54,10 @@
       <item value="耗材申请流程关联数据信息" />
       <item value="耗材申请表单row Id" />
       <item value="需要关联哪些办公用品的dic Ids" />
-      <item value="relation Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="640" />
+        <entry key="CHINESE" value="641" />
         <entry key="ENGLISH" value="641" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
