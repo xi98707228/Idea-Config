@@ -4,13 +4,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="total Count" />
+      <item value="store Save Hc Process Relation Data List" />
+      <item value="Big Decimal" />
+      <item value="ZERO" />
+      <item value="dic Relation Ids" />
+      <item value="办公用品关联ID" />
+      <item value="get Gx Oa Office Supplies Relation By Id" />
+      <item value="set Main Id" />
+      <item value="unit Price" />
+      <item value="counts" />
+      <item value="unit Pricef" />
+      <item value="如果数据库中不存在该种类型的办公用品" />
       <item value="datasource" />
       <item value="initial" />
       <item value="Web Application Context" />
       <item value="Druid Data Source" />
       <item value="validate String Not Null" />
       <item value="Gx Oa Office Supplies Relation" />
-      <item value="set Main Id" />
       <item value="unchecked" />
       <item value="store Relation Dic Ids" />
       <item value="String" />
@@ -30,7 +41,6 @@
       <item value="耗材申请流程关联数据信息" />
       <item value="耗材申请表单row Id" />
       <item value="需要关联哪些办公用品的dic Ids" />
-      <item value="dic Relation Ids" />
       <item value="relation Id" />
       <item value="office Supplies Serivce" />
       <item value="Security Utils" />
@@ -44,21 +54,11 @@
       <item value="Configuration Contributor" />
       <item value="An object which has a context and add methods for updating internal status messages." />
       <item value="joran" />
-      <item value="Code Source" />
-      <item value="get Implementation Version" />
-      <item value="Return the full version string of the present Spring Boot codebase, or {@code null} if it cannot be determined. @return the version of Spring Boot or {@code null} @see PackagegetImplementationVersion()" />
-      <item value="sell Invoice Relationship" />
-      <item value="agent Key" />
-      <item value="set Agent Key" />
-      <item value="销售金额问题" />
-      <item value="change Sell Invoice Money Contract" />
-      <item value="08" />
-      <item value="29 T 11" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="615" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
