@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Tld Config" />
+      <item value="Enable" />
+      <item value="execute" />
+      <item value="complete" />
+      <item value="month" />
+      <item value="imonth" />
+      <item value="office Supplies Serivce" />
+      <item value="保存上级部门为当前本部门编号" />
+      <item value="直属于大队人员" />
+      <item value="get Instance" />
       <item value="get Piid" />
       <item value="Gx Oa Office Supplies" />
       <item value="process Runed Em" />
@@ -44,21 +54,11 @@
       <item value="org Name" />
       <item value="is Not Empty" />
       <item value="relationed" />
-      <item value="store Save Hc Process Relation Data List" />
-      <item value="extends" />
-      <item value="singleton List" />
-      <item value="global Submit Form Row Id" />
-      <item value="total Count" />
-      <item value="Big Decimal" />
-      <item value="ZERO" />
-      <item value="dic Relation Ids" />
-      <item value="办公用品关联ID" />
-      <item value="get Gx Oa Office Supplies Relation By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
