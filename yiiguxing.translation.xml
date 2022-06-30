@@ -4,6 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Tomcat" />
+      <item value="service" />
+      <item value="Transaction Interceptor" />
+      <item value="nacos" />
+      <item value="Ignore" />
+      <item value="Nacos Property Source Builder" />
+      <item value="load Nacos Data" />
+      <item value="configuration" />
+      <item value="profiles" />
+      <item value="Data" />
+      <item value="dic Id" />
+      <item value="dicId is marked non-null but is null" />
+      <item value="create instance error, null" />
+      <item value="JSON Tokener" />
+      <item value="Listener Retry" />
+      <item value="Retry" />
+      <item value="The string representation of the expected value for the properties. If not specified, the property must &lt;strong&gt;not&lt;strong&gt; be equal to {@code false}. @return the expected value" />
+      <item value="having Value" />
+      <item value="DEFAULT PORT SECURE" />
+      <item value="DEFAULT PORT" />
+      <item value="team Org Mapper" />
       <item value="系统异常" />
       <item value="org Id" />
       <item value="dept Id" />
@@ -33,32 +54,11 @@
       <item value="initial" />
       <item value="Web Application Context" />
       <item value="Druid Data Source" />
-      <item value="validate String Not Null" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="unchecked" />
-      <item value="store Relation Dic Ids" />
-      <item value="String" />
-      <item value="throw" />
-      <item value="process Service Info" />
-      <item value="service" />
-      <item value="gx Oa Office Supplies Hc Service" />
-      <item value="input" />
-      <item value="初始化耗材申请表单信息" />
-      <item value="Gx Oa Office Supplies Service" />
-      <item value="office Supplies Service" />
-      <item value="office Supplies Relation Service" />
-      <item value="process Structure Utils" />
-      <item value="team Org Service" />
-      <item value="获取不重复列表和总和" />
-      <item value="query Office Relation List" />
-      <item value="耗材申请流程关联数据信息" />
-      <item value="耗材申请表单row Id" />
-      <item value="需要关联哪些办公用品的dic Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="663" />
+        <entry key="ENGLISH" value="664" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
@@ -68,6 +68,7 @@
         <entry key="HMONG" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="YORUBA" value="1" />
       </map>
     </option>
   </component>
