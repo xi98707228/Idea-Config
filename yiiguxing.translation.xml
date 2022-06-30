@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Piid" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="process Runed Em" />
       <item value="elements" />
       <item value="new Elements" />
       <item value="Recursive Task" />
@@ -51,14 +54,11 @@
       <item value="dic Relation Ids" />
       <item value="办公用品关联ID" />
       <item value="get Gx Oa Office Supplies Relation By Id" />
-      <item value="set Main Id" />
-      <item value="unit Price" />
-      <item value="counts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="672" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
