@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="singleton List" />
+      <item value="global Submit Form Row Id" />
       <item value="total Count" />
       <item value="store Save Hc Process Relation Data List" />
       <item value="Big Decimal" />
@@ -52,13 +54,11 @@
       <item value="Sentinel" />
       <item value="Sentinel SCG Auto Configuration" />
       <item value="Configuration Contributor" />
-      <item value="An object which has a context and add methods for updating internal status messages." />
-      <item value="joran" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="629" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
