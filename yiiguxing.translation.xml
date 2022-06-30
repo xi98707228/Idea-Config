@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="org Name" />
       <item value="is Not Empty" />
       <item value="relationed" />
       <item value="store Save Hc Process Relation Data List" />
@@ -53,12 +54,11 @@
       <item value="provide Cache Map" />
       <item value="get Cache Map" />
       <item value="dic Type" />
-      <item value="OFFICE DIC CACHE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
