@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Attaching" />
+      <item value="submit Object" />
       <item value="start Server" />
       <item value="Ignore" />
       <item value="office Supplies Service" />
@@ -52,13 +54,11 @@
       <item value="create instance error, null" />
       <item value="JSON Tokener" />
       <item value="Listener Retry" />
-      <item value="Retry" />
-      <item value="The string representation of the expected value for the properties. If not specified, the property must &lt;strong&gt;not&lt;strong&gt; be equal to {@code false}. @return the expected value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="696" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
