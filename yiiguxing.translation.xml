@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="datasource" />
+      <item value="initial" />
+      <item value="Web Application Context" />
+      <item value="Druid Data Source" />
       <item value="validate String Not Null" />
       <item value="Gx Oa Office Supplies Relation" />
       <item value="set Main Id" />
@@ -50,15 +54,11 @@
       <item value="change Sell Invoice Money Contract" />
       <item value="08" />
       <item value="29 T 11" />
-      <item value="22" />
-      <item value="718" />
-      <item value="source Order Id" />
-      <item value="Compares this {@code BigDecimal} with the specified {@code BigDecimal}. Two {@code BigDecimal} objects that are equal in value but have a different scale (like 2.0 and 2.00) are considered equal by this method. This method is provided in preference to individual methods for each of the six boolean comparison operators ({@literal &lt;}, ==, {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The suggested idiom for performing these comparisons is: {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;i&gt;&amp;gt; {@code 0)}, where &amp;lt;&lt;i&gt;op&lt;i&gt;&amp;gt; is one of the six comparison operators." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="615" />
+        <entry key="ENGLISH" value="616" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
