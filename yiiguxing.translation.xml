@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="更新原有的用品数据" />
       <item value="Tomcat" />
       <item value="service" />
       <item value="Transaction Interceptor" />
@@ -53,11 +54,10 @@
       <item value="datasource" />
       <item value="initial" />
       <item value="Web Application Context" />
-      <item value="Druid Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
+        <entry key="CHINESE" value="664" />
         <entry key="ENGLISH" value="664" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
