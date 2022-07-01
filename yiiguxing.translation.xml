@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="dept Name" />
+      <item value="team Org Mapper" />
+      <item value="get Main Id" />
+      <item value="get Apply Dept Id" />
       <item value="product Price" />
       <item value="current Operate Office Dic Bean" />
       <item value="还是在流程中添加的未关联的" />
@@ -50,15 +54,11 @@
       <item value="PROCESS URL" />
       <item value="process Url" />
       <item value="approve" />
-      <item value="tld Scan Jar" />
-      <item value="Tld Locations Cache" />
-      <item value="producing" />
-      <item value="Reflections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="ARABIC" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
