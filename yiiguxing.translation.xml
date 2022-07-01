@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="business Key" />
+      <item value="bean Data" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="form Url" />
+      <item value="advice Url" />
+      <item value="流程查看" />
+      <item value="只读" />
       <item value="print If Info Enabled" />
       <item value="connect" />
       <item value="Office Supplies Statistic Part" />
@@ -21,7 +28,6 @@
       <item value="get Create Org Id" />
       <item value="statistic Org Part List" />
       <item value="query Office Statistics Part" />
-      <item value="Gx Oa Office Supplies" />
       <item value="office Item" />
       <item value="apply Id" />
       <item value="query Statistics Office Data Map By Apply Id" />
@@ -48,17 +54,11 @@
       <item value="start Server" />
       <item value="Ignore" />
       <item value="office Supplies Service" />
-      <item value="需要关联哪些办公用品的dic Ids" />
-      <item value="Calendar" />
-      <item value="process Instance Id" />
-      <item value="office Supplies List" />
-      <item value="table Row Data" />
-      <item value="Ajax Table Info Object Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="747" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="CHINESE" value="754" />
+        <entry key="ENGLISH" value="755" />
         <entry key="ARABIC" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
