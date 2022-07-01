@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="row Ids" />
+      <item value="PROCESS URL" />
+      <item value="process Url" />
+      <item value="approve" />
+      <item value="tld Scan Jar" />
+      <item value="Tld Locations Cache" />
+      <item value="producing" />
+      <item value="Reflections" />
       <item value="Attaching" />
       <item value="submit Object" />
       <item value="start Server" />
@@ -46,19 +54,11 @@
       <item value="nacos" />
       <item value="Nacos Property Source Builder" />
       <item value="load Nacos Data" />
-      <item value="configuration" />
-      <item value="profiles" />
-      <item value="Data" />
-      <item value="dic Id" />
-      <item value="dicId is marked non-null but is null" />
-      <item value="create instance error, null" />
-      <item value="JSON Tokener" />
-      <item value="Listener Retry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="704" />
         <entry key="ARABIC" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
