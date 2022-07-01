@@ -4,7 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="process Service Info" />
+      <item value="print If Info Enabled" />
+      <item value="DEFAULT GROUP" />
+      <item value="service" />
+      <item value="is Changed Service Info" />
+      <item value="current" />
+      <item value="naming" />
+      <item value="execute Supplies Sql" />
+      <item value="jdbc Template" />
+      <item value="query Office Supplies" />
+      <item value="get Create Org Id" />
+      <item value="statistic Org Part List" />
+      <item value="query Office Statistics Part" />
+      <item value="Gx Oa Office Supplies" />
+      <item value="office Item" />
+      <item value="Office Supplies Statistic Part" />
+      <item value="apply Id" />
       <item value="query Statistics Office Data Map By Apply Id" />
+      <item value="Hash Map" />
+      <item value="result Map" />
+      <item value="DISTINCT" />
+      <item value="CREATE ORG ID" />
       <item value="PTID SL" />
       <item value="办公用品统计数据" />
       <item value="获取部门月度" />
@@ -33,33 +54,13 @@
       <item value="business Key" />
       <item value="team Org Service" />
       <item value="get Logon Name" />
-      <item value="product Price" />
-      <item value="org Name" />
-      <item value="附带的保存数据 , 只有再部门负责人那一步才会触发" />
-      <item value="Tld Config" />
-      <item value="Enable" />
-      <item value="execute" />
-      <item value="complete" />
-      <item value="month" />
-      <item value="imonth" />
-      <item value="office Supplies Serivce" />
-      <item value="保存上级部门为当前本部门编号" />
-      <item value="直属于大队人员" />
-      <item value="get Instance" />
-      <item value="get Piid" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="process Runed Em" />
-      <item value="elements" />
-      <item value="new Elements" />
-      <item value="Recursive Task" />
-      <item value="Not quite a no-op; ensures volatile write semantics" />
-      <item value="Snapshot of the array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="ARABIC" value="1" />
+        <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="2" />
