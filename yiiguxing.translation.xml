@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="还是在流程中添加的未关联的" />
+      <item value="row Id" />
       <item value="add Relation Data" />
       <item value="business Key" />
       <item value="bean Data" />
@@ -52,13 +54,11 @@
       <item value="Reflections" />
       <item value="Attaching" />
       <item value="submit Object" />
-      <item value="start Server" />
-      <item value="Ignore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="757" />
+        <entry key="ENGLISH" value="757" />
         <entry key="ARABIC" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
