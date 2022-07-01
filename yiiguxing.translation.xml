@@ -4,10 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="print If Info Enabled" />
+      <item value="connect" />
+      <item value="Office Supplies Statistic Part" />
       <item value="Gx Oa Supplies Logistics" />
       <item value="target Object" />
       <item value="process Service Info" />
-      <item value="print If Info Enabled" />
       <item value="DEFAULT GROUP" />
       <item value="service" />
       <item value="is Changed Service Info" />
@@ -21,7 +23,6 @@
       <item value="query Office Statistics Part" />
       <item value="Gx Oa Office Supplies" />
       <item value="office Item" />
-      <item value="Office Supplies Statistic Part" />
       <item value="apply Id" />
       <item value="query Statistics Office Data Map By Apply Id" />
       <item value="Hash Map" />
@@ -53,12 +54,11 @@
       <item value="office Supplies List" />
       <item value="table Row Data" />
       <item value="Ajax Table Info Object Vo" />
-      <item value="business Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="748" />
         <entry key="ARABIC" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
