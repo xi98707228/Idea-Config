@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="cell Type" />
+      <item value="nick Name" />
       <item value="Security Utils" />
       <item value="query Workflow Next Steps Start By Proc Def Id" />
       <item value="new Uer List" />
@@ -52,13 +54,11 @@
       <item value="办公用品统计数据" />
       <item value="获取部门月度" />
       <item value="PTID LB SP" />
-      <item value="set Current Operate Ptid" />
-      <item value="current Operate Ptid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
