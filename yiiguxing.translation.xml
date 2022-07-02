@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Org Id" />
+      <item value="naming" />
       <item value="relation" />
       <item value="cell Type" />
       <item value="nick Name" />
@@ -37,7 +39,6 @@
       <item value="service" />
       <item value="is Changed Service Info" />
       <item value="current" />
-      <item value="naming" />
       <item value="execute Supplies Sql" />
       <item value="jdbc Template" />
       <item value="query Office Supplies" />
@@ -53,15 +54,14 @@
       <item value="CREATE ORG ID" />
       <item value="PTID SL" />
       <item value="办公用品统计数据" />
-      <item value="获取部门月度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="770" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FILIPINO" value="1" />
+        <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="2" />
