@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="discovery" />
+      <item value="notifier" />
       <item value="apply" />
       <item value="equals" />
       <item value="Mobile Expand Param Vo" />
@@ -52,15 +54,14 @@
       <item value="只读" />
       <item value="print If Info Enabled" />
       <item value="connect" />
-      <item value="Office Supplies Statistic Part" />
-      <item value="Gx Oa Supplies Logistics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
