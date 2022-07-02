@@ -4,7 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Pushes back a byte by copying it to the front of the pushback buffer. After this method returns, the next byte to be read will have the value &lt;code&gt;(byte)b&lt;code&gt;. @param b the &lt;code&gt;int&lt;code&gt; value whose low-order byte is to be pushed back. @exception IOException If there is not enough room in the pushback buffer for the byte, or this input stream has been closed by invoking its {@link close()} method." />
+      <item value="unread" />
+      <item value="Type Descriptor" />
+      <item value="convert If Necessary" />
+      <item value="A &lt;code&gt;PushbackInputStream&lt;code&gt; adds functionality to another input stream, namely the ability to &quot;push back&quot; or &quot;unread&quot; one byte. This is useful in situations where it is convenient for a fragment of code to read an indefinite number of data bytes that are delimited by a particular byte value; after reading the terminating byte, the code fragment can &quot;unread&quot; it, so that the next read operation on the input stream will reread the byte that was pushed back. For example, bytes representing the characters constituting an identifier might be terminated by a byte representing an operator character; a method whose job is to read just an identifier can read until it sees the operator and then push the operator back to be re-read." />
+      <item value="Pushback Input Stream" />
+      <item value="was expecting double-quote to start field name" />
       <item value="login User" />
+      <item value="Performance testing notes (JDK 1.4, Jul03, scolebourne) Whitespace: Character.isWhitespace() is faster than WHITESPACE.indexOf() where WHITESPACE is a string of all whitespace characters Character access: String.charAt(n) versus toCharArray(), then array[n] String.charAt(n) is about 15% worse for a 10K string They are about equal for a length 50 string String.charAt(n) is about 4 times better for a length 3 string String.charAt(n) is best bet overall Append: String.concat about twice as fast as StringBuffer.append (not sure who tested this)" />
+      <item value="Office Supplies Apply Sl Controller Fast Class By Spring CGLI Baefd 371 e" />
+      <item value="create Org Of Month" />
       <item value="operate Supplies Relation" />
       <item value="supplies Relation List Search Filter" />
       <item value="get Org Id" />
@@ -44,21 +54,11 @@
       <item value="current" />
       <item value="execute Supplies Sql" />
       <item value="jdbc Template" />
-      <item value="query Office Supplies" />
-      <item value="get Create Org Id" />
-      <item value="statistic Org Part List" />
-      <item value="query Office Statistics Part" />
-      <item value="office Item" />
-      <item value="apply Id" />
-      <item value="query Statistics Office Data Map By Apply Id" />
-      <item value="Hash Map" />
-      <item value="result Map" />
-      <item value="DISTINCT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="784" />
+        <entry key="ENGLISH" value="785" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
