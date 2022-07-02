@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Office Apply Form Info" />
+      <item value="result Data Map" />
+      <item value="Hash Map" />
+      <item value="office Supplies Service" />
+      <item value="Gx Oa Office Supplies Relation" />
+      <item value="office Supplies Relation Service" />
       <item value="uses Default Deflater" />
       <item value="Nacos Property Source Builder" />
       <item value="load Nacos Data" />
@@ -48,17 +54,11 @@
       <item value="还是在流程中添加的未关联的" />
       <item value="row Id" />
       <item value="add Relation Data" />
-      <item value="business Key" />
-      <item value="bean Data" />
-      <item value="Gx Oa Office Supplies" />
-      <item value="form Url" />
-      <item value="advice Url" />
-      <item value="流程查看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="805" />
+        <entry key="ENGLISH" value="806" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
