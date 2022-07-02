@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="login User" />
+      <item value="operate Supplies Relation" />
       <item value="supplies Relation List Search Filter" />
       <item value="get Org Id" />
       <item value="naming" />
@@ -52,13 +54,11 @@
       <item value="Hash Map" />
       <item value="result Map" />
       <item value="DISTINCT" />
-      <item value="CREATE ORG ID" />
-      <item value="PTID SL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="774" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
