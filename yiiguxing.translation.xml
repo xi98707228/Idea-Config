@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table Row Data" />
+      <item value="get Data Table" />
+      <item value="success" />
       <item value="apply Id" />
       <item value="office Supplies Service" />
       <item value="list" />
@@ -51,14 +54,11 @@
       <item value="A &lt;code&gt;PushbackInputStream&lt;code&gt; adds functionality to another input stream, namely the ability to &quot;push back&quot; or &quot;unread&quot; one byte. This is useful in situations where it is convenient for a fragment of code to read an indefinite number of data bytes that are delimited by a particular byte value; after reading the terminating byte, the code fragment can &quot;unread&quot; it, so that the next read operation on the input stream will reread the byte that was pushed back. For example, bytes representing the characters constituting an identifier might be terminated by a byte representing an operator character; a method whose job is to read just an identifier can read until it sees the operator and then push the operator back to be re-read." />
       <item value="Pushback Input Stream" />
       <item value="was expecting double-quote to start field name" />
-      <item value="login User" />
-      <item value="Performance testing notes (JDK 1.4, Jul03, scolebourne) Whitespace: Character.isWhitespace() is faster than WHITESPACE.indexOf() where WHITESPACE is a string of all whitespace characters Character access: String.charAt(n) versus toCharArray(), then array[n] String.charAt(n) is about 15% worse for a 10K string They are about equal for a length 50 string String.charAt(n) is about 4 times better for a length 3 string String.charAt(n) is best bet overall Append: String.concat about twice as fast as StringBuffer.append (not sure who tested this)" />
-      <item value="Office Supplies Apply Sl Controller Fast Class By Spring CGLI Baefd 371 e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
-        <entry key="ENGLISH" value="837" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
