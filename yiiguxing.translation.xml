@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Agent Key" />
+      <item value="product Invoice Relation Form Vo" />
+      <item value="source Order Id" />
+      <item value="sell Invoice Relationship" />
       <item value="Gx Oa Office Supplies Relation" />
       <item value="lambda" />
       <item value="is Not Empty" />
@@ -50,15 +54,11 @@
       <item value="Hash Map" />
       <item value="uses Default Deflater" />
       <item value="Nacos Property Source Builder" />
-      <item value="load Nacos Data" />
-      <item value="discovery" />
-      <item value="notifier" />
-      <item value="apply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
