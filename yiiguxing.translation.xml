@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serial Persistent Fields" />
+      <item value="get URL Stream Handler" />
+      <item value="Throws a &lt;code&gt;SecurityException&lt;code&gt; if the calling thread is not allowed to set the socket factory used by &lt;code&gt;ServerSocket&lt;code&gt; or &lt;code&gt;Socket&lt;code&gt;, or the stream handler factory used by &lt;code&gt;URL&lt;code&gt;. &lt;p&gt; This method calls &lt;code&gt;checkPermission&lt;code&gt; with the &lt;code&gt;RuntimePermission(&quot;setFactory&quot;)&lt;code&gt; permission. &lt;p&gt; If you override this method, then you should make a call to &lt;code&gt;super.checkSetFactory&lt;code&gt; at the point the overridden method would normally throw an exception. &lt;p&gt;" />
+      <item value="check Set Factory" />
+      <item value="Content Handler" />
+      <item value="authority" />
+      <item value="protocol" />
+      <item value="Url Deserialized State" />
+      <item value="BUILTIN HANDLERS PREFIX" />
+      <item value="URL" />
+      <item value="Stream Tokenizer" />
+      <item value="James Gosling" />
+      <item value="REMIND: identification of the read and write sides needs to be more sophisticated. Either using thread groups (but what about pipes within a thread?) or using finalization (but it may be a long time until the next GC)." />
+      <item value="write Side" />
+      <item value="await Space" />
+      <item value="Receives a byte of data. This method will block if no input is available. @param b the byte being received @exception IOException If the pipe is &lt;a href=&quot;BROKEN&quot;&gt; &lt;code&gt;broken&lt;code&gt;&lt;a&gt;, {@link connect(java.io.PipedOutputStream) unconnected}, closed, or if an IO error occurs." />
+      <item value="receive" />
+      <item value="snk" />
+      <item value="Output Stream Reader" />
       <item value="Ring bell" />
       <item value="987072248" />
       <item value="Greenhouse Controls" />
@@ -32,30 +51,11 @@
       <item value="Byte Array Output Stream" />
       <item value="Object Output Stream" />
       <item value="flush" />
-      <item value="storage" />
-      <item value="Block Data Output Stream" />
-      <item value="Handle Table" />
-      <item value="Also flushes output" />
-      <item value="Worm" />
-      <item value="subclass Audits Queue" />
-      <item value="subclass Audits" />
-      <item value="Callbacks to allow LinkedHashMap post-actions" />
-      <item value="Random Access File" />
-      <item value="Output Stream Reader" />
-      <item value="Checked Output Stream" />
-      <item value="BEST SPEED" />
-      <item value="BEST COMPRESSION" />
-      <item value="DEFAULT COMPRESSION" />
-      <item value="do Privileged" />
-      <item value="Get Boolean Action" />
-      <item value="implies" />
-      <item value="Socket Permission" />
-      <item value="Deflater Output Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="HINDI" value="1" />
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656330804182" />
+    <option name="lastTrimTime" value="1656938663615" />
   </component>
 </application>
