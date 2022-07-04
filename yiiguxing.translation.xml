@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="图片上传" />
       <item value="办公用品劳保流程" />
       <item value="Request Param" />
       <item value="apply Id" />
@@ -53,12 +54,11 @@
       <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;code&gt; and &lt;code&gt;reset&lt;code&gt; methods. Whether or not &lt;code&gt;mark&lt;code&gt; and &lt;code&gt;reset&lt;code&gt; are supported is an invariant property of a particular input stream instance. The &lt;code&gt;markSupported&lt;code&gt; method of &lt;code&gt;InputStream&lt;code&gt; returns &lt;code&gt;false&lt;code&gt;. @return &lt;code&gt;true&lt;code&gt; if this stream instance supports the mark and reset methods; &lt;code&gt;false&lt;code&gt; otherwise. @see java.io.InputStreammark(int) @see java.io.InputStreamreset()" />
       <item value="mark Supported" />
       <item value="Pushes back a byte by copying it to the front of the pushback buffer. After this method returns, the next byte to be read will have the value &lt;code&gt;(byte)b&lt;code&gt;. @param b the &lt;code&gt;int&lt;code&gt; value whose low-order byte is to be pushed back. @exception IOException If there is not enough room in the pushback buffer for the byte, or this input stream has been closed by invoking its {@link close()} method." />
-      <item value="unread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="851" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
