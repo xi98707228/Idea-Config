@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="办公用品劳保流程" />
+      <item value="Request Param" />
+      <item value="apply Id" />
       <item value="sum Price" />
       <item value="table Row Data" />
       <item value="get Data Table" />
@@ -11,7 +14,6 @@
       <item value="delete Office Hc Data" />
       <item value="Path Variable" />
       <item value="office Supplies Service" />
-      <item value="apply Id" />
       <item value="list" />
       <item value="supplies Logistics Service" />
       <item value="Gx Oa Supplies Logistics" />
@@ -52,13 +54,11 @@
       <item value="mark Supported" />
       <item value="Pushes back a byte by copying it to the front of the pushback buffer. After this method returns, the next byte to be read will have the value &lt;code&gt;(byte)b&lt;code&gt;. @param b the &lt;code&gt;int&lt;code&gt; value whose low-order byte is to be pushed back. @exception IOException If there is not enough room in the pushback buffer for the byte, or this input stream has been closed by invoking its {@link close()} method." />
       <item value="unread" />
-      <item value="Type Descriptor" />
-      <item value="convert If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="850" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
