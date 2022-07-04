@@ -4,6 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="&lt;p&gt;Implementation note: All constructors start a timer thread." />
+      <item value="Josh Bloch" />
+      <item value="Priority queue represented as a balanced binary heap: the two children of queue[n] are queue[2n] and queue[2n+1]. The priority queue is ordered on the nextExecutionTime field: The TimerTask with the lowest nextExecutionTime is in queue[1] (assuming the queue is nonempty). For each node n in the heap, and each descendant of n, d, n.nextExecutionTime &lt;= d.nextExecutionTime." />
+      <item value="trigger At Second" />
+      <item value="main Loop" />
+      <item value="fix Up" />
+      <item value="new Tasks May Be Scheduled" />
+      <item value="period" />
+      <item value="Constrain value of period sufficiently to prevent numeric overflow while still being effectively infinitely large." />
+      <item value="time in milliseconds between successive task executions." />
+      <item value="delay" />
+      <item value="Schedules the specified task for execution after the specified delay. @param task task to be scheduled. @param delay delay in milliseconds before task is to be executed. @throws IllegalArgumentException if &lt;tt&gt;delay&lt;tt&gt; is negative, or &lt;tt&gt;delay + System.currentTimeMillis()&lt;tt&gt; is negative. @throws IllegalStateException if task was already scheduled or cancelled, timer was cancelled, or timer thread terminated. @throws NullPointerException if {@code task} is null" />
+      <item value="schedule At Fixed Rate" />
+      <item value="Timer" />
+      <item value="connection Manager Timer" />
+      <item value="Period in milliseconds for repeating tasks. A positive value indicates fixed-rate execution. A negative value indicates fixed-delay execution. A value of 0 indicates a non-repeating task." />
+      <item value="EXECUTED" />
+      <item value="CANCELLED" />
+      <item value="This task has not yet been scheduled." />
+      <item value="VIRGIN" />
+      <item value="mobile Submit Form" />
       <item value="get Agent Key" />
       <item value="product Invoice Relation Form Vo" />
       <item value="source Order Id" />
@@ -33,32 +54,11 @@
       <item value="supplies Logistics Service" />
       <item value="Gx Oa Supplies Logistics" />
       <item value="user Id" />
-      <item value="relation Distinct List" />
-      <item value="supplies" />
-      <item value="total Count" />
-      <item value="bean Row Id" />
-      <item value="get Main Id" />
-      <item value="office Supplies Relation Service" />
-      <item value="res Map" />
-      <item value="clear" />
-      <item value="add All" />
-      <item value="get Product Count" />
-      <item value="process Act Data" />
-      <item value="connect" />
-      <item value="get Product Price" />
-      <item value="restarted Main" />
-      <item value="producing" />
-      <item value="took" />
-      <item value="get Office Apply Form Info" />
-      <item value="result Data Map" />
-      <item value="Hash Map" />
-      <item value="uses Default Deflater" />
-      <item value="Nacos Property Source Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
