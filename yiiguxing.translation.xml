@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Establishes the heap invariant (described above) in the subtree rooted at k, which is assumed to satisfy the heap invariant except possibly for node k itself (which may have a nextExecutionTime greater than its children's). This method functions by &quot;demoting&quot; queue[k] down the hierarchy (by swapping it with its smaller child) repeatedly until queue[k]'s nextExecutionTime is less than or equal to those of its children." />
+      <item value="fix Down" />
+      <item value="heapify" />
+      <item value="Removes all cancelled tasks from this timer's task queue. &lt;i&gt;Calling this method has no effect on the behavior of the timer&lt;i&gt;, but eliminates the references to the cancelled tasks from the queue. If there are no external references to these tasks, they become eligible for garbage collection. &lt;p&gt;Most programs will have no need to call this method. It is designed for use by the rare application that cancels a large number of tasks. Calling this method trades time for space: the runtime of the method may be proportional to n + c log n, where n is the number of tasks in the queue and c is the number of cancelled tasks. &lt;p&gt;Note that it is permissible to call this method from within a a task scheduled on this timer. @return the number of tasks removed from the queue." />
+      <item value="purge" />
+      <item value="Schedules the specified task for repeated &lt;i&gt;fixed-rate execution&lt;i&gt;, beginning after the specified delay. Subsequent executions take place at approximately regular intervals, separated by the specified period. &lt;p&gt;In fixed-rate execution, each execution is scheduled relative to the scheduled execution time of the initial execution. If an execution is delayed for any reason (such as garbage collection or other background activity), two or more executions will occur in rapid succession to &quot;catch up.&quot; In the long run, the frequency of execution will be exactly the reciprocal of the specified period (assuming the system clock underlying &lt;tt&gt;Object.wait(long)&lt;tt&gt; is accurate). &lt;p&gt;Fixed-rate execution is appropriate for recurring activities that are sensitive to &lt;i&gt;absolute&lt;i&gt; time, such as ringing a chime every hour on the hour, or running scheduled maintenance every day at a particular time. It is also appropriate for recurring activities where the total time to perform a fixed number of executions is important, such as a countdown timer that ticks once every second for ten seconds. Finally, fixed-rate execution is appropriate for scheduling multiple repeating timer tasks that must remain synchronized with respect to one another." />
+      <item value="delay" />
+      <item value="schedule At Fixed Rate" />
       <item value="&lt;p&gt;Implementation note: All constructors start a timer thread." />
       <item value="Josh Bloch" />
       <item value="Priority queue represented as a balanced binary heap: the two children of queue[n] are queue[2n] and queue[2n+1]. The priority queue is ordered on the nextExecutionTime field: The TimerTask with the lowest nextExecutionTime is in queue[1] (assuming the queue is nonempty). For each node n in the heap, and each descendant of n, d, n.nextExecutionTime &lt;= d.nextExecutionTime." />
@@ -14,9 +22,7 @@
       <item value="period" />
       <item value="Constrain value of period sufficiently to prevent numeric overflow while still being effectively infinitely large." />
       <item value="time in milliseconds between successive task executions." />
-      <item value="delay" />
       <item value="Schedules the specified task for execution after the specified delay. @param task task to be scheduled. @param delay delay in milliseconds before task is to be executed. @throws IllegalArgumentException if &lt;tt&gt;delay&lt;tt&gt; is negative, or &lt;tt&gt;delay + System.currentTimeMillis()&lt;tt&gt; is negative. @throws IllegalStateException if task was already scheduled or cancelled, timer was cancelled, or timer thread terminated. @throws NullPointerException if {@code task} is null" />
-      <item value="schedule At Fixed Rate" />
       <item value="Timer" />
       <item value="connection Manager Timer" />
       <item value="Period in milliseconds for repeating tasks. A positive value indicates fixed-rate execution. A negative value indicates fixed-delay execution. A value of 0 indicates a non-repeating task." />
@@ -48,17 +54,11 @@
       <item value="table Row Data" />
       <item value="get Data Table" />
       <item value="success" />
-      <item value="delete Office Hc Data" />
-      <item value="Path Variable" />
-      <item value="office Supplies Service" />
-      <item value="supplies Logistics Service" />
-      <item value="Gx Oa Supplies Logistics" />
-      <item value="user Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="903" />
+        <entry key="ENGLISH" value="904" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
