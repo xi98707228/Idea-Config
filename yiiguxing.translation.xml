@@ -4,11 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="sum Price" />
       <item value="table Row Data" />
       <item value="get Data Table" />
       <item value="success" />
-      <item value="apply Id" />
+      <item value="delete Office Hc Data" />
+      <item value="Path Variable" />
       <item value="office Supplies Service" />
+      <item value="apply Id" />
       <item value="list" />
       <item value="supplies Logistics Service" />
       <item value="Gx Oa Supplies Logistics" />
@@ -51,14 +54,11 @@
       <item value="unread" />
       <item value="Type Descriptor" />
       <item value="convert If Necessary" />
-      <item value="A &lt;code&gt;PushbackInputStream&lt;code&gt; adds functionality to another input stream, namely the ability to &quot;push back&quot; or &quot;unread&quot; one byte. This is useful in situations where it is convenient for a fragment of code to read an indefinite number of data bytes that are delimited by a particular byte value; after reading the terminating byte, the code fragment can &quot;unread&quot; it, so that the next read operation on the input stream will reread the byte that was pushed back. For example, bytes representing the characters constituting an identifier might be terminated by a byte representing an operator character; a method whose job is to read just an identifier can read until it sees the operator and then push the operator back to be re-read." />
-      <item value="Pushback Input Stream" />
-      <item value="was expecting double-quote to start field name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
-        <entry key="ENGLISH" value="840" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
