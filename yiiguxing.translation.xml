@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="从前端获取" />
+      <item value="统一参数" />
+      <item value="JSON" />
       <item value="current Act Id" />
       <item value="图片上传" />
       <item value="办公用品劳保流程" />
@@ -51,14 +54,11 @@
       <item value="Mobile Expand Param Vo" />
       <item value="reset" />
       <item value="mark" />
-      <item value="@return &lt;code&gt;true&lt;code&gt; if this stream instance supports the mark and reset methods; &lt;code&gt;false&lt;code&gt; otherwise." />
-      <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;code&gt; and &lt;code&gt;reset&lt;code&gt; methods. Whether or not &lt;code&gt;mark&lt;code&gt; and &lt;code&gt;reset&lt;code&gt; are supported is an invariant property of a particular input stream instance. The &lt;code&gt;markSupported&lt;code&gt; method of &lt;code&gt;InputStream&lt;code&gt; returns &lt;code&gt;false&lt;code&gt;. @return &lt;code&gt;true&lt;code&gt; if this stream instance supports the mark and reset methods; &lt;code&gt;false&lt;code&gt; otherwise. @see java.io.InputStreammark(int) @see java.io.InputStreamreset()" />
-      <item value="mark Supported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="852" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="856" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
