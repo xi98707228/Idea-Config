@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="might be a writer waiting" />
       <item value="serial Persistent Fields" />
       <item value="get URL Stream Handler" />
       <item value="Throws a &lt;code&gt;SecurityException&lt;code&gt; if the calling thread is not allowed to set the socket factory used by &lt;code&gt;ServerSocket&lt;code&gt; or &lt;code&gt;Socket&lt;code&gt;, or the stream handler factory used by &lt;code&gt;URL&lt;code&gt;. &lt;p&gt; This method calls &lt;code&gt;checkPermission&lt;code&gt; with the &lt;code&gt;RuntimePermission(&quot;setFactory&quot;)&lt;code&gt; permission. &lt;p&gt; If you override this method, then you should make a call to &lt;code&gt;super.checkSetFactory&lt;code&gt; at the point the overridden method would normally throw an exception. &lt;p&gt;" />
@@ -50,12 +51,11 @@
       <item value="Data Output Stream" />
       <item value="Byte Array Output Stream" />
       <item value="Object Output Stream" />
-      <item value="flush" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="HINDI" value="1" />
