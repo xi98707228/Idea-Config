@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="next Transfer Amount" />
+      <item value="sink" />
+      <item value="closed by writer, return EOF" />
       <item value="might be a writer waiting" />
       <item value="serial Persistent Fields" />
       <item value="get URL Stream Handler" />
@@ -48,14 +51,11 @@
       <item value="blkmode" />
       <item value="pos" />
       <item value="Output Stream" />
-      <item value="Data Output Stream" />
-      <item value="Byte Array Output Stream" />
-      <item value="Object Output Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="HINDI" value="1" />
