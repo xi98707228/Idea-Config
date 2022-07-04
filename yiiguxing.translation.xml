@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Gx Oa Office Supplies Relation" />
+      <item value="lambda" />
+      <item value="is Not Empty" />
+      <item value="list" />
+      <item value="user Service" />
+      <item value="get Logon Name" />
+      <item value="Security Utils" />
       <item value="从前端获取" />
       <item value="统一参数" />
       <item value="JSON" />
@@ -19,16 +26,13 @@
       <item value="delete Office Hc Data" />
       <item value="Path Variable" />
       <item value="office Supplies Service" />
-      <item value="list" />
       <item value="supplies Logistics Service" />
       <item value="Gx Oa Supplies Logistics" />
       <item value="user Id" />
-      <item value="Security Utils" />
       <item value="relation Distinct List" />
       <item value="supplies" />
       <item value="total Count" />
       <item value="bean Row Id" />
-      <item value="Gx Oa Office Supplies Relation" />
       <item value="get Main Id" />
       <item value="office Supplies Relation Service" />
       <item value="res Map" />
@@ -50,15 +54,11 @@
       <item value="discovery" />
       <item value="notifier" />
       <item value="apply" />
-      <item value="equals" />
-      <item value="Mobile Expand Param Vo" />
-      <item value="reset" />
-      <item value="mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="862" />
+        <entry key="ENGLISH" value="863" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
