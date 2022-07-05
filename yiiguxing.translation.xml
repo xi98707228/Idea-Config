@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="只有当未开票金额大于0时才进行相减" />
+      <item value="Gets the system property indicated by the specified key. &lt;p&gt; First, if there is a security manager, its &lt;code&gt;checkPropertyAccess&lt;code&gt; method is called with the key as its argument. This may result in a SecurityException. &lt;p&gt; If there is no current set of system properties, a set of system properties is first created and initialized in the same manner as for the &lt;code&gt;getProperties&lt;code&gt; method. @param key the name of the system property. @return the string value of the system property, or &lt;code&gt;null&lt;code&gt; if there is no property with that key. @exception SecurityException if a security manager exists and its &lt;code&gt;checkPropertyAccess&lt;code&gt; method doesn't allow access to the specified system property. @exception NullPointerException if &lt;code&gt;key&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @exception IllegalArgumentException if &lt;code&gt;key&lt;code&gt; is empty. @see setProperty @see java.lang.SecurityException @see java.lang.SecurityManagercheckPropertyAccess(java.lang.String) @see java.lang.SystemgetProperties()" />
+      <item value="get Property" />
+      <item value="Wrapper Proxy" />
+      <item value="Statement" />
+      <item value="Statement Proxy" />
+      <item value="internal After Statement Execute" />
       <item value="Establishes the heap invariant (described above) in the subtree rooted at k, which is assumed to satisfy the heap invariant except possibly for node k itself (which may have a nextExecutionTime greater than its children's). This method functions by &quot;demoting&quot; queue[k] down the hierarchy (by swapping it with its smaller child) repeatedly until queue[k]'s nextExecutionTime is less than or equal to those of its children." />
       <item value="fix Down" />
       <item value="heapify" />
@@ -47,18 +54,11 @@
       <item value="JSON" />
       <item value="current Act Id" />
       <item value="图片上传" />
-      <item value="办公用品劳保流程" />
-      <item value="Request Param" />
-      <item value="apply Id" />
-      <item value="sum Price" />
-      <item value="table Row Data" />
-      <item value="get Data Table" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="910" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
