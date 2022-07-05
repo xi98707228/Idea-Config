@@ -4,12 +4,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="sleep" />
+      <item value="Future Utils" />
+      <item value="examine Mag Instrument Part" />
+      <item value="mag Spare Instrument Service" />
+      <item value="get Row Id" />
+      <item value="Gx Oa Work Order" />
+      <item value="wait Statistics Project Row Id List" />
+      <item value="get Project Row Id" />
+      <item value="value Of" />
+      <item value="business Relation Row Id List" />
+      <item value="mag Spare Order Relation Service" />
+      <item value="Mag Spare Order Relation" />
+      <item value="instrument Revenue Count" />
+      <item value="all Done" />
+      <item value="cost Order Revenue Count" />
       <item value="wait current Future To Finishing" />
       <item value="compute Cost Order Revenue Count Thread Future" />
       <item value="compute Instrument Revenue Count Thread Future" />
       <item value="Big Decimal" />
       <item value="print Stack Trace" />
-      <item value="get Row Id" />
       <item value="instantiate" />
       <item value="Linked Blocking Queue" />
       <item value="new Fixed Thread Pool" />
@@ -20,9 +34,7 @@
       <item value="Delegating Completable Future" />
       <item value="Async Listenable Task Executor" />
       <item value="Thread Pool Task Executor" />
-      <item value="instrument Revenue Count" />
       <item value="instrument Revenue Count Atomic Reference" />
-      <item value="cost Order Revenue Count" />
       <item value="TUPLE 2_BIFUNCTION" />
       <item value="Flux" />
       <item value="combine Latest" />
@@ -42,23 +54,11 @@
       <item value="compute Cost Order Revenue Count" />
       <item value="completed Future" />
       <item value="run Async" />
-      <item value="complete Null" />
-      <item value="Null-checks user executor argument, and translates uses of commonPool to asyncPool in case parallelism disabled." />
-      <item value="screen Executor" />
-      <item value="async Run Stage" />
-      <item value="Executor" />
-      <item value="Executor Service" />
-      <item value="Bi Relay" />
-      <item value="reject" />
-      <item value="delayed Execute" />
-      <item value="Scheduled Future" />
-      <item value="Caller Runs Policy" />
-      <item value="thread Pool Task Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1047" />
-        <entry key="ENGLISH" value="1048" />
+        <entry key="CHINESE" value="1065" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
