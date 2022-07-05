@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="INHERITEDACCESSCONTROLCONTEXT" />
+      <item value="Abstract Executor Service" />
+      <item value="Contended" />
+      <item value="Safe Fork Join Worker Thread Factory" />
+      <item value="finance Statistics Target Customer" />
+      <item value="compute Customer Project List" />
       <item value="只有当未开票金额大于0时才进行相减" />
       <item value="Gets the system property indicated by the specified key. &lt;p&gt; First, if there is a security manager, its &lt;code&gt;checkPropertyAccess&lt;code&gt; method is called with the key as its argument. This may result in a SecurityException. &lt;p&gt; If there is no current set of system properties, a set of system properties is first created and initialized in the same manner as for the &lt;code&gt;getProperties&lt;code&gt; method. @param key the name of the system property. @return the string value of the system property, or &lt;code&gt;null&lt;code&gt; if there is no property with that key. @exception SecurityException if a security manager exists and its &lt;code&gt;checkPropertyAccess&lt;code&gt; method doesn't allow access to the specified system property. @exception NullPointerException if &lt;code&gt;key&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @exception IllegalArgumentException if &lt;code&gt;key&lt;code&gt; is empty. @see setProperty @see java.lang.SecurityException @see java.lang.SecurityManagercheckPropertyAccess(java.lang.String) @see java.lang.SystemgetProperties()" />
       <item value="get Property" />
@@ -48,17 +54,11 @@
       <item value="list" />
       <item value="user Service" />
       <item value="get Logon Name" />
-      <item value="Security Utils" />
-      <item value="从前端获取" />
-      <item value="统一参数" />
-      <item value="JSON" />
-      <item value="current Act Id" />
-      <item value="图片上传" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
