@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new Cached Thread Pool" />
       <item value="do Other Things" />
       <item value="cas Reflection Data" />
       <item value="Comment out the following default constructor to see NoSuchMethodError from (1)" />
@@ -50,7 +51,6 @@
       <item value="check for replacement object" />
       <item value="Freeze Alien" />
       <item value="Thaw Alien" />
-      <item value="Try to recover a serialized file without the class of object that's stored in that file." />
     </histories>
     <option name="languageScores">
       <map>
