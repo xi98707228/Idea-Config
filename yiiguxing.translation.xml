@@ -4,66 +4,67 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="INHERITEDACCESSCONTROLCONTEXT" />
-      <item value="Abstract Executor Service" />
-      <item value="Contended" />
-      <item value="Safe Fork Join Worker Thread Factory" />
-      <item value="finance Statistics Target Customer" />
-      <item value="compute Customer Project List" />
-      <item value="只有当未开票金额大于0时才进行相减" />
-      <item value="Gets the system property indicated by the specified key. &lt;p&gt; First, if there is a security manager, its &lt;code&gt;checkPropertyAccess&lt;code&gt; method is called with the key as its argument. This may result in a SecurityException. &lt;p&gt; If there is no current set of system properties, a set of system properties is first created and initialized in the same manner as for the &lt;code&gt;getProperties&lt;code&gt; method. @param key the name of the system property. @return the string value of the system property, or &lt;code&gt;null&lt;code&gt; if there is no property with that key. @exception SecurityException if a security manager exists and its &lt;code&gt;checkPropertyAccess&lt;code&gt; method doesn't allow access to the specified system property. @exception NullPointerException if &lt;code&gt;key&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @exception IllegalArgumentException if &lt;code&gt;key&lt;code&gt; is empty. @see setProperty @see java.lang.SecurityException @see java.lang.SecurityManagercheckPropertyAccess(java.lang.String) @see java.lang.SystemgetProperties()" />
-      <item value="get Property" />
-      <item value="Wrapper Proxy" />
-      <item value="Statement" />
-      <item value="Statement Proxy" />
-      <item value="internal After Statement Execute" />
-      <item value="Establishes the heap invariant (described above) in the subtree rooted at k, which is assumed to satisfy the heap invariant except possibly for node k itself (which may have a nextExecutionTime greater than its children's). This method functions by &quot;demoting&quot; queue[k] down the hierarchy (by swapping it with its smaller child) repeatedly until queue[k]'s nextExecutionTime is less than or equal to those of its children." />
-      <item value="fix Down" />
-      <item value="heapify" />
-      <item value="Removes all cancelled tasks from this timer's task queue. &lt;i&gt;Calling this method has no effect on the behavior of the timer&lt;i&gt;, but eliminates the references to the cancelled tasks from the queue. If there are no external references to these tasks, they become eligible for garbage collection. &lt;p&gt;Most programs will have no need to call this method. It is designed for use by the rare application that cancels a large number of tasks. Calling this method trades time for space: the runtime of the method may be proportional to n + c log n, where n is the number of tasks in the queue and c is the number of cancelled tasks. &lt;p&gt;Note that it is permissible to call this method from within a a task scheduled on this timer. @return the number of tasks removed from the queue." />
-      <item value="purge" />
-      <item value="Schedules the specified task for repeated &lt;i&gt;fixed-rate execution&lt;i&gt;, beginning after the specified delay. Subsequent executions take place at approximately regular intervals, separated by the specified period. &lt;p&gt;In fixed-rate execution, each execution is scheduled relative to the scheduled execution time of the initial execution. If an execution is delayed for any reason (such as garbage collection or other background activity), two or more executions will occur in rapid succession to &quot;catch up.&quot; In the long run, the frequency of execution will be exactly the reciprocal of the specified period (assuming the system clock underlying &lt;tt&gt;Object.wait(long)&lt;tt&gt; is accurate). &lt;p&gt;Fixed-rate execution is appropriate for recurring activities that are sensitive to &lt;i&gt;absolute&lt;i&gt; time, such as ringing a chime every hour on the hour, or running scheduled maintenance every day at a particular time. It is also appropriate for recurring activities where the total time to perform a fixed number of executions is important, such as a countdown timer that ticks once every second for ten seconds. Finally, fixed-rate execution is appropriate for scheduling multiple repeating timer tasks that must remain synchronized with respect to one another." />
-      <item value="delay" />
-      <item value="schedule At Fixed Rate" />
-      <item value="&lt;p&gt;Implementation note: All constructors start a timer thread." />
-      <item value="Josh Bloch" />
-      <item value="Priority queue represented as a balanced binary heap: the two children of queue[n] are queue[2n] and queue[2n+1]. The priority queue is ordered on the nextExecutionTime field: The TimerTask with the lowest nextExecutionTime is in queue[1] (assuming the queue is nonempty). For each node n in the heap, and each descendant of n, d, n.nextExecutionTime &lt;= d.nextExecutionTime." />
-      <item value="trigger At Second" />
-      <item value="main Loop" />
-      <item value="fix Up" />
-      <item value="new Tasks May Be Scheduled" />
-      <item value="period" />
-      <item value="Constrain value of period sufficiently to prevent numeric overflow while still being effectively infinitely large." />
-      <item value="time in milliseconds between successive task executions." />
-      <item value="Schedules the specified task for execution after the specified delay. @param task task to be scheduled. @param delay delay in milliseconds before task is to be executed. @throws IllegalArgumentException if &lt;tt&gt;delay&lt;tt&gt; is negative, or &lt;tt&gt;delay + System.currentTimeMillis()&lt;tt&gt; is negative. @throws IllegalStateException if task was already scheduled or cancelled, timer was cancelled, or timer thread terminated. @throws NullPointerException if {@code task} is null" />
-      <item value="Timer" />
-      <item value="connection Manager Timer" />
-      <item value="Period in milliseconds for repeating tasks. A positive value indicates fixed-rate execution. A negative value indicates fixed-delay execution. A value of 0 indicates a non-repeating task." />
-      <item value="EXECUTED" />
-      <item value="CANCELLED" />
-      <item value="This task has not yet been scheduled." />
-      <item value="VIRGIN" />
-      <item value="mobile Submit Form" />
-      <item value="get Agent Key" />
-      <item value="product Invoice Relation Form Vo" />
-      <item value="source Order Id" />
-      <item value="sell Invoice Relationship" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="lambda" />
-      <item value="is Not Empty" />
-      <item value="list" />
-      <item value="user Service" />
-      <item value="get Logon Name" />
+      <item value="收入总金额" />
+      <item value="Finance Revenue Expend Part" />
+      <item value="Finance Revenue Expand Part" />
+      <item value="Finance Statistics Revenue" />
+      <item value="Finance Statistics Expend" />
+      <item value="工单物料相关支出" />
+      <item value="finance Statistics Expend" />
+      <item value="REIMBURSEMENT STATISTICS KEY" />
+      <item value="报销支出" />
+      <item value="revenue Statistics" />
+      <item value="REVENUE STATISTICS KEY" />
+      <item value="COST ORDER STATISTICS KEY" />
+      <item value="finance Statistics Revenue" />
+      <item value="EXPEND STATISTICS KEY" />
+      <item value="CONTRACT STATISTICS KEY" />
+      <item value="compute Count Result" />
+      <item value="initialization" />
+      <item value="Property Sourced Request Mapping Handler Mapping" />
+      <item value="项目数据" />
+      <item value="搜索全部客户的全部合同" />
+      <item value="finance Statistics Contract" />
+      <item value="execute Post Statistics Map" />
+      <item value="Custom Contract File Relation" />
+      <item value="compute Without Invoice Count Result" />
+      <item value="evaluate" />
+      <item value="The shape specialization corresponding to {@code Stream} and elements that are object references." />
+      <item value="REFERENCE" />
+      <item value="Stream Shape" />
+      <item value="Terminal Op" />
+      <item value="compute Really Count Result" />
+      <item value="ZERO" />
+      <item value="result Compute Contract Statistics" />
+      <item value="add" />
+      <item value="Customer Project Service" />
+      <item value="物料报价差利润" />
+      <item value="获取合同统计数据" />
+      <item value="获取收入统计数据" />
+      <item value="合同收款单收款" />
+      <item value="获取支出统计数据" />
+      <item value="计算报销额度" />
+      <item value="business Relation Row Id List" />
+      <item value="Collection Utils" />
+      <item value="reimbursement Count" />
+      <item value="instrument Expend" />
+      <item value="statistics Projects" />
+      <item value="sequential" />
+      <item value="True if pipeline is parallel, otherwise the pipeline is sequential; only valid for the source stage." />
+      <item value="只统计选中的客户统计信息" />
+      <item value="statistics" />
+      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="971" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
