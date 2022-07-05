@@ -4,13 +4,46 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="completed Future" />
+      <item value="run Async" />
+      <item value="complete Null" />
+      <item value="Null-checks user executor argument, and translates uses of commonPool to asyncPool in case parallelism disabled." />
+      <item value="screen Executor" />
+      <item value="async Run Stage" />
+      <item value="Executor" />
+      <item value="Executor Service" />
+      <item value="Bi Relay" />
+      <item value="reject" />
+      <item value="delayed Execute" />
+      <item value="Scheduled Future" />
+      <item value="Caller Runs Policy" />
+      <item value="thread Pool Task Executor" />
+      <item value="scheduled Executor Service" />
+      <item value="Thread Pool Task Executor" />
+      <item value="Completable Future" />
+      <item value="complete" />
+      <item value="report Join" />
+      <item value="compute Cost Order Revenue Count" />
+      <item value="Finance Statistics Expend Part" />
+      <item value="statistics Expend Data List" />
+      <item value="Collection Utils" />
+      <item value="is Empty" />
+      <item value="schedule" />
+      <item value="resume" />
+      <item value="Doug Lea" />
+      <item value="print Exception" />
+      <item value="record Logininfor" />
+      <item value="Preparing" />
+      <item value="for Each" />
+      <item value="finance Statistics Expend" />
+      <item value="compute Revenue Count Result" />
+      <item value="revenue Expend Category" />
       <item value="收入总金额" />
       <item value="Finance Revenue Expend Part" />
       <item value="Finance Revenue Expand Part" />
       <item value="Finance Statistics Revenue" />
       <item value="Finance Statistics Expend" />
       <item value="工单物料相关支出" />
-      <item value="finance Statistics Expend" />
       <item value="REIMBURSEMENT STATISTICS KEY" />
       <item value="报销支出" />
       <item value="revenue Statistics" />
@@ -21,44 +54,11 @@
       <item value="CONTRACT STATISTICS KEY" />
       <item value="compute Count Result" />
       <item value="initialization" />
-      <item value="Property Sourced Request Mapping Handler Mapping" />
-      <item value="项目数据" />
-      <item value="搜索全部客户的全部合同" />
-      <item value="finance Statistics Contract" />
-      <item value="execute Post Statistics Map" />
-      <item value="Custom Contract File Relation" />
-      <item value="compute Without Invoice Count Result" />
-      <item value="evaluate" />
-      <item value="The shape specialization corresponding to {@code Stream} and elements that are object references." />
-      <item value="REFERENCE" />
-      <item value="Stream Shape" />
-      <item value="Terminal Op" />
-      <item value="compute Really Count Result" />
-      <item value="ZERO" />
-      <item value="result Compute Contract Statistics" />
-      <item value="add" />
-      <item value="Customer Project Service" />
-      <item value="物料报价差利润" />
-      <item value="获取合同统计数据" />
-      <item value="获取收入统计数据" />
-      <item value="合同收款单收款" />
-      <item value="获取支出统计数据" />
-      <item value="计算报销额度" />
-      <item value="business Relation Row Id List" />
-      <item value="Collection Utils" />
-      <item value="reimbursement Count" />
-      <item value="instrument Expend" />
-      <item value="statistics Projects" />
-      <item value="sequential" />
-      <item value="True if pipeline is parallel, otherwise the pipeline is sequential; only valid for the source stage." />
-      <item value="只统计选中的客户统计信息" />
-      <item value="statistics" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="971" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
