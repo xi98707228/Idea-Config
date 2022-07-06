@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Global Exception Handler" />
       <item value="sleep" />
       <item value="Future Utils" />
       <item value="examine Mag Instrument Part" />
@@ -53,12 +54,11 @@
       <item value="Volatile Call Site" />
       <item value="compute Cost Order Revenue Count" />
       <item value="completed Future" />
-      <item value="run Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1065" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="1066" />
+        <entry key="ENGLISH" value="1067" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
