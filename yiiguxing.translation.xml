@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="compute Cost Order Revenue Count Thread Future" />
+      <item value="Starting Async Completable Thread" />
+      <item value="statistics Revenue Expend Data List" />
+      <item value="Finance Revenue Expend Item" />
+      <item value="Completable" />
+      <item value="===================== 收入模块 ===========================" />
+      <item value="Completable Future" />
       <item value="expend Statistics" />
       <item value="工单使用物料差价收入金额" />
       <item value="Could" />
@@ -29,7 +36,6 @@
       <item value="all Done" />
       <item value="cost Order Revenue Count" />
       <item value="wait current Future To Finishing" />
-      <item value="compute Cost Order Revenue Count Thread Future" />
       <item value="compute Instrument Revenue Count Thread Future" />
       <item value="Big Decimal" />
       <item value="print Stack Trace" />
@@ -48,17 +54,11 @@
       <item value="Flux" />
       <item value="combine Latest" />
       <item value="Disposable" />
-      <item value="Scalar Callable" />
-      <item value="submit" />
-      <item value="compute Revenue Count Result" />
-      <item value="差价相关" />
-      <item value="statistics Projects" />
-      <item value="report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1077" />
-        <entry key="ENGLISH" value="1078" />
+        <entry key="CHINESE" value="1088" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
