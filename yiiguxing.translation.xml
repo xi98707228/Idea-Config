@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Executor Completion Service" />
+      <item value="File Output Stream" />
+      <item value="update Bytes" />
+      <item value="Checked Output Stream" />
       <item value="compute Cost Order Revenue Count Thread Future" />
       <item value="Starting Async Completable Thread" />
       <item value="statistics Revenue Expend Data List" />
@@ -50,15 +54,11 @@
       <item value="Async Listenable Task Executor" />
       <item value="Thread Pool Task Executor" />
       <item value="instrument Revenue Count Atomic Reference" />
-      <item value="TUPLE 2_BIFUNCTION" />
-      <item value="Flux" />
-      <item value="combine Latest" />
-      <item value="Disposable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
-        <entry key="ENGLISH" value="1089" />
+        <entry key="CHINESE" value="1092" />
+        <entry key="ENGLISH" value="1093" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
