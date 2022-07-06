@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="expend Statistics" />
       <item value="工单使用物料差价收入金额" />
       <item value="Could" />
       <item value="计算物料支出额度" />
@@ -53,12 +54,11 @@
       <item value="差价相关" />
       <item value="statistics Projects" />
       <item value="report" />
-      <item value="Runnable Future" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1077" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="ENGLISH" value="1078" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
