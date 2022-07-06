@@ -4,8 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Global Exception Handler" />
+      <item value="计算物料支出额度" />
+      <item value="compute Count Result" />
+      <item value="reimbursement Count" />
+      <item value="mag Spare Order Relation Service" />
+      <item value="instrument Expend" />
+      <item value="装载支出数据" />
       <item value="sleep" />
+      <item value="Global Exception Handler" />
       <item value="Future Utils" />
       <item value="examine Mag Instrument Part" />
       <item value="mag Spare Instrument Service" />
@@ -15,7 +21,6 @@
       <item value="get Project Row Id" />
       <item value="value Of" />
       <item value="business Relation Row Id List" />
-      <item value="mag Spare Order Relation Service" />
       <item value="Mag Spare Order Relation" />
       <item value="instrument Revenue Count" />
       <item value="all Done" />
@@ -49,16 +54,11 @@
       <item value="Runnable Future" />
       <item value="is Done" />
       <item value="trigger Time" />
-      <item value="Call Site" />
-      <item value="A {@code VolatileCallSite} is a {@link CallSite} whose target acts like a volatile variable. An {@code invokedynamic} instruction linked to a {@code VolatileCallSite} sees updates to its call site target immediately, even if the update occurs in another thread. There may be a performance penalty for such tight coupling between threads. &lt;p&gt; Unlike {@code MutableCallSite}, there is no {@linkplain MutableCallSitesyncAll syncAll operation} on volatile call sites, since every write to a volatile variable is implicitly synchronized with reader threads. &lt;p&gt; In other respects, a {@code VolatileCallSite} is interchangeable with {@code MutableCallSite}. @see MutableCallSite @author John Rose, JSR 292 EG" />
-      <item value="Volatile Call Site" />
-      <item value="compute Cost Order Revenue Count" />
-      <item value="completed Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1066" />
-        <entry key="ENGLISH" value="1067" />
+        <entry key="CHINESE" value="1076" />
+        <entry key="ENGLISH" value="1076" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
