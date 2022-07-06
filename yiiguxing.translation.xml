@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="examine store reimbursement relationship" />
+      <item value="Examine Store Reimbursement Relationship" />
       <item value="Table Id" />
       <item value="Warn" />
       <item value="config key" />
@@ -52,13 +54,11 @@
       <item value="all Done" />
       <item value="cost Order Revenue Count" />
       <item value="wait current Future To Finishing" />
-      <item value="compute Instrument Revenue Count Thread Future" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1106" />
-        <entry key="ENGLISH" value="1107" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
