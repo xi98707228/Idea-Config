@@ -4,17 +4,38 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="examine personal reimbursement" />
-      <item value="Examine Personal Reimbursement" />
+      <item value="Inner Methods Block" />
+      <item value="Application Context Aware" />
       <item value="create User Dept Id" />
       <item value="create User Name" />
+      <item value="create User Id" />
+      <item value="审批的报销单Ids" />
+      <item value="个人报销流程审批实体" />
+      <item value="此系统中该流程为后台隐式数据显示" />
+      <item value="987072248" />
+      <item value="examine personal reimbursement" />
+      <item value="Examine Personal Reimbursement" />
+      <item value="row id" />
+      <item value="row Id" />
+      <item value="ID WORKER STR" />
+      <item value="create User Dept Name" />
+      <item value="is End" />
+      <item value="update Time" />
+      <item value="pattern" />
+      <item value="set Create User Name" />
+      <item value="annotation" />
+      <item value="Table Id" />
+      <item value="Json Format" />
+      <item value="njshide" />
+      <item value="deviceapi" />
+      <item value="e 70 g 3 zs 2 u 7" />
+      <item value="sequence Number" />
+      <item value="select" />
       <item value="reimbursement Date" />
       <item value="examine store reimbursement relationship" />
       <item value="Examine Store Reimbursement Relationship" />
-      <item value="Table Id" />
       <item value="Warn" />
       <item value="config key" />
-      <item value="select" />
       <item value="init Table Fields" />
       <item value="param Object" />
       <item value="start Page" />
@@ -33,32 +54,11 @@
       <item value="Finance Revenue Expend Item" />
       <item value="Completable" />
       <item value="===================== 收入模块 ===========================" />
-      <item value="Completable Future" />
-      <item value="expend Statistics" />
-      <item value="工单使用物料差价收入金额" />
-      <item value="Could" />
-      <item value="计算物料支出额度" />
-      <item value="compute Count Result" />
-      <item value="reimbursement Count" />
-      <item value="mag Spare Order Relation Service" />
-      <item value="instrument Expend" />
-      <item value="装载支出数据" />
-      <item value="sleep" />
-      <item value="Global Exception Handler" />
-      <item value="Future Utils" />
-      <item value="examine Mag Instrument Part" />
-      <item value="mag Spare Instrument Service" />
-      <item value="get Row Id" />
-      <item value="Gx Oa Work Order" />
-      <item value="wait Statistics Project Row Id List" />
-      <item value="get Project Row Id" />
-      <item value="value Of" />
-      <item value="business Relation Row Id List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1115" />
-        <entry key="ENGLISH" value="1116" />
+        <entry key="CHINESE" value="1154" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
