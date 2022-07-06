@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Integer" />
       <item value="Inner Methods Block" />
       <item value="Application Context Aware" />
       <item value="create User Dept Id" />
@@ -53,12 +54,11 @@
       <item value="statistics Revenue Expend Data List" />
       <item value="Finance Revenue Expend Item" />
       <item value="Completable" />
-      <item value="===================== 收入模块 ===========================" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1154" />
-        <entry key="ENGLISH" value="1155" />
+        <entry key="CHINESE" value="1155" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
