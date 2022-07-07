@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="审批表单row Id" />
+      <item value="INFO" />
       <item value="Examine Reimbursement Order Service" />
       <item value="set Create Time" />
       <item value="Integer" />
@@ -52,13 +54,11 @@
       <item value="update Bytes" />
       <item value="Checked Output Stream" />
       <item value="compute Cost Order Revenue Count Thread Future" />
-      <item value="Starting Async Completable Thread" />
-      <item value="statistics Revenue Expend Data List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1159" />
+        <entry key="ENGLISH" value="1159" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
