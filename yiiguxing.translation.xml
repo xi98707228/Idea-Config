@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Service" />
       <item value="pattern" />
       <item value="报销流程和此单据的组合视图" />
       <item value="reimbursement" />
@@ -53,12 +54,11 @@
       <item value="create User Dept Name" />
       <item value="is End" />
       <item value="update Time" />
-      <item value="set Create User Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1187" />
-        <entry key="ENGLISH" value="1188" />
+        <entry key="CHINESE" value="1188" />
+        <entry key="ENGLISH" value="1189" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
