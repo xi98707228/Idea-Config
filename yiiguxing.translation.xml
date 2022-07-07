@@ -1,68 +1,83 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Passing a handle, modifies outside object:" />
-      <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;i&gt;. Structural modifications are those that change the size of the list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results. &lt;p&gt;This field is used by the iterator and list iterator implementation returned by the {@code iterator} and {@code listIterator} methods. If the value of this field changes unexpectedly, the iterator (or list iterator) will throw a {@code ConcurrentModificationException} in response to the {@code next}, {@code remove}, {@code previous}, {@code set} or {@code add} operations. This provides &lt;i&gt;fail-fast&lt;i&gt; behavior, rather than non-deterministic behavior in the face of concurrent modification during iteration. &lt;p&gt;&lt;b&gt;Use of this field by subclasses is optional.&lt;b&gt; If a subclass wishes to provide fail-fast iterators (and list iterators), then it merely has to increment this field in its {@code add(int, E)} and {@code remove(int)} methods (and any other methods that it overrides that result in structural modifications to the list). A single call to {@code add(int, E)} or {@code remove(int)} must add no more than one to this field, or the iterators (and list iterators) will throw bogus {@code ConcurrentModificationExceptions}. If an implementation does not wish to provide fail-fast iterators, this field may be ignored." />
-      <item value="Creates and returns a copy of this object. The precise meaning of &quot;copy&quot; may depend on the class of the object. The general intent is that, for any object {@code x}, the expression: &lt;blockquote&gt; &lt;pre&gt; x.clone() != x&lt;pre&gt;&lt;blockquote&gt; will be true, and that the expression: &lt;blockquote&gt; &lt;pre&gt; x.clone().getClass() == x.getClass()&lt;pre&gt;&lt;blockquote&gt; will be {@code true}, but these are not absolute requirements. While it is typically the case that: &lt;blockquote&gt; &lt;pre&gt; x.clone().equals(x)&lt;pre&gt;&lt;blockquote&gt; will be {@code true}, this is not an absolute requirement. &lt;p&gt; By convention, the returned object should be obtained by calling {@code super.clone}. If a class and all of its superclasses (except {@code Object}) obey this convention, it will be the case that {@code x.clone().getClass() == x.getClass()}. &lt;p&gt; By convention, the object returned by this method should be independent of this object (which is being cloned). To achieve this independence, it may be necessary to modify one or more fields of the object returned by {@code super.clone} before returning it. Typically, this means copying any mutable objects that comprise the internal &quot;deep structure&quot; of the object being cloned and replacing the references to these objects with references to the copies. If a class contains only primitive fields or references to immutable objects, then it is usually the case that no fields in the object returned by {@code super.clone} need to be modified. &lt;p&gt; The method {@code clone} for class {@code Object} performs a specific cloning operation. First, if the class of this object does not implement the interface {@code Cloneable}, then a {@code CloneNotSupportedException} is thrown. Note that all arrays are considered to implement the interface {@code Cloneable} and that the return type of the {@code clone} method of an array type {@code T[]} is {@code T[]} where T is any reference or primitive type. Otherwise, this method creates a new instance of the class of this object and initializes all its fields with exactly the contents of the corresponding fields of this object, as if by assignment; the contents of the fields are not themselves cloned. Thus, this method performs a &quot;shallow copy&quot; of this object, not a &quot;deep copy&quot; operation. &lt;p&gt; The class {@code Object} does not itself implement the interface {@code Cloneable}, so calling the {@code clone} method on an object whose class is {@code Object} will result in throwing an exception at run time. @return a clone of this instance. @throws CloneNotSupportedException if the object's class does not support the {@code Cloneable} interface. Subclasses that override the {@code clone} method can also throw this exception to indicate that an instance cannot be cloned. @see java.lang.Cloneable" />
-      <item value="Assign the handle" />
-      <item value="pointer" />
-      <item value="Constructor Repository" />
-      <item value="parameter Types" />
-      <item value="Executable" />
-      <item value="new Constructor For Serialization" />
-      <item value="do Privileged" />
-      <item value="Privileged Action" />
-      <item value="Reflection Factory" />
-      <item value="get Reflection Factory" />
-      <item value="Identifies the set of all public members of a class or interface, including inherited members." />
-      <item value="Identifies the set of declared members of a class or interface. Inherited members are not included." />
-      <item value="DECLARED" />
-      <item value="CT COMMENT" />
-      <item value="word Chars" />
-      <item value="ordinary Chars" />
-      <item value="new Cached Thread Pool" />
-      <item value="do Other Things" />
-      <item value="cas Reflection Data" />
-      <item value="Comment out the following default constructor to see NoSuchMethodError from (1)" />
-      <item value="Waterproof" />
-      <item value="reflection Data" />
-      <item value="inter" />
-      <item value="instanceof" />
-      <item value="Determines if the specified {@code Object} is assignment-compatible with the object represented by this {@code Class}. This method is the dynamic equivalent of the Java language {@code instanceof} operator. The method returns {@code true} if the specified {@code Object} argument is non-null and can be cast to the reference type represented by this {@code Class} object without raising a {@code ClassCastException.} It returns {@code false} otherwise. &lt;p&gt; Specifically, if this {@code Class} object represents a declared class, this method returns {@code true} if the specified {@code Object} argument is an instance of the represented class (or of any of its subclasses); it returns {@code false} otherwise. If this {@code Class} object represents an array class, this method returns {@code true} if the specified {@code Object} argument can be converted to an object of the array class by an identity conversion or by a widening reference conversion; it returns {@code false} otherwise. If this {@code Class} object represents an interface, this method returns {@code true} if the class or any superclass of the specified {@code Object} argument implements this interface; it returns {@code false} otherwise. If this {@code Class} object represents a primitive type, this method returns {@code false}." />
-      <item value="Hamster" />
-      <item value="next Transfer Amount" />
-      <item value="sink" />
-      <item value="closed by writer, return EOF" />
-      <item value="might be a writer waiting" />
-      <item value="serial Persistent Fields" />
-      <item value="get URL Stream Handler" />
-      <item value="Throws a &lt;code&gt;SecurityException&lt;code&gt; if the calling thread is not allowed to set the socket factory used by &lt;code&gt;ServerSocket&lt;code&gt; or &lt;code&gt;Socket&lt;code&gt;, or the stream handler factory used by &lt;code&gt;URL&lt;code&gt;. &lt;p&gt; This method calls &lt;code&gt;checkPermission&lt;code&gt; with the &lt;code&gt;RuntimePermission(&quot;setFactory&quot;)&lt;code&gt; permission. &lt;p&gt; If you override this method, then you should make a call to &lt;code&gt;super.checkSetFactory&lt;code&gt; at the point the overridden method would normally throw an exception. &lt;p&gt;" />
-      <item value="check Set Factory" />
-      <item value="Content Handler" />
-      <item value="authority" />
-      <item value="protocol" />
-      <item value="Url Deserialized State" />
-      <item value="BUILTIN HANDLERS PREFIX" />
-      <item value="URL" />
-      <item value="Stream Tokenizer" />
-      <item value="James Gosling" />
-      <item value="REMIND: identification of the read and write sides needs to be more sophisticated. Either using thread groups (but what about pipes within a thread?) or using finalization (but it may be a long time until the next GC)." />
-      <item value="write Side" />
-      <item value="await Space" />
-      <item value="Receives a byte of data. This method will block if no input is available. @param b the byte being received @exception IOException If the pipe is &lt;a href=&quot;BROKEN&quot;&gt; &lt;code&gt;broken&lt;code&gt;&lt;a&gt;, {@link connect(java.io.PipedOutputStream) unconnected}, closed, or if an IO error occurs." />
-      <item value="receive" />
+      <item value="TO CHAR" />
+      <item value="Comprehensive Summarize" />
+      <item value="start Page" />
+      <item value="examine Row Id" />
+      <item value="condition Param Row Ids" />
+      <item value="is Not Empty" />
+      <item value="Executor Completion Service" />
+      <item value="File Output Stream" />
+      <item value="update Bytes" />
+      <item value="Checked Output Stream" />
+      <item value="compute Cost Order Revenue Count Thread Future" />
+      <item value="Starting Async Completable Thread" />
+      <item value="statistics Revenue Expend Data List" />
+      <item value="Finance Revenue Expend Item" />
+      <item value="Completable" />
+      <item value="===================== 收入模块 ===========================" />
+      <item value="Completable Future" />
+      <item value="expend Statistics" />
+      <item value="工单使用物料差价收入金额" />
+      <item value="Could" />
+      <item value="计算物料支出额度" />
+      <item value="compute Count Result" />
+      <item value="reimbursement Count" />
+      <item value="mag Spare Order Relation Service" />
+      <item value="instrument Expend" />
+      <item value="装载支出数据" />
+      <item value="sleep" />
+      <item value="Global Exception Handler" />
+      <item value="Future Utils" />
+      <item value="examine Mag Instrument Part" />
+      <item value="mag Spare Instrument Service" />
+      <item value="get Row Id" />
+      <item value="Gx Oa Work Order" />
+      <item value="wait Statistics Project Row Id List" />
+      <item value="get Project Row Id" />
+      <item value="value Of" />
+      <item value="business Relation Row Id List" />
+      <item value="Mag Spare Order Relation" />
+      <item value="instrument Revenue Count" />
+      <item value="all Done" />
+      <item value="cost Order Revenue Count" />
+      <item value="wait current Future To Finishing" />
+      <item value="compute Instrument Revenue Count Thread Future" />
+      <item value="Big Decimal" />
+      <item value="print Stack Trace" />
+      <item value="instantiate" />
+      <item value="Linked Blocking Queue" />
+      <item value="new Fixed Thread Pool" />
+      <item value="await" />
+      <item value="not Empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="1099" />
+        <entry key="ENGLISH" value="1100" />
+        <entry key="ARABIC" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="FILIPINO" value="2" />
+        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="2" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="HMONG" value="1" />
-        <entry key="UZBEK" value="1" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="YORUBA" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656938663615" />
+    <option name="lastTrimTime" value="1656897881727" />
   </component>
 </application>
