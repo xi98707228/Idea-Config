@@ -4,16 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Ajax Result" />
+      <item value="报销流程和此单据的组合视图" />
       <item value="reimbursement" />
+      <item value="get Reimbursement Order List" />
+      <item value="null" />
+      <item value="get Data Table" />
+      <item value="wrapper User" />
+      <item value="TIMEOUT INDEFINITE" />
+      <item value="TIMEOUT IMMEDIATE" />
+      <item value="determine Async Executor" />
+      <item value="Search Strategy" />
+      <item value="Class" />
+      <item value="Sam Brannen" />
+      <item value="Phillip Webb" />
+      <item value="has Plain Java Annotations Only" />
+      <item value="get Executor Qualifier" />
+      <item value="Process Struct No Impl Exception" />
+      <item value="roll Back Save Process Data Info" />
+      <item value="XQH" />
+      <item value="Process Store Call" />
       <item value="operate Row Id" />
+      <item value="Ajax Result" />
       <item value="Common Annotations 1.0" />
       <item value="submit Reimbursement Relationship" />
       <item value="应该查询" />
-      <item value="报销流程和此单据的组合视图" />
       <item value="Flux" />
       <item value="store Reimbursement Order Relation Data" />
-      <item value="get Reimbursement Order List" />
       <item value="审批表单row Id" />
       <item value="INFO" />
       <item value="Examine Reimbursement Order Service" />
@@ -38,27 +54,11 @@
       <item value="update Time" />
       <item value="pattern" />
       <item value="set Create User Name" />
-      <item value="annotation" />
-      <item value="Table Id" />
-      <item value="Json Format" />
-      <item value="njshide" />
-      <item value="deviceapi" />
-      <item value="e 70 g 3 zs 2 u 7" />
-      <item value="sequence Number" />
-      <item value="select" />
-      <item value="reimbursement Date" />
-      <item value="examine store reimbursement relationship" />
-      <item value="Examine Store Reimbursement Relationship" />
-      <item value="Warn" />
-      <item value="config key" />
-      <item value="init Table Fields" />
-      <item value="param Object" />
-      <item value="start Page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1169" />
-        <entry key="ENGLISH" value="1170" />
+        <entry key="CHINESE" value="1187" />
+        <entry key="ENGLISH" value="1187" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -70,10 +70,12 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
