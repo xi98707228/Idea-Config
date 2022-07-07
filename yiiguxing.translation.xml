@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructor Repository" />
+      <item value="parameter Types" />
+      <item value="Executable" />
+      <item value="new Constructor For Serialization" />
+      <item value="do Privileged" />
+      <item value="Privileged Action" />
+      <item value="Reflection Factory" />
+      <item value="get Reflection Factory" />
       <item value="Identifies the set of all public members of a class or interface, including inherited members." />
       <item value="Identifies the set of declared members of a class or interface. Inherited members are not included." />
       <item value="DECLARED" />
@@ -43,19 +51,11 @@
       <item value="Ring bell" />
       <item value="987072248" />
       <item value="Greenhouse Controls" />
-      <item value="Write to a different stream:" />
-      <item value="s &amp; i initialized only in non-default" />
-      <item value="no valid constructor" />
-      <item value="new Invalid Class Exception" />
-      <item value="OOPS! Throws an exception:" />
-      <item value="Externalizable" />
-      <item value="process Queue" />
-      <item value="extended Debug Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="HINDI" value="1" />
