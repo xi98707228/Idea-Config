@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pointer" />
       <item value="Constructor Repository" />
       <item value="parameter Types" />
       <item value="Executable" />
@@ -50,12 +51,11 @@
       <item value="Output Stream Reader" />
       <item value="Ring bell" />
       <item value="987072248" />
-      <item value="Greenhouse Controls" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="HMONG" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="HINDI" value="1" />
