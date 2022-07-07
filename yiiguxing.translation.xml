@@ -4,6 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="indicate Table File Attribute" />
+      <item value="get Reimbursement Order List" />
+      <item value="start Page" />
+      <item value="list" />
+      <item value="examine Reimbursement Order Service" />
+      <item value="Examine Reimbursement Order" />
+      <item value="select List COUNT" />
+      <item value="SELECT" />
+      <item value="custom contract file relation" />
+      <item value="Parameters" />
+      <item value="Integer" />
+      <item value="Examine Store Reimbursement Relationship" />
+      <item value="set Queue Capacity" />
+      <item value="Snmp Socket" />
+      <item value="check State For Receive" />
+      <item value="The presence of this annotation indicates that the author believes the class to be thread-safe. As such, there should be no sequence of accessing the public methods or fields that could put an instance of this class into an invalid state, irrespective of any rearrangement of those operations by the Java Runtime and without introducing any requirements for synchronization or coordination by the calleraccessor. &lt;p&gt; This annotation is intended for internal use in OSHI as a temporary workaround until it is available in {@code jakarta.annotations}." />
+      <item value="Thread Safe" />
+      <item value="Gets a value between two characters having multiple same characters between them. &lt;b&gt;Examples : &lt;b&gt; &lt;ul&gt; &lt;li&gt;&quot;name = 'James Gosling's Java'&quot; returns &quot;James Gosling's Java&quot;&lt;li&gt; &lt;li&gt;&quot;pci.name = 'Realtek AC'97 Audio Device'&quot; returns &quot;Realtek AC'97 Audio Device&quot;&lt;li&gt; &lt;ul&gt;" />
+      <item value="is Alive" />
+      <item value="enumerate" />
+      <item value="max Priority" />
+      <item value="Uncaught Exception Handler" />
+      <item value="Returns the thread group into which to instantiate any new thread being created at the time this is being called. By default, it returns the thread group of the current thread. This should be overridden by a specific security manager to return the appropriate thread group. @return ThreadGroup that new threads are instantiated into @since JDK1.1" />
+      <item value="get Thread Group" />
+      <item value="the object whose {@code run} method is invoked when this thread is started. If {@code null}, this classes {@code run} method does nothing." />
+      <item value="When an object implementing interface &lt;code&gt;Runnable&lt;code&gt; is used to create a thread, starting the thread causes the object's &lt;code&gt;run&lt;code&gt; method to be called in that separately executing thread. &lt;p&gt; The general contract of the method &lt;code&gt;run&lt;code&gt; is that it may take any action whatsoever." />
       <item value="reimbursement" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
@@ -12,7 +38,6 @@
       <item value="Service" />
       <item value="pattern" />
       <item value="报销流程和此单据的组合视图" />
-      <item value="get Reimbursement Order List" />
       <item value="null" />
       <item value="get Data Table" />
       <item value="wrapper User" />
@@ -29,36 +54,11 @@
       <item value="roll Back Save Process Data Info" />
       <item value="XQH" />
       <item value="Process Store Call" />
-      <item value="operate Row Id" />
-      <item value="Ajax Result" />
-      <item value="Common Annotations 1.0" />
-      <item value="submit Reimbursement Relationship" />
-      <item value="应该查询" />
-      <item value="Flux" />
-      <item value="store Reimbursement Order Relation Data" />
-      <item value="审批表单row Id" />
-      <item value="INFO" />
-      <item value="Examine Reimbursement Order Service" />
-      <item value="set Create Time" />
-      <item value="Integer" />
-      <item value="Inner Methods Block" />
-      <item value="Application Context Aware" />
-      <item value="create User Dept Id" />
-      <item value="create User Name" />
-      <item value="create User Id" />
-      <item value="审批的报销单Ids" />
-      <item value="个人报销流程审批实体" />
-      <item value="此系统中该流程为后台隐式数据显示" />
-      <item value="987072248" />
-      <item value="examine personal reimbursement" />
-      <item value="Examine Personal Reimbursement" />
-      <item value="row id" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1227" />
+        <entry key="ENGLISH" value="1228" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
