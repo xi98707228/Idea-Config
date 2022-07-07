@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Dispatcher Servlet" />
+      <item value="restarted Main" />
+      <item value="param String" />
+      <item value="PATROL TYPE" />
+      <item value="clazz" />
+      <item value="is Empty" />
+      <item value="v Acgzs" />
+      <item value="collection" />
+      <item value="AC ID" />
+      <item value="create Date" />
       <item value="indicate Table File Attribute" />
       <item value="get Reimbursement Order List" />
       <item value="start Page" />
@@ -31,7 +41,6 @@
       <item value="the object whose {@code run} method is invoked when this thread is started. If {@code null}, this classes {@code run} method does nothing." />
       <item value="When an object implementing interface &lt;code&gt;Runnable&lt;code&gt; is used to create a thread, starting the thread causes the object's &lt;code&gt;run&lt;code&gt; method to be called in that separately executing thread. &lt;p&gt; The general contract of the method &lt;code&gt;run&lt;code&gt; is that it may take any action whatsoever." />
       <item value="reimbursement" />
-      <item value="Dispatcher Servlet" />
       <item value="Initializing" />
       <item value="sequence Number Generic" />
       <item value="V Reimbursement List Service" />
@@ -45,21 +54,12 @@
       <item value="TIMEOUT IMMEDIATE" />
       <item value="determine Async Executor" />
       <item value="Search Strategy" />
-      <item value="Class" />
-      <item value="Sam Brannen" />
-      <item value="Phillip Webb" />
-      <item value="has Plain Java Annotations Only" />
-      <item value="get Executor Qualifier" />
-      <item value="Process Struct No Impl Exception" />
-      <item value="roll Back Save Process Data Info" />
-      <item value="XQH" />
-      <item value="Process Store Call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1227" />
-        <entry key="ENGLISH" value="1228" />
-        <entry key="ARABIC" value="1" />
+        <entry key="CHINESE" value="1235" />
+        <entry key="ENGLISH" value="1236" />
+        <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -69,6 +69,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
