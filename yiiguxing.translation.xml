@@ -4,12 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="reimbursement" />
+      <item value="operate Row Id" />
+      <item value="Common Annotations 1.0" />
       <item value="submit Reimbursement Relationship" />
       <item value="应该查询" />
       <item value="报销流程和此单据的组合视图" />
       <item value="Flux" />
       <item value="store Reimbursement Order Relation Data" />
-      <item value="reimbursement" />
       <item value="get Reimbursement Order List" />
       <item value="审批表单row Id" />
       <item value="INFO" />
@@ -51,14 +54,11 @@
       <item value="init Table Fields" />
       <item value="param Object" />
       <item value="start Page" />
-      <item value="TO CHAR" />
-      <item value="Comprehensive Summarize" />
-      <item value="examine Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1164" />
-        <entry key="ENGLISH" value="1165" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="ARABIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
