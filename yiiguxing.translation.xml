@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="payment Money" />
+      <item value="reimbursement User Name" />
       <item value="custom row id" />
       <item value="SELECT" />
       <item value="examine Row Id" />
@@ -52,13 +54,11 @@
       <item value="the object whose {@code run} method is invoked when this thread is started. If {@code null}, this classes {@code run} method does nothing." />
       <item value="When an object implementing interface &lt;code&gt;Runnable&lt;code&gt; is used to create a thread, starting the thread causes the object's &lt;code&gt;run&lt;code&gt; method to be called in that separately executing thread. &lt;p&gt; The general contract of the method &lt;code&gt;run&lt;code&gt; is that it may take any action whatsoever." />
       <item value="reimbursement" />
-      <item value="Initializing" />
-      <item value="sequence Number Generic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1247" />
-        <entry key="ENGLISH" value="1248" />
+        <entry key="CHINESE" value="1249" />
+        <entry key="ENGLISH" value="1250" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
