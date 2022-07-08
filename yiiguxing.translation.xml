@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Attach" />
       <item value="order Ids" />
       <item value="payment Money" />
       <item value="reimbursement User Name" />
@@ -53,12 +54,11 @@
       <item value="Returns the thread group into which to instantiate any new thread being created at the time this is being called. By default, it returns the thread group of the current thread. This should be overridden by a specific security manager to return the appropriate thread group. @return ThreadGroup that new threads are instantiated into @since JDK1.1" />
       <item value="get Thread Group" />
       <item value="the object whose {@code run} method is invoked when this thread is started. If {@code null}, this classes {@code run} method does nothing." />
-      <item value="When an object implementing interface &lt;code&gt;Runnable&lt;code&gt; is used to create a thread, starting the thread causes the object's &lt;code&gt;run&lt;code&gt; method to be called in that separately executing thread. &lt;p&gt; The general contract of the method &lt;code&gt;run&lt;code&gt; is that it may take any action whatsoever." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1250" />
-        <entry key="ENGLISH" value="1251" />
+        <entry key="CHINESE" value="1251" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
