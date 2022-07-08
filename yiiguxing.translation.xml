@@ -4,6 +4,25 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Empty" />
+      <item value="set Contract Number" />
+      <item value="is System Domain Loader" />
+      <item value="mix 64" />
+      <item value="Thread Local Random" />
+      <item value="If cdate is null, then fastTime indicates the time in millis. If cdate.isNormalized() is true, then fastTime and cdate are in synch. Otherwise, fastTime is ignored, and cdate indicates the time." />
+      <item value="Base Calendar" />
+      <item value="Sequence Type" />
+      <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
+      <item value="Bean Factory" />
+      <item value="Rod Johnson" />
+      <item value="Injection Point" />
+      <item value="Delegate methods for resolving injection points" />
+      <item value="get Type For Factory Method" />
+      <item value="is Assignable From" />
+      <item value="determine Common Ancestor" />
+      <item value="Autowire Utils" />
+      <item value="logical Xor" />
+      <item value="volatile" />
       <item value="Examine Store Reimbursement Relationship" />
       <item value="relation Reimbursement List" />
       <item value="relation List" />
@@ -33,32 +52,13 @@
       <item value="param String" />
       <item value="PATROL TYPE" />
       <item value="clazz" />
-      <item value="is Empty" />
       <item value="v Acgzs" />
       <item value="collection" />
-      <item value="AC ID" />
-      <item value="create Date" />
-      <item value="indicate Table File Attribute" />
-      <item value="get Reimbursement Order List" />
-      <item value="start Page" />
-      <item value="list" />
-      <item value="examine Reimbursement Order Service" />
-      <item value="Examine Reimbursement Order" />
-      <item value="select List COUNT" />
-      <item value="custom contract file relation" />
-      <item value="Parameters" />
-      <item value="Integer" />
-      <item value="set Queue Capacity" />
-      <item value="Snmp Socket" />
-      <item value="check State For Receive" />
-      <item value="The presence of this annotation indicates that the author believes the class to be thread-safe. As such, there should be no sequence of accessing the public methods or fields that could put an instance of this class into an invalid state, irrespective of any rearrangement of those operations by the Java Runtime and without introducing any requirements for synchronization or coordination by the calleraccessor. &lt;p&gt; This annotation is intended for internal use in OSHI as a temporary workaround until it is available in {@code jakarta.annotations}." />
-      <item value="Thread Safe" />
-      <item value="Gets a value between two characters having multiple same characters between them. &lt;b&gt;Examples : &lt;b&gt; &lt;ul&gt; &lt;li&gt;&quot;name = 'James Gosling's Java'&quot; returns &quot;James Gosling's Java&quot;&lt;li&gt; &lt;li&gt;&quot;pci.name = 'Realtek AC'97 Audio Device'&quot; returns &quot;Realtek AC'97 Audio Device&quot;&lt;li&gt; &lt;ul&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1260" />
-        <entry key="ENGLISH" value="1261" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1280" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
