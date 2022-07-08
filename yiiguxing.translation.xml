@@ -4,8 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="删除之前的所有报销关联数据" />
       <item value="Examine Store Reimbursement Relationship" />
+      <item value="relation Reimbursement List" />
+      <item value="relation List" />
+      <item value="result Ajax Map" />
+      <item value="return" />
+      <item value="报销流程和此单据的组合视图" />
+      <item value="删除之前的所有报销关联数据" />
       <item value="examine Store Reimbursement Relationship Service" />
       <item value="Finance Attach" />
       <item value="order Ids" />
@@ -49,16 +54,11 @@
       <item value="The presence of this annotation indicates that the author believes the class to be thread-safe. As such, there should be no sequence of accessing the public methods or fields that could put an instance of this class into an invalid state, irrespective of any rearrangement of those operations by the Java Runtime and without introducing any requirements for synchronization or coordination by the calleraccessor. &lt;p&gt; This annotation is intended for internal use in OSHI as a temporary workaround until it is available in {@code jakarta.annotations}." />
       <item value="Thread Safe" />
       <item value="Gets a value between two characters having multiple same characters between them. &lt;b&gt;Examples : &lt;b&gt; &lt;ul&gt; &lt;li&gt;&quot;name = 'James Gosling's Java'&quot; returns &quot;James Gosling's Java&quot;&lt;li&gt; &lt;li&gt;&quot;pci.name = 'Realtek AC'97 Audio Device'&quot; returns &quot;Realtek AC'97 Audio Device&quot;&lt;li&gt; &lt;ul&gt;" />
-      <item value="is Alive" />
-      <item value="enumerate" />
-      <item value="max Priority" />
-      <item value="Uncaught Exception Handler" />
-      <item value="Returns the thread group into which to instantiate any new thread being created at the time this is being called. By default, it returns the thread group of the current thread. This should be overridden by a specific security manager to return the appropriate thread group. @return ThreadGroup that new threads are instantiated into @since JDK1.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1254" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1260" />
+        <entry key="ENGLISH" value="1261" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
