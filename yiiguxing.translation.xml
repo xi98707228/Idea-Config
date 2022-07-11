@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="operate Supplier Data" />
+      <item value="SELL INVOICE" />
+      <item value="SUPPLIER MANAGE" />
+      <item value="PURCHASE ORDER" />
+      <item value="987072248" />
+      <item value="supplier" />
+      <item value="Base Controller" />
       <item value="get Now Date" />
       <item value="query Reimbursement Pool Data Ids" />
       <item value="v Reimbursement List Service" />
@@ -46,19 +54,11 @@
       <item value="OPERATE URL" />
       <item value="business Key" />
       <item value="equals" />
-      <item value="param" />
-      <item value="get String" />
-      <item value="String Utils" />
-      <item value="Examine Reimbursement Order" />
-      <item value="select" />
-      <item value="987072248" />
-      <item value="Examine Reimbursement Order Search Filter" />
-      <item value="Base Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1349" />
-        <entry key="ENGLISH" value="1350" />
+        <entry key="CHINESE" value="1358" />
+        <entry key="ENGLISH" value="1359" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
