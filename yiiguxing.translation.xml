@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table Fields" />
+      <item value="V Reimbursement List" />
       <item value="form Url" />
       <item value="reimbursement Order Row Ids" />
       <item value="get Row Id" />
@@ -52,13 +54,11 @@
       <item value="Sequence Type" />
       <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
       <item value="Bean Factory" />
-      <item value="Rod Johnson" />
-      <item value="Injection Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1328" />
-        <entry key="ENGLISH" value="1329" />
+        <entry key="CHINESE" value="1330" />
+        <entry key="ENGLISH" value="1331" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
