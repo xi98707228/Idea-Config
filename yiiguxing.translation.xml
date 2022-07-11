@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="sequence Map" />
+      <item value="Scheduler" />
+      <item value="Ruoyi Scheduler DESKTOP" />
+      <item value="Dispatcher Servlet" />
+      <item value="kqueue" />
+      <item value="Starting" />
+      <item value="login User Nick Name" />
+      <item value="get User Name" />
+      <item value="submit Object" />
+      <item value="wait Change Status List" />
+      <item value="Reimbursement Order Status" />
+      <item value="global Submit Form Row Id" />
+      <item value="examine Personal Reimbursement Service" />
       <item value="reimbursement Order Id" />
       <item value="Preparing" />
       <item value="select Dept By Id" />
@@ -41,24 +54,11 @@
       <item value="operate Data" />
       <item value="operate Row Id" />
       <item value="save" />
-      <item value="提交保存物料入库信息表单数据" />
-      <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
-      <item value="Warn" />
-      <item value="get-reimbursement-order-sequence" />
-      <item value="get Reimbursement Order Sequence" />
-      <item value="is Empty" />
-      <item value="set Contract Number" />
-      <item value="is System Domain Loader" />
-      <item value="mix 64" />
-      <item value="Thread Local Random" />
-      <item value="If cdate is null, then fastTime indicates the time in millis. If cdate.isNormalized() is true, then fastTime and cdate are in synch. Otherwise, fastTime is ignored, and cdate indicates the time." />
-      <item value="Base Calendar" />
-      <item value="Sequence Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1333" />
-        <entry key="ENGLISH" value="1334" />
+        <entry key="CHINESE" value="1345" />
+        <entry key="ENGLISH" value="1346" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -74,6 +74,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
+        <entry key="HAWAIIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="1" />
