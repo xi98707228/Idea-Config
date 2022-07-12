@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="查询组合视图获取" />
+      <item value="purchase Leader User Nick" />
+      <item value="project Name" />
+      <item value="Path Variable" />
+      <item value="create User Dept Id" />
+      <item value="appender Amount" />
+      <item value="append Amount" />
+      <item value="payable Balance" />
+      <item value="settlement Amount" />
+      <item value="payable Amount" />
+      <item value="balance Amount" />
+      <item value="balance Money" />
+      <item value="amount Money" />
+      <item value="采购订单关联的产品信息" />
+      <item value="semi Automatic" />
+      <item value="require Arrival Date" />
       <item value="987072248" />
       <item value="Examine Store Relationship" />
       <item value="get Store Relationship Data List" />
@@ -38,27 +54,11 @@
       <item value="Base Controller" />
       <item value="get Now Date" />
       <item value="query Reimbursement Pool Data Ids" />
-      <item value="v Reimbursement List Service" />
-      <item value="pool Data Id" />
-      <item value="Scheduler" />
-      <item value="Ruoyi Scheduler DESKTOP" />
-      <item value="Dispatcher Servlet" />
-      <item value="kqueue" />
-      <item value="Starting" />
-      <item value="login User Nick Name" />
-      <item value="get User Name" />
-      <item value="submit Object" />
-      <item value="wait Change Status List" />
-      <item value="Reimbursement Order Status" />
-      <item value="global Submit Form Row Id" />
-      <item value="examine Personal Reimbursement Service" />
-      <item value="reimbursement Order Id" />
-      <item value="Preparing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1384" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1397" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
