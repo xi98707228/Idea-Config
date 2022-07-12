@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="next" />
       <item value="Value of i == number of segments" />
       <item value="Snake" />
       <item value="common Prt" />
@@ -53,12 +54,11 @@
       <item value="Sequence Type" />
       <item value="Trigger HeartBeatReaction" />
       <item value="real time refresh" />
-      <item value="param Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1421" />
+        <entry key="CHINESE" value="1421" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
