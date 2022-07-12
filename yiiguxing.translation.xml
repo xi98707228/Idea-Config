@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Class Path Bean Definition Scanner" />
+      <item value="Mapper Factory Bean" />
       <item value="sequence Map" />
       <item value="get Sequence Number" />
       <item value="Sequence Type" />
@@ -52,13 +54,11 @@
       <item value="Cannot construct instance of" />
       <item value="get Examine Instrument Info" />
       <item value="reimbursement List Service" />
-      <item value="examine Row Id" />
-      <item value="审批表单row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1371" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="CHINESE" value="1373" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
