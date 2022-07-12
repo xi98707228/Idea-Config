@@ -4,9 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="project Name" />
+      <item value="MM" />
+      <item value="contract Date" />
+      <item value="source Order Id" />
+      <item value="source Order Name" />
+      <item value="987072248" />
+      <item value="supplier Row Id" />
+      <item value="Integer" />
       <item value="查询组合视图获取" />
       <item value="purchase Leader User Nick" />
-      <item value="project Name" />
       <item value="Path Variable" />
       <item value="create User Dept Id" />
       <item value="appender Amount" />
@@ -20,7 +27,6 @@
       <item value="采购订单关联的产品信息" />
       <item value="semi Automatic" />
       <item value="require Arrival Date" />
-      <item value="987072248" />
       <item value="Examine Store Relationship" />
       <item value="get Store Relationship Data List" />
       <item value="examine Store Relationship Mapper" />
@@ -48,17 +54,11 @@
       <item value="create User Nick" />
       <item value="Ajax Result" />
       <item value="SELL INVOICE" />
-      <item value="SUPPLIER MANAGE" />
-      <item value="PURCHASE ORDER" />
-      <item value="supplier" />
-      <item value="Base Controller" />
-      <item value="get Now Date" />
-      <item value="query Reimbursement Pool Data Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1397" />
+        <entry key="CHINESE" value="1406" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
