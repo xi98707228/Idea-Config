@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ruoyi" />
       <item value="indicate" />
       <item value="indicate Table File Attribute" />
       <item value="describe Message" />
@@ -53,11 +54,10 @@
       <item value="sequence Map" />
       <item value="get Sequence Number" />
       <item value="Sequence Type" />
-      <item value="Trigger HeartBeatReaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
+        <entry key="CHINESE" value="1424" />
         <entry key="ENGLISH" value="1423" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
