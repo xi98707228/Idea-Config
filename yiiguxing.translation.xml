@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="common Prt" />
       <item value="Beetle" />
       <item value="Insect" />
       <item value="Purchase Order Service" />
@@ -53,12 +54,11 @@
       <item value="param Object" />
       <item value="mag Supplier Service" />
       <item value="operate Supplier Data" />
-      <item value="delete File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1417" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="CHINESE" value="1418" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
