@@ -4,9 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="987072248" />
+      <item value="Examine Store Relationship" />
+      <item value="get Store Relationship Data List" />
+      <item value="examine Store Relationship Mapper" />
+      <item value="主要就是更新库存" />
+      <item value="Examine Purchase Process" />
+      <item value="Purchase Order" />
       <item value="examine store reimbursement relationship" />
       <item value="Examine Store Reimbursement Relationship" />
-      <item value="Purchase Order" />
       <item value="project" />
       <item value="buies purchase relation" />
       <item value="Class Path Bean Definition Scanner" />
@@ -28,7 +34,6 @@
       <item value="SELL INVOICE" />
       <item value="SUPPLIER MANAGE" />
       <item value="PURCHASE ORDER" />
-      <item value="987072248" />
       <item value="supplier" />
       <item value="Base Controller" />
       <item value="get Now Date" />
@@ -49,16 +54,11 @@
       <item value="examine Personal Reimbursement Service" />
       <item value="reimbursement Order Id" />
       <item value="Preparing" />
-      <item value="select Dept By Id" />
-      <item value="init Table Fields" />
-      <item value="V Reimbursement List" />
-      <item value="form Url" />
-      <item value="reimbursement Order Row Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1378" />
-        <entry key="ENGLISH" value="1379" />
+        <entry key="CHINESE" value="1385" />
+        <entry key="ENGLISH" value="1384" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
