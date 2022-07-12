@@ -4,62 +4,62 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="RE: Division by Invariant Integers using Multiplication T Gralund, P Montgomery ACM PLDI 1994" />
-      <item value="Digit Ones" />
-      <item value="Digit Tens" />
-      <item value="Requires positive x" />
-      <item value="Local Copy" />
-      <item value="TO CHAR" />
-      <item value="Comprehensive Summarize" />
-      <item value="start Page" />
-      <item value="examine Row Id" />
-      <item value="condition Param Row Ids" />
-      <item value="is Not Empty" />
-      <item value="Executor Completion Service" />
-      <item value="File Output Stream" />
-      <item value="update Bytes" />
-      <item value="Checked Output Stream" />
-      <item value="compute Cost Order Revenue Count Thread Future" />
-      <item value="Starting Async Completable Thread" />
-      <item value="statistics Revenue Expend Data List" />
-      <item value="Finance Revenue Expend Item" />
-      <item value="Completable" />
-      <item value="===================== 收入模块 ===========================" />
-      <item value="Completable Future" />
-      <item value="expend Statistics" />
-      <item value="工单使用物料差价收入金额" />
-      <item value="Could" />
-      <item value="计算物料支出额度" />
-      <item value="compute Count Result" />
-      <item value="reimbursement Count" />
-      <item value="mag Spare Order Relation Service" />
-      <item value="instrument Expend" />
-      <item value="装载支出数据" />
-      <item value="sleep" />
-      <item value="Global Exception Handler" />
-      <item value="Future Utils" />
-      <item value="examine Mag Instrument Part" />
-      <item value="mag Spare Instrument Service" />
-      <item value="get Row Id" />
-      <item value="Gx Oa Work Order" />
-      <item value="wait Statistics Project Row Id List" />
-      <item value="get Project Row Id" />
-      <item value="value Of" />
-      <item value="business Relation Row Id List" />
-      <item value="Mag Spare Order Relation" />
-      <item value="instrument Revenue Count" />
-      <item value="all Done" />
-      <item value="cost Order Revenue Count" />
-      <item value="wait current Future To Finishing" />
-      <item value="compute Instrument Revenue Count Thread Future" />
-      <item value="Big Decimal" />
-      <item value="print Stack Trace" />
+      <item value="common Prt" />
+      <item value="Beetle" />
+      <item value="Insect" />
+      <item value="Purchase Order Service" />
+      <item value="purchase Leader User Nick" />
+      <item value="project Row Id" />
+      <item value="project Name" />
+      <item value="create User Nick" />
+      <item value="purchase Leader User Name" />
+      <item value="MM" />
+      <item value="contract Date" />
+      <item value="source Order Id" />
+      <item value="source Order Name" />
+      <item value="987072248" />
+      <item value="supplier Row Id" />
+      <item value="Integer" />
+      <item value="查询组合视图获取" />
+      <item value="Path Variable" />
+      <item value="create User Dept Id" />
+      <item value="appender Amount" />
+      <item value="append Amount" />
+      <item value="payable Balance" />
+      <item value="settlement Amount" />
+      <item value="payable Amount" />
+      <item value="balance Amount" />
+      <item value="balance Money" />
+      <item value="amount Money" />
+      <item value="采购订单关联的产品信息" />
+      <item value="semi Automatic" />
+      <item value="require Arrival Date" />
+      <item value="Examine Store Relationship" />
+      <item value="get Store Relationship Data List" />
+      <item value="examine Store Relationship Mapper" />
+      <item value="主要就是更新库存" />
+      <item value="Examine Purchase Process" />
+      <item value="Purchase Order" />
+      <item value="examine store reimbursement relationship" />
+      <item value="Examine Store Reimbursement Relationship" />
+      <item value="project" />
+      <item value="buies purchase relation" />
+      <item value="Class Path Bean Definition Scanner" />
+      <item value="Mapper Factory Bean" />
+      <item value="sequence Map" />
+      <item value="get Sequence Number" />
+      <item value="Sequence Type" />
+      <item value="Trigger HeartBeatReaction" />
+      <item value="real time refresh" />
+      <item value="param Object" />
+      <item value="mag Supplier Service" />
+      <item value="operate Supplier Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1105" />
-        <entry key="ARABIC" value="1" />
+        <entry key="CHINESE" value="1418" />
+        <entry key="ENGLISH" value="1419" />
+        <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -69,15 +69,19 @@
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
+        <entry key="HAWAIIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657632516245" />
+    <option name="lastTrimTime" value="1657502836078" />
   </component>
 </application>
