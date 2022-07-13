@@ -4,6 +4,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Resource Bundle" />
+      <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by {@link java.util.HashMap}. &lt;p&gt; The general contract of {@code hashCode} is: &lt;ul&gt; &lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application. &lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables. &lt;ul&gt; &lt;p&gt; As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
+      <item value="identity Hash Code" />
+      <item value="Pair" />
+      <item value="Generated" />
+      <item value="Animation" />
+      <item value="Translate Transition" />
+      <item value="Locale Service Provider" />
+      <item value="An abstract class for service providers that provide localized names for the {@link java.util.Locale Locale} class." />
+      <item value="Locale Name Provider" />
+      <item value="Sink" />
+      <item value="Reference Pipeline" />
+      <item value="describe Message" />
+      <item value="product Amount" />
+      <item value="product Unit Price" />
+      <item value="Negative Array Size Exception" />
+      <item value="arraycopy" />
+      <item value="An optimized version of AbstractList.ListItr" />
       <item value="product Brand" />
       <item value="await Until" />
       <item value="deadline" />
@@ -36,29 +54,11 @@
       <item value="print If Info Enabled" />
       <item value="Text Query Executor" />
       <item value="Collectors" />
-      <item value="ruoyi" />
-      <item value="indicate" />
-      <item value="indicate Table File Attribute" />
-      <item value="describe Message" />
-      <item value="agent Key" />
-      <item value="common Prt" />
-      <item value="Beetle" />
-      <item value="Insect" />
-      <item value="Purchase Order Service" />
-      <item value="purchase Leader User Nick" />
-      <item value="project Row Id" />
-      <item value="project Name" />
-      <item value="create User Nick" />
-      <item value="purchase Leader User Name" />
-      <item value="MM" />
-      <item value="contract Date" />
-      <item value="source Order Id" />
-      <item value="source Order Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1456" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1474" />
+        <entry key="ENGLISH" value="1475" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
