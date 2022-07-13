@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="group Atomic Multiple Expression Map" />
+      <item value="COMPUTE MULTIPLE VALUE" />
+      <item value="获取当前计算多字段表达式关联的" />
+      <item value="original Data" />
+      <item value="flow Execute Hashing" />
+      <item value="Rpc Client Factory" />
+      <item value="Reflections" />
+      <item value="main" />
+      <item value="print If Info Enabled" />
+      <item value="Text Query Executor" />
+      <item value="Collectors" />
       <item value="ruoyi" />
       <item value="indicate" />
       <item value="indicate Table File Attribute" />
@@ -43,22 +54,11 @@
       <item value="get Store Relationship Data List" />
       <item value="examine Store Relationship Mapper" />
       <item value="主要就是更新库存" />
-      <item value="Examine Purchase Process" />
-      <item value="Purchase Order" />
-      <item value="examine store reimbursement relationship" />
-      <item value="Examine Store Reimbursement Relationship" />
-      <item value="project" />
-      <item value="buies purchase relation" />
-      <item value="Class Path Bean Definition Scanner" />
-      <item value="Mapper Factory Bean" />
-      <item value="sequence Map" />
-      <item value="get Sequence Number" />
-      <item value="Sequence Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1424" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1433" />
+        <entry key="ENGLISH" value="1434" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
