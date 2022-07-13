@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取行数据详细信息" />
+      <item value="行主键" />
       <item value="是否仅查看编号" />
       <item value="synchronized" />
       <item value="Thread Pool Executor" />
@@ -52,13 +54,11 @@
       <item value="describe Message" />
       <item value="product Amount" />
       <item value="product Unit Price" />
-      <item value="Negative Array Size Exception" />
-      <item value="arraycopy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1515" />
-        <entry key="ENGLISH" value="1515" />
+        <entry key="CHINESE" value="1519" />
+        <entry key="ENGLISH" value="1519" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
