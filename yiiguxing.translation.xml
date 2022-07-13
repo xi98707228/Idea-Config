@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="是否仅查看编号" />
+      <item value="synchronized" />
+      <item value="Thread Pool Executor" />
+      <item value="Rejected Execution Handler" />
+      <item value="keep Alive Seconds" />
       <item value="Product Sell Invoice Relationship" />
       <item value="Non Null" />
       <item value="Product Invoice Relation Form Vo" />
@@ -49,16 +54,11 @@
       <item value="product Unit Price" />
       <item value="Negative Array Size Exception" />
       <item value="arraycopy" />
-      <item value="An optimized version of AbstractList.ListItr" />
-      <item value="product Brand" />
-      <item value="await Until" />
-      <item value="deadline" />
-      <item value="Count Down Latch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1509" />
-        <entry key="ENGLISH" value="1510" />
+        <entry key="CHINESE" value="1515" />
+        <entry key="ENGLISH" value="1515" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
