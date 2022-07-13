@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Quartz Scheduler" />
+      <item value="3 SSJU 371657699711227" />
+      <item value="dispatcher Servlet" />
+      <item value="Ruoyi Scheduler DESKTOP" />
+      <item value="Dispatcher Servlet" />
+      <item value="recursion Query File Tree And Remove" />
       <item value="Finance Attach Category Enums" />
       <item value="project" />
       <item value="Finance Attach Service" />
@@ -48,17 +54,11 @@
       <item value="param String" />
       <item value="Resource Bundle" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by {@link java.util.HashMap}. &lt;p&gt; The general contract of {@code hashCode} is: &lt;ul&gt; &lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application. &lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables. &lt;ul&gt; &lt;p&gt; As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
-      <item value="identity Hash Code" />
-      <item value="Pair" />
-      <item value="Generated" />
-      <item value="Animation" />
-      <item value="Translate Transition" />
-      <item value="Locale Service Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1525" />
-        <entry key="ENGLISH" value="1526" />
+        <entry key="CHINESE" value="1529" />
+        <entry key="ENGLISH" value="1530" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -69,6 +69,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALTESE" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="1" />
