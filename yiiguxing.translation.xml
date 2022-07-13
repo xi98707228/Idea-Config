@@ -4,6 +4,34 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Product Sell Invoice Relationship" />
+      <item value="Non Null" />
+      <item value="Product Invoice Relation Form Vo" />
+      <item value="product Sell Invoice Relationships" />
+      <item value="set Application Context" />
+      <item value="expect" />
+      <item value="query Reimbursement Pool Data" />
+      <item value="query Reimbursement Pool Data Ids" />
+      <item value="to List" />
+      <item value="Druid Abstract Data Source" />
+      <item value="14:04:54.098 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657680443288_ClusterManager] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 150454" />
+      <item value="toolkit" />
+      <item value="success" />
+      <item value="indicate Table File Attribute" />
+      <item value="Examine Table And Other Result Vo" />
+      <item value="has Accessor" />
+      <item value="invoke Vfs Method" />
+      <item value="Artificial" />
+      <item value="Vfs Pattern Utils" />
+      <item value="Provides basic classes for exception handling and version detection, and other core helpers that are not specific to any part of the framework." />
+      <item value="Aspect J Advisor Factory" />
+      <item value="select Menu Tree All" />
+      <item value="find Aspect J Annotation On Method" />
+      <item value="Method Signature" />
+      <item value="signature" />
+      <item value="Objects" />
+      <item value="get-purcharse-order-list" />
+      <item value="param String" />
       <item value="Resource Bundle" />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by {@link java.util.HashMap}. &lt;p&gt; The general contract of {@code hashCode} is: &lt;ul&gt; &lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application. &lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables. &lt;ul&gt; &lt;p&gt; As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
       <item value="identity Hash Code" />
@@ -26,39 +54,11 @@
       <item value="await Until" />
       <item value="deadline" />
       <item value="Count Down Latch" />
-      <item value="Pending Future" />
-      <item value="Base class for a SocketChannel wrapper used by the endpoint. This way, logic for an SSL socket channel remains the same as for a non SSL, making sure we don't need to code for any exception cases." />
-      <item value="Protocol Handler" />
-      <item value="Abstract Protocol" />
-      <item value="get Ssl Implementation Short Name" />
-      <item value="exec" />
-      <item value="删除报销单的某个关联的报销明细" />
-      <item value="Total" />
-      <item value="Pjws Bill Index" />
-      <item value="resolve Query In Primary Char Return Sql Segment" />
-      <item value="SQL SINGLE MARK" />
-      <item value="matches" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="open Oracle All Table Scheme" />
-      <item value="split Char" />
-      <item value="split Chart" />
-      <item value="group Atomic Multiple Expression Map" />
-      <item value="COMPUTE MULTIPLE VALUE" />
-      <item value="获取当前计算多字段表达式关联的" />
-      <item value="original Data" />
-      <item value="flow Execute Hashing" />
-      <item value="Rpc Client Factory" />
-      <item value="Reflections" />
-      <item value="main" />
-      <item value="print If Info Enabled" />
-      <item value="Text Query Executor" />
-      <item value="Collectors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1475" />
+        <entry key="CHINESE" value="1509" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -75,6 +75,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="1" />
