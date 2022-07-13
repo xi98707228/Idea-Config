@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="product Brand" />
+      <item value="await Until" />
+      <item value="deadline" />
+      <item value="Count Down Latch" />
+      <item value="Pending Future" />
+      <item value="Base class for a SocketChannel wrapper used by the endpoint. This way, logic for an SSL socket channel remains the same as for a non SSL, making sure we don't need to code for any exception cases." />
+      <item value="Protocol Handler" />
+      <item value="Abstract Protocol" />
+      <item value="get Ssl Implementation Short Name" />
+      <item value="exec" />
       <item value="删除报销单的某个关联的报销明细" />
       <item value="Total" />
       <item value="Pjws Bill Index" />
@@ -44,21 +54,11 @@
       <item value="contract Date" />
       <item value="source Order Id" />
       <item value="source Order Name" />
-      <item value="987072248" />
-      <item value="supplier Row Id" />
-      <item value="Integer" />
-      <item value="查询组合视图获取" />
-      <item value="Path Variable" />
-      <item value="create User Dept Id" />
-      <item value="appender Amount" />
-      <item value="append Amount" />
-      <item value="payable Balance" />
-      <item value="settlement Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1447" />
-        <entry key="ENGLISH" value="1447" />
+        <entry key="CHINESE" value="1456" />
+        <entry key="ENGLISH" value="1457" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
