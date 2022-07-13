@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="删除报销单的某个关联的报销明细" />
+      <item value="Total" />
       <item value="Pjws Bill Index" />
       <item value="resolve Query In Primary Char Return Sql Segment" />
       <item value="SQL SINGLE MARK" />
@@ -52,13 +54,11 @@
       <item value="append Amount" />
       <item value="payable Balance" />
       <item value="settlement Amount" />
-      <item value="payable Amount" />
-      <item value="balance Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1445" />
-        <entry key="ENGLISH" value="1446" />
+        <entry key="CHINESE" value="1447" />
+        <entry key="ENGLISH" value="1447" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
