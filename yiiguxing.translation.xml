@@ -4,6 +4,43 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="render String" />
+      <item value="Authentication Entry Point Impl" />
+      <item value="commence" />
+      <item value="工单流程" />
+      <item value="process Instance Id" />
+      <item value="process Runed" />
+      <item value="Runnable Adapter" />
+      <item value="task" />
+      <item value="Runnable" />
+      <item value="result" />
+      <item value="Settable Task" />
+      <item value="finish Completion" />
+      <item value="The underlying callable; nulled out after running" />
+      <item value="non-volatile, protected by state readswrites" />
+      <item value="Cancellation Exception" />
+      <item value="CANCELLED" />
+      <item value="NORMAL" />
+      <item value="the type of the result" />
+      <item value="Callable" />
+      <item value="thread Pool Task Executor" />
+      <item value="new Cached Thread Pool" />
+      <item value="A callable that runs given task and returns given result" />
+      <item value="Executors" />
+      <item value="Factory and utility methods for {@link Executor}, {@link ExecutorService}, {@link ScheduledExecutorService}, {@link ThreadFactory}, and {@link Callable} classes defined in this package. This class support" />
+      <item value="compare And Decrement Worker Count" />
+      <item value="unlock" />
+      <item value="Transferer" />
+      <item value="NCPUS" />
+      <item value="Doug Lea and Bill Scherer and Michael Scott" />
+      <item value="Synchronous Queue" />
+      <item value="Finalizable Delegated Executor Service" />
+      <item value="Delegated Executor Service" />
+      <item value="await Termination If Necessary" />
+      <item value="thread Name Prefix Set" />
+      <item value="offer" />
+      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
+      <item value="core Pool Size" />
       <item value="Allocates a new string that contains the sequence of characters currently contained in the string buffer argument. The contents of the string buffer are copied; subsequent modification of the string buffer does not affect the newly created string." />
       <item value="Object Stream Field" />
       <item value="new Instance" />
@@ -17,48 +54,11 @@
       <item value="Management Factory" />
       <item value="transport" />
       <item value="Protocol Handler" />
-      <item value="Starting" />
-      <item value="Initializing" />
-      <item value="delegate" />
-      <item value="implementation" />
-      <item value="Runnable" />
-      <item value="Delegating Job" />
-      <item value="get Declared Constructor" />
-      <item value="accessible Constructor" />
-      <item value="create Job Instance" />
-      <item value="Trigger Fired Bundle" />
-      <item value="MisfireHandler Thread" />
-      <item value="Misfire Handler" />
-      <item value="Cluster Manage" />
-      <item value="3 SSJU 371657770651244_Misfire Handler" />
-      <item value="11:53:51.816 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657770651244_MisfireHandler] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 60060" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="DESKTOP" />
-      <item value="3 SSJU 371657770651244_Cluster Manager" />
-      <item value="select List COUNT" />
-      <item value="{msg=操作成功, code=200}" />
-      <item value="get Row Id" />
-      <item value="operate Row Id" />
-      <item value="8091" />
-      <item value="null" />
-      <item value="representation" />
-      <item value="purchase" />
-      <item value="clone" />
-      <item value="result" />
-      <item value="Node&lt;K,V&gt;[] tab; current table; updated if resized Node&lt;K,V&gt; next; the next entry to use TableStack&lt;K,V&gt; stack, spare; to saverestore on ForwardingNodes int index; index of bin to use next int baseIndex; current index of initial table int baseLimit; index bound for initial table final int baseSize; initial table size" />
-      <item value="Traverser" />
-      <item value="to String" />
-      <item value="entry Set" />
-      <item value="Ajax Result" />
-      <item value="Path Variable" />
-      <item value="result Relationship List" />
-      <item value="提交关联的数据列表" />
-      <item value="relation Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1625" />
-        <entry key="ENGLISH" value="1626" />
+        <entry key="CHINESE" value="1672" />
+        <entry key="ENGLISH" value="1673" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
