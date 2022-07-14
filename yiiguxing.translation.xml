@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="即真正能意义上的只要有两个数字相邻则必须由" />
       <item value="test Matching String" />
       <item value="Condition Type" />
       <item value="Expression Atomic Part" />
@@ -53,11 +54,10 @@
       <item value="query Reimbursement Pool Data" />
       <item value="query Reimbursement Pool Data Ids" />
       <item value="to List" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1555" />
+        <entry key="CHINESE" value="1556" />
         <entry key="ENGLISH" value="1556" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
