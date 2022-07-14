@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Bootstrap" />
+      <item value="加上这段代码即可实现深度克隆" />
+      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
+      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
       <item value="Thread Util" />
       <item value="clear History Store Relation Data" />
       <item value="Management Factory" />
@@ -50,15 +54,11 @@
       <item value="Safe Varargs" />
       <item value="Failable Callable" />
       <item value="Functions" />
-      <item value="Validate" />
-      <item value="Interrupted Exception" />
-      <item value="spend Time" />
-      <item value="get Now Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1618" />
+        <entry key="CHINESE" value="1621" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
