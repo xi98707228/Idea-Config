@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="test Matching String" />
+      <item value="Condition Type" />
       <item value="Expression Atomic Part" />
       <item value="cores" />
       <item value="Default Text Query Executor" />
@@ -52,13 +54,11 @@
       <item value="query Reimbursement Pool Data Ids" />
       <item value="to List" />
       <item value="Druid Abstract Data Source" />
-      <item value="14:04:54.098 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657680443288_ClusterManager] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 150454" />
-      <item value="toolkit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1553" />
-        <entry key="ENGLISH" value="1554" />
+        <entry key="CHINESE" value="1555" />
+        <entry key="ENGLISH" value="1556" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
