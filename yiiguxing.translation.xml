@@ -4,6 +4,41 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delegate" />
+      <item value="implementation" />
+      <item value="Runnable" />
+      <item value="Delegating Job" />
+      <item value="get Declared Constructor" />
+      <item value="accessible Constructor" />
+      <item value="create Job Instance" />
+      <item value="Trigger Fired Bundle" />
+      <item value="MisfireHandler Thread" />
+      <item value="Misfire Handler" />
+      <item value="Cluster Manage" />
+      <item value="3 SSJU 371657770651244_Misfire Handler" />
+      <item value="11:53:51.816 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657770651244_MisfireHandler] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 60060" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="DESKTOP" />
+      <item value="3 SSJU 371657770651244_Cluster Manager" />
+      <item value="select List COUNT" />
+      <item value="{msg=操作成功, code=200}" />
+      <item value="get Row Id" />
+      <item value="operate Row Id" />
+      <item value="8091" />
+      <item value="null" />
+      <item value="representation" />
+      <item value="purchase" />
+      <item value="clone" />
+      <item value="result" />
+      <item value="Node&lt;K,V&gt;[] tab; current table; updated if resized Node&lt;K,V&gt; next; the next entry to use TableStack&lt;K,V&gt; stack, spare; to saverestore on ForwardingNodes int index; index of bin to use next int baseIndex; current index of initial table int baseLimit; index bound for initial table final int baseSize; initial table size" />
+      <item value="Traverser" />
+      <item value="to String" />
+      <item value="entry Set" />
+      <item value="Ajax Result" />
+      <item value="Path Variable" />
+      <item value="result Relationship List" />
+      <item value="提交关联的数据列表" />
+      <item value="relation Row Id" />
       <item value="now Date" />
       <item value="Safe Varargs" />
       <item value="Failable Callable" />
@@ -19,49 +54,14 @@
       <item value="Product Purchase Order Relationship Service Impl" />
       <item value="select User By User Name" />
       <item value="print Exception" />
-      <item value="Basic Thread Factory" />
-      <item value="clear History Store Relation Data" />
-      <item value="Non Null" />
-      <item value="execute" />
-      <item value="store Relation Data" />
-      <item value="get Super Class Generic Type" />
-      <item value="flush Statements" />
-      <item value="知道以后会不会有人说更新失败了还要执行插入 " />
-      <item value="Product Purchase Order Relationship Controller" />
-      <item value="即真正能意义上的只要有两个数字相邻则必须由" />
-      <item value="test Matching String" />
-      <item value="Condition Type" />
-      <item value="Expression Atomic Part" />
-      <item value="cores" />
-      <item value="Default Text Query Executor" />
-      <item value="Query Expression Executor" />
-      <item value="Abstract Query Expression Executor" />
-      <item value="Param Regex Illegal Exception" />
-      <item value="resolve Query In Primary Char Return Sql Segment" />
-      <item value="size" />
-      <item value="cursor" />
-      <item value="check For Comodification" />
-      <item value="Ruoyi Scheduler" />
-      <item value="socket" />
-      <item value="test Connection Internal" />
-      <item value="discard" />
-      <item value="connection" />
-      <item value="SUPPLIER MANAGE" />
-      <item value="PURCHASE ORDER" />
-      <item value="PROJECT PURCHASE ORDER" />
-      <item value="Quartz Scheduler" />
-      <item value="3 SSJU 371657699711227" />
-      <item value="dispatcher Servlet" />
-      <item value="Ruoyi Scheduler DESKTOP" />
-      <item value="Dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1574" />
-        <entry key="ENGLISH" value="1575" />
+        <entry key="CHINESE" value="1610" />
+        <entry key="ENGLISH" value="1611" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
@@ -72,7 +72,7 @@
         <entry key="MALTESE" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
