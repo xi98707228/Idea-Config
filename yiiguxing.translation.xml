@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Expression Atomic Part" />
+      <item value="cores" />
+      <item value="Default Text Query Executor" />
+      <item value="Query Expression Executor" />
+      <item value="Abstract Query Expression Executor" />
+      <item value="Param Regex Illegal Exception" />
+      <item value="resolve Query In Primary Char Return Sql Segment" />
+      <item value="size" />
+      <item value="cursor" />
+      <item value="check For Comodification" />
       <item value="Ruoyi Scheduler" />
       <item value="socket" />
       <item value="test Connection Internal" />
@@ -44,21 +54,11 @@
       <item value="Druid Abstract Data Source" />
       <item value="14:04:54.098 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657680443288_ClusterManager] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 150454" />
       <item value="toolkit" />
-      <item value="success" />
-      <item value="indicate Table File Attribute" />
-      <item value="Examine Table And Other Result Vo" />
-      <item value="has Accessor" />
-      <item value="invoke Vfs Method" />
-      <item value="Artificial" />
-      <item value="Vfs Pattern Utils" />
-      <item value="Provides basic classes for exception handling and version detection, and other core helpers that are not specific to any part of the framework." />
-      <item value="Aspect J Advisor Factory" />
-      <item value="select Menu Tree All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1543" />
-        <entry key="ENGLISH" value="1542" />
+        <entry key="CHINESE" value="1553" />
+        <entry key="ENGLISH" value="1554" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
