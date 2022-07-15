@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="采购申请单信息" />
+      <item value="修改" />
+      <item value="新型" />
+      <item value="result Other Primary Data List" />
+      <item value="lambda" />
+      <item value="Examine Project Purchase Order Process" />
+      <item value="amount Money" />
+      <item value="append Amount" />
       <item value="devlop service" />
       <item value="v purchase order list" />
       <item value="View" />
@@ -46,19 +54,11 @@
       <item value="commence" />
       <item value="工单流程" />
       <item value="process Instance Id" />
-      <item value="process Runed" />
-      <item value="Runnable Adapter" />
-      <item value="task" />
-      <item value="Runnable" />
-      <item value="result" />
-      <item value="Settable Task" />
-      <item value="finish Completion" />
-      <item value="The underlying callable; nulled out after running" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1712" />
-        <entry key="ENGLISH" value="1713" />
+        <entry key="CHINESE" value="1722" />
+        <entry key="ENGLISH" value="1722" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
