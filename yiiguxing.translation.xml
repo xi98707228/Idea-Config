@@ -4,6 +4,40 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="examine Purchase Process Service" />
+      <item value="param Name" />
+      <item value="operation Context" />
+      <item value="optional But Present In The Path" />
+      <item value="find Annotation" />
+      <item value="method Parameter" />
+      <item value="path Variable" />
+      <item value="background-preinit" />
+      <item value="Product Purchase Order Relationship Service Impl" />
+      <item value="987072248" />
+      <item value="store Relation Data" />
+      <item value="Product Purchase Order Relationship" />
+      <item value="get Now Date" />
+      <item value="store Relation Datum" />
+      <item value="decorated" />
+      <item value="state" />
+      <item value="current Thread" />
+      <item value="Method invoked prior to executing the given Runnable in the given thread. This method is invoked by thread {@code t} that will execute task {@code r}, and may be used to re-initialize ThreadLocals, or to perform logging. &lt;p&gt;This implementation does nothing, but may be customized in subclasses. Note: To properly nest multiple overridings, subclasses should generally invoke {@code super.beforeExecute} at the end of this method." />
+      <item value="before Execute" />
+      <item value="completed Tasks" />
+      <item value="allow interrupts" />
+      <item value="check Access" />
+      <item value="largest Pool Size" />
+      <item value="precheck that t is startable" />
+      <item value="Illegal Thread State Exception" />
+      <item value="Recheck while holding lock. Back out on ThreadFactory failure or if shut down before lock acquired." />
+      <item value="Constructs a new {@code Thread}. Implementations may also initialize priority, name, daemon status, {@code ThreadGroup}, etc. @param r a runnable to be executed by new thread instance @return constructed thread, or {@code null} if the request to create a thread is rejected" />
+      <item value="inhibit interrupts until runWorker" />
+      <item value="compare And Increment Worker Count" />
+      <item value="worker Count Of" />
+      <item value="COUNT BITS" />
+      <item value="CAPACITY" />
+      <item value="business Key" />
+      <item value="process Inst Id" />
       <item value="render String" />
       <item value="Authentication Entry Point Impl" />
       <item value="commence" />
@@ -20,45 +54,11 @@
       <item value="non-volatile, protected by state readswrites" />
       <item value="Cancellation Exception" />
       <item value="CANCELLED" />
-      <item value="NORMAL" />
-      <item value="the type of the result" />
-      <item value="Callable" />
-      <item value="thread Pool Task Executor" />
-      <item value="new Cached Thread Pool" />
-      <item value="A callable that runs given task and returns given result" />
-      <item value="Executors" />
-      <item value="Factory and utility methods for {@link Executor}, {@link ExecutorService}, {@link ScheduledExecutorService}, {@link ThreadFactory}, and {@link Callable} classes defined in this package. This class support" />
-      <item value="compare And Decrement Worker Count" />
-      <item value="unlock" />
-      <item value="Transferer" />
-      <item value="NCPUS" />
-      <item value="Doug Lea and Bill Scherer and Michael Scott" />
-      <item value="Synchronous Queue" />
-      <item value="Finalizable Delegated Executor Service" />
-      <item value="Delegated Executor Service" />
-      <item value="await Termination If Necessary" />
-      <item value="thread Name Prefix Set" />
-      <item value="offer" />
-      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
-      <item value="core Pool Size" />
-      <item value="Allocates a new string that contains the sequence of characters currently contained in the string buffer argument. The contents of the string buffer are copied; subsequent modification of the string buffer does not affect the newly created string." />
-      <item value="Object Stream Field" />
-      <item value="new Instance" />
-      <item value="Copies an array from the specified source array, beginning at the specified position, to the specified position of the destination array. A subsequence of array components are copied from the source array referenced by &lt;code&gt;src&lt;code&gt; to the destination array referenced by &lt;code&gt;dest&lt;code&gt;. The number of components copied is equal to the &lt;code&gt;length&lt;code&gt; argument. The components at positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; in the source array are copied into positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+length-1&lt;code&gt;, respectively, of the destination array. &lt;p&gt; If the &lt;code&gt;src&lt;code&gt; and &lt;code&gt;dest&lt;code&gt; arguments refer to the same array object, then the copying is performed as if the components at positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; were first copied to a temporary array with &lt;code&gt;length&lt;code&gt; components and then the contents of the temporary array were copied into positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+length-1&lt;code&gt; of the destination array. &lt;p&gt; If &lt;code&gt;dest&lt;code&gt; is &lt;code&gt;null&lt;code&gt;, then a &lt;code&gt;NullPointerException&lt;code&gt; is thrown. &lt;p&gt; If &lt;code&gt;src&lt;code&gt; is &lt;code&gt;null&lt;code&gt;, then a &lt;code&gt;NullPointerException&lt;code&gt; is thrown and the destination array is not modified. &lt;p&gt; Otherwise, if any of the following is true, an &lt;code&gt;ArrayStoreException&lt;code&gt; is thrown and the destination is not modified: &lt;ul&gt; &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an object that is not an array. &lt;li&gt;The &lt;code&gt;dest&lt;code&gt; argument refers to an object that is not an array. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument and &lt;code&gt;dest&lt;code&gt; argument refer to arrays whose component types are different primitive types. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an array with a primitive component type and the &lt;code&gt;dest&lt;code&gt; argument refers to an array with a reference component type. &lt;li&gt;The &lt;code&gt;src&lt;code&gt; argument refers to an array with a reference component type and the &lt;code&gt;dest&lt;code&gt; argument refers to an array with a primitive component type. &lt;ul&gt; &lt;p&gt; Otherwise, if any of the following is true, an &lt;code&gt;IndexOutOfBoundsException&lt;code&gt; is thrown and the destination is not modified: &lt;ul&gt; &lt;li&gt;The &lt;code&gt;srcPos&lt;code&gt; argument is negative. &lt;li&gt;The &lt;code&gt;destPos&lt;code&gt; argument is negative. &lt;li&gt;The &lt;code&gt;length&lt;code&gt; argument is negative. &lt;li&gt;&lt;code&gt;srcPos+length&lt;code&gt; is greater than &lt;code&gt;src.length&lt;code&gt;, the length of the source array. &lt;li&gt;&lt;code&gt;destPos+length&lt;code&gt; is greater than &lt;code&gt;dest.length&lt;code&gt;, the length of the destination array. &lt;ul&gt; &lt;p&gt; Otherwise, if any actual component of the source array from position &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+length-1&lt;code&gt; cannot be converted to the component type of the destination array by assignment conversion, an &lt;code&gt;ArrayStoreException&lt;code&gt; is thrown. In this case, let &lt;b&gt;&lt;i&gt;k&lt;i&gt;&lt;b&gt; be the smallest nonnegative integer less than length such that &lt;code&gt;src[srcPos+&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;]&lt;code&gt; cannot be converted to the component type of the destination array; when the exception is thrown, source array components from positions &lt;code&gt;srcPos&lt;code&gt; through &lt;code&gt;srcPos+&lt;code&gt;&lt;i&gt;k&lt;i&gt;&lt;code&gt;-1&lt;code&gt; will already have been copied to destination array positions &lt;code&gt;destPos&lt;code&gt; through &lt;code&gt;destPos+&lt;code&gt;&lt;i&gt;k&lt;I&gt;&lt;code&gt;-1&lt;code&gt; and no other positions of the destination array will have been modified. (Because of the restrictions already itemized, this paragraph effectively applies only to the situation where both arrays have component types that are reference types.) @param src the source array. @param srcPos starting position in the source array. @param dest the destination array. @param destPos starting position in the destination data. @param length the number of array elements to be copied. @exception IndexOutOfBoundsException if copying would cause access of data outside array bounds. @exception ArrayStoreException if an element in the &lt;code&gt;src&lt;code&gt; array could not be stored into the &lt;code&gt;dest&lt;code&gt; array because of a type mismatch. @exception NullPointerException if either &lt;code&gt;src&lt;code&gt; or &lt;code&gt;dest&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. public static native void arraycopy(Object src, int srcPos, Object dest, int destPos, int length); Returns the same hash code for the given object as would be returned by the default method hashCode(), whether or not the given object's class overrides hashCode(). The hash code for the null reference is zero. @param x object for which the hashCode is to be calculated @return the hashCode @since JDK1.1" />
-      <item value="Bootstrap" />
-      <item value="加上这段代码即可实现深度克隆" />
-      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
-      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
-      <item value="Thread Util" />
-      <item value="clear History Store Relation Data" />
-      <item value="Management Factory" />
-      <item value="transport" />
-      <item value="Protocol Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1672" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="CHINESE" value="1709" />
+        <entry key="ENGLISH" value="1710" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
