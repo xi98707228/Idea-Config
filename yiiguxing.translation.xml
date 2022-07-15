@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取行数据详细信息" />
+      <item value="data" />
       <item value="operate Data" />
       <item value="order Row Ids" />
       <item value="采购申请单信息" />
@@ -52,13 +54,11 @@
       <item value="business Key" />
       <item value="process Inst Id" />
       <item value="render String" />
-      <item value="Authentication Entry Point Impl" />
-      <item value="commence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1724" />
+        <entry key="CHINESE" value="1725" />
+        <entry key="ENGLISH" value="1725" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
