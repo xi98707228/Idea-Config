@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Clone the field, too:" />
+      <item value="Duplication via serialization" />
+      <item value="Byte Array Output Stream" />
+      <item value="Now get copies" />
+      <item value="Thing 2" />
+      <item value="Anything inherited is also cloneable:" />
+      <item value="Once it's cloneable, inheritance doesn't remove cloneability:" />
+      <item value="Now clone it" />
+      <item value="Snake" />
       <item value="Bootstrap" />
       <item value="加上这段代码即可实现深度克隆" />
       <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
@@ -45,20 +54,11 @@
       <item value="Traverser" />
       <item value="to String" />
       <item value="entry Set" />
-      <item value="Ajax Result" />
-      <item value="Path Variable" />
-      <item value="result Relationship List" />
-      <item value="提交关联的数据列表" />
-      <item value="relation Row Id" />
-      <item value="now Date" />
-      <item value="Safe Varargs" />
-      <item value="Failable Callable" />
-      <item value="Functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1621" />
-        <entry key="ENGLISH" value="1622" />
+        <entry key="CHINESE" value="1631" />
+        <entry key="ENGLISH" value="1632" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -85,6 +85,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657502836078" />
+    <option name="lastTrimTime" value="1658061575411" />
   </component>
 </application>
