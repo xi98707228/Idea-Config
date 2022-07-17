@@ -4,64 +4,64 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="implements" />
-      <item value="next" />
-      <item value="Value of i == number of segments" />
-      <item value="Snake" />
-      <item value="common Prt" />
-      <item value="Beetle" />
-      <item value="Insect" />
-      <item value="Purchase Order Service" />
-      <item value="purchase Leader User Nick" />
-      <item value="project Row Id" />
-      <item value="project Name" />
-      <item value="create User Nick" />
-      <item value="purchase Leader User Name" />
-      <item value="MM" />
-      <item value="contract Date" />
-      <item value="source Order Id" />
-      <item value="source Order Name" />
-      <item value="987072248" />
-      <item value="supplier Row Id" />
-      <item value="Integer" />
-      <item value="查询组合视图获取" />
+      <item value="Bootstrap" />
+      <item value="加上这段代码即可实现深度克隆" />
+      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
+      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
+      <item value="Thread Util" />
+      <item value="clear History Store Relation Data" />
+      <item value="Management Factory" />
+      <item value="transport" />
+      <item value="Protocol Handler" />
+      <item value="Starting" />
+      <item value="Initializing" />
+      <item value="delegate" />
+      <item value="implementation" />
+      <item value="Runnable" />
+      <item value="Delegating Job" />
+      <item value="get Declared Constructor" />
+      <item value="accessible Constructor" />
+      <item value="create Job Instance" />
+      <item value="Trigger Fired Bundle" />
+      <item value="MisfireHandler Thread" />
+      <item value="Misfire Handler" />
+      <item value="Cluster Manage" />
+      <item value="3 SSJU 371657770651244_Misfire Handler" />
+      <item value="11:53:51.816 [QuartzScheduler_RuoyiScheduler-DESKTOP-3SSJU371657770651244_MisfireHandler] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336devlop_service?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 60060" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="DESKTOP" />
+      <item value="3 SSJU 371657770651244_Cluster Manager" />
+      <item value="select List COUNT" />
+      <item value="{msg=操作成功, code=200}" />
+      <item value="get Row Id" />
+      <item value="operate Row Id" />
+      <item value="8091" />
+      <item value="null" />
+      <item value="representation" />
+      <item value="purchase" />
+      <item value="clone" />
+      <item value="result" />
+      <item value="Node&lt;K,V&gt;[] tab; current table; updated if resized Node&lt;K,V&gt; next; the next entry to use TableStack&lt;K,V&gt; stack, spare; to saverestore on ForwardingNodes int index; index of bin to use next int baseIndex; current index of initial table int baseLimit; index bound for initial table final int baseSize; initial table size" />
+      <item value="Traverser" />
+      <item value="to String" />
+      <item value="entry Set" />
+      <item value="Ajax Result" />
       <item value="Path Variable" />
-      <item value="create User Dept Id" />
-      <item value="appender Amount" />
-      <item value="append Amount" />
-      <item value="payable Balance" />
-      <item value="settlement Amount" />
-      <item value="payable Amount" />
-      <item value="balance Amount" />
-      <item value="balance Money" />
-      <item value="amount Money" />
-      <item value="采购订单关联的产品信息" />
-      <item value="semi Automatic" />
-      <item value="require Arrival Date" />
-      <item value="Examine Store Relationship" />
-      <item value="get Store Relationship Data List" />
-      <item value="examine Store Relationship Mapper" />
-      <item value="主要就是更新库存" />
-      <item value="Examine Purchase Process" />
-      <item value="Purchase Order" />
-      <item value="examine store reimbursement relationship" />
-      <item value="Examine Store Reimbursement Relationship" />
-      <item value="project" />
-      <item value="buies purchase relation" />
-      <item value="Class Path Bean Definition Scanner" />
-      <item value="Mapper Factory Bean" />
-      <item value="sequence Map" />
-      <item value="get Sequence Number" />
-      <item value="Sequence Type" />
-      <item value="Trigger HeartBeatReaction" />
+      <item value="result Relationship List" />
+      <item value="提交关联的数据列表" />
+      <item value="relation Row Id" />
+      <item value="now Date" />
+      <item value="Safe Varargs" />
+      <item value="Failable Callable" />
+      <item value="Functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1621" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,19 +69,22 @@
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALTESE" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658060813006" />
+    <option name="lastTrimTime" value="1657502836078" />
   </component>
 </application>
