@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Upcast for base copy-constructor" />
+      <item value="Call all Seed copy-constructors:" />
+      <item value="OOPS" />
+      <item value="slice" />
+      <item value="evaluate" />
+      <item value="Green Zebra" />
+      <item value="Zebra Qualities" />
+      <item value="do something meaningful..." />
+      <item value="Default constructor" />
+      <item value="seeds" />
+      <item value="Seed" />
+      <item value="Fruit Qualities" />
       <item value="Clone the field, too:" />
       <item value="Duplication via serialization" />
       <item value="Byte Array Output Stream" />
@@ -42,23 +54,11 @@
       <item value="3 SSJU 371657770651244_Cluster Manager" />
       <item value="select List COUNT" />
       <item value="{msg=操作成功, code=200}" />
-      <item value="get Row Id" />
-      <item value="operate Row Id" />
-      <item value="8091" />
-      <item value="null" />
-      <item value="representation" />
-      <item value="purchase" />
-      <item value="clone" />
-      <item value="result" />
-      <item value="Node&lt;K,V&gt;[] tab; current table; updated if resized Node&lt;K,V&gt; next; the next entry to use TableStack&lt;K,V&gt; stack, spare; to saverestore on ForwardingNodes int index; index of bin to use next int baseIndex; current index of initial table int baseLimit; index bound for initial table final int baseSize; initial table size" />
-      <item value="Traverser" />
-      <item value="to String" />
-      <item value="entry Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1631" />
-        <entry key="ENGLISH" value="1632" />
+        <entry key="CHINESE" value="1645" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
