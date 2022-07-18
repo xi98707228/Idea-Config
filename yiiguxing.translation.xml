@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="discard" />
       <item value="parse User Agent Lowercase String" />
       <item value="User Agent" />
       <item value="Project Purchase Order" />
@@ -53,12 +54,11 @@
       <item value="append Amount" />
       <item value="devlop service" />
       <item value="v purchase order list" />
-      <item value="View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
-        <entry key="ENGLISH" value="1761" />
+        <entry key="CHINESE" value="1761" />
+        <entry key="ENGLISH" value="1762" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
