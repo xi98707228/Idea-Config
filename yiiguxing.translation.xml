@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="parse User Agent Lowercase String" />
+      <item value="User Agent" />
+      <item value="Project Purchase Order" />
       <item value="transaction Manager" />
       <item value="RELEASE" />
       <item value="Validator" />
@@ -13,7 +16,6 @@
       <item value="Web Application Context" />
       <item value="operate Data" />
       <item value="operate" />
-      <item value="Project Purchase Order" />
       <item value="set Contract Number" />
       <item value="set Sequence Number" />
       <item value="get Nick Name" />
@@ -52,13 +54,11 @@
       <item value="devlop service" />
       <item value="v purchase order list" />
       <item value="View" />
-      <item value="examine Purchase Process Service" />
-      <item value="param Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1757" />
-        <entry key="ENGLISH" value="1758" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1761" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
