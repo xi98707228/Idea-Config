@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Field" />
+      <item value="static Field" />
+      <item value="Runnable Future" />
+      <item value="is Done" />
+      <item value="is Cancelled" />
+      <item value="SOURCE" />
+      <item value="Signifies that a public API (public class, method or field) is subject to incompatible changes, or even removal, in a future release. An API bearing this annotation is exempt from any compatibility guarantees made by its containing library." />
+      <item value="Program elements annotated &amp;64;Internal are intended for POI internal use only. Such elements are not public by design and likely to be removed, have their signature change, or have their access level decreased from public to protected, package, or private in future versions of POI without notice. &amp;64;Internal elements are eligible for immediate modification or removal and are not subject to the POI project policy of deprecating an element for 2 major releases before removing. @author Yegor Kozlov" />
+      <item value="The POI version when an element was declared internal. This is not the same as an &amp;64;since javadoc annotation which specifies when the feature itself was added. A feature that was made internal after it was added may have a different since and Internal-since version numbers." />
+      <item value="native Id" />
+      <item value="The system-defined color used to highlight menu items when the menu appears as a flat menu." />
+      <item value="Preset Color" />
+      <item value="DESKTOP" />
       <item value="discard" />
       <item value="parse User Agent Lowercase String" />
       <item value="User Agent" />
@@ -34,7 +47,6 @@
       <item value="select List" />
       <item value="debug" />
       <item value="Parameters" />
-      <item value="DESKTOP" />
       <item value="now Date" />
       <item value="store Relation Data" />
       <item value="thread Pool Task Executor" />
@@ -42,23 +54,11 @@
       <item value="set Agent Key" />
       <item value="holds Lock" />
       <item value="获取行数据详细信息" />
-      <item value="data" />
-      <item value="order Row Ids" />
-      <item value="采购申请单信息" />
-      <item value="修改" />
-      <item value="新型" />
-      <item value="result Other Primary Data List" />
-      <item value="lambda" />
-      <item value="Examine Project Purchase Order Process" />
-      <item value="amount Money" />
-      <item value="append Amount" />
-      <item value="devlop service" />
-      <item value="v purchase order list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1761" />
-        <entry key="ENGLISH" value="1762" />
+        <entry key="CHINESE" value="1774" />
+        <entry key="ENGLISH" value="1775" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
