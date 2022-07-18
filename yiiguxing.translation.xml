@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="complete" />
+      <item value="Delegating Completable Future" />
       <item value="Doug Lea" />
       <item value="Completable Future" />
       <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions." />
@@ -52,13 +54,11 @@
       <item value="Runnable" />
       <item value="Delegating Job" />
       <item value="get Declared Constructor" />
-      <item value="accessible Constructor" />
-      <item value="create Job Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1657" />
-        <entry key="ENGLISH" value="1658" />
+        <entry key="CHINESE" value="1659" />
+        <entry key="ENGLISH" value="1660" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
