@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Initializing" />
+      <item value="Represents a direct connection, or the absence of a proxy. DIRECT, Represents proxy for high level protocols such as HTTP or FTP. HTTP, Represents a SOCKS (V4 or V5) proxy. SOCKS" />
+      <item value="SOCKS" />
+      <item value="TCP NODELAY" />
+      <item value="WWW AUTHENTICATE" />
+      <item value="Section" />
+      <item value="Constants enumerating the HTTP headers. All headers defined in RFC1945 (HTTP1.0), RFC2616 (HTTP1.1), and RFC2518 (WebDAV) are listed." />
+      <item value="Basic Token Iterator" />
+      <item value="original" />
+      <item value="Finance Supplier Payment Tick Controller" />
       <item value="amount To" />
       <item value="amount" />
       <item value="SUPPLIER PAYMENT TICK" />
@@ -44,21 +54,11 @@
       <item value="Thing 2" />
       <item value="Anything inherited is also cloneable:" />
       <item value="Once it's cloneable, inheritance doesn't remove cloneability:" />
-      <item value="Now clone it" />
-      <item value="Snake" />
-      <item value="Bootstrap" />
-      <item value="加上这段代码即可实现深度克隆" />
-      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
-      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
-      <item value="Thread Util" />
-      <item value="clear History Store Relation Data" />
-      <item value="Management Factory" />
-      <item value="transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1669" />
-        <entry key="ENGLISH" value="1670" />
+        <entry key="CHINESE" value="1679" />
+        <entry key="ENGLISH" value="1680" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
