@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="SUPPLIER PAYMENT TICK" />
+      <item value="SUPPLIER PAYMENT TICKS" />
+      <item value="SUPPLIER PAYMENT ORDER" />
+      <item value="lambdainitialization Internal Number 11" />
+      <item value="Web Application Context" />
       <item value="Dispatcher Servlet" />
       <item value="log Startup Profile Info" />
       <item value="PROCESS URL" />
@@ -49,16 +54,11 @@
       <item value="transport" />
       <item value="Protocol Handler" />
       <item value="Starting" />
-      <item value="Initializing" />
-      <item value="delegate" />
-      <item value="implementation" />
-      <item value="Runnable" />
-      <item value="Delegating Job" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1660" />
-        <entry key="ENGLISH" value="1661" />
+        <entry key="CHINESE" value="1666" />
+        <entry key="ENGLISH" value="1667" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
