@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Lazy Initialization Exclude Filter" />
       <item value="Process Engine String Pool" />
       <item value="Process Condition Call" />
       <item value="Process Store Call" />
@@ -53,12 +54,11 @@
       <item value="Call all Seed copy-constructors:" />
       <item value="OOPS" />
       <item value="slice" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1706" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1707" />
+        <entry key="ENGLISH" value="1708" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
