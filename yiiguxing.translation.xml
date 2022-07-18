@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="amount To" />
+      <item value="amount" />
       <item value="SUPPLIER PAYMENT TICK" />
       <item value="SUPPLIER PAYMENT TICKS" />
       <item value="SUPPLIER PAYMENT ORDER" />
@@ -52,13 +54,11 @@
       <item value="clear History Store Relation Data" />
       <item value="Management Factory" />
       <item value="transport" />
-      <item value="Protocol Handler" />
-      <item value="Starting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1666" />
-        <entry key="ENGLISH" value="1667" />
+        <entry key="CHINESE" value="1669" />
+        <entry key="ENGLISH" value="1670" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
