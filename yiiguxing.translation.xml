@@ -4,9 +4,42 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="transaction Manager" />
+      <item value="RELEASE" />
+      <item value="Validator" />
+      <item value="transport" />
+      <item value="Once Per Request Filter" />
+      <item value="jwt Authentication Token Filter" />
+      <item value="Web Application Context" />
+      <item value="operate Data" />
+      <item value="operate" />
+      <item value="Project Purchase Order" />
+      <item value="set Contract Number" />
+      <item value="set Sequence Number" />
+      <item value="get Nick Name" />
+      <item value="sequence Number Generic" />
+      <item value="else" />
+      <item value="需清空关联的产品信息" />
+      <item value="EXAMINE SPARE INSTRUMENT" />
+      <item value="EXAMINE PERSONAL REIMBURSEMENT" />
+      <item value="SELL INVOICE" />
+      <item value="SUPPLIER MANAGE" />
+      <item value="PURCHASE ORDER" />
+      <item value="CGXJ" />
+      <item value="exec" />
+      <item value="DEBUG" />
+      <item value="select List" />
+      <item value="debug" />
+      <item value="Parameters" />
+      <item value="DESKTOP" />
+      <item value="now Date" />
+      <item value="store Relation Data" />
+      <item value="thread Pool Task Executor" />
+      <item value="execute" />
+      <item value="set Agent Key" />
+      <item value="holds Lock" />
       <item value="获取行数据详细信息" />
       <item value="data" />
-      <item value="operate Data" />
       <item value="order Row Ids" />
       <item value="采购申请单信息" />
       <item value="修改" />
@@ -21,44 +54,11 @@
       <item value="View" />
       <item value="examine Purchase Process Service" />
       <item value="param Name" />
-      <item value="operation Context" />
-      <item value="optional But Present In The Path" />
-      <item value="find Annotation" />
-      <item value="method Parameter" />
-      <item value="path Variable" />
-      <item value="background-preinit" />
-      <item value="Product Purchase Order Relationship Service Impl" />
-      <item value="987072248" />
-      <item value="store Relation Data" />
-      <item value="Product Purchase Order Relationship" />
-      <item value="get Now Date" />
-      <item value="store Relation Datum" />
-      <item value="decorated" />
-      <item value="state" />
-      <item value="current Thread" />
-      <item value="Method invoked prior to executing the given Runnable in the given thread. This method is invoked by thread {@code t} that will execute task {@code r}, and may be used to re-initialize ThreadLocals, or to perform logging. &lt;p&gt;This implementation does nothing, but may be customized in subclasses. Note: To properly nest multiple overridings, subclasses should generally invoke {@code super.beforeExecute} at the end of this method." />
-      <item value="before Execute" />
-      <item value="completed Tasks" />
-      <item value="allow interrupts" />
-      <item value="check Access" />
-      <item value="largest Pool Size" />
-      <item value="precheck that t is startable" />
-      <item value="Illegal Thread State Exception" />
-      <item value="Recheck while holding lock. Back out on ThreadFactory failure or if shut down before lock acquired." />
-      <item value="Constructs a new {@code Thread}. Implementations may also initialize priority, name, daemon status, {@code ThreadGroup}, etc. @param r a runnable to be executed by new thread instance @return constructed thread, or {@code null} if the request to create a thread is rejected" />
-      <item value="inhibit interrupts until runWorker" />
-      <item value="compare And Increment Worker Count" />
-      <item value="worker Count Of" />
-      <item value="COUNT BITS" />
-      <item value="CAPACITY" />
-      <item value="business Key" />
-      <item value="process Inst Id" />
-      <item value="render String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1725" />
+        <entry key="CHINESE" value="1757" />
+        <entry key="ENGLISH" value="1758" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -85,6 +85,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657502836078" />
+    <option name="lastTrimTime" value="1658111928074" />
   </component>
 </application>
