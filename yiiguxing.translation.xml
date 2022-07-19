@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="lambdainitialization Internal Number 12" />
+      <item value="payment Tick Data Info" />
+      <item value="set Total Amount" />
+      <item value="submit Form Vo" />
+      <item value="relation Data" />
+      <item value="Finance Submit Payment Relation Part" />
+      <item value="now Date" />
+      <item value="Date" />
       <item value="get Login User" />
       <item value="get Row Id" />
       <item value="supplier Payment Tick" />
@@ -18,7 +26,6 @@
       <item value="sequence Number Generic" />
       <item value="nio" />
       <item value="http" />
-      <item value="set Total Amount" />
       <item value="acquire Shared" />
       <item value="Basic Type Getter" />
       <item value="Opt Null Basic Type From Object Getter" />
@@ -47,18 +54,11 @@
       <item value="log" />
       <item value="Connection" />
       <item value="INFO" />
-      <item value="dispatcher Servlet" />
-      <item value="Dispatcher Servlet" />
-      <item value="The JVM interface for the method handles package is all here. This is an interface internal and private to an implementation of JSR 292. &lt;em&gt;This class is not part of the JSR 292 standard.&lt;em&gt;" />
-      <item value="Method Handle Natives" />
-      <item value="ACC VARARGS" />
-      <item value="ACC VOLATILE" />
-      <item value="ACC SYNCHRONIZED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1784" />
-        <entry key="ENGLISH" value="1785" />
+        <entry key="CHINESE" value="1794" />
+        <entry key="ENGLISH" value="1795" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
