@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Runnable Adapter" />
       <item value="改变结算金额数值" />
       <item value="transport" />
       <item value="HV 000001" />
@@ -53,12 +54,11 @@
       <item value="Completable Future" />
       <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions." />
       <item value="Overview" />
-      <item value="bi Apply Stage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1715" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
