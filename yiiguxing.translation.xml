@@ -4,64 +4,62 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
-      <item value="check Template Location Exists" />
-      <item value="init Handler Methods" />
-      <item value="payment" />
-      <item value="form Url" />
-      <item value="Abstract Wrapper" />
-      <item value="Abstract Chain Wrapper" />
-      <item value="Parameters" />
-      <item value="project Purchase Order Service" />
-      <item value="finance Supplier Payment Tick Relation Service" />
-      <item value="lambdainitialization Internal Number 12" />
-      <item value="payment Tick Data Info" />
-      <item value="set Total Amount" />
-      <item value="submit Form Vo" />
-      <item value="relation Data" />
-      <item value="Finance Submit Payment Relation Part" />
-      <item value="now Date" />
-      <item value="Date" />
-      <item value="get Login User" />
-      <item value="get Row Id" />
-      <item value="supplier Payment Tick" />
-      <item value="Bitap Search Processor Factory" />
-      <item value="Abstract Search Processor Factory" />
-      <item value="Creates a {@link SearchProcessorFactory} based on &lt;a href=&quot;https:en.wikipedia.orgwikiKnuth%E2%80%93Morris%E2%80%93Pratt_algorithm&quot;&gt;Knuth-Morris-Pratt&lt;a&gt; string search algorithm. It is a reasonable default choice among the provided algorithms. &lt;br&gt; Precomputation (this method) time is linear in the size of input ({@code O(|needle|)}). &lt;br&gt; The factory allocates and retains an int array of size {@code needle.length + 1}, and retains a reference to the {@code needle} itself. &lt;br&gt; Search (the actual application of {@link SearchProcessor}) time is linear in the size of {@link io.netty.buffer.ByteBuf} on which the search is peformed ({@code O(|haystack|)}). Every byte of {@link io.netty.buffer.ByteBuf} is processed only once, sequentually. @param needle an array of bytes to search for @return a new instance of {@link KmpSearchProcessorFactory} precomputed for the given {@code needle}" />
-      <item value="Kmp Search Processor Factory" />
-      <item value="compute Backtrack" />
-      <item value="Now, apply KMP to [ s, u ) for fast backtracking" />
-      <item value="Property Sourced Request Mapping Handler Mapping" />
-      <item value="finance Supplier Payment Tick Service" />
-      <item value="sequence Number Generic" />
-      <item value="nio" />
-      <item value="http" />
-      <item value="acquire Shared" />
-      <item value="Basic Type Getter" />
-      <item value="Opt Null Basic Type From Object Getter" />
-      <item value="call With Runtime Exception" />
-      <item value="flush Every Buffer" />
-      <item value="Stream Copier" />
-      <item value="Collection Value Map" />
-      <item value="Custom Key Map" />
-      <item value="Tolerant Map" />
-      <item value="Project Purchase Order" />
-      <item value="Table Name" />
-      <item value="data" />
-      <item value="xqh" />
-      <item value="987072248" />
-      <item value="capturing Class" />
-      <item value="resolve" />
-      <item value="TODO SqlRunner" />
-      <item value="Sql Helper" />
+      <item value="duplicate" />
+      <item value="Charset" />
+      <item value="avoid getfield opcode" />
+      <item value="locale" />
+      <item value="is Bmp Code Point" />
+      <item value="complete" />
+      <item value="Delegating Completable Future" />
+      <item value="Doug Lea" />
+      <item value="Completable Future" />
+      <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions." />
+      <item value="Overview" />
+      <item value="bi Apply Stage" />
+      <item value="then Combine" />
+      <item value="Uni Accept" />
+      <item value="uni Apply Stage" />
+      <item value="Completion" />
+      <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions. Non-nullness of field result (set via CAS) indicates done. An AltResult is used to box null as a result, as well as to hold exceptions. Using a single field makes completion simple to detect and trigger. Encoding and decoding is straightforward but adds to the sprawl of trapping and associating exceptions with targets. Minor simplifications rely on (static) NIL (to box null results) being the only AltResult with a null exception field, so we don't usually need explicit comparisons. Even though some of the generics casts are unchecked (see SuppressWarnings annotations), they are placed to be appropriate even if checked. Dependent actions are represented by Completion objects linked as Treiber stacks headed by field &quot;stack&quot;. There are Completion classes for each kind of action, grouped into single-input (UniCompletion), two-input (BiCompletion), projected (BiCompletions using either (not both) of two inputs), shared (CoCompletion, used by the second of two sources), zero-input source actions, and Signallers that unblock waiters. Class Completion extends ForkJoinTask to enable async execution (adding no space overhead because we exploit its &quot;tag&quot; methods to maintain claims). It is also declared as Runnable to allow usage with arbitrary executors. Support for each kind of CompletionStage relies on a separate class, along with two CompletableFuture methods: A Completion class with name X corresponding to function, prefaced with &quot;Uni&quot;, &quot;Bi&quot;, or &quot;Or&quot;. Each class contains fields for source(s), actions, and dependent. They are boringly similar, differing from others only with respect to underlying functional forms. We do this so that users don't encounter layers of adaptors in common usages. We also include &quot;Relay&quot; classesmethods that don't correspond to user methods; they copy results from one stage to another. Boolean CompletableFuture method x(...) (for example uniApply) takes all of the arguments needed to check that an action is triggerable, and then either runs the action or arranges its async execution by executing its Completion argument, if present. The method returns true if known to be complete. Completion method tryFire(int mode) invokes the associated x method with its held arguments, and on success cleans up. The mode argument allows tryFire to be called twice (SYNC, then ASYNC); the first to screen and trap exceptions while arranging to execute, and the second when called from a task. (A few classes are not used async so take slightly different forms.) The claim() callback suppresses function invocation if already claimed by another thread. CompletableFuture method xStage(...) is called from a public stage method of CompletableFuture x. It screens user arguments and invokes andor creates the stage object. If not async and x is already complete, the action is run immediately. Otherwise a Completion c is created, pushed to x's stack (unless done), and started or triggered via c.tryFire. This also covers races possible if x completes while pushing. Classes with two inputs (for example BiApply) deal with races across both while pushing actions. The second completion is a CoCompletion pointing to the first, shared so that at most one performs the action. The multiple-arity methods allOf and anyOf do this pairwise to form trees of completions. Note that the generic type parameters of methods vary according to whether &quot;this&quot; is a source, dependent, or completion. Method postComplete is called upon completion unless the target is guaranteed not to be observable (i.e., not yet returned or linked). Multiple threads can call postComplete, which atomically pops each dependent action, and tries to trigger it via method tryFire, in NESTED mode. Triggering can propagate recursively, so NESTED mode returns its completed dependent (if one exists) for further processing by its caller (see method postFire). Blocking methods get() and join() rely on Signaller Completions that wake up waiting threads. The mechanics are similar to Treiber stack wait-nodes used in FutureTask, Phaser, and SynchronousQueue. See their internal documentation for algorithmic details. Without precautions, CompletableFutures would be prone to garbage accumulation as chains of Completions build up, each pointing back to its sources. So we null out fields as soon as possible (see especially method Completion.detach). The screening checks needed anyway harmlessly ignore null arguments that may have been obtained during races with threads nulling out fields. We also try to unlink fired Completions from stacks that might never be popped (see method postFire). Completion fields need not be declared as final or volatile because they are only visible to other threads upon safe publication." />
+      <item value="Completion Stage" />
+      <item value="Upcast for base copy-constructor" />
+      <item value="Call all Seed copy-constructors:" />
+      <item value="OOPS" />
+      <item value="slice" />
+      <item value="evaluate" />
+      <item value="Green Zebra" />
+      <item value="Zebra Qualities" />
+      <item value="do something meaningful..." />
+      <item value="Default constructor" />
+      <item value="seeds" />
+      <item value="Seed" />
+      <item value="Fruit Qualities" />
+      <item value="Clone the field, too:" />
+      <item value="Duplication via serialization" />
+      <item value="Byte Array Output Stream" />
+      <item value="Now get copies" />
+      <item value="Thing 2" />
+      <item value="Anything inherited is also cloneable:" />
+      <item value="Once it's cloneable, inheritance doesn't remove cloneability:" />
+      <item value="Now clone it" />
+      <item value="Snake" />
+      <item value="Bootstrap" />
+      <item value="加上这段代码即可实现深度克隆" />
+      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
+      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
+      <item value="Thread Util" />
+      <item value="clear History Store Relation Data" />
+      <item value="Management Factory" />
+      <item value="transport" />
+      <item value="Protocol Handler" />
+      <item value="Starting" />
+      <item value="Initializing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1806" />
-        <entry key="ALBANIAN" value="1" />
+        <entry key="CHINESE" value="1663" />
+        <entry key="ENGLISH" value="1664" />
         <entry key="ARABIC" value="2" />
-        <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -76,13 +74,13 @@
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="4" />
+        <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
