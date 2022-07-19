@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="the Amount This Payment" />
       <item value="Quartz Scheduler" />
       <item value="Ruoyi Scheduler DESKTOP" />
       <item value="Scheduler" />
@@ -35,7 +36,6 @@
       <item value="find Virtual" />
       <item value="aspect Void Method Inject" />
       <item value="amount This Payment" />
-      <item value="the Amount This Payment" />
       <item value="the Amount This" />
       <item value="Runnable Adapter" />
       <item value="改变结算金额数值" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1750" />
-        <entry key="ENGLISH" value="1750" />
+        <entry key="ENGLISH" value="1751" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
