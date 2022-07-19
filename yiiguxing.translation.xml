@@ -4,12 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Project Purchase Order" />
+      <item value="Table Name" />
+      <item value="data" />
+      <item value="xqh" />
+      <item value="987072248" />
+      <item value="capturing Class" />
       <item value="resolve" />
       <item value="TODO SqlRunner" />
       <item value="Sql Helper" />
       <item value="operate Row Id" />
       <item value="is Empty" />
-      <item value="Project Purchase Order" />
       <item value="the Amount This Payment" />
       <item value="Quartz Scheduler" />
       <item value="Ruoyi Scheduler DESKTOP" />
@@ -49,16 +54,11 @@
       <item value="HV 000001" />
       <item value="clinit" />
       <item value="Version" />
-      <item value="Inject" />
-      <item value="condition Param Row Ids" />
-      <item value="Collection Utils" />
-      <item value="Ajax Result" />
-      <item value="Lazy Initialization Exclude Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1757" />
-        <entry key="ENGLISH" value="1758" />
+        <entry key="CHINESE" value="1761" />
+        <entry key="ENGLISH" value="1762" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -82,7 +82,7 @@
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
