@@ -4,6 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Login User" />
+      <item value="get Row Id" />
+      <item value="supplier Payment Tick" />
+      <item value="Bitap Search Processor Factory" />
+      <item value="Abstract Search Processor Factory" />
+      <item value="Creates a {@link SearchProcessorFactory} based on &lt;a href=&quot;https:en.wikipedia.orgwikiKnuth%E2%80%93Morris%E2%80%93Pratt_algorithm&quot;&gt;Knuth-Morris-Pratt&lt;a&gt; string search algorithm. It is a reasonable default choice among the provided algorithms. &lt;br&gt; Precomputation (this method) time is linear in the size of input ({@code O(|needle|)}). &lt;br&gt; The factory allocates and retains an int array of size {@code needle.length + 1}, and retains a reference to the {@code needle} itself. &lt;br&gt; Search (the actual application of {@link SearchProcessor}) time is linear in the size of {@link io.netty.buffer.ByteBuf} on which the search is peformed ({@code O(|haystack|)}). Every byte of {@link io.netty.buffer.ByteBuf} is processed only once, sequentually. @param needle an array of bytes to search for @return a new instance of {@link KmpSearchProcessorFactory} precomputed for the given {@code needle}" />
+      <item value="Kmp Search Processor Factory" />
+      <item value="compute Backtrack" />
+      <item value="Now, apply KMP to [ s, u ) for fast backtracking" />
+      <item value="Property Sourced Request Mapping Handler Mapping" />
+      <item value="finance Supplier Payment Tick Service" />
+      <item value="sequence Number Generic" />
+      <item value="nio" />
+      <item value="http" />
+      <item value="set Total Amount" />
+      <item value="acquire Shared" />
+      <item value="Basic Type Getter" />
+      <item value="Opt Null Basic Type From Object Getter" />
+      <item value="call With Runtime Exception" />
+      <item value="flush Every Buffer" />
+      <item value="Stream Copier" />
+      <item value="Collection Value Map" />
+      <item value="Custom Key Map" />
+      <item value="Tolerant Map" />
       <item value="Project Purchase Order" />
       <item value="Table Name" />
       <item value="data" />
@@ -30,35 +54,11 @@
       <item value="ACC VARARGS" />
       <item value="ACC VOLATILE" />
       <item value="ACC SYNCHRONIZED" />
-      <item value="Access modifier flags." />
-      <item value="Tell the JVM that we need to change the target of a CallSite." />
-      <item value="A {@code VolatileCallSite} is a {@link CallSite} whose target acts like a volatile variable. An {@code invokedynamic} instruction linked to a {@code VolatileCallSite} sees updates to its call site target immediately, even if the update occurs in another thread. There may be a performance penalty for such tight coupling between threads. &lt;p&gt; Unlike {@code MutableCallSite}, there is no {@linkplain MutableCallSitesyncAll syncAll operation} on volatile call sites, since every write to a volatile variable is implicitly synchronized with reader threads. &lt;p&gt; In other respects, a {@code VolatileCallSite} is interchangeable with {@code MutableCallSite}. @see MutableCallSite" />
-      <item value="payment Tick Row Id" />
-      <item value="get" />
-      <item value="store" />
-      <item value="payment" />
-      <item value="list" />
-      <item value="get Store Payment Data List" />
-      <item value="volatile Call Site" />
-      <item value="success" />
-      <item value="STATIC INITIALIZER NAME" />
-      <item value="CONSTRUCTOR NAME" />
-      <item value="Per JVMS 6.5, desc. of invokespecial instruction: If the method is in a superclass of the LC, and if our original search was above LC.super, repeat the search (symbolic lookup) from LC.super and continue with the direct superclass of that class, and so forth, until a match is found or no further superclasses exist. FIXME: MemberName.resolve should handle this instead." />
-      <item value="find Virtual" />
-      <item value="aspect Void Method Inject" />
-      <item value="amount This Payment" />
-      <item value="the Amount This" />
-      <item value="Runnable Adapter" />
-      <item value="改变结算金额数值" />
-      <item value="transport" />
-      <item value="HV 000001" />
-      <item value="clinit" />
-      <item value="Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1761" />
-        <entry key="ENGLISH" value="1762" />
+        <entry key="CHINESE" value="1784" />
+        <entry key="ENGLISH" value="1785" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -76,7 +76,7 @@
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="4" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="2" />
