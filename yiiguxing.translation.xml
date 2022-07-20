@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="current Act Id" />
+      <item value="selected User Names" />
       <item value="start" />
       <item value="select" />
       <item value="设置默认连线名称为其节点名称" />
@@ -52,13 +54,11 @@
       <item value="Abstract Query Expression Executor" />
       <item value="config Condition Param Service" />
       <item value="duplicate" />
-      <item value="Charset" />
-      <item value="avoid getfield opcode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1721" />
-        <entry key="ENGLISH" value="1722" />
+        <entry key="CHINESE" value="1724" />
+        <entry key="ENGLISH" value="1725" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
