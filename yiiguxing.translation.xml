@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="设置默认连线名称为其节点名称" />
+      <item value="i Engine Proc Act Def Service" />
       <item value="Chart Config Record" />
       <item value="Id Type" />
       <item value="ASSIGN ID" />
@@ -52,12 +54,10 @@
       <item value="avoid getfield opcode" />
       <item value="locale" />
       <item value="is Bmp Code Point" />
-      <item value="complete" />
-      <item value="Delegating Completable Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1717" />
+        <entry key="CHINESE" value="1718" />
         <entry key="ENGLISH" value="1718" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
