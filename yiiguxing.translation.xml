@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start" />
       <item value="select" />
       <item value="设置默认连线名称为其节点名称" />
       <item value="i Engine Proc Act Def Service" />
@@ -53,12 +54,11 @@
       <item value="duplicate" />
       <item value="Charset" />
       <item value="avoid getfield opcode" />
-      <item value="locale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1720" />
-        <entry key="ENGLISH" value="1721" />
+        <entry key="CHINESE" value="1721" />
+        <entry key="ENGLISH" value="1722" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
