@@ -4,8 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="ASSIGN ID" />
+      <item value="987072248" />
+      <item value="com" />
+      <item value="ACCEPT SINGLE VALUE AS ARRAY" />
+      <item value="Feature" />
+      <item value="for now, a pure tag annotation, no parameters" />
+      <item value="Meta-annotation (annotations used on other annotations) used for marking all annotations that are part of Jackson package. Can be used for recognizing all Jackson annotations generically, and in future also for passing other generic annotation configuration" />
       <item value="图表配置记录实体" />
+      <item value="ASSIGN ID" />
       <item value="Chart Config Record" />
       <item value="chart Type" />
       <item value="ROW ID" />
@@ -21,13 +27,11 @@
       <item value="Imadcn Identifier Generator" />
       <item value="Chart Config Detail" />
       <item value="project" />
-      <item value="com" />
       <item value="Component" />
       <item value="Query Dictionary" />
       <item value="implements" />
       <item value="Application Context Aware" />
       <item value="lombok" />
-      <item value="987072248" />
       <item value="Chart Config Table" />
       <item value="星期日" />
       <item value="templateserver" />
@@ -50,15 +54,11 @@
       <item value="Merge Multiple Expression Compute" />
       <item value="down Load Path" />
       <item value="builder Condition Sql" />
-      <item value="lock Interruptibly" />
-      <item value="original Data" />
-      <item value="connection" />
-      <item value="Abstract Query Expression Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1734" />
-        <entry key="ENGLISH" value="1735" />
+        <entry key="CHINESE" value="1742" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,7 +73,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
