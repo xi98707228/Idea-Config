@@ -4,7 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="config Describe Message" />
+      <item value="前端手动选择此类型值" />
+      <item value="并作出对应限制" />
+      <item value="根据此字段前端判断是否可以设置多个字段值" />
+      <item value="Chart Field Config" />
+      <item value="String" />
+      <item value="field Title" />
       <item value="987072248" />
+      <item value="TEMPLATE CHART HORIZONTAL AXIS CONFIG" />
+      <item value="Chart Horizontal Axis Config" />
+      <item value="ROW ID" />
+      <item value="row Id" />
+      <item value="ASSIGN ID" />
+      <item value="图表的X轴类型配置信息" />
+      <item value="Chart Horizontal Axis Record" />
       <item value="2022" />
       <item value="图表模块上传的图表文件数据记录表" />
       <item value="TEMPLATE CHART IMAGE" />
@@ -29,10 +43,7 @@
       <item value="for now, a pure tag annotation, no parameters" />
       <item value="Meta-annotation (annotations used on other annotations) used for marking all annotations that are part of Jackson package. Can be used for recognizing all Jackson annotations generically, and in future also for passing other generic annotation configuration" />
       <item value="图表配置记录实体" />
-      <item value="ASSIGN ID" />
       <item value="Chart Config Record" />
-      <item value="ROW ID" />
-      <item value="row Id" />
       <item value="current Act Id" />
       <item value="selected User Names" />
       <item value="start" />
@@ -43,22 +54,11 @@
       <item value="Imadcn Identifier Generator" />
       <item value="Chart Config Detail" />
       <item value="project" />
-      <item value="Component" />
-      <item value="Query Dictionary" />
-      <item value="implements" />
-      <item value="Application Context Aware" />
-      <item value="lombok" />
-      <item value="Chart Config Table" />
-      <item value="星期日" />
-      <item value="templateserver" />
-      <item value="chart" />
-      <item value="utils" />
-      <item value="compute Scale Strategy Dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
-        <entry key="ENGLISH" value="1756" />
+        <entry key="CHINESE" value="1771" />
+        <entry key="ENGLISH" value="1772" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
