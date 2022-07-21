@@ -4,13 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="987072248" />
+      <item value="2022" />
+      <item value="图表模块上传的图表文件数据记录表" />
+      <item value="TEMPLATE CHART IMAGE" />
+      <item value="Chart Image Data" />
+      <item value="Date" />
+      <item value="chart Type" />
+      <item value="图片关联的图表记录row Id" />
+      <item value="get Row Id" />
+      <item value="describe Message" />
       <item value="Chart Table Config" />
       <item value="fasterxml" />
       <item value="annotation" />
       <item value="jackson" />
       <item value="14" />
       <item value="qq" />
-      <item value="987072248" />
       <item value="Chart Data Record" />
       <item value="author" />
       <item value="xqh" />
@@ -22,7 +31,6 @@
       <item value="图表配置记录实体" />
       <item value="ASSIGN ID" />
       <item value="Chart Config Record" />
-      <item value="chart Type" />
       <item value="ROW ID" />
       <item value="row Id" />
       <item value="current Act Id" />
@@ -32,7 +40,6 @@
       <item value="设置默认连线名称为其节点名称" />
       <item value="i Engine Proc Act Def Service" />
       <item value="Id Type" />
-      <item value="describe Message" />
       <item value="Imadcn Identifier Generator" />
       <item value="Chart Config Detail" />
       <item value="project" />
@@ -47,18 +54,11 @@
       <item value="chart" />
       <item value="utils" />
       <item value="compute Scale Strategy Dispatch" />
-      <item value="Compute Scale Strategy Dispatch" />
-      <item value="Application Context" />
-      <item value="application Context" />
-      <item value="beans Of Type" />
-      <item value="STRATEGY ENUM MAP" />
-      <item value="singleton" />
-      <item value="is Cache Safe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1748" />
-        <entry key="ENGLISH" value="1749" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1756" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
