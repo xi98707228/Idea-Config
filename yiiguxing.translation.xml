@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Comparison and hashing" />
+      <item value="entry Set" />
+      <item value="operate Data" />
+      <item value="Exception" />
+      <item value="operate Config Record" />
+      <item value="返回当前操作的记录row Id" />
+      <item value="final" />
+      <item value="Rob Winch" />
+      <item value="Default Security Filter Chain" />
+      <item value="Chart Config Record Controller" />
+      <item value="图表配置数据信息相关接口" />
+      <item value="config Chart Type" />
       <item value="Chart Image Data" />
       <item value="ASSIGN ID" />
       <item value="ROW ID" />
@@ -21,11 +33,8 @@
       <item value="field Condition Describe Message" />
       <item value="table Name" />
       <item value="后期进行导入的时候需要根据此类型来判断是否可以进行导入" />
-      <item value="config Chart Type" />
       <item value="config Char Type" />
-      <item value="图表配置数据信息相关接口" />
       <item value="987072248" />
-      <item value="Chart Config Record Controller" />
       <item value="chart" />
       <item value="annotation" />
       <item value="mybatisplus" />
@@ -45,20 +54,11 @@
       <item value="config Describe Message" />
       <item value="String" />
       <item value="store Chart Json" />
-      <item value="并作出对应限制" />
-      <item value="前端手动选择此类型值" />
-      <item value="根据此字段前端判断是否可以设置多个字段值" />
-      <item value="存储的图表JSON数据" />
-      <item value="图表字段的条件配置" />
-      <item value="Chart Field Condition Config" />
-      <item value="MILLISECONDS" />
-      <item value="Query Dictionary" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1887" />
-        <entry key="ENGLISH" value="1888" />
+        <entry key="CHINESE" value="1900" />
+        <entry key="ENGLISH" value="1901" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
