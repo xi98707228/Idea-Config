@@ -4,7 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ASSIGN ID" />
+      <item value="图表配置记录实体" />
       <item value="Chart Config Record" />
+      <item value="chart Type" />
       <item value="ROW ID" />
       <item value="row Id" />
       <item value="current Act Id" />
@@ -14,7 +17,6 @@
       <item value="设置默认连线名称为其节点名称" />
       <item value="i Engine Proc Act Def Service" />
       <item value="Id Type" />
-      <item value="ASSIGN ID" />
       <item value="describe Message" />
       <item value="Imadcn Identifier Generator" />
       <item value="Chart Config Detail" />
@@ -52,13 +54,11 @@
       <item value="original Data" />
       <item value="connection" />
       <item value="Abstract Query Expression Executor" />
-      <item value="config Condition Param Service" />
-      <item value="duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1728" />
-        <entry key="ENGLISH" value="1729" />
+        <entry key="CHINESE" value="1734" />
+        <entry key="ENGLISH" value="1735" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
