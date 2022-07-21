@@ -4,62 +4,63 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="config Describe Message" />
-      <item value="前端手动选择此类型值" />
-      <item value="并作出对应限制" />
-      <item value="根据此字段前端判断是否可以设置多个字段值" />
-      <item value="Chart Field Config" />
-      <item value="String" />
-      <item value="field Title" />
-      <item value="987072248" />
-      <item value="TEMPLATE CHART HORIZONTAL AXIS CONFIG" />
-      <item value="Chart Horizontal Axis Config" />
+      <item value="Chart Image Data" />
+      <item value="ASSIGN ID" />
       <item value="ROW ID" />
       <item value="row Id" />
-      <item value="ASSIGN ID" />
-      <item value="图表的X轴类型配置信息" />
-      <item value="Chart Horizontal Axis Record" />
-      <item value="2022" />
-      <item value="图表模块上传的图表文件数据记录表" />
-      <item value="TEMPLATE CHART IMAGE" />
-      <item value="Chart Image Data" />
-      <item value="Date" />
-      <item value="chart Type" />
-      <item value="图片关联的图表记录row Id" />
-      <item value="get Row Id" />
-      <item value="describe Message" />
-      <item value="Chart Table Config" />
-      <item value="fasterxml" />
+      <item value="file Path" />
+      <item value="file Type" />
+      <item value="field Value" />
+      <item value="field Identity" />
+      <item value="field Name" />
+      <item value="TEMPLATE CHART HORIZONTAL AXIS" />
+      <item value="TEMPLATE CHART HORIZONTAL" />
+      <item value="关联配置字段行数据的" />
+      <item value="key" />
+      <item value="config Field Key" />
+      <item value="field Condition Describe Message" />
+      <item value="table Name" />
+      <item value="后期进行导入的时候需要根据此类型来判断是否可以进行导入" />
+      <item value="config Chart Type" />
+      <item value="config Char Type" />
+      <item value="图表配置数据信息相关接口" />
+      <item value="987072248" />
+      <item value="Chart Config Record Controller" />
+      <item value="chart" />
       <item value="annotation" />
-      <item value="jackson" />
-      <item value="14" />
-      <item value="qq" />
-      <item value="Chart Data Record" />
-      <item value="author" />
-      <item value="xqh" />
+      <item value="mybatisplus" />
+      <item value="baomidou" />
       <item value="com" />
-      <item value="ACCEPT SINGLE VALUE AS ARRAY" />
-      <item value="Feature" />
-      <item value="for now, a pure tag annotation, no parameters" />
-      <item value="Meta-annotation (annotations used on other annotations) used for marking all annotations that are part of Jackson package. Can be used for recognizing all Jackson annotations generically, and in future also for passing other generic annotation configuration" />
-      <item value="图表配置记录实体" />
+      <item value="图表字段的条件配置数据" />
+      <item value="字段条件数据描述信息" />
+      <item value="存储构建图表的JSON数据" />
+      <item value="图表配置记录条目" />
+      <item value="templateserver" />
+      <item value="TEMPLATE CHART CONFIG RECORD" />
       <item value="Chart Config Record" />
-      <item value="current Act Id" />
-      <item value="selected User Names" />
-      <item value="start" />
-      <item value="select" />
-      <item value="设置默认连线名称为其节点名称" />
-      <item value="i Engine Proc Act Def Service" />
-      <item value="Id Type" />
-      <item value="Imadcn Identifier Generator" />
-      <item value="Chart Config Detail" />
-      <item value="project" />
+      <item value="是一对多关系" />
+      <item value="Chart Field Config" />
+      <item value="此数据和" />
+      <item value="此条配置的描述信息" />
+      <item value="config Describe Message" />
+      <item value="String" />
+      <item value="store Chart Json" />
+      <item value="并作出对应限制" />
+      <item value="前端手动选择此类型值" />
+      <item value="根据此字段前端判断是否可以设置多个字段值" />
+      <item value="存储的图表JSON数据" />
+      <item value="图表字段的条件配置" />
+      <item value="Chart Field Condition Config" />
+      <item value="MILLISECONDS" />
+      <item value="Query Dictionary" />
+      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1771" />
-        <entry key="ENGLISH" value="1772" />
+        <entry key="CHINESE" value="1887" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="ARABIC" value="2" />
+        <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -73,15 +74,15 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
