@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
+      <item value="Ulf Zibis" />
+      <item value="Initialize JNI field and method IDs for fields that may be accessed from C." />
+      <item value="Thread Group Context" />
       <item value="duplicate" />
       <item value="Charset" />
       <item value="avoid getfield opcode" />
@@ -50,15 +54,11 @@
       <item value="Thread Util" />
       <item value="clear History Store Relation Data" />
       <item value="Management Factory" />
-      <item value="transport" />
-      <item value="Protocol Handler" />
-      <item value="Starting" />
-      <item value="Initializing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1663" />
-        <entry key="ENGLISH" value="1664" />
+        <entry key="CHINESE" value="1666" />
+        <entry key="ENGLISH" value="1667" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
