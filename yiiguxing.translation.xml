@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Introspector" />
+      <item value="Frame" />
       <item value="ensure Class Initialized" />
       <item value="@deprecated As of JDK version 1.1, should register this component as ActionListener on component which fires action events." />
       <item value="Choice" />
@@ -52,13 +54,11 @@
       <item value="Snake" />
       <item value="Bootstrap" />
       <item value="加上这段代码即可实现深度克隆" />
-      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
-      <item value="Converts this string to a new character array. @return a newly allocated character array whose length is the length of this string and whose contents are initialized to contain the character sequence represented by this string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1669" />
-        <entry key="ENGLISH" value="1670" />
+        <entry key="CHINESE" value="1671" />
+        <entry key="ENGLISH" value="1672" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
