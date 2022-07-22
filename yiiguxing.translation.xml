@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="chart Config Record Service" />
       <item value="record" />
       <item value="operate Data" />
       <item value="Security Utils" />
@@ -53,12 +54,11 @@
       <item value="table Name" />
       <item value="后期进行导入的时候需要根据此类型来判断是否可以进行导入" />
       <item value="config Char Type" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1920" />
-        <entry key="ENGLISH" value="1921" />
+        <entry key="CHINESE" value="1921" />
+        <entry key="ENGLISH" value="1922" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
