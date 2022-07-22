@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Data Base Utils" />
       <item value="declaring Class" />
       <item value="ordinal" />
       <item value="Pascal Case" />
@@ -53,12 +54,11 @@
       <item value="com" />
       <item value="图表字段的条件配置数据" />
       <item value="字段条件数据描述信息" />
-      <item value="存储构建图表的JSON数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1911" />
-        <entry key="ENGLISH" value="1912" />
+        <entry key="CHINESE" value="1912" />
+        <entry key="ENGLISH" value="1913" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
