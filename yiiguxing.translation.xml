@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="templateserver" />
+      <item value="String" />
+      <item value="MERGE COUNT" />
+      <item value="MERGE VALUE SUM" />
+      <item value="get Field Name" />
+      <item value="field Name" />
+      <item value="Chart Field Config" />
+      <item value="field Value" />
+      <item value="merge Result Type" />
+      <item value="必须填写当前字段对应的数值" />
+      <item value="进行合并值" />
+      <item value="table Name" />
+      <item value="Chart Field Config Controller" />
+      <item value="前端填充的字段配置信息" />
+      <item value="save Field Config" />
       <item value="utils" />
       <item value="template Manage" />
       <item value="project" />
@@ -39,26 +54,11 @@
       <item value="operate Config Record" />
       <item value="返回当前操作的记录row Id" />
       <item value="final" />
-      <item value="Rob Winch" />
-      <item value="Default Security Filter Chain" />
-      <item value="Chart Config Record Controller" />
-      <item value="图表配置数据信息相关接口" />
-      <item value="config Chart Type" />
-      <item value="Chart Image Data" />
-      <item value="ASSIGN ID" />
-      <item value="ROW ID" />
-      <item value="row Id" />
-      <item value="file Path" />
-      <item value="file Type" />
-      <item value="field Value" />
-      <item value="field Identity" />
-      <item value="field Name" />
-      <item value="TEMPLATE CHART HORIZONTAL AXIS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1927" />
-        <entry key="ENGLISH" value="1928" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="1948" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
