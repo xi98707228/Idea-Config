@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="declaring Class" />
+      <item value="ordinal" />
+      <item value="Pascal Case" />
+      <item value="Camel Case" />
+      <item value="No Change" />
+      <item value="Never Use This Value Except Default Value" />
+      <item value="Property Naming Strategy" />
+      <item value="Users" />
+      <item value="print If Info Enabled" />
+      <item value="config Describe Message" />
+      <item value="config Title" />
       <item value="Comparison and hashing" />
       <item value="entry Set" />
       <item value="operate Data" />
@@ -43,22 +54,11 @@
       <item value="图表字段的条件配置数据" />
       <item value="字段条件数据描述信息" />
       <item value="存储构建图表的JSON数据" />
-      <item value="图表配置记录条目" />
-      <item value="templateserver" />
-      <item value="TEMPLATE CHART CONFIG RECORD" />
-      <item value="Chart Config Record" />
-      <item value="是一对多关系" />
-      <item value="Chart Field Config" />
-      <item value="此数据和" />
-      <item value="此条配置的描述信息" />
-      <item value="config Describe Message" />
-      <item value="String" />
-      <item value="store Chart Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1900" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1911" />
+        <entry key="ENGLISH" value="1912" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
