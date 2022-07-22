@@ -4,7 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="save Field Config" />
+      <item value="进行合并值" />
+      <item value="还是进行" />
+      <item value="合并总和" />
       <item value="templateserver" />
+      <item value="merge Result Type" />
       <item value="String" />
       <item value="MERGE COUNT" />
       <item value="MERGE VALUE SUM" />
@@ -12,13 +17,10 @@
       <item value="field Name" />
       <item value="Chart Field Config" />
       <item value="field Value" />
-      <item value="merge Result Type" />
       <item value="必须填写当前字段对应的数值" />
-      <item value="进行合并值" />
       <item value="table Name" />
       <item value="Chart Field Config Controller" />
       <item value="前端填充的字段配置信息" />
-      <item value="save Field Config" />
       <item value="utils" />
       <item value="template Manage" />
       <item value="project" />
@@ -52,13 +54,11 @@
       <item value="entry Set" />
       <item value="Exception" />
       <item value="operate Config Record" />
-      <item value="返回当前操作的记录row Id" />
-      <item value="final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1947" />
-        <entry key="ENGLISH" value="1948" />
+        <entry key="CHINESE" value="1953" />
+        <entry key="ENGLISH" value="1954" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
