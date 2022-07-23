@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Toggle" />
+      <item value="Window Adapter" />
+      <item value="add" />
       <item value="run Flag" />
       <item value="templateserver" />
       <item value="String" />
@@ -51,14 +54,11 @@
       <item value="config Title" />
       <item value="Comparison and hashing" />
       <item value="entry Set" />
-      <item value="Exception" />
-      <item value="operate Config Record" />
-      <item value="返回当前操作的记录row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1948" />
-        <entry key="ENGLISH" value="1949" />
+        <entry key="CHINESE" value="1951" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
@@ -87,6 +87,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658061575411" />
+    <option name="lastTrimTime" value="1658564284258" />
   </component>
 </application>
