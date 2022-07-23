@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The maximum priority that a thread can have." />
+      <item value="suspended" />
+      <item value="faux Suspend" />
+      <item value="faux Resume" />
+      <item value="Tests whether the current thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is cleared by this method. In other words, if this method were to be called twice in succession, the second call would return false (unless the current thread were interrupted again, after the first call had cleared its interrupted status and before the second call had examined it). &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if the current thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see isInterrupted() @revised 6.0" />
+      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
+      <item value="interrupted" />
+      <item value="interrupt" />
+      <item value="is Interrupted" />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
+      <item value="Interrupts this thread. &lt;p&gt; Unless the current thread is interrupting itself, which is always permitted, the {@link checkAccess() checkAccess} method of this thread is invoked, which may cause a {@link SecurityException} to be thrown. &lt;p&gt; If this thread is blocked in an invocation of the {@link Objectwait() wait()}, {@link Objectwait(long) wait(long)}, or {@link Objectwait(long, int) wait(long, int)} methods of the {@link Object} class, or of the {@link join()}, {@link join(long)}, {@link join(long, int)}, {@link sleep(long)}, or {@link sleep(long, int)}, methods of this class, then its interrupt status will be cleared and it will receive an {@link InterruptedException}. &lt;p&gt; If this thread is blocked in an IO operation upon an {@link java.nio.channels.InterruptibleChannel InterruptibleChannel} then the channel will be closed, the thread's interrupt status will be set, and the thread will receive a {@link java.nio.channels.ClosedByInterruptException}. &lt;p&gt; If this thread is blocked in a {@link java.nio.channels.Selector} then the thread's interrupt status will be set and it will return immediately from the selection operation, possibly with a non-zero value, just as if the selector's {@link java.nio.channels.Selectorwakeup wakeup} method were invoked. &lt;p&gt; If none of the previous conditions hold then this thread's interrupt status will be set. &lt;p&gt; &lt;p&gt; Interrupting a thread that is not alive need not have any effect. @throws SecurityException if the current thread cannot modify this thread" />
+      <item value="Thrown when a thread is waiting, sleeping, or otherwise occupied, and the thread is interrupted, either before or during the activity. Occasionally a method may wish to test whether the current thread has been interrupted, and if so, to immediately throw this exception. The following code can be used to achieve this effect: &lt;pre&gt; if (Thread.interrupted()) Clears interrupted status! throw new InterruptedException(); &lt;pre&gt;" />
+      <item value="Interrupted Exception" />
+      <item value="terminate" />
       <item value="Blockable" />
       <item value="Peeker" />
       <item value="Observe" />
@@ -40,25 +54,11 @@
       <item value="project" />
       <item value="package" />
       <item value="Service" />
-      <item value="HB Compute Scale Strategy" />
-      <item value="Marks a constructor, field, setter method, or config method as to be autowired by Spring's dependency injection facilities. This is an alternative to the JSR-330 {@link javax.inject.Inject} annotation, adding required-vs-optional semantics. &lt;h3&gt;Autowired Constructors&lt;h3&gt; &lt;p&gt;Only one constructor of any given bean class may declare this annotation with the {@link required} attribute set to {@code true}, indicating &lt;i&gt;the&lt;i&gt; constructor to autowire when used as a Spring bean. Furthermore, if the {@code required} attribute is set to {@code true}, only a single constructor may be annotated with {@code @Autowired}. If multiple &lt;i&gt;non-required&lt;i&gt; constructors declare the annotation, they will be considered as candidates for autowiring. The constructor with the greatest number of dependencies that can be satisfied by matching beans in the Spring container will be chosen. If none of the candidates can be satisfied, then a primarydefault constructor (if present) will be used. Similarly, if a class declares multiple constructors but none of them is annotated with {@code @Autowired}, then a primarydefault constructor (if present) will be used. If a class only declares a single constructor to begin with, it will always be used, even if not annotated. An annotated constructor does not have to be public. &lt;h3&gt;Autowired Fields&lt;h3&gt; &lt;p&gt;Fields are injected right after construction of a bean, before any config methods are invoked. Such a config field does not have to be public. &lt;h3&gt;Autowired Methods&lt;h3&gt; &lt;p&gt;Config methods may have an arbitrary name and any number of arguments; each of those arguments will be autowired with a matching bean in the Spring container. Bean property setter methods are effectively just a special case of such a general config method. Such config methods do not have to be public. &lt;h3&gt;Autowired Parameters&lt;h3&gt; &lt;p&gt;Although {@code @Autowired} can technically be declared on individual method or constructor parameters since Spring Framework 5.0, most parts of the framework ignore such declarations. The only part of the core Spring Framework that actively supports autowired parameters is the JUnit Jupiter support in the {@code spring-test} module (see the &lt;a href=&quot;https:docs.spring.iospringdocscurrentspring-framework-referencetesting.htmltestcontext-junit-jupiter-di&quot;&gt;TestContext framework&lt;a&gt; reference documentation for details). &lt;h3&gt;Multiple Arguments and 'required' Semantics&lt;h3&gt; &lt;p&gt;In the case of a multi-arg constructor or method, the {@link required} attribute is applicable to all arguments. Individual parameters may be declared as Java-8 style {@link java.util.Optional} or, as of Spring Framework 5.0, also as {@code @Nullable} or a not-null parameter type in Kotlin, overriding the base 'required' semantics. &lt;h3&gt;Autowiring Arrays, Collections, and Maps&lt;h3&gt; &lt;p&gt;In case of an array, {@link java.util.Collection}, or {@link java.util.Map} dependency type, the container autowires all beans matching the declared value type. For such purposes, the map keys must be declared as type {@code String} which will be resolved to the corresponding bean names. Such a container-provided collection will be ordered, taking into account {@link org.springframework.core.Ordered Ordered} and {@link org.springframework.core.annotation.Order @Order} values of the target components, otherwise following their registration order in the container. Alternatively, a single matching target bean may also be a generally typed {@code Collection} or {@code Map} itself, getting injected as such. &lt;h3&gt;Not supported in {@code BeanPostProcessor} or {@code BeanFactoryPostProcessor}&lt;h3&gt; &lt;p&gt;Note that actual injection is performed through a {@link org.springframework.beans.factory.config.BeanPostProcessor BeanPostProcessor} which in turn means that you &lt;em&gt;cannot&lt;em&gt; use {@code @Autowired} to inject references into {@link org.springframework.beans.factory.config.BeanPostProcessor BeanPostProcessor} or {@link org.springframework.beans.factory.config.BeanFactoryPostProcessor BeanFactoryPostProcessor} types. Please consult the javadoc for the {@link AutowiredAnnotationBeanPostProcessor} class (which, by default, checks for the presence of this annotation). @author Juergen Hoeller @author Mark Fisher @author Sam Brannen @since 2.5 @see AutowiredAnnotationBeanPostProcessor @see Qualifier @see Value" />
-      <item value="get Data Table" />
-      <item value="chart Config Record Service" />
-      <item value="record" />
-      <item value="operate Data" />
-      <item value="Security Utils" />
-      <item value="matches Password" />
-      <item value="Date" />
-      <item value="set Update Time" />
-      <item value="set Update User Nick" />
-      <item value="save Or Update" />
-      <item value="Data Base Utils" />
-      <item value="declaring Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1963" />
-        <entry key="ENGLISH" value="1964" />
+        <entry key="CHINESE" value="1983" />
+        <entry key="ENGLISH" value="1984" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
