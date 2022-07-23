@@ -4,62 +4,63 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="run Flag" />
-      <item value="new Thread Task" />
-      <item value="start Thread Task" />
-      <item value="add Window Listener" />
-      <item value="Note: changed from simple array in 2.10:" />
-      <item value="An array of object references in which elements may be updated atomically. See the {@link java.util.concurrent.atomic} package specification for description of the properties of atomic variables. @since 1.5 @author Doug Lea @param &lt;E&gt; The base class of elements held in" />
-      <item value="number Of Leading Zeros" />
-      <item value="Visibility guaranteed by final field guarantees" />
-      <item value="Introspector" />
-      <item value="Frame" />
-      <item value="ensure Class Initialized" />
-      <item value="@deprecated As of JDK version 1.1, should register this component as ActionListener on component which fires action events." />
-      <item value="Choice" />
-      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="Ulf Zibis" />
-      <item value="Initialize JNI field and method IDs for fields that may be accessed from C." />
-      <item value="Thread Group Context" />
-      <item value="duplicate" />
-      <item value="Charset" />
-      <item value="avoid getfield opcode" />
-      <item value="locale" />
-      <item value="is Bmp Code Point" />
-      <item value="complete" />
-      <item value="Delegating Completable Future" />
-      <item value="Doug Lea" />
-      <item value="Completable Future" />
-      <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions." />
-      <item value="Overview" />
-      <item value="bi Apply Stage" />
-      <item value="then Combine" />
-      <item value="Uni Accept" />
-      <item value="uni Apply Stage" />
-      <item value="Completion" />
-      <item value="A CompletableFuture may have dependent completion actions, collected in a linked stack. It atomically completes by CASing a result field, and then pops off and runs those actions. This applies across normal vs exceptional outcomes, sync vs async actions, binary triggers, and various forms of completions. Non-nullness of field result (set via CAS) indicates done. An AltResult is used to box null as a result, as well as to hold exceptions. Using a single field makes completion simple to detect and trigger. Encoding and decoding is straightforward but adds to the sprawl of trapping and associating exceptions with targets. Minor simplifications rely on (static) NIL (to box null results) being the only AltResult with a null exception field, so we don't usually need explicit comparisons. Even though some of the generics casts are unchecked (see SuppressWarnings annotations), they are placed to be appropriate even if checked. Dependent actions are represented by Completion objects linked as Treiber stacks headed by field &quot;stack&quot;. There are Completion classes for each kind of action, grouped into single-input (UniCompletion), two-input (BiCompletion), projected (BiCompletions using either (not both) of two inputs), shared (CoCompletion, used by the second of two sources), zero-input source actions, and Signallers that unblock waiters. Class Completion extends ForkJoinTask to enable async execution (adding no space overhead because we exploit its &quot;tag&quot; methods to maintain claims). It is also declared as Runnable to allow usage with arbitrary executors. Support for each kind of CompletionStage relies on a separate class, along with two CompletableFuture methods: A Completion class with name X corresponding to function, prefaced with &quot;Uni&quot;, &quot;Bi&quot;, or &quot;Or&quot;. Each class contains fields for source(s), actions, and dependent. They are boringly similar, differing from others only with respect to underlying functional forms. We do this so that users don't encounter layers of adaptors in common usages. We also include &quot;Relay&quot; classesmethods that don't correspond to user methods; they copy results from one stage to another. Boolean CompletableFuture method x(...) (for example uniApply) takes all of the arguments needed to check that an action is triggerable, and then either runs the action or arranges its async execution by executing its Completion argument, if present. The method returns true if known to be complete. Completion method tryFire(int mode) invokes the associated x method with its held arguments, and on success cleans up. The mode argument allows tryFire to be called twice (SYNC, then ASYNC); the first to screen and trap exceptions while arranging to execute, and the second when called from a task. (A few classes are not used async so take slightly different forms.) The claim() callback suppresses function invocation if already claimed by another thread. CompletableFuture method xStage(...) is called from a public stage method of CompletableFuture x. It screens user arguments and invokes andor creates the stage object. If not async and x is already complete, the action is run immediately. Otherwise a Completion c is created, pushed to x's stack (unless done), and started or triggered via c.tryFire. This also covers races possible if x completes while pushing. Classes with two inputs (for example BiApply) deal with races across both while pushing actions. The second completion is a CoCompletion pointing to the first, shared so that at most one performs the action. The multiple-arity methods allOf and anyOf do this pairwise to form trees of completions. Note that the generic type parameters of methods vary according to whether &quot;this&quot; is a source, dependent, or completion. Method postComplete is called upon completion unless the target is guaranteed not to be observable (i.e., not yet returned or linked). Multiple threads can call postComplete, which atomically pops each dependent action, and tries to trigger it via method tryFire, in NESTED mode. Triggering can propagate recursively, so NESTED mode returns its completed dependent (if one exists) for further processing by its caller (see method postFire). Blocking methods get() and join() rely on Signaller Completions that wake up waiting threads. The mechanics are similar to Treiber stack wait-nodes used in FutureTask, Phaser, and SynchronousQueue. See their internal documentation for algorithmic details. Without precautions, CompletableFutures would be prone to garbage accumulation as chains of Completions build up, each pointing back to its sources. So we null out fields as soon as possible (see especially method Completion.detach). The screening checks needed anyway harmlessly ignore null arguments that may have been obtained during races with threads nulling out fields. We also try to unlink fired Completions from stacks that might never be popped (see method postFire). Completion fields need not be declared as final or volatile because they are only visible to other threads upon safe publication." />
-      <item value="Completion Stage" />
-      <item value="Upcast for base copy-constructor" />
-      <item value="Call all Seed copy-constructors:" />
-      <item value="OOPS" />
-      <item value="slice" />
-      <item value="evaluate" />
-      <item value="Green Zebra" />
-      <item value="Zebra Qualities" />
-      <item value="do something meaningful..." />
-      <item value="Default constructor" />
-      <item value="seeds" />
-      <item value="Seed" />
-      <item value="Fruit Qualities" />
-      <item value="Clone the field, too:" />
-      <item value="Duplication via serialization" />
-      <item value="Byte Array Output Stream" />
+      <item value="templateserver" />
+      <item value="String" />
+      <item value="MERGE COUNT" />
+      <item value="MERGE VALUE SUM" />
+      <item value="get Field Name" />
+      <item value="field Name" />
+      <item value="Chart Field Config" />
+      <item value="field Value" />
+      <item value="merge Result Type" />
+      <item value="必须填写当前字段对应的数值" />
+      <item value="进行合并值" />
+      <item value="table Name" />
+      <item value="Chart Field Config Controller" />
+      <item value="前端填充的字段配置信息" />
+      <item value="save Field Config" />
+      <item value="utils" />
+      <item value="template Manage" />
+      <item value="project" />
+      <item value="package" />
+      <item value="Service" />
+      <item value="HB Compute Scale Strategy" />
+      <item value="Marks a constructor, field, setter method, or config method as to be autowired by Spring's dependency injection facilities. This is an alternative to the JSR-330 {@link javax.inject.Inject} annotation, adding required-vs-optional semantics. &lt;h3&gt;Autowired Constructors&lt;h3&gt; &lt;p&gt;Only one constructor of any given bean class may declare this annotation with the {@link required} attribute set to {@code true}, indicating &lt;i&gt;the&lt;i&gt; constructor to autowire when used as a Spring bean. Furthermore, if the {@code required} attribute is set to {@code true}, only a single constructor may be annotated with {@code @Autowired}. If multiple &lt;i&gt;non-required&lt;i&gt; constructors declare the annotation, they will be considered as candidates for autowiring. The constructor with the greatest number of dependencies that can be satisfied by matching beans in the Spring container will be chosen. If none of the candidates can be satisfied, then a primarydefault constructor (if present) will be used. Similarly, if a class declares multiple constructors but none of them is annotated with {@code @Autowired}, then a primarydefault constructor (if present) will be used. If a class only declares a single constructor to begin with, it will always be used, even if not annotated. An annotated constructor does not have to be public. &lt;h3&gt;Autowired Fields&lt;h3&gt; &lt;p&gt;Fields are injected right after construction of a bean, before any config methods are invoked. Such a config field does not have to be public. &lt;h3&gt;Autowired Methods&lt;h3&gt; &lt;p&gt;Config methods may have an arbitrary name and any number of arguments; each of those arguments will be autowired with a matching bean in the Spring container. Bean property setter methods are effectively just a special case of such a general config method. Such config methods do not have to be public. &lt;h3&gt;Autowired Parameters&lt;h3&gt; &lt;p&gt;Although {@code @Autowired} can technically be declared on individual method or constructor parameters since Spring Framework 5.0, most parts of the framework ignore such declarations. The only part of the core Spring Framework that actively supports autowired parameters is the JUnit Jupiter support in the {@code spring-test} module (see the &lt;a href=&quot;https:docs.spring.iospringdocscurrentspring-framework-referencetesting.htmltestcontext-junit-jupiter-di&quot;&gt;TestContext framework&lt;a&gt; reference documentation for details). &lt;h3&gt;Multiple Arguments and 'required' Semantics&lt;h3&gt; &lt;p&gt;In the case of a multi-arg constructor or method, the {@link required} attribute is applicable to all arguments. Individual parameters may be declared as Java-8 style {@link java.util.Optional} or, as of Spring Framework 5.0, also as {@code @Nullable} or a not-null parameter type in Kotlin, overriding the base 'required' semantics. &lt;h3&gt;Autowiring Arrays, Collections, and Maps&lt;h3&gt; &lt;p&gt;In case of an array, {@link java.util.Collection}, or {@link java.util.Map} dependency type, the container autowires all beans matching the declared value type. For such purposes, the map keys must be declared as type {@code String} which will be resolved to the corresponding bean names. Such a container-provided collection will be ordered, taking into account {@link org.springframework.core.Ordered Ordered} and {@link org.springframework.core.annotation.Order @Order} values of the target components, otherwise following their registration order in the container. Alternatively, a single matching target bean may also be a generally typed {@code Collection} or {@code Map} itself, getting injected as such. &lt;h3&gt;Not supported in {@code BeanPostProcessor} or {@code BeanFactoryPostProcessor}&lt;h3&gt; &lt;p&gt;Note that actual injection is performed through a {@link org.springframework.beans.factory.config.BeanPostProcessor BeanPostProcessor} which in turn means that you &lt;em&gt;cannot&lt;em&gt; use {@code @Autowired} to inject references into {@link org.springframework.beans.factory.config.BeanPostProcessor BeanPostProcessor} or {@link org.springframework.beans.factory.config.BeanFactoryPostProcessor BeanFactoryPostProcessor} types. Please consult the javadoc for the {@link AutowiredAnnotationBeanPostProcessor} class (which, by default, checks for the presence of this annotation). @author Juergen Hoeller @author Mark Fisher @author Sam Brannen @since 2.5 @see AutowiredAnnotationBeanPostProcessor @see Qualifier @see Value" />
+      <item value="get Data Table" />
+      <item value="chart Config Record Service" />
+      <item value="record" />
+      <item value="operate Data" />
+      <item value="Security Utils" />
+      <item value="matches Password" />
+      <item value="Date" />
+      <item value="set Update Time" />
+      <item value="set Update User Nick" />
+      <item value="save Or Update" />
+      <item value="Data Base Utils" />
+      <item value="declaring Class" />
+      <item value="ordinal" />
+      <item value="Pascal Case" />
+      <item value="Camel Case" />
+      <item value="No Change" />
+      <item value="Never Use This Value Except Default Value" />
+      <item value="Property Naming Strategy" />
+      <item value="Users" />
+      <item value="print If Info Enabled" />
+      <item value="config Describe Message" />
+      <item value="config Title" />
+      <item value="Comparison and hashing" />
+      <item value="entry Set" />
+      <item value="Exception" />
+      <item value="operate Config Record" />
+      <item value="返回当前操作的记录row Id" />
+      <item value="final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1679" />
-        <entry key="ENGLISH" value="1680" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="1948" />
         <entry key="ARABIC" value="2" />
+        <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -73,18 +74,19 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658560217554" />
+    <option name="lastTrimTime" value="1658061575411" />
   </component>
 </application>
