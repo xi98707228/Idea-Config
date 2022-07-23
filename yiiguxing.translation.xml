@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="new Thread Task" />
+      <item value="start Thread Task" />
+      <item value="add Window Listener" />
+      <item value="Note: changed from simple array in 2.10:" />
+      <item value="An array of object references in which elements may be updated atomically. See the {@link java.util.concurrent.atomic} package specification for description of the properties of atomic variables. @since 1.5 @author Doug Lea @param &lt;E&gt; The base class of elements held in" />
+      <item value="number Of Leading Zeros" />
+      <item value="Visibility guaranteed by final field guarantees" />
       <item value="Introspector" />
       <item value="Frame" />
       <item value="ensure Class Initialized" />
@@ -47,18 +54,11 @@
       <item value="Duplication via serialization" />
       <item value="Byte Array Output Stream" />
       <item value="Now get copies" />
-      <item value="Thing 2" />
-      <item value="Anything inherited is also cloneable:" />
-      <item value="Once it's cloneable, inheritance doesn't remove cloneability:" />
-      <item value="Now clone it" />
-      <item value="Snake" />
-      <item value="Bootstrap" />
-      <item value="加上这段代码即可实现深度克隆" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1671" />
-        <entry key="ENGLISH" value="1672" />
+        <entry key="CHINESE" value="1678" />
+        <entry key="ENGLISH" value="1679" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -85,6 +85,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658061575411" />
+    <option name="lastTrimTime" value="1658560217554" />
   </component>
 </application>
