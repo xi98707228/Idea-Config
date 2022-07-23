@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Sharing 1" />
+      <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor. The scheduler is free to ignore this hint. &lt;p&gt; Yield is a heuristic attempt to improve relative progression between threads that would otherwise over-utilise a CPU. Its use should be combined with detailed profiling and benchmarking to ensure that it actually has the desired effect. &lt;p&gt; It is rarely appropriate to use this method. It may be useful for debugging or testing purposes, where it may help to reproduce bugs due to race conditions. It may also be useful when designing concurrency control constructs such as the ones in the" />
+      <item value="sleep" />
+      <item value="halt Lock" />
+      <item value="Lock object for the native halt method" />
+      <item value="Get parameter &quot;size&quot; from Web page:" />
+      <item value="Ticker" />
+      <item value="Toggle L" />
       <item value="demo Thread 1" />
       <item value="Toggle" />
       <item value="Window Adapter" />
@@ -46,22 +54,14 @@
       <item value="ordinal" />
       <item value="Pascal Case" />
       <item value="Camel Case" />
-      <item value="No Change" />
-      <item value="Never Use This Value Except Default Value" />
-      <item value="Property Naming Strategy" />
-      <item value="Users" />
-      <item value="print If Info Enabled" />
-      <item value="config Describe Message" />
-      <item value="config Title" />
-      <item value="Comparison and hashing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1952" />
-        <entry key="ENGLISH" value="1953" />
+        <entry key="CHINESE" value="1959" />
+        <entry key="ENGLISH" value="1960" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
