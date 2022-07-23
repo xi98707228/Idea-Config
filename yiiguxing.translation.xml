@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="run Flag" />
       <item value="new Thread Task" />
       <item value="start Thread Task" />
       <item value="add Window Listener" />
@@ -53,12 +54,11 @@
       <item value="Clone the field, too:" />
       <item value="Duplication via serialization" />
       <item value="Byte Array Output Stream" />
-      <item value="Now get copies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1678" />
-        <entry key="ENGLISH" value="1679" />
+        <entry key="CHINESE" value="1679" />
+        <entry key="ENGLISH" value="1680" />
         <entry key="ARABIC" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
