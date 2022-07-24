@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="repaint" />
+      <item value="paint" />
+      <item value="Canvas" />
       <item value="Recursively display parent thread groups:" />
       <item value="Up Max L" />
       <item value="thread Terminated" />
@@ -51,14 +54,11 @@
       <item value="templateserver" />
       <item value="String" />
       <item value="MERGE COUNT" />
-      <item value="MERGE VALUE SUM" />
-      <item value="get Field Name" />
-      <item value="field Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1998" />
-        <entry key="ENGLISH" value="1999" />
+        <entry key="CHINESE" value="2001" />
+        <entry key="ENGLISH" value="2002" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
