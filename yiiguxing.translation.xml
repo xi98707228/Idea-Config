@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
       <item value="repaint" />
       <item value="paint" />
       <item value="Canvas" />
@@ -53,12 +54,11 @@
       <item value="run Flag" />
       <item value="templateserver" />
       <item value="String" />
-      <item value="MERGE COUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2001" />
-        <entry key="ENGLISH" value="2002" />
+        <entry key="CHINESE" value="2002" />
+        <entry key="ENGLISH" value="2003" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
