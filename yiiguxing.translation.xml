@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="thread Terminated" />
+      <item value="Helps transfer if a resize is in progress." />
+      <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
+      <item value="Table of counter cells. When non-null, size is a power of 2." />
+      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
+      <item value="size Ctl" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
+      <item value="Contended" />
+      <item value="Some private helper methods" />
+      <item value="Whether or not to single_step this thread" />
       <item value="MAX PRIORITY" />
       <item value="The maximum priority that a thread can have." />
       <item value="suspended" />
@@ -43,22 +54,11 @@
       <item value="field Name" />
       <item value="Chart Field Config" />
       <item value="field Value" />
-      <item value="merge Result Type" />
-      <item value="必须填写当前字段对应的数值" />
-      <item value="进行合并值" />
-      <item value="table Name" />
-      <item value="Chart Field Config Controller" />
-      <item value="前端填充的字段配置信息" />
-      <item value="save Field Config" />
-      <item value="utils" />
-      <item value="template Manage" />
-      <item value="project" />
-      <item value="package" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1984" />
-        <entry key="ENGLISH" value="1985" />
+        <entry key="CHINESE" value="1996" />
+        <entry key="ENGLISH" value="1997" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
