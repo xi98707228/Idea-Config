@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="MAX PRIORITY" />
       <item value="The maximum priority that a thread can have." />
       <item value="suspended" />
       <item value="faux Suspend" />
@@ -53,12 +54,11 @@
       <item value="template Manage" />
       <item value="project" />
       <item value="package" />
-      <item value="Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1983" />
-        <entry key="ENGLISH" value="1984" />
+        <entry key="CHINESE" value="1984" />
+        <entry key="ENGLISH" value="1985" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
