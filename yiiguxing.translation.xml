@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Recursively display parent thread groups:" />
+      <item value="Up Max L" />
       <item value="thread Terminated" />
       <item value="Helps transfer if a resize is in progress." />
       <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
@@ -52,13 +54,11 @@
       <item value="MERGE VALUE SUM" />
       <item value="get Field Name" />
       <item value="field Name" />
-      <item value="Chart Field Config" />
-      <item value="field Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1996" />
-        <entry key="ENGLISH" value="1997" />
+        <entry key="CHINESE" value="1998" />
+        <entry key="ENGLISH" value="1999" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
