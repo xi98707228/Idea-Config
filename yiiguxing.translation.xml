@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Alipay Trade Service" />
+      <item value="Abs Alipay Service" />
+      <item value="Abs Alipay Trade Service" />
+      <item value="Merge Bar Chart Resolve Handler" />
+      <item value="SELECT" />
+      <item value="Long" />
+      <item value="FROM" />
+      <item value="多字段解析合并处理器" />
+      <item value="987072248" />
+      <item value="Chart Multiple Resolve Handler" />
+      <item value="resolve Input Data To This Enum Type" />
+      <item value="Chart Multiple Resolve Handle" />
+      <item value="Merge Chart Horizontal Axis Export" />
+      <item value="根据某个配置记录row Id" />
+      <item value="获取其所有的配置字段信息" />
       <item value="chart Horizontal Axis Config Service" />
       <item value="Chart Horizontal Axis Config" />
       <item value="get Vuser" />
@@ -37,28 +52,13 @@
       <item value="select List" />
       <item value="debug" />
       <item value="String" />
-      <item value="SELECT" />
       <item value="Parameters" />
       <item value="结构数量为" />
-      <item value="print If Info Enabled" />
-      <item value="获得对应关系的缓存数据" />
-      <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
-      <item value="repaint" />
-      <item value="paint" />
-      <item value="Canvas" />
-      <item value="Recursively display parent thread groups:" />
-      <item value="Up Max L" />
-      <item value="thread Terminated" />
-      <item value="Helps transfer if a resize is in progress." />
-      <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
-      <item value="Table of counter cells. When non-null, size is a power of 2." />
-      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
-      <item value="size Ctl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2062" />
-        <entry key="ENGLISH" value="2063" />
+        <entry key="CHINESE" value="2075" />
+        <entry key="ENGLISH" value="2076" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
