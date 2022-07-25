@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="field Condition Config List" />
+      <item value="Rest Controller" />
+      <item value="print If Info Enabled" />
+      <item value="client" />
+      <item value="Query Dictionary" />
+      <item value="skip Patterns" />
+      <item value="STOPPING PREP" />
+      <item value="STARTED" />
+      <item value="STARTING" />
+      <item value="lifecycle Event" />
+      <item value="Common interface for component life cycle methods. Catalina components may implement this interface (as well as the appropriate interface(s) for the functionality they support) in order to provide a consistent mechanism to start and stop the component. &lt;br&gt; The valid state transitions for components that support {@link Lifecycle} are: &lt;pre&gt;" />
+      <item value="Standard Service" />
+      <item value="Standard Engine" />
+      <item value="embedded" />
       <item value="compute" />
       <item value="987072248" />
       <item value="Merge Chart Horizontal Axis Export" />
@@ -40,25 +54,11 @@
       <item value="Request Mapping Handler Mapping" />
       <item value="Request Mapping Info Handler Mapping" />
       <item value="path Prefixes" />
-      <item value="Path Variable" />
-      <item value="delete Row Axis Config By Row Id" />
-      <item value="Ajax Result" />
-      <item value="row Id" />
-      <item value="此字段是代表当前字段计算时根据哪个字段来依据分类的" />
-      <item value="get Field Name" />
-      <item value="Chart Field Config" />
-      <item value="field Name" />
-      <item value="Data Base Utils" />
-      <item value="open Oracle All Table Field Map List" />
-      <item value="field Value" />
-      <item value="select List" />
-      <item value="debug" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2080" />
-        <entry key="ENGLISH" value="2080" />
+        <entry key="CHINESE" value="2093" />
+        <entry key="ENGLISH" value="2094" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
