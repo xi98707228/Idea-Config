@@ -4,19 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="compute" />
+      <item value="987072248" />
+      <item value="Merge Chart Horizontal Axis Export" />
+      <item value="Merge Bar Chart Resolve Handler" />
+      <item value="Component" />
       <item value="Alipay Trade Service" />
       <item value="Abs Alipay Service" />
       <item value="Abs Alipay Trade Service" />
-      <item value="Merge Bar Chart Resolve Handler" />
       <item value="SELECT" />
       <item value="Long" />
       <item value="FROM" />
       <item value="多字段解析合并处理器" />
-      <item value="987072248" />
       <item value="Chart Multiple Resolve Handler" />
       <item value="resolve Input Data To This Enum Type" />
       <item value="Chart Multiple Resolve Handle" />
-      <item value="Merge Chart Horizontal Axis Export" />
       <item value="根据某个配置记录row Id" />
       <item value="获取其所有的配置字段信息" />
       <item value="chart Horizontal Axis Config Service" />
@@ -52,13 +54,11 @@
       <item value="select List" />
       <item value="debug" />
       <item value="String" />
-      <item value="Parameters" />
-      <item value="结构数量为" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2075" />
-        <entry key="ENGLISH" value="2076" />
+        <entry key="CHINESE" value="2080" />
+        <entry key="ENGLISH" value="2080" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
