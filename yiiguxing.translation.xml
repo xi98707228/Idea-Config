@@ -4,9 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Horizontal Axis Data By Field Config Key" />
+      <item value="horizontal Axis Config List" />
+      <item value="create Request Mapping Info" />
+      <item value="Embedded Value Resolver Aware" />
+      <item value="Request Mapping Handler Mapping" />
+      <item value="Request Mapping Info Handler Mapping" />
+      <item value="path Prefixes" />
+      <item value="chart Horizontal Axis Config Service" />
+      <item value="Path Variable" />
+      <item value="delete Row Axis Config By Row Id" />
+      <item value="Ajax Result" />
+      <item value="TEMPLATE CHART HORIZONTAL AXIS" />
+      <item value="Chart Horizontal Axis Config" />
+      <item value="row Id" />
+      <item value="此字段是代表当前字段计算时根据哪个字段来依据分类的" />
+      <item value="get Field Name" />
       <item value="Chart Field Config" />
-      <item value="field Value" />
       <item value="field Name" />
+      <item value="Data Base Utils" />
+      <item value="open Oracle All Table Field Map List" />
+      <item value="field Value" />
       <item value="select List" />
       <item value="debug" />
       <item value="String" />
@@ -14,9 +32,7 @@
       <item value="Parameters" />
       <item value="结构数量为" />
       <item value="print If Info Enabled" />
-      <item value="Data Base Utils" />
       <item value="获得对应关系的缓存数据" />
-      <item value="open Oracle All Table Field Map List" />
       <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
       <item value="repaint" />
       <item value="paint" />
@@ -38,27 +54,11 @@
       <item value="The maximum priority that a thread can have." />
       <item value="suspended" />
       <item value="faux Suspend" />
-      <item value="faux Resume" />
-      <item value="Tests whether the current thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is cleared by this method. In other words, if this method were to be called twice in succession, the second call would return false (unless the current thread were interrupted again, after the first call had cleared its interrupted status and before the second call had examined it). &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if the current thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see isInterrupted() @revised 6.0" />
-      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
-      <item value="interrupted" />
-      <item value="interrupt" />
-      <item value="is Interrupted" />
-      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
-      <item value="Interrupts this thread. &lt;p&gt; Unless the current thread is interrupting itself, which is always permitted, the {@link checkAccess() checkAccess} method of this thread is invoked, which may cause a {@link SecurityException} to be thrown. &lt;p&gt; If this thread is blocked in an invocation of the {@link Objectwait() wait()}, {@link Objectwait(long) wait(long)}, or {@link Objectwait(long, int) wait(long, int)} methods of the {@link Object} class, or of the {@link join()}, {@link join(long)}, {@link join(long, int)}, {@link sleep(long)}, or {@link sleep(long, int)}, methods of this class, then its interrupt status will be cleared and it will receive an {@link InterruptedException}. &lt;p&gt; If this thread is blocked in an IO operation upon an {@link java.nio.channels.InterruptibleChannel InterruptibleChannel} then the channel will be closed, the thread's interrupt status will be set, and the thread will receive a {@link java.nio.channels.ClosedByInterruptException}. &lt;p&gt; If this thread is blocked in a {@link java.nio.channels.Selector} then the thread's interrupt status will be set and it will return immediately from the selection operation, possibly with a non-zero value, just as if the selector's {@link java.nio.channels.Selectorwakeup wakeup} method were invoked. &lt;p&gt; If none of the previous conditions hold then this thread's interrupt status will be set. &lt;p&gt; &lt;p&gt; Interrupting a thread that is not alive need not have any effect. @throws SecurityException if the current thread cannot modify this thread" />
-      <item value="Thrown when a thread is waiting, sleeping, or otherwise occupied, and the thread is interrupted, either before or during the activity. Occasionally a method may wish to test whether the current thread has been interrupted, and if so, to immediately throw this exception. The following code can be used to achieve this effect: &lt;pre&gt; if (Thread.interrupted()) Clears interrupted status! throw new InterruptedException(); &lt;pre&gt;" />
-      <item value="Interrupted Exception" />
-      <item value="terminate" />
-      <item value="Blockable" />
-      <item value="Peeker" />
-      <item value="Observe" />
-      <item value="Sharing 1" />
-      <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor. The scheduler is free to ignore this hint. &lt;p&gt; Yield is a heuristic attempt to improve relative progression between threads that would otherwise over-utilise a CPU. Its use should be combined with detailed profiling and benchmarking to ensure that it actually has the desired effect. &lt;p&gt; It is rarely appropriate to use this method. It may be useful for debugging or testing purposes, where it may help to reproduce bugs due to race conditions. It may also be useful when designing concurrency control constructs such as the ones in the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2016" />
-        <entry key="ENGLISH" value="2017" />
+        <entry key="CHINESE" value="2046" />
+        <entry key="ENGLISH" value="2047" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
