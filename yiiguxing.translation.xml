@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="chart Horizontal Axis Config Service" />
+      <item value="Chart Horizontal Axis Config" />
+      <item value="get Vuser" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="set Create Time" />
+      <item value="set Create User Nick" />
+      <item value="TEMPLATE CHART HORIZONTAL AXIS" />
+      <item value="必须填写当前字段对应的数值" />
       <item value="get Horizontal Row Data" />
       <item value="endpoint" />
       <item value="health" />
@@ -14,12 +23,9 @@
       <item value="Request Mapping Handler Mapping" />
       <item value="Request Mapping Info Handler Mapping" />
       <item value="path Prefixes" />
-      <item value="chart Horizontal Axis Config Service" />
       <item value="Path Variable" />
       <item value="delete Row Axis Config By Row Id" />
       <item value="Ajax Result" />
-      <item value="TEMPLATE CHART HORIZONTAL AXIS" />
-      <item value="Chart Horizontal Axis Config" />
       <item value="row Id" />
       <item value="此字段是代表当前字段计算时根据哪个字段来依据分类的" />
       <item value="get Field Name" />
@@ -48,17 +54,11 @@
       <item value="Table of counter cells. When non-null, size is a power of 2." />
       <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
       <item value="size Ctl" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
-      <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
-      <item value="Contended" />
-      <item value="Some private helper methods" />
-      <item value="Whether or not to single_step this thread" />
-      <item value="MAX PRIORITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2050" />
-        <entry key="ENGLISH" value="2051" />
+        <entry key="CHINESE" value="2062" />
+        <entry key="ENGLISH" value="2063" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
