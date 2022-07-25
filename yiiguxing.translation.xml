@@ -4,8 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="get Horizontal Axis Data By Field Config Key" />
+      <item value="endpoint" />
+      <item value="health" />
       <item value="horizontal Axis Config List" />
+      <item value="get Horizontal Axis Data By Field Config Key" />
       <item value="create Request Mapping Info" />
       <item value="Embedded Value Resolver Aware" />
       <item value="Request Mapping Handler Mapping" />
@@ -52,13 +54,11 @@
       <item value="Whether or not to single_step this thread" />
       <item value="MAX PRIORITY" />
       <item value="The maximum priority that a thread can have." />
-      <item value="suspended" />
-      <item value="faux Suspend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="2049" />
+        <entry key="ENGLISH" value="2050" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
