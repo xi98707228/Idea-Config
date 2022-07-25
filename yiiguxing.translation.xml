@@ -4,9 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Case Insensitive String" />
+      <item value="Topping" />
+      <item value="SAUSAGE" />
       <item value="HAM" />
       <item value="sauce Inside" />
-      <item value="SAUSAGE" />
       <item value="MUSHROOM" />
       <item value="toppings" />
       <item value="Ny Pizza" />
@@ -52,13 +54,11 @@
       <item value="Lock object for the native halt method" />
       <item value="Get parameter &quot;size&quot; from Web page:" />
       <item value="Ticker" />
-      <item value="Toggle L" />
-      <item value="demo Thread 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2007" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="2009" />
+        <entry key="ENGLISH" value="2010" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
