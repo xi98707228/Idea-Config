@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="结构数量为" />
+      <item value="print If Info Enabled" />
+      <item value="Data Base Utils" />
+      <item value="获得对应关系的缓存数据" />
+      <item value="open Oracle All Table Field Map List" />
       <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
       <item value="repaint" />
       <item value="paint" />
@@ -49,16 +54,11 @@
       <item value="Toggle L" />
       <item value="demo Thread 1" />
       <item value="Toggle" />
-      <item value="Window Adapter" />
-      <item value="add" />
-      <item value="run Flag" />
-      <item value="templateserver" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2002" />
-        <entry key="ENGLISH" value="2003" />
+        <entry key="CHINESE" value="2007" />
+        <entry key="ENGLISH" value="2007" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
