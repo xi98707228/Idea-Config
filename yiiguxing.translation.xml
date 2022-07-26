@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Jabber Server" />
       <item value="get Declared Method" />
       <item value="Inet Socket Address" />
       <item value="is Bound" />
@@ -53,12 +54,11 @@
       <item value="open Connection" />
       <item value="Determines if the specified character is a letter. &lt;p&gt; A character is considered to be a letter if its general category type, provided by {@code Character.getType(ch)}, is any of the following: &lt;ul&gt; &lt;li&gt; {@code UPPERCASE_LETTER} &lt;li&gt; {@code LOWERCASE_LETTER} &lt;li&gt; {@code TITLECASE_LETTER} &lt;li&gt; {@code MODIFIER_LETTER} &lt;li&gt; {@code OTHER_LETTER} &lt;ul&gt; Not all letters have case. Many characters are letters but are neither uppercase nor lowercase nor titlecase. &lt;p&gt;&lt;b&gt;Note:&lt;b&gt; This method cannot handle &lt;a href=&quot;supplementary&quot;&gt; supplementary characters&lt;a&gt;. To support all Unicode characters, including supplementary characters, use the {@link isLetter(int)} method." />
       <item value="is Letter" />
-      <item value="URL Stream Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2066" />
-        <entry key="ENGLISH" value="2067" />
+        <entry key="CHINESE" value="2068" />
+        <entry key="ENGLISH" value="2069" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
