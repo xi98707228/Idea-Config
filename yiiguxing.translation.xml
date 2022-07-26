@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Network Interface" />
+      <item value="Chart Field Condition Controller" />
+      <item value="chart Field Condition Config Service" />
       <item value="loopback" />
       <item value="Chris Warth" />
       <item value="Gets the HTTP response message, if any, returned along with the response code from a server. From responses like: &lt;PRE&gt; HTTP1.0 200 OK HTTP1.0 404 Not Found &lt;PRE&gt; Extracts the Strings &quot;OK&quot; and &quot;Not Found&quot; respectively. Returns null if none could be discerned from the responses (the result was not valid HTTP). @throws IOException if an error occurred connecting to the server. @return the HTTP response message, or {@code null}" />
@@ -51,14 +54,11 @@
       <item value="is Interrupted" />
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
       <item value="Interrupts this thread. &lt;p&gt; Unless the current thread is interrupting itself, which is always permitted, the {@link checkAccess() checkAccess} method of this thread is invoked, which may cause a {@link SecurityException} to be thrown. &lt;p&gt; If this thread is blocked in an invocation of the {@link Objectwait() wait()}, {@link Objectwait(long) wait(long)}, or {@link Objectwait(long, int) wait(long, int)} methods of the {@link Object} class, or of the {@link join()}, {@link join(long)}, {@link join(long, int)}, {@link sleep(long)}, or {@link sleep(long, int)}, methods of this class, then its interrupt status will be cleared and it will receive an {@link InterruptedException}. &lt;p&gt; If this thread is blocked in an IO operation upon an {@link java.nio.channels.InterruptibleChannel InterruptibleChannel} then the channel will be closed, the thread's interrupt status will be set, and the thread will receive a {@link java.nio.channels.ClosedByInterruptException}. &lt;p&gt; If this thread is blocked in a {@link java.nio.channels.Selector} then the thread's interrupt status will be set and it will return immediately from the selection operation, possibly with a non-zero value, just as if the selector's {@link java.nio.channels.Selectorwakeup wakeup} method were invoked. &lt;p&gt; If none of the previous conditions hold then this thread's interrupt status will be set. &lt;p&gt; &lt;p&gt; Interrupting a thread that is not alive need not have any effect. @throws SecurityException if the current thread cannot modify this thread" />
-      <item value="Thrown when a thread is waiting, sleeping, or otherwise occupied, and the thread is interrupted, either before or during the activity. Occasionally a method may wish to test whether the current thread has been interrupted, and if so, to immediately throw this exception. The following code can be used to achieve this effect: &lt;pre&gt; if (Thread.interrupted()) Clears interrupted status! throw new InterruptedException(); &lt;pre&gt;" />
-      <item value="Interrupted Exception" />
-      <item value="terminate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2018" />
-        <entry key="ENGLISH" value="2019" />
+        <entry key="CHINESE" value="2020" />
+        <entry key="ENGLISH" value="2021" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
