@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Chart Field Condition Config Service" />
+      <item value="Chart Field Condition Controller" />
+      <item value="UUIDX" />
+      <item value="Deprecated" />
+      <item value="Chart Config Helper" />
+      <item value="COUNT" />
+      <item value="SELECT" />
+      <item value="Query Processor Mapping String Pool" />
       <item value="Executor Diagram Compute Result Vo" />
       <item value="Executor Chart Compute Result Vo" />
       <item value="success" />
@@ -24,7 +32,6 @@
       <item value="Single Thread Event Loop" />
       <item value="trigger At Second" />
       <item value="Network Interface" />
-      <item value="Chart Field Condition Controller" />
       <item value="chart Field Condition Config Service" />
       <item value="loopback" />
       <item value="Chris Warth" />
@@ -47,18 +54,11 @@
       <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
       <item value="repaint" />
       <item value="paint" />
-      <item value="Canvas" />
-      <item value="Recursively display parent thread groups:" />
-      <item value="Up Max L" />
-      <item value="thread Terminated" />
-      <item value="Helps transfer if a resize is in progress." />
-      <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
-      <item value="Table of counter cells. When non-null, size is a power of 2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2049" />
+        <entry key="CHINESE" value="2055" />
+        <entry key="ENGLISH" value="2056" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
