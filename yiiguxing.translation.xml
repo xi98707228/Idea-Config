@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="current" />
-      <item value="configuration" />
-      <item value="named" />
-      <item value="appender" />
-      <item value="Logger" />
-      <item value="user" />
-      <item value="Attaching" />
-      <item value="Logger Action" />
-      <item value="Notify Center" />
-      <item value="get Horizontal Row Data" />
-      <item value="internal Tag" />
-      <item value="DATE" />
-      <item value="get Row Id" />
-      <item value="Chart Field Config" />
-      <item value="config Field Key" />
-      <item value="field Condition Describe" />
-      <item value="condition Param Type" />
-      <item value="String" />
-      <item value="remove By Id" />
-      <item value="chart Field Condition Config Service" />
-      <item value="adapter" />
-      <item value="field Condition Config List" />
-      <item value="Rest Controller" />
-      <item value="print If Info Enabled" />
-      <item value="client" />
-      <item value="Query Dictionary" />
-      <item value="skip Patterns" />
-      <item value="STOPPING PREP" />
-      <item value="STARTED" />
-      <item value="STARTING" />
-      <item value="lifecycle Event" />
-      <item value="Common interface for component life cycle methods. Catalina components may implement this interface (as well as the appropriate interface(s) for the functionality they support) in order to provide a consistent mechanism to start and stop the component. &lt;br&gt; The valid state transitions for components that support {@link Lifecycle} are: &lt;pre&gt;" />
-      <item value="Standard Service" />
-      <item value="Standard Engine" />
-      <item value="embedded" />
-      <item value="compute" />
-      <item value="987072248" />
-      <item value="Merge Chart Horizontal Axis Export" />
-      <item value="Merge Bar Chart Resolve Handler" />
-      <item value="Component" />
-      <item value="Alipay Trade Service" />
-      <item value="Abs Alipay Service" />
-      <item value="Abs Alipay Trade Service" />
-      <item value="SELECT" />
-      <item value="Long" />
-      <item value="FROM" />
-      <item value="多字段解析合并处理器" />
-      <item value="Chart Multiple Resolve Handler" />
-      <item value="resolve Input Data To This Enum Type" />
-      <item value="Chart Multiple Resolve Handle" />
+      <item value="loopback" />
+      <item value="Chris Warth" />
+      <item value="Gets the HTTP response message, if any, returned along with the response code from a server. From responses like: &lt;PRE&gt; HTTP1.0 200 OK HTTP1.0 404 Not Found &lt;PRE&gt; Extracts the Strings &quot;OK&quot; and &quot;Not Found&quot; respectively. Returns null if none could be discerned from the responses (the result was not valid HTTP). @throws IOException if an error occurred connecting to the server. @return the HTTP response message, or {@code null}" />
+      <item value="open Connection" />
+      <item value="Determines if the specified character is a letter. &lt;p&gt; A character is considered to be a letter if its general category type, provided by {@code Character.getType(ch)}, is any of the following: &lt;ul&gt; &lt;li&gt; {@code UPPERCASE_LETTER} &lt;li&gt; {@code LOWERCASE_LETTER} &lt;li&gt; {@code TITLECASE_LETTER} &lt;li&gt; {@code MODIFIER_LETTER} &lt;li&gt; {@code OTHER_LETTER} &lt;ul&gt; Not all letters have case. Many characters are letters but are neither uppercase nor lowercase nor titlecase. &lt;p&gt;&lt;b&gt;Note:&lt;b&gt; This method cannot handle &lt;a href=&quot;supplementary&quot;&gt; supplementary characters&lt;a&gt;. To support all Unicode characters, including supplementary characters, use the {@link isLetter(int)} method." />
+      <item value="is Letter" />
+      <item value="URL Stream Handler" />
+      <item value="Url Deserialized State" />
+      <item value="Parts" />
+      <item value="James Gosling" />
+      <item value="Case Insensitive String" />
+      <item value="Topping" />
+      <item value="SAUSAGE" />
+      <item value="HAM" />
+      <item value="sauce Inside" />
+      <item value="MUSHROOM" />
+      <item value="toppings" />
+      <item value="Ny Pizza" />
+      <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
+      <item value="repaint" />
+      <item value="paint" />
+      <item value="Canvas" />
+      <item value="Recursively display parent thread groups:" />
+      <item value="Up Max L" />
+      <item value="thread Terminated" />
+      <item value="Helps transfer if a resize is in progress." />
+      <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
+      <item value="Table of counter cells. When non-null, size is a power of 2." />
+      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
+      <item value="size Ctl" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
+      <item value="Contended" />
+      <item value="Some private helper methods" />
+      <item value="Whether or not to single_step this thread" />
+      <item value="MAX PRIORITY" />
+      <item value="The maximum priority that a thread can have." />
+      <item value="suspended" />
+      <item value="faux Suspend" />
+      <item value="faux Resume" />
+      <item value="Tests whether the current thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is cleared by this method. In other words, if this method were to be called twice in succession, the second call would return false (unless the current thread were interrupted again, after the first call had cleared its interrupted status and before the second call had examined it). &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if the current thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see isInterrupted() @revised 6.0" />
+      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
+      <item value="interrupted" />
+      <item value="interrupt" />
+      <item value="is Interrupted" />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
+      <item value="Interrupts this thread. &lt;p&gt; Unless the current thread is interrupting itself, which is always permitted, the {@link checkAccess() checkAccess} method of this thread is invoked, which may cause a {@link SecurityException} to be thrown. &lt;p&gt; If this thread is blocked in an invocation of the {@link Objectwait() wait()}, {@link Objectwait(long) wait(long)}, or {@link Objectwait(long, int) wait(long, int)} methods of the {@link Object} class, or of the {@link join()}, {@link join(long)}, {@link join(long, int)}, {@link sleep(long)}, or {@link sleep(long, int)}, methods of this class, then its interrupt status will be cleared and it will receive an {@link InterruptedException}. &lt;p&gt; If this thread is blocked in an IO operation upon an {@link java.nio.channels.InterruptibleChannel InterruptibleChannel} then the channel will be closed, the thread's interrupt status will be set, and the thread will receive a {@link java.nio.channels.ClosedByInterruptException}. &lt;p&gt; If this thread is blocked in a {@link java.nio.channels.Selector} then the thread's interrupt status will be set and it will return immediately from the selection operation, possibly with a non-zero value, just as if the selector's {@link java.nio.channels.Selectorwakeup wakeup} method were invoked. &lt;p&gt; If none of the previous conditions hold then this thread's interrupt status will be set. &lt;p&gt; &lt;p&gt; Interrupting a thread that is not alive need not have any effect. @throws SecurityException if the current thread cannot modify this thread" />
+      <item value="Thrown when a thread is waiting, sleeping, or otherwise occupied, and the thread is interrupted, either before or during the activity. Occasionally a method may wish to test whether the current thread has been interrupted, and if so, to immediately throw this exception. The following code can be used to achieve this effect: &lt;pre&gt; if (Thread.interrupted()) Clears interrupted status! throw new InterruptedException(); &lt;pre&gt;" />
+      <item value="Interrupted Exception" />
+      <item value="terminate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2117" />
-        <entry key="ENGLISH" value="2118" />
+        <entry key="CHINESE" value="2018" />
+        <entry key="ENGLISH" value="2019" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -70,12 +70,15 @@
         <entry key="LATIN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="1" />
+        <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="4" />
