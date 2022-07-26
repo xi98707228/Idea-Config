@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="internal Tag" />
+      <item value="DATE" />
+      <item value="get Row Id" />
+      <item value="Chart Field Config" />
+      <item value="config Field Key" />
+      <item value="field Condition Describe" />
+      <item value="condition Param Type" />
       <item value="String" />
       <item value="remove By Id" />
       <item value="chart Field Condition Config Service" />
@@ -47,18 +54,11 @@
       <item value="set Create Time" />
       <item value="set Create User Nick" />
       <item value="TEMPLATE CHART HORIZONTAL AXIS" />
-      <item value="必须填写当前字段对应的数值" />
-      <item value="get Horizontal Row Data" />
-      <item value="endpoint" />
-      <item value="health" />
-      <item value="horizontal Axis Config List" />
-      <item value="get Horizontal Axis Data By Field Config Key" />
-      <item value="create Request Mapping Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2097" />
-        <entry key="ENGLISH" value="2098" />
+        <entry key="CHINESE" value="2104" />
+        <entry key="ENGLISH" value="2105" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
