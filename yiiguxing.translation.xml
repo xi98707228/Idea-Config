@@ -4,11 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Chart Config Helper" />
+      <item value="987072248" />
+      <item value="主要目的就是获取图表的一些关联数据信息" />
+      <item value="助手" />
+      <item value="chart" />
+      <item value="private" />
+      <item value="Bootstrap loader for Catalina. This application constructs a class loader for use in loading the Catalina internal classes (by accumulating all of the JAR files found in the &quot;server&quot; directory under &quot;catalina.home&quot;), and starts the regular execution of the container. The purpose of this roundabout approach is to keep the Catalina internal classes (and any other classes they depend on, such as an XML parser) out of the system class path and therefore not visible to application level classes." />
+      <item value="daemon" />
+      <item value="Bootstrap" />
+      <item value="Single Sign On Entry" />
       <item value="Chart Field Condition Config Service" />
       <item value="Chart Field Condition Controller" />
       <item value="UUIDX" />
       <item value="Deprecated" />
-      <item value="Chart Config Helper" />
       <item value="COUNT" />
       <item value="SELECT" />
       <item value="Query Processor Mapping String Pool" />
@@ -45,20 +54,11 @@
       <item value="James Gosling" />
       <item value="Case Insensitive String" />
       <item value="Topping" />
-      <item value="SAUSAGE" />
-      <item value="HAM" />
-      <item value="sauce Inside" />
-      <item value="MUSHROOM" />
-      <item value="toppings" />
-      <item value="Ny Pizza" />
-      <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
-      <item value="repaint" />
-      <item value="paint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2055" />
-        <entry key="ENGLISH" value="2056" />
+        <entry key="CHINESE" value="2068" />
+        <entry key="ENGLISH" value="2067" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
