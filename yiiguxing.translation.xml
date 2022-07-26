@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String" />
+      <item value="remove By Id" />
+      <item value="chart Field Condition Config Service" />
       <item value="adapter" />
       <item value="field Condition Config List" />
       <item value="Rest Controller" />
@@ -51,14 +54,11 @@
       <item value="horizontal Axis Config List" />
       <item value="get Horizontal Axis Data By Field Config Key" />
       <item value="create Request Mapping Info" />
-      <item value="Embedded Value Resolver Aware" />
-      <item value="Request Mapping Handler Mapping" />
-      <item value="Request Mapping Info Handler Mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2094" />
-        <entry key="ENGLISH" value="2095" />
+        <entry key="CHINESE" value="2097" />
+        <entry key="ENGLISH" value="2098" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
