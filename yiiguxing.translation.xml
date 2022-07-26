@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="current" />
+      <item value="configuration" />
+      <item value="named" />
+      <item value="appender" />
+      <item value="Logger" />
+      <item value="user" />
+      <item value="Attaching" />
+      <item value="Logger Action" />
+      <item value="Notify Center" />
       <item value="get Horizontal Row Data" />
       <item value="internal Tag" />
       <item value="DATE" />
@@ -45,20 +54,11 @@
       <item value="Chart Multiple Resolve Handler" />
       <item value="resolve Input Data To This Enum Type" />
       <item value="Chart Multiple Resolve Handle" />
-      <item value="根据某个配置记录row Id" />
-      <item value="获取其所有的配置字段信息" />
-      <item value="chart Horizontal Axis Config Service" />
-      <item value="Chart Horizontal Axis Config" />
-      <item value="get Vuser" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
-      <item value="set Create Time" />
-      <item value="set Create User Nick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2105" />
-        <entry key="ENGLISH" value="2106" />
+        <entry key="CHINESE" value="2117" />
+        <entry key="ENGLISH" value="2118" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
