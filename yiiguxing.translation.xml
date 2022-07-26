@@ -4,6 +4,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Bit Sieve" />
+      <item value="fwq Action Listener 2" />
+      <item value="set Text Area Container" />
+      <item value="testarea 2" />
+      <item value="Geometry Collection" />
+      <item value="vicysun" />
+      <item value="Policy" />
+      <item value="Default Policy" />
+      <item value="target Len" />
+      <item value="remove runnint advice is empty Start return Empty Array" />
+      <item value="residue Step" />
+      <item value="distinct Element" />
+      <item value="assert Param Is Viable" />
+      <item value="update optimize application running flow" />
+      <item value="SURR 1_LAST" />
+      <item value="SURR 1_FIRST" />
+      <item value="Feature" />
+      <item value="Segmented String Writer" />
       <item value="success" />
       <item value="closed" />
       <item value="dynamic-datasource" />
@@ -36,29 +54,11 @@
       <item value="James Gosling" />
       <item value="Case Insensitive String" />
       <item value="Topping" />
-      <item value="SAUSAGE" />
-      <item value="HAM" />
-      <item value="sauce Inside" />
-      <item value="MUSHROOM" />
-      <item value="toppings" />
-      <item value="Ny Pizza" />
-      <item value="Returns the last component of the vector. @return the last component of the vector, i.e., the component at index &lt;code&gt;size()&amp;nbsp;-&amp;nbsp;1&lt;code&gt;. @throws NoSuchElementException if this vector is empty" />
-      <item value="repaint" />
-      <item value="paint" />
-      <item value="Canvas" />
-      <item value="Recursively display parent thread groups:" />
-      <item value="Up Max L" />
-      <item value="thread Terminated" />
-      <item value="Helps transfer if a resize is in progress." />
-      <item value="Base counter value, used mainly when there is no contention, but also as a fallback during table initialization races. Updated via CAS." />
-      <item value="Table of counter cells. When non-null, size is a power of 2." />
-      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
-      <item value="size Ctl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="2062" />
+        <entry key="ENGLISH" value="2063" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -70,15 +70,15 @@
         <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
-        <entry key="WELSH" value="1" />
+        <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
