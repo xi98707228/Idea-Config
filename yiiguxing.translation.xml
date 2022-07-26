@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="select List COUNT" />
+      <item value="Privileged Exception Action" />
+      <item value="Flow Control Handler" />
+      <item value="FLOAT ZERO" />
+      <item value="throws" />
+      <item value="Otherwise" />
+      <item value="deep Check Not Null" />
+      <item value="varargs" />
+      <item value="link" />
+      <item value="Null Pointer Exception" />
+      <item value="argument" />
+      <item value="Single Thread Event Loop" />
+      <item value="trigger At Second" />
       <item value="Network Interface" />
       <item value="Chart Field Condition Controller" />
       <item value="chart Field Condition Config Service" />
@@ -41,24 +54,11 @@
       <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
       <item value="Contended" />
       <item value="Some private helper methods" />
-      <item value="Whether or not to single_step this thread" />
-      <item value="MAX PRIORITY" />
-      <item value="The maximum priority that a thread can have." />
-      <item value="suspended" />
-      <item value="faux Suspend" />
-      <item value="faux Resume" />
-      <item value="Tests whether the current thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is cleared by this method. In other words, if this method were to be called twice in succession, the second call would return false (unless the current thread were interrupted again, after the first call had cleared its interrupted status and before the second call had examined it). &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if the current thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see isInterrupted() @revised 6.0" />
-      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
-      <item value="interrupted" />
-      <item value="interrupt" />
-      <item value="is Interrupted" />
-      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
-      <item value="Interrupts this thread. &lt;p&gt; Unless the current thread is interrupting itself, which is always permitted, the {@link checkAccess() checkAccess} method of this thread is invoked, which may cause a {@link SecurityException} to be thrown. &lt;p&gt; If this thread is blocked in an invocation of the {@link Objectwait() wait()}, {@link Objectwait(long) wait(long)}, or {@link Objectwait(long, int) wait(long, int)} methods of the {@link Object} class, or of the {@link join()}, {@link join(long)}, {@link join(long, int)}, {@link sleep(long)}, or {@link sleep(long, int)}, methods of this class, then its interrupt status will be cleared and it will receive an {@link InterruptedException}. &lt;p&gt; If this thread is blocked in an IO operation upon an {@link java.nio.channels.InterruptibleChannel InterruptibleChannel} then the channel will be closed, the thread's interrupt status will be set, and the thread will receive a {@link java.nio.channels.ClosedByInterruptException}. &lt;p&gt; If this thread is blocked in a {@link java.nio.channels.Selector} then the thread's interrupt status will be set and it will return immediately from the selection operation, possibly with a non-zero value, just as if the selector's {@link java.nio.channels.Selectorwakeup wakeup} method were invoked. &lt;p&gt; If none of the previous conditions hold then this thread's interrupt status will be set. &lt;p&gt; &lt;p&gt; Interrupting a thread that is not alive need not have any effect. @throws SecurityException if the current thread cannot modify this thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2020" />
-        <entry key="ENGLISH" value="2021" />
+        <entry key="CHINESE" value="2043" />
+        <entry key="ENGLISH" value="2044" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -68,6 +68,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="2" />
+        <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="MALAGASY" value="1" />
