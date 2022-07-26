@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="adapter" />
       <item value="field Condition Config List" />
       <item value="Rest Controller" />
       <item value="print If Info Enabled" />
@@ -53,12 +54,11 @@
       <item value="Embedded Value Resolver Aware" />
       <item value="Request Mapping Handler Mapping" />
       <item value="Request Mapping Info Handler Mapping" />
-      <item value="path Prefixes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2094" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
