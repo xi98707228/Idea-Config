@@ -4,6 +4,33 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Chart Helper Service Impl" />
+      <item value="chart Field Config Service" />
+      <item value="target Class" />
+      <item value="source Class" />
+      <item value="source Bean" />
+      <item value="equals" />
+      <item value="get Name" />
+      <item value="unregister M Bean" />
+      <item value="The semantics of preDeregister are tricky. If it throws an exception, then the unregisterMBean fails. This allows an MBean to refuse to be unregistered. If it returns successfully, then the unregisterMBean can proceed. In this case the preDeregister may have cleaned up some state, and will not expect to be called a second time. So if two threads try to unregister the same MBean at the same time then one of them must wait for the other one to either (a) call preDeregister and get an exception or (b) call preDeregister successfully and unregister the MBean. Suppose thread T1 is unregistering an MBean and thread T2 is trying to unregister the same MBean, so waiting for T1. Then a deadlock is possible if the preDeregister for T1 ends up needing a lock held by T2. Given the semantics just described, there does not seem to be any way to avoid this. This will not happen to code where it is clear for any given MBean what thread may unregister that MBean. On the other hand we clearly do not want a thread that is unregistering MBean A to have to wait for another thread that is unregistering another MBean B (see bug 6318664). A deadlock in this situation could reasonably be considered gratuitous. So holding a global lock across the preDeregister call would be bad. So we have a set of ObjectNames that some thread is currently unregistering. When a thread wants to unregister a name, it must first check if the name is in the set, and if so it must wait. When a thread successfully unregisters a name it removes the name from the set and notifies any waiting threads that the set has changed. This implies that we must be very careful to ensure that the name is removed from the set and waiters notified, no matter what code path is taken" />
+      <item value="The semantics of preDeregister are tricky. If it throws an exception, then the unregisterMBean fails. This allows an MBean to refuse to be unregistered. If it returns successfully, then the unregisterMBean can proceed. In this case the preDeregister may have cleaned up some state, and will not expect to be called a second time. So if two threads try to unregister the same MBean at the same time then one of them must wait for the other one to either (a) call preDeregister and get an exception or (b) call preDeregister successfully and unregister the MBean. Suppose thread T1 is unregistering an MBean and thread T2 is trying to unregister the same MBean, so waiting for T1. Then a deadlock is possible if the preDeregister for T1 ends up needing a lock held by T2. Given the semantics just described, there does not seem to be any way to avoid this. This will not happen to code where it is clear for any given MBean what thread may unregister that MBean. On the other hand we clearly do not want a thread that is unregistering MBean A to have to wait for another thread that is unregistering another MBean B (see bug 6318664). A deadlock in this situation could reasonably be considered gratuitous. So holding a global lock across the preDeregister call would be bad. So we have a set of ObjectNames that some thread is currently unregistering. When a thread wants to unregister a name, it must first check if the name is in the set, and if so it must wait. When a thread successfully unregisters a name it removes the name from the set and notifies any waiting threads that the set has changed. This implies that we must be very careful to ensure that the name is removed from the set and waiters notified, no matter what code path is taken." />
+      <item value="M Bean Server" />
+      <item value="M Bean Server Connection" />
+      <item value="Default M Bean Server Interceptor" />
+      <item value="Bean Scope Convert" />
+      <item value="Objects" />
+      <item value="convert Bean Property Skip Null" />
+      <item value="Bean Convert" />
+      <item value="Chart Field Condition Dto" />
+      <item value="To String Style" />
+      <item value="target Bean" />
+      <item value="FutureTask extension to enqueue upon completion" />
+      <item value="Queueing Future" />
+      <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
+      <item value="assert" />
+      <item value="Chart Horizontal Axis Dto" />
+      <item value="field Config Key" />
+      <item value="Ajax Result" />
       <item value="Chart Config Helper" />
       <item value="987072248" />
       <item value="主要目的就是获取图表的一些关联数据信息" />
@@ -27,38 +54,11 @@
       <item value="closed" />
       <item value="dynamic-datasource" />
       <item value="dynamic" />
-      <item value="select List COUNT" />
-      <item value="Privileged Exception Action" />
-      <item value="Flow Control Handler" />
-      <item value="FLOAT ZERO" />
-      <item value="throws" />
-      <item value="Otherwise" />
-      <item value="deep Check Not Null" />
-      <item value="varargs" />
-      <item value="link" />
-      <item value="Null Pointer Exception" />
-      <item value="argument" />
-      <item value="Single Thread Event Loop" />
-      <item value="trigger At Second" />
-      <item value="Network Interface" />
-      <item value="chart Field Condition Config Service" />
-      <item value="loopback" />
-      <item value="Chris Warth" />
-      <item value="Gets the HTTP response message, if any, returned along with the response code from a server. From responses like: &lt;PRE&gt; HTTP1.0 200 OK HTTP1.0 404 Not Found &lt;PRE&gt; Extracts the Strings &quot;OK&quot; and &quot;Not Found&quot; respectively. Returns null if none could be discerned from the responses (the result was not valid HTTP). @throws IOException if an error occurred connecting to the server. @return the HTTP response message, or {@code null}" />
-      <item value="open Connection" />
-      <item value="Determines if the specified character is a letter. &lt;p&gt; A character is considered to be a letter if its general category type, provided by {@code Character.getType(ch)}, is any of the following: &lt;ul&gt; &lt;li&gt; {@code UPPERCASE_LETTER} &lt;li&gt; {@code LOWERCASE_LETTER} &lt;li&gt; {@code TITLECASE_LETTER} &lt;li&gt; {@code MODIFIER_LETTER} &lt;li&gt; {@code OTHER_LETTER} &lt;ul&gt; Not all letters have case. Many characters are letters but are neither uppercase nor lowercase nor titlecase. &lt;p&gt;&lt;b&gt;Note:&lt;b&gt; This method cannot handle &lt;a href=&quot;supplementary&quot;&gt; supplementary characters&lt;a&gt;. To support all Unicode characters, including supplementary characters, use the {@link isLetter(int)} method." />
-      <item value="is Letter" />
-      <item value="URL Stream Handler" />
-      <item value="Url Deserialized State" />
-      <item value="Parts" />
-      <item value="James Gosling" />
-      <item value="Case Insensitive String" />
-      <item value="Topping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2067" />
+        <entry key="CHINESE" value="2109" />
+        <entry key="ENGLISH" value="2110" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
