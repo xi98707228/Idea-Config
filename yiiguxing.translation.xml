@@ -4,7 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="field Name" />
+      <item value="Chart Horizontal Axis Dto" />
+      <item value="此字段是代表当前字段计算时根据哪个字段来依据分类的" />
+      <item value="field Value" />
+      <item value="condition Param Type" />
+      <item value="row Id" />
+      <item value="table Name" />
+      <item value="chart Field Config" />
+      <item value="Filed" />
+      <item value="15" />
       <item value="Chart Helper Service Impl" />
+      <item value="获取当前字段配置信息" />
+      <item value="field Config Key" />
+      <item value="get Import Chart Config Data" />
+      <item value="Result Import Chart Config Data Vo" />
       <item value="chart Field Config Service" />
       <item value="target Class" />
       <item value="source Class" />
@@ -28,8 +42,6 @@
       <item value="Queueing Future" />
       <item value="For efficiency, especially in executors with limited parallelism, check to see if previously submitted tasks are done before submitting more of them. This interleaving plus the exception mechanics account for messiness of main loop." />
       <item value="assert" />
-      <item value="Chart Horizontal Axis Dto" />
-      <item value="field Config Key" />
       <item value="Ajax Result" />
       <item value="Chart Config Helper" />
       <item value="987072248" />
@@ -42,23 +54,11 @@
       <item value="Bootstrap" />
       <item value="Single Sign On Entry" />
       <item value="Chart Field Condition Config Service" />
-      <item value="Chart Field Condition Controller" />
-      <item value="UUIDX" />
-      <item value="Deprecated" />
-      <item value="COUNT" />
-      <item value="SELECT" />
-      <item value="Query Processor Mapping String Pool" />
-      <item value="Executor Diagram Compute Result Vo" />
-      <item value="Executor Chart Compute Result Vo" />
-      <item value="success" />
-      <item value="closed" />
-      <item value="dynamic-datasource" />
-      <item value="dynamic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2109" />
-        <entry key="ENGLISH" value="2110" />
+        <entry key="CHINESE" value="2123" />
+        <entry key="ENGLISH" value="2124" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
