@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Build Bean" />
+      <item value="project" />
+      <item value="Result Import Chart Config Data Vo" />
+      <item value="horizontal Axis List" />
+      <item value="chart Field Condition List" />
+      <item value="Chart Field Condition Dto" />
+      <item value="Clone Not Supported Exception" />
+      <item value="print Stack Trace" />
+      <item value="Array List" />
+      <item value="bean" />
+      <item value="copy Temp Bean" />
       <item value="JOIN" />
       <item value="business request contract review" />
       <item value="all Flag" />
@@ -43,22 +54,11 @@
       <item value="residue Step" />
       <item value="distinct Element" />
       <item value="assert Param Is Viable" />
-      <item value="update optimize application running flow" />
-      <item value="SURR 1_LAST" />
-      <item value="SURR 1_FIRST" />
-      <item value="Feature" />
-      <item value="Segmented String Writer" />
-      <item value="success" />
-      <item value="closed" />
-      <item value="dynamic-datasource" />
-      <item value="dynamic" />
-      <item value="select List COUNT" />
-      <item value="Privileged Exception Action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2087" />
-        <entry key="ENGLISH" value="2088" />
+        <entry key="CHINESE" value="2100" />
+        <entry key="ENGLISH" value="2101" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
