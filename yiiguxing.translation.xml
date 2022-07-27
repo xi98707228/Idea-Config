@@ -4,12 +4,31 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="import Chart Config Data" />
+      <item value="Ajax Result" />
+      <item value="chart Helper Service" />
+      <item value="get Import Chart Config Data" />
       <item value="start Build Bean" />
-      <item value="project" />
       <item value="Result Import Chart Config Data Vo" />
+      <item value="Users" />
+      <item value="nacos" />
+      <item value="configuration" />
+      <item value="Chart Field Condition Dto" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
+      <item value="Spring" />
+      <item value="Initializing" />
+      <item value="INFO" />
+      <item value="directory" />
+      <item value="Sentinel" />
+      <item value="MILLISECONDS" />
+      <item value="15880" />
+      <item value="Spring装载Oracle数据库数据一共消耗" />
+      <item value="已装载完毕" />
+      <item value="所有表对应表字段Map信息" />
+      <item value="project" />
       <item value="horizontal Axis List" />
       <item value="chart Field Condition List" />
-      <item value="Chart Field Condition Dto" />
       <item value="Clone Not Supported Exception" />
       <item value="print Stack Trace" />
       <item value="Array List" />
@@ -35,30 +54,11 @@
       <item value="get Output Stream" />
       <item value="socket" />
       <item value="Always close the two sockets..." />
-      <item value="Jabber Server" />
-      <item value="get Declared Method" />
-      <item value="Inet Socket Address" />
-      <item value="is Bound" />
-      <item value="Blocks until a connection occurs:" />
-      <item value="Choose a port outside of the range 1-1024:" />
-      <item value="Bit Sieve" />
-      <item value="fwq Action Listener 2" />
-      <item value="set Text Area Container" />
-      <item value="testarea 2" />
-      <item value="Geometry Collection" />
-      <item value="vicysun" />
-      <item value="Policy" />
-      <item value="Default Policy" />
-      <item value="target Len" />
-      <item value="remove runnint advice is empty Start return Empty Array" />
-      <item value="residue Step" />
-      <item value="distinct Element" />
-      <item value="assert Param Is Viable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2100" />
-        <entry key="ENGLISH" value="2101" />
+        <entry key="CHINESE" value="2123" />
+        <entry key="ENGLISH" value="2124" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
