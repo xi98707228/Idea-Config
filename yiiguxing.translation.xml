@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Version" />
+      <item value="transport" />
+      <item value="ORDER NUM" />
+      <item value="DESC" />
       <item value="Echoing" />
       <item value="break" />
       <item value="read Line" />
@@ -50,15 +54,11 @@
       <item value="link" />
       <item value="Null Pointer Exception" />
       <item value="argument" />
-      <item value="Single Thread Event Loop" />
-      <item value="trigger At Second" />
-      <item value="Network Interface" />
-      <item value="Chart Field Condition Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2076" />
-        <entry key="ENGLISH" value="2077" />
+        <entry key="CHINESE" value="2079" />
+        <entry key="ENGLISH" value="2080" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
