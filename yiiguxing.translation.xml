@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="executor Sql" />
       <item value="select List" />
       <item value="field Config Key" />
       <item value="config" />
@@ -53,12 +54,11 @@
       <item value="ORDER NUM" />
       <item value="DESC" />
       <item value="Echoing" />
-      <item value="break" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2128" />
-        <entry key="ENGLISH" value="2129" />
+        <entry key="CHINESE" value="2129" />
+        <entry key="ENGLISH" value="2130" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
