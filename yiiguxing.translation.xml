@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="current Thread" />
+      <item value="看线程1是否会停止阻塞" />
       <item value="Version" />
       <item value="transport" />
       <item value="ORDER NUM" />
@@ -52,13 +54,11 @@
       <item value="deep Check Not Null" />
       <item value="varargs" />
       <item value="link" />
-      <item value="Null Pointer Exception" />
-      <item value="argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2079" />
-        <entry key="ENGLISH" value="2080" />
+        <entry key="CHINESE" value="2080" />
+        <entry key="ENGLISH" value="2081" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
