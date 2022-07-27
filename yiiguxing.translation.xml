@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="field Config Key" />
+      <item value="config" />
+      <item value="success" />
+      <item value="chart Field Condition Config Service" />
       <item value="import Chart Config Data" />
       <item value="Ajax Result" />
       <item value="chart Helper Service" />
@@ -50,15 +54,11 @@
       <item value="Echoing" />
       <item value="break" />
       <item value="read Line" />
-      <item value="get Input Stream" />
-      <item value="get Output Stream" />
-      <item value="socket" />
-      <item value="Always close the two sockets..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2123" />
-        <entry key="ENGLISH" value="2124" />
+        <entry key="CHINESE" value="2127" />
+        <entry key="ENGLISH" value="2128" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
