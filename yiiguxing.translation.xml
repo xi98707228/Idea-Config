@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="JOIN" />
+      <item value="business request contract review" />
+      <item value="all Flag" />
+      <item value="Process Controller" />
+      <item value="新增督办单" />
+      <item value="Parameters" />
+      <item value="get Current User Signature" />
       <item value="current Thread" />
       <item value="看线程1是否会停止阻塞" />
       <item value="Version" />
@@ -47,18 +54,11 @@
       <item value="dynamic" />
       <item value="select List COUNT" />
       <item value="Privileged Exception Action" />
-      <item value="Flow Control Handler" />
-      <item value="FLOAT ZERO" />
-      <item value="throws" />
-      <item value="Otherwise" />
-      <item value="deep Check Not Null" />
-      <item value="varargs" />
-      <item value="link" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2080" />
-        <entry key="ENGLISH" value="2081" />
+        <entry key="CHINESE" value="2087" />
+        <entry key="ENGLISH" value="2088" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
