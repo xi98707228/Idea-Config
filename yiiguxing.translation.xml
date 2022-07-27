@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="没有回写数据信息" />
+      <item value="increment" />
       <item value="element" />
       <item value="content" />
       <item value="field Name" />
@@ -52,13 +54,11 @@
       <item value="chart" />
       <item value="private" />
       <item value="Bootstrap loader for Catalina. This application constructs a class loader for use in loading the Catalina internal classes (by accumulating all of the JAR files found in the &quot;server&quot; directory under &quot;catalina.home&quot;), and starts the regular execution of the container. The purpose of this roundabout approach is to keep the Catalina internal classes (and any other classes they depend on, such as an XML parser) out of the system class path and therefore not visible to application level classes." />
-      <item value="daemon" />
-      <item value="Bootstrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2125" />
-        <entry key="ENGLISH" value="2126" />
+        <entry key="CHINESE" value="2127" />
+        <entry key="ENGLISH" value="2127" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
