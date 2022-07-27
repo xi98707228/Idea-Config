@@ -4,26 +4,33 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Flushes the stream. If the stream has saved any characters from the various write() methods in a buffer, write them immediately to their intended destination. Then, if that destination is another character or byte stream, flush it. Thus one flush() invocation will flush all the buffers in a chain of Writers and OutputStreams. &lt;p&gt; If the intended destination of this stream is an abstraction provided by the underlying operating system, for example a file, then flushing the stream guarantees only that bytes previously written to the stream are passed to the operating system for writing; it does not guarantee that they are actually written to a physical device such as a disk drive." />
-      <item value="Flushes this output stream and forces any buffered output bytes to be written out. The general contract of &lt;code&gt;flush&lt;code&gt; is that calling it is an indication that, if any bytes previously written have been buffered by the implementation of the output stream, such bytes should immediately be written to their intended destination. &lt;p&gt; If the intended destination of this stream is an abstraction provided by the underlying operating system, for example a file, then flushing the stream guarantees only that bytes previously written to the stream are passed to the operating system for writing; it does not guarantee that they are actually written to a physical device such as a disk drive. &lt;p&gt; The &lt;code&gt;flush&lt;code&gt; method of &lt;code&gt;OutputStream&lt;code&gt; does nothing. @exception IOException if an IO error occurs." />
-      <item value="Flushes this output stream and forces any buffered output bytes to be written out to the stream. &lt;p&gt; The &lt;code&gt;flush&lt;code&gt; method of &lt;code&gt;FilterOutputStream&lt;code&gt; calls the &lt;code&gt;flush&lt;code&gt; method of its underlying output stream." />
-      <item value="Flushes the stream. @see checkError()" />
-      <item value="auto Flush" />
-      <item value="Connection" />
-      <item value="accepted" />
-      <item value="Alternatively, you can use the address or name: InetAddress addr = InetAddress.getByName(&quot;127.0.0.1&quot;); InetAddress addr = InetAddress.getByName(&quot;localhost&quot;);" />
-      <item value="Passing null to getByName() produces the special &quot;Local Loopback&quot; IP address, for testing on one machine wo a network:" />
-      <item value="这两种流是作用于" />
-      <item value="File Output Stream" />
-      <item value="Output is automatically flushed by PrintWriter:" />
-      <item value="Http Connect Socket Impl" />
-      <item value="TCP NODELAY" />
-      <item value="Socket Buffer Handler" />
-      <item value="Smart Initializing Singleton" />
-      <item value="Server Socket Channel" />
-      <item value="read Line" />
+      <item value="start Build Bean" />
+      <item value="project" />
+      <item value="Result Import Chart Config Data Vo" />
+      <item value="horizontal Axis List" />
+      <item value="chart Field Condition List" />
+      <item value="Chart Field Condition Dto" />
+      <item value="Clone Not Supported Exception" />
+      <item value="print Stack Trace" />
+      <item value="Array List" />
+      <item value="bean" />
+      <item value="copy Temp Bean" />
+      <item value="JOIN" />
+      <item value="business request contract review" />
+      <item value="all Flag" />
+      <item value="Process Controller" />
+      <item value="新增督办单" />
+      <item value="Parameters" />
+      <item value="get Current User Signature" />
+      <item value="current Thread" />
+      <item value="看线程1是否会停止阻塞" />
+      <item value="Version" />
+      <item value="transport" />
+      <item value="ORDER NUM" />
+      <item value="DESC" />
       <item value="Echoing" />
       <item value="break" />
+      <item value="read Line" />
       <item value="get Input Stream" />
       <item value="get Output Stream" />
       <item value="socket" />
@@ -47,18 +54,11 @@
       <item value="residue Step" />
       <item value="distinct Element" />
       <item value="assert Param Is Viable" />
-      <item value="update optimize application running flow" />
-      <item value="SURR 1_LAST" />
-      <item value="SURR 1_FIRST" />
-      <item value="Feature" />
-      <item value="Segmented String Writer" />
-      <item value="success" />
-      <item value="closed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2094" />
+        <entry key="CHINESE" value="2100" />
+        <entry key="ENGLISH" value="2101" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
