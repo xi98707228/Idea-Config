@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="read Line" />
-      <item value="MAX THREADS" />
-      <item value="Always close it:" />
-      <item value="Ending this thread" />
-      <item value="Otherwise the socket will be closed by the run() method of the thread." />
-      <item value="If the creation of the socket fails, nothing needs to be cleaned up. }" />
-      <item value="The socket should be closed on any failures other than the socket constructor:" />
-      <item value="If any of the above calls throw an exception, the caller is responsible for closing the socket. Otherwise the thread will close it." />
-      <item value="Serve One Jabber" />
-      <item value="Started" />
-      <item value="accept" />
-      <item value="socket" />
-      <item value="Enable auto-flush:" />
-      <item value="系统中如果使用缓冲区而缓冲区未满" />
-      <item value="start Build Bean" />
-      <item value="project" />
-      <item value="Result Import Chart Config Data Vo" />
-      <item value="horizontal Axis List" />
-      <item value="chart Field Condition List" />
+      <item value="Executor Completion Service" />
+      <item value="Native Thread" />
+      <item value="Native Thread Set" />
+      <item value="transfer To" />
+      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded. &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke this method to prepare for a sequence of channel-write or relative &lt;i&gt;get&lt;i&gt; operations. For example: &lt;blockquote&gt;&lt;pre&gt; buf.put(magic); Prepend header in.read(buf); Read data into rest of buffer buf.flip(); Flip buffer out.write(buf); Write header + data to channel&lt;pre&gt;&lt;blockquote&gt; &lt;p&gt; This method is often used in conjunction with the {@link java.nio.ByteBuffercompact compact} method when transferring data from one place to another. &lt;p&gt; @return This buffer" />
+      <item value="Volatile Demo Test" />
+      <item value="volatile Demo Test" />
+      <item value="volatile" />
+      <item value="main" />
+      <item value="String" />
+      <item value="static" />
+      <item value="Thread" />
       <item value="Chart Field Condition Dto" />
-      <item value="Clone Not Supported Exception" />
-      <item value="print Stack Trace" />
-      <item value="Array List" />
-      <item value="bean" />
-      <item value="copy Temp Bean" />
-      <item value="JOIN" />
-      <item value="business request contract review" />
-      <item value="all Flag" />
-      <item value="Process Controller" />
-      <item value="新增督办单" />
-      <item value="Parameters" />
-      <item value="get Current User Signature" />
-      <item value="current Thread" />
-      <item value="看线程1是否会停止阻塞" />
-      <item value="Version" />
-      <item value="transport" />
-      <item value="ORDER NUM" />
-      <item value="DESC" />
-      <item value="Echoing" />
-      <item value="break" />
-      <item value="get Input Stream" />
-      <item value="get Output Stream" />
-      <item value="Always close the two sockets..." />
-      <item value="Jabber Server" />
-      <item value="get Declared Method" />
-      <item value="Inet Socket Address" />
-      <item value="is Bound" />
-      <item value="Blocks until a connection occurs:" />
-      <item value="Choose a port outside of the range 1-1024:" />
-      <item value="Bit Sieve" />
+      <item value="row Id" />
+      <item value="field Name" />
+      <item value="field Condition Describe" />
+      <item value="condition Param Type" />
+      <item value="Data" />
+      <item value="password" />
+      <item value="get Import Chart Config Data" />
+      <item value="identity" />
+      <item value="primary Category Identify" />
+      <item value="table Name" />
+      <item value="Chart Helper Service Impl" />
+      <item value="Chart Horizontal Axis Dto" />
+      <item value="chart Field Config" />
+      <item value="copy Properties" />
+      <item value="Chart Filed Config Dto" />
+      <item value="print If Info Enabled" />
+      <item value="client" />
+      <item value="INFO" />
+      <item value="16549" />
+      <item value="executor" />
+      <item value="merge Result Type" />
+      <item value="executor Sql" />
+      <item value="select List" />
+      <item value="field Config Key" />
+      <item value="config" />
+      <item value="success" />
+      <item value="chart Field Condition Config Service" />
+      <item value="import Chart Config Data" />
+      <item value="Ajax Result" />
+      <item value="chart Helper Service" />
+      <item value="start Build Bean" />
+      <item value="Result Import Chart Config Data Vo" />
+      <item value="Users" />
+      <item value="nacos" />
+      <item value="configuration" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2116" />
-        <entry key="ENGLISH" value="2117" />
+        <entry key="CHINESE" value="2171" />
+        <entry key="ENGLISH" value="2172" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="3" />
+        <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -91,6 +91,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659014820312" />
+    <option name="lastTrimTime" value="1658564284258" />
   </component>
 </application>
