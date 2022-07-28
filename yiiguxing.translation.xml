@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Import Chart Config Data" />
       <item value="identity" />
       <item value="primary Category Identify" />
       <item value="table Name" />
@@ -28,7 +29,6 @@
       <item value="import Chart Config Data" />
       <item value="Ajax Result" />
       <item value="chart Helper Service" />
-      <item value="get Import Chart Config Data" />
       <item value="start Build Bean" />
       <item value="Result Import Chart Config Data Vo" />
       <item value="Users" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2145" />
-        <entry key="ENGLISH" value="2146" />
+        <entry key="CHINESE" value="2146" />
+        <entry key="ENGLISH" value="2147" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
