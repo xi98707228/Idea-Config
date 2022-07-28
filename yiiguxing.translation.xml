@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="系统中如果使用缓冲区而缓冲区未满" />
       <item value="start Build Bean" />
       <item value="project" />
       <item value="Result Import Chart Config Data Vo" />
@@ -53,11 +54,10 @@
       <item value="remove runnint advice is empty Start return Empty Array" />
       <item value="residue Step" />
       <item value="distinct Element" />
-      <item value="assert Param Is Viable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2100" />
+        <entry key="CHINESE" value="2101" />
         <entry key="ENGLISH" value="2101" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
@@ -91,6 +91,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658564284258" />
+    <option name="lastTrimTime" value="1659014820312" />
   </component>
 </application>
