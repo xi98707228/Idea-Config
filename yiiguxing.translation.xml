@@ -4,11 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Executor Completion Service" />
+      <item value="Native Thread" />
+      <item value="Native Thread Set" />
+      <item value="transfer To" />
+      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded. &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke this method to prepare for a sequence of channel-write or relative &lt;i&gt;get&lt;i&gt; operations. For example: &lt;blockquote&gt;&lt;pre&gt; buf.put(magic); Prepend header in.read(buf); Read data into rest of buffer buf.flip(); Flip buffer out.write(buf); Write header + data to channel&lt;pre&gt;&lt;blockquote&gt; &lt;p&gt; This method is often used in conjunction with the {@link java.nio.ByteBuffercompact compact} method when transferring data from one place to another. &lt;p&gt; @return This buffer" />
+      <item value="Volatile Demo Test" />
+      <item value="volatile Demo Test" />
       <item value="volatile" />
       <item value="main" />
       <item value="String" />
       <item value="static" />
-      <item value="volatile Demo Test" />
       <item value="Thread" />
       <item value="Chart Field Condition Dto" />
       <item value="row Id" />
@@ -48,17 +54,11 @@
       <item value="configuration" />
       <item value="Dispatcher Servlet" />
       <item value="dispatcher Servlet" />
-      <item value="Spring" />
-      <item value="Initializing" />
-      <item value="directory" />
-      <item value="Sentinel" />
-      <item value="MILLISECONDS" />
-      <item value="15880" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2166" />
-        <entry key="ENGLISH" value="2167" />
+        <entry key="CHINESE" value="2171" />
+        <entry key="ENGLISH" value="2172" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="4" />
+        <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
