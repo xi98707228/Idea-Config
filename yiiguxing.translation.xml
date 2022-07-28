@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="primary Category Identify" />
       <item value="table Name" />
       <item value="Chart Helper Service Impl" />
       <item value="Chart Horizontal Axis Dto" />
@@ -53,12 +54,11 @@
       <item value="bean" />
       <item value="copy Temp Bean" />
       <item value="JOIN" />
-      <item value="business request contract review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2143" />
-        <entry key="ENGLISH" value="2144" />
+        <entry key="CHINESE" value="2144" />
+        <entry key="ENGLISH" value="2145" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
