@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="volatile" />
+      <item value="main" />
+      <item value="String" />
+      <item value="static" />
+      <item value="volatile Demo Test" />
+      <item value="Thread" />
       <item value="Chart Field Condition Dto" />
       <item value="row Id" />
       <item value="field Name" />
@@ -48,17 +54,11 @@
       <item value="Sentinel" />
       <item value="MILLISECONDS" />
       <item value="15880" />
-      <item value="Spring装载Oracle数据库数据一共消耗" />
-      <item value="已装载完毕" />
-      <item value="所有表对应表字段Map信息" />
-      <item value="project" />
-      <item value="horizontal Axis List" />
-      <item value="chart Field Condition List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2162" />
-        <entry key="ENGLISH" value="2163" />
+        <entry key="CHINESE" value="2166" />
+        <entry key="ENGLISH" value="2167" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="LATIN" value="3" />
+        <entry key="LATIN" value="4" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
