@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="password" />
       <item value="get Import Chart Config Data" />
       <item value="identity" />
       <item value="primary Category Identify" />
@@ -53,12 +54,11 @@
       <item value="print Stack Trace" />
       <item value="Array List" />
       <item value="bean" />
-      <item value="copy Temp Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="2147" />
+        <entry key="CHINESE" value="2147" />
+        <entry key="ENGLISH" value="2148" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
