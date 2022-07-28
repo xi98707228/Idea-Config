@@ -4,6 +4,34 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Sebastien Deleuze" />
+      <item value="Stephane Maldini" />
+      <item value="Convert a Java 9+ {@literal Flow.Publisher} tofrom a Reactive Streams {@link Publisher}." />
+      <item value="Jdk Flow Adapter" />
+      <item value="Invoke a suspending function and converts it to {@link Mono} or {@link Flux}." />
+      <item value="Annotated Element" />
+      <item value="Type Variable" />
+      <item value="get Class Loader" />
+      <item value="is Present" />
+      <item value="Utilities for working with Kotlin Coroutines." />
+      <item value="Coroutines Utils" />
+      <item value="Kotlin Delegate" />
+      <item value="Returns {@code true} if and only if the underlying class is a member class. @return {@code true} if and onl" />
+      <item value="is Local Or Anonymous Class" />
+      <item value="is Member Class" />
+      <item value="is Inner Class" />
+      <item value="Method Parameter" />
+      <item value="Handler Method Argument Resolver" />
+      <item value="Abstract Named Value Method Argument Resolver" />
+      <item value="Path Variable Method Argument Resolver" />
+      <item value="Path Variable" />
+      <item value="获取其所有关联的配置信息" />
+      <item value="ruoyi" />
+      <item value="domain" />
+      <item value="cahrt Config" />
+      <item value="templateserver" />
+      <item value="condition Param Type" />
+      <item value="field Name" />
       <item value="SELECT" />
       <item value="FROM" />
       <item value="selectList selectList" />
@@ -26,46 +54,18 @@
       <item value="static" />
       <item value="Thread" />
       <item value="Chart Field Condition Dto" />
-      <item value="row Id" />
-      <item value="field Name" />
-      <item value="field Condition Describe" />
-      <item value="condition Param Type" />
-      <item value="Data" />
-      <item value="password" />
-      <item value="get Import Chart Config Data" />
-      <item value="identity" />
-      <item value="primary Category Identify" />
-      <item value="table Name" />
-      <item value="Chart Helper Service Impl" />
-      <item value="Chart Horizontal Axis Dto" />
-      <item value="chart Field Config" />
-      <item value="copy Properties" />
-      <item value="Chart Filed Config Dto" />
-      <item value="print If Info Enabled" />
-      <item value="client" />
-      <item value="INFO" />
-      <item value="16549" />
-      <item value="executor" />
-      <item value="merge Result Type" />
-      <item value="executor Sql" />
-      <item value="field Config Key" />
-      <item value="config" />
-      <item value="success" />
-      <item value="chart Field Condition Config Service" />
-      <item value="import Chart Config Data" />
-      <item value="Ajax Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2187" />
-        <entry key="ENGLISH" value="2188" />
+        <entry key="CHINESE" value="2212" />
+        <entry key="ENGLISH" value="2212" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
@@ -82,7 +82,7 @@
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
@@ -91,6 +91,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658564284258" />
+    <option name="lastTrimTime" value="1658996299585" />
   </component>
 </application>
