@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="to Hex String" />
+      <item value="用于接收客户端发送的数据" />
+      <item value="Servlet Context Event" />
+      <item value="监听UDP数据包" />
+      <item value="thread Pool Config" />
+      <item value="initialize" />
       <item value="Datagram Packet" />
       <item value="Expression Atomic Part" />
       <item value="get String" />
@@ -48,17 +54,11 @@
       <item value="field Name" />
       <item value="SELECT" />
       <item value="FROM" />
-      <item value="selectList selectList" />
-      <item value="select List" />
-      <item value="DEBUG" />
-      <item value="http-nio-9900-exec" />
-      <item value="exec" />
-      <item value="debug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2224" />
-        <entry key="ENGLISH" value="2225" />
+        <entry key="CHINESE" value="2228" />
+        <entry key="ENGLISH" value="2229" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
