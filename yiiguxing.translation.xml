@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Datagram Packet" />
+      <item value="Expression Atomic Part" />
+      <item value="get String" />
+      <item value="TABLE NAME" />
+      <item value="结构数" />
+      <item value="结构数量为" />
+      <item value="视图" />
+      <item value="一共获取" />
       <item value="get Identity Context" />
       <item value="Client Auth Plugin Manager" />
       <item value="Validator" />
@@ -46,19 +54,11 @@
       <item value="http-nio-9900-exec" />
       <item value="exec" />
       <item value="debug" />
-      <item value="Param Regex Illegal Exception" />
-      <item value="Executor Completion Service" />
-      <item value="Native Thread" />
-      <item value="Native Thread Set" />
-      <item value="transfer To" />
-      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded. &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke this method to prepare for a sequence of channel-write or relative &lt;i&gt;get&lt;i&gt; operations. For example: &lt;blockquote&gt;&lt;pre&gt; buf.put(magic); Prepend header in.read(buf); Read data into rest of buffer buf.flip(); Flip buffer out.write(buf); Write header + data to channel&lt;pre&gt;&lt;blockquote&gt; &lt;p&gt; This method is often used in conjunction with the {@link java.nio.ByteBuffercompact compact} method when transferring data from one place to another. &lt;p&gt; @return This buffer" />
-      <item value="Volatile Demo Test" />
-      <item value="volatile Demo Test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2217" />
-        <entry key="ENGLISH" value="2218" />
+        <entry key="CHINESE" value="2224" />
+        <entry key="ENGLISH" value="2225" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
