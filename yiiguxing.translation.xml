@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Diagram Condition Config Part" />
+      <item value="condition Name" />
       <item value="Query Chart Expression Handle Controller" />
       <item value="class" />
       <item value="Rest Controller" />
@@ -52,13 +54,11 @@
       <item value="condition Type" />
       <item value="field Result Type" />
       <item value="Non Null" />
-      <item value="Expression Execute Param Segment" />
-      <item value="condition Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2304" />
-        <entry key="ENGLISH" value="2305" />
+        <entry key="CHINESE" value="2307" />
+        <entry key="ENGLISH" value="2308" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
