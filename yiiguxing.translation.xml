@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Ask Leave Abstract Handle" />
+      <item value="handle Ask Leave Process" />
+      <item value="29" />
+      <item value="987072248" />
+      <item value="2022" />
+      <item value="data" />
+      <item value="author" />
+      <item value="Abstract Handle Process" />
+      <item value="Ask Leave Handle" />
+      <item value="Ask Leave Form" />
+      <item value="ask User Name" />
+      <item value="leave Days" />
+      <item value="Package declaration" />
+      <item value="This annotation is applied to a annotation, and marks the annotation as being a qualifier nickname. Applying a nickname annotation X to a element Y should be interpreted as having the same meaning as applying all of annotations of X (other than QualifierNickname) to Y. &lt;p&gt; Thus, you might define a qualifier SocialSecurityNumber as follows: &lt;p&gt; &lt;pre&gt; &amp;064;Documented &amp;064;TypeQualifierNickname &amp;064;Pattern(&quot;[0-9]{3}-[0-9]{2}-[0-9]{4}&quot;) &amp;064;Retention(RetentionPolicy.RUNTIME) public &amp;064;interface SocialSecurityNumber { } &lt;pre&gt;" />
+      <item value="Type Qualifier Nickname" />
+      <item value="Logger" />
       <item value="Users" />
       <item value="msg" />
       <item value="ERR" />
@@ -38,27 +54,11 @@
       <item value="Expression Query Result Part" />
       <item value="multiple Merge Compute Temp List" />
       <item value="external Temp List" />
-      <item value="Of Int" />
-      <item value="spliterator Unknown Size" />
-      <item value="emulated" />
-      <item value="Hayward Chan" />
-      <item value="Charles Fry" />
-      <item value="Gwt Compatible" />
-      <item value="group Atomic Expression Map" />
-      <item value="Expression Receive Data Vo" />
-      <item value="计算顺序" />
-      <item value="计算顺序 -- 合并多字段结果值 必须在最后 否则不能获取实时的计算结果 计算多字段累加类型 单独进行计算" />
-      <item value="执行器" />
-      <item value="Expression Atomic Part" />
-      <item value="expression Executor" />
-      <item value="compute Scale Strategy Dispatch" />
-      <item value="config Expression Node Service" />
-      <item value="config Condition Param Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2327" />
-        <entry key="ENGLISH" value="2328" />
+        <entry key="CHINESE" value="2343" />
+        <entry key="ENGLISH" value="2342" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
