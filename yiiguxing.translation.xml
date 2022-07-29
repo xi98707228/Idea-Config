@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Users" />
       <item value="msg" />
       <item value="ERR" />
       <item value="Stderr Logger" />
@@ -53,12 +54,11 @@
       <item value="compute Scale Strategy Dispatch" />
       <item value="config Expression Node Service" />
       <item value="config Condition Param Service" />
-      <item value="src Template Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2326" />
-        <entry key="ENGLISH" value="2327" />
+        <entry key="CHINESE" value="2327" />
+        <entry key="ENGLISH" value="2328" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
