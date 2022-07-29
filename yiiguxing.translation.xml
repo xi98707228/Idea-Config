@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Hostname Verifier" />
+      <item value="add Suppressed Exception Method" />
+      <item value="Ok Http Client" />
+      <item value="Runnable implementation which always sets its thread name." />
+      <item value="Named Runnable" />
+      <item value="Not a daemon thread." />
       <item value="Diagram Condition Config Part" />
       <item value="condition Name" />
       <item value="Query Chart Expression Handle Controller" />
@@ -48,17 +54,11 @@
       <item value="if an entry is found to be" />
       <item value="removed during iteration" />
       <item value="this usually means the entry is no longer in the map." />
-      <item value="strategy" />
-      <item value="STRATEGY ENUM MAP" />
-      <item value="HB Compute Scale Strategy" />
-      <item value="condition Type" />
-      <item value="field Result Type" />
-      <item value="Non Null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2307" />
-        <entry key="ENGLISH" value="2308" />
+        <entry key="CHINESE" value="2313" />
+        <entry key="ENGLISH" value="2314" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
