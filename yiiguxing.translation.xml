@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="photo Url" />
+      <item value="SELECT" />
+      <item value="imgs U Rl" />
+      <item value="Character Decoder" />
+      <item value="pem array" />
+      <item value="char" />
+      <item value="static" />
+      <item value="final" />
+      <item value="directory" />
+      <item value="false" />
+      <item value="Users" />
+      <item value="NJSD" />
+      <item value="logs" />
+      <item value="csp" />
       <item value="Access Bridge" />
       <item value="Servlet Context Listener" />
       <item value="Datagram Socket" />
@@ -40,25 +54,11 @@
       <item value="Utilities for working with Kotlin Coroutines." />
       <item value="Coroutines Utils" />
       <item value="Kotlin Delegate" />
-      <item value="Returns {@code true} if and only if the underlying class is a member class. @return {@code true} if and onl" />
-      <item value="is Local Or Anonymous Class" />
-      <item value="is Member Class" />
-      <item value="is Inner Class" />
-      <item value="Method Parameter" />
-      <item value="Handler Method Argument Resolver" />
-      <item value="Abstract Named Value Method Argument Resolver" />
-      <item value="Path Variable Method Argument Resolver" />
-      <item value="Path Variable" />
-      <item value="获取其所有关联的配置信息" />
-      <item value="ruoyi" />
-      <item value="domain" />
-      <item value="cahrt Config" />
-      <item value="templateserver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2232" />
-        <entry key="ENGLISH" value="2233" />
+        <entry key="CHINESE" value="2247" />
+        <entry key="ENGLISH" value="2248" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -85,7 +85,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="1" />
+        <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="4" />
