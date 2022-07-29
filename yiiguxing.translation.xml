@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="msg" />
+      <item value="ERR" />
+      <item value="Stderr Logger" />
+      <item value="Stdout Logger" />
+      <item value="Chain Of Responsibility Example" />
+      <item value="Chart Multiple Resolve Handler" />
+      <item value="Post Mapping" />
+      <item value="Query Diagram Convert Controller" />
+      <item value="execute-diagram-convert" />
+      <item value="convert Group Data Atomic List" />
+      <item value="Diagram Atomic Part" />
       <item value="Hostname Verifier" />
       <item value="add Suppressed Exception Method" />
       <item value="Ok Http Client" />
@@ -43,22 +54,11 @@
       <item value="config Expression Node Service" />
       <item value="config Condition Param Service" />
       <item value="src Template Content" />
-      <item value="查询表达式" />
-      <item value="结束-[文本]-查询表达式" />
-      <item value="&gt;结束-[文本]-查询表达式" />
-      <item value="result Expression Result List" />
-      <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
-      <item value="开始执行-[文本]-查询表达式" />
-      <item value="===&gt;开始执行-[文本]-查询表达式&lt;===" />
-      <item value="查询完成之后需要进行替换报告内容" />
-      <item value="if an entry is found to be" />
-      <item value="removed during iteration" />
-      <item value="this usually means the entry is no longer in the map." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2313" />
-        <entry key="ENGLISH" value="2314" />
+        <entry key="CHINESE" value="2326" />
+        <entry key="ENGLISH" value="2327" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
