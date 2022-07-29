@@ -4,6 +4,49 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Expression Query Result Part" />
+      <item value="multiple Merge Compute Temp List" />
+      <item value="external Temp List" />
+      <item value="Of Int" />
+      <item value="spliterator Unknown Size" />
+      <item value="emulated" />
+      <item value="Hayward Chan" />
+      <item value="Charles Fry" />
+      <item value="Gwt Compatible" />
+      <item value="group Atomic Expression Map" />
+      <item value="Expression Receive Data Vo" />
+      <item value="计算顺序" />
+      <item value="计算顺序 -- 合并多字段结果值 必须在最后 否则不能获取实时的计算结果 计算多字段累加类型 单独进行计算" />
+      <item value="执行器" />
+      <item value="Expression Atomic Part" />
+      <item value="expression Executor" />
+      <item value="compute Scale Strategy Dispatch" />
+      <item value="config Expression Node Service" />
+      <item value="config Condition Param Service" />
+      <item value="src Template Content" />
+      <item value="查询表达式" />
+      <item value="结束-[文本]-查询表达式" />
+      <item value="&gt;结束-[文本]-查询表达式" />
+      <item value="result Expression Result List" />
+      <item value="每一组计算出来就是一条sql语句去去执行就会得到当前组的执行结果" />
+      <item value="开始执行-[文本]-查询表达式" />
+      <item value="===&gt;开始执行-[文本]-查询表达式&lt;===" />
+      <item value="查询完成之后需要进行替换报告内容" />
+      <item value="if an entry is found to be" />
+      <item value="removed during iteration" />
+      <item value="this usually means the entry is no longer in the map." />
+      <item value="strategy" />
+      <item value="STRATEGY ENUM MAP" />
+      <item value="HB Compute Scale Strategy" />
+      <item value="condition Type" />
+      <item value="field Result Type" />
+      <item value="Non Null" />
+      <item value="Expression Execute Param Segment" />
+      <item value="condition Name" />
+      <item value="No Args Constructor" />
+      <item value="Data" />
+      <item value="begin Time" />
+      <item value="end Time" />
       <item value="photo Url" />
       <item value="SELECT" />
       <item value="imgs U Rl" />
@@ -11,54 +54,11 @@
       <item value="pem array" />
       <item value="char" />
       <item value="static" />
-      <item value="final" />
-      <item value="directory" />
-      <item value="false" />
-      <item value="Users" />
-      <item value="NJSD" />
-      <item value="logs" />
-      <item value="csp" />
-      <item value="Access Bridge" />
-      <item value="Servlet Context Listener" />
-      <item value="Datagram Socket" />
-      <item value="receive" />
-      <item value="to Hex String" />
-      <item value="用于接收客户端发送的数据" />
-      <item value="Servlet Context Event" />
-      <item value="监听UDP数据包" />
-      <item value="thread Pool Config" />
-      <item value="initialize" />
-      <item value="Datagram Packet" />
-      <item value="Expression Atomic Part" />
-      <item value="get String" />
-      <item value="TABLE NAME" />
-      <item value="结构数" />
-      <item value="结构数量为" />
-      <item value="视图" />
-      <item value="一共获取" />
-      <item value="get Identity Context" />
-      <item value="Client Auth Plugin Manager" />
-      <item value="Validator" />
-      <item value="Hibernate" />
-      <item value="HV 000001" />
-      <item value="clinit" />
-      <item value="Sebastien Deleuze" />
-      <item value="Stephane Maldini" />
-      <item value="Convert a Java 9+ {@literal Flow.Publisher} tofrom a Reactive Streams {@link Publisher}." />
-      <item value="Jdk Flow Adapter" />
-      <item value="Invoke a suspending function and converts it to {@link Mono} or {@link Flux}." />
-      <item value="Annotated Element" />
-      <item value="Type Variable" />
-      <item value="get Class Loader" />
-      <item value="is Present" />
-      <item value="Utilities for working with Kotlin Coroutines." />
-      <item value="Coroutines Utils" />
-      <item value="Kotlin Delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2247" />
-        <entry key="ENGLISH" value="2248" />
+        <entry key="CHINESE" value="2293" />
+        <entry key="ENGLISH" value="2294" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -84,7 +84,7 @@
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="5" />
+        <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
