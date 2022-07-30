@@ -4,6 +4,42 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ask Leave Handler Chain" />
+      <item value="Ask Leave Handler" />
+      <item value="Ask Leave Abstract Handler" />
+      <item value="handler" />
+      <item value="reject Handler Chain" />
+      <item value="reject Handler" />
+      <item value="拒绝处理" />
+      <item value="Array List" />
+      <item value="由子组件调用" />
+      <item value="add Handler Chain" />
+      <item value="chain Handler List" />
+      <item value="String" />
+      <item value="main" />
+      <item value="Level 3 Handler" />
+      <item value="Ask Leave Out Format" />
+      <item value="Level 1 Handler" />
+      <item value="Override" />
+      <item value="Ask Leave Form" />
+      <item value="handler Ask Leave Process" />
+      <item value="而且也不影响其处理核心业务" />
+      <item value="test" />
+      <item value="ask Leave Form" />
+      <item value="LEVEL_1_HANDLER" />
+      <item value="leave Days" />
+      <item value="get Ask User Name" />
+      <item value="println" />
+      <item value="ask Leave Handler Process Format Builder" />
+      <item value="请假日期" />
+      <item value="Ask Leave Process Part" />
+      <item value="Leave Part" />
+      <item value="执行请假流程需要的请假表单数据" />
+      <item value="处理请假申请流程" />
+      <item value="在中间抽象类中实现一层可以实现子类对当前请假审批功能增强" />
+      <item value="handle Ask Leave Process" />
+      <item value="LEVEL_2_HANDLER" />
+      <item value="ask Leave Chain" />
       <item value="Server Socket" />
       <item value="Socket" />
       <item value="Executor Completion Service" />
@@ -14,51 +50,15 @@
       <item value="Volatile Demo Test" />
       <item value="volatile Demo Test" />
       <item value="volatile" />
-      <item value="main" />
-      <item value="String" />
       <item value="static" />
       <item value="Thread" />
       <item value="Chart Field Condition Dto" />
       <item value="row Id" />
-      <item value="field Name" />
-      <item value="field Condition Describe" />
-      <item value="condition Param Type" />
-      <item value="Data" />
-      <item value="password" />
-      <item value="get Import Chart Config Data" />
-      <item value="identity" />
-      <item value="primary Category Identify" />
-      <item value="table Name" />
-      <item value="Chart Helper Service Impl" />
-      <item value="Chart Horizontal Axis Dto" />
-      <item value="chart Field Config" />
-      <item value="copy Properties" />
-      <item value="Chart Filed Config Dto" />
-      <item value="print If Info Enabled" />
-      <item value="client" />
-      <item value="INFO" />
-      <item value="16549" />
-      <item value="executor" />
-      <item value="merge Result Type" />
-      <item value="executor Sql" />
-      <item value="select List" />
-      <item value="field Config Key" />
-      <item value="config" />
-      <item value="success" />
-      <item value="chart Field Condition Config Service" />
-      <item value="import Chart Config Data" />
-      <item value="Ajax Result" />
-      <item value="chart Helper Service" />
-      <item value="start Build Bean" />
-      <item value="Result Import Chart Config Data Vo" />
-      <item value="Users" />
-      <item value="nacos" />
-      <item value="configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2173" />
-        <entry key="ENGLISH" value="2174" />
+        <entry key="CHINESE" value="2268" />
+        <entry key="ENGLISH" value="2269" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
