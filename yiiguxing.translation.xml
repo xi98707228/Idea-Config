@@ -4,28 +4,41 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="ask Leave Handler Chain" />
-      <item value="Ask Leave Handler" />
-      <item value="Ask Leave Abstract Handler" />
+      <item value="初始化责任链" />
+      <item value="add Ask Leave Handler" />
+      <item value="start" />
+      <item value="build Default Chain" />
+      <item value="reject Handler Process" />
+      <item value="set Current Ask Leave Handler" />
+      <item value="next Handler" />
+      <item value="set Next Ask Leave Handler" />
+      <item value="handler Ask Leave Process" />
+      <item value="ask Leave Form" />
+      <item value="add Handler Chain" />
+      <item value="current Handler" />
       <item value="handler" />
+      <item value="Ask Leave Handler" />
+      <item value="protected" />
+      <item value="Ask Leave Form" />
+      <item value="Ask Leave Out Format" />
+      <item value="Level 3 Handler" />
+      <item value="LEVEL_2_HANDLER" />
+      <item value="设置当前请假步骤" />
+      <item value="当前请假步骤" />
+      <item value="ask Leave Handler Chain" />
+      <item value="Ask Leave Abstract Handler" />
       <item value="reject Handler Chain" />
       <item value="reject Handler" />
       <item value="拒绝处理" />
       <item value="Array List" />
       <item value="由子组件调用" />
-      <item value="add Handler Chain" />
       <item value="chain Handler List" />
       <item value="String" />
       <item value="main" />
-      <item value="Level 3 Handler" />
-      <item value="Ask Leave Out Format" />
       <item value="Level 1 Handler" />
       <item value="Override" />
-      <item value="Ask Leave Form" />
-      <item value="handler Ask Leave Process" />
       <item value="而且也不影响其处理核心业务" />
       <item value="test" />
-      <item value="ask Leave Form" />
       <item value="LEVEL_1_HANDLER" />
       <item value="leave Days" />
       <item value="get Ask User Name" />
@@ -38,27 +51,14 @@
       <item value="处理请假申请流程" />
       <item value="在中间抽象类中实现一层可以实现子类对当前请假审批功能增强" />
       <item value="handle Ask Leave Process" />
-      <item value="LEVEL_2_HANDLER" />
       <item value="ask Leave Chain" />
       <item value="Server Socket" />
       <item value="Socket" />
-      <item value="Executor Completion Service" />
-      <item value="Native Thread" />
-      <item value="Native Thread Set" />
-      <item value="transfer To" />
-      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded. &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke this method to prepare for a sequence of channel-write or relative &lt;i&gt;get&lt;i&gt; operations. For example: &lt;blockquote&gt;&lt;pre&gt; buf.put(magic); Prepend header in.read(buf); Read data into rest of buffer buf.flip(); Flip buffer out.write(buf); Write header + data to channel&lt;pre&gt;&lt;blockquote&gt; &lt;p&gt; This method is often used in conjunction with the {@link java.nio.ByteBuffercompact compact} method when transferring data from one place to another. &lt;p&gt; @return This buffer" />
-      <item value="Volatile Demo Test" />
-      <item value="volatile Demo Test" />
-      <item value="volatile" />
-      <item value="static" />
-      <item value="Thread" />
-      <item value="Chart Field Condition Dto" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2268" />
-        <entry key="ENGLISH" value="2269" />
+        <entry key="CHINESE" value="2301" />
+        <entry key="ENGLISH" value="2301" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
