@@ -4,72 +4,74 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="next Handler" />
-      <item value="level 1 Handler" />
-      <item value="ask Leave Process" />
-      <item value="Builder Chain" />
-      <item value="Level 1 Handler" />
-      <item value="初始化责任链" />
-      <item value="add Ask Leave Handler" />
-      <item value="start" />
-      <item value="build Default Chain" />
-      <item value="reject Handler Process" />
-      <item value="set Current Ask Leave Handler" />
-      <item value="set Next Ask Leave Handler" />
-      <item value="handler Ask Leave Process" />
-      <item value="ask Leave Form" />
-      <item value="add Handler Chain" />
-      <item value="current Handler" />
-      <item value="handler" />
-      <item value="Ask Leave Handler" />
-      <item value="protected" />
-      <item value="Ask Leave Form" />
-      <item value="Ask Leave Out Format" />
-      <item value="Level 3 Handler" />
-      <item value="LEVEL_2_HANDLER" />
-      <item value="设置当前请假步骤" />
-      <item value="当前请假步骤" />
-      <item value="ask Leave Handler Chain" />
-      <item value="Ask Leave Abstract Handler" />
-      <item value="reject Handler Chain" />
-      <item value="reject Handler" />
-      <item value="拒绝处理" />
-      <item value="Array List" />
-      <item value="由子组件调用" />
-      <item value="chain Handler List" />
-      <item value="String" />
-      <item value="main" />
-      <item value="Override" />
-      <item value="而且也不影响其处理核心业务" />
-      <item value="test" />
-      <item value="LEVEL_1_HANDLER" />
-      <item value="leave Days" />
-      <item value="get Ask User Name" />
-      <item value="println" />
-      <item value="ask Leave Handler Process Format Builder" />
-      <item value="请假日期" />
-      <item value="Ask Leave Process Part" />
-      <item value="Leave Part" />
-      <item value="执行请假流程需要的请假表单数据" />
-      <item value="处理请假申请流程" />
-      <item value="在中间抽象类中实现一层可以实现子类对当前请假审批功能增强" />
+      <item value="Ask Leave Abstract Handle" />
       <item value="handle Ask Leave Process" />
+      <item value="29" />
+      <item value="987072248" />
+      <item value="2022" />
+      <item value="data" />
+      <item value="author" />
+      <item value="Abstract Handle Process" />
+      <item value="Ask Leave Handle" />
+      <item value="Ask Leave Form" />
+      <item value="ask User Name" />
+      <item value="leave Days" />
+      <item value="Package declaration" />
+      <item value="This annotation is applied to a annotation, and marks the annotation as being a qualifier nickname. Applying a nickname annotation X to a element Y should be interpreted as having the same meaning as applying all of annotations of X (other than QualifierNickname) to Y. &lt;p&gt; Thus, you might define a qualifier SocialSecurityNumber as follows: &lt;p&gt; &lt;pre&gt; &amp;064;Documented &amp;064;TypeQualifierNickname &amp;064;Pattern(&quot;[0-9]{3}-[0-9]{2}-[0-9]{4}&quot;) &amp;064;Retention(RetentionPolicy.RUNTIME) public &amp;064;interface SocialSecurityNumber { } &lt;pre&gt;" />
+      <item value="Type Qualifier Nickname" />
+      <item value="Logger" />
+      <item value="Users" />
+      <item value="msg" />
+      <item value="ERR" />
+      <item value="Stderr Logger" />
+      <item value="Stdout Logger" />
+      <item value="Chain Of Responsibility Example" />
+      <item value="Chart Multiple Resolve Handler" />
+      <item value="Post Mapping" />
+      <item value="Query Diagram Convert Controller" />
+      <item value="execute-diagram-convert" />
+      <item value="convert Group Data Atomic List" />
+      <item value="Diagram Atomic Part" />
+      <item value="Hostname Verifier" />
+      <item value="add Suppressed Exception Method" />
+      <item value="Ok Http Client" />
+      <item value="Runnable implementation which always sets its thread name." />
+      <item value="Named Runnable" />
+      <item value="Not a daemon thread." />
+      <item value="Diagram Condition Config Part" />
+      <item value="condition Name" />
+      <item value="Query Chart Expression Handle Controller" />
+      <item value="class" />
+      <item value="Rest Controller" />
+      <item value="primary" />
+      <item value="table" />
+      <item value="init Table Fields" />
+      <item value="set Id Called" />
+      <item value="Configurable Application Context" />
+      <item value="Juergen Hoeller" />
+      <item value="Rod Johnson" />
+      <item value="Listable Bean Factory" />
+      <item value="Expression Query Result Part" />
+      <item value="multiple Merge Compute Temp List" />
+      <item value="external Temp List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2309" />
-        <entry key="ENGLISH" value="2310" />
+        <entry key="CHINESE" value="2343" />
+        <entry key="ENGLISH" value="2342" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
-        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="1" />
@@ -82,8 +84,8 @@
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="4" />
-        <entry key="HINDI" value="1" />
+        <entry key="ITALIAN" value="6" />
+        <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="4" />
@@ -91,6 +93,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659169468599" />
+    <option name="lastTrimTime" value="1658996299585" />
   </component>
 </application>
