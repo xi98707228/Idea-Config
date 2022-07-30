@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Socket" />
       <item value="Executor Completion Service" />
       <item value="Native Thread" />
       <item value="Native Thread Set" />
@@ -53,12 +54,11 @@
       <item value="nacos" />
       <item value="configuration" />
       <item value="Dispatcher Servlet" />
-      <item value="dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2171" />
-        <entry key="ENGLISH" value="2172" />
+        <entry key="CHINESE" value="2172" />
+        <entry key="ENGLISH" value="2173" />
         <entry key="ARABIC" value="2" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
@@ -91,6 +91,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658564284258" />
+    <option name="lastTrimTime" value="1659169468599" />
   </component>
 </application>
