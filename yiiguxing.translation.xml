@@ -4,6 +4,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="address" />
+      <item value="port" />
+      <item value="Block until it echoes back:" />
+      <item value="Chatter Server" />
+      <item value="Auto-assign port number" />
+      <item value="Can listen &amp; send on the same socket:" />
+      <item value="dp" />
+      <item value="Extract the address and port from the received datagram to find out where to send it back:" />
+      <item value="Two Stacks Plain Datagram Socket Impl" />
+      <item value="Dual Stack Plain Datagram Socket Impl" />
+      <item value="Block until a datagram appears:" />
+      <item value="If the security check succeeds, or the datagram is connected then receive the packet" />
+      <item value="INPORT" />
+      <item value="to Datagram" />
+      <item value="Java" />
+      <item value="get Bytes" />
+      <item value="Deprecated in Java 1.1, but it works:" />
+      <item value="String" />
+      <item value="The correct Java 1.1 approach, but it's Broken (it truncates the String):" />
+      <item value="hibyte" />
+      <item value="The Java 1.1 approach:" />
+      <item value="The Java 1.0 approach: return new String(p.getData(), 0, 0, p.getLength()); The Java 1.1 approach:" />
+      <item value="he correct Java 1.1 approach, but it's Broken (it truncates the String):" />
+      <item value="warn Unsupported Charset" />
+      <item value="Broken (it truncates the String):" />
+      <item value="byte[] buf = s.getBytes();" />
+      <item value="The correct Java 1.1 approach, but it's" />
+      <item value="Generic Datagram Packet" />
+      <item value="Dgram" />
       <item value="Input Stream Reader" />
       <item value="get Input Stream" />
       <item value="ask Leave Handler Process Data Format" />
@@ -25,40 +54,11 @@
       <item value="2022" />
       <item value="data" />
       <item value="author" />
-      <item value="Abstract Handle Process" />
-      <item value="Ask Leave Handle" />
-      <item value="Ask Leave Form" />
-      <item value="ask User Name" />
-      <item value="leave Days" />
-      <item value="Package declaration" />
-      <item value="This annotation is applied to a annotation, and marks the annotation as being a qualifier nickname. Applying a nickname annotation X to a element Y should be interpreted as having the same meaning as applying all of annotations of X (other than QualifierNickname) to Y. &lt;p&gt; Thus, you might define a qualifier SocialSecurityNumber as follows: &lt;p&gt; &lt;pre&gt; &amp;064;Documented &amp;064;TypeQualifierNickname &amp;064;Pattern(&quot;[0-9]{3}-[0-9]{2}-[0-9]{4}&quot;) &amp;064;Retention(RetentionPolicy.RUNTIME) public &amp;064;interface SocialSecurityNumber { } &lt;pre&gt;" />
-      <item value="Type Qualifier Nickname" />
-      <item value="Logger" />
-      <item value="Users" />
-      <item value="msg" />
-      <item value="ERR" />
-      <item value="Stderr Logger" />
-      <item value="Stdout Logger" />
-      <item value="Chain Of Responsibility Example" />
-      <item value="Chart Multiple Resolve Handler" />
-      <item value="Post Mapping" />
-      <item value="Query Diagram Convert Controller" />
-      <item value="execute-diagram-convert" />
-      <item value="convert Group Data Atomic List" />
-      <item value="Diagram Atomic Part" />
-      <item value="Hostname Verifier" />
-      <item value="add Suppressed Exception Method" />
-      <item value="Ok Http Client" />
-      <item value="Runnable implementation which always sets its thread name." />
-      <item value="Named Runnable" />
-      <item value="Not a daemon thread." />
-      <item value="Diagram Condition Config Part" />
-      <item value="condition Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2362" />
-        <entry key="ENGLISH" value="2363" />
+        <entry key="CHINESE" value="2396" />
+        <entry key="ENGLISH" value="2397" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -66,7 +66,7 @@
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
-        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="6" />
@@ -85,7 +85,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="4" />
