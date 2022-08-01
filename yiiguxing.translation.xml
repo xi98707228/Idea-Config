@@ -4,7 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="X轴分类信息列表" />
+      <item value="merge Result Type" />
+      <item value="用于图表上方数据分类展示" />
+      <item value="execute Diagram Convert Data" />
+      <item value="convert Group Data Atomic List" />
       <item value="Diagram Atomic Part" />
+      <item value="table Name" />
+      <item value="field Name" />
+      <item value="diagram" />
+      <item value="execute Chart Convert Data" />
+      <item value="执行生成图表将前端选择的自定义配置信息" />
+      <item value="open Oracle All Table Scheme" />
+      <item value="set Application Context" />
       <item value="Nacos Property Source Builder" />
       <item value="load Nacos Data" />
       <item value="empty" />
@@ -37,28 +49,16 @@
       <item value="Post Mapping" />
       <item value="Query Diagram Convert Controller" />
       <item value="execute-diagram-convert" />
-      <item value="convert Group Data Atomic List" />
       <item value="Hostname Verifier" />
       <item value="add Suppressed Exception Method" />
       <item value="Ok Http Client" />
       <item value="Runnable implementation which always sets its thread name." />
       <item value="Named Runnable" />
-      <item value="Not a daemon thread." />
-      <item value="Diagram Condition Config Part" />
-      <item value="condition Name" />
-      <item value="Query Chart Expression Handle Controller" />
-      <item value="class" />
-      <item value="Rest Controller" />
-      <item value="primary" />
-      <item value="table" />
-      <item value="init Table Fields" />
-      <item value="set Id Called" />
-      <item value="Configurable Application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2350" />
-        <entry key="ENGLISH" value="2351" />
+        <entry key="CHINESE" value="2370" />
+        <entry key="ENGLISH" value="2370" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
