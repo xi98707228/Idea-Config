@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data Base Utils" />
+      <item value="simple Diagram Resolver Builder" />
+      <item value="execute Sql" />
+      <item value="Simple Diagram Resolver Builder" />
+      <item value="build Executor Sql" />
+      <item value="Simple Diagram Builder" />
+      <item value="executor Sql" />
+      <item value="connection" />
+      <item value="build Sql" />
+      <item value="Connection" />
+      <item value="获取按照类别组获取到的分类映射数据列表" />
+      <item value="inside Collection Map" />
+      <item value="Linked List" />
+      <item value="get Series Group Data Map" />
+      <item value="待执行解析的数据列表" />
+      <item value="diagram Atomic Parts" />
+      <item value="执行解析" />
+      <item value="executor Resolver" />
+      <item value="Executor Diagram Compute Result Vo" />
+      <item value="add All" />
+      <item value="config Title" />
+      <item value="get Legend Data List" />
+      <item value="inside Collection List" />
+      <item value="put All" />
+      <item value="Performs a &lt;a href=&quot;package-summary.htmlMutableReduction&quot;&gt;mutable reduction&lt;a&gt; operation on the elements of this stream. A mutable reduction is one in which the reduced value is a mutable result container, such as an {@code ArrayList}, and elements are incorporated by updating the state of the result rather than by replacing the result. This produces a result equivalent to: &lt;pre&gt;{@code R result = supplier.get(); for (T element : this stream) accumulator.accept(result, element); return result; }&lt;pre&gt; &lt;p&gt;Like {@link reduce(Object, BinaryOperator)}, {@code collect} operations can be parallelized without requiring additional synchronization. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal operation&lt;a&gt;. @apiNote There are many existing classes in the JDK whose signatures are well-suited for use with method references as arguments to {@code collect()}. For example, the following will accumulate strings into an {@code ArrayList}: &lt;pre&gt;{@code List&lt;String&gt; asList = stringStream.collect(ArrayList::new, ArrayList::add, ArrayList::addAll); }&lt;pre&gt; &lt;p&gt;The following will take a stream of strings and concatenates them into a single string: &lt;pre&gt;{@code String concat = stringStream.collect(StringBuilder::new, StringBuilder::append, StringBuilder::append) .toString();" />
+      <item value="combiner" />
+      <item value="new" />
+      <item value="Returns a {@code Collector} that accumulates the input elements into a new {@code List}. There are no guarantees on the type, mutability, serializability, or thread-safety of the {@code List} returned; if more control over the returned {@code List} is required, use {@link toCollection(Supplier)}. @param &lt;T&gt; the type of the input elements @return a {@code Collector} which collects all the input elements into a {@code List}, in encounter order" />
+      <item value="left" />
+      <item value="the result of the reduction" />
+      <item value="@param combiner an &lt;a href=&quot;package-summary.htmlAssociativity&quot;&gt;associative&lt;a&gt;, &lt;a href=&quot;package-summary.htmlNonInterference&quot;&gt;non-interfering&lt;a&gt;, &lt;a href=&quot;package-summary.htmlStatelessness&quot;&gt;stateless&lt;a&gt; function for combining two values, which must be compatible with the accumulator function" />
+      <item value="evaluate Sequential" />
+      <item value="evaluate Parallel" />
+      <item value="characteristics" />
+      <item value="accumulator" />
+      <item value="outside Collection List" />
       <item value="outside Collector List" />
       <item value="inside Collector List" />
       <item value="atomic Part" />
       <item value="outer" />
-      <item value="diagram Atomic Parts" />
       <item value="initial Primary Data" />
       <item value="protected" />
-      <item value="待执行解析的数据列表" />
-      <item value="executor Resolver" />
       <item value="get Diagram Resolver Compute Result" />
-      <item value="Executor Diagram Compute Result Vo" />
       <item value="get Horizontal Axis List" />
-      <item value="get Legend Data List" />
       <item value="可见性分类列表" />
       <item value="获取X轴分类数据列表" />
       <item value="null" />
       <item value="Abstract Diagram Resolve Executor" />
       <item value="Diagram Atomic Part" />
       <item value="check Legality Of The Param" />
-      <item value="check Param Legality Of The" />
-      <item value="Illegal Argument Exception" />
-      <item value="初始化目标数据源" />
-      <item value="Override" />
-      <item value="return" />
-      <item value="Default Simple Diagram Resolver" />
-      <item value="default Simple Diagram Parse" />
-      <item value="Diagram Data Resolve Executor" />
-      <item value="this" />
-      <item value="Default Simple Diagram Parse" />
-      <item value="初始化主要数据" />
-      <item value="抽象方法" />
-      <item value="Alias For" />
-      <item value="PublishRequest is a publish request." />
-      <item value="convert Group Data Atomic List" />
-      <item value="987072248" />
-      <item value="图表数据解析器" />
-      <item value="Result Import Chart Config Data Vo" />
-      <item value="interface" />
-      <item value="Diagram Data Resolve" />
-      <item value="SELECT" />
-      <item value="FROM" />
-      <item value="based" />
-      <item value="configuration" />
-      <item value="Nacos Property Source Builder" />
-      <item value="Template Server Application" />
-      <item value="log Startup Profile Info" />
-      <item value="load Nacos Data" />
-      <item value="The following profiles are active: dev" />
-      <item value="Ignore the empty nacos configuration and get it based on" />
-      <item value="Ignore the empty nacos configuration and get it based" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2523" />
-        <entry key="ENGLISH" value="2524" />
+        <entry key="CHINESE" value="2568" />
+        <entry key="ENGLISH" value="2569" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
