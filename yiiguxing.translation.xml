@@ -5,10 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <histories>
       <item value="Diagram Data Resolve Executor" />
-      <item value="Result Import Chart Config Data Vo" />
+      <item value="get Horizontal Axis List" />
+      <item value="get Legend Data List" />
+      <item value="Default Simple Diagram Resolver" />
+      <item value="initial Primary Data" />
+      <item value="this" />
       <item value="Abstract Diagram Resolve Executor" />
       <item value="Default Simple Diagram Parse" />
+      <item value="初始化主要数据" />
+      <item value="抽象方法" />
+      <item value="初始化目标数据源" />
+      <item value="Alias For" />
+      <item value="PublishRequest is a publish request." />
+      <item value="diagram Atomic Parts" />
+      <item value="convert Group Data Atomic List" />
+      <item value="Diagram Atomic Part" />
+      <item value="987072248" />
+      <item value="protected" />
       <item value="图表数据解析器" />
+      <item value="Result Import Chart Config Data Vo" />
       <item value="interface" />
       <item value="Diagram Data Resolve" />
       <item value="SELECT" />
@@ -23,12 +38,10 @@
       <item value="Ignore the empty nacos configuration and get it based on" />
       <item value="Ignore the empty nacos configuration and get it based" />
       <item value="execute Diagram Convert Data" />
-      <item value="convert Group Data Atomic List" />
       <item value="Ignore" />
       <item value="X轴分类信息列表" />
       <item value="merge Result Type" />
       <item value="用于图表上方数据分类展示" />
-      <item value="Diagram Atomic Part" />
       <item value="table Name" />
       <item value="field Name" />
       <item value="diagram" />
@@ -41,24 +54,11 @@
       <item value="Ask Leave Abstract Handle" />
       <item value="handle Ask Leave Process" />
       <item value="29" />
-      <item value="987072248" />
-      <item value="2022" />
-      <item value="data" />
-      <item value="author" />
-      <item value="Abstract Handle Process" />
-      <item value="Ask Leave Handle" />
-      <item value="Ask Leave Form" />
-      <item value="ask User Name" />
-      <item value="leave Days" />
-      <item value="Package declaration" />
-      <item value="This annotation is applied to a annotation, and marks the annotation as being a qualifier nickname. Applying a nickname annotation X to a element Y should be interpreted as having the same meaning as applying all of annotations of X (other than QualifierNickname) to Y. &lt;p&gt; Thus, you might define a qualifier SocialSecurityNumber as follows: &lt;p&gt; &lt;pre&gt; &amp;064;Documented &amp;064;TypeQualifierNickname &amp;064;Pattern(&quot;[0-9]{3}-[0-9]{2}-[0-9]{4}&quot;) &amp;064;Retention(RetentionPolicy.RUNTIME) public &amp;064;interface SocialSecurityNumber { } &lt;pre&gt;" />
-      <item value="Type Qualifier Nickname" />
-      <item value="Logger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2404" />
-        <entry key="ENGLISH" value="2405" />
+        <entry key="CHINESE" value="2445" />
+        <entry key="ENGLISH" value="2446" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
