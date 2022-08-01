@@ -4,6 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="shutdown" />
+      <item value="executor Resolver" />
+      <item value="builder" />
+      <item value="Executor Diagram Compute Result Vo" />
+      <item value="legend Data List" />
+      <item value="horizontal Axis Data List" />
+      <item value="horizontal Axis List" />
+      <item value="build Sql" />
+      <item value="Diagram Bar Store" />
+      <item value="execute Sql" />
+      <item value="temp Diagram Store Part" />
+      <item value="result Series Group Data" />
+      <item value="String" />
+      <item value="sql" />
+      <item value="存储图表组件列表信息" />
+      <item value="BAR TYPE" />
+      <item value="thread safe or volatile variable and synchronized block(variable)" />
+      <item value="chart Type" />
+      <item value="Array List" />
+      <item value="Merge Result Type" />
+      <item value="merge Result Type" />
+      <item value="Chart Type" />
+      <item value="has Next" />
+      <item value="builder Condition Sql" />
       <item value="horizontal Axis Part Iterator" />
       <item value="append" />
       <item value="else" />
@@ -14,10 +38,8 @@
       <item value="diagram Atomic Part" />
       <item value="组装X轴条件信息" />
       <item value="Diagram Horizontal Axis Part" />
-      <item value="chart Type" />
       <item value="value" />
       <item value="Diagram Store Part" />
-      <item value="Diagram Bar Store" />
       <item value="All Args Constructor" />
       <item value="data" />
       <item value="INSTANCE" />
@@ -27,38 +49,16 @@
       <item value="print If Info Enabled" />
       <item value="process Service Info" />
       <item value="series Group Data Map" />
-      <item value="Executor Diagram Compute Result Vo" />
       <item value="field Name" />
       <item value="table Name" />
       <item value="config Title" />
       <item value="Chart Multiple Type" />
       <item value="Connection" />
-      <item value="Initializing" />
-      <item value="INFO" />
-      <item value="109" />
-      <item value="NJSD" />
-      <item value="abstract" />
-      <item value="Dispatcher Servlet" />
-      <item value="Write Through Entry" />
-      <item value="builder Field Sql" />
-      <item value="或饼形图合并比例" />
-      <item value="合并图表X轴进行计算的结果" />
-      <item value="987072248" />
-      <item value="Merge Chart Horizontal Axis Export" />
-      <item value="Abstract Diagram Builder" />
-      <item value="result Group Data Map" />
-      <item value="String" />
-      <item value="outside Temp Store Data Map" />
-      <item value="builder" />
-      <item value="build Sql" />
-      <item value="获取数据信息" />
-      <item value="outside Temp Store Data List" />
-      <item value="null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2670" />
-        <entry key="ENGLISH" value="2671" />
+        <entry key="CHINESE" value="2703" />
+        <entry key="ENGLISH" value="2704" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
