@@ -4,16 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Abstract Diagram Resolve Executor" />
+      <item value="outer" />
       <item value="diagram Atomic Parts" />
-      <item value="初始化目标数据源" />
       <item value="initial Primary Data" />
-      <item value="get Legend Data List" />
+      <item value="protected" />
+      <item value="待执行解析的数据列表" />
+      <item value="executor Resolver" />
+      <item value="get Diagram Resolver Compute Result" />
+      <item value="Executor Diagram Compute Result Vo" />
       <item value="get Horizontal Axis List" />
-      <item value="default Simple Diagram Parse" />
+      <item value="get Legend Data List" />
+      <item value="可见性分类列表" />
+      <item value="获取X轴分类数据列表" />
+      <item value="null" />
+      <item value="Abstract Diagram Resolve Executor" />
+      <item value="Diagram Atomic Part" />
+      <item value="check Legality Of The Param" />
+      <item value="check Param Legality Of The" />
+      <item value="Illegal Argument Exception" />
+      <item value="初始化目标数据源" />
       <item value="Override" />
-      <item value="Diagram Data Resolve Executor" />
+      <item value="return" />
       <item value="Default Simple Diagram Resolver" />
+      <item value="default Simple Diagram Parse" />
+      <item value="Diagram Data Resolve Executor" />
       <item value="this" />
       <item value="Default Simple Diagram Parse" />
       <item value="初始化主要数据" />
@@ -21,9 +35,7 @@
       <item value="Alias For" />
       <item value="PublishRequest is a publish request." />
       <item value="convert Group Data Atomic List" />
-      <item value="Diagram Atomic Part" />
       <item value="987072248" />
-      <item value="protected" />
       <item value="图表数据解析器" />
       <item value="Result Import Chart Config Data Vo" />
       <item value="interface" />
@@ -42,23 +54,11 @@
       <item value="execute Diagram Convert Data" />
       <item value="Ignore" />
       <item value="X轴分类信息列表" />
-      <item value="merge Result Type" />
-      <item value="用于图表上方数据分类展示" />
-      <item value="table Name" />
-      <item value="field Name" />
-      <item value="diagram" />
-      <item value="execute Chart Convert Data" />
-      <item value="执行生成图表将前端选择的自定义配置信息" />
-      <item value="open Oracle All Table Scheme" />
-      <item value="set Application Context" />
-      <item value="empty" />
-      <item value="the" />
-      <item value="Ask Leave Abstract Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2460" />
-        <entry key="ENGLISH" value="2461" />
+        <entry key="CHINESE" value="2520" />
+        <entry key="ENGLISH" value="2521" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
