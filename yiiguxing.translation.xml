@@ -4,11 +4,29 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Abstract Diagram Resolve Executor" />
+      <item value="Default Simple Diagram Parse" />
+      <item value="图表数据解析器" />
+      <item value="Diagram Data Resolve Executor" />
+      <item value="interface" />
+      <item value="Diagram Data Resolve" />
+      <item value="SELECT" />
+      <item value="FROM" />
+      <item value="based" />
+      <item value="configuration" />
+      <item value="Nacos Property Source Builder" />
+      <item value="Template Server Application" />
+      <item value="log Startup Profile Info" />
+      <item value="load Nacos Data" />
+      <item value="The following profiles are active: dev" />
+      <item value="Ignore the empty nacos configuration and get it based on" />
+      <item value="Ignore the empty nacos configuration and get it based" />
+      <item value="execute Diagram Convert Data" />
+      <item value="convert Group Data Atomic List" />
+      <item value="Ignore" />
       <item value="X轴分类信息列表" />
       <item value="merge Result Type" />
       <item value="用于图表上方数据分类展示" />
-      <item value="execute Diagram Convert Data" />
-      <item value="convert Group Data Atomic List" />
       <item value="Diagram Atomic Part" />
       <item value="table Name" />
       <item value="field Name" />
@@ -17,12 +35,8 @@
       <item value="执行生成图表将前端选择的自定义配置信息" />
       <item value="open Oracle All Table Scheme" />
       <item value="set Application Context" />
-      <item value="Nacos Property Source Builder" />
-      <item value="load Nacos Data" />
       <item value="empty" />
-      <item value="Ignore" />
       <item value="the" />
-      <item value="configuration" />
       <item value="Ask Leave Abstract Handle" />
       <item value="handle Ask Leave Process" />
       <item value="29" />
@@ -40,25 +54,11 @@
       <item value="Type Qualifier Nickname" />
       <item value="Logger" />
       <item value="Users" />
-      <item value="msg" />
-      <item value="ERR" />
-      <item value="Stderr Logger" />
-      <item value="Stdout Logger" />
-      <item value="Chain Of Responsibility Example" />
-      <item value="Chart Multiple Resolve Handler" />
-      <item value="Post Mapping" />
-      <item value="Query Diagram Convert Controller" />
-      <item value="execute-diagram-convert" />
-      <item value="Hostname Verifier" />
-      <item value="add Suppressed Exception Method" />
-      <item value="Ok Http Client" />
-      <item value="Runnable implementation which always sets its thread name." />
-      <item value="Named Runnable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2370" />
-        <entry key="ENGLISH" value="2370" />
+        <entry key="CHINESE" value="2399" />
+        <entry key="ENGLISH" value="2400" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
