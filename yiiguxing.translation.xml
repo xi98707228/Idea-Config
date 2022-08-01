@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="exec" />
       <item value="private static native void initIDs();" />
       <item value="Multicast Socket" />
       <item value="打印出当前数据报包数据" />
@@ -53,7 +54,6 @@
       <item value="初始化责任链" />
       <item value="Ask Leave Abstract Handle" />
       <item value="handle Ask Leave Process" />
-      <item value="29" />
     </histories>
     <option name="languageScores">
       <map>
