@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="file Byte" />
+      <item value="wr" />
+      <item value="File Input Stream" />
+      <item value="file Input Stream" />
+      <item value="Datagram Socket" />
+      <item value="main" />
+      <item value="datagram Packet" />
+      <item value="args" />
+      <item value="implements" />
+      <item value="file Name" />
+      <item value="Datagram Packet" />
+      <item value="File Send Client" />
       <item value="Datagram Channel" />
       <item value="Utility class for HTML form encoding. This class contains static methods for converting a String to the &lt;CODE&gt;applicationx-www-form-urlencoded&lt;CODE&gt; MIME format. For more information about HTML form encoding, consult the HTML &lt;A HREF=&quot;http:www.w3.orgTRhtml4&quot;&gt;specification&lt;A&gt;. &lt;p&gt; When encoding a String, the following rules apply: &lt;ul&gt; &lt;li&gt;The alphanumeric characters &amp;quot;{@code a}&amp;quot; through &amp;quot;{@code z}&amp;quot;, &amp;quot;{@code A}&amp;quot; through &amp;quot;{@code Z}&amp;quot; and &amp;quot;{@code 0}&amp;quot; through &amp;quot;{@code 9}&amp;quot; remain the same. &lt;li&gt;The special characters &amp;quot;{@code .}&amp;quot;, &amp;quot;{@code -}&amp;quot;, &amp;quot;{@code }&amp;quot;, and &amp;quot;{@code _}&amp;quot; remain the same. &lt;li&gt;The space character &amp;quot; &amp;nbsp; &amp;quot; is converted into a plus sign &amp;quot;{@code +}&amp;quot;. &lt;li&gt;All other characters are unsafe and are first converted into one or more bytes using some encoding scheme. Then each byte is represented by the 3-character string &amp;quot;&lt;i&gt;{@code %xy}&lt;i&gt;&amp;quot;, where &lt;i&gt;xy&lt;i&gt; is the two-digit hexadecimal representation of the byte. The recommended encoding scheme to use is UTF-8. However, for compatibility reasons, if an encoding is not specified, then the default encoding of the platform is used. &lt;ul&gt; &lt;p&gt; For example using UTF-8 as the encoding scheme the string &amp;quot;The string &amp;252;@foo-bar&amp;quot; would get converted to &amp;quot;The+string+%C3%BC%40foo-bar&amp;quot; because in UTF-8 the character &amp;252; is encoded as two bytes C3 (hex) and BC (hex), and the character @ is encoded as one byte 40 (hex)." />
       <item value="silently discard the offending packet and continue: unknownmalicious entities on nets should not make runtime throw security exception and disrupt the applet by sending random datagram packets." />
@@ -14,7 +26,6 @@
       <item value="private static native void initIDs();" />
       <item value="Multicast Socket" />
       <item value="打印出当前数据报包数据" />
-      <item value="Datagram Packet" />
       <item value="address" />
       <item value="port" />
       <item value="Block until it echoes back:" />
@@ -43,22 +54,11 @@
       <item value="The correct Java 1.1 approach, but it's" />
       <item value="Generic Datagram Packet" />
       <item value="Dgram" />
-      <item value="Input Stream Reader" />
-      <item value="get Input Stream" />
-      <item value="ask Leave Handler Process Data Format" />
-      <item value="reject Handler Process" />
-      <item value="handler Ask Leave Process" />
-      <item value="启动审批流程" />
-      <item value="ask Leave Form" />
-      <item value="start Process By Level" />
-      <item value="start Process Level" />
-      <item value="从当前设置的启动节点启动" />
-      <item value="启动流程的起始节点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2406" />
-        <entry key="ENGLISH" value="2407" />
+        <entry key="CHINESE" value="2428" />
+        <entry key="ENGLISH" value="2429" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
