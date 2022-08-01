@@ -4,20 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Diagram Data Resolve Executor" />
-      <item value="get Horizontal Axis List" />
-      <item value="get Legend Data List" />
-      <item value="Default Simple Diagram Resolver" />
-      <item value="initial Primary Data" />
-      <item value="this" />
       <item value="Abstract Diagram Resolve Executor" />
+      <item value="diagram Atomic Parts" />
+      <item value="初始化目标数据源" />
+      <item value="initial Primary Data" />
+      <item value="get Legend Data List" />
+      <item value="get Horizontal Axis List" />
+      <item value="default Simple Diagram Parse" />
+      <item value="Override" />
+      <item value="Diagram Data Resolve Executor" />
+      <item value="Default Simple Diagram Resolver" />
+      <item value="this" />
       <item value="Default Simple Diagram Parse" />
       <item value="初始化主要数据" />
       <item value="抽象方法" />
-      <item value="初始化目标数据源" />
       <item value="Alias For" />
       <item value="PublishRequest is a publish request." />
-      <item value="diagram Atomic Parts" />
       <item value="convert Group Data Atomic List" />
       <item value="Diagram Atomic Part" />
       <item value="987072248" />
@@ -52,13 +54,11 @@
       <item value="empty" />
       <item value="the" />
       <item value="Ask Leave Abstract Handle" />
-      <item value="handle Ask Leave Process" />
-      <item value="29" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2445" />
-        <entry key="ENGLISH" value="2446" />
+        <entry key="CHINESE" value="2460" />
+        <entry key="ENGLISH" value="2461" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
