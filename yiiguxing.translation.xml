@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="plan Array Method" />
       <item value="read Object" />
       <item value="Stream Corrupted Exception" />
       <item value="default Write Object" />
@@ -53,7 +54,6 @@
       <item value="The correct Java 1.1 approach, but it's Broken (it truncates the String):" />
       <item value="hibyte" />
       <item value="The Java 1.1 approach:" />
-      <item value="The Java 1.0 approach: return new String(p.getData(), 0, 0, p.getLength()); The Java 1.1 approach:" />
     </histories>
     <option name="languageScores">
       <map>
