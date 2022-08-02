@@ -4,11 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="templateserver" />
+      <item value="legend Data List" />
       <item value="shutdown" />
       <item value="executor Resolver" />
       <item value="builder" />
       <item value="Executor Diagram Compute Result Vo" />
-      <item value="legend Data List" />
       <item value="horizontal Axis Data List" />
       <item value="horizontal Axis List" />
       <item value="build Sql" />
@@ -53,12 +54,11 @@
       <item value="table Name" />
       <item value="config Title" />
       <item value="Chart Multiple Type" />
-      <item value="Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2703" />
-        <entry key="ENGLISH" value="2704" />
+        <entry key="CHINESE" value="2705" />
+        <entry key="ENGLISH" value="2706" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
