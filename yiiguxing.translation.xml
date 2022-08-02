@@ -4,10 +4,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="file Type" />
+      <item value="图片关联的图表记录row Id" />
+      <item value="Chart Data Record" />
+      <item value="chart Record Key" />
+      <item value="file Path" />
+      <item value="upload User Nick" />
+      <item value="initial Primary Data" />
+      <item value="executor Resolver" />
+      <item value="INSTANCE" />
+      <item value="Equivalence" />
+      <item value="reference Value" />
+      <item value="Strength" />
+      <item value="local Init" />
+      <item value="Health Check Registry" />
+      <item value="Discard Oldest Policy" />
+      <item value="Caller Runs Policy" />
+      <item value="Discard Policy" />
+      <item value="Abort Policy" />
+      <item value="Abstract Queued Long Synchronizer" />
+      <item value="A synchronizer that may be exclusively owned by a thread. This class provides a basis for creating locks and related synchronizers that may entail a notion of ownership. The {@code AbstractOwnableSynchronizer} class itself does not manage or use this information. However, subclasses and tools may use appropriately maintained values to help control and monitor access and provide diagnostics." />
+      <item value="get Exclusive Owner Thread" />
+      <item value="Lock" />
+      <item value="Stamped Lock" />
+      <item value="store Chart Json" />
+      <item value="describe Message" />
+      <item value="存储构建图表的JSON数据" />
       <item value="chart Type" />
       <item value="图表类型" />
       <item value="图表配置记录描述信息" />
-      <item value="describe Message" />
       <item value="chart Image Data" />
       <item value="copy Properties" />
       <item value="Classes supporting the org.springframework.beans package, such as utility classes for sorting and holding lists of beans." />
@@ -21,7 +46,6 @@
       <item value="get Instance" />
       <item value="Head of CLH queue" />
       <item value="Wait nodes" />
-      <item value="Stamped Lock" />
       <item value="Transaction" />
       <item value="plan Array Method" />
       <item value="read Object" />
@@ -30,35 +54,11 @@
       <item value="internal Write Entries" />
       <item value="Reads all the bytes from a file. The method ensures that the file is closed when all bytes have been read or an IO error, or other runtime exception, is thrown. &lt;p&gt; Note that this method is intended for simple cases where it is convenient to read all bytes into a byte array. It is not intended for reading in large files." />
       <item value="new" />
-      <item value="file Input Stream" />
-      <item value="Socket Exception" />
-      <item value="file Byte" />
-      <item value="wr" />
-      <item value="File Input Stream" />
-      <item value="Datagram Socket" />
-      <item value="main" />
-      <item value="datagram Packet" />
-      <item value="args" />
-      <item value="implements" />
-      <item value="file Name" />
-      <item value="Datagram Packet" />
-      <item value="File Send Client" />
-      <item value="Datagram Channel" />
-      <item value="Utility class for HTML form encoding. This class contains static methods for converting a String to the &lt;CODE&gt;applicationx-www-form-urlencoded&lt;CODE&gt; MIME format. For more information about HTML form encoding, consult the HTML &lt;A HREF=&quot;http:www.w3.orgTRhtml4&quot;&gt;specification&lt;A&gt;. &lt;p&gt; When encoding a String, the following rules apply: &lt;ul&gt; &lt;li&gt;The alphanumeric characters &amp;quot;{@code a}&amp;quot; through &amp;quot;{@code z}&amp;quot;, &amp;quot;{@code A}&amp;quot; through &amp;quot;{@code Z}&amp;quot; and &amp;quot;{@code 0}&amp;quot; through &amp;quot;{@code 9}&amp;quot; remain the same. &lt;li&gt;The special characters &amp;quot;{@code .}&amp;quot;, &amp;quot;{@code -}&amp;quot;, &amp;quot;{@code }&amp;quot;, and &amp;quot;{@code _}&amp;quot; remain the same. &lt;li&gt;The space character &amp;quot; &amp;nbsp; &amp;quot; is converted into a plus sign &amp;quot;{@code +}&amp;quot;. &lt;li&gt;All other characters are unsafe and are first converted into one or more bytes using some encoding scheme. Then each byte is represented by the 3-character string &amp;quot;&lt;i&gt;{@code %xy}&lt;i&gt;&amp;quot;, where &lt;i&gt;xy&lt;i&gt; is the two-digit hexadecimal representation of the byte. The recommended encoding scheme to use is UTF-8. However, for compatibility reasons, if an encoding is not specified, then the default encoding of the platform is used. &lt;ul&gt; &lt;p&gt; For example using UTF-8 as the encoding scheme the string &amp;quot;The string &amp;252;@foo-bar&amp;quot; would get converted to &amp;quot;The+string+%C3%BC%40foo-bar&amp;quot; because in UTF-8 the character &amp;252; is encoded as two bytes C3 (hex) and BC (hex), and the character @ is encoded as one byte 40 (hex)." />
-      <item value="silently discard the offending packet and continue: unknownmalicious entities on nets should not make runtime throw security exception and disrupt the applet by sending random datagram packets." />
-      <item value="receive" />
-      <item value="Can listen &amp; send on the same socket:" />
-      <item value="Auto-assign port number:" />
-      <item value="exec" />
-      <item value="private static native void initIDs();" />
-      <item value="Multicast Socket" />
-      <item value="打印出当前数据报包数据" />
-      <item value="address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2455" />
-        <entry key="ENGLISH" value="2456" />
+        <entry key="CHINESE" value="2484" />
+        <entry key="ENGLISH" value="2485" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
