@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="builder Field Sql" />
+      <item value="SQL FROM" />
+      <item value="is Changed Service Info" />
+      <item value="configuration" />
+      <item value="current" />
+      <item value="Registering" />
+      <item value="End" />
+      <item value="Configuration Action" />
       <item value="templateserver" />
       <item value="legend Data List" />
       <item value="shutdown" />
@@ -46,19 +54,11 @@
       <item value="INSTANCE" />
       <item value="Diagram Atomic Part" />
       <item value="build Sql Temp" />
-      <item value="Diagram Pie Store Part" />
-      <item value="print If Info Enabled" />
-      <item value="process Service Info" />
-      <item value="series Group Data Map" />
-      <item value="field Name" />
-      <item value="table Name" />
-      <item value="config Title" />
-      <item value="Chart Multiple Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2705" />
-        <entry key="ENGLISH" value="2706" />
+        <entry key="CHINESE" value="2715" />
+        <entry key="ENGLISH" value="2716" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
