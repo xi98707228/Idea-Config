@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Executor Diagram Compute Result Vo" />
+      <item value="legend Data List" />
+      <item value="diagram Store Parts" />
+      <item value="execute Chart Convert Data" />
+      <item value="执行生成图表将前端选择的自定义配置信息" />
+      <item value="转换并且查询出来返回到前端渲染页面" />
+      <item value="接收前端配置的自定义配置" />
+      <item value="Execute Chart Convert Data Vo" />
+      <item value="Request Body" />
+      <item value="convert Group Data Atomic List" />
+      <item value="存储图表组件列表信息" />
       <item value="inside Collection List" />
       <item value="diagram Atomic Part" />
       <item value="outside Collection List" />
@@ -17,11 +28,9 @@
       <item value="End" />
       <item value="Configuration Action" />
       <item value="templateserver" />
-      <item value="legend Data List" />
       <item value="shutdown" />
       <item value="executor Resolver" />
       <item value="builder" />
-      <item value="Executor Diagram Compute Result Vo" />
       <item value="horizontal Axis Data List" />
       <item value="horizontal Axis List" />
       <item value="build Sql" />
@@ -31,7 +40,6 @@
       <item value="result Series Group Data" />
       <item value="String" />
       <item value="sql" />
-      <item value="存储图表组件列表信息" />
       <item value="BAR TYPE" />
       <item value="thread safe or volatile variable and synchronized block(variable)" />
       <item value="chart Type" />
@@ -46,19 +54,11 @@
       <item value="else" />
       <item value="axis Part" />
       <item value="temp Build Sql" />
-      <item value="get Horizontal Axis List" />
-      <item value="组装X轴条件信息" />
-      <item value="Diagram Horizontal Axis Part" />
-      <item value="value" />
-      <item value="Diagram Store Part" />
-      <item value="All Args Constructor" />
-      <item value="data" />
-      <item value="INSTANCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2720" />
-        <entry key="ENGLISH" value="2721" />
+        <entry key="CHINESE" value="2736" />
+        <entry key="ENGLISH" value="2737" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
