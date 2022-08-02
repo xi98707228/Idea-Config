@@ -4,8 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="mouse Pressed" />
+      <item value="notify Observers" />
+      <item value="set Changed" />
       <item value="Observer" />
+      <item value="Observable" />
+      <item value="Mouse Motion Listener" />
+      <item value="Tool Tip Manager" />
+      <item value="An abstract adapter class for receiving mouse events. The methods in this class are empty. This class exists as convenience for creating listener objects. &lt;P&gt; Mouse events let you track when a mouse is pressed, released, clicked, moved, dragged, when it enters a component, when it exits and when a mouse wheel is moved. &lt;P&gt; Extend this class to create a {@code MouseEvent} (including drag and motion events) orand {@code MouseWheelEvent} listener and override the methods for the events of interest. (If you implement the {@code MouseListener}, {@code MouseMotionListener} interface, you have to define all of the methods in it. This abstract class defines null methods for them all, so you can only have to define methods for events you care about.) &lt;P&gt; Create a listener object using the extended class and then register it with a component using the component's {@code addMouseListener} {@code addMouseMotionListener}, {@code addMouseWheelListener} methods. The relevant method in the listener object is invoked and the {@code MouseEvent} or {@code MouseWheelEvent} is passed to it in following cases: &lt;ul&gt; &lt;li&gt;when a mouse button is pressed, released, or clicked (pressed and released) &lt;li&gt;when the mouse cursor enters or exits the component &lt;li&gt;when the mouse wheel rotated, or mouse moved or dragged &lt;ul&gt;" />
+      <item value="mouse Pressed" />
       <item value="You must inherit a new type of Observable:" />
       <item value="Otherwise it won't propagate changes:" />
       <item value="notifier" />
@@ -13,11 +19,9 @@
       <item value="a temporary array buffer, used as a snapshot of the state of current Observers." />
       <item value="arr Local" />
       <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and the &lt;code&gt;arg&lt;code&gt; argument." />
-      <item value="notify Observers" />
       <item value="Adds an observer to the set of observers for this object, provided that it is not the same as some observer already in the set. The order in which notifications will be delivered to multiple observers is not specified. See the class comment." />
       <item value="This class represents an observable object, or &quot;data&quot; in the model-view paradigm. It can be subclassed to represent an object that the application wants to have observed. &lt;p&gt; An observable object can have one or more observers. An observer may be any object that implements interface &lt;tt&gt;Observer&lt;tt&gt;. After an observable instance changes, an application calling the &lt;code&gt;Observable&lt;code&gt;'s &lt;code&gt;notifyObservers&lt;code&gt; method causes all of its observers to be notified of the change by a call to their &lt;code&gt;update&lt;code&gt; method. &lt;p&gt; The order in which notifications will be delivered is unspecified. The default implementation provided in the Observable class will notify Observers in the order in which they registered interest, but subclasses may change this order, use no guaranteed order, deliver notifications on separate threads, or may guarantee that their subclass follows this order, as they choose. &lt;p&gt; Note that this notification mechanism has nothing to do with threads and is completely separate from the &lt;tt&gt;wait&lt;tt&gt; and &lt;tt&gt;notify&lt;tt&gt; mechanism of class &lt;tt&gt;Object&lt;tt&gt;. &lt;p&gt; When an observable object is newly created, its set of observers is empty. Two observers are considered the same if and only if the &lt;tt&gt;equals&lt;tt&gt; method returns true for them." />
       <item value="Chris Warth" />
-      <item value="Observable" />
       <item value="Can't do this: compile-time error." />
       <item value="Can't do this: compile-time error. Singleton s3 = (Singleton)s2.clone();" />
       <item value="String resolvers to apply e.g. to annotation attribute values." />
@@ -50,15 +54,11 @@
       <item value="File Send Client" />
       <item value="Datagram Channel" />
       <item value="Utility class for HTML form encoding. This class contains static methods for converting a String to the &lt;CODE&gt;applicationx-www-form-urlencoded&lt;CODE&gt; MIME format. For more information about HTML form encoding, consult the HTML &lt;A HREF=&quot;http:www.w3.orgTRhtml4&quot;&gt;specification&lt;A&gt;. &lt;p&gt; When encoding a String, the following rules apply: &lt;ul&gt; &lt;li&gt;The alphanumeric characters &amp;quot;{@code a}&amp;quot; through &amp;quot;{@code z}&amp;quot;, &amp;quot;{@code A}&amp;quot; through &amp;quot;{@code Z}&amp;quot; and &amp;quot;{@code 0}&amp;quot; through &amp;quot;{@code 9}&amp;quot; remain the same. &lt;li&gt;The special characters &amp;quot;{@code .}&amp;quot;, &amp;quot;{@code -}&amp;quot;, &amp;quot;{@code }&amp;quot;, and &amp;quot;{@code _}&amp;quot; remain the same. &lt;li&gt;The space character &amp;quot; &amp;nbsp; &amp;quot; is converted into a plus sign &amp;quot;{@code +}&amp;quot;. &lt;li&gt;All other characters are unsafe and are first converted into one or more bytes using some encoding scheme. Then each byte is represented by the 3-character string &amp;quot;&lt;i&gt;{@code %xy}&lt;i&gt;&amp;quot;, where &lt;i&gt;xy&lt;i&gt; is the two-digit hexadecimal representation of the byte. The recommended encoding scheme to use is UTF-8. However, for compatibility reasons, if an encoding is not specified, then the default encoding of the platform is used. &lt;ul&gt; &lt;p&gt; For example using UTF-8 as the encoding scheme the string &amp;quot;The string &amp;252;@foo-bar&amp;quot; would get converted to &amp;quot;The+string+%C3%BC%40foo-bar&amp;quot; because in UTF-8 the character &amp;252; is encoded as two bytes C3 (hex) and BC (hex), and the character @ is encoded as one byte 40 (hex)." />
-      <item value="silently discard the offending packet and continue: unknownmalicious entities on nets should not make runtime throw security exception and disrupt the applet by sending random datagram packets." />
-      <item value="receive" />
-      <item value="Can listen &amp; send on the same socket:" />
-      <item value="Auto-assign port number:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2459" />
-        <entry key="ENGLISH" value="2460" />
+        <entry key="CHINESE" value="2471" />
+        <entry key="ENGLISH" value="2472" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
