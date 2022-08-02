@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="字节数据传递过去" />
       <item value="operate Data Record" />
       <item value="success" />
       <item value="Chart Data Record" />
@@ -53,11 +54,10 @@
       <item value="execute Chart Convert Data" />
       <item value="执行生成图表将前端选择的自定义配置信息" />
       <item value="转换并且查询出来返回到前端渲染页面" />
-      <item value="接收前端配置的自定义配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2802" />
+        <entry key="CHINESE" value="2803" />
         <entry key="ENGLISH" value="2803" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
