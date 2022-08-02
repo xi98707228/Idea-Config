@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="inside Collection List" />
+      <item value="diagram Atomic Part" />
+      <item value="outside Collection List" />
+      <item value="condition Type" />
       <item value="builder Field Sql" />
       <item value="SQL FROM" />
       <item value="is Changed Service Info" />
@@ -41,10 +45,8 @@
       <item value="append" />
       <item value="else" />
       <item value="axis Part" />
-      <item value="condition Type" />
       <item value="temp Build Sql" />
       <item value="get Horizontal Axis List" />
-      <item value="diagram Atomic Part" />
       <item value="组装X轴条件信息" />
       <item value="Diagram Horizontal Axis Part" />
       <item value="value" />
@@ -52,13 +54,11 @@
       <item value="All Args Constructor" />
       <item value="data" />
       <item value="INSTANCE" />
-      <item value="Diagram Atomic Part" />
-      <item value="build Sql Temp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2715" />
-        <entry key="ENGLISH" value="2716" />
+        <entry key="CHINESE" value="2720" />
+        <entry key="ENGLISH" value="2721" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
