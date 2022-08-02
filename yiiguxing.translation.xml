@@ -4,67 +4,69 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Availability Change Event" />
-      <item value="An {@link ApplicationEvent} that carries an arbitrary payload." />
-      <item value="on Application Event" />
-      <item value="Payload Application Event" />
-      <item value="Clock" />
-      <item value="&lt;p&gt; The root class from which all event state objects shall be derived. &lt;p&gt; All Events are constructed with a reference to the object, the &quot;source&quot;, that is logically deemed to be the object upon which the Event in question initially occurred upon." />
-      <item value="Interface to be implemented by application event listeners. &lt;p&gt;Based on the standard {@code java.util.EventListener} interface for the Observer design pattern. &lt;p&gt;As of Spring 3.0, an {@code ApplicationListener} can generically declare the event type that it is interested in. When registered with a Spring {@code ApplicationContext}, events will be filtered accordingly, with the listener getting invoked for matching event objects only." />
-      <item value="A tagging interface that all event listener interfaces must extend." />
-      <item value="p&gt;Based on the standard {@code java.util.EventListener} interface for the Observer design pattern." />
-      <item value="Mockito Annotations" />
-      <item value="Inject Mocks" />
-      <item value="Article Observer" />
-      <item value="Synthetic Repository" />
-      <item value="David Dixon-Peugh" />
-      <item value="Implement this interface if you're interested in changes to a ClassGen object and register yourself with addObserver()." />
-      <item value="Class Observer" />
-      <item value="notify Observers" />
-      <item value="set Changed" />
-      <item value="Observer" />
-      <item value="Observable" />
-      <item value="Mouse Motion Listener" />
-      <item value="Tool Tip Manager" />
-      <item value="An abstract adapter class for receiving mouse events. The methods in this class are empty. This class exists as convenience for creating listener objects. &lt;P&gt; Mouse events let you track when a mouse is pressed, released, clicked, moved, dragged, when it enters a component, when it exits and when a mouse wheel is moved. &lt;P&gt; Extend this class to create a {@code MouseEvent} (including drag and motion events) orand {@code MouseWheelEvent} listener and override the methods for the events of interest. (If you implement the {@code MouseListener}, {@code MouseMotionListener} interface, you have to define all of the methods in it. This abstract class defines null methods for them all, so you can only have to define methods for events you care about.) &lt;P&gt; Create a listener object using the extended class and then register it with a component using the component's {@code addMouseListener} {@code addMouseMotionListener}, {@code addMouseWheelListener} methods. The relevant method in the listener object is invoked and the {@code MouseEvent} or {@code MouseWheelEvent} is passed to it in following cases: &lt;ul&gt; &lt;li&gt;when a mouse button is pressed, released, or clicked (pressed and released) &lt;li&gt;when the mouse cursor enters or exits the component &lt;li&gt;when the mouse wheel rotated, or mouse moved or dragged &lt;ul&gt;" />
-      <item value="mouse Pressed" />
-      <item value="You must inherit a new type of Observable:" />
-      <item value="Otherwise it won't propagate changes:" />
-      <item value="notifier" />
-      <item value="@param o the observable object. @param arg an argument passed to the &lt;code&gt;notifyObservers&lt;code&gt; method." />
-      <item value="a temporary array buffer, used as a snapshot of the state of current Observers." />
-      <item value="arr Local" />
-      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and the &lt;code&gt;arg&lt;code&gt; argument." />
-      <item value="Adds an observer to the set of observers for this object, provided that it is not the same as some observer already in the set. The order in which notifications will be delivered to multiple observers is not specified. See the class comment." />
-      <item value="This class represents an observable object, or &quot;data&quot; in the model-view paradigm. It can be subclassed to represent an object that the application wants to have observed. &lt;p&gt; An observable object can have one or more observers. An observer may be any object that implements interface &lt;tt&gt;Observer&lt;tt&gt;. After an observable instance changes, an application calling the &lt;code&gt;Observable&lt;code&gt;'s &lt;code&gt;notifyObservers&lt;code&gt; method causes all of its observers to be notified of the change by a call to their &lt;code&gt;update&lt;code&gt; method. &lt;p&gt; The order in which notifications will be delivered is unspecified. The default implementation provided in the Observable class will notify Observers in the order in which they registered interest, but subclasses may change this order, use no guaranteed order, deliver notifications on separate threads, or may guarantee that their subclass follows this order, as they choose. &lt;p&gt; Note that this notification mechanism has nothing to do with threads and is completely separate from the &lt;tt&gt;wait&lt;tt&gt; and &lt;tt&gt;notify&lt;tt&gt; mechanism of class &lt;tt&gt;Object&lt;tt&gt;. &lt;p&gt; When an observable object is newly created, its set of observers is empty. Two observers are considered the same if and only if the &lt;tt&gt;equals&lt;tt&gt; method returns true for them." />
-      <item value="Chris Warth" />
-      <item value="Can't do this: compile-time error." />
-      <item value="Can't do this: compile-time error. Singleton s3 = (Singleton)s2.clone();" />
-      <item value="String resolvers to apply e.g. to annotation attribute values." />
-      <item value="Bean Post Processor Cache Aware List" />
-      <item value="embedded Value Resolvers" />
-      <item value="Cannot replace existing scopes 'singleton' and 'prototype'" />
-      <item value="Scope identifier for the standard prototype scope: {@value}. &lt;p&gt;Custom scopes can be added via {@code registerScope}. @see registerScope" />
-      <item value="&lt;p&gt;In this context, &lt;em&gt;scope&lt;em&gt; means the lifecycle of an instance, such as {@code singleton}, {@code prototype}, and so forth. Scopes provided out of the box in Spring may be referred to using the {@code SCOPE_} constants available in the {@link ConfigurableBeanFactory} and {@code WebApplicationContext} interfaces." />
-      <item value="Datagram" />
-      <item value="参见本章数据报小节末尾的叙述" />
-      <item value="part 15_internet" />
-      <item value="read Object" />
-      <item value="Stream Corrupted Exception" />
-      <item value="default Write Object" />
-      <item value="internal Write Entries" />
-      <item value="Reads all the bytes from a file. The method ensures that the file is closed when all bytes have been read or an IO error, or other runtime exception, is thrown. &lt;p&gt; Note that this method is intended for simple cases where it is convenient to read all bytes into a byte array. It is not intended for reading in large files." />
+      <item value="Logger Action" />
+      <item value="fallback" />
+      <item value="safe" />
+      <item value="as" />
+      <item value="configuration" />
+      <item value="current" />
+      <item value="Registering" />
+      <item value="Joran Configurator" />
+      <item value="Configuration Action" />
+      <item value="Appender Ref Action" />
+      <item value="Dynamic Routing Data Source" />
+      <item value="destroy" />
+      <item value="store Chart Json" />
+      <item value="create User Nick" />
+      <item value="chart Data Record" />
+      <item value="AUTOCONFIG FILE" />
+      <item value="chart Type" />
+      <item value="add If Not Null" />
+      <item value="bootstrap Registry Initializers" />
+      <item value="deduce From Classpath" />
+      <item value="WEBFLUX INDICATOR CLASS" />
+      <item value="NESTED CLASS SEPARATOR" />
+      <item value="is Present" />
+      <item value="primary Sources" />
+      <item value="Generic Servlet" />
+      <item value="Anonymous Authentication Filter" />
+      <item value="Version" />
+      <item value="success" />
+      <item value="real time refresh" />
+      <item value="remove all HashSet KeyGroups for trigger Initialization All HashSet" />
+      <item value="upload Chart Image" />
+      <item value="Multipart File" />
+      <item value="Date" />
+      <item value="set" />
+      <item value="Simple Date Format" />
+      <item value="THREAD LOCAL DATE" />
+      <item value="file" />
+      <item value="String" />
+      <item value="relation Row Id" />
+      <item value="temp String Param" />
+      <item value="remove" />
+      <item value="wrapper Path" />
+      <item value="Chart Image Data Mapper" />
+      <item value="ret Bool" />
+      <item value="Sql Helper" />
+      <item value="files" />
+      <item value="intercept" />
+      <item value="MP OPTLOCK VERSION ORIGINAL" />
+      <item value="order By Desc" />
+      <item value="chart Image Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2487" />
-        <entry key="ENGLISH" value="2488" />
+        <entry key="CHINESE" value="2555" />
+        <entry key="ENGLISH" value="2556" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
+        <entry key="IRISH" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="2" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="2" />
@@ -80,19 +82,20 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
-        <entry key="WELSH" value="3" />
+        <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
+        <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659438838738" />
+    <option name="lastTrimTime" value="1659428594581" />
   </component>
 </application>
