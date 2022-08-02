@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Singleton Lan Han" />
+      <item value="get Instance" />
+      <item value="Head of CLH queue" />
+      <item value="Wait nodes" />
+      <item value="Stamped Lock" />
+      <item value="Transaction" />
       <item value="plan Array Method" />
       <item value="read Object" />
       <item value="Stream Corrupted Exception" />
@@ -48,17 +54,11 @@
       <item value="INPORT" />
       <item value="to Datagram" />
       <item value="Java" />
-      <item value="get Bytes" />
-      <item value="Deprecated in Java 1.1, but it works:" />
-      <item value="String" />
-      <item value="The correct Java 1.1 approach, but it's Broken (it truncates the String):" />
-      <item value="hibyte" />
-      <item value="The Java 1.1 approach:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2437" />
-        <entry key="ENGLISH" value="2438" />
+        <entry key="CHINESE" value="2443" />
+        <entry key="ENGLISH" value="2443" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -87,6 +87,7 @@
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
+        <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
         <entry key="VIETNAMESE" value="4" />
       </map>
