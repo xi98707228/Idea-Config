@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="mouse Pressed" />
+      <item value="Observer" />
+      <item value="You must inherit a new type of Observable:" />
+      <item value="Otherwise it won't propagate changes:" />
+      <item value="notifier" />
+      <item value="@param o the observable object. @param arg an argument passed to the &lt;code&gt;notifyObservers&lt;code&gt; method." />
+      <item value="a temporary array buffer, used as a snapshot of the state of current Observers." />
+      <item value="arr Local" />
+      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and the &lt;code&gt;arg&lt;code&gt; argument." />
+      <item value="notify Observers" />
+      <item value="Adds an observer to the set of observers for this object, provided that it is not the same as some observer already in the set. The order in which notifications will be delivered to multiple observers is not specified. See the class comment." />
+      <item value="This class represents an observable object, or &quot;data&quot; in the model-view paradigm. It can be subclassed to represent an object that the application wants to have observed. &lt;p&gt; An observable object can have one or more observers. An observer may be any object that implements interface &lt;tt&gt;Observer&lt;tt&gt;. After an observable instance changes, an application calling the &lt;code&gt;Observable&lt;code&gt;'s &lt;code&gt;notifyObservers&lt;code&gt; method causes all of its observers to be notified of the change by a call to their &lt;code&gt;update&lt;code&gt; method. &lt;p&gt; The order in which notifications will be delivered is unspecified. The default implementation provided in the Observable class will notify Observers in the order in which they registered interest, but subclasses may change this order, use no guaranteed order, deliver notifications on separate threads, or may guarantee that their subclass follows this order, as they choose. &lt;p&gt; Note that this notification mechanism has nothing to do with threads and is completely separate from the &lt;tt&gt;wait&lt;tt&gt; and &lt;tt&gt;notify&lt;tt&gt; mechanism of class &lt;tt&gt;Object&lt;tt&gt;. &lt;p&gt; When an observable object is newly created, its set of observers is empty. Two observers are considered the same if and only if the &lt;tt&gt;equals&lt;tt&gt; method returns true for them." />
+      <item value="Chris Warth" />
+      <item value="Observable" />
       <item value="Can't do this: compile-time error." />
       <item value="Can't do this: compile-time error. Singleton s3 = (Singleton)s2.clone();" />
       <item value="String resolvers to apply e.g. to annotation attribute values." />
@@ -40,31 +54,17 @@
       <item value="receive" />
       <item value="Can listen &amp; send on the same socket:" />
       <item value="Auto-assign port number:" />
-      <item value="exec" />
-      <item value="private static native void initIDs();" />
-      <item value="Multicast Socket" />
-      <item value="打印出当前数据报包数据" />
-      <item value="address" />
-      <item value="port" />
-      <item value="Block until it echoes back:" />
-      <item value="Chatter Server" />
-      <item value="Auto-assign port number" />
-      <item value="dp" />
-      <item value="Extract the address and port from the received datagram to find out where to send it back:" />
-      <item value="Two Stacks Plain Datagram Socket Impl" />
-      <item value="Dual Stack Plain Datagram Socket Impl" />
-      <item value="Block until a datagram appears:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2447" />
-        <entry key="ENGLISH" value="2448" />
+        <entry key="CHINESE" value="2459" />
+        <entry key="ENGLISH" value="2460" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="2" />
@@ -80,7 +80,7 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
-        <entry key="WELSH" value="2" />
+        <entry key="WELSH" value="3" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
