@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="chart Type" />
+      <item value="String" />
+      <item value="describe Message" />
+      <item value="存储构建图表的JSON数据" />
+      <item value="store Chart Json" />
       <item value="Executor Diagram Compute Result Vo" />
       <item value="legend Data List" />
       <item value="diagram Store Parts" />
@@ -38,11 +43,9 @@
       <item value="execute Sql" />
       <item value="temp Diagram Store Part" />
       <item value="result Series Group Data" />
-      <item value="String" />
       <item value="sql" />
       <item value="BAR TYPE" />
       <item value="thread safe or volatile variable and synchronized block(variable)" />
-      <item value="chart Type" />
       <item value="Array List" />
       <item value="Merge Result Type" />
       <item value="merge Result Type" />
@@ -51,14 +54,11 @@
       <item value="builder Condition Sql" />
       <item value="horizontal Axis Part Iterator" />
       <item value="append" />
-      <item value="else" />
-      <item value="axis Part" />
-      <item value="temp Build Sql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2736" />
-        <entry key="ENGLISH" value="2737" />
+        <entry key="CHINESE" value="2743" />
+        <entry key="ENGLISH" value="2744" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
