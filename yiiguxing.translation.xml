@@ -4,9 +4,47 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="operate Data Record" />
+      <item value="success" />
+      <item value="Chart Data Record" />
       <item value="chart Type" />
-      <item value="String" />
+      <item value="chart Data Record Image Vo" />
+      <item value="filter Chart Data List" />
+      <item value="chart Data Record" />
+      <item value="get Row Id" />
+      <item value="chart Record Key" />
+      <item value="private" />
+      <item value="Json Format" />
+      <item value="提交的图表记录" />
+      <item value="操作医生称的数据记录" />
+      <item value="return" />
+      <item value="record" />
+      <item value="file Name" />
+      <item value="operate" />
+      <item value="新获取到连接对象" />
+      <item value="init Connection" />
+      <item value="load If Present" />
+      <item value="Annotation Based Persistent Property" />
+      <item value="driver Class Name" />
+      <item value="master" />
+      <item value="datasource" />
+      <item value="dynamic" />
+      <item value="database Url" />
+      <item value="database Username" />
+      <item value="database Password" />
+      <item value="直接在nacos中进行修改" />
+      <item value="get Chart Type" />
+      <item value="data" />
+      <item value="get Data Record" />
+      <item value="get Data Table" />
+      <item value="Chart Data Record Search Filter" />
+      <item value="Table Data Info" />
       <item value="describe Message" />
+      <item value="987072248" />
+      <item value="author" />
+      <item value="08" />
+      <item value="String" />
+      <item value="row Id" />
       <item value="存储构建图表的JSON数据" />
       <item value="store Chart Json" />
       <item value="Executor Diagram Compute Result Vo" />
@@ -16,49 +54,11 @@
       <item value="执行生成图表将前端选择的自定义配置信息" />
       <item value="转换并且查询出来返回到前端渲染页面" />
       <item value="接收前端配置的自定义配置" />
-      <item value="Execute Chart Convert Data Vo" />
-      <item value="Request Body" />
-      <item value="convert Group Data Atomic List" />
-      <item value="存储图表组件列表信息" />
-      <item value="inside Collection List" />
-      <item value="diagram Atomic Part" />
-      <item value="outside Collection List" />
-      <item value="condition Type" />
-      <item value="builder Field Sql" />
-      <item value="SQL FROM" />
-      <item value="is Changed Service Info" />
-      <item value="configuration" />
-      <item value="current" />
-      <item value="Registering" />
-      <item value="End" />
-      <item value="Configuration Action" />
-      <item value="templateserver" />
-      <item value="shutdown" />
-      <item value="executor Resolver" />
-      <item value="builder" />
-      <item value="horizontal Axis Data List" />
-      <item value="horizontal Axis List" />
-      <item value="build Sql" />
-      <item value="Diagram Bar Store" />
-      <item value="execute Sql" />
-      <item value="temp Diagram Store Part" />
-      <item value="result Series Group Data" />
-      <item value="sql" />
-      <item value="BAR TYPE" />
-      <item value="thread safe or volatile variable and synchronized block(variable)" />
-      <item value="Array List" />
-      <item value="Merge Result Type" />
-      <item value="merge Result Type" />
-      <item value="Chart Type" />
-      <item value="has Next" />
-      <item value="builder Condition Sql" />
-      <item value="horizontal Axis Part Iterator" />
-      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2743" />
-        <entry key="ENGLISH" value="2744" />
+        <entry key="CHINESE" value="2802" />
+        <entry key="ENGLISH" value="2803" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
