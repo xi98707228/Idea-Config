@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String resolvers to apply e.g. to annotation attribute values." />
+      <item value="Bean Post Processor Cache Aware List" />
+      <item value="embedded Value Resolvers" />
+      <item value="Cannot replace existing scopes 'singleton' and 'prototype'" />
+      <item value="Scope identifier for the standard prototype scope: {@value}. &lt;p&gt;Custom scopes can be added via {@code registerScope}. @see registerScope" />
+      <item value="&lt;p&gt;In this context, &lt;em&gt;scope&lt;em&gt; means the lifecycle of an instance, such as {@code singleton}, {@code prototype}, and so forth. Scopes provided out of the box in Spring may be referred to using the {@code SCOPE_} constants available in the {@link ConfigurableBeanFactory} and {@code WebApplicationContext} interfaces." />
       <item value="Datagram" />
       <item value="参见本章数据报小节末尾的叙述" />
       <item value="part 15_internet" />
@@ -48,17 +54,11 @@
       <item value="Block until a datagram appears:" />
       <item value="If the security check succeeds, or the datagram is connected then receive the packet" />
       <item value="INPORT" />
-      <item value="to Datagram" />
-      <item value="Java" />
-      <item value="get Bytes" />
-      <item value="Deprecated in Java 1.1, but it works:" />
-      <item value="String" />
-      <item value="The correct Java 1.1 approach, but it's Broken (it truncates the String):" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2439" />
-        <entry key="ENGLISH" value="2440" />
+        <entry key="CHINESE" value="2445" />
+        <entry key="ENGLISH" value="2446" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="ICELANDIC" value="1" />
