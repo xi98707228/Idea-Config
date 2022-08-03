@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Initializing" />
+      <item value="Quartz Scheduler" />
+      <item value="find" />
+      <item value="work Order List Mapper" />
+      <item value="select List" />
+      <item value="MAX VALUE" />
       <item value="================ 工单信息" />
       <item value="param Object" />
       <item value="work Order List Service" />
@@ -48,17 +54,11 @@
       <item value="Date" />
       <item value="set" />
       <item value="Simple Date Format" />
-      <item value="THREAD LOCAL DATE" />
-      <item value="file" />
-      <item value="String" />
-      <item value="relation Row Id" />
-      <item value="temp String Param" />
-      <item value="remove" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2564" />
-        <entry key="ENGLISH" value="2564" />
+        <entry key="CHINESE" value="2568" />
+        <entry key="ENGLISH" value="2569" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
