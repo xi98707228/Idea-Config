@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Https URL Connection" />
+      <item value="firewall" />
+      <item value="Sign Login Controller" />
+      <item value="program" />
+      <item value="description" />
+      <item value="author" />
+      <item value="set Service Class" />
+      <item value="factory" />
+      <item value="set Username" />
+      <item value="username" />
+      <item value="URL" />
+      <item value="Query Processor Mapping String Pool" />
+      <item value="Abstract Diagram Builder" />
+      <item value="diagram Atomic Part" />
+      <item value="static" />
+      <item value="构建执行Sql语句列表" />
       <item value="flag" />
       <item value="args" />
       <item value="main" />
@@ -38,27 +54,11 @@
       <item value="No Such Element Exception" />
       <item value="Concurrent Modification Exception" />
       <item value="Template Server Application" />
-      <item value="endpoint" />
-      <item value="get Instance" />
-      <item value="Simple Diagram Resolver Builder" />
-      <item value="destroy" />
-      <item value="Ueditor File Controller" />
-      <item value="987072248" />
-      <item value="Initializing" />
-      <item value="Quartz Scheduler" />
-      <item value="find" />
-      <item value="work Order List Mapper" />
-      <item value="select List" />
-      <item value="MAX VALUE" />
-      <item value="================ 工单信息" />
-      <item value="param Object" />
-      <item value="work Order List Service" />
-      <item value="chart Image Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2612" />
-        <entry key="ENGLISH" value="2613" />
+        <entry key="CHINESE" value="2628" />
+        <entry key="ENGLISH" value="2629" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
