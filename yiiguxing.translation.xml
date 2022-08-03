@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Observable" />
+      <item value="只是下边这个if语句闲置到了当前点击" />
+      <item value="其实所有的格子都会收到更新的消息" />
+      <item value="获取当前点位附近所有相邻格子的位置点位" />
+      <item value="clicked" />
+      <item value="构建存放观察者的可观察者容器" />
+      <item value="接口的类的对象们" />
+      <item value="Observer" />
+      <item value="You must inherit a new type of Observable:" />
+      <item value="b" />
+      <item value="arr Local" />
+      <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
+      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and &lt;code&gt;null&lt;code&gt;. In other words, this method is equivalent to: &lt;blockquote&gt;&lt;tt&gt; notifyObservers(null)&lt;tt&gt;&lt;blockquote&gt;" />
       <item value="Logger Action" />
       <item value="fallback" />
       <item value="safe" />
@@ -41,24 +54,11 @@
       <item value="Simple Date Format" />
       <item value="THREAD LOCAL DATE" />
       <item value="file" />
-      <item value="String" />
-      <item value="relation Row Id" />
-      <item value="temp String Param" />
-      <item value="remove" />
-      <item value="wrapper Path" />
-      <item value="Chart Image Data Mapper" />
-      <item value="ret Bool" />
-      <item value="Sql Helper" />
-      <item value="files" />
-      <item value="intercept" />
-      <item value="MP OPTLOCK VERSION ORIGINAL" />
-      <item value="order By Desc" />
-      <item value="chart Image Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2555" />
-        <entry key="ENGLISH" value="2556" />
+        <entry key="CHINESE" value="2569" />
+        <entry key="ENGLISH" value="2570" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
