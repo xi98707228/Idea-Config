@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="987072248" />
       <item value="Ueditor File Controller" />
+      <item value="987072248" />
       <item value="Initializing" />
       <item value="Quartz Scheduler" />
       <item value="find" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2572" />
-        <entry key="ENGLISH" value="2571" />
+        <entry key="ENGLISH" value="2572" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
