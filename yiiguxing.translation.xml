@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Monitor Utils" />
+      <item value="Monitor Type" />
+      <item value="UNMONITORED" />
+      <item value="UNMONITOR" />
+      <item value="MONITOR NO" />
+      <item value="sort Order" />
+      <item value="create Time" />
+      <item value="remainpoint" />
+      <item value="Monitor Entries" />
+      <item value="Diagram Data Resolve Executor" />
+      <item value="Abstract Diagram Resolve Executor" />
+      <item value="diagram Atomic Parts" />
+      <item value="Abstract Diagram Builder" />
       <item value="Https URL Connection" />
       <item value="firewall" />
       <item value="Sign Login Controller" />
@@ -16,7 +29,6 @@
       <item value="username" />
       <item value="URL" />
       <item value="Query Processor Mapping String Pool" />
-      <item value="Abstract Diagram Builder" />
       <item value="diagram Atomic Part" />
       <item value="static" />
       <item value="构建执行Sql语句列表" />
@@ -42,23 +54,11 @@
       <item value="URL：" />
       <item value="Http URL Connection" />
       <item value="get Response Code" />
-      <item value="status Code" />
-      <item value="formation" />
-      <item value="Telnet Util" />
-      <item value="cycle Monitor Equipment" />
-      <item value="Instruction List Observer" />
-      <item value="condition Config Part Iterator" />
-      <item value="builder Condition Sql" />
-      <item value="check For Comodification" />
-      <item value="size" />
-      <item value="No Such Element Exception" />
-      <item value="Concurrent Modification Exception" />
-      <item value="Template Server Application" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2628" />
-        <entry key="ENGLISH" value="2629" />
+        <entry key="CHINESE" value="2643" />
+        <entry key="ENGLISH" value="2644" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
