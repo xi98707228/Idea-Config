@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="sum Value" />
-      <item value="Glass" />
-      <item value="Paper" />
-      <item value="Aluminum" />
-      <item value="Trash" />
-      <item value="Box Observable" />
-      <item value="Observable" />
-      <item value="Otherwise" />
-      <item value="set Changed" />
-      <item value="notify Observers" />
-      <item value="trigger Data" />
-      <item value="Article" />
-      <item value="Override" />
-      <item value="get Trigger Flag" />
-      <item value="模拟数据库中所有的文章" />
-      <item value="Subscribe User" />
-      <item value="多个线程去使用当前事件管理者" />
-      <item value="一个线程在轮询通知观察者对象去执行更新方法" />
-      <item value="这样就会出现线程安全问题" />
-      <item value="event List" />
-      <item value="传递当前管理观察者类型参数" />
-      <item value="trigger Event" />
-      <item value="remove Trigger Flag" />
-      <item value="set Change Trigger Flag" />
-      <item value="Publish Event" />
-      <item value="2022_08_03" />
-      <item value="50__星期三" />
-      <item value="qq" />
-      <item value="987072248" />
-      <item value="Publish Event Manager" />
-      <item value="没有参数" />
-      <item value="trigger Flag" />
-      <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
-      <item value="unregistered" />
-      <item value="notified" />
-      <item value="obs" />
-      <item value="event" />
-      <item value="methods" />
-      <item value="expected" />
-      <item value="expect" />
-      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
-      <item value="clear Changed" />
-      <item value="a temporary array buffer, used as a snapshot of the state of current Observers." />
-      <item value="Atomically sets the value to the given updated value if the current value {@code ==} the expected value. &lt;p&gt;&lt;a href=&quot;package-summary.htmlweakCompareAndSet&quot;&gt;May fail spuriously and does not provide ordering guarantees&lt;a&gt;, so is only rarely an appropriate alternative to {@code compareAndSet}." />
-      <item value="weak Compare And Set" />
-      <item value="delete Event" />
-      <item value="follow User Ids" />
-      <item value="Wx Event" />
-      <item value="微信事件推送消息具体方法" />
-      <item value="都是需要被观察的对象" />
+      <item value="Ueditor File Controller" />
+      <item value="Initializing" />
+      <item value="Quartz Scheduler" />
+      <item value="find" />
+      <item value="work Order List Mapper" />
+      <item value="select List" />
+      <item value="MAX VALUE" />
+      <item value="================ 工单信息" />
+      <item value="param Object" />
+      <item value="work Order List Service" />
+      <item value="chart Image Data" />
+      <item value="init Namespace For Naming" />
+      <item value="add Interceptors" />
+      <item value="Sentinel" />
+      <item value="delete" />
+      <item value="exist" />
+      <item value="Logger Action" />
+      <item value="fallback" />
+      <item value="safe" />
+      <item value="as" />
+      <item value="configuration" />
+      <item value="current" />
+      <item value="Registering" />
+      <item value="Joran Configurator" />
+      <item value="Configuration Action" />
+      <item value="Appender Ref Action" />
+      <item value="Dynamic Routing Data Source" />
+      <item value="destroy" />
+      <item value="store Chart Json" />
+      <item value="create User Nick" />
+      <item value="chart Data Record" />
+      <item value="AUTOCONFIG FILE" />
+      <item value="chart Type" />
+      <item value="add If Not Null" />
+      <item value="bootstrap Registry Initializers" />
+      <item value="deduce From Classpath" />
+      <item value="WEBFLUX INDICATOR CLASS" />
+      <item value="NESTED CLASS SEPARATOR" />
+      <item value="is Present" />
+      <item value="primary Sources" />
+      <item value="Generic Servlet" />
+      <item value="Anonymous Authentication Filter" />
+      <item value="Version" />
+      <item value="success" />
+      <item value="real time refresh" />
+      <item value="remove all HashSet KeyGroups for trigger Initialization All HashSet" />
+      <item value="upload Chart Image" />
+      <item value="Multipart File" />
+      <item value="Date" />
+      <item value="set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2654" />
-        <entry key="ENGLISH" value="2655" />
+        <entry key="CHINESE" value="2569" />
+        <entry key="ENGLISH" value="2570" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
