@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="================ 工单信息" />
+      <item value="param Object" />
+      <item value="work Order List Service" />
       <item value="chart Image Data" />
       <item value="init Namespace For Naming" />
       <item value="add Interceptors" />
@@ -51,14 +54,11 @@
       <item value="relation Row Id" />
       <item value="temp String Param" />
       <item value="remove" />
-      <item value="wrapper Path" />
-      <item value="Chart Image Data Mapper" />
-      <item value="ret Bool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2561" />
-        <entry key="ENGLISH" value="2562" />
+        <entry key="CHINESE" value="2564" />
+        <entry key="ENGLISH" value="2564" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
