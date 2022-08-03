@@ -4,16 +4,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="传递当前管理观察者类型参数" />
+      <item value="trigger Event" />
+      <item value="remove Trigger Flag" />
+      <item value="set Change Trigger Flag" />
+      <item value="Publish Event" />
+      <item value="get Trigger Flag" />
+      <item value="2022_08_03" />
+      <item value="50__星期三" />
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="Publish Event Manager" />
+      <item value="没有参数" />
+      <item value="trigger Data" />
+      <item value="trigger Flag" />
       <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
       <item value="unregistered" />
       <item value="notified" />
       <item value="obs" />
-      <item value="trigger Event" />
-      <item value="Publish Event" />
       <item value="event" />
-      <item value="get Trigger Flag" />
       <item value="methods" />
-      <item value="Publish Event Manager" />
       <item value="expected" />
       <item value="expect" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
@@ -24,7 +34,6 @@
       <item value="delete Event" />
       <item value="event List" />
       <item value="follow User Ids" />
-      <item value="trigger Data" />
       <item value="Wx Event" />
       <item value="微信事件推送消息具体方法" />
       <item value="都是需要被观察的对象" />
@@ -45,20 +54,11 @@
       <item value="fallback" />
       <item value="safe" />
       <item value="as" />
-      <item value="configuration" />
-      <item value="current" />
-      <item value="Registering" />
-      <item value="Joran Configurator" />
-      <item value="Configuration Action" />
-      <item value="Appender Ref Action" />
-      <item value="Dynamic Routing Data Source" />
-      <item value="destroy" />
-      <item value="store Chart Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2609" />
-        <entry key="ENGLISH" value="2610" />
+        <entry key="CHINESE" value="2630" />
+        <entry key="ENGLISH" value="2630" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
