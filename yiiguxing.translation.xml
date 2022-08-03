@@ -4,19 +4,37 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="sum Value" />
+      <item value="Glass" />
+      <item value="Paper" />
+      <item value="Aluminum" />
+      <item value="Trash" />
+      <item value="Box Observable" />
+      <item value="Observable" />
+      <item value="Otherwise" />
+      <item value="set Changed" />
+      <item value="notify Observers" />
+      <item value="trigger Data" />
+      <item value="Article" />
+      <item value="Override" />
+      <item value="get Trigger Flag" />
+      <item value="模拟数据库中所有的文章" />
+      <item value="Subscribe User" />
+      <item value="多个线程去使用当前事件管理者" />
+      <item value="一个线程在轮询通知观察者对象去执行更新方法" />
+      <item value="这样就会出现线程安全问题" />
+      <item value="event List" />
       <item value="传递当前管理观察者类型参数" />
       <item value="trigger Event" />
       <item value="remove Trigger Flag" />
       <item value="set Change Trigger Flag" />
       <item value="Publish Event" />
-      <item value="get Trigger Flag" />
       <item value="2022_08_03" />
       <item value="50__星期三" />
       <item value="qq" />
       <item value="987072248" />
       <item value="Publish Event Manager" />
       <item value="没有参数" />
-      <item value="trigger Data" />
       <item value="trigger Flag" />
       <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
       <item value="unregistered" />
@@ -32,33 +50,15 @@
       <item value="Atomically sets the value to the given updated value if the current value {@code ==} the expected value. &lt;p&gt;&lt;a href=&quot;package-summary.htmlweakCompareAndSet&quot;&gt;May fail spuriously and does not provide ordering guarantees&lt;a&gt;, so is only rarely an appropriate alternative to {@code compareAndSet}." />
       <item value="weak Compare And Set" />
       <item value="delete Event" />
-      <item value="event List" />
       <item value="follow User Ids" />
       <item value="Wx Event" />
       <item value="微信事件推送消息具体方法" />
       <item value="都是需要被观察的对象" />
-      <item value="这个类他实现了观察者接口" />
-      <item value="Observer" />
-      <item value="Observable" />
-      <item value="只是下边这个if语句闲置到了当前点击" />
-      <item value="其实所有的格子都会收到更新的消息" />
-      <item value="获取当前点位附近所有相邻格子的位置点位" />
-      <item value="clicked" />
-      <item value="构建存放观察者的可观察者容器" />
-      <item value="接口的类的对象们" />
-      <item value="You must inherit a new type of Observable:" />
-      <item value="b" />
-      <item value="arr Local" />
-      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and &lt;code&gt;null&lt;code&gt;. In other words, this method is equivalent to: &lt;blockquote&gt;&lt;tt&gt; notifyObservers(null)&lt;tt&gt;&lt;blockquote&gt;" />
-      <item value="Logger Action" />
-      <item value="fallback" />
-      <item value="safe" />
-      <item value="as" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2630" />
-        <entry key="ENGLISH" value="2630" />
+        <entry key="CHINESE" value="2654" />
+        <entry key="ENGLISH" value="2655" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
