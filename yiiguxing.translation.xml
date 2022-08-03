@@ -4,6 +4,44 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="flag" />
+      <item value="args" />
+      <item value="main" />
+      <item value="System" />
+      <item value="METHOD NAME" />
+      <item value="Http Request Base" />
+      <item value="Http Get" />
+      <item value="Atomic Markable Reference" />
+      <item value="Closeable Http Client" />
+      <item value="njmetro" />
+      <item value="exit" />
+      <item value="finished" />
+      <item value="Process" />
+      <item value="Process finished with exit code" />
+      <item value="get Status Code" />
+      <item value="get Status Line" />
+      <item value="response" />
+      <item value="response Code" />
+      <item value="Connect Timeout Exception" />
+      <item value="URL：" />
+      <item value="Http URL Connection" />
+      <item value="get Response Code" />
+      <item value="status Code" />
+      <item value="formation" />
+      <item value="Telnet Util" />
+      <item value="cycle Monitor Equipment" />
+      <item value="Instruction List Observer" />
+      <item value="condition Config Part Iterator" />
+      <item value="builder Condition Sql" />
+      <item value="check For Comodification" />
+      <item value="size" />
+      <item value="No Such Element Exception" />
+      <item value="Concurrent Modification Exception" />
+      <item value="Template Server Application" />
+      <item value="endpoint" />
+      <item value="get Instance" />
+      <item value="Simple Diagram Resolver Builder" />
+      <item value="destroy" />
       <item value="Ueditor File Controller" />
       <item value="987072248" />
       <item value="Initializing" />
@@ -16,49 +54,11 @@
       <item value="param Object" />
       <item value="work Order List Service" />
       <item value="chart Image Data" />
-      <item value="init Namespace For Naming" />
-      <item value="add Interceptors" />
-      <item value="Sentinel" />
-      <item value="delete" />
-      <item value="exist" />
-      <item value="Logger Action" />
-      <item value="fallback" />
-      <item value="safe" />
-      <item value="as" />
-      <item value="configuration" />
-      <item value="current" />
-      <item value="Registering" />
-      <item value="Joran Configurator" />
-      <item value="Configuration Action" />
-      <item value="Appender Ref Action" />
-      <item value="Dynamic Routing Data Source" />
-      <item value="destroy" />
-      <item value="store Chart Json" />
-      <item value="create User Nick" />
-      <item value="chart Data Record" />
-      <item value="AUTOCONFIG FILE" />
-      <item value="chart Type" />
-      <item value="add If Not Null" />
-      <item value="bootstrap Registry Initializers" />
-      <item value="deduce From Classpath" />
-      <item value="WEBFLUX INDICATOR CLASS" />
-      <item value="NESTED CLASS SEPARATOR" />
-      <item value="is Present" />
-      <item value="primary Sources" />
-      <item value="Generic Servlet" />
-      <item value="Anonymous Authentication Filter" />
-      <item value="Version" />
-      <item value="success" />
-      <item value="real time refresh" />
-      <item value="remove all HashSet KeyGroups for trigger Initialization All HashSet" />
-      <item value="upload Chart Image" />
-      <item value="Multipart File" />
-      <item value="Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2572" />
-        <entry key="ENGLISH" value="2572" />
+        <entry key="CHINESE" value="2612" />
+        <entry key="ENGLISH" value="2613" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -82,10 +82,12 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
