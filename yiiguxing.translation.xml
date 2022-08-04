@@ -4,6 +4,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="EXCEPTION" />
+      <item value="未开启监控" />
+      <item value="UNMONITORED" />
+      <item value="987072248" />
+      <item value="Resource Status" />
+      <item value="Subscribe User" />
+      <item value="Article" />
+      <item value="clear to let GC do its work" />
+      <item value="subscribe User 1" />
+      <item value="subscribe User 2" />
+      <item value="publish Event Manager" />
+      <item value="trigger Event" />
+      <item value="Publish Event Manager" />
+      <item value="trigger Data" />
+      <item value="get Trigger Flag" />
+      <item value="remove Trigger Flag" />
+      <item value="Override" />
+      <item value="implements" />
+      <item value="change Trigger Flag" />
+      <item value="async Update Project Name Execute Method" />
       <item value="get Resource Entries List" />
       <item value="NORMAL" />
       <item value="QUOTE" />
@@ -18,13 +38,10 @@
       <item value="entries" />
       <item value="Table Data Info" />
       <item value="Resource Entries" />
-      <item value="Resource Status" />
       <item value="project" />
       <item value="monitor" />
       <item value="interface Address" />
       <item value="未监控" />
-      <item value="UNMONITORED" />
-      <item value="未开启监控" />
       <item value="监控正常" />
       <item value="MM" />
       <item value="status" />
@@ -37,28 +54,11 @@
       <item value="Resource Entries Service" />
       <item value="Resource Schedule Runnable" />
       <item value="Component" />
-      <item value="Override" />
-      <item value="increment" />
-      <item value="Worker" />
-      <item value="decorate Task" />
-      <item value="reject" />
-      <item value="ensure Prestart" />
-      <item value="can Run In Current Run State" />
-      <item value="delayed Execute" />
-      <item value="987072248" />
-      <item value="Resource Schedule Service" />
-      <item value="executor Service" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="Thread Factory" />
-      <item value="new Thread" />
-      <item value="Resource Request Log" />
-      <item value="row Id" />
-      <item value="host Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2766" />
-        <entry key="ENGLISH" value="2767" />
+        <entry key="CHINESE" value="2798" />
+        <entry key="ENGLISH" value="2799" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
