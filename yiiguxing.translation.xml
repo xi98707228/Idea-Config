@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="dispatcher Servlet" />
       <item value="get Customer Dept Id" />
       <item value="update Project" />
       <item value="update Project Whencreate Leader" />
@@ -53,12 +54,11 @@
       <item value="njmetro" />
       <item value="exit" />
       <item value="finished" />
-      <item value="Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2652" />
-        <entry key="ENGLISH" value="2653" />
+        <entry key="CHINESE" value="2653" />
+        <entry key="ENGLISH" value="2654" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
