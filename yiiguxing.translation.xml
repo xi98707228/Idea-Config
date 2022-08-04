@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Resource Entries Service" />
+      <item value="Resource Request Log" />
+      <item value="row Id" />
+      <item value="host Name" />
+      <item value="interface Name" />
+      <item value="times" />
+      <item value="interface Type" />
+      <item value="sys resource request log" />
+      <item value="Id Type" />
+      <item value="ID WORKER STR" />
+      <item value="Monitor Utils" />
       <item value="agent Key" />
       <item value="status" />
       <item value="interface Address" />
@@ -16,7 +27,6 @@
       <item value="resource Description" />
       <item value="sys monitor entries" />
       <item value="Monitor Category Interface" />
-      <item value="Monitor Utils" />
       <item value="Try java protocol handler" />
       <item value="Use the factory (if any)" />
       <item value="checked With Factory" />
@@ -44,21 +54,11 @@
       <item value="Orika System Properties" />
       <item value="dynamic A To B Registry" />
       <item value="Monitor Type" />
-      <item value="UNMONITORED" />
-      <item value="UNMONITOR" />
-      <item value="MONITOR NO" />
-      <item value="sort Order" />
-      <item value="create Time" />
-      <item value="remainpoint" />
-      <item value="Diagram Data Resolve Executor" />
-      <item value="Abstract Diagram Resolve Executor" />
-      <item value="diagram Atomic Parts" />
-      <item value="Abstract Diagram Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2683" />
-        <entry key="ENGLISH" value="2684" />
+        <entry key="CHINESE" value="2697" />
+        <entry key="ENGLISH" value="2698" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
