@@ -4,6 +4,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="agent Key" />
+      <item value="status" />
+      <item value="interface Address" />
+      <item value="contacts" />
+      <item value="the Server" />
+      <item value="file Path" />
+      <item value="useing Unit" />
+      <item value="encryption Method" />
+      <item value="user Department" />
+      <item value="resource Description" />
+      <item value="sys monitor entries" />
+      <item value="Monitor Category Interface" />
+      <item value="Monitor Utils" />
+      <item value="Try java protocol handler" />
+      <item value="Use the factory (if any)" />
+      <item value="checked With Factory" />
+      <item value="James Gosling" />
+      <item value="URL Stream Handler" />
       <item value="generic" />
       <item value="generic Work Order For Applet" />
       <item value="Document" />
@@ -22,12 +40,9 @@
       <item value="update Project Whencreate Leader" />
       <item value="authentication not supported" />
       <item value="get Output Stream" />
-      <item value="sys monitor entries" />
       <item value="Monitor Entries" />
-      <item value="James Gosling" />
       <item value="Orika System Properties" />
       <item value="dynamic A To B Registry" />
-      <item value="Monitor Utils" />
       <item value="Monitor Type" />
       <item value="UNMONITORED" />
       <item value="UNMONITOR" />
@@ -39,26 +54,11 @@
       <item value="Abstract Diagram Resolve Executor" />
       <item value="diagram Atomic Parts" />
       <item value="Abstract Diagram Builder" />
-      <item value="Https URL Connection" />
-      <item value="firewall" />
-      <item value="Sign Login Controller" />
-      <item value="program" />
-      <item value="description" />
-      <item value="author" />
-      <item value="set Service Class" />
-      <item value="factory" />
-      <item value="set Username" />
-      <item value="username" />
-      <item value="URL" />
-      <item value="Query Processor Mapping String Pool" />
-      <item value="diagram Atomic Part" />
-      <item value="static" />
-      <item value="构建执行Sql语句列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2664" />
-        <entry key="ENGLISH" value="2665" />
+        <entry key="CHINESE" value="2683" />
+        <entry key="ENGLISH" value="2684" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
