@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Resource Entries List" />
+      <item value="NORMAL" />
+      <item value="QUOTE" />
+      <item value="no Match" />
+      <item value="{@link Condition} and {@link AutoConfigurationImportFilter} that checks for the presence or absence of specific classes." />
       <item value="resource Name" />
       <item value="resource Description" />
       <item value="port" />
@@ -11,7 +16,6 @@
       <item value="get Data Table" />
       <item value="查询资源条目列表" />
       <item value="entries" />
-      <item value="get Resource Entries List" />
       <item value="Table Data Info" />
       <item value="Resource Entries" />
       <item value="Resource Status" />
@@ -50,15 +54,11 @@
       <item value="Resource Request Log" />
       <item value="row Id" />
       <item value="host Name" />
-      <item value="interface Name" />
-      <item value="times" />
-      <item value="interface Type" />
-      <item value="sys resource request log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2761" />
-        <entry key="ENGLISH" value="2762" />
+        <entry key="CHINESE" value="2766" />
+        <entry key="ENGLISH" value="2767" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
