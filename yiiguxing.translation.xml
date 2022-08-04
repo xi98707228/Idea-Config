@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Output Stream" />
+      <item value="sys monitor entries" />
+      <item value="Monitor Entries" />
+      <item value="James Gosling" />
+      <item value="Orika System Properties" />
+      <item value="dynamic A To B Registry" />
       <item value="Monitor Utils" />
       <item value="Monitor Type" />
       <item value="UNMONITORED" />
@@ -12,7 +18,6 @@
       <item value="sort Order" />
       <item value="create Time" />
       <item value="remainpoint" />
-      <item value="Monitor Entries" />
       <item value="Diagram Data Resolve Executor" />
       <item value="Abstract Diagram Resolve Executor" />
       <item value="diagram Atomic Parts" />
@@ -49,16 +54,11 @@
       <item value="get Status Code" />
       <item value="get Status Line" />
       <item value="response" />
-      <item value="response Code" />
-      <item value="Connect Timeout Exception" />
-      <item value="URL：" />
-      <item value="Http URL Connection" />
-      <item value="get Response Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2643" />
-        <entry key="ENGLISH" value="2644" />
+        <entry key="CHINESE" value="2649" />
+        <entry key="ENGLISH" value="2650" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
