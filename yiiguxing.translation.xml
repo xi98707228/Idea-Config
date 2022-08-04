@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="change Trigger Flag" />
-      <item value="Fork Join Task" />
-      <item value="Recursive Task" />
-      <item value="concurrent" />
-      <item value="public" />
-      <item value="Publish Event Manager" />
-      <item value="table" />
-      <item value="Computes key.hashCode() and spreads (XORs) higher bits of hash to lower. Because the table uses power-of-two masking, sets of hashes that vary only in bits above the current mask will always collide. (Among known examples are sets of Float keys holding consecutive whole numbers in small tables.) So we apply a transform that spreads the impact of higher bits downward. There is a tradeoff between speed, utility, and quality of bit-spreading. Because many common sets of hashes are already reasonably distributed (so don't benefit from spreading), and because we use trees to handle large sets of collisions in bins, we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage, as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds. static final int hash(Object key) {" />
-      <item value="extends" />
-      <item value="Ueditor File Controller" />
-      <item value="Initializing" />
-      <item value="Quartz Scheduler" />
-      <item value="find" />
-      <item value="work Order List Mapper" />
-      <item value="select List" />
-      <item value="MAX VALUE" />
-      <item value="================ 工单信息" />
-      <item value="param Object" />
-      <item value="work Order List Service" />
-      <item value="chart Image Data" />
-      <item value="init Namespace For Naming" />
-      <item value="add Interceptors" />
-      <item value="Sentinel" />
-      <item value="delete" />
-      <item value="exist" />
-      <item value="Logger Action" />
-      <item value="fallback" />
-      <item value="safe" />
-      <item value="as" />
-      <item value="configuration" />
-      <item value="current" />
-      <item value="Registering" />
-      <item value="Joran Configurator" />
-      <item value="Configuration Action" />
-      <item value="Appender Ref Action" />
-      <item value="Dynamic Routing Data Source" />
-      <item value="destroy" />
-      <item value="store Chart Json" />
-      <item value="create User Nick" />
-      <item value="chart Data Record" />
-      <item value="AUTOCONFIG FILE" />
-      <item value="chart Type" />
-      <item value="add If Not Null" />
-      <item value="bootstrap Registry Initializers" />
-      <item value="deduce From Classpath" />
-      <item value="WEBFLUX INDICATOR CLASS" />
-      <item value="NESTED CLASS SEPARATOR" />
-      <item value="is Present" />
-      <item value="primary Sources" />
-      <item value="Generic Servlet" />
+      <item value="get Resource Entries List" />
+      <item value="NORMAL" />
+      <item value="QUOTE" />
+      <item value="no Match" />
+      <item value="{@link Condition} and {@link AutoConfigurationImportFilter} that checks for the presence or absence of specific classes." />
+      <item value="resource Name" />
+      <item value="resource Description" />
+      <item value="port" />
+      <item value="null" />
+      <item value="get Data Table" />
+      <item value="查询资源条目列表" />
+      <item value="entries" />
+      <item value="Table Data Info" />
+      <item value="Resource Entries" />
+      <item value="Resource Status" />
+      <item value="project" />
+      <item value="monitor" />
+      <item value="interface Address" />
+      <item value="未监控" />
+      <item value="UNMONITORED" />
+      <item value="未开启监控" />
+      <item value="监控正常" />
+      <item value="MM" />
+      <item value="status" />
+      <item value="created By" />
+      <item value="create Time" />
+      <item value="update Time" />
+      <item value="resource Entries Service" />
+      <item value="Resource Entries Detail Service" />
+      <item value="resource Entries Detail Service" />
+      <item value="Resource Entries Service" />
+      <item value="Resource Schedule Runnable" />
+      <item value="Component" />
+      <item value="Override" />
+      <item value="increment" />
+      <item value="Worker" />
+      <item value="decorate Task" />
+      <item value="reject" />
+      <item value="ensure Prestart" />
+      <item value="can Run In Current Run State" />
+      <item value="delayed Execute" />
+      <item value="987072248" />
+      <item value="Resource Schedule Service" />
+      <item value="executor Service" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="Thread Factory" />
+      <item value="new Thread" />
+      <item value="Resource Request Log" />
+      <item value="row Id" />
+      <item value="host Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2579" />
-        <entry key="ENGLISH" value="2580" />
+        <entry key="CHINESE" value="2766" />
+        <entry key="ENGLISH" value="2767" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -82,10 +82,12 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
