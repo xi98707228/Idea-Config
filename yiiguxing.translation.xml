@@ -4,8 +4,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resource Name" />
+      <item value="resource Description" />
+      <item value="port" />
+      <item value="null" />
+      <item value="get Data Table" />
+      <item value="查询资源条目列表" />
+      <item value="entries" />
       <item value="get Resource Entries List" />
+      <item value="Table Data Info" />
+      <item value="Resource Entries" />
+      <item value="Resource Status" />
+      <item value="project" />
+      <item value="monitor" />
+      <item value="interface Address" />
+      <item value="未监控" />
+      <item value="UNMONITORED" />
+      <item value="未开启监控" />
+      <item value="监控正常" />
+      <item value="MM" />
+      <item value="status" />
+      <item value="created By" />
+      <item value="create Time" />
+      <item value="update Time" />
+      <item value="resource Entries Service" />
+      <item value="Resource Entries Detail Service" />
+      <item value="resource Entries Detail Service" />
+      <item value="Resource Entries Service" />
       <item value="Resource Schedule Runnable" />
+      <item value="Component" />
       <item value="Override" />
       <item value="increment" />
       <item value="Worker" />
@@ -20,7 +47,6 @@
       <item value="Scheduled Thread Pool Executor" />
       <item value="Thread Factory" />
       <item value="new Thread" />
-      <item value="Resource Entries Service" />
       <item value="Resource Request Log" />
       <item value="row Id" />
       <item value="host Name" />
@@ -28,37 +54,11 @@
       <item value="times" />
       <item value="interface Type" />
       <item value="sys resource request log" />
-      <item value="Id Type" />
-      <item value="ID WORKER STR" />
-      <item value="Monitor Utils" />
-      <item value="agent Key" />
-      <item value="status" />
-      <item value="interface Address" />
-      <item value="contacts" />
-      <item value="the Server" />
-      <item value="file Path" />
-      <item value="useing Unit" />
-      <item value="encryption Method" />
-      <item value="user Department" />
-      <item value="resource Description" />
-      <item value="sys monitor entries" />
-      <item value="Monitor Category Interface" />
-      <item value="Try java protocol handler" />
-      <item value="Use the factory (if any)" />
-      <item value="checked With Factory" />
-      <item value="James Gosling" />
-      <item value="URL Stream Handler" />
-      <item value="generic" />
-      <item value="generic Work Order For Applet" />
-      <item value="Document" />
-      <item value="param" />
-      <item value="Input Stream Reader" />
-      <item value="resources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2715" />
-        <entry key="ENGLISH" value="2716" />
+        <entry key="CHINESE" value="2761" />
+        <entry key="ENGLISH" value="2762" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
