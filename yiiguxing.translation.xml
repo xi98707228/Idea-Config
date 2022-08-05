@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delegate" />
+      <item value="as of Spring 5.0, with no direct replacement" />
+      <item value="Simple Streaming Async Client Http Request" />
       <item value="com.ruoyi:nsei device" />
       <item value="com" />
       <item value="Scanning" />
@@ -51,14 +54,11 @@
       <item value="discard" />
       <item value="提交保存或编辑数据表单" />
       <item value="Get Mapping" />
-      <item value="查询资源条目列表" />
-      <item value="entries" />
-      <item value="get Resource Entries List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2891" />
-        <entry key="ENGLISH" value="2890" />
+        <entry key="CHINESE" value="2893" />
+        <entry key="ENGLISH" value="2894" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
