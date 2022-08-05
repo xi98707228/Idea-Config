@@ -4,15 +4,40 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="the Server" />
+      <item value="resource Description" />
+      <item value="resource Entries" />
+      <item value="Monitor Category Interface" />
+      <item value="Resource Entries Service" />
+      <item value="Resource Schedule Service" />
+      <item value="execute Schedule" />
+      <item value="executor Schedule" />
+      <item value="schedule" />
+      <item value="executor Service" />
+      <item value="DEFAULT CORE SIZE" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="success" />
+      <item value="monitor Resource" />
+      <item value="Resource Status" />
+      <item value="Resource Entries" />
+      <item value="监控开放的API接口" />
+      <item value="implements" />
+      <item value="Runnable" />
+      <item value="Resource Schedule Runnable" />
       <item value="connect Remote Interface" />
-      <item value="Http URL Connection" />
+      <item value="resource Entries Service" />
+      <item value="IO Exception" />
+      <item value="result Status" />
       <item value="connection" />
+      <item value="connect" />
+      <item value="This variable is set by the {@code setDoOutput} method. Its value is returned by the {@code getDoOutput} method. &lt;p&gt; A URL connection can be used for input andor output. Setting the {@code doOutput} flag to {@code true} indicates that the application intends to write data to the URL connection. &lt;p&gt; The default value of this field is {@code false}." />
+      <item value="This variable is set by the {@code setDoInput} method. Its value is returned by the {@code getDoInput} method. &lt;p&gt; A URL connection can be used for input andor output. Setting the {@code doInput} flag to {@code true} indicates that the application intends to read data from the URL connection. &lt;p&gt; The default value of this field is {@code true}." />
+      <item value="set Do Input" />
       <item value="response Code" />
+      <item value="Http URL Connection" />
       <item value="operate Row Id" />
       <item value="resource" />
       <item value="NORMAL" />
-      <item value="Resource Status" />
-      <item value="result Status" />
       <item value="HTTP CLIENT TIMEOUT" />
       <item value="Gateway" />
       <item value="Gateway Timeout." />
@@ -21,7 +46,6 @@
       <item value="EXCEPTION" />
       <item value="send Get" />
       <item value="URL" />
-      <item value="connect" />
       <item value="HTTP Status-Code 408: Request Time-Out." />
       <item value="Mozilla4.0 (compatible; MSIE 6.0; Windows NT 5.1;SV1" />
       <item value="Mozilla" />
@@ -30,35 +54,11 @@
       <item value="as of Spring 5.0, with no direct replacement" />
       <item value="Simple Streaming Async Client Http Request" />
       <item value="com.ruoyi:nsei device" />
-      <item value="com" />
-      <item value="Scanning" />
-      <item value="projects" />
-      <item value="Request Body" />
-      <item value="READER TIMEOUT" />
-      <item value="Sets the read timeout to a specified timeout, in milliseconds. A non-zero value specifies the timeout when reading from Input stream when a connection is established to a resource. If the timeout expires before there is data available for read, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. &lt;p&gt; Some non-standard implementation of this method ignores the specified timeout. To see the read timeout set, please call getReadTimeout(). @param timeout an {@code int} that specifies the timeout value to be used in milliseconds @throws IllegalArgumentException if the timeout parameter is negative" />
-      <item value="param String" />
-      <item value="param Object" />
-      <item value="resource Entries Service" />
-      <item value="start Monitor" />
-      <item value="Monitor Utils" />
-      <item value="987072248" />
-      <item value="04" />
-      <item value="08" />
-      <item value="Resource Schedule Runnable" />
-      <item value="void" />
-      <item value="monitor Resource Entries" />
-      <item value="Override" />
-      <item value="run" />
-      <item value="resource Type" />
-      <item value="resource Entries" />
-      <item value="monitor Resource" />
-      <item value="Resource Entries" />
-      <item value="check Illa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2916" />
-        <entry key="ENGLISH" value="2917" />
+        <entry key="CHINESE" value="2960" />
+        <entry key="ENGLISH" value="2961" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
