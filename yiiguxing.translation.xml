@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="repaint" />
+      <item value="Box Observer" />
+      <item value="args" />
+      <item value="grid" />
       <item value="get Resource Entries List" />
       <item value="NORMAL" />
       <item value="QUOTE" />
@@ -50,15 +54,11 @@
       <item value="executor Service" />
       <item value="Scheduled Thread Pool Executor" />
       <item value="Thread Factory" />
-      <item value="new Thread" />
-      <item value="Resource Request Log" />
-      <item value="row Id" />
-      <item value="host Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2766" />
-        <entry key="ENGLISH" value="2767" />
+        <entry key="CHINESE" value="2771" />
+        <entry key="ENGLISH" value="2772" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
