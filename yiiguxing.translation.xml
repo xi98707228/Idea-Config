@@ -3,9 +3,26 @@
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="success" />
+      <item value="local Event List" />
+      <item value="locale Event List" />
+      <item value="Subscribe User" />
+      <item value="Publish Event" />
+      <item value="Trash" />
+      <item value="String Utils" />
       <item value="Ajax Result" />
+      <item value="success" />
+      <item value="Path Variable" />
+      <item value="delete Resource Data" />
+      <item value="shutdown" />
+      <item value="DeleteOnExitHook must be the last shutdown hook to be invoked. Application shutdown hooks may add the first file to the delete on exit list and cause the DeleteOnExitHook to be registered during shutdown in progress. So set the registerShutdownInProgress parameter to true." />
+      <item value="Delete On Exit Hook" />
+      <item value="return" />
+      <item value="查询资源条目列表" />
+      <item value="resource" />
+      <item value="param String" />
+      <item value="Delete Mapping" />
       <item value="删除某个资源附件" />
       <item value="附件row Id" />
       <item value="delete Resource Attach Row Data" />
@@ -38,27 +55,11 @@
       <item value="DEFAULT CORE SIZE" />
       <item value="Scheduled Thread Pool Executor" />
       <item value="monitor Resource" />
-      <item value="Resource Status" />
-      <item value="Resource Entries" />
-      <item value="监控开放的API接口" />
-      <item value="implements" />
-      <item value="Runnable" />
-      <item value="Resource Schedule Runnable" />
-      <item value="connect Remote Interface" />
-      <item value="resource Entries Service" />
-      <item value="IO Exception" />
-      <item value="result Status" />
-      <item value="connection" />
-      <item value="connect" />
-      <item value="This variable is set by the {@code setDoOutput} method. Its value is returned by the {@code getDoOutput} method. &lt;p&gt; A URL connection can be used for input andor output. Setting the {@code doOutput} flag to {@code true} indicates that the application intends to write data to the URL connection. &lt;p&gt; The default value of this field is {@code false}." />
-      <item value="This variable is set by the {@code setDoInput} method. Its value is returned by the {@code getDoInput} method. &lt;p&gt; A URL connection can be used for input andor output. Setting the {@code doInput} flag to {@code true} indicates that the application intends to read data from the URL connection. &lt;p&gt; The default value of this field is {@code true}." />
-      <item value="set Do Input" />
-      <item value="response Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2978" />
-        <entry key="ENGLISH" value="2979" />
+        <entry key="CHINESE" value="3000" />
+        <entry key="ENGLISH" value="3001" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
