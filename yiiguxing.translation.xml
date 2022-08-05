@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Bean Definition" />
+      <item value="param String" />
+      <item value="DEFAULT CORE SIZE" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="executor Service" />
+      <item value="Runnable" />
+      <item value="get Resource Entries List" />
       <item value="Neal Gafter" />
       <item value="Josh Bloch" />
       <item value="Doug Lea" />
@@ -34,7 +41,6 @@
       <item value="implements" />
       <item value="change Trigger Flag" />
       <item value="async Update Project Name Execute Method" />
-      <item value="get Resource Entries List" />
       <item value="QUOTE" />
       <item value="no Match" />
       <item value="{@link Condition} and {@link AutoConfigurationImportFilter} that checks for the presence or absence of specific classes." />
@@ -48,17 +54,11 @@
       <item value="Table Data Info" />
       <item value="Resource Entries" />
       <item value="project" />
-      <item value="monitor" />
-      <item value="interface Address" />
-      <item value="未监控" />
-      <item value="监控正常" />
-      <item value="MM" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2809" />
-        <entry key="ENGLISH" value="2810" />
+        <entry key="CHINESE" value="2819" />
+        <entry key="ENGLISH" value="2820" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
