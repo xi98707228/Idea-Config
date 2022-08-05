@@ -4,10 +4,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Monitor Utils" />
+      <item value="check Illa" />
+      <item value="---------------- Public operations --------------" />
+      <item value="Overrides of JDK8 Map extension methods" />
+      <item value="Cloning and serialization" />
+      <item value="send Get Request" />
+      <item value="do Get" />
+      <item value="monitor Resource" />
+      <item value="Connect Exception" />
+      <item value="Monitor Http Interface" />
+      <item value="interface Address" />
+      <item value="监控开放的API接口" />
+      <item value="resource Entries Detail Service" />
+      <item value="Resource Schedule Runnable" />
+      <item value="Resource Entries Service" />
+      <item value="resource Entries Service" />
+      <item value="resource" />
+      <item value="get Row Id" />
+      <item value="Druid Abstract Data Source" />
+      <item value="test Connection Internal" />
+      <item value="received" />
+      <item value="connection" />
+      <item value="time" />
+      <item value="long" />
+      <item value="discard" />
+      <item value="提交保存或编辑数据表单" />
       <item value="Get Mapping" />
       <item value="查询资源条目列表" />
       <item value="entries" />
-      <item value="resource" />
       <item value="get Resource Entries List" />
       <item value="param Object" />
       <item value="Bean Metadata Attribute Accessor" />
@@ -29,36 +54,11 @@
       <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
       <item value="with" />
       <item value="Resource Status" />
-      <item value="NORMAL" />
-      <item value="EXCEPTION" />
-      <item value="未开启监控" />
-      <item value="UNMONITORED" />
-      <item value="987072248" />
-      <item value="Subscribe User" />
-      <item value="Article" />
-      <item value="clear to let GC do its work" />
-      <item value="subscribe User 1" />
-      <item value="subscribe User 2" />
-      <item value="publish Event Manager" />
-      <item value="trigger Event" />
-      <item value="Publish Event Manager" />
-      <item value="trigger Data" />
-      <item value="get Trigger Flag" />
-      <item value="remove Trigger Flag" />
-      <item value="Override" />
-      <item value="implements" />
-      <item value="change Trigger Flag" />
-      <item value="async Update Project Name Execute Method" />
-      <item value="QUOTE" />
-      <item value="no Match" />
-      <item value="{@link Condition} and {@link AutoConfigurationImportFilter} that checks for the presence or absence of specific classes." />
-      <item value="resource Name" />
-      <item value="resource Description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2829" />
-        <entry key="ENGLISH" value="2830" />
+        <entry key="CHINESE" value="2858" />
+        <entry key="ENGLISH" value="2859" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -71,6 +71,7 @@
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
+        <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
