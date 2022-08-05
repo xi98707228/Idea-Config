@@ -4,11 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Resource Status" />
+      <item value="NORMAL" />
       <item value="EXCEPTION" />
       <item value="未开启监控" />
       <item value="UNMONITORED" />
       <item value="987072248" />
-      <item value="Resource Status" />
       <item value="Subscribe User" />
       <item value="Article" />
       <item value="clear to let GC do its work" />
@@ -25,7 +26,6 @@
       <item value="change Trigger Flag" />
       <item value="async Update Project Name Execute Method" />
       <item value="get Resource Entries List" />
-      <item value="NORMAL" />
       <item value="QUOTE" />
       <item value="no Match" />
       <item value="{@link Condition} and {@link AutoConfigurationImportFilter} that checks for the presence or absence of specific classes." />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2798" />
-        <entry key="ENGLISH" value="2799" />
+        <entry key="CHINESE" value="2801" />
+        <entry key="ENGLISH" value="2802" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
