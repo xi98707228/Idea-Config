@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="black" />
       <item value="repaint" />
       <item value="Box Observer" />
       <item value="args" />
@@ -53,12 +54,11 @@
       <item value="Resource Schedule Service" />
       <item value="executor Service" />
       <item value="Scheduled Thread Pool Executor" />
-      <item value="Thread Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2771" />
-        <entry key="ENGLISH" value="2772" />
+        <entry key="CHINESE" value="2772" />
+        <entry key="ENGLISH" value="2773" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
