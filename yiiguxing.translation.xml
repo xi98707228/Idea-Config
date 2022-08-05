@@ -4,22 +4,42 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="com.ruoyi:nsei device" />
+      <item value="com" />
+      <item value="Scanning" />
+      <item value="projects" />
+      <item value="Request Body" />
+      <item value="READER TIMEOUT" />
+      <item value="Sets the read timeout to a specified timeout, in milliseconds. A non-zero value specifies the timeout when reading from Input stream when a connection is established to a resource. If the timeout expires before there is data available for read, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. &lt;p&gt; Some non-standard implementation of this method ignores the specified timeout. To see the read timeout set, please call getReadTimeout(). @param timeout an {@code int} that specifies the timeout value to be used in milliseconds @throws IllegalArgumentException if the timeout parameter is negative" />
+      <item value="param String" />
+      <item value="param Object" />
+      <item value="resource Entries Service" />
+      <item value="start Monitor" />
       <item value="Monitor Utils" />
+      <item value="987072248" />
+      <item value="04" />
+      <item value="08" />
+      <item value="Resource Schedule Runnable" />
+      <item value="void" />
+      <item value="monitor Resource Entries" />
+      <item value="Override" />
+      <item value="run" />
+      <item value="resource Type" />
+      <item value="resource Entries" />
+      <item value="monitor Resource" />
+      <item value="Resource Entries" />
       <item value="check Illa" />
       <item value="---------------- Public operations --------------" />
       <item value="Overrides of JDK8 Map extension methods" />
       <item value="Cloning and serialization" />
       <item value="send Get Request" />
       <item value="do Get" />
-      <item value="monitor Resource" />
       <item value="Connect Exception" />
       <item value="Monitor Http Interface" />
       <item value="interface Address" />
       <item value="监控开放的API接口" />
       <item value="resource Entries Detail Service" />
-      <item value="Resource Schedule Runnable" />
       <item value="Resource Entries Service" />
-      <item value="resource Entries Service" />
       <item value="resource" />
       <item value="get Row Id" />
       <item value="Druid Abstract Data Source" />
@@ -34,31 +54,11 @@
       <item value="查询资源条目列表" />
       <item value="entries" />
       <item value="get Resource Entries List" />
-      <item value="param Object" />
-      <item value="Bean Metadata Attribute Accessor" />
-      <item value="Attribute Accessor" />
-      <item value="Constant for the default scope name: {@code &quot;&quot;}, equivalent to singleton status unless overridden from a parent bean definition (if applicable)." />
-      <item value="Bean Definition" />
-      <item value="param String" />
-      <item value="DEFAULT CORE SIZE" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="executor Service" />
-      <item value="Runnable" />
-      <item value="Neal Gafter" />
-      <item value="Josh Bloch" />
-      <item value="Doug Lea" />
-      <item value="Illegal Argument Exception" />
-      <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
-      <item value="new Thr" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="with" />
-      <item value="Resource Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2858" />
-        <entry key="ENGLISH" value="2859" />
+        <entry key="CHINESE" value="2891" />
+        <entry key="ENGLISH" value="2890" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -81,7 +81,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
