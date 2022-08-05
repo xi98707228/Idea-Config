@@ -5,13 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Resource Entries Detail" />
+      <item value="set Create Time" />
+      <item value="resource Entries Service" />
+      <item value="set Update Time" />
+      <item value="Ajax Result" />
       <item value="local Event List" />
       <item value="locale Event List" />
       <item value="Subscribe User" />
       <item value="Publish Event" />
       <item value="Trash" />
       <item value="String Utils" />
-      <item value="Ajax Result" />
       <item value="success" />
       <item value="Path Variable" />
       <item value="delete Resource Data" />
@@ -51,15 +55,11 @@
       <item value="execute Schedule" />
       <item value="executor Schedule" />
       <item value="schedule" />
-      <item value="executor Service" />
-      <item value="DEFAULT CORE SIZE" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="monitor Resource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3000" />
-        <entry key="ENGLISH" value="3001" />
+        <entry key="CHINESE" value="3005" />
+        <entry key="ENGLISH" value="3006" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
