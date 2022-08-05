@@ -4,6 +4,41 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Round Glyph" />
+      <item value="Glyph" />
+      <item value="impose" />
+      <item value="field" />
+      <item value="Thread" />
+      <item value="set Exclusive Owner Thread" />
+      <item value="exclusive Owner Thread" />
+      <item value="state Offset" />
+      <item value="The synchronization state." />
+      <item value="get Exclusive Owner Thread" />
+      <item value="acquires" />
+      <item value="nonfair Try Acquire" />
+      <item value="Abstract Queued Synchronizer" />
+      <item value="A reentrant mutual exclusion {@link Lock} with the same basic behavior and semantics as the implicit monitor lock accessed using {@code synchronized} methods and statements, but with extended capabilities." />
+      <item value="A reentrant mutual exclusion {@link Lock} with the same basic behavior and semantics as the implicit monitor lock accessed using {@code synchronized} methods and statements, but with extended capabilities. &lt;p&gt;A {@code ReentrantLock} is &lt;em&gt;owned&lt;em&gt; by the thread last successfully locking, but not yet unlocking it. A thread invoking {@code lock} will return, successfully acquiring the lock, when the lock is not owned by another thread. The method will return immediately if the current thread already owns the lock. This can be checked using methods {@link isHeldByCurrentThread}, and {@link getHoldCount}. &lt;p&gt;The constructor for this class accepts an optional &lt;em&gt;fairness&lt;em&gt; parameter. When set {@code true}, under contention, locks favor granting access to the longest-waiting thread. Otherwise this lock does not guarantee any particular access order. Programs using fair locks accessed by many threads may display lower overall throughput (i.e., are slower; often much slower) than those using the default setting, but have smaller variances in times to obtain locks and guarantee lack of starvation. Note however, that fairness of locks does not guarantee fairness of thread scheduling. Thus, one of many threads using a fair lock may obtain it multiple times in succession while other active threads are not progressing and not currently holding the lock. Also note that the untimed {@link tryLock()} method does not honor the fairness setting. It will succeed if the lock is available even if other threads are waiting. &lt;p&gt;It is recommended practice to &lt;em&gt;always&lt;em&gt; immediately follow a call to {@code lock} with a {@code try} block, most typically in a beforeafter construction such as: &lt;pre&gt; {@code class X { private final ReentrantLock lock = new ReentrantLock(); ... public void m() { lock.lock(); block until condition holds try { ... method body } finally { lock.unlock() } } }}&lt;pre&gt; &lt;p&gt;In addition to implementing the {@link Lock} interface, this class defines a number of {@code public} and {@code protected} methods for inspecting the state of the lock. Some of these methods are only useful for instrumentation and monitoring. &lt;p&gt;Serialization of this class behaves in the same way as built-in locks: a deserialized lock is in the unlocked state, regardless of its state when serialized. &lt;p&gt;This lock supports a maximum of 2147483647 recursive locks by the same thread. Attempts to exceed this limit result in {@link Error} throws from locking methods." />
+      <item value="key with which the specified value is to be associated" />
+      <item value="specified" />
+      <item value="associated" />
+      <item value="Static utilities" />
+      <item value="Basic hash bin node, used for most entries. (See below for TreeNode subclass, and in LinkedHashMap for its Entry subclass.)" />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="The load factor used when none specified in constructor." />
+      <item value="power" />
+      <item value="The default initial capacity - MUST be a power of two." />
+      <item value="factorial" />
+      <item value="esizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k)" />
+      <item value="more: less than 1 in ten million" />
+      <item value="Arthur van Hoff" />
+      <item value="Josh Bloch" />
+      <item value="Doug Lea" />
+      <item value="Doug Lea Josh Bloch Arthur van Hoff Neal Gafter" />
+      <item value="threshold" />
+      <item value="preserve order" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="double threshold" />
       <item value="black" />
       <item value="repaint" />
       <item value="Box Observer" />
@@ -19,46 +54,11 @@
       <item value="port" />
       <item value="null" />
       <item value="get Data Table" />
-      <item value="查询资源条目列表" />
-      <item value="entries" />
-      <item value="Table Data Info" />
-      <item value="Resource Entries" />
-      <item value="Resource Status" />
-      <item value="project" />
-      <item value="monitor" />
-      <item value="interface Address" />
-      <item value="未监控" />
-      <item value="UNMONITORED" />
-      <item value="未开启监控" />
-      <item value="监控正常" />
-      <item value="MM" />
-      <item value="status" />
-      <item value="created By" />
-      <item value="create Time" />
-      <item value="update Time" />
-      <item value="resource Entries Service" />
-      <item value="Resource Entries Detail Service" />
-      <item value="resource Entries Detail Service" />
-      <item value="Resource Entries Service" />
-      <item value="Resource Schedule Runnable" />
-      <item value="Component" />
-      <item value="Override" />
-      <item value="increment" />
-      <item value="Worker" />
-      <item value="decorate Task" />
-      <item value="reject" />
-      <item value="ensure Prestart" />
-      <item value="can Run In Current Run State" />
-      <item value="delayed Execute" />
-      <item value="987072248" />
-      <item value="Resource Schedule Service" />
-      <item value="executor Service" />
-      <item value="Scheduled Thread Pool Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2772" />
-        <entry key="ENGLISH" value="2773" />
+        <entry key="CHINESE" value="2810" />
+        <entry key="ENGLISH" value="2811" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
