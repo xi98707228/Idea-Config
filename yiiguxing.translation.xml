@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Key Factory Spi" />
+      <item value="Key Factory" />
+      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
+      <item value="Exported" />
+      <item value="Return the content type of the file. @return the content type, or {@code null} if not defined (or no file has been chosen in the multipart form)" />
+      <item value="upload Resource Relation Document" />
+      <item value="file" />
+      <item value="out Path" />
       <item value="Request Param" />
       <item value="Http Servlet Request" />
       <item value="resource Agent Key" />
@@ -46,19 +54,11 @@
       <item value="resource" />
       <item value="NORMAL" />
       <item value="HTTP CLIENT TIMEOUT" />
-      <item value="Gateway" />
-      <item value="Gateway Timeout." />
-      <item value="Request Time-Out." />
-      <item value="发生异常" />
-      <item value="EXCEPTION" />
-      <item value="send Get" />
-      <item value="URL" />
-      <item value="HTTP Status-Code 408: Request Time-Out." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2966" />
-        <entry key="ENGLISH" value="2967" />
+        <entry key="CHINESE" value="2973" />
+        <entry key="ENGLISH" value="2974" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
