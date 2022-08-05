@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Neal Gafter" />
+      <item value="Josh Bloch" />
+      <item value="Doug Lea" />
+      <item value="Illegal Argument Exception" />
+      <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
+      <item value="new Thr" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="with" />
       <item value="Resource Status" />
       <item value="NORMAL" />
       <item value="EXCEPTION" />
@@ -45,20 +54,11 @@
       <item value="监控正常" />
       <item value="MM" />
       <item value="status" />
-      <item value="created By" />
-      <item value="create Time" />
-      <item value="update Time" />
-      <item value="resource Entries Service" />
-      <item value="Resource Entries Detail Service" />
-      <item value="resource Entries Detail Service" />
-      <item value="Resource Entries Service" />
-      <item value="Resource Schedule Runnable" />
-      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2801" />
-        <entry key="ENGLISH" value="2802" />
+        <entry key="CHINESE" value="2809" />
+        <entry key="ENGLISH" value="2810" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
