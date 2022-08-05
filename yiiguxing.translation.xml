@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="success" />
+      <item value="Ajax Result" />
+      <item value="删除某个资源附件" />
+      <item value="附件row Id" />
+      <item value="delete Resource Attach Row Data" />
+      <item value="digest" />
       <item value="Key Factory Spi" />
       <item value="Key Factory" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
@@ -31,7 +37,6 @@
       <item value="executor Service" />
       <item value="DEFAULT CORE SIZE" />
       <item value="Scheduled Thread Pool Executor" />
-      <item value="success" />
       <item value="monitor Resource" />
       <item value="Resource Status" />
       <item value="Resource Entries" />
@@ -49,16 +54,11 @@
       <item value="This variable is set by the {@code setDoInput} method. Its value is returned by the {@code getDoInput} method. &lt;p&gt; A URL connection can be used for input andor output. Setting the {@code doInput} flag to {@code true} indicates that the application intends to read data from the URL connection. &lt;p&gt; The default value of this field is {@code true}." />
       <item value="set Do Input" />
       <item value="response Code" />
-      <item value="Http URL Connection" />
-      <item value="operate Row Id" />
-      <item value="resource" />
-      <item value="NORMAL" />
-      <item value="HTTP CLIENT TIMEOUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2973" />
-        <entry key="ENGLISH" value="2974" />
+        <entry key="CHINESE" value="2978" />
+        <entry key="ENGLISH" value="2979" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
