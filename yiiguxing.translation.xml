@@ -4,6 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="看本次创建的类型是否已经缓存过了" />
+      <item value="size" />
+      <item value="PRESENT" />
+      <item value="说明当前循环到的Class全路径名和需要获取对象的类型相同 if" />
+      <item value="get Enclosing Class" />
+      <item value="get Simple Name" />
+      <item value="Returns the simple name of the underlying class as given in the source code. Returns an empty string if the underlying class is anonymous. &lt;p&gt;The simple name of an array is the simple name of the component type with &quot;[]&quot; appended. In particular the simple name of an array whose component type is anonymous is &quot;[]&quot;." />
+      <item value="Array" />
+      <item value="info" />
+      <item value="Call the constructor to create a new object:" />
+      <item value="Get the dynamic constructor method that takes a double argument:" />
+      <item value="for Name" />
+      <item value="Class" />
+      <item value="Remainder of class provides support for prototyping:" />
+      <item value="contains" />
+      <item value="Loaded successfully. Recursive call should work this time:" />
+      <item value="Somehow determine the new type to create, and create one:" />
+      <item value="Prototype Not Found Exception" />
+      <item value="Cannot Create Trash Exception" />
+      <item value="Class was not in the list. Try to load it, but it must be in your class path!" />
+      <item value="Must change this to add another type:" />
+      <item value="default" />
+      <item value="To quiet the compiler" />
+      <item value="Two lines here:" />
+      <item value="Cardboard" />
+      <item value="创建对象需要尽心下塑造型进行分类" />
       <item value="Trash" />
       <item value="Recycle A" />
       <item value="Aluminum" />
@@ -28,37 +54,11 @@
       <item value="get Exclusive Owner Thread" />
       <item value="acquires" />
       <item value="nonfair Try Acquire" />
-      <item value="Abstract Queued Synchronizer" />
-      <item value="A reentrant mutual exclusion {@link Lock} with the same basic behavior and semantics as the implicit monitor lock accessed using {@code synchronized} methods and statements, but with extended capabilities." />
-      <item value="A reentrant mutual exclusion {@link Lock} with the same basic behavior and semantics as the implicit monitor lock accessed using {@code synchronized} methods and statements, but with extended capabilities. &lt;p&gt;A {@code ReentrantLock} is &lt;em&gt;owned&lt;em&gt; by the thread last successfully locking, but not yet unlocking it. A thread invoking {@code lock} will return, successfully acquiring the lock, when the lock is not owned by another thread. The method will return immediately if the current thread already owns the lock. This can be checked using methods {@link isHeldByCurrentThread}, and {@link getHoldCount}. &lt;p&gt;The constructor for this class accepts an optional &lt;em&gt;fairness&lt;em&gt; parameter. When set {@code true}, under contention, locks favor granting access to the longest-waiting thread. Otherwise this lock does not guarantee any particular access order. Programs using fair locks accessed by many threads may display lower overall throughput (i.e., are slower; often much slower) than those using the default setting, but have smaller variances in times to obtain locks and guarantee lack of starvation. Note however, that fairness of locks does not guarantee fairness of thread scheduling. Thus, one of many threads using a fair lock may obtain it multiple times in succession while other active threads are not progressing and not currently holding the lock. Also note that the untimed {@link tryLock()} method does not honor the fairness setting. It will succeed if the lock is available even if other threads are waiting. &lt;p&gt;It is recommended practice to &lt;em&gt;always&lt;em&gt; immediately follow a call to {@code lock} with a {@code try} block, most typically in a beforeafter construction such as: &lt;pre&gt; {@code class X { private final ReentrantLock lock = new ReentrantLock(); ... public void m() { lock.lock(); block until condition holds try { ... method body } finally { lock.unlock() } } }}&lt;pre&gt; &lt;p&gt;In addition to implementing the {@link Lock} interface, this class defines a number of {@code public} and {@code protected} methods for inspecting the state of the lock. Some of these methods are only useful for instrumentation and monitoring. &lt;p&gt;Serialization of this class behaves in the same way as built-in locks: a deserialized lock is in the unlocked state, regardless of its state when serialized. &lt;p&gt;This lock supports a maximum of 2147483647 recursive locks by the same thread. Attempts to exceed this limit result in {@link Error} throws from locking methods." />
-      <item value="key with which the specified value is to be associated" />
-      <item value="specified" />
-      <item value="associated" />
-      <item value="Static utilities" />
-      <item value="Basic hash bin node, used for most entries. (See below for TreeNode subclass, and in LinkedHashMap for its Entry subclass.)" />
-      <item value="zero initial threshold signifies using defaults" />
-      <item value="The load factor used when none specified in constructor." />
-      <item value="power" />
-      <item value="The default initial capacity - MUST be a power of two." />
-      <item value="factorial" />
-      <item value="esizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k)" />
-      <item value="more: less than 1 in ten million" />
-      <item value="Arthur van Hoff" />
-      <item value="Josh Bloch" />
-      <item value="Doug Lea" />
-      <item value="Doug Lea Josh Bloch Arthur van Hoff Neal Gafter" />
-      <item value="threshold" />
-      <item value="preserve order" />
-      <item value="MAXIMUM CAPACITY" />
-      <item value="double threshold" />
-      <item value="black" />
-      <item value="repaint" />
-      <item value="Box Observer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2821" />
-        <entry key="ENGLISH" value="2822" />
+        <entry key="CHINESE" value="2849" />
+        <entry key="ENGLISH" value="2849" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
