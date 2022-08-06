@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Tbin" />
+      <item value="new Instance" />
+      <item value="content 3_trash" />
+      <item value="part 16_design Pattern" />
+      <item value="sort Bin" />
+      <item value="Object grabbed" />
+      <item value="vector that admits only the right type:" />
+      <item value="add one line here: (3)" />
+      <item value="java wrapper for vtkVolumeCollection object" />
       <item value="Appends the specified element to the end of this Vector. @param e element to be appended to this Vector @return {@code true} (as specified by {@link Collectionadd}) @since 1.2" />
       <item value="使用原型范式来改造对象的创建" />
       <item value="trash Types" />
@@ -45,27 +54,18 @@
       <item value="11" />
       <item value="cast Big Top Heap" />
       <item value="o 1" />
-      <item value="element At" />
-      <item value="less Than" />
-      <item value="Glyph" />
-      <item value="impose" />
-      <item value="field" />
-      <item value="Thread" />
-      <item value="set Exclusive Owner Thread" />
-      <item value="exclusive Owner Thread" />
-      <item value="state Offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2851" />
-        <entry key="ENGLISH" value="2852" />
+        <entry key="CHINESE" value="2866" />
+        <entry key="ENGLISH" value="2866" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="2" />
