@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this" />
+      <item value="Vector" />
+      <item value="tb" />
+      <item value="Perform sumValue for each bin..." />
+      <item value="Typed Bin" />
+      <item value="Typed Bin Member" />
+      <item value="sort Into Bins" />
+      <item value="Enumeration" />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="initial capacity was placed in threshold" />
+      <item value="double threshold" />
       <item value="反之服务端从socket中获取输出流时" />
       <item value="系统中如果使用缓冲区而缓冲区未满" />
       <item value="所以当客户端从socket中获取输入输出流时" />
@@ -44,22 +55,11 @@
       <item value="out Path" />
       <item value="Request Param" />
       <item value="Http Servlet Request" />
-      <item value="resource Agent Key" />
-      <item value="original Phone" />
-      <item value="interface Name" />
-      <item value="detailed Description" />
-      <item value="request Method" />
-      <item value="the Server" />
-      <item value="resource Description" />
-      <item value="resource Entries" />
-      <item value="Monitor Category Interface" />
-      <item value="Resource Entries Service" />
-      <item value="Resource Schedule Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3007" />
-        <entry key="ENGLISH" value="3007" />
+        <entry key="CHINESE" value="3017" />
+        <entry key="ENGLISH" value="3018" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
