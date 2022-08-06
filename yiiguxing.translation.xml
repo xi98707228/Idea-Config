@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="visit" />
+      <item value="accept" />
+      <item value="Visitable" />
+      <item value="Visitor" />
+      <item value="Type Tree Visitor" />
+      <item value="You could even iterate through a list of visitors!" />
       <item value="this" />
       <item value="Vector" />
       <item value="tb" />
@@ -49,17 +55,11 @@
       <item value="Key Factory" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
       <item value="Exported" />
-      <item value="Return the content type of the file. @return the content type, or {@code null} if not defined (or no file has been chosen in the multipart form)" />
-      <item value="upload Resource Relation Document" />
-      <item value="file" />
-      <item value="out Path" />
-      <item value="Request Param" />
-      <item value="Http Servlet Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3017" />
-        <entry key="ENGLISH" value="3018" />
+        <entry key="CHINESE" value="3023" />
+        <entry key="ENGLISH" value="3024" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -87,7 +87,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="5" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
