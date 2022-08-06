@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Appends the specified element to the end of this Vector. @param e element to be appended to this Vector @return {@code true} (as specified by {@link Collectionadd}) @since 1.2" />
+      <item value="使用原型范式来改造对象的创建" />
       <item value="trash Types" />
       <item value="value" />
       <item value="看本次创建的类型是否已经缓存过了" />
@@ -52,13 +54,11 @@
       <item value="set Exclusive Owner Thread" />
       <item value="exclusive Owner Thread" />
       <item value="state Offset" />
-      <item value="The synchronization state." />
-      <item value="get Exclusive Owner Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2850" />
-        <entry key="ENGLISH" value="2851" />
+        <entry key="CHINESE" value="2851" />
+        <entry key="ENGLISH" value="2852" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
