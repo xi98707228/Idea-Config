@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Trash" />
+      <item value="Recycle A" />
+      <item value="Aluminum" />
       <item value="Snmp Var Bind List" />
       <item value="Poly Constructors" />
       <item value="Round Glyph" />
@@ -51,14 +54,11 @@
       <item value="black" />
       <item value="repaint" />
       <item value="Box Observer" />
-      <item value="args" />
-      <item value="grid" />
-      <item value="get Resource Entries List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2818" />
-        <entry key="ENGLISH" value="2818" />
+        <entry key="CHINESE" value="2821" />
+        <entry key="ENGLISH" value="2822" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
