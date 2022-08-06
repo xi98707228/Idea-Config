@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="反之服务端从socket中获取输出流时" />
+      <item value="系统中如果使用缓冲区而缓冲区未满" />
+      <item value="所以当客户端从socket中获取输入输出流时" />
+      <item value="输出流也是向管道内传输数据" />
+      <item value="可以在本机的一个端口同时使用" />
+      <item value="part 16_design Pattern" />
+      <item value="添加一种新的类型只需要改动读取文件中的内容即可" />
       <item value="local Event List" />
       <item value="locale Event List" />
       <item value="Subscribe User" />
@@ -48,18 +55,11 @@
       <item value="Monitor Category Interface" />
       <item value="Resource Entries Service" />
       <item value="Resource Schedule Service" />
-      <item value="execute Schedule" />
-      <item value="executor Schedule" />
-      <item value="schedule" />
-      <item value="executor Service" />
-      <item value="DEFAULT CORE SIZE" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="monitor Resource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3000" />
-        <entry key="ENGLISH" value="3001" />
+        <entry key="CHINESE" value="3007" />
+        <entry key="ENGLISH" value="3007" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
