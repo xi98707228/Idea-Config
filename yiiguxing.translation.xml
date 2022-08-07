@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Anonymous inner class:" />
+      <item value="Returns handle to adapter class to allow callbacks from ParseTrash.fillBin():" />
       <item value="visit" />
       <item value="accept" />
       <item value="Visitable" />
@@ -53,13 +55,11 @@
       <item value="digest" />
       <item value="Key Factory Spi" />
       <item value="Key Factory" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
-      <item value="Exported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3023" />
-        <entry key="ENGLISH" value="3024" />
+        <entry key="CHINESE" value="3025" />
+        <entry key="ENGLISH" value="3026" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
