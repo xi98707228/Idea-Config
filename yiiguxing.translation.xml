@@ -5,12 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="internal Write Entries" />
+      <item value="shapes" />
+      <item value="serialize Static State" />
+      <item value="Display the shapes:" />
+      <item value="Set all the static colors to GREEN:" />
+      <item value="Read in the same order they were written:" />
+      <item value="Write a 2nd set" />
+      <item value="EOF Exception" />
+      <item value="ordinary Char" />
+      <item value="Strip Qualifiers" />
+      <item value="Display Methods" />
+      <item value="Visitable" />
+      <item value="Visitor" />
+      <item value="Price Visitor" />
       <item value="Anonymous inner class:" />
       <item value="Returns handle to adapter class to allow callbacks from ParseTrash.fillBin():" />
       <item value="visit" />
       <item value="accept" />
-      <item value="Visitable" />
-      <item value="Visitor" />
       <item value="Type Tree Visitor" />
       <item value="You could even iterate through a list of visitors!" />
       <item value="this" />
@@ -43,23 +55,11 @@
       <item value="delete Resource Data" />
       <item value="shutdown" />
       <item value="DeleteOnExitHook must be the last shutdown hook to be invoked. Application shutdown hooks may add the first file to the delete on exit list and cause the DeleteOnExitHook to be registered during shutdown in progress. So set the registerShutdownInProgress parameter to true." />
-      <item value="Delete On Exit Hook" />
-      <item value="return" />
-      <item value="查询资源条目列表" />
-      <item value="resource" />
-      <item value="param String" />
-      <item value="Delete Mapping" />
-      <item value="删除某个资源附件" />
-      <item value="附件row Id" />
-      <item value="delete Resource Attach Row Data" />
-      <item value="digest" />
-      <item value="Key Factory Spi" />
-      <item value="Key Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3025" />
-        <entry key="ENGLISH" value="3026" />
+        <entry key="CHINESE" value="3040" />
+        <entry key="ENGLISH" value="3041" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -87,7 +87,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="5" />
+        <entry key="SPANISH" value="6" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659428594581" />
+    <option name="lastTrimTime" value="1659860808522" />
   </component>
 </application>
