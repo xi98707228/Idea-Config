@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="取报告缴费" />
+      <item value="resolve Handle Payment" />
+      <item value="payment Flag" />
+      <item value="check Payment Accept" />
       <item value="Blocking" />
       <item value="internal Write Entries" />
       <item value="shapes" />
@@ -51,15 +55,11 @@
       <item value="Trash" />
       <item value="String Utils" />
       <item value="Ajax Result" />
-      <item value="success" />
-      <item value="Path Variable" />
-      <item value="delete Resource Data" />
-      <item value="shutdown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3041" />
-        <entry key="ENGLISH" value="3042" />
+        <entry key="CHINESE" value="3045" />
+        <entry key="ENGLISH" value="3045" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
