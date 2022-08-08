@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Handy constants for conversion methods" />
+      <item value="Time unit representing sixty seconds" />
+      <item value="DELADY" />
+      <item value="exception Work List" />
+      <item value="Resource Schedule Function Callable" />
+      <item value="Resource Schedule Service" />
+      <item value="again" />
+      <item value="confirm" />
+      <item value="again Execute Task" />
+      <item value="again Executor" />
+      <item value="987072248" />
+      <item value="Exception Work Queue" />
+      <item value="capacity" />
+      <item value="submit" />
+      <item value="executor Service" />
+      <item value="schedule Runnable" />
+      <item value="agent Key" />
+      <item value="create File" />
+      <item value="FILE UTIL" />
       <item value="content" />
       <item value="3 SSJU 371659929514745" />
       <item value="dispatcher Servlet" />
@@ -36,30 +55,11 @@
       <item value="Date Utils" />
       <item value="now Date" />
       <item value="operate Row Id" />
-      <item value="operate Data" />
-      <item value="operate Resource Entries" />
-      <item value="connect" />
-      <item value="o8888888o 88&quot; . &quot;88" />
-      <item value="RELEASE" />
-      <item value="background" />
-      <item value="transport" />
-      <item value="set Request Method" />
-      <item value="INFO" />
-      <item value="Quartz Scheduler" />
-      <item value="Scheduler" />
-      <item value="Spring" />
-      <item value="socket" />
-      <item value="success" />
-      <item value="resource Agent Key" />
-      <item value="Path Variable" />
-      <item value="connect Remote Interface" />
-      <item value="api" />
-      <item value="start Monitor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3129" />
-        <entry key="ENGLISH" value="3130" />
+        <entry key="CHINESE" value="3158" />
+        <entry key="ENGLISH" value="3159" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
