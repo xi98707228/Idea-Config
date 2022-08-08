@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Resource Entries Detail" />
-      <item value="set Create Time" />
-      <item value="resource Entries Service" />
-      <item value="set Update Time" />
-      <item value="Ajax Result" />
+      <item value="Blocking" />
+      <item value="internal Write Entries" />
+      <item value="shapes" />
+      <item value="serialize Static State" />
+      <item value="Display the shapes:" />
+      <item value="Set all the static colors to GREEN:" />
+      <item value="Read in the same order they were written:" />
+      <item value="Write a 2nd set" />
+      <item value="EOF Exception" />
+      <item value="ordinary Char" />
+      <item value="Strip Qualifiers" />
+      <item value="Display Methods" />
+      <item value="Visitable" />
+      <item value="Visitor" />
+      <item value="Price Visitor" />
+      <item value="Anonymous inner class:" />
+      <item value="Returns handle to adapter class to allow callbacks from ParseTrash.fillBin():" />
+      <item value="visit" />
+      <item value="accept" />
+      <item value="Type Tree Visitor" />
+      <item value="You could even iterate through a list of visitors!" />
+      <item value="this" />
+      <item value="Vector" />
+      <item value="tb" />
+      <item value="Perform sumValue for each bin..." />
+      <item value="Typed Bin" />
+      <item value="Typed Bin Member" />
+      <item value="sort Into Bins" />
+      <item value="Enumeration" />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="initial capacity was placed in threshold" />
+      <item value="double threshold" />
+      <item value="反之服务端从socket中获取输出流时" />
+      <item value="系统中如果使用缓冲区而缓冲区未满" />
+      <item value="所以当客户端从socket中获取输入输出流时" />
+      <item value="输出流也是向管道内传输数据" />
+      <item value="可以在本机的一个端口同时使用" />
+      <item value="part 16_design Pattern" />
+      <item value="添加一种新的类型只需要改动读取文件中的内容即可" />
       <item value="local Event List" />
       <item value="locale Event List" />
       <item value="Subscribe User" />
       <item value="Publish Event" />
       <item value="Trash" />
       <item value="String Utils" />
+      <item value="Ajax Result" />
       <item value="success" />
       <item value="Path Variable" />
       <item value="delete Resource Data" />
       <item value="shutdown" />
-      <item value="DeleteOnExitHook must be the last shutdown hook to be invoked. Application shutdown hooks may add the first file to the delete on exit list and cause the DeleteOnExitHook to be registered during shutdown in progress. So set the registerShutdownInProgress parameter to true." />
-      <item value="Delete On Exit Hook" />
-      <item value="return" />
-      <item value="查询资源条目列表" />
-      <item value="resource" />
-      <item value="param String" />
-      <item value="Delete Mapping" />
-      <item value="删除某个资源附件" />
-      <item value="附件row Id" />
-      <item value="delete Resource Attach Row Data" />
-      <item value="digest" />
-      <item value="Key Factory Spi" />
-      <item value="Key Factory" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
-      <item value="Exported" />
-      <item value="Return the content type of the file. @return the content type, or {@code null} if not defined (or no file has been chosen in the multipart form)" />
-      <item value="upload Resource Relation Document" />
-      <item value="file" />
-      <item value="out Path" />
-      <item value="Request Param" />
-      <item value="Http Servlet Request" />
-      <item value="resource Agent Key" />
-      <item value="original Phone" />
-      <item value="interface Name" />
-      <item value="detailed Description" />
-      <item value="request Method" />
-      <item value="the Server" />
-      <item value="resource Description" />
-      <item value="resource Entries" />
-      <item value="Monitor Category Interface" />
-      <item value="Resource Entries Service" />
-      <item value="Resource Schedule Service" />
-      <item value="execute Schedule" />
-      <item value="executor Schedule" />
-      <item value="schedule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3005" />
-        <entry key="ENGLISH" value="3006" />
+        <entry key="CHINESE" value="3041" />
+        <entry key="ENGLISH" value="3042" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
@@ -87,7 +87,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="6" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
@@ -100,6 +100,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659428594581" />
+    <option name="lastTrimTime" value="1659860808522" />
   </component>
 </application>

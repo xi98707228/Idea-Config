@@ -4,7 +4,9 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="A" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="TrashValueEntries" type="Properties" />
       <removed_mapping pattern="**.vue" approved="true" type="HTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
