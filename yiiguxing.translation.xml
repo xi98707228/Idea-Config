@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Data Base Util" />
+      <item value="properties" />
+      <item value="dependencies" />
+      <item value="oracle驱动没有发布到中央仓库" />
+      <item value="static" />
       <item value="Already connected" />
       <item value="request Param" />
       <item value="without" />
@@ -50,16 +55,11 @@
       <item value="exception Work List" />
       <item value="Dispatcher Servlet" />
       <item value="dispatcher Servlet" />
-      <item value="callable List" />
-      <item value="clear exception task list" />
-      <item value="Component" />
-      <item value="prototype" />
-      <item value="@Scope(&quot;prototype&quot;)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3307" />
-        <entry key="ENGLISH" value="3308" />
+        <entry key="CHINESE" value="3311" />
+        <entry key="ENGLISH" value="3311" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -76,7 +76,7 @@
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="2" />
         <entry key="MAORI" value="1" />
