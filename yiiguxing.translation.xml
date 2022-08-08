@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="观看阶段" />
       <item value="Blocking" />
       <item value="internal Write Entries" />
       <item value="shapes" />
@@ -54,11 +55,10 @@
       <item value="success" />
       <item value="Path Variable" />
       <item value="delete Resource Data" />
-      <item value="shutdown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3041" />
+        <entry key="CHINESE" value="3042" />
         <entry key="ENGLISH" value="3042" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
