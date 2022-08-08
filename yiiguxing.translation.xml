@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="request Method" />
+      <item value="interface Name" />
+      <item value="READER TIMEOUT" />
+      <item value="Monitor Http Utils" />
+      <item value="out" />
+      <item value="Buffered Reader" />
+      <item value="String Builder" />
+      <item value="try" />
+      <item value="set Task Begin Time" />
+      <item value="monitor Resource" />
+      <item value="connect Remote Interface" />
+      <item value="监控开放的API接口" />
+      <item value="Monitor Http Interface" />
+      <item value="Monitor Category Interface" />
+      <item value="implements" />
+      <item value="get Interface Address" />
+      <item value="interface Address" />
+      <item value="return" />
+      <item value="executor Service" />
+      <item value="api" />
+      <item value="Api Schedule Resource Status" />
+      <item value="resource Entries Service" />
+      <item value="Resource Entries Service" />
+      <item value="每30分钟执行一次" />
+      <item value="AUTO EXECUTE CRON" />
+      <item value="auto Execute Monitor Resource Entries Status" />
       <item value="delay Execute" />
+      <item value="Resource Schedule Function Callable" />
+      <item value="Exception Work List" />
       <item value="exception Work List" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
+      <item value="callable List" />
+      <item value="clear exception task list" />
+      <item value="Component" />
+      <item value="prototype" />
+      <item value="@Scope(&quot;prototype&quot;)" />
+      <item value="When used as a type-level annotation in conjunction with {@link org.springframework.stereotype.Component @Component}, {@code @Scope} indicates the name of a scope to use for instances of the annotated type. &lt;p&gt;When used as a method-level annotation in conjunction with {@link Bean @Bean}, {@code @Scope} indicates the name of a scope to use for the instance returned from the method. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; {@code @Scope} annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for {@code @Bean} methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. &lt;p&gt;In this context, &lt;em&gt;scope&lt;em&gt; means the lifecycle of an instance, such as {@code singleton}, {@code prototype}, and so forth. Scopes provided out of the box in Spring may be referred to using the {@code SCOPE_} constants available in the {@link ConfigurableBeanFactory} and {@code WebApplicationContext} interfaces." />
+      <item value="check Candidate" />
+      <item value="Resource Schedule Service" />
+      <item value="永不宕机" />
+      <item value="decorate Task" />
+      <item value="again Execute Task" />
+      <item value="EXCEPTION WORK SIZE" />
+      <item value="DEFAULT CORE SIZE" />
+      <item value="DELAY EXECUTE TIME MINUTE" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="schedule" />
       <item value="Rest Controller" />
       <item value="resource Schedule Service" />
-      <item value="resource Entries Service" />
-      <item value="Resource Schedule Service" />
-      <item value="Mapper Factory Bean" />
-      <item value="delayed Execute" />
-      <item value="update By Id" />
-      <item value="is Done" />
-      <item value="status Future" />
-      <item value="Thread Util" />
-      <item value="set Request Method" />
-      <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. &lt;p&gt; Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout()." />
-      <item value="set Read Timeout" />
-      <item value="url" />
-      <item value="resource Schedule Function Callable" />
-      <item value="at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)" />
-      <item value="internal Do Filter" />
-      <item value="Standard Wrapper Valve" />
-      <item value="Filter Chain Proxy Virtual Filter Chain" />
-      <item value="execute Schedule" />
-      <item value="Resource Schedule Function Callable" />
-      <item value="GET" />
-      <item value="monitor Utils" />
-      <item value="api" />
-      <item value="connect" />
-      <item value="monitor Resource" />
-      <item value="Resource Status" />
-      <item value="again Execute Task" />
-      <item value="Handy constants for conversion methods" />
-      <item value="Time unit representing sixty seconds" />
-      <item value="DELADY" />
-      <item value="again" />
-      <item value="confirm" />
-      <item value="again Executor" />
-      <item value="987072248" />
-      <item value="Exception Work Queue" />
-      <item value="capacity" />
-      <item value="submit" />
-      <item value="executor Service" />
-      <item value="schedule Runnable" />
-      <item value="agent Key" />
-      <item value="create File" />
-      <item value="FILE UTIL" />
-      <item value="content" />
-      <item value="3 SSJU 371659929514745" />
-      <item value="dispatcher Servlet" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3225" />
-        <entry key="ENGLISH" value="3226" />
+        <entry key="CHINESE" value="3291" />
+        <entry key="ENGLISH" value="3292" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
