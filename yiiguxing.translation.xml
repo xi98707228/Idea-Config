@@ -5,6 +5,31 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Oracle Data Source" />
+      <item value="init Connection" />
+      <item value="Override" />
+      <item value="connection" />
+      <item value="jdbc Template" />
+      <item value="data Source" />
+      <item value="springframework" />
+      <item value="Jdbc Template" />
+      <item value="get Connection" />
+      <item value="current Connection Local" />
+      <item value="Oracle Data Base" />
+      <item value="3 SSJU 371659944935802_Cluster Manager" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="Druid Abstract Data Source" />
+      <item value="this" />
+      <item value="username" />
+      <item value="password" />
+      <item value="url" />
+      <item value="String" />
+      <item value="Data Base" />
+      <item value="public" />
+      <item value="Class" />
+      <item value="print Stack Trace" />
+      <item value="否则抛出异常" />
+      <item value="cont" />
       <item value="Data Base Util" />
       <item value="properties" />
       <item value="dependencies" />
@@ -30,36 +55,11 @@
       <item value="READER TIMEOUT" />
       <item value="Monitor Http Utils" />
       <item value="out" />
-      <item value="Buffered Reader" />
-      <item value="String Builder" />
-      <item value="try" />
-      <item value="set Task Begin Time" />
-      <item value="monitor Resource" />
-      <item value="监控开放的API接口" />
-      <item value="Monitor Http Interface" />
-      <item value="Monitor Category Interface" />
-      <item value="implements" />
-      <item value="get Interface Address" />
-      <item value="return" />
-      <item value="executor Service" />
-      <item value="api" />
-      <item value="Api Schedule Resource Status" />
-      <item value="resource Entries Service" />
-      <item value="Resource Entries Service" />
-      <item value="每30分钟执行一次" />
-      <item value="AUTO EXECUTE CRON" />
-      <item value="auto Execute Monitor Resource Entries Status" />
-      <item value="delay Execute" />
-      <item value="Resource Schedule Function Callable" />
-      <item value="Exception Work List" />
-      <item value="exception Work List" />
-      <item value="Dispatcher Servlet" />
-      <item value="dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3311" />
-        <entry key="ENGLISH" value="3311" />
+        <entry key="CHINESE" value="3362" />
+        <entry key="ENGLISH" value="3363" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -76,7 +76,7 @@
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="2" />
         <entry key="MAORI" value="1" />
