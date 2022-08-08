@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Already connected" />
+      <item value="request Param" />
+      <item value="without" />
+      <item value="library" />
+      <item value="kqueue" />
+      <item value="optional" />
+      <item value="Total" />
+      <item value="Request Method" />
+      <item value="port" />
+      <item value="interface Address" />
+      <item value="Print Writer" />
+      <item value="print" />
+      <item value="connect Remote Post Interface" />
+      <item value="set Request Method" />
+      <item value="connect Remote Interface" />
       <item value="request Method" />
       <item value="interface Name" />
       <item value="READER TIMEOUT" />
@@ -15,13 +30,11 @@
       <item value="try" />
       <item value="set Task Begin Time" />
       <item value="monitor Resource" />
-      <item value="connect Remote Interface" />
       <item value="监控开放的API接口" />
       <item value="Monitor Http Interface" />
       <item value="Monitor Category Interface" />
       <item value="implements" />
       <item value="get Interface Address" />
-      <item value="interface Address" />
       <item value="return" />
       <item value="executor Service" />
       <item value="api" />
@@ -42,24 +55,11 @@
       <item value="Component" />
       <item value="prototype" />
       <item value="@Scope(&quot;prototype&quot;)" />
-      <item value="When used as a type-level annotation in conjunction with {@link org.springframework.stereotype.Component @Component}, {@code @Scope} indicates the name of a scope to use for instances of the annotated type. &lt;p&gt;When used as a method-level annotation in conjunction with {@link Bean @Bean}, {@code @Scope} indicates the name of a scope to use for the instance returned from the method. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; {@code @Scope} annotations are only introspected on the concrete bean class (for annotated components) or the factory method (for {@code @Bean} methods). In contrast to XML bean definitions, there is no notion of bean definition inheritance, and inheritance hierarchies at the class level are irrelevant for metadata purposes. &lt;p&gt;In this context, &lt;em&gt;scope&lt;em&gt; means the lifecycle of an instance, such as {@code singleton}, {@code prototype}, and so forth. Scopes provided out of the box in Spring may be referred to using the {@code SCOPE_} constants available in the {@link ConfigurableBeanFactory} and {@code WebApplicationContext} interfaces." />
-      <item value="check Candidate" />
-      <item value="Resource Schedule Service" />
-      <item value="永不宕机" />
-      <item value="decorate Task" />
-      <item value="again Execute Task" />
-      <item value="EXCEPTION WORK SIZE" />
-      <item value="DEFAULT CORE SIZE" />
-      <item value="DELAY EXECUTE TIME MINUTE" />
-      <item value="Scheduled Thread Pool Executor" />
-      <item value="schedule" />
-      <item value="Rest Controller" />
-      <item value="resource Schedule Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3291" />
-        <entry key="ENGLISH" value="3292" />
+        <entry key="CHINESE" value="3307" />
+        <entry key="ENGLISH" value="3308" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -88,7 +88,7 @@
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="6" />
-        <entry key="HAWAIIAN" value="1" />
+        <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="4" />
