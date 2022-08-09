@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
       <item value="s InterruptedException if any thread interrupted the current thread before or while the current thread was waiting for a notification. The &lt;i&gt;interrupted status&lt;i&gt; of the current thread is cleared when this exception is thrown." />
       <item value="s InterruptedException if any thread has interrupted the current thread. The &lt;i&gt;interrupted status&lt;i&gt; of the current thread is cleared when this exception is thrown." />
       <item value="int i = 0;" />
@@ -54,12 +55,11 @@
       <item value="current Connection Local" />
       <item value="3 SSJU 371659944935802_Cluster Manager" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3412" />
-        <entry key="ENGLISH" value="3413" />
+        <entry key="CHINESE" value="3413" />
+        <entry key="ENGLISH" value="3414" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
