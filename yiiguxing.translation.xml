@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="all Done" />
+      <item value="interface Address" />
+      <item value="zhfc server" />
+      <item value="Building" />
+      <item value="Index into delay queue, to support faster cancellation." />
+      <item value="finish Poll" />
+      <item value="compare And Set Wait Status" />
+      <item value="transfer For Signal" />
+      <item value="available" />
+      <item value="Delayed" />
+      <item value="overflow Free" />
+      <item value="&lt;p&gt; For example, to measure how long some code takes to execute: &lt;pre&gt; {@code long startTime = System.nanoTime(); ... the code being measured ... long estimatedTime = System.nanoTime() - startTime;}&lt;pre&gt;" />
+      <item value="one should use {@code t1 - t0 &lt; 0}, not {@code t1 &lt; t0}, because of the possibility of numerical overflow." />
+      <item value="nano Time" />
+      <item value="trigger Time" />
+      <item value="time" />
+      <item value="sequencer" />
+      <item value="period" />
+      <item value="is Periodic" />
+      <item value="can Run In Current Run State" />
+      <item value="All user control parameters are declared as volatiles so that ongoing actions are based on freshest values, but without need for locking, since no internal invariants depend on them changing synchronously with respect to other actions." />
+      <item value="largest Pool Size" />
+      <item value="delayed Execute" />
       <item value="select List COUNT" />
       <item value="select List" />
       <item value="interface Name" />
@@ -32,34 +55,11 @@
       <item value="execute Sql" />
       <item value="Ajax Result" />
       <item value="start Row" />
-      <item value="Query Page" />
-      <item value="build Split Page Sql" />
-      <item value="jdbc Template" />
-      <item value="original Sql" />
-      <item value="COUNT" />
-      <item value="params" />
-      <item value="total Param Length" />
-      <item value="execute Oracle Log Sql By Interface Name" />
-      <item value="@param src the source array. @param srcPos starting position in the source array. @param dest the destination array. @param destPos starting position in the destination data. @param length the number of array elements to be copied." />
-      <item value="query For Object" />
-      <item value="2022" />
-      <item value="localhost" />
-      <item value="query Total" />
-      <item value="interface Address" />
-      <item value="execute Oracle Log Sql" />
-      <item value="DATA SOURCE ORACLE" />
-      <item value="sql" />
-      <item value="end Row" />
-      <item value="get Single Column Row Mapper" />
-      <item value="reference Type" />
-      <item value="execute Sqls" />
-      <item value="Remote Interface Log" />
-      <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3514" />
-        <entry key="ENGLISH" value="3515" />
+        <entry key="CHINESE" value="3537" />
+        <entry key="ENGLISH" value="3538" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
