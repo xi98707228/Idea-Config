@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="interrupted" />
+      <item value="interrupt" />
+      <item value="Thread" />
+      <item value="Tests whether the current thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is cleared by this method. In other words, if this method were to be called twice in succession, the second call would return false (unless the current thread were interrupted again, after the first call had cleared its interrupted status and before the second call had examined it). &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if the current thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see isInterrupted() @revised 6.0" />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted() @revised 6.0" />
+      <item value="sleep" />
+      <item value="start" />
+      <item value="is Interrupted" />
+      <item value="Tests if some Thread has been interrupted. The interrupted state is reset or not based on the value of ClearInterrupted that is passed." />
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method. &lt;p&gt;A thread interruption ignored because a thread was not alive at the time of the interrupt will be reflected by this method returning false. @return &lt;code&gt;true&lt;code&gt; if this thread has been interrupted; &lt;code&gt;false&lt;code&gt; otherwise. @see interrupted()" />
+      <item value="suport" />
+      <item value="Lock Sport Part Test" />
       <item value="Execute Sql" />
       <item value="name" />
       <item value="reference Type" />
@@ -43,23 +55,11 @@
       <item value="否则抛出异常" />
       <item value="cont" />
       <item value="Data Base Util" />
-      <item value="properties" />
-      <item value="dependencies" />
-      <item value="oracle驱动没有发布到中央仓库" />
-      <item value="static" />
-      <item value="Already connected" />
-      <item value="request Param" />
-      <item value="without" />
-      <item value="library" />
-      <item value="kqueue" />
-      <item value="optional" />
-      <item value="Total" />
-      <item value="Request Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3383" />
-        <entry key="ENGLISH" value="3384" />
+        <entry key="CHINESE" value="3400" />
+        <entry key="ENGLISH" value="3401" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -71,7 +71,7 @@
         <entry key="FILIPINO" value="2" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="2" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="6" />
         <entry key="LATVIAN" value="1" />
