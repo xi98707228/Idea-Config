@@ -5,9 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="page Num" />
+      <item value="start Row" />
+      <item value="page Size" />
+      <item value="params" />
+      <item value="query For Object" />
+      <item value="interface Address" />
+      <item value="execute Oracle Log Sql" />
+      <item value="execute" />
+      <item value="sql" />
+      <item value="end Row" />
+      <item value="original Sql" />
+      <item value="build Split Page Sql" />
       <item value="get Single Column Row Mapper" />
       <item value="reference Type" />
-      <item value="execute" />
       <item value="execute Sqls" />
       <item value="Remote Interface Log" />
       <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
@@ -37,7 +48,6 @@
       <item value="name" />
       <item value="CENTER COLLECT SOURCE" />
       <item value="Api Execute Sql Controller" />
-      <item value="sql" />
       <item value="execute Oracle Sql" />
       <item value="public" />
       <item value="Driver Manager Data Source" />
@@ -45,21 +55,11 @@
       <item value="Data Base" />
       <item value="extends" />
       <item value="Oracle Data Base" />
-      <item value="data Source" />
-      <item value="Connection" />
-      <item value="get Connection" />
-      <item value="Oracle Data Source" />
-      <item value="init Connection" />
-      <item value="Override" />
-      <item value="connection" />
-      <item value="jdbc Template" />
-      <item value="springframework" />
-      <item value="Jdbc Template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3418" />
-        <entry key="ENGLISH" value="3419" />
+        <entry key="CHINESE" value="3438" />
+        <entry key="ENGLISH" value="3438" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -73,7 +73,7 @@
         <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
-        <entry key="LATIN" value="6" />
+        <entry key="LATIN" value="9" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="5" />
