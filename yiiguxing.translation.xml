@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="select List COUNT" />
+      <item value="select List" />
+      <item value="interface Name" />
+      <item value="artifact" />
+      <item value="BUILD" />
+      <item value="INTERFACE SYSCHRON LOGGING" />
       <item value="The Network Adapter could not establish the connection" />
       <item value="Jwt Authentication Token Filter" />
       <item value="permit All" />
@@ -14,9 +20,7 @@
       <item value="query Page" />
       <item value="Integer" />
       <item value="page Size" />
-      <item value="INTERFACE SYSCHRON LOGGING" />
       <item value="Api Execute Sql Controller" />
-      <item value="interface Name" />
       <item value="page Num" />
       <item value="AUTO EXECUTE CRON" />
       <item value="resource Schedule Service" />
@@ -51,15 +55,11 @@
       <item value="execute Sqls" />
       <item value="Remote Interface Log" />
       <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
-      <item value="s InterruptedException if any thread interrupted the current thread before or while the current thread was waiting for a notification. The &lt;i&gt;interrupted status&lt;i&gt; of the current thread is cleared when this exception is thrown." />
-      <item value="s InterruptedException if any thread has interrupted the current thread. The &lt;i&gt;interrupted status&lt;i&gt; of the current thread is cleared when this exception is thrown." />
-      <item value="int i = 0;" />
-      <item value="current Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3507" />
-        <entry key="ENGLISH" value="3508" />
+        <entry key="CHINESE" value="3514" />
+        <entry key="ENGLISH" value="3515" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
