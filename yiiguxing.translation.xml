@@ -5,6 +5,35 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stores the wrapped factory." />
+      <item value="main Loop" />
+      <item value="EXECUTED" />
+      <item value="scheduled Execution Time" />
+      <item value="VIRGIN" />
+      <item value="Josh Bloch" />
+      <item value="Timer Task" />
+      <item value="Rate Limiter Aspect" />
+      <item value="shutdown And Await Termination" />
+      <item value="mask Null" />
+      <item value="Identity Hash Map" />
+      <item value="invalidated" />
+      <item value="evaluation" />
+      <item value="An {@code Observable} is an entity that wraps content and allows to observe the content for invalidations. &lt;p&gt; An implementation of {@code Observable} may support lazy evaluation, which means that the content is not immediately recomputed after changes, but lazily the next time it is requested. All bindings and properties in this library support lazy evaluation. &lt;p&gt; Implementations of this class should strive to generate as few events as possible to avoid wasting too much time in event handlers. Implementations in this library mark themselves as invalid when the first invalidation event occurs. They do not generate anymore invalidation events until their value is recomputed and valid again." />
+      <item value="Invalidation Listener" />
+      <item value="Observable Map" />
+      <item value="user Requested" />
+      <item value="legacy Merge Sort" />
+      <item value="Comparable Tim Sort" />
+      <item value="is Whitespace" />
+      <item value="contains Text" />
+      <item value="has Text" />
+      <item value="null Safe Get" />
+      <item value="Assert a boolean expression, throwing an {@code IllegalStateException} if the expression evaluates to {@code false}. &lt;p&gt;Call {@link isTrue} if you wish to throw an {@code IllegalArgumentException} on an assertion failure. &lt;pre class=&quot;code&quot;&gt;Assert.state(id == null, &quot;The id property must not already be initialized&quot;);&lt;pre&gt; @param expression a boolean expression @param message the exception message to use if the assertion fails @throws IllegalStateException if {@code expression} is {@code false}" />
+      <item value="Packages Annotation Filter" />
+      <item value="All annotations filtered&quot;" />
+      <item value="{@link AnnotationFilter} that matches annotations in the {@code java.lang} and {@code org.springframework.lang} packages and their subpackages. &lt;p&gt;This is the default filter in the {@link MergedAnnotations} model." />
+      <item value="PLAIN" />
+      <item value="Shortcut: directly present on the element, with no merging needed?" />
       <item value="取报告缴费" />
       <item value="resolve Handle Payment" />
       <item value="payment Flag" />
@@ -26,40 +55,11 @@
       <item value="Price Visitor" />
       <item value="Anonymous inner class:" />
       <item value="Returns handle to adapter class to allow callbacks from ParseTrash.fillBin():" />
-      <item value="visit" />
-      <item value="accept" />
-      <item value="Type Tree Visitor" />
-      <item value="You could even iterate through a list of visitors!" />
-      <item value="this" />
-      <item value="Vector" />
-      <item value="tb" />
-      <item value="Perform sumValue for each bin..." />
-      <item value="Typed Bin" />
-      <item value="Typed Bin Member" />
-      <item value="sort Into Bins" />
-      <item value="Enumeration" />
-      <item value="zero initial threshold signifies using defaults" />
-      <item value="initial capacity was placed in threshold" />
-      <item value="double threshold" />
-      <item value="反之服务端从socket中获取输出流时" />
-      <item value="系统中如果使用缓冲区而缓冲区未满" />
-      <item value="所以当客户端从socket中获取输入输出流时" />
-      <item value="输出流也是向管道内传输数据" />
-      <item value="可以在本机的一个端口同时使用" />
-      <item value="part 16_design Pattern" />
-      <item value="添加一种新的类型只需要改动读取文件中的内容即可" />
-      <item value="local Event List" />
-      <item value="locale Event List" />
-      <item value="Subscribe User" />
-      <item value="Publish Event" />
-      <item value="Trash" />
-      <item value="String Utils" />
-      <item value="Ajax Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3045" />
-        <entry key="ENGLISH" value="3045" />
+        <entry key="CHINESE" value="3074" />
+        <entry key="ENGLISH" value="3075" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
