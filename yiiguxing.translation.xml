@@ -5,21 +5,40 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="select By Id" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="CONNECT TIME OUT" />
+      <item value="Socket Timeout Exception" />
+      <item value="flush" />
+      <item value="Property Sourced Request Mapping Handler Mapping" />
+      <item value="Documentation Plugins Bootstrapper" />
+      <item value="Table Info Helper" />
+      <item value="select Dict Data By Type" />
+      <item value="IO Exception" />
+      <item value="Resource Status" />
+      <item value="print Stack Trace" />
+      <item value="get Login User" />
+      <item value="login User" />
+      <item value="is Not Null" />
+      <item value="token Service" />
+      <item value="connect" />
+      <item value="connection" />
+      <item value="set Request Method" />
+      <item value="set Request Property" />
+      <item value="Post Body" />
+      <item value="request Param" />
       <item value="response Code" />
       <item value="NORMAL" />
-      <item value="request Param" />
       <item value="Hibernate" />
       <item value="socket" />
       <item value="set Do Output" />
       <item value="charset" />
       <item value="application" />
-      <item value="debug" />
       <item value="select Config List" />
-      <item value="connection" />
       <item value="urlencoded" />
       <item value="form" />
       <item value="Content type 'applicationx-www-form-urlencoded;charset=UTF-8' not supported" />
-      <item value="Post Body" />
       <item value="Request Body" />
       <item value="max Length" />
       <item value="append" />
@@ -36,30 +55,11 @@
       <item value="else" />
       <item value="Service" />
       <item value="Auto Execute Monitor Resource Status" />
-      <item value="thread" />
-      <item value="convert From The Json To The Http Parameter" />
-      <item value="set Request Method" />
-      <item value="HTTP OK" />
-      <item value="result Status" />
-      <item value="发生异常" />
-      <item value="EXCEPTION" />
-      <item value="CONNECT TIME OUT" />
-      <item value="CONNECT" />
-      <item value="password" />
-      <item value="Scheduler" />
-      <item value="check Operate Is Trigger Change Status" />
-      <item value="all Done" />
-      <item value="interface Address" />
-      <item value="zhfc server" />
-      <item value="Building" />
-      <item value="Index into delay queue, to support faster cancellation." />
-      <item value="finish Poll" />
-      <item value="compare And Set Wait Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3586" />
-        <entry key="ENGLISH" value="3587" />
+        <entry key="CHINESE" value="3613" />
+        <entry key="ENGLISH" value="3614" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
