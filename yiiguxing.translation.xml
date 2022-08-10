@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Danceable" />
       <item value="duck Name" />
       <item value="swiming" />
       <item value="The smallest table capacity for which bins may be treeified. (Otherwise the table is resized if too many nodes in a bin.) Should be at least 4 TREEIFY_THRESHOLD to avoid conflicts between resizing and treeification thresholds." />
@@ -54,12 +55,11 @@
       <item value="Display the shapes:" />
       <item value="Set all the static colors to GREEN:" />
       <item value="Read in the same order they were written:" />
-      <item value="Write a 2nd set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3086" />
-        <entry key="ENGLISH" value="3087" />
+        <entry key="CHINESE" value="3087" />
+        <entry key="ENGLISH" value="3088" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
