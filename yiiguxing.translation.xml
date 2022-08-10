@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="methods" />
+      <item value="public" />
+      <item value="============= public methods ===================" />
+      <item value="start Monitor" />
+      <item value="resource Entries" />
+      <item value="Resource Status" />
+      <item value="monitor" />
+      <item value="resource Description" />
+      <item value="resource Name" />
+      <item value="13336" />
+      <item value="zhfc local db" />
+      <item value="jdbc" />
+      <item value="mysql" />
       <item value="select By Id" />
       <item value="Parameters" />
       <item value="debug" />
@@ -16,7 +29,6 @@
       <item value="Table Info Helper" />
       <item value="select Dict Data By Type" />
       <item value="IO Exception" />
-      <item value="Resource Status" />
       <item value="print Stack Trace" />
       <item value="get Login User" />
       <item value="login User" />
@@ -43,23 +55,11 @@
       <item value="max Length" />
       <item value="append" />
       <item value="String" />
-      <item value="parameter" />
-      <item value="mobile" />
-      <item value="post Param" />
-      <item value="connect Remote Post Interface" />
-      <item value="Monitor Http Utils" />
-      <item value="get Interface Address" />
-      <item value="resource Entries" />
-      <item value="Request Method" />
-      <item value="connect Remote Interface" />
-      <item value="else" />
-      <item value="Service" />
-      <item value="Auto Execute Monitor Resource Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3613" />
-        <entry key="ENGLISH" value="3614" />
+        <entry key="CHINESE" value="3630" />
+        <entry key="ENGLISH" value="3631" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
