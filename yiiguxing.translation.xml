@@ -5,9 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Request Method" />
+      <item value="HTTP OK" />
+      <item value="result Status" />
+      <item value="发生异常" />
+      <item value="EXCEPTION" />
+      <item value="CONNECT TIME OUT" />
+      <item value="CONNECT" />
+      <item value="password" />
       <item value="Scheduler" />
       <item value="check Operate Is Trigger Change Status" />
-      <item value="EXCEPTION" />
       <item value="all Done" />
       <item value="interface Address" />
       <item value="zhfc server" />
@@ -48,18 +55,11 @@
       <item value="page Size" />
       <item value="Api Execute Sql Controller" />
       <item value="page Num" />
-      <item value="AUTO EXECUTE CRON" />
-      <item value="resource Schedule Service" />
-      <item value="resource Entries Service" />
-      <item value="get Property Descriptors" />
-      <item value="Request Param" />
-      <item value="expected 1, actual 7" />
-      <item value="123456" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3540" />
-        <entry key="ENGLISH" value="3541" />
+        <entry key="CHINESE" value="3547" />
+        <entry key="ENGLISH" value="3548" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
