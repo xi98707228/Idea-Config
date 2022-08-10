@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The smallest table capacity for which bins may be treeified. (Otherwise the table is resized if too many nodes in a bin.) Should be at least 4 TREEIFY_THRESHOLD to avoid conflicts between resizing and treeification thresholds." />
+      <item value="tab" />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="Replaces all linked nodes in bin at index for given hash unless table is too small, in which case resizes instead." />
+      <item value="-1 for 1st" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="bin Count" />
       <item value="Stores the wrapped factory." />
       <item value="main Loop" />
       <item value="EXECUTED" />
@@ -48,18 +55,11 @@
       <item value="Write a 2nd set" />
       <item value="EOF Exception" />
       <item value="ordinary Char" />
-      <item value="Strip Qualifiers" />
-      <item value="Display Methods" />
-      <item value="Visitable" />
-      <item value="Visitor" />
-      <item value="Price Visitor" />
-      <item value="Anonymous inner class:" />
-      <item value="Returns handle to adapter class to allow callbacks from ParseTrash.fillBin():" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3074" />
-        <entry key="ENGLISH" value="3075" />
+        <entry key="CHINESE" value="3084" />
+        <entry key="ENGLISH" value="3085" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ARABIC" value="2" />
         <entry key="IRISH" value="1" />
