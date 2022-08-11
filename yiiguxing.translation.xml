@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SIGNAL" />
+      <item value="The number of nanoseconds for which it is faster to spin rather than to use timed park. A rough estimate suffices to improve responsiveness with very short timeouts." />
+      <item value="spin For Timeout Threshold" />
       <item value="SHARED" />
       <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
       <item value="ecrement count; signal when transition to zero" />
@@ -52,14 +55,11 @@
       <item value="The annotation type {@code java.lang.annotation.Repeatable} is used to indicate that the annotation type whose declaration it (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of {@code @Repeatable} indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type." />
       <item value="Indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type. @return the containing annotation type" />
       <item value="Repeatable" />
-      <item value="embedded Value Resolver" />
-      <item value="AUTO EXECUTE CRON" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3691" />
-        <entry key="ENGLISH" value="3692" />
+        <entry key="CHINESE" value="3694" />
+        <entry key="ENGLISH" value="3695" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
