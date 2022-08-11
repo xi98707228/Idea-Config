@@ -5,10 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="promobj" />
+      <item value="Req Cont Review" />
+      <item value="get" />
+      <item value="parameter Map" />
+      <item value="to JSON String" />
+      <item value="JSON" />
+      <item value="String" />
+      <item value="Request Body" />
       <item value="晚开始观看此书" />
       <item value="13336" />
       <item value="Engine Proc Inst" />
-      <item value="parameter Map" />
       <item value="engine Flow Service" />
       <item value="Clinton Begin Kazuki Shimizu" />
       <item value="statement Annotation Types" />
@@ -48,18 +55,11 @@
       <item value="Socket Timeout Exception" />
       <item value="flush" />
       <item value="Documentation Plugins Bootstrapper" />
-      <item value="Table Info Helper" />
-      <item value="IO Exception" />
-      <item value="print Stack Trace" />
-      <item value="get Login User" />
-      <item value="login User" />
-      <item value="is Not Null" />
-      <item value="token Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3653" />
-        <entry key="ENGLISH" value="3652" />
+        <entry key="CHINESE" value="3661" />
+        <entry key="ENGLISH" value="3661" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -82,7 +82,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="5" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
