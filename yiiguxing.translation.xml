@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="interrupt" />
+      <item value="interrupted" />
+      <item value="start" />
+      <item value="Computes a result, or throws an exception if unable to do so. @return computed result @throws Exception if unable to compute a result" />
+      <item value="Functional Interface" />
+      <item value="p&gt;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a {@code FunctionalInterface} annotation is present on the interface declaration." />
+      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a &lt;i&gt;functional interface&lt;i&gt; as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since {@linkplain java.lang.reflect.MethodisDefault() default methods} have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of {@code java.lang.Object}, that also does &lt;em&gt;not&lt;em&gt; count toward the interface's abstract method count since any implementation of the interface will have an implementation from {@code java.lang.Object} or elsewhere. &lt;p&gt;Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references. &lt;p&gt;If a type is annotated with this annotation type, compilers are required to generate an error message unless: &lt;ul&gt; &lt;li&gt; The type is an interface type and not an annotation type, enum, or class. &lt;li&gt; The annotated type satisfies the requirements of a functional interface. &lt;ul&gt; &lt;p&gt;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a {@code FunctionalInterface} annotation is present on the interface declaration." />
+      <item value="Interface Method Body" />
+      <item value="thread Sleep" />
+      <item value="form Save" />
+      <item value="Req Cont Review" />
+      <item value="bean Dest" />
       <item value="SIGNAL" />
       <item value="The number of nanoseconds for which it is faster to spin rather than to use timed park. A rough estimate suffices to improve responsiveness with very short timeouts." />
       <item value="spin For Timeout Threshold" />
@@ -36,30 +48,18 @@
       <item value="Executor Service" />
       <item value="Executor" />
       <item value="get Row Id" />
-      <item value="bean Dest" />
       <item value="parse Object" />
       <item value="promobj" />
-      <item value="Req Cont Review" />
       <item value="get" />
       <item value="parameter Map" />
       <item value="to JSON String" />
       <item value="JSON" />
       <item value="String" />
-      <item value="Request Body" />
-      <item value="晚开始观看此书" />
-      <item value="13336" />
-      <item value="Engine Proc Inst" />
-      <item value="engine Flow Service" />
-      <item value="Clinton Begin Kazuki Shimizu" />
-      <item value="statement Annotation Types" />
-      <item value="The annotation type {@code java.lang.annotation.Repeatable} is used to indicate that the annotation type whose declaration it (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of {@code @Repeatable} indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type." />
-      <item value="Indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type. @return the containing annotation type" />
-      <item value="Repeatable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3694" />
-        <entry key="ENGLISH" value="3695" />
+        <entry key="CHINESE" value="3707" />
+        <entry key="ENGLISH" value="3708" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
