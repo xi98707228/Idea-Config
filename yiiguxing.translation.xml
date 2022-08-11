@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_flag" />
+      <item value="Filter Chain" />
+      <item value="Http Servlet Request" />
+      <item value="host" />
+      <item value="urlurl" />
+      <item value="is Right Code" />
+      <item value="hb Vehicle" />
       <item value="Catalina" />
       <item value="catalina" />
       <item value="numerTemp -&gt; contractReview -&gt; reportManage" />
@@ -48,21 +55,15 @@
       <item value="thread Sleep" />
       <item value="start" />
       <item value="interrupted" />
-      <item value="Computes a result, or throws an exception if unable to do so. @return computed result @throws Exception if unable to compute a result" />
-      <item value="Functional Interface" />
-      <item value="p&gt;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a {@code FunctionalInterface} annotation is present on the interface declaration." />
-      <item value="An informative annotation type used to indicate that an interface type declaration is intended to be a &lt;i&gt;functional interface&lt;i&gt; as defined by the Java Language Specification. Conceptually, a functional interface has exactly one abstract method. Since {@linkplain java.lang.reflect.MethodisDefault() default methods} have an implementation, they are not abstract. If an interface declares an abstract method overriding one of the public methods of {@code java.lang.Object}, that also does &lt;em&gt;not&lt;em&gt; count toward the interface's abstract method count since any implementation of the interface will have an implementation from {@code java.lang.Object} or elsewhere. &lt;p&gt;Note that instances of functional interfaces can be created with lambda expressions, method references, or constructor references. &lt;p&gt;If a type is annotated with this annotation type, compilers are required to generate an error message unless: &lt;ul&gt; &lt;li&gt; The type is an interface type and not an annotation type, enum, or class. &lt;li&gt; The annotated type satisfies the requirements of a functional interface. &lt;ul&gt; &lt;p&gt;However, the compiler will treat any interface meeting the definition of a functional interface as a functional interface regardless of whether or not a {@code FunctionalInterface} annotation is present on the interface declaration." />
-      <item value="Interface Method Body" />
-      <item value="form Save" />
-      <item value="Req Cont Review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3746" />
-        <entry key="ENGLISH" value="3747" />
+        <entry key="CHINESE" value="3752" />
+        <entry key="ENGLISH" value="3753" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="2" />
