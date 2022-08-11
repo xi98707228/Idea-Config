@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Clinton Begin Kazuki Shimizu" />
+      <item value="statement Annotation Types" />
+      <item value="The annotation type {@code java.lang.annotation.Repeatable} is used to indicate that the annotation type whose declaration it (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of {@code @Repeatable} indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type." />
+      <item value="Indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type. @return the containing annotation type" />
+      <item value="Repeatable" />
+      <item value="embedded Value Resolver" />
+      <item value="AUTO EXECUTE CRON" />
+      <item value="987072248" />
+      <item value="2022-08-10 16:52:58" />
+      <item value="data" />
+      <item value="interface" />
       <item value="search Interface Log" />
       <item value="主库数据源" />
       <item value="master" />
@@ -44,22 +55,11 @@
       <item value="connection" />
       <item value="set Request Method" />
       <item value="set Request Property" />
-      <item value="Post Body" />
-      <item value="request Param" />
-      <item value="response Code" />
-      <item value="NORMAL" />
-      <item value="Hibernate" />
-      <item value="socket" />
-      <item value="set Do Output" />
-      <item value="charset" />
-      <item value="application" />
-      <item value="select Config List" />
-      <item value="urlencoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3637" />
-        <entry key="ENGLISH" value="3638" />
+        <entry key="CHINESE" value="3647" />
+        <entry key="ENGLISH" value="3647" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
@@ -83,6 +83,7 @@
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="5" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
