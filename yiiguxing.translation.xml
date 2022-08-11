@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Catalina" />
+      <item value="catalina" />
+      <item value="numerTemp -&gt; contractReview -&gt; reportManage" />
+      <item value="James House" />
+      <item value="Trigger Fired Bundle" />
+      <item value="notify Scheduler Thread" />
+      <item value="pause Job" />
+      <item value="Quartz Disallow Concurrent Execution" />
+      <item value="Quartz Job Execution" />
+      <item value="RUNTIME" />
+      <item value="Soap Fault Exception" />
+      <item value="Juergen Hoeller" />
+      <item value="DEFAULT EXCLUSION FILTER" />
+      <item value="collect Imports" />
+      <item value="cates one or more &lt;em&gt;component classes&lt;em&gt; to import &amp;mdash; typically {@link Configuration @Configuration} classes. &lt;p&gt;Provides functionality equivalent to the {@code &lt;import&gt;} element in Spring XML. Allows for importing {@code @Configuration} classes, {@link ImportSelector} and {@link ImportBeanDefinitionRegistrar} implementations, as well as regular component classes (as of 4.2; analogous to {@link AnnotationConfigApplicationContextregister}). &lt;p&gt;{@code @Bean} definitions declared in imported {@code @Configuration} classes should be accessed by using {@link org.springframework.beans.factory.annotation.Autowired @Autowired} injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between {@code @Configuration} class methods. &lt;p&gt;May be declared at the class level or as a meta-annotation. &lt;p&gt;If XML or other non-{@code @Configuration} bean definition resources need to be imported, use the {@link ImportResource @ImportResource} annotation instead." />
+      <item value="Scheduling Configuration" />
+      <item value="get Contract Number Prefix" />
+      <item value="data Prefix" />
+      <item value="Enable Scheduling" />
+      <item value="Business System Handler Schedule Task" />
       <item value="所以两次调用一般第一次返回true" />
       <item value="并不会重置中断标记状态" />
       <item value="并且会重置此线程的终端标记" />
@@ -35,37 +55,17 @@
       <item value="Interface Method Body" />
       <item value="form Save" />
       <item value="Req Cont Review" />
-      <item value="bean Dest" />
-      <item value="SIGNAL" />
-      <item value="The number of nanoseconds for which it is faster to spin rather than to use timed park. A rough estimate suffices to improve responsiveness with very short timeouts." />
-      <item value="spin For Timeout Threshold" />
-      <item value="SHARED" />
-      <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
-      <item value="ecrement count; signal when transition to zero" />
-      <item value="compare And Set State" />
-      <item value="The synchronization state." />
-      <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
-      <item value="Creates with given first task and thread from ThreadFactory. @param firstTask the first task (null if none)" />
-      <item value="inhibit interrupts until runWorker" />
-      <item value="Abstract Queued Synchronizer" />
-      <item value="Default Thread Factory" />
-      <item value="group" />
-      <item value="name Prefix" />
-      <item value="Delegated Executor Service" />
-      <item value="await Termination" />
-      <item value="Event Executor Group" />
-      <item value="Rejected Execution Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3729" />
-        <entry key="ENGLISH" value="3729" />
+        <entry key="CHINESE" value="3746" />
+        <entry key="ENGLISH" value="3747" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="2" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -75,7 +75,7 @@
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="11" />
         <entry key="LATVIAN" value="1" />
-        <entry key="LUXEMBOURGISH" value="2" />
+        <entry key="LUXEMBOURGISH" value="3" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="2" />
