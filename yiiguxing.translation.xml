@@ -5,13 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Right Code" />
+      <item value="hb Vehicle" />
+      <item value="method" />
+      <item value="place No" />
+      <item value="车牌号" />
       <item value="_flag" />
       <item value="Filter Chain" />
       <item value="Http Servlet Request" />
       <item value="host" />
       <item value="urlurl" />
-      <item value="is Right Code" />
-      <item value="hb Vehicle" />
       <item value="Catalina" />
       <item value="catalina" />
       <item value="numerTemp -&gt; contractReview -&gt; reportManage" />
@@ -52,14 +55,11 @@
       <item value="offer" />
       <item value="Inserts the specified element into this queue, waiting up to the specified wait time if necessary for space to become available." />
       <item value="3当前线程中断状态" />
-      <item value="thread Sleep" />
-      <item value="start" />
-      <item value="interrupted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3752" />
-        <entry key="ENGLISH" value="3753" />
+        <entry key="CHINESE" value="3757" />
+        <entry key="ENGLISH" value="3758" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
