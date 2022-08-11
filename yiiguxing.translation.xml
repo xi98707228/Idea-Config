@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="晚开始观看此书" />
+      <item value="13336" />
+      <item value="Engine Proc Inst" />
+      <item value="parameter Map" />
+      <item value="engine Flow Service" />
       <item value="Clinton Begin Kazuki Shimizu" />
       <item value="statement Annotation Types" />
       <item value="The annotation type {@code java.lang.annotation.Repeatable} is used to indicate that the annotation type whose declaration it (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of {@code @Repeatable} indicates the &lt;em&gt;containing annotation type&lt;em&gt; for the repeatable annotation type." />
@@ -33,7 +38,6 @@
       <item value="monitor" />
       <item value="resource Description" />
       <item value="resource Name" />
-      <item value="13336" />
       <item value="zhfc local db" />
       <item value="jdbc" />
       <item value="mysql" />
@@ -51,15 +55,11 @@
       <item value="login User" />
       <item value="is Not Null" />
       <item value="token Service" />
-      <item value="connect" />
-      <item value="connection" />
-      <item value="set Request Method" />
-      <item value="set Request Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3647" />
-        <entry key="ENGLISH" value="3647" />
+        <entry key="CHINESE" value="3653" />
+        <entry key="ENGLISH" value="3652" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="1" />
