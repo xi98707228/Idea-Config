@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caller Sensitive" />
+      <item value="is System Domain Loader" />
+      <item value="get Resource" />
+      <item value="url" />
+      <item value="update Status" />
+      <item value="AUTOCONFIG FILE" />
       <item value="is Right Code" />
       <item value="hb Vehicle" />
       <item value="method" />
@@ -49,20 +55,14 @@
       <item value="Frank Yellin" />
       <item value="see" />
       <item value="See Also" />
-      <item value="Inserts the specified element into the queue represented by this deque (in other words, at the tail of this deque) if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and {@code false} if no space is currently available. When using a capacity-restricted deque, this method is generally preferable to the {@link add} method, which can fail to insert an element only by throwing an exception. &lt;p&gt;This method is equivalent to {@link offerLast}." />
-      <item value="This class provides a skeletal implementation of the &lt;tt&gt;List&lt;tt&gt; interface to minimize the effort required to implement this interface backed by a &quot;sequential access&quot; data store (such as a linked list). For random access data (such as an array), &lt;tt&gt;AbstractList&lt;tt&gt; should be used in preference to this class.&lt;p&gt; This class is the opposite of the &lt;tt&gt;AbstractList&lt;tt&gt; class in the sense that it implements the &quot;random access&quot; methods (&lt;tt&gt;get(int index)&lt;tt&gt;, &lt;tt&gt;set(int index, E element)&lt;tt&gt;, &lt;tt&gt;add(int index, E element)&lt;tt&gt; and &lt;tt&gt;remove(int index)&lt;tt&gt;) on top of the list's list iterator, instead of the other way around.&lt;p&gt; To implement a list the programmer needs only to extend this class and provide implementations for the &lt;tt&gt;listIterator&lt;tt&gt; and &lt;tt&gt;size&lt;tt&gt; methods. For an unmodifiable list, the programmer need only implement the list iterator's &lt;tt&gt;hasNext&lt;tt&gt;, &lt;tt&gt;next&lt;tt&gt;, &lt;tt&gt;hasPrevious&lt;tt&gt;, &lt;tt&gt;previous&lt;tt&gt; and &lt;tt&gt;index&lt;tt&gt; methods.&lt;p&gt; For a modifiable list the programmer should additionally implement the list iterator's &lt;tt&gt;set&lt;tt&gt; method. For a variable-size list the programmer should additionally implement the list iterator's &lt;tt&gt;remove&lt;tt&gt; and &lt;tt&gt;add&lt;tt&gt; methods.&lt;p&gt; The programmer should generally provide a void (no argument) and collection constructor, as per the recommendation in the &lt;tt&gt;Collection&lt;tt&gt; interface specification.&lt;p&gt; This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
-      <item value="Abstract Sequential List" />
-      <item value="offer" />
-      <item value="Inserts the specified element into this queue, waiting up to the specified wait time if necessary for space to become available." />
-      <item value="3当前线程中断状态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3757" />
-        <entry key="ENGLISH" value="3758" />
+        <entry key="CHINESE" value="3764" />
+        <entry key="ENGLISH" value="3765" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
-        <entry key="IRISH" value="1" />
+        <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="2" />
