@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compare To Ignore Case" />
+      <item value="Coding Error Action" />
+      <item value="Basic abstraction over byte buffers. &lt;p&gt;{@code DataBuffer}s has a separate {@linkplain readPosition() read} and {@linkplain writePosition() write} position, as opposed to {@code ByteBuffer}'s single {@linkplain ByteBufferposition() position}. As such, the {@code DataBuffer} does not require a {@linkplain ByteBufferflip() flip} to read after writing. In general, the following invariant holds for the read and write positions, and the capacity: &lt;blockquote&gt; &lt;tt&gt;0&lt;tt&gt; &lt;tt&gt;&amp;lt;=&lt;tt&gt; &lt;i&gt;readPosition&lt;i&gt; &lt;tt&gt;&amp;lt;=&lt;tt&gt; &lt;i&gt;writePosition&lt;i&gt; &lt;tt&gt;&amp;lt;=&lt;tt&gt; &lt;i&gt;capacity&lt;i&gt; &lt;blockquote&gt; &lt;p&gt;The {@linkplain capacity() capacity} of a {@code DataBuffer} is expanded on demand, similar to {@code StringBuilder}. &lt;p&gt;The main purpose of the {@code DataBuffer} abstraction is to provide a convenient wrapper around {@link ByteBuffer} which is similar to Netty's {@link io.netty.buffer.ByteBuf} but can also be used on non-Netty platforms (i.e. Servlet containers)." />
+      <item value="Resource Loader" />
+      <item value="Resource Pattern Resolver" />
+      <item value="is Assignable From" />
+      <item value="Separate inner class for avoiding a hard dependency on the {@code javax.inject} API. Actual {@code javax.inject.Provider} implementation is nested here in order to make it invisible for Graal's introspection of DefaultListableBeanFactory's nested classes." />
+      <item value="Default Listable Bean Factory" />
+      <item value="Application Context" />
+      <item value="Bean Initialization Exception" />
+      <item value="Chris Beams" />
+      <item value="Rod Johnson" />
+      <item value="A qualifier value for the specified asynchronous operation(s). &lt;p&gt;May be used to determine the target executor to be used when executing the asynchronous operation(s), matching the qualifier value (or the bean name) of a specific {@link java.util.concurrent.Executor Executor} or {@link org.springframework.core.task.TaskExecutor TaskExecutor} bean definition. &lt;p&gt;When specified on a class-level {@code @Async} annotation, indicates that the given executor should be used for all methods within the class. Method-level use of {@code Asyncvalue} always overrides any value set at the class level. @since 3.1.2" />
       <item value="Handles cases of updates involving initialization, resizing, creating new Cells, andor contention. See above for explanation. This method suffers the usual non-modularity problems of optimistic retry code, relying on rechecked sets of reads. @param x the value @param fn the update function, or null for add (this convention avoids the need for an extra field or function in LongAdder). @param wasUncontended false if CAS failed before call" />
       <item value="long Accumulate" />
       <item value="Number of CPUS, to place bound on table size" />
@@ -42,24 +55,11 @@
       <item value="host" />
       <item value="urlurl" />
       <item value="Catalina" />
-      <item value="catalina" />
-      <item value="numerTemp -&gt; contractReview -&gt; reportManage" />
-      <item value="James House" />
-      <item value="Trigger Fired Bundle" />
-      <item value="notify Scheduler Thread" />
-      <item value="pause Job" />
-      <item value="Quartz Disallow Concurrent Execution" />
-      <item value="Quartz Job Execution" />
-      <item value="RUNTIME" />
-      <item value="Soap Fault Exception" />
-      <item value="Juergen Hoeller" />
-      <item value="DEFAULT EXCLUSION FILTER" />
-      <item value="collect Imports" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3784" />
-        <entry key="ENGLISH" value="3785" />
+        <entry key="CHINESE" value="3798" />
+        <entry key="ENGLISH" value="3799" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
