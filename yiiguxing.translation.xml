@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Interrupts threads that might be waiting for tasks (as indicated by not being locked) so they can check for termination or configuration changes. Ignores SecurityExceptions (in which case some threads may remain uninterrupted). @param onlyOne If true, interrupt at most one worker. This is called only from tryTerminate when termination is otherwise enabled but there are still other workers. In this case, at most one waiting worker is interrupted to propagate shutdown signals in case all threads are currently waiting. Interrupting any arbitrary thread ensures that newly arriving workers since shutdown began will also eventually exit. To guarantee eventual termination, it suffices to always interrupt only one idle worker, but shutdown() interrupts all idle workers so that redundant workers exit promptly, not waiting for a straggler task to finish." />
+      <item value="only One" />
+      <item value="interrupt Idle Workers" />
+      <item value="advance Run State" />
       <item value="Caller Sensitive" />
       <item value="is System Domain Loader" />
       <item value="get Resource" />
@@ -51,15 +55,11 @@
       <item value="interrupt" />
       <item value="transient" />
       <item value="Josh Bloch" />
-      <item value="Josh Bloch (Added exception chaining and programmatic access to stack trace in 1.4.)" />
-      <item value="Frank Yellin" />
-      <item value="see" />
-      <item value="See Also" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3764" />
-        <entry key="ENGLISH" value="3765" />
+        <entry key="CHINESE" value="3768" />
+        <entry key="ENGLISH" value="3769" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
