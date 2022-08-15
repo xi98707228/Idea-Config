@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Scheduler" />
+      <item value="permission Service" />
+      <item value="toffset might be near -1&gt;&gt;&gt;1." />
+      <item value="URL protocol for an entry from a WebSphere jar file: &quot;wsjar" />
+      <item value="Resource Utils" />
+      <item value="Juergen Hoeller" />
+      <item value="Josh Cummings" />
+      <item value="Rsa Key Conversion Service Post Processor" />
+      <item value="Bean Factory Post Processor" />
+      <item value="Authentication Manager Builder" />
       <item value="Ignore the 'maxEvictableIdleTimeMillis &lt; minEvictableIdleTimeMillis' validate, it will be validated again in {@link DruidDataSourceinit()}. for fix issue 3084, 2763" />
       <item value="Initializing Bean" />
       <item value="after Properties Set" />
@@ -45,21 +55,11 @@
       <item value="Bean Initialization Exception" />
       <item value="Chris Beams" />
       <item value="Rod Johnson" />
-      <item value="A qualifier value for the specified asynchronous operation(s). &lt;p&gt;May be used to determine the target executor to be used when executing the asynchronous operation(s), matching the qualifier value (or the bean name) of a specific {@link java.util.concurrent.Executor Executor} or {@link org.springframework.core.task.TaskExecutor TaskExecutor} bean definition. &lt;p&gt;When specified on a class-level {@code @Async} annotation, indicates that the given executor should be used for all methods within the class. Method-level use of {@code Asyncvalue} always overrides any value set at the class level. @since 3.1.2" />
-      <item value="Handles cases of updates involving initialization, resizing, creating new Cells, andor contention. See above for explanation. This method suffers the usual non-modularity problems of optimistic retry code, relying on rechecked sets of reads. @param x the value @param fn the update function, or null for add (this convention avoids the need for an extra field or function in LongAdder). @param wasUncontended false if CAS failed before call" />
-      <item value="long Accumulate" />
-      <item value="Number of CPUS, to place bound on table size" />
-      <item value="Double Adder" />
-      <item value="Double Accumulator" />
-      <item value="This class maintains a lazily-initialized table of atomically updated variables, plus an extra &quot;base&quot; field. The table size is a power of two. Indexing uses masked per-thread hash codes. Nearly all declarations in this class are package-private, accessed directly by subclasses. Table entries are of class Cell; a variant of AtomicLong padded (via @sun.misc.Contended) to reduce cache contention. Padding is overkill for most Atomics because they are usually irregularly scattered in memory and thus don't interfere much with each other. But Atomic objects residing in arrays will tend to be placed adjacent to each other, and so will most often share cache lines (with a huge negative performance impact) without this precaution. In part because Cells are relatively large, we avoid creating them until they are needed. When there is no contention, all updates are made to the base field. Upon first contention (a failed CAS on base update), the table is initialized to size 2. The table size is doubled upon further contention until reaching the nearest power of two greater than or equal to the number of CPUS. Table slots remain empty (null) until they are needed. A single spinlock (&quot;cellsBusy&quot;) is used for initializing and resizing the table, as well as populating slots with new Cells. There is no need for a blocking lock; when the lock is not available, threads try other slots (or the base). During these retries, there is increased contention and reduced locality, which is still better than alternatives. The Thread probe fields maintained via ThreadLocalRandom serve as per-thread hash codes. We let them remain uninitialized as zero (if they come in this way) until they contend at slot 0. They are then initialized to values that typically do not often conflict with others. Contention andor table collisions are indicated by failed CASes when performing an update operation. Upon a collision, if the table size is less than the capacity, it is doubled in size unless some other thread holds the lock. If a hashed slot is empty, and lock is available, a new Cell is created. Otherwise, if the slot exists, a CAS is tried. Retries proceed by &quot;double hashing&quot;, using a secondary hash (Marsaglia XorShift) to try to find a free slot. The table size is capped because, when there are more threads than CPUs, supposing that each thread were bound to a CPU, there would exist a perfect hash function mapping threads to slots that eliminates collisions. When we reach capacity, we search for this mapping by randomly varying the hash codes of colliding threads. Because search is random, and collisions only become known via CAS failures, convergence can be slow, and because threads are typically not bound to CPUS forever, may not occur at all. However, despite these limitations, observed contention rates are typically low in these cases. It is possible for a Cell to become unused when threads that once hashed to it terminate, as well as in the case where doubling the table causes no thread to hash to it under expanded mask. We do not try to detect or remove such cells, under the assumption that for long-running instances, observed contention levels will recur, so the cells will eventually be needed again; and for short-lived ones, it does not matter." />
-      <item value="A package-local class holding common representation and mechanics for classes supporting dynamic striping on 64bit values. The class extends Number so that concrete subclasses must publicly do so." />
-      <item value="Contended" />
-      <item value="Striped 64" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3825" />
-        <entry key="ENGLISH" value="3826" />
+        <entry key="CHINESE" value="3834" />
+        <entry key="ENGLISH" value="3835" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -76,7 +76,7 @@
         <entry key="KANNADA" value="1" />
         <entry key="LATIN" value="11" />
         <entry key="LATVIAN" value="1" />
-        <entry key="LUXEMBOURGISH" value="3" />
+        <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="2" />
