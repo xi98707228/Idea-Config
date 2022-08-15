@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ignore the 'maxEvictableIdleTimeMillis &lt; minEvictableIdleTimeMillis' validate, it will be validated again in {@link DruidDataSourceinit()}. for fix issue 3084, 2763" />
+      <item value="Initializing Bean" />
+      <item value="after Properties Set" />
+      <item value="XA Specific datasource settings." />
+      <item value="lihengming" />
       <item value="convert Group Data Atomic List" />
       <item value="executor Sql" />
       <item value="Abstract Query Expression Executor" />
@@ -50,16 +55,11 @@
       <item value="A package-local class holding common representation and mechanics for classes supporting dynamic striping on 64bit values. The class extends Number so that concrete subclasses must publicly do so." />
       <item value="Contended" />
       <item value="Striped 64" />
-      <item value="Serialization proxy, used to avoid reference to the non-public Striped64 superclass in serialized forms. @serial include" />
-      <item value="Access to bits, native and otherwise." />
-      <item value="Monitoring of direct buffer usage" />
-      <item value="copy From Long Array" />
-      <item value="native Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3821" />
-        <entry key="ENGLISH" value="3822" />
+        <entry key="CHINESE" value="3825" />
+        <entry key="ENGLISH" value="3826" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -102,6 +102,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659860808522" />
+    <option name="lastTrimTime" value="1660526376544" />
   </component>
 </application>
