@@ -5,6 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Diagram Atomic Part" />
+      <item value="Expression Execute Field Segment" />
+      <item value="All of the values comprising K. (Cached for performance.)" />
+      <item value="Returns all of the values comprising K. The result is uncloned, cached, and shared by all callers." />
+      <item value="get Key Universe" />
+      <item value="Shared Secrets" />
+      <item value="Josh Bloch" />
+      <item value="Compute Scale Type" />
+      <item value="STRATEGY ENUM MAP" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="exec" />
+      <item value="debug" />
+      <item value="select List" />
+      <item value="DEBUG" />
+      <item value="Connected" />
       <item value="private methods" />
       <item value="native" />
       <item value="compare And Swap Long" />
@@ -39,27 +55,11 @@
       <item value="duck Name" />
       <item value="Scheduler" />
       <item value="permission Service" />
-      <item value="toffset might be near -1&gt;&gt;&gt;1." />
-      <item value="URL protocol for an entry from a WebSphere jar file: &quot;wsjar" />
-      <item value="Resource Utils" />
-      <item value="Juergen Hoeller" />
-      <item value="Josh Cummings" />
-      <item value="Rsa Key Conversion Service Post Processor" />
-      <item value="Bean Factory Post Processor" />
-      <item value="Authentication Manager Builder" />
-      <item value="Ignore the 'maxEvictableIdleTimeMillis &lt; minEvictableIdleTimeMillis' validate, it will be validated again in {@link DruidDataSourceinit()}. for fix issue 3084, 2763" />
-      <item value="Initializing Bean" />
-      <item value="after Properties Set" />
-      <item value="XA Specific datasource settings." />
-      <item value="lihengming" />
-      <item value="convert Group Data Atomic List" />
-      <item value="executor Sql" />
-      <item value="Abstract Query Expression Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3865" />
-        <entry key="ENGLISH" value="3866" />
+        <entry key="CHINESE" value="3884" />
+        <entry key="ENGLISH" value="3885" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
