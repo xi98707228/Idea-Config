@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="import kotlin.reflect.KFunction; import kotlin.reflect.KParameter; import kotlin.reflect.full.KClasses; import kotlin.reflect.jvm.KCallablesJvm; import kotlin.reflect.jvm.ReflectJvmMapping; import org.apache.commons.logging.Log; import org.apache.commons.logging.LogFactory;" />
+      <item value="kotlin" />
+      <item value="ANNOTATION" />
+      <item value="Bean Instantiation Exception" />
+      <item value="is Primitive" />
+      <item value="resolve Primitive Class Name" />
+      <item value="Kotlin API not available - no Kotlin support" />
+      <item value="Kotlin Detector" />
+      <item value="is Kotlin Reflect Present" />
+      <item value="Inner class to avoid a hard dependency on Kotlin at runtime." />
+      <item value="保存操作" />
+      <item value="bean Dest" />
       <item value="当合同评审到达提交最后一步的时候" />
       <item value="get Login User" />
       <item value="Security Utils" />
@@ -43,23 +55,11 @@
       <item value="Data Scope Aspect" />
       <item value="unescape" />
       <item value="noticelist" />
-      <item value="car search" />
-      <item value="div" />
-      <item value="resolve Class" />
-      <item value="latest User Defined Loader" />
-      <item value="latest User Defined Loader 0" />
-      <item value="initialize" />
-      <item value="Mark Reinhold" />
-      <item value="Service Loader" />
-      <item value="Selector Provider" />
-      <item value="Annotated Type Metadata" />
-      <item value="compute If Absent" />
-      <item value="设置全局设置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3998" />
-        <entry key="ENGLISH" value="3998" />
+        <entry key="CHINESE" value="4008" />
+        <entry key="ENGLISH" value="4009" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
