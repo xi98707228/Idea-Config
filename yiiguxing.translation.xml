@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="当合同评审到达提交最后一步的时候" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="Sys User" />
+      <item value="login User" />
+      <item value="需要先由财务人员确认打印才可以打印" />
+      <item value="缴费了类型为年终缴费的" />
+      <item value="device Count" />
+      <item value="contract Money" />
+      <item value="real Money" />
+      <item value="phone" />
+      <item value="payment Type" />
+      <item value="confirm Print" />
+      <item value="liaisons" />
       <item value="Equals And Hash Code" />
       <item value="No Args Constructor" />
       <item value="Hash Map" />
@@ -25,7 +39,6 @@
       <item value="get By Id" />
       <item value="resolve Handle Payment" />
       <item value="is Payment Success" />
-      <item value="payment Type" />
       <item value="Component" />
       <item value="Data Scope Aspect" />
       <item value="unescape" />
@@ -42,24 +55,11 @@
       <item value="Annotated Type Metadata" />
       <item value="compute If Absent" />
       <item value="设置全局设置" />
-      <item value="以configuration地址值作为Key" />
-      <item value="Stephane Nicoll Phillip Webb" />
-      <item value="Nested Configuration Property" />
-      <item value="Indicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. &lt;p&gt; This has no effect on collections and maps as these types are automatically identified." />
-      <item value="dicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. &lt;p&gt; This has no effect on collections and maps as these types are automatically identified." />
-      <item value="A Configuration object for customize default settings. If {@link configLocation} is specified, this property is not used. TODO 使用 MybatisConfiguration" />
-      <item value="ends With" />
-      <item value="list" />
-      <item value="List" />
-      <item value="protected" />
-      <item value="Check permissions required to create a Proxy class. To define a proxy class, it performs the access checks as in Class.forName (VM will invoke ClassLoader.checkPackageAccess): 1. &quot;getClassLoader&quot; permission check if loader == null 2. checkPackageAccess on the interfaces it implements To get a constructor and new instance of a proxy class, it performs the package access check on the interfaces it implements as in Class.getConstructor. If an interface is non-public, the proxy class must be defined by the defining loader of the interface. If the caller's class loader is not the same as the defining loader of the interface, the VM will throw IllegalAccessError when the generated proxy class is being defined via the defineClass0 method." />
-      <item value="check Proxy Access" />
-      <item value="new Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3985" />
-        <entry key="ENGLISH" value="3986" />
+        <entry key="CHINESE" value="3998" />
+        <entry key="ENGLISH" value="3998" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
