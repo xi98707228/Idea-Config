@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Equals And Hash Code" />
+      <item value="No Args Constructor" />
+      <item value="Hash Map" />
+      <item value="Map" />
+      <item value="Req Cont Review" />
+      <item value="Ajax Result" />
+      <item value="检测当前合同是否缴费完成" />
+      <item value="987072248" />
+      <item value="xqh" />
+      <item value="row Id" />
+      <item value="合同流水id" />
+      <item value="payment" />
+      <item value="status" />
+      <item value="check" />
+      <item value="Get Mapping" />
+      <item value="get Review Info" />
+      <item value="i Req Cont Review Service" />
+      <item value="get By Id" />
+      <item value="resolve Handle Payment" />
+      <item value="is Payment Success" />
+      <item value="payment Type" />
       <item value="Component" />
       <item value="Data Scope Aspect" />
       <item value="unescape" />
@@ -34,32 +55,11 @@
       <item value="Check permissions required to create a Proxy class. To define a proxy class, it performs the access checks as in Class.forName (VM will invoke ClassLoader.checkPackageAccess): 1. &quot;getClassLoader&quot; permission check if loader == null 2. checkPackageAccess on the interfaces it implements To get a constructor and new instance of a proxy class, it performs the package access check on the interfaces it implements as in Class.getConstructor. If an interface is non-public, the proxy class must be defined by the defining loader of the interface. If the caller's class loader is not the same as the defining loader of the interface, the VM will throw IllegalAccessError when the generated proxy class is being defined via the defineClass0 method." />
       <item value="check Proxy Access" />
       <item value="new Instance" />
-      <item value="cl" />
-      <item value="parameter types of a proxy class constructor" />
-      <item value="Invocation Handler" />
-      <item value="A function that maps an array of interfaces to an optimal key where Class objects representing interfaces are weakly referenced." />
-      <item value="Returns true if and only if the specified class was dynamically generated to be a proxy class using the {@code getProxyClass} method or the {@code newProxyInstance} method. &lt;p&gt;The reliability of this method is important for the ability to use it to make security decisions, so its implementation should not just test if the class in question extends {@code Proxy}." />
-      <item value="is Assignable From" />
-      <item value="System Meta Object" />
-      <item value="toolkit" />
-      <item value="mybatisplus" />
-      <item value="baomidou" />
-      <item value="Embedded Value Resolver" />
-      <item value="String Value Resolver" />
-      <item value="Undeclared Throwable Exception" />
-      <item value="handle Reflection Exception" />
-      <item value="is Writable Property" />
-      <item value="invoke Method" />
-      <item value="annotation Property" />
-      <item value="value Resolver" />
-      <item value="for Bean Property Access" />
-      <item value="in favor of custom annotation attribute processing" />
-      <item value="General utility methods for working with annotations in JavaBeans style. @author Rob Harrop @author Juergen Hoeller @since 2.0 @deprecated as of 5.2, in favor of custom annotation attribute processing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3955" />
-        <entry key="ENGLISH" value="3956" />
+        <entry key="CHINESE" value="3985" />
+        <entry key="ENGLISH" value="3986" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -97,7 +97,7 @@
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
