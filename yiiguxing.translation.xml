@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Confirm Print" />
+      <item value="get Data Table" />
+      <item value="get User" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="year Payment And Process Finish Data List" />
+      <item value="Req Cont Review" />
       <item value="PagedListHolder is a simple state holder for handling lists of objects, separating them into pages. Page numbering starts with 0. &lt;p&gt;This is mainly targeted at usage in web UIs. Typically, an instance will be instantiated with a list of beans, put into the session, and exported as model. The properties can all be setget programmatically, but the most common way will be data binding, i.e. populating the bean from request parameters. The getters will mainly be used by the view. &lt;p&gt;Supports sorting the underlying list via a {@link SortDefinition} implementation, available as property &quot;sort&quot;. By default, a {@link MutableSortDefinition} instance will be used, toggling the ascending value on setting the same property again. &lt;p&gt;The data binding names have to be called &quot;pageSize&quot; and &quot;sort.ascending&quot;, as expected by BeanWrapper. Note that the names and the nesting syntax match the respective JSTL EL expressions, like &quot;myModelAttr.pageSize&quot; and &quot;myModelAttr.sort.ascending&quot;." />
       <item value="Paged List Holder" />
       <item value="Mail Facade" />
@@ -21,8 +28,6 @@
       <item value="保存操作" />
       <item value="bean Dest" />
       <item value="当合同评审到达提交最后一步的时候" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
       <item value="Sys User" />
       <item value="login User" />
       <item value="需要先由财务人员确认打印才可以打印" />
@@ -38,7 +43,6 @@
       <item value="No Args Constructor" />
       <item value="Hash Map" />
       <item value="Map" />
-      <item value="Req Cont Review" />
       <item value="Ajax Result" />
       <item value="检测当前合同是否缴费完成" />
       <item value="987072248" />
@@ -51,15 +55,11 @@
       <item value="Get Mapping" />
       <item value="get Review Info" />
       <item value="i Req Cont Review Service" />
-      <item value="get By Id" />
-      <item value="resolve Handle Payment" />
-      <item value="is Payment Success" />
-      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4011" />
-        <entry key="ENGLISH" value="4012" />
+        <entry key="CHINESE" value="4018" />
+        <entry key="ENGLISH" value="4019" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
