@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Data Table" />
       <item value="Spring" />
       <item value="Initializing" />
       <item value="Quartz Scheduler" />
@@ -54,12 +55,11 @@
       <item value="get Task Count" />
       <item value="Drains the task queue into a new list, normally using drainTo. But if the queue is a DelayQueue or any other kind of queue for which poll or drainTo may fail to remove some elements, it deletes them one by one." />
       <item value="drain Queue" />
-      <item value="A {@linkplain BlockingQueue blocking queue} in which each insert operation must wait for a corresponding remove operation by another thread, and vice versa. A synchronous queue does not have any internal capacity, not even a capacity of one. You cannot {@code peek} at a synchronous queue because an element is only present when you try to remove it; you cannot insert an element (using any method) unless another thread is trying to remove it; you cannot iterate as there is nothing to iterate. The &lt;em&gt;head&lt;em&gt; of the queue is the element that the first queued inserting thread is trying to add to the queue; if there is no such queued thread then no element is available for removal and {@code poll()} will return {@code null}. For purposes of other {@code Collection} methods (for example {@code contains}), a {@code SynchronousQueue} acts as an empty collection. This queue does not permit {@code null} elements. &lt;p&gt;Synchronous queues are similar to rendezvous channels used in CSP and Ada. They are well suited for handoff designs, in which an object running in one thread must sync up with an object running in another thread in order to hand it some information, event, or task. &lt;p&gt;This class supports an optional fairness policy for ordering waiting producer and consumer threads. By default, this ordering is not guaranteed. However, a queue constructed with fairness set to {@code true} grants threads access in FIFO order. &lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @since 1.5 @author Doug Lea and Bill Scherer and Michael Scott @param &lt;E&gt; the type of elements held in this collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4226" />
-        <entry key="ENGLISH" value="4227" />
+        <entry key="CHINESE" value="4227" />
+        <entry key="ENGLISH" value="4228" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
