@@ -5,6 +5,45 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="执行耗时" />
+      <item value="内存消耗" />
+      <item value="当前遍历的值与" />
+      <item value="max Nums Array Length" />
+      <item value="target" />
+      <item value="iteration Num Value" />
+      <item value="那么就填充进map中" />
+      <item value="&lt;Integer,Integer&gt;" />
+      <item value="nums" />
+      <item value="用来存储" />
+      <item value="key" />
+      <item value="集合" />
+      <item value="元素的过程中" />
+      <item value="按照1所描述的方式填充map数据" />
+      <item value="map中有一个key值" />
+      <item value="iter Num Value" />
+      <item value="await Nanos" />
+      <item value="poll" />
+      <item value="Lock held on access to workers set and related bookkeeping. While we could use a concurrent set of some sort, it turns out to be generally preferable to use a lock. Among the reasons is that this serializes interruptIdleWorkers, which avoids unnecessary interrupt storms, especially during shutdown. Otherwise exiting threads would concurrently interrupt those that have not yet interrupted. It also simplifies some of the associated statistics bookkeeping of largestPoolSize etc. We also hold mainLock on shutdown and shutdownNow, for the sake of ensuring workers set is stable while separately checking permission to interrupt and actually interrupting." />
+      <item value="main Lock" />
+      <item value="低于时间复杂度" />
+      <item value="的算法" />
+      <item value="方法一慢就慢在查找与当前值匹配的另外一个数" />
+      <item value="所以想要查找比较快那么久使用哈希表结构" />
+      <item value="value" />
+      <item value="Returns the approximate total number of tasks that have ever been scheduled for execution. Because the states of tasks and threads may change dynamically during computation, the returned value is only an approximation. @return the number of tasks" />
+      <item value="get Task Count" />
+      <item value="Drains the task queue into a new list, normally using drainTo. But if the queue is a DelayQueue or any other kind of queue for which poll or drainTo may fail to remove some elements, it deletes them one by one." />
+      <item value="drain Queue" />
+      <item value="A {@linkplain BlockingQueue blocking queue} in which each insert operation must wait for a corresponding remove operation by another thread, and vice versa. A synchronous queue does not have any internal capacity, not even a capacity of one. You cannot {@code peek} at a synchronous queue because an element is only present when you try to remove it; you cannot insert an element (using any method) unless another thread is trying to remove it; you cannot iterate as there is nothing to iterate. The &lt;em&gt;head&lt;em&gt; of the queue is the element that the first queued inserting thread is trying to add to the queue; if there is no such queued thread then no element is available for removal and {@code poll()} will return {@code null}. For purposes of other {@code Collection} methods (for example {@code contains}), a {@code SynchronousQueue} acts as an empty collection. This queue does not permit {@code null} elements. &lt;p&gt;Synchronous queues are similar to rendezvous channels used in CSP and Ada. They are well suited for handoff designs, in which an object running in one thread must sync up with an object running in another thread in order to hand it some information, event, or task. &lt;p&gt;This class supports an optional fairness policy for ordering waiting producer and consumer threads. By default, this ordering is not guaranteed. However, a queue constructed with fairness set to {@code true} grants threads access in FIFO order. &lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @since 1.5 @author Doug Lea and Bill Scherer and Michael Scott @param &lt;E&gt; the type of elements held in this collection" />
+      <item value="Delegated Scheduled Executor Service" />
+      <item value="Transferer" />
+      <item value="Synchronous Queue" />
+      <item value="Creates a thread pool that creates new threads as needed, but will reuse previously constructed threads when they are available. These pools will typically improve the performance of programs that execute many short-lived asynchronous tasks. Calls to {@code execute} will reuse previously constructed threads if available. If no existing thread is available, a new thread will be created and added to the pool. Threads that have not been used for sixty seconds are terminated and removed from the cache. Thus, a pool that remains idle for long enough will not consume any resources. Note that pools with similar properties but different details (for example, timeout parameters) may be created using {@link ThreadPoolExecutor} constructors. @return the newly created thread pool" />
+      <item value="Spring Boot Servlet Initializer" />
+      <item value="Ajax Result" />
+      <item value="Scheduled Executor Service" />
+      <item value="击败了36" />
+      <item value="的Java用户" />
       <item value="println" />
       <item value="to String" />
       <item value="速度会比暴力匹配快很多" />
@@ -16,50 +55,11 @@
       <item value="Business Type" />
       <item value="委托合同评审" />
       <item value="i Req Cont Review Service" />
-      <item value="update" />
-      <item value="set Data Source" />
-      <item value="Properties" />
-      <item value="job Store" />
-      <item value="quartz" />
-      <item value="put" />
-      <item value="prop" />
-      <item value="select With Lock SQL" />
-      <item value="SELECT" />
-      <item value="misfire Threshold" />
-      <item value="set Quartz Properties" />
-      <item value="Finished" />
-      <item value="other Value" />
-      <item value="current Iter Value" />
-      <item value="return" />
-      <item value="reference Table" />
-      <item value="is Clustered" />
-      <item value="cluster Checkin Interval" />
-      <item value="merge Properties Into Map" />
-      <item value="max Misfires To Handle At A Time" />
-      <item value="true" />
-      <item value="set Application Context Scheduler Context Key" />
-      <item value="poll Interval" />
-      <item value="quiet Period" />
-      <item value="Start monitoring the source folder for changes." />
-      <item value="create Redis Template" />
-      <item value="get Poll Timeout" />
-      <item value="Temporal Unit" />
-      <item value="Chrono Unit" />
-      <item value="Duration" />
-      <item value="poll Timeout" />
-      <item value="Stream Message Listener Container" />
-      <item value="lifecycle Monitor" />
-      <item value="DEFAULT PHASE" />
-      <item value="A common interface defining methods for startstop lifecycle control. The typical use case for this is to control asynchronous processing. &lt;b&gt;NOTE: This interface does not imply specific auto-startup semantics. Consider implementing {@link SmartLifecycle} for that purpose.&lt;b&gt; &lt;p&gt;Can be implemented by both components (typically a Spring bean defined in a Spring context) and containers (typically a Spring {@link ApplicationContext} itself). Containers will propagate startstop signals to all components that apply within each container, e.g. for a stoprestart scenario at runtime. &lt;p&gt;Can be used for direct invocations or for management operations via JMX. In the latter case, the {@link org.springframework.jmx.export.MBeanExporter} will typically be defined with an {@link org.springframework.jmx.export.assembler.InterfaceBasedMBeanInfoAssembler}, restricting the visibility of activity-controlled components to the Lifecycle interface. &lt;p&gt;Note that the present {@code Lifecycle} interface is only supported on &lt;b&gt;top-level singleton beans&lt;b&gt;. On any other component, the {@code Lifecycle} interface will remain undetected and hence ignored. Also, note that the extended {@link SmartLifecycle} interface provides sophisticated integration with the application context's startup and shutdown phases." />
-      <item value="Lifecycle" />
-      <item value="Smart Lifecycle" />
-      <item value="payment Flag" />
-      <item value="Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4171" />
-        <entry key="ENGLISH" value="4172" />
+        <entry key="CHINESE" value="4210" />
+        <entry key="ENGLISH" value="4210" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -74,8 +74,8 @@
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
-        <entry key="KANNADA" value="1" />
-        <entry key="LATIN" value="12" />
+        <entry key="KANNADA" value="2" />
+        <entry key="LATIN" value="14" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
@@ -95,7 +95,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="4" />
+        <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
