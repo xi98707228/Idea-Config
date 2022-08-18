@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="use Unicode" />
+      <item value="nsei device" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="3 SSJU 371660788310537_Misfire Handler" />
       <item value="执行耗时" />
       <item value="内存消耗" />
       <item value="当前遍历的值与" />
@@ -51,15 +55,11 @@
       <item value="删除委托合同评审申请" />
       <item value="Log" />
       <item value="Delete Mapping" />
-      <item value="business Type" />
-      <item value="Business Type" />
-      <item value="委托合同评审" />
-      <item value="i Req Cont Review Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4210" />
-        <entry key="ENGLISH" value="4210" />
+        <entry key="CHINESE" value="4212" />
+        <entry key="ENGLISH" value="4213" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
