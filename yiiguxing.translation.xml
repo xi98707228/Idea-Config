@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="LOGIN TOKEN KEY" />
+      <item value="mybatis" />
+      <item value="Block Attack Inner Interceptor" />
+      <item value="mapper Locations" />
+      <item value="Enable Transaction Management" />
       <item value="Application Config" />
       <item value="Docket" />
       <item value="Unsatisfied Dependency Exception" />
@@ -50,16 +55,11 @@
       <item value="ox 7 FFFFFFF" />
       <item value="ox FFFFFFFF" />
       <item value="987072248" />
-      <item value="Limit Bit" />
-      <item value="十进制即" />
-      <item value="A constant holding the maximum value an {@code int} can have, 2&lt;sup&gt;31&lt;sup&gt;-1." />
-      <item value="maximum" />
-      <item value="the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4373" />
-        <entry key="ENGLISH" value="4374" />
+        <entry key="CHINESE" value="4377" />
+        <entry key="ENGLISH" value="4378" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -77,6 +77,7 @@
         <entry key="KANNADA" value="2" />
         <entry key="LATIN" value="15" />
         <entry key="LATVIAN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
