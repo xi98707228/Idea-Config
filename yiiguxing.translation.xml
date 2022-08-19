@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Business Device Controller" />
       <item value="null" />
       <item value="current Sum" />
       <item value="current Unit Sum" />
@@ -54,12 +55,11 @@
       <item value="最小负数是由最大整数全部取反" />
       <item value="08" />
       <item value="to Unsigned String 0" />
-      <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s. &lt;p&gt;The value of the argument can be recovered from the returned string {@code s} by calling {@link IntegerparseUnsignedInt(String, int) Integer.parseUnsignedInt(s, 16)}. &lt;p&gt;If the unsigned magnitude is zero, it is represented by a single zero character {@code '0'} ({@code '\u005Cu0030'}); otherwise, the first character of the representation of the unsigned magnitude will not be the zero character. The following characters are used as hexadecimal digits: &lt;blockquote&gt; {@code 0123456789abcdef} &lt;blockquote&gt; These are the characters {@code '\u005Cu0030'} through {@code '\u005Cu0039'} and {@code '\u005Cu0061'} through {@code '\u005Cu0066'}. If uppercase letters are desired, the {@link java.lang.StringtoUpperCase()} method may be called on the result: &lt;blockquote&gt; {@code Integer.toHexString(n).toUpperCase()} &lt;blockquote&gt; @param i an integer to be converted to a string. @return the string representation of the unsigned integer value represented by the argument in hexadecimal (base&amp;nbsp;16). @see parseUnsignedInt(String, int) @see toUnsignedString(int, int)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4367" />
-        <entry key="ENGLISH" value="4368" />
+        <entry key="CHINESE" value="4368" />
+        <entry key="ENGLISH" value="4369" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
