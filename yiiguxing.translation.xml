@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="part 0_basic" />
+      <item value="最小负数肯定由最大整数而来" />
+      <item value="即最大32位" />
+      <item value="最高位必须为0才是正数" />
+      <item value="31" />
+      <item value="最大负数的原码为" />
+      <item value="即表示0 x FFFFFFFF" />
+      <item value="反码为" />
+      <item value="0 x FFFFFFFF" />
+      <item value="其减一最高位才能变为0" />
+      <item value="2" />
+      <item value="保持最高位是1" />
+      <item value="ox 7 FFFFFFF" />
+      <item value="ox FFFFFFFF" />
+      <item value="987072248" />
+      <item value="Limit Bit" />
+      <item value="十进制即" />
+      <item value="A constant holding the maximum value an {@code int} can have, 2&lt;sup&gt;31&lt;sup&gt;-1." />
+      <item value="maximum" />
+      <item value="the" />
+      <item value="MIN VALUE" />
+      <item value="public" />
+      <item value="最小负数是由最大整数全部取反" />
+      <item value="08" />
+      <item value="to Unsigned String 0" />
+      <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s. &lt;p&gt;The value of the argument can be recovered from the returned string {@code s} by calling {@link IntegerparseUnsignedInt(String, int) Integer.parseUnsignedInt(s, 16)}. &lt;p&gt;If the unsigned magnitude is zero, it is represented by a single zero character {@code '0'} ({@code '\u005Cu0030'}); otherwise, the first character of the representation of the unsigned magnitude will not be the zero character. The following characters are used as hexadecimal digits: &lt;blockquote&gt; {@code 0123456789abcdef} &lt;blockquote&gt; These are the characters {@code '\u005Cu0030'} through {@code '\u005Cu0039'} and {@code '\u005Cu0061'} through {@code '\u005Cu0066'}. If uppercase letters are desired, the {@link java.lang.StringtoUpperCase()} method may be called on the result: &lt;blockquote&gt; {@code Integer.toHexString(n).toUpperCase()} &lt;blockquote&gt; @param i an integer to be converted to a string. @return the string representation of the unsigned integer value represented by the argument in hexadecimal (base&amp;nbsp;16). @see parseUnsignedInt(String, int) @see toUnsignedString(int, int)" />
+      <item value="ox 80000000" />
+      <item value="int Value" />
+      <item value="Native" />
+      <item value="The {@code Long} class wraps a value of the primitive type {@code long} in an object. An object of type {@code Long} contains a single field whose type is {@code long}. &lt;p&gt; In addition, this class provides several methods for converting a {@code long} to a {@code String} and a {@code String} to a {@code long}, as well as other constants and methods useful when dealing with a {@code long}. &lt;p&gt;Implementation note: The implementations of the &quot;bit twiddling&quot; methods (such as {@link highestOneBit(long) highestOneBit} and {@link numberOfTrailingZeros(long) numberOfTrailingZeros}) are based on material from Henry S. Warren, Jr.'s &lt;i&gt;Hacker's Delight&lt;i&gt;, (Addison Wesley, 2002)." />
+      <item value="Josh Bloch" />
+      <item value="0 x 8000000000000000 L" />
+      <item value="Short" />
+      <item value="minimum" />
+      <item value="holding" />
+      <item value="constant" />
+      <item value="MAX VALUE" />
+      <item value="exit" />
+      <item value="with" />
+      <item value="finished" />
+      <item value="Process" />
+      <item value="0 x 80000000" />
+      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
+      <item value="限制不同修饰符的数字位数" />
       <item value="password Encoder" />
       <item value="Authentication" />
       <item value="Security Utils" />
       <item value="get Finance Confirm List" />
       <item value="Table Data Info" />
       <item value="Sys User" />
-      <item value="start Page" />
-      <item value="Req Cont Review" />
-      <item value="DEBUG" />
-      <item value="SELECT" />
-      <item value="Parameters" />
-      <item value="debug" />
-      <item value="select List" />
-      <item value="get Data Table" />
-      <item value="Spring" />
-      <item value="Initializing" />
-      <item value="Quartz Scheduler" />
-      <item value="Ruoyi Scheduler" />
-      <item value="Connection" />
-      <item value="INFO" />
-      <item value="Scheduler" />
-      <item value="3 SSJU 371660811375876" />
-      <item value="dispatcher Servlet" />
-      <item value="Ruoyi Scheduler DESKTOP" />
-      <item value="Dispatcher Servlet" />
-      <item value="Mikael Grev" />
-      <item value="Mikael Grev Date: 2004-aug-02 Time: 11:31:11" />
-      <item value="Wildcard Type" />
-      <item value="Parameterized Type" />
-      <item value="get Deserializer" />
-      <item value="use Unicode" />
-      <item value="nsei device" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="3 SSJU 371660788310537_Misfire Handler" />
-      <item value="执行耗时" />
-      <item value="内存消耗" />
-      <item value="当前遍历的值与" />
-      <item value="max Nums Array Length" />
-      <item value="target" />
-      <item value="iteration Num Value" />
-      <item value="那么就填充进map中" />
-      <item value="&lt;Integer,Integer&gt;" />
-      <item value="nums" />
-      <item value="用来存储" />
-      <item value="key" />
-      <item value="集合" />
-      <item value="元素的过程中" />
-      <item value="按照1所描述的方式填充map数据" />
-      <item value="map中有一个key值" />
-      <item value="iter Num Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4243" />
-        <entry key="ENGLISH" value="4244" />
+        <entry key="CHINESE" value="4343" />
+        <entry key="ENGLISH" value="4343" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
