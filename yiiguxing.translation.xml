@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="null" />
+      <item value="current Sum" />
+      <item value="current Unit Sum" />
+      <item value="is Carry Bit" />
+      <item value="result List Node" />
+      <item value="last Node" />
+      <item value="普通链表的方式" />
+      <item value="的下一个元素同时为" />
+      <item value="recall Call Result" />
+      <item value="target Data Sources" />
+      <item value="Dynamic Data Source" />
+      <item value="set Default Target Data Source" />
+      <item value="Abstract {@link javax.sql.DataSource} implementation that routes {@link getConnection()} calls to one of various target DataSources based on a lookup key. The latter is usually (but not necessarily) determined through some thread-bound transaction context. @author Juergen Hoeller @since 2.0.1 @see setTargetDataSources @see setDefaultTargetDataSource @see determineCurrentLookupKey()" />
+      <item value="Abstract Routing Data Source" />
+      <item value="determine Current Lookup Key" />
+      <item value="set Data Source Type" />
+      <item value="proceed" />
+      <item value="within" />
+      <item value="Thread Pool Config" />
+      <item value="read From Resource" />
+      <item value="remove Druid Filter Registration Bean" />
+      <item value="extension" />
+      <item value="assert Allowed" />
+      <item value="DEFAULT ALLOWED EXTENSION" />
       <item value="part 0_basic" />
       <item value="最小负数肯定由最大整数而来" />
       <item value="即最大32位" />
@@ -31,35 +55,11 @@
       <item value="08" />
       <item value="to Unsigned String 0" />
       <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s. &lt;p&gt;The value of the argument can be recovered from the returned string {@code s} by calling {@link IntegerparseUnsignedInt(String, int) Integer.parseUnsignedInt(s, 16)}. &lt;p&gt;If the unsigned magnitude is zero, it is represented by a single zero character {@code '0'} ({@code '\u005Cu0030'}); otherwise, the first character of the representation of the unsigned magnitude will not be the zero character. The following characters are used as hexadecimal digits: &lt;blockquote&gt; {@code 0123456789abcdef} &lt;blockquote&gt; These are the characters {@code '\u005Cu0030'} through {@code '\u005Cu0039'} and {@code '\u005Cu0061'} through {@code '\u005Cu0066'}. If uppercase letters are desired, the {@link java.lang.StringtoUpperCase()} method may be called on the result: &lt;blockquote&gt; {@code Integer.toHexString(n).toUpperCase()} &lt;blockquote&gt; @param i an integer to be converted to a string. @return the string representation of the unsigned integer value represented by the argument in hexadecimal (base&amp;nbsp;16). @see parseUnsignedInt(String, int) @see toUnsignedString(int, int)" />
-      <item value="ox 80000000" />
-      <item value="int Value" />
-      <item value="Native" />
-      <item value="The {@code Long} class wraps a value of the primitive type {@code long} in an object. An object of type {@code Long} contains a single field whose type is {@code long}. &lt;p&gt; In addition, this class provides several methods for converting a {@code long} to a {@code String} and a {@code String} to a {@code long}, as well as other constants and methods useful when dealing with a {@code long}. &lt;p&gt;Implementation note: The implementations of the &quot;bit twiddling&quot; methods (such as {@link highestOneBit(long) highestOneBit} and {@link numberOfTrailingZeros(long) numberOfTrailingZeros}) are based on material from Henry S. Warren, Jr.'s &lt;i&gt;Hacker's Delight&lt;i&gt;, (Addison Wesley, 2002)." />
-      <item value="Josh Bloch" />
-      <item value="0 x 8000000000000000 L" />
-      <item value="Short" />
-      <item value="minimum" />
-      <item value="holding" />
-      <item value="constant" />
-      <item value="MAX VALUE" />
-      <item value="exit" />
-      <item value="with" />
-      <item value="finished" />
-      <item value="Process" />
-      <item value="0 x 80000000" />
-      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
-      <item value="限制不同修饰符的数字位数" />
-      <item value="password Encoder" />
-      <item value="Authentication" />
-      <item value="Security Utils" />
-      <item value="get Finance Confirm List" />
-      <item value="Table Data Info" />
-      <item value="Sys User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4343" />
-        <entry key="ENGLISH" value="4343" />
+        <entry key="CHINESE" value="4367" />
+        <entry key="ENGLISH" value="4368" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
