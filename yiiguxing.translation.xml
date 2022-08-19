@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="void" />
+      <item value="such 2_fix Interface" />
+      <item value="Repeatedly Request Wrapper" />
+      <item value="submit Key" />
+      <item value="interval" />
+      <item value="is Repeat Submit" />
+      <item value="Repeat Submit" />
       <item value="LOGIN TOKEN KEY" />
       <item value="mybatis" />
       <item value="Block Attack Inner Interceptor" />
@@ -48,18 +55,11 @@
       <item value="最大负数的原码为" />
       <item value="即表示0 x FFFFFFFF" />
       <item value="反码为" />
-      <item value="0 x FFFFFFFF" />
-      <item value="其减一最高位才能变为0" />
-      <item value="2" />
-      <item value="保持最高位是1" />
-      <item value="ox 7 FFFFFFF" />
-      <item value="ox FFFFFFFF" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4377" />
-        <entry key="ENGLISH" value="4378" />
+        <entry key="CHINESE" value="4385" />
+        <entry key="ENGLISH" value="4386" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
