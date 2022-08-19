@@ -5,7 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="password Encoder" />
+      <item value="Authentication" />
+      <item value="Security Utils" />
+      <item value="get Finance Confirm List" />
+      <item value="Table Data Info" />
+      <item value="Sys User" />
+      <item value="start Page" />
       <item value="Req Cont Review" />
+      <item value="DEBUG" />
+      <item value="SELECT" />
+      <item value="Parameters" />
+      <item value="debug" />
+      <item value="select List" />
       <item value="get Data Table" />
       <item value="Spring" />
       <item value="Initializing" />
@@ -43,23 +55,11 @@
       <item value="按照1所描述的方式填充map数据" />
       <item value="map中有一个key值" />
       <item value="iter Num Value" />
-      <item value="await Nanos" />
-      <item value="poll" />
-      <item value="Lock held on access to workers set and related bookkeeping. While we could use a concurrent set of some sort, it turns out to be generally preferable to use a lock. Among the reasons is that this serializes interruptIdleWorkers, which avoids unnecessary interrupt storms, especially during shutdown. Otherwise exiting threads would concurrently interrupt those that have not yet interrupted. It also simplifies some of the associated statistics bookkeeping of largestPoolSize etc. We also hold mainLock on shutdown and shutdownNow, for the sake of ensuring workers set is stable while separately checking permission to interrupt and actually interrupting." />
-      <item value="main Lock" />
-      <item value="低于时间复杂度" />
-      <item value="的算法" />
-      <item value="方法一慢就慢在查找与当前值匹配的另外一个数" />
-      <item value="所以想要查找比较快那么久使用哈希表结构" />
-      <item value="value" />
-      <item value="Returns the approximate total number of tasks that have ever been scheduled for execution. Because the states of tasks and threads may change dynamically during computation, the returned value is only an approximation. @return the number of tasks" />
-      <item value="get Task Count" />
-      <item value="Drains the task queue into a new list, normally using drainTo. But if the queue is a DelayQueue or any other kind of queue for which poll or drainTo may fail to remove some elements, it deletes them one by one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4228" />
-        <entry key="ENGLISH" value="4229" />
+        <entry key="CHINESE" value="4243" />
+        <entry key="ENGLISH" value="4244" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
