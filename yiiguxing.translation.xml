@@ -5,101 +5,106 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="万能鸭子" />
-      <item value="Danceable" />
-      <item value="duck Name" />
-      <item value="swiming" />
-      <item value="The smallest table capacity for which bins may be treeified. (Otherwise the table is resized if too many nodes in a bin.) Should be at least 4 TREEIFY_THRESHOLD to avoid conflicts between resizing and treeification thresholds." />
-      <item value="tab" />
-      <item value="MIN TREEIFY CAPACITY" />
-      <item value="Replaces all linked nodes in bin at index for given hash unless table is too small, in which case resizes instead." />
-      <item value="-1 for 1st" />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="bin Count" />
-      <item value="Stores the wrapped factory." />
-      <item value="main Loop" />
-      <item value="EXECUTED" />
-      <item value="scheduled Execution Time" />
-      <item value="VIRGIN" />
-      <item value="Josh Bloch" />
-      <item value="Timer Task" />
-      <item value="Rate Limiter Aspect" />
-      <item value="shutdown And Await Termination" />
-      <item value="mask Null" />
-      <item value="Identity Hash Map" />
-      <item value="invalidated" />
-      <item value="evaluation" />
-      <item value="An {@code Observable} is an entity that wraps content and allows to observe the content for invalidations. &lt;p&gt; An implementation of {@code Observable} may support lazy evaluation, which means that the content is not immediately recomputed after changes, but lazily the next time it is requested. All bindings and properties in this library support lazy evaluation. &lt;p&gt; Implementations of this class should strive to generate as few events as possible to avoid wasting too much time in event handlers. Implementations in this library mark themselves as invalid when the first invalidation event occurs. They do not generate anymore invalidation events until their value is recomputed and valid again." />
-      <item value="Invalidation Listener" />
-      <item value="Observable Map" />
-      <item value="user Requested" />
-      <item value="legacy Merge Sort" />
-      <item value="Comparable Tim Sort" />
-      <item value="is Whitespace" />
-      <item value="contains Text" />
-      <item value="has Text" />
-      <item value="null Safe Get" />
-      <item value="Assert a boolean expression, throwing an {@code IllegalStateException} if the expression evaluates to {@code false}. &lt;p&gt;Call {@link isTrue} if you wish to throw an {@code IllegalArgumentException} on an assertion failure. &lt;pre class=&quot;code&quot;&gt;Assert.state(id == null, &quot;The id property must not already be initialized&quot;);&lt;pre&gt; @param expression a boolean expression @param message the exception message to use if the assertion fails @throws IllegalStateException if {@code expression} is {@code false}" />
-      <item value="Packages Annotation Filter" />
-      <item value="All annotations filtered&quot;" />
-      <item value="{@link AnnotationFilter} that matches annotations in the {@code java.lang} and {@code org.springframework.lang} packages and their subpackages. &lt;p&gt;This is the default filter in the {@link MergedAnnotations} model." />
-      <item value="PLAIN" />
-      <item value="Shortcut: directly present on the element, with no merging needed?" />
-      <item value="取报告缴费" />
-      <item value="resolve Handle Payment" />
-      <item value="payment Flag" />
-      <item value="check Payment Accept" />
-      <item value="Blocking" />
-      <item value="internal Write Entries" />
-      <item value="shapes" />
-      <item value="serialize Static State" />
-      <item value="Display the shapes:" />
-      <item value="Set all the static colors to GREEN:" />
+      <item value="MAX VALUE" />
+      <item value="int Value的补码" />
+      <item value="0 x 80000000" />
+      <item value="0 x 7 FFFFFFF" />
+      <item value="void" />
+      <item value="such 2_fix Interface" />
+      <item value="Repeatedly Request Wrapper" />
+      <item value="submit Key" />
+      <item value="interval" />
+      <item value="is Repeat Submit" />
+      <item value="Repeat Submit" />
+      <item value="LOGIN TOKEN KEY" />
+      <item value="mybatis" />
+      <item value="Block Attack Inner Interceptor" />
+      <item value="mapper Locations" />
+      <item value="Enable Transaction Management" />
+      <item value="Application Config" />
+      <item value="Docket" />
+      <item value="Unsatisfied Dependency Exception" />
+      <item value="reasonable" />
+      <item value="support Methods Arguments" />
+      <item value="Business Device Controller" />
+      <item value="null" />
+      <item value="current Sum" />
+      <item value="current Unit Sum" />
+      <item value="is Carry Bit" />
+      <item value="result List Node" />
+      <item value="last Node" />
+      <item value="普通链表的方式" />
+      <item value="的下一个元素同时为" />
+      <item value="recall Call Result" />
+      <item value="target Data Sources" />
+      <item value="Dynamic Data Source" />
+      <item value="set Default Target Data Source" />
+      <item value="Abstract {@link javax.sql.DataSource} implementation that routes {@link getConnection()} calls to one of various target DataSources based on a lookup key. The latter is usually (but not necessarily) determined through some thread-bound transaction context. @author Juergen Hoeller @since 2.0.1 @see setTargetDataSources @see setDefaultTargetDataSource @see determineCurrentLookupKey()" />
+      <item value="Abstract Routing Data Source" />
+      <item value="determine Current Lookup Key" />
+      <item value="set Data Source Type" />
+      <item value="proceed" />
+      <item value="within" />
+      <item value="Thread Pool Config" />
+      <item value="read From Resource" />
+      <item value="remove Druid Filter Registration Bean" />
+      <item value="extension" />
+      <item value="assert Allowed" />
+      <item value="DEFAULT ALLOWED EXTENSION" />
+      <item value="part 0_basic" />
+      <item value="最小负数肯定由最大整数而来" />
+      <item value="即最大32位" />
+      <item value="最高位必须为0才是正数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3088" />
-        <entry key="ENGLISH" value="3088" />
-        <entry key="ALBANIAN" value="1" />
-        <entry key="ARABIC" value="2" />
-        <entry key="IRISH" value="1" />
-        <entry key="ICELANDIC" value="1" />
-        <entry key="AFRIKAANS" value="2" />
-        <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="CHINESE" value="4387" />
+        <entry key="ENGLISH" value="4388" />
+        <entry key="ALBANIAN" value="3" />
+        <entry key="ARABIC" value="3" />
+        <entry key="IRISH" value="2" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="ICELANDIC" value="3" />
+        <entry key="AFRIKAANS" value="3" />
+        <entry key="DANISH" value="4" />
+        <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
+        <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
-        <entry key="DUTCH" value="2" />
-        <entry key="CATALAN" value="1" />
-        <entry key="KANNADA" value="1" />
-        <entry key="LATIN" value="6" />
+        <entry key="DUTCH" value="3" />
+        <entry key="CATALAN" value="2" />
+        <entry key="KANNADA" value="2" />
+        <entry key="LATIN" value="15" />
         <entry key="LATVIAN" value="1" />
-        <entry key="LUXEMBOURGISH" value="2" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="LUXEMBOURGISH" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
-        <entry key="MALTESE" value="1" />
+        <entry key="MALTESE" value="3" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
+        <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="5" />
+        <entry key="PORTUGUESE" value="7" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="6" />
-        <entry key="HAWAIIAN" value="1" />
+        <entry key="SPANISH" value="7" />
+        <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="4" />
+        <entry key="ITALIAN" value="7" />
+        <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659860808522" />
+    <option name="lastTrimTime" value="1660526376544" />
   </component>
 </application>
