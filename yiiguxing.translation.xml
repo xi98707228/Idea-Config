@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Weapon Behavior" />
+      <item value="Knife Behavior" />
+      <item value="use Weapon" />
       <item value="Fly Behavior" />
       <item value="duck Name" />
       <item value="Fly No Way" />
@@ -52,14 +55,11 @@
       <item value="set Default Target Data Source" />
       <item value="Abstract {@link javax.sql.DataSource} implementation that routes {@link getConnection()} calls to one of various target DataSources based on a lookup key. The latter is usually (but not necessarily) determined through some thread-bound transaction context. @author Juergen Hoeller @since 2.0.1 @see setTargetDataSources @see setDefaultTargetDataSource @see determineCurrentLookupKey()" />
       <item value="Abstract Routing Data Source" />
-      <item value="determine Current Lookup Key" />
-      <item value="set Data Source Type" />
-      <item value="proceed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4397" />
-        <entry key="ENGLISH" value="4398" />
+        <entry key="CHINESE" value="4400" />
+        <entry key="ENGLISH" value="4401" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
