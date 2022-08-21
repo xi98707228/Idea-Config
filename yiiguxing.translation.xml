@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="add Trash" />
+      <item value="程序变得很有弹性" />
+      <item value="可以看到在Duck种内嵌经常发生变化的飞行行为时" />
+      <item value="current Conditions Display" />
+      <item value="在这可以理解为气象站更新数据之后自动调用此方法" />
+      <item value="measurements Changed" />
+      <item value="end" />
+      <item value="int" />
+      <item value="next Int" />
+      <item value="get Random String" />
+      <item value="Random" />
       <item value="transport" />
       <item value="Weapon Behavior" />
       <item value="Knife Behavior" />
@@ -44,22 +55,11 @@
       <item value="Business Device Controller" />
       <item value="null" />
       <item value="current Sum" />
-      <item value="current Unit Sum" />
-      <item value="is Carry Bit" />
-      <item value="result List Node" />
-      <item value="last Node" />
-      <item value="普通链表的方式" />
-      <item value="的下一个元素同时为" />
-      <item value="recall Call Result" />
-      <item value="target Data Sources" />
-      <item value="Dynamic Data Source" />
-      <item value="set Default Target Data Source" />
-      <item value="Abstract {@link javax.sql.DataSource} implementation that routes {@link getConnection()} calls to one of various target DataSources based on a lookup key. The latter is usually (but not necessarily) determined through some thread-bound transaction context. @author Juergen Hoeller @since 2.0.1 @see setTargetDataSources @see setDefaultTargetDataSource @see determineCurrentLookupKey()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4401" />
-        <entry key="ENGLISH" value="4402" />
+        <entry key="CHINESE" value="4412" />
+        <entry key="ENGLISH" value="4413" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -96,7 +96,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="6" />
+        <entry key="HINDI" value="7" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
