@@ -5,10 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compare And Set" />
+      <item value="publish Event Manager" />
+      <item value="Publish Event Manager" />
       <item value="每个观察者的" />
       <item value="Subscribe User" />
       <item value="push Message" />
-      <item value="Publish Event Manager" />
       <item value="part 1_observer" />
       <item value="add Trash" />
       <item value="程序变得很有弹性" />
@@ -53,13 +55,11 @@
       <item value="mapper Locations" />
       <item value="Enable Transaction Management" />
       <item value="Application Config" />
-      <item value="Docket" />
-      <item value="Unsatisfied Dependency Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4418" />
-        <entry key="ENGLISH" value="4418" />
+        <entry key="CHINESE" value="4420" />
+        <entry key="ENGLISH" value="4421" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
