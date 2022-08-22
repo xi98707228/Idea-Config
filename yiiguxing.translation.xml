@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="park" />
+      <item value="to Ajax" />
+      <item value="客户row Id" />
+      <item value="row Key" />
+      <item value="删除指定行客户信息" />
+      <item value="param" />
+      <item value="Transactional" />
+      <item value="find Method Candidates By Name" />
+      <item value="get Method If Available" />
+      <item value="Reverses the order of the elements in the specified list.&lt;p&gt; This method runs in linear time. @param list the list whose elements are to be reversed. @throws UnsupportedOperationException if the specified list or its list-iterator does not support the &lt;tt&gt;set&lt;tt&gt; operation." />
+      <item value="reverse" />
+      <item value="available" />
+      <item value="Abstract Beans Of Type Depends On Database Initialization Detector" />
       <item value="native" />
       <item value="customer Name" />
       <item value="customer Location" />
@@ -42,24 +55,11 @@
       <item value="MAX VALUE" />
       <item value="int Value的补码" />
       <item value="0 x 80000000" />
-      <item value="0 x 7 FFFFFFF" />
-      <item value="void" />
-      <item value="such 2_fix Interface" />
-      <item value="Repeatedly Request Wrapper" />
-      <item value="submit Key" />
-      <item value="interval" />
-      <item value="is Repeat Submit" />
-      <item value="Repeat Submit" />
-      <item value="LOGIN TOKEN KEY" />
-      <item value="mybatis" />
-      <item value="Block Attack Inner Interceptor" />
-      <item value="mapper Locations" />
-      <item value="Enable Transaction Management" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4438" />
-        <entry key="ENGLISH" value="4439" />
+        <entry key="CHINESE" value="4449" />
+        <entry key="ENGLISH" value="4450" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
