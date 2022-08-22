@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="json" />
+      <item value="display" />
       <item value="water quality div" />
       <item value="level" />
       <item value="src" />
@@ -53,13 +55,11 @@
       <item value="assign id" />
       <item value="pagehelper" />
       <item value="ASSIGN ID" />
-      <item value="Business Custom" />
-      <item value="skip Delimiters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4460" />
-        <entry key="ENGLISH" value="4461" />
+        <entry key="CHINESE" value="4462" />
+        <entry key="ENGLISH" value="4463" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
