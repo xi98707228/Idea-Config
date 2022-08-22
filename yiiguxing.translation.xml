@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Angel Listener" />
+      <item value="part 1_observer" />
+      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and the &lt;code&gt;arg&lt;code&gt; argument." />
+      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and &lt;code&gt;null&lt;code&gt;. In other words, this method is equivalent to: &lt;blockquote&gt;&lt;tt&gt; notifyObservers(null)&lt;tt&gt;&lt;blockquote&gt;" />
+      <item value="微信事件推送消息具体方法" />
       <item value="Current Conditions Display" />
       <item value="current Conditions Display" />
       <item value="Abstract Weather Data" />
@@ -28,7 +33,6 @@
       <item value="每个观察者的" />
       <item value="Subscribe User" />
       <item value="push Message" />
-      <item value="part 1_observer" />
       <item value="add Trash" />
       <item value="程序变得很有弹性" />
       <item value="可以看到在Duck种内嵌经常发生变化的飞行行为时" />
@@ -51,15 +55,11 @@
       <item value="extends" />
       <item value="Danceable" />
       <item value="short" />
-      <item value="Executors" />
-      <item value="Executor Completion Service" />
-      <item value="MAX VALUE" />
-      <item value="int Value的补码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4441" />
-        <entry key="ENGLISH" value="4442" />
+        <entry key="CHINESE" value="4445" />
+        <entry key="ENGLISH" value="4446" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
