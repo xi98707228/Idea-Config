@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Angel Listener" />
-      <item value="part 1_observer" />
-      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and the &lt;code&gt;arg&lt;code&gt; argument." />
-      <item value="If this object has changed, as indicated by the &lt;code&gt;hasChanged&lt;code&gt; method, then notify all of its observers and then call the &lt;code&gt;clearChanged&lt;code&gt; method to indicate that this object has no longer changed. &lt;p&gt; Each observer has its &lt;code&gt;update&lt;code&gt; method called with two arguments: this observable object and &lt;code&gt;null&lt;code&gt;. In other words, this method is equivalent to: &lt;blockquote&gt;&lt;tt&gt; notifyObservers(null)&lt;tt&gt;&lt;blockquote&gt;" />
-      <item value="微信事件推送消息具体方法" />
-      <item value="Current Conditions Display" />
-      <item value="current Conditions Display" />
-      <item value="Abstract Weather Data" />
-      <item value="weather Data" />
-      <item value="Override" />
-      <item value="data Board List" />
-      <item value="measurements Changed" />
-      <item value="notify Observers" />
-      <item value="set Humidity" />
-      <item value="Abstract Data Board" />
-      <item value="update Data" />
-      <item value="update" />
-      <item value="board Data" />
-      <item value="987072248" />
-      <item value="@author xqh, 987072248@qq.com" />
-      <item value="display Board Data" />
-      <item value="Data Board" />
-      <item value="compare And Set" />
-      <item value="publish Event Manager" />
-      <item value="Publish Event Manager" />
-      <item value="每个观察者的" />
-      <item value="Subscribe User" />
-      <item value="push Message" />
-      <item value="add Trash" />
-      <item value="程序变得很有弹性" />
-      <item value="可以看到在Duck种内嵌经常发生变化的飞行行为时" />
-      <item value="在这可以理解为气象站更新数据之后自动调用此方法" />
-      <item value="end" />
-      <item value="int" />
-      <item value="next Int" />
-      <item value="get Random String" />
-      <item value="Random" />
-      <item value="transport" />
-      <item value="Weapon Behavior" />
-      <item value="Knife Behavior" />
-      <item value="use Weapon" />
-      <item value="Fly Behavior" />
-      <item value="duck Name" />
-      <item value="Fly No Way" />
-      <item value="deletage" />
-      <item value="derector" />
-      <item value="println" />
-      <item value="extends" />
-      <item value="Danceable" />
-      <item value="short" />
+      <item value="json" />
+      <item value="display" />
+      <item value="water quality div" />
+      <item value="level" />
+      <item value="src" />
+      <item value="height" />
+      <item value="width" />
+      <item value="img wz 01" />
+      <item value="fetch" />
+      <item value="Containers" />
+      <item value="data Collect Error Count" />
+      <item value="The error may exist in file" />
+      <item value="park" />
+      <item value="to Ajax" />
+      <item value="客户row Id" />
+      <item value="row Key" />
+      <item value="删除指定行客户信息" />
+      <item value="param" />
+      <item value="Transactional" />
+      <item value="find Method Candidates By Name" />
+      <item value="get Method If Available" />
+      <item value="Reverses the order of the elements in the specified list.&lt;p&gt; This method runs in linear time. @param list the list whose elements are to be reversed. @throws UnsupportedOperationException if the specified list or its list-iterator does not support the &lt;tt&gt;set&lt;tt&gt; operation." />
+      <item value="reverse" />
+      <item value="available" />
+      <item value="Abstract Beans Of Type Depends On Database Initialization Detector" />
+      <item value="native" />
+      <item value="customer Name" />
+      <item value="customer Location" />
+      <item value="create User Nick" />
+      <item value="value" />
+      <item value="row id" />
+      <item value="row Id" />
+      <item value="Business Customer Search Filter" />
+      <item value="get Business Customer Data List" />
+      <item value="param String" />
+      <item value="Business Customer Controller" />
+      <item value="Base Controller" />
+      <item value="Rate Limiter" />
+      <item value="Permit All Url Properties" />
+      <item value="Anonymous" />
+      <item value="Constraint Validator" />
+      <item value="get System Business Customer Data List" />
+      <item value="business customer" />
+      <item value="Business Customer" />
+      <item value="create Time" />
+      <item value="Date" />
+      <item value="config" />
+      <item value="assign id" />
+      <item value="pagehelper" />
+      <item value="ASSIGN ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4445" />
-        <entry key="ENGLISH" value="4446" />
+        <entry key="CHINESE" value="4462" />
+        <entry key="ENGLISH" value="4463" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -67,7 +67,7 @@
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="4" />
-        <entry key="GERMAN" value="3" />
+        <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRISIAN" value="1" />
@@ -86,7 +86,7 @@
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -96,7 +96,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="7" />
+        <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
@@ -105,6 +105,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661065598823" />
+    <option name="lastTrimTime" value="1661131219804" />
   </component>
 </application>
