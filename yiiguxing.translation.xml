@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="water quality div" />
+      <item value="level" />
+      <item value="src" />
+      <item value="height" />
+      <item value="width" />
+      <item value="img wz 01" />
       <item value="fetch" />
       <item value="Containers" />
       <item value="data Collect Error Count" />
@@ -49,17 +55,11 @@
       <item value="ASSIGN ID" />
       <item value="Business Custom" />
       <item value="skip Delimiters" />
-      <item value="token" />
-      <item value="String Tokenizer" />
-      <item value="CONFIG LOCATION DELIMITERS" />
-      <item value="tokenize To String Array" />
-      <item value="public" />
-      <item value="Abstract Weather Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4453" />
-        <entry key="ENGLISH" value="4454" />
+        <entry key="CHINESE" value="4460" />
+        <entry key="ENGLISH" value="4461" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
