@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Current Conditions Display" />
+      <item value="current Conditions Display" />
+      <item value="Abstract Weather Data" />
+      <item value="weather Data" />
+      <item value="Override" />
+      <item value="data Board List" />
+      <item value="measurements Changed" />
+      <item value="notify Observers" />
+      <item value="set Humidity" />
+      <item value="Abstract Data Board" />
+      <item value="update Data" />
+      <item value="update" />
+      <item value="board Data" />
+      <item value="987072248" />
+      <item value="@author xqh, 987072248@qq.com" />
+      <item value="display Board Data" />
+      <item value="Data Board" />
       <item value="compare And Set" />
       <item value="publish Event Manager" />
       <item value="Publish Event Manager" />
@@ -15,9 +32,7 @@
       <item value="add Trash" />
       <item value="程序变得很有弹性" />
       <item value="可以看到在Duck种内嵌经常发生变化的飞行行为时" />
-      <item value="current Conditions Display" />
       <item value="在这可以理解为气象站更新数据之后自动调用此方法" />
-      <item value="measurements Changed" />
       <item value="end" />
       <item value="int" />
       <item value="next Int" />
@@ -40,26 +55,11 @@
       <item value="Executor Completion Service" />
       <item value="MAX VALUE" />
       <item value="int Value的补码" />
-      <item value="0 x 80000000" />
-      <item value="0 x 7 FFFFFFF" />
-      <item value="void" />
-      <item value="such 2_fix Interface" />
-      <item value="Repeatedly Request Wrapper" />
-      <item value="submit Key" />
-      <item value="interval" />
-      <item value="is Repeat Submit" />
-      <item value="Repeat Submit" />
-      <item value="LOGIN TOKEN KEY" />
-      <item value="mybatis" />
-      <item value="Block Attack Inner Interceptor" />
-      <item value="mapper Locations" />
-      <item value="Enable Transaction Management" />
-      <item value="Application Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4420" />
-        <entry key="ENGLISH" value="4421" />
+        <entry key="CHINESE" value="4441" />
+        <entry key="ENGLISH" value="4442" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
