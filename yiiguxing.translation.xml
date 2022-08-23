@@ -6,6 +6,12 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="GROUP MAPPING ICON" />
+      <item value="GROUP MAPPING PRIMARY" />
+      <item value="device Data List Id" />
+      <item value="execute Add Document" />
+      <item value="device Primary" />
+      <item value="device Icon" />
+      <item value="function" />
       <item value="top Center Left num 2" />
       <item value="设备列表" />
       <item value="人工监测点" />
@@ -36,7 +42,6 @@
       <item value="获取当前图层类型的所有" />
       <item value="add Monitoring Points To Map" />
       <item value="click" />
-      <item value="function" />
       <item value="input water quality" />
       <item value="清除水质传感器坐标点信息" />
       <item value="monitor Range" />
@@ -50,16 +55,11 @@
       <item value="stylesheet" />
       <item value="json" />
       <item value="display" />
-      <item value="water quality div" />
-      <item value="level" />
-      <item value="src" />
-      <item value="height" />
-      <item value="img wz 01" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4522" />
-        <entry key="ENGLISH" value="4523" />
+        <entry key="CHINESE" value="4531" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
