@@ -5,13 +5,39 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="device Div" />
+      <item value="健康数据指数" />
+      <item value="log" />
+      <item value="init Map" />
+      <item value="tilt" />
+      <item value="79 d 784" />
+      <item value="tctext new" />
+      <item value="inline-block" />
+      <item value="height" />
+      <item value="width" />
+      <item value="border" />
+      <item value="top Center Map num 3" />
+      <item value="margin-left" />
+      <item value="cursor" />
+      <item value="map" />
+      <item value="legend Title" />
+      <item value="获取鸟类摄像头设备列表" />
+      <item value="get Intervals Date" />
+      <item value="get Artificial Device List" />
+      <item value="append Dom Text" />
+      <item value="Picture Analysed" />
+      <item value="results" />
+      <item value="add Artificial Points To Map" />
+      <item value="请求方式" />
+      <item value="get Overlays" />
+      <item value="remove Point By Class" />
+      <item value="add Bird Camera To Map" />
       <item value="heat Layer" />
       <item value="device Bird" />
       <item value="counts" />
       <item value="execute Add Document" />
       <item value="data" />
       <item value="info Window" />
-      <item value="请求方式" />
       <item value="devname" />
       <item value="GROUP MAPPING ICON" />
       <item value="GROUP MAPPING PRIMARY" />
@@ -29,37 +55,11 @@
       <item value="Point" />
       <item value="B Map GL" />
       <item value="current Pagepath" />
-      <item value="project Name" />
-      <item value="optional new" />
-      <item value="点击第一部分循环出来对应的设备信息" />
-      <item value="legenddiv new" />
-      <item value="从接口获取当前传感器类型的所有设备列表信息" />
-      <item value="border-right" />
-      <item value="margin-top" />
-      <item value="width" />
-      <item value="icon" />
-      <item value="marker" />
-      <item value="remove Document All Device By Layer" />
-      <item value="初始化json数据" />
-      <item value="并添加到" />
-      <item value="传感器设备信息" />
-      <item value="get Device List By Layer And Add Document" />
-      <item value="remove All Device List By Layer" />
-      <item value="获取当前图层类型的所有" />
-      <item value="add Monitoring Points To Map" />
-      <item value="click" />
-      <item value="input water quality" />
-      <item value="清除水质传感器坐标点信息" />
-      <item value="monitor Range" />
-      <item value="add Camera To Map" />
-      <item value="将此类型的图层所有设备显示在" />
-      <item value="icon Water" />
-      <item value="点击右侧水质传感器开关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4538" />
-        <entry key="ENGLISH" value="4539" />
+        <entry key="CHINESE" value="4577" />
+        <entry key="ENGLISH" value="4578" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
