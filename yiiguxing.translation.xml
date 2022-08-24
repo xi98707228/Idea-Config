@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="name" />
+      <item value="a" />
+      <item value="namesss" />
+      <item value="init Boundary" />
+      <item value="98" />
+      <item value="第三部分" />
+      <item value="显示地图插件" />
+      <item value="top Center Map num 3" />
+      <item value="layer chl" />
       <item value="options" />
       <item value="map container" />
       <item value="map Container" />
@@ -19,7 +28,6 @@
       <item value="height" />
       <item value="width" />
       <item value="border" />
-      <item value="top Center Map num 3" />
       <item value="margin-left" />
       <item value="cursor" />
       <item value="map" />
@@ -47,19 +55,11 @@
       <item value="device Data List Id" />
       <item value="device Primary" />
       <item value="device Icon" />
-      <item value="function" />
-      <item value="top Center Left num 2" />
-      <item value="设备列表" />
-      <item value="人工监测点" />
-      <item value="legenddiv new active" />
-      <item value="clear Water Quality Label" />
-      <item value="clear Color Tags" />
-      <item value="parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4581" />
-        <entry key="ENGLISH" value="4582" />
+        <entry key="CHINESE" value="4589" />
+        <entry key="ENGLISH" value="4590" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
