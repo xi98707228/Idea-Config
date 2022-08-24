@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="content 1_error Case的" />
-      <item value="ApplicationEvents published before the multicaster setup." />
-      <item value="Local listeners registered before refresh." />
-      <item value="Statically specified listeners." />
-      <item value="publish Event" />
-      <item value="Application Event Publisher" />
-      <item value="Instant" />
-      <item value="Clock" />
-      <item value="Event Object" />
-      <item value="reactor" />
-      <item value="{@link ServerHttpResponse} decorator for HTTP HEAD requests." />
-      <item value="Http Head Response Decorator" />
-      <item value="request" />
-      <item value="Listener for events associated with an {@link AsyncContext}." />
-      <item value="Event Listener" />
-      <item value="A tagging interface that all event listener interfaces must extend." />
-      <item value="on Start Async" />
-      <item value="measurements Changed" />
-      <item value="Current Conditions Display" />
+      <item value="GROUP MAPPING ICON" />
+      <item value="GROUP MAPPING PRIMARY" />
+      <item value="device Data List Id" />
+      <item value="execute Add Document" />
+      <item value="device Primary" />
+      <item value="device Icon" />
+      <item value="function" />
+      <item value="top Center Left num 2" />
+      <item value="设备列表" />
+      <item value="人工监测点" />
+      <item value="legenddiv new active" />
+      <item value="clear Water Quality Label" />
+      <item value="clear Color Tags" />
+      <item value="parent" />
+      <item value="Point" />
+      <item value="B Map GL" />
+      <item value="info Window" />
+      <item value="current Pagepath" />
+      <item value="project Name" />
+      <item value="optional new" />
+      <item value="点击第一部分循环出来对应的设备信息" />
+      <item value="legenddiv new" />
+      <item value="从接口获取当前传感器类型的所有设备列表信息" />
+      <item value="border-right" />
+      <item value="margin-top" />
+      <item value="width" />
+      <item value="icon" />
+      <item value="marker" />
+      <item value="remove Document All Device By Layer" />
+      <item value="初始化json数据" />
+      <item value="并添加到" />
+      <item value="传感器设备信息" />
+      <item value="get Device List By Layer And Add Document" />
+      <item value="remove All Device List By Layer" />
+      <item value="获取当前图层类型的所有" />
+      <item value="add Monitoring Points To Map" />
+      <item value="click" />
+      <item value="input water quality" />
+      <item value="清除水质传感器坐标点信息" />
+      <item value="monitor Range" />
+      <item value="add Camera To Map" />
+      <item value="将此类型的图层所有设备显示在" />
+      <item value="icon Water" />
+      <item value="点击右侧水质传感器开关" />
+      <item value="checkbox" />
+      <item value="left-menu" />
+      <item value="background-color" />
+      <item value="stylesheet" />
       <item value="json" />
       <item value="display" />
-      <item value="water quality div" />
-      <item value="level" />
-      <item value="src" />
-      <item value="height" />
-      <item value="width" />
-      <item value="img wz 01" />
-      <item value="fetch" />
-      <item value="Containers" />
-      <item value="data Collect Error Count" />
-      <item value="The error may exist in file" />
-      <item value="park" />
-      <item value="to Ajax" />
-      <item value="客户row Id" />
-      <item value="row Key" />
-      <item value="删除指定行客户信息" />
-      <item value="param" />
-      <item value="Transactional" />
-      <item value="find Method Candidates By Name" />
-      <item value="get Method If Available" />
-      <item value="Reverses the order of the elements in the specified list.&lt;p&gt; This method runs in linear time. @param list the list whose elements are to be reversed. @throws UnsupportedOperationException if the specified list or its list-iterator does not support the &lt;tt&gt;set&lt;tt&gt; operation." />
-      <item value="reverse" />
-      <item value="available" />
-      <item value="Abstract Beans Of Type Depends On Database Initialization Detector" />
-      <item value="native" />
-      <item value="customer Name" />
-      <item value="customer Location" />
-      <item value="create User Nick" />
-      <item value="value" />
-      <item value="row id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4481" />
-        <entry key="ENGLISH" value="4481" />
+        <entry key="CHINESE" value="4531" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
