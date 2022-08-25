@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="EZUI Kit Player" />
       <item value="Pass this if window is not defined yet" />
       <item value="视频播放器" />
       <item value="Ezuikit" />
@@ -54,11 +55,10 @@
       <item value="市级重要湿地" />
       <item value="overview" />
       <item value="设备列表" />
-      <item value="点击第一部分循环出来对应的设备信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4691" />
+        <entry key="CHINESE" value="4692" />
         <entry key="ENGLISH" value="4692" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
