@@ -5,11 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cam Url Protocol" />
+      <item value="get View Access Token" />
+      <item value="access Token" />
+      <item value="request Base Url" />
+      <item value="get Access Token" />
+      <item value="请求方式" />
+      <item value="Hash Map" />
+      <item value="Application Runner" />
+      <item value="set Camera Token To Redis" />
+      <item value="response" />
+      <item value="camera Id" />
+      <item value="camera" />
+      <item value="parent Container Node" />
+      <item value="open" />
       <item value="initialize Ezuikit Player" />
       <item value="live Url" />
       <item value="EZUI Kit Player" />
       <item value="data" />
-      <item value="access Token" />
       <item value="device Serial" />
       <item value="app Key" />
       <item value="Property Source" />
@@ -24,11 +37,9 @@
       <item value="Artifact" />
       <item value="video Div Container" />
       <item value="res" />
-      <item value="open" />
       <item value="Pass this if window is not defined yet" />
       <item value="视频播放器" />
       <item value="Ezuikit" />
-      <item value="camera Id" />
       <item value="map" />
       <item value="player" />
       <item value="操作方式1" />
@@ -44,22 +55,11 @@
       <item value="Marker" />
       <item value="info Window" />
       <item value="Icon Url" />
-      <item value="dev Type" />
-      <item value="select Device" />
-      <item value="GROUP_4_BIRD HEAD" />
-      <item value="device Bird" />
-      <item value="div" />
-      <item value="添加水质传感器坐标点信息" />
-      <item value="icon Camera" />
-      <item value="append Dom Text" />
-      <item value="GROUP MAPPING PRIMARY" />
-      <item value="GROUP MAPPING DELEGATE" />
-      <item value="legenddiv new active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4710" />
-        <entry key="ENGLISH" value="4711" />
+        <entry key="CHINESE" value="4728" />
+        <entry key="ENGLISH" value="4729" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
