@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="initialize Ezuikit Player" />
+      <item value="live Url" />
+      <item value="EZUI Kit Player" />
+      <item value="data" />
+      <item value="access Token" />
+      <item value="device Serial" />
       <item value="app Key" />
       <item value="Property Source" />
       <item value="用来查询该设备的设备编号和通道号" />
@@ -19,7 +25,6 @@
       <item value="video Div Container" />
       <item value="res" />
       <item value="open" />
-      <item value="EZUI Kit Player" />
       <item value="Pass this if window is not defined yet" />
       <item value="视频播放器" />
       <item value="Ezuikit" />
@@ -50,16 +55,11 @@
       <item value="GROUP MAPPING PRIMARY" />
       <item value="GROUP MAPPING DELEGATE" />
       <item value="legenddiv new active" />
-      <item value="GROUP MAPPING MAP ICON" />
-      <item value="但是部署到服务器的时候需要该操作" />
-      <item value="本地测试不需要发送短信" />
-      <item value="send Message" />
-      <item value="Message Notice Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4705" />
-        <entry key="ENGLISH" value="4706" />
+        <entry key="CHINESE" value="4710" />
+        <entry key="ENGLISH" value="4711" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
