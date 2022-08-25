@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Pass this if window is not defined yet" />
+      <item value="视频播放器" />
+      <item value="Ezuikit" />
+      <item value="camera Id" />
       <item value="map" />
       <item value="player" />
       <item value="function" />
@@ -51,15 +55,11 @@
       <item value="overview" />
       <item value="设备列表" />
       <item value="点击第一部分循环出来对应的设备信息" />
-      <item value="init Standard" />
-      <item value="初始化水质标准" />
-      <item value="初始化图表" />
-      <item value="初始化摄像头" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4688" />
-        <entry key="ENGLISH" value="4689" />
+        <entry key="CHINESE" value="4691" />
+        <entry key="ENGLISH" value="4692" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -96,7 +96,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="6" />
+        <entry key="HINDI" value="7" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
