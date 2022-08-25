@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this" />
       <item value="json" />
       <item value="request Base Url" />
       <item value="prod" />
@@ -54,12 +55,11 @@
       <item value="Pass this if window is not defined yet" />
       <item value="视频播放器" />
       <item value="Ezuikit" />
-      <item value="map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4742" />
-        <entry key="ENGLISH" value="4743" />
+        <entry key="CHINESE" value="4743" />
+        <entry key="ENGLISH" value="4744" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
