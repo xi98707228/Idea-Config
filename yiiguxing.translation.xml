@@ -5,7 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="map" />
       <item value="player" />
+      <item value="function" />
+      <item value="操作方式1" />
       <item value="initial" />
       <item value="40" />
       <item value="device Icon" />
@@ -52,14 +55,11 @@
       <item value="初始化水质标准" />
       <item value="初始化图表" />
       <item value="初始化摄像头" />
-      <item value="standard" />
-      <item value="添加dom" />
-      <item value="execute Add Device Div Document" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4685" />
-        <entry key="ENGLISH" value="4685" />
+        <entry key="CHINESE" value="4688" />
+        <entry key="ENGLISH" value="4689" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
