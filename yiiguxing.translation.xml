@@ -5,6 +5,31 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Message Source Aware" />
+      <item value="synchronized block(variable)" />
+      <item value="or volatile variable" />
+      <item value="thread safe" />
+      <item value="Simple Diagram Resolver Builder" />
+      <item value="check Legality Of The Param" />
+      <item value="outside Collection List" />
+      <item value="PIE TYPE" />
+      <item value="horizontal Axis List" />
+      <item value="resolve Query In Primary Char Return Sql Segment" />
+      <item value="关键字" />
+      <item value="返回Sql片段" />
+      <item value="需解析的目标列表" />
+      <item value="build Executor Sql" />
+      <item value="executor Sql" />
+      <item value="Query Expression Resolve Executor" />
+      <item value="device Delegate" />
+      <item value="循环添加dom元素" />
+      <item value="点击某个鸟类摄像头设备" />
+      <item value="add Bird Camera Data" />
+      <item value="add Artificial Point Data" />
+      <item value="GROUP_3_CAMERA" />
+      <item value="dev Type" />
+      <item value="add Camera Point Data" />
+      <item value="add Bird Heat Data" />
       <item value="map Heat View Map" />
       <item value="data" />
       <item value="map Heat View" />
@@ -16,7 +41,6 @@
       <item value="null" />
       <item value="map View" />
       <item value="init Map" />
-      <item value="dev Type" />
       <item value="remove Heat Layer" />
       <item value="电导率" />
       <item value="layer Type" />
@@ -31,35 +55,11 @@
       <item value="permit All" />
       <item value="main" />
       <item value="encoding" />
-      <item value="Rest Controller" />
-      <item value="driver Class Name" />
-      <item value="主库数据源" />
-      <item value="Ajax Result" />
-      <item value="success" />
-      <item value="get View Access Token" />
-      <item value="this" />
-      <item value="json" />
-      <item value="request Base Url" />
-      <item value="prod" />
-      <item value="208" />
-      <item value="All Args Constructor" />
-      <item value="legenddiv new active" />
-      <item value="121" />
-      <item value="context Destroyed" />
-      <item value="context Initialized" />
-      <item value="Hibernate" />
-      <item value="discard long time none received connection." />
-      <item value="redis Cache" />
-      <item value="token" />
-      <item value="Druid Data Source" />
-      <item value="cam Url Protocol" />
-      <item value="get Access Token" />
-      <item value="请求方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4781" />
-        <entry key="ENGLISH" value="4782" />
+        <entry key="CHINESE" value="4806" />
+        <entry key="ENGLISH" value="4807" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
