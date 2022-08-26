@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Named Inheritable Thread Local" />
+      <item value="Message Source Accessor" />
+      <item value="Jsr 250 Metadata Source Configuration" />
+      <item value="Advice Mode" />
+      <item value="Support classes for application events, like standard context events. To be supported by all major application context implementations." />
+      <item value="Bundle" />
+      <item value="Resource Bundle Message Source" />
       <item value="Message Source Aware" />
       <item value="synchronized block(variable)" />
       <item value="or volatile variable" />
@@ -48,18 +55,11 @@
       <item value="ACTIVE DEVICE CLASS NAME" />
       <item value="get Heat Layer" />
       <item value="add Polygon To Map" />
-      <item value="set Text Layer Artificial" />
-      <item value="GROUP_4_BIRD HEAD" />
-      <item value="video Div Container" />
-      <item value="access Token" />
-      <item value="permit All" />
-      <item value="main" />
-      <item value="encoding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4806" />
-        <entry key="ENGLISH" value="4807" />
+        <entry key="CHINESE" value="4813" />
+        <entry key="ENGLISH" value="4814" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
