@@ -5,6 +5,39 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="device Icon" />
+      <item value="device Document" />
+      <item value="is Expand" />
+      <item value="execute Add Device Div Document" />
+      <item value="从接口获取当前传感器类型的所有设备列表信息" />
+      <item value="get Device List By Layer" />
+      <item value="get Camera Device List" />
+      <item value="prepend" />
+      <item value="append Dom Text" />
+      <item value="span" />
+      <item value="input water quality" />
+      <item value="remove Document All Device By Layer" />
+      <item value="click Select Device" />
+      <item value="水质传感器点击事件" />
+      <item value="function" />
+      <item value="click" />
+      <item value="checked" />
+      <item value="GROUP_1_WATER" />
+      <item value="remove Dom" />
+      <item value="device Data List Id" />
+      <item value="device Div" />
+      <item value="remove Point By Class" />
+      <item value="add Monitoring Points To Map" />
+      <item value="Icon Url一类的所有地图标识" />
+      <item value="Icon Url" />
+      <item value="图标icon的文件路径名删除地图上相对应的" />
+      <item value="layer Type" />
+      <item value="add Artificial Test Layer To Map" />
+      <item value="如果选择了右侧图层范围中" />
+      <item value="水质传感器" />
+      <item value="add Event Listener" />
+      <item value="点击位置经纬度" />
+      <item value="返回的参数就是" />
       <item value="为时间线div中添加时间button" />
       <item value="data" />
       <item value="Named Inheritable Thread Local" />
@@ -22,44 +55,11 @@
       <item value="check Legality Of The Param" />
       <item value="outside Collection List" />
       <item value="PIE TYPE" />
-      <item value="horizontal Axis List" />
-      <item value="resolve Query In Primary Char Return Sql Segment" />
-      <item value="关键字" />
-      <item value="返回Sql片段" />
-      <item value="需解析的目标列表" />
-      <item value="build Executor Sql" />
-      <item value="executor Sql" />
-      <item value="Query Expression Resolve Executor" />
-      <item value="device Delegate" />
-      <item value="循环添加dom元素" />
-      <item value="点击某个鸟类摄像头设备" />
-      <item value="add Bird Camera Data" />
-      <item value="add Artificial Point Data" />
-      <item value="GROUP_3_CAMERA" />
-      <item value="dev Type" />
-      <item value="add Camera Point Data" />
-      <item value="add Bird Heat Data" />
-      <item value="map Heat View Map" />
-      <item value="map Heat View" />
-      <item value="remove Heat Layer By Dev Id" />
-      <item value="先清空当前所有的标注点及view GL" />
-      <item value="选择左侧图层标注选项后" />
-      <item value="destroy" />
-      <item value="info Window Field" />
-      <item value="null" />
-      <item value="map View" />
-      <item value="init Map" />
-      <item value="remove Heat Layer" />
-      <item value="电导率" />
-      <item value="layer Type" />
-      <item value="向地图中增加鸟类摄像头信息" />
-      <item value="ACTIVE DEVICE CLASS NAME" />
-      <item value="get Heat Layer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4815" />
-        <entry key="ENGLISH" value="4815" />
+        <entry key="CHINESE" value="4862" />
+        <entry key="ENGLISH" value="4863" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
