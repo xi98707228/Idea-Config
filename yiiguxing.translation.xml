@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="GROUP_1_METEOROLOGICAL" />
+      <item value="img meteorology" />
       <item value="dev Type" />
       <item value="get Device List By Layer" />
       <item value="GROUP_1_WATER" />
@@ -53,13 +55,11 @@
       <item value="is" />
       <item value="device Name" />
       <item value="prepend" />
-      <item value="device Icon" />
-      <item value="is Expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4932" />
-        <entry key="ENGLISH" value="4933" />
+        <entry key="CHINESE" value="4934" />
+        <entry key="ENGLISH" value="4935" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
