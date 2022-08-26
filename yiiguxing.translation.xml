@@ -5,23 +5,49 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="device Icon" />
-      <item value="device Document" />
-      <item value="is Expand" />
-      <item value="execute Add Device Div Document" />
-      <item value="从接口获取当前传感器类型的所有设备列表信息" />
-      <item value="get Device List By Layer" />
-      <item value="get Camera Device List" />
-      <item value="prepend" />
+      <item value="append Document" />
+      <item value="enhance Document List" />
       <item value="append Dom Text" />
-      <item value="span" />
+      <item value="device Document" />
+      <item value="augment The Document After Append" />
+      <item value="append Document After Augment Document" />
+      <item value="append Document After Expand Document" />
+      <item value="get Device List By Layer" />
+      <item value="人工传感器" />
+      <item value="如果选择了右侧图层范围中" />
+      <item value="execute Add Device Div Document" />
       <item value="input water quality" />
+      <item value="获取当前类型已经选中的设备ids" />
+      <item value="remove Select Device Dom List" />
+      <item value="return Select Device Dom List" />
       <item value="remove Document All Device By Layer" />
+      <item value="execute Add Device Div Document Expand" />
+      <item value="设备信息" />
+      <item value="删除某一类图层的所有存在的" />
+      <item value="并返回本次成功删除的所有已经选中的设备的dom元素列表" />
+      <item value="GROUP MAPPING PRIMARY" />
+      <item value="find" />
+      <item value="remove Obj" />
+      <item value="点击选中设备事件" />
+      <item value="has Class" />
       <item value="click Select Device" />
+      <item value="GROUP_4_BIRD HEAD" />
+      <item value="device Delegate" />
+      <item value="localhost Path" />
+      <item value="气象传感器" />
+      <item value="add Artificial Test Layer To Map" />
+      <item value="checked" />
+      <item value="is" />
+      <item value="device Name" />
+      <item value="prepend" />
+      <item value="device Icon" />
+      <item value="is Expand" />
+      <item value="从接口获取当前传感器类型的所有设备列表信息" />
+      <item value="get Camera Device List" />
+      <item value="span" />
       <item value="水质传感器点击事件" />
       <item value="function" />
       <item value="click" />
-      <item value="checked" />
       <item value="GROUP_1_WATER" />
       <item value="remove Dom" />
       <item value="device Data List Id" />
@@ -29,37 +55,11 @@
       <item value="remove Point By Class" />
       <item value="add Monitoring Points To Map" />
       <item value="Icon Url一类的所有地图标识" />
-      <item value="Icon Url" />
-      <item value="图标icon的文件路径名删除地图上相对应的" />
-      <item value="layer Type" />
-      <item value="add Artificial Test Layer To Map" />
-      <item value="如果选择了右侧图层范围中" />
-      <item value="水质传感器" />
-      <item value="add Event Listener" />
-      <item value="点击位置经纬度" />
-      <item value="返回的参数就是" />
-      <item value="为时间线div中添加时间button" />
-      <item value="data" />
-      <item value="Named Inheritable Thread Local" />
-      <item value="Message Source Accessor" />
-      <item value="Jsr 250 Metadata Source Configuration" />
-      <item value="Advice Mode" />
-      <item value="Support classes for application events, like standard context events. To be supported by all major application context implementations." />
-      <item value="Bundle" />
-      <item value="Resource Bundle Message Source" />
-      <item value="Message Source Aware" />
-      <item value="synchronized block(variable)" />
-      <item value="or volatile variable" />
-      <item value="thread safe" />
-      <item value="Simple Diagram Resolver Builder" />
-      <item value="check Legality Of The Param" />
-      <item value="outside Collection List" />
-      <item value="PIE TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4862" />
-        <entry key="ENGLISH" value="4863" />
+        <entry key="CHINESE" value="4906" />
+        <entry key="ENGLISH" value="4907" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
