@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="为时间线div中添加时间button" />
+      <item value="data" />
       <item value="Named Inheritable Thread Local" />
       <item value="Message Source Accessor" />
       <item value="Jsr 250 Metadata Source Configuration" />
@@ -38,7 +40,6 @@
       <item value="add Camera Point Data" />
       <item value="add Bird Heat Data" />
       <item value="map Heat View Map" />
-      <item value="data" />
       <item value="map Heat View" />
       <item value="remove Heat Layer By Dev Id" />
       <item value="先清空当前所有的标注点及view GL" />
@@ -54,12 +55,11 @@
       <item value="向地图中增加鸟类摄像头信息" />
       <item value="ACTIVE DEVICE CLASS NAME" />
       <item value="get Heat Layer" />
-      <item value="add Polygon To Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4813" />
-        <entry key="ENGLISH" value="4814" />
+        <entry key="CHINESE" value="4815" />
+        <entry key="ENGLISH" value="4815" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
