@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="style" />
       <item value="municipal important wetland" />
       <item value="global System Map Type" />
       <item value="info Window Field" />
@@ -54,7 +55,6 @@
       <item value="左上角相关图层点击事件" />
       <item value="在鸟类照片查看插件播放视频" />
       <item value="play Video Test" />
-      <item value="content Window" />
     </histories>
     <option name="languageScores">
       <map>
