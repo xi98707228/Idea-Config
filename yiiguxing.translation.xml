@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="global System Map Type" />
+      <item value="global Access Token" />
       <item value="image Path" />
       <item value="response" />
       <item value="show Image" />
@@ -53,13 +55,11 @@
       <item value="request Base Url" />
       <item value="append" />
       <item value="camera Index Code" />
-      <item value="get Element By Id" />
-      <item value="document" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4999" />
-        <entry key="ENGLISH" value="5000" />
+        <entry key="CHINESE" value="5002" />
+        <entry key="ENGLISH" value="5003" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
