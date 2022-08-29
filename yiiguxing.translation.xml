@@ -5,6 +5,31 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="weibo Show wrap" />
+      <item value="weibo Show main" />
+      <item value="init Plugin" />
+      <item value="content Window" />
+      <item value="map-system-iframe" />
+      <item value="left menu select" />
+      <item value="tbody" />
+      <item value="o Web Control" />
+      <item value="i Service Port Start" />
+      <item value="JS Create Wnd" />
+      <item value="function" />
+      <item value="创建播放实例" />
+      <item value="coordinates" />
+      <item value="coordinates Arr" />
+      <item value="points" />
+      <item value="Polygon" />
+      <item value="show" />
+      <item value="view" />
+      <item value="viewer" />
+      <item value="Released under the MIT license" />
+      <item value="console" />
+      <item value="在鸟类照片查看插件播放视频" />
+      <item value="play Video Test" />
+      <item value="3 SSJU 371661736939149_Cluster Manager" />
+      <item value="test Connection Internal" />
       <item value="set Application Event Publisher" />
       <item value="invoke Aware Interfaces" />
       <item value="Embedded Value Resolver" />
@@ -14,52 +39,27 @@
       <item value="get Spring Factories Instances" />
       <item value="cause" />
       <item value="Set the ApplicationContext that this object runs in. Normally this call will be used to initialize the object. &lt;p&gt;Invoked after population of normal bean properties but before an init callback such as {@link org.springframework.beans.factory.InitializingBeanafterPropertiesSet()} or a custom init-method. Invoked after {@link ResourceLoaderAwaresetResourceLoader}, {@link ApplicationEventPublisherAwaresetApplicationEventPublisher} and {@link MessageSourceAware}, if applicable. @param applicationContext the ApplicationContext object to be used by this object @throws ApplicationContextException in case of context initialization errors @throws BeansException if thrown by application context methods @see org.springframework.beans.factory.BeanInitializationException" />
-      <item value="function" />
       <item value="javascript" />
       <item value="type" />
       <item value="script" />
       <item value="stacked Cards" />
-      <item value="viewer" />
       <item value="image View" />
       <item value="request Base Url" />
-      <item value="content Window" />
       <item value="append" />
       <item value="camera Index Code" />
       <item value="get Element By Id" />
       <item value="document" />
-      <item value="map-system-iframe" />
       <item value="add Interceptors" />
       <item value="Artifact" />
       <item value="milliseconds" />
       <item value="deployed successfully" />
       <item value="successfully" />
       <item value="deployed" />
-      <item value="please wait" />
-      <item value="鸟类摄像头" />
-      <item value="log Invalid Header" />
-      <item value="http" />
-      <item value="GROUP_1_METEOROLOGICAL" />
-      <item value="img meteorology" />
-      <item value="dev Type" />
-      <item value="get Device List By Layer" />
-      <item value="GROUP_1_WATER" />
-      <item value="remove Point By Class" />
-      <item value="finish" />
-      <item value="click Select Device" />
-      <item value="remove Select Device Dom List" />
-      <item value="device Obj" />
-      <item value="transfer Obj" />
-      <item value="特殊化点击设备则一定不走当前分支" />
-      <item value="select Device" />
-      <item value="remove Dom" />
-      <item value="ACTIVE DEVICE CLASS NAME" />
-      <item value="remove Attribute" />
-      <item value="之前已选中的设备div" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4966" />
-        <entry key="ENGLISH" value="4967" />
+        <entry key="CHINESE" value="4994" />
+        <entry key="ENGLISH" value="4995" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -86,7 +86,7 @@
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="7" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
@@ -100,7 +100,7 @@
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>
