@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Spring Factories Instances" />
+      <item value="cause" />
+      <item value="Set the ApplicationContext that this object runs in. Normally this call will be used to initialize the object. &lt;p&gt;Invoked after population of normal bean properties but before an init callback such as {@link org.springframework.beans.factory.InitializingBeanafterPropertiesSet()} or a custom init-method. Invoked after {@link ResourceLoaderAwaresetResourceLoader}, {@link ApplicationEventPublisherAwaresetApplicationEventPublisher} and {@link MessageSourceAware}, if applicable. @param applicationContext the ApplicationContext object to be used by this object @throws ApplicationContextException in case of context initialization errors @throws BeansException if thrown by application context methods @see org.springframework.beans.factory.BeanInitializationException" />
       <item value="function" />
       <item value="javascript" />
       <item value="type" />
@@ -52,14 +55,11 @@
       <item value="enhance Document List" />
       <item value="append Dom Text" />
       <item value="device Document" />
-      <item value="augment The Document After Append" />
-      <item value="append Document After Augment Document" />
-      <item value="append Document After Expand Document" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4957" />
-        <entry key="ENGLISH" value="4958" />
+        <entry key="CHINESE" value="4960" />
+        <entry key="ENGLISH" value="4961" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
