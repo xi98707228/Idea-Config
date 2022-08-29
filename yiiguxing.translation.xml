@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="左上角相关图层点击事件" />
+      <item value="在鸟类照片查看插件播放视频" />
+      <item value="play Video Test" />
+      <item value="content Window" />
       <item value="global System Map Type" />
       <item value="global Access Token" />
       <item value="image Path" />
@@ -16,7 +20,6 @@
       <item value="weibo Show wrap" />
       <item value="weibo Show main" />
       <item value="init Plugin" />
-      <item value="content Window" />
       <item value="map-system-iframe" />
       <item value="left menu select" />
       <item value="tbody" />
@@ -34,8 +37,6 @@
       <item value="viewer" />
       <item value="Released under the MIT license" />
       <item value="console" />
-      <item value="在鸟类照片查看插件播放视频" />
-      <item value="play Video Test" />
       <item value="3 SSJU 371661736939149_Cluster Manager" />
       <item value="test Connection Internal" />
       <item value="set Application Event Publisher" />
@@ -54,12 +55,11 @@
       <item value="image View" />
       <item value="request Base Url" />
       <item value="append" />
-      <item value="camera Index Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5002" />
-        <entry key="ENGLISH" value="5003" />
+        <entry key="CHINESE" value="5011" />
+        <entry key="ENGLISH" value="5011" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
