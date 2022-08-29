@@ -5,6 +5,46 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="log Starting" />
+      <item value="clinit" />
+      <item value="v" />
+      <item value="Local Data Source Job Store" />
+      <item value="initialized" />
+      <item value="Ruoyi Scheduler" />
+      <item value="登录信息" />
+      <item value="refresh Token" />
+      <item value="set Expire Time" />
+      <item value="根据uuid将login User缓存" />
+      <item value="set Cache Object" />
+      <item value="token Service" />
+      <item value="do Filter Internal" />
+      <item value="expire Time" />
+      <item value="Servlet Exception" />
+      <item value="verify Token" />
+      <item value="lettuce" />
+      <item value="Username Password Authentication Token" />
+      <item value="login User" />
+      <item value="play Wnd" />
+      <item value="do Filter" />
+      <item value="STATELESS" />
+      <item value="Authentication Entry Point Impl" />
+      <item value="A FilterChain is an object provided by the servlet container to the developer giving a view into the invocation chain of a filtered request for a resource. Filters use the FilterChain to invoke the next filter in the chain, or if the calling filter is the last filter in the chain, to invoke the resource at the end of the chain." />
+      <item value="3 SSJU 371661736939149_Misfire Handler" />
+      <item value="filter Config" />
+      <item value="filter" />
+      <item value="IS SECURITY ENABLED" />
+      <item value="get Token" />
+      <item value="is Not Empty" />
+      <item value="parse Token" />
+      <item value="UNAUTHORIZED" />
+      <item value="camera Code" />
+      <item value="discard" />
+      <item value="time" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
+      <item value="3 SSJU 371661736939149_Cluster Manager" />
+      <item value="stop All Preview" />
+      <item value="i Service Port Start" />
       <item value="左上角相关图层点击事件" />
       <item value="在鸟类照片查看插件播放视频" />
       <item value="play Video Test" />
@@ -15,51 +55,11 @@
       <item value="response" />
       <item value="show Image" />
       <item value="show Image Interface" />
-      <item value="Http Servlet Response" />
-      <item value="get File Not Down" />
-      <item value="weibo Show wrap" />
-      <item value="weibo Show main" />
-      <item value="init Plugin" />
-      <item value="map-system-iframe" />
-      <item value="left menu select" />
-      <item value="tbody" />
-      <item value="o Web Control" />
-      <item value="i Service Port Start" />
-      <item value="JS Create Wnd" />
-      <item value="function" />
-      <item value="创建播放实例" />
-      <item value="coordinates" />
-      <item value="coordinates Arr" />
-      <item value="points" />
-      <item value="Polygon" />
-      <item value="show" />
-      <item value="view" />
-      <item value="viewer" />
-      <item value="Released under the MIT license" />
-      <item value="console" />
-      <item value="3 SSJU 371661736939149_Cluster Manager" />
-      <item value="test Connection Internal" />
-      <item value="set Application Event Publisher" />
-      <item value="invoke Aware Interfaces" />
-      <item value="Embedded Value Resolver" />
-      <item value="CONFIG LOCATION DELIMITERS" />
-      <item value="Configurable Application Context" />
-      <item value="{@link BeanPostProcessor} implementation that supplies the {@code ApplicationContext}, {@link org.springframework.core.env.Environment Environment}, or {@link StringValueResolver} for the {@code ApplicationContext} to beans that implement the {@link EnvironmentAware}, {@link EmbeddedValueResolverAware}, {@link ResourceLoaderAware}, {@link ApplicationEventPublisherAware}, {@link MessageSourceAware}, andor {@link ApplicationContextAware} interfaces. &lt;p&gt;Implemented interfaces are satisfied in the order in which they are mentioned above. &lt;p&gt;Application contexts will automatically register this with their underlying bean factory. Applications do not use this directly." />
-      <item value="get Spring Factories Instances" />
-      <item value="cause" />
-      <item value="Set the ApplicationContext that this object runs in. Normally this call will be used to initialize the object. &lt;p&gt;Invoked after population of normal bean properties but before an init callback such as {@link org.springframework.beans.factory.InitializingBeanafterPropertiesSet()} or a custom init-method. Invoked after {@link ResourceLoaderAwaresetResourceLoader}, {@link ApplicationEventPublisherAwaresetApplicationEventPublisher} and {@link MessageSourceAware}, if applicable. @param applicationContext the ApplicationContext object to be used by this object @throws ApplicationContextException in case of context initialization errors @throws BeansException if thrown by application context methods @see org.springframework.beans.factory.BeanInitializationException" />
-      <item value="javascript" />
-      <item value="type" />
-      <item value="script" />
-      <item value="stacked Cards" />
-      <item value="image View" />
-      <item value="request Base Url" />
-      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5011" />
-        <entry key="ENGLISH" value="5011" />
+        <entry key="CHINESE" value="5056" />
+        <entry key="ENGLISH" value="5057" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -89,6 +89,7 @@
         <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
