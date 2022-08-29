@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="function" />
+      <item value="javascript" />
+      <item value="type" />
+      <item value="script" />
+      <item value="stacked Cards" />
+      <item value="viewer" />
+      <item value="image View" />
+      <item value="request Base Url" />
+      <item value="content Window" />
+      <item value="append" />
+      <item value="camera Index Code" />
+      <item value="get Element By Id" />
+      <item value="document" />
+      <item value="map-system-iframe" />
+      <item value="add Interceptors" />
       <item value="Artifact" />
       <item value="milliseconds" />
       <item value="deployed successfully" />
@@ -21,7 +36,6 @@
       <item value="GROUP_1_WATER" />
       <item value="remove Point By Class" />
       <item value="finish" />
-      <item value="document" />
       <item value="click Select Device" />
       <item value="remove Select Device Dom List" />
       <item value="device Obj" />
@@ -41,25 +55,11 @@
       <item value="augment The Document After Append" />
       <item value="append Document After Augment Document" />
       <item value="append Document After Expand Document" />
-      <item value="人工传感器" />
-      <item value="如果选择了右侧图层范围中" />
-      <item value="execute Add Device Div Document" />
-      <item value="input water quality" />
-      <item value="获取当前类型已经选中的设备ids" />
-      <item value="remove Document All Device By Layer" />
-      <item value="execute Add Device Div Document Expand" />
-      <item value="设备信息" />
-      <item value="删除某一类图层的所有存在的" />
-      <item value="并返回本次成功删除的所有已经选中的设备的dom元素列表" />
-      <item value="GROUP MAPPING PRIMARY" />
-      <item value="find" />
-      <item value="remove Obj" />
-      <item value="点击选中设备事件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4942" />
-        <entry key="ENGLISH" value="4943" />
+        <entry key="CHINESE" value="4957" />
+        <entry key="ENGLISH" value="4958" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
