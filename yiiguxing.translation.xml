@@ -5,10 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="weather Table Primary Tr" />
       <item value="设置天气预报头信息" />
       <item value="未来4天天气预报" />
       <item value="district" />
-      <item value="weather Table Primary Tr" />
       <item value="wait Append Tr Obj" />
       <item value="pointer" />
       <item value="point" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5098" />
-        <entry key="ENGLISH" value="5098" />
+        <entry key="ENGLISH" value="5099" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
