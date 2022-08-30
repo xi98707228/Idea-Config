@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Beverage" />
+      <item value="cost" />
+      <item value="Character" />
+      <item value="Bow And Arrow Behavior" />
+      <item value="Current Conditions Display" />
+      <item value="Weather Data" />
+      <item value="设计成接口" />
+      <item value="为了交互对象之间的松耦合设计而努力" />
+      <item value="分别封装起来" />
       <item value="Fly Behavior" />
       <item value="GROUP MAPPING ICON" />
       <item value="GROUP MAPPING PRIMARY" />
@@ -46,20 +55,11 @@
       <item value="input water quality" />
       <item value="清除水质传感器坐标点信息" />
       <item value="monitor Range" />
-      <item value="add Camera To Map" />
-      <item value="将此类型的图层所有设备显示在" />
-      <item value="icon Water" />
-      <item value="点击右侧水质传感器开关" />
-      <item value="checkbox" />
-      <item value="left-menu" />
-      <item value="background-color" />
-      <item value="stylesheet" />
-      <item value="json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4532" />
-        <entry key="ENGLISH" value="4533" />
+        <entry key="CHINESE" value="4539" />
+        <entry key="ENGLISH" value="4540" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -105,6 +105,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661131219804" />
+    <option name="lastTrimTime" value="1661867090426" />
   </component>
 </application>
