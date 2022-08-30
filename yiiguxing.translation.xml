@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="point" />
+      <item value="pointer" />
+      <item value="ajax" />
+      <item value="console" />
       <item value="location" />
       <item value="get Future Weather" />
       <item value="init Boundary" />
@@ -21,7 +25,6 @@
       <item value="查询天气预报" />
       <item value="ul Rf PGTWCKQ 5 B Svzd 3 m M Ozeqge Rg WILN" />
       <item value="function" />
-      <item value="console" />
       <item value="init System Map" />
       <item value="确定系统名称" />
       <item value="success" />
@@ -52,14 +55,11 @@
       <item value="Servlet Exception" />
       <item value="verify Token" />
       <item value="lettuce" />
-      <item value="Username Password Authentication Token" />
-      <item value="login User" />
-      <item value="play Wnd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5088" />
-        <entry key="ENGLISH" value="5089" />
+        <entry key="CHINESE" value="5091" />
+        <entry key="ENGLISH" value="5092" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
