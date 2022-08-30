@@ -5,12 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ul Rf PGTWCKQ 5 B Svzd 3 m M Ozeqge Rg WILN" />
+      <item value="function" />
+      <item value="console" />
+      <item value="init System Map" />
+      <item value="确定系统名称" />
+      <item value="success" />
+      <item value="weather Data" />
+      <item value="weather" />
+      <item value="初始化系统地图相关" />
+      <item value="navs Visited" />
+      <item value="current City" />
       <item value="style" />
       <item value="municipal important wetland" />
       <item value="global System Map Type" />
       <item value="info Window Field" />
       <item value="init Boundary" />
-      <item value="init System Map" />
       <item value="unload" />
       <item value="log Starting" />
       <item value="clinit" />
@@ -45,21 +55,11 @@
       <item value="parse Token" />
       <item value="UNAUTHORIZED" />
       <item value="camera Code" />
-      <item value="discard" />
-      <item value="time" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
-      <item value="3 SSJU 371661736939149_Cluster Manager" />
-      <item value="stop All Preview" />
-      <item value="i Service Port Start" />
-      <item value="左上角相关图层点击事件" />
-      <item value="在鸟类照片查看插件播放视频" />
-      <item value="play Video Test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5062" />
-        <entry key="ENGLISH" value="5063" />
+        <entry key="CHINESE" value="5077" />
+        <entry key="ENGLISH" value="5078" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -85,7 +85,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
