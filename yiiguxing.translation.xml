@@ -5,9 +5,41 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="表示左侧窗口下标" />
+      <item value="left Window Index" />
+      <item value="int字段" />
+      <item value="如果发现当前map中没有当前遍历的字符" />
+      <item value="先计算当前窗口的长度" />
+      <item value="每个字符和其下标的映射关系" />
+      <item value="store Char Index Map" />
+      <item value="string Length" />
+      <item value="sliding Window" />
+      <item value="记录最大长度返回结果" />
+      <item value="result Max Length" />
+      <item value="length" />
+      <item value="边界条件" />
+      <item value="char At" />
+      <item value="iter Char" />
+      <item value="DEFAULT LOAD FACTOR" />
+      <item value="存储当前字符串中" />
+      <item value="map" />
+      <item value="put" />
+      <item value="那么就" />
+      <item value="complier" />
+      <item value="translation" />
+      <item value="else" />
+      <item value="利用滑动窗口的方式来解决问题" />
+      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
+      <item value="differ" />
+      <item value="store Core Data Map" />
+      <item value="method 02" />
+      <item value="方法一慢就慢在查找与当前值匹配的另外一个数" />
+      <item value="元素的过程中" />
+      <item value="即我们只需要每次遍历的时候" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
       <item value="Authentication Entry Point Impl" />
       <item value="Math" />
-      <item value="利用滑动窗口的方式来解决问题" />
       <item value="on Application Event" />
       <item value="Ajax Result" />
       <item value="file Name" />
@@ -18,48 +50,16 @@
       <item value="bbtablud" />
       <item value="pwwkew" />
       <item value="dvds这样的字串就出现了不正确的结果" />
-      <item value="sliding Window" />
       <item value="和已经出现的字符连着出现" />
       <item value="则不清空哈希表" />
       <item value="contains Key" />
       <item value="max Length" />
       <item value="result Max String Length" />
-      <item value="get Intervals Date" />
-      <item value="nicescroll" />
-      <item value="nice Scroll" />
-      <item value="chart Div" />
-      <item value="width" />
-      <item value="bottom Left" />
-      <item value="left Chart" />
-      <item value="水质标准类型选项框" />
-      <item value="tag Tr" />
-      <item value="电池电压" />
-      <item value="response Headers String" />
-      <item value="cache URL" />
-      <item value="transport" />
-      <item value="current Date" />
-      <item value="DOXYGEN" />
-      <item value="left Switch" />
-      <item value="bottom Box" />
-      <item value="add Child" />
-      <item value="get Child" />
-      <item value="my Player" />
-      <item value="redjson" />
-      <item value="tilt" />
-      <item value="修改盒子" />
-      <item value="device Scroll Bar" />
-      <item value="color" />
-      <item value="overflow-x" />
-      <item value="清除百度地图logo" />
-      <item value="img bird Camera" />
-      <item value="preview UR Ls Api" />
-      <item value="absolute" />
-      <item value="play Wnd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5146" />
-        <entry key="ENGLISH" value="5147" />
+        <entry key="CHINESE" value="5198" />
+        <entry key="ENGLISH" value="5198" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
