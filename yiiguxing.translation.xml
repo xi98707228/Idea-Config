@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="还是需要刷新当前字符" />
-      <item value="每次put元素都需要计算一次最大长度" />
-      <item value="否则最后一次正常的结果将会被遗漏" />
-      <item value="contains Key" />
-      <item value="本次左窗口需要跳转到的索引下标" />
-      <item value="current Target Left Window Index" />
-      <item value="Math" />
-      <item value="left Window Index" />
-      <item value="result Max Length" />
-      <item value="上次出现该字符的后边一位" />
-      <item value="并更新为最大者" />
-      <item value="iter Char" />
-      <item value="和历史" />
-      <item value="store Char Index Map" />
-      <item value="string Length" />
-      <item value="i" />
-      <item value="这个字串" />
-      <item value="此时left Window Index为上边的值" />
-      <item value="abcdebfg" />
-      <item value="当遍历到第二个b时" />
-      <item value="put" />
-      <item value="窗口右边界i" />
-      <item value="已经出现过此字符的下标位置" />
-      <item value="需要将left Window Index" />
-      <item value="移动到" />
-      <item value="如果发现当前map中没有当前遍历的字符" />
-      <item value="此时需要移动窗口的左侧边界至" />
-      <item value="有此字符" />
-      <item value="窗口左边界left Window Index" />
-      <item value="先计算当前窗口的长度" />
-      <item value="int字段" />
-      <item value="表示左侧窗口下标" />
-      <item value="每个字符和其下标的映射关系" />
-      <item value="sliding Window" />
-      <item value="记录最大长度返回结果" />
-      <item value="length" />
-      <item value="边界条件" />
-      <item value="char At" />
-      <item value="DEFAULT LOAD FACTOR" />
-      <item value="存储当前字符串中" />
-      <item value="map" />
-      <item value="那么就" />
-      <item value="complier" />
-      <item value="translation" />
-      <item value="else" />
-      <item value="利用滑动窗口的方式来解决问题" />
-      <item value="Cannot use Arrays.copyOf because of class initialization order issues" />
-      <item value="differ" />
-      <item value="store Core Data Map" />
-      <item value="method 02" />
+      <item value="GROUP MAPPING ICON" />
+      <item value="GROUP MAPPING PRIMARY" />
+      <item value="device Data List Id" />
+      <item value="execute Add Document" />
+      <item value="device Primary" />
+      <item value="device Icon" />
+      <item value="function" />
+      <item value="top Center Left num 2" />
+      <item value="设备列表" />
+      <item value="人工监测点" />
+      <item value="legenddiv new active" />
+      <item value="clear Water Quality Label" />
+      <item value="clear Color Tags" />
+      <item value="parent" />
+      <item value="Point" />
+      <item value="B Map GL" />
+      <item value="info Window" />
+      <item value="current Pagepath" />
+      <item value="project Name" />
+      <item value="optional new" />
+      <item value="点击第一部分循环出来对应的设备信息" />
+      <item value="legenddiv new" />
+      <item value="从接口获取当前传感器类型的所有设备列表信息" />
+      <item value="border-right" />
+      <item value="margin-top" />
+      <item value="width" />
+      <item value="icon" />
+      <item value="marker" />
+      <item value="remove Document All Device By Layer" />
+      <item value="初始化json数据" />
+      <item value="并添加到" />
+      <item value="传感器设备信息" />
+      <item value="get Device List By Layer And Add Document" />
+      <item value="remove All Device List By Layer" />
+      <item value="获取当前图层类型的所有" />
+      <item value="add Monitoring Points To Map" />
+      <item value="click" />
+      <item value="input water quality" />
+      <item value="清除水质传感器坐标点信息" />
+      <item value="monitor Range" />
+      <item value="add Camera To Map" />
+      <item value="将此类型的图层所有设备显示在" />
+      <item value="icon Water" />
+      <item value="点击右侧水质传感器开关" />
+      <item value="checkbox" />
+      <item value="left-menu" />
+      <item value="background-color" />
+      <item value="stylesheet" />
+      <item value="json" />
+      <item value="display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5245" />
-        <entry key="ENGLISH" value="5245" />
+        <entry key="CHINESE" value="4531" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -68,7 +68,7 @@
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
@@ -82,15 +82,13 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="3" />
-        <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="9" />
+        <entry key="NORWEGIAN" value="3" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
-        <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
@@ -98,16 +96,15 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
-        <entry key="HINDI" value="7" />
-        <entry key="SUNDANESE" value="1" />
+        <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="6" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661737334804" />
+    <option name="lastTrimTime" value="1661131219804" />
   </component>
 </application>
