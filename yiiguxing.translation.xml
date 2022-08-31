@@ -5,6 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Beverage" />
+      <item value="get Capacity" />
+      <item value="set Capacity" />
+      <item value="get Description" />
+      <item value="Soy" />
+      <item value="House Blend" />
+      <item value="Buffered Input Stream" />
+      <item value="Filter Input Stream" />
+      <item value="The input stream to be filtered." />
+      <item value="REDEFINE FROZEN" />
+      <item value="DECORATE" />
+      <item value="A &lt;code&gt;FilterInputStream&lt;code&gt; contains some other input stream, which it uses as its basic source of data, possibly transforming the data along the way or providing additional functionality. The class &lt;code&gt;FilterInputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;InputStream&lt;code&gt; with versions that pass all requests to the contained input stream. Subclasses of &lt;code&gt;FilterInputStream&lt;code&gt; may further override some of these methods and may also provide additional methods and fields." />
+      <item value="Espresso" />
+      <item value="Starbuzz Coffee" />
+      <item value="Mocha" />
+      <item value="beverage" />
+      <item value="Decaf" />
+      <item value="Condiment Decorator" />
       <item value="run State Of" />
       <item value="The queue used for holding tasks and handing off to worker threads. We do not require that workQueue.poll() returning null necessarily means that workQueue.isEmpty(), so rely solely on isEmpty to see if the queue is empty (which we must do for example when deciding whether to transition from SHUTDOWN to TIDYING). This accommodates special-purpose queues such as DelayQueues for which poll() is allowed to return null even if it may later return non-null when delays expire." />
       <item value="Set containing all worker threads in pool. Accessed only when holding mainLock." />
@@ -18,7 +36,6 @@
       <item value="contains Key" />
       <item value="long Bits To Double" />
       <item value="char" />
-      <item value="Beverage" />
       <item value="cost" />
       <item value="Character" />
       <item value="Bow And Arrow Behavior" />
@@ -38,28 +55,11 @@
       <item value="top Center Left num 2" />
       <item value="设备列表" />
       <item value="人工监测点" />
-      <item value="legenddiv new active" />
-      <item value="clear Water Quality Label" />
-      <item value="clear Color Tags" />
-      <item value="parent" />
-      <item value="Point" />
-      <item value="B Map GL" />
-      <item value="info Window" />
-      <item value="current Pagepath" />
-      <item value="project Name" />
-      <item value="optional new" />
-      <item value="点击第一部分循环出来对应的设备信息" />
-      <item value="legenddiv new" />
-      <item value="从接口获取当前传感器类型的所有设备列表信息" />
-      <item value="border-right" />
-      <item value="margin-top" />
-      <item value="width" />
-      <item value="icon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4552" />
-        <entry key="ENGLISH" value="4553" />
+        <entry key="CHINESE" value="4572" />
+        <entry key="ENGLISH" value="4573" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
