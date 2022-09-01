@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="clear Color Tags" />
+      <item value="init Chart By Tag" />
       <item value="transverse Roll" />
       <item value="chart New Div" />
       <item value="Tim Sort" />
@@ -42,7 +44,6 @@
       <item value="人工监测点" />
       <item value="legenddiv new active" />
       <item value="clear Water Quality Label" />
-      <item value="clear Color Tags" />
       <item value="parent" />
       <item value="Point" />
       <item value="B Map GL" />
@@ -54,12 +55,11 @@
       <item value="legenddiv new" />
       <item value="从接口获取当前传感器类型的所有设备列表信息" />
       <item value="border-right" />
-      <item value="margin-top" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4554" />
-        <entry key="ENGLISH" value="4555" />
+        <entry key="CHINESE" value="4555" />
+        <entry key="ENGLISH" value="4556" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
