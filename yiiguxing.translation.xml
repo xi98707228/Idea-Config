@@ -5,62 +5,62 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="read File To Lower Case" />
-      <item value="input" />
-      <item value="buffer" />
-      <item value="underlying" />
-      <item value="String Buffer Input Stream" />
-      <item value="read String To Lower Case" />
-      <item value="read" />
-      <item value="需要将缓冲区内所有的字符都转换为小写" />
-      <item value="i" />
-      <item value="len" />
-      <item value="Override" />
-      <item value="off" />
-      <item value="Reads up to &lt;code&gt;len&lt;code&gt; bytes of data from this input stream into an array of bytes. If &lt;code&gt;len&lt;code&gt; is not zero, the method blocks until some input is available; otherwise, no bytes are read and &lt;code&gt;0&lt;code&gt; is returned. &lt;p&gt; This method simply performs &lt;code&gt;in.read(b, off, len)&lt;code&gt; and returns the result. @param b the buffer into which the data is read. @param off the start offset in the destination array &lt;code&gt;b&lt;code&gt; @param len the maximum number of bytes read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the stream has been reached. @exception NullPointerException If &lt;code&gt;b&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @exception IndexOutOfBoundsException If &lt;code&gt;off&lt;code&gt; is negative, &lt;code&gt;len&lt;code&gt; is negative, or &lt;code&gt;len&lt;code&gt; is greater than &lt;code&gt;b.length - off&lt;code&gt; @exception IOException if an IO error occurs. @see java.io.FilterInputStreamin" />
-      <item value="read Data" />
-      <item value="Lower Case Input Stream Decorator" />
-      <item value="DEFAULT CONVERT STRING" />
-      <item value="======== constructs ==========" />
-      <item value="convert String" />
-      <item value="in" />
-      <item value="Input Stream" />
-      <item value="target Convert String" />
-      <item value="Resource Bundle" />
-      <item value="转换为小写的输入流装饰器" />
-      <item value="987072248" />
-      <item value="58__星期四" />
-      <item value="Client Http Request Decorator" />
-      <item value="Lower Case Input Stream Decorate" />
-      <item value="需求" />
-      <item value="把输入流内的所有大写字符转成小写" />
-      <item value="编写一个装饰者" />
-      <item value="See the general contract of the &lt;code&gt;read&lt;code&gt; method of &lt;code&gt;InputStream&lt;code&gt;. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if this input stream has been closed by invoking its {@link close()} method, or an IO error occurs. @see java.io.FilterInputStreamin" />
-      <item value="0 xff" />
-      <item value="Can't replace buf if there was an async close. Note: This would need to be changed if fill() is ever made accessible to multiple threads. But for now, the only way CAS can fail is via close. assert buf == null;" />
-      <item value="marklimit" />
-      <item value="markpos" />
-      <item value="The current position in the buffer. This is the index of the next character to be read from the &lt;code&gt;buf&lt;code&gt; array. &lt;p&gt; This value is always in the range &lt;code&gt;0&lt;code&gt; through &lt;code&gt;count&lt;code&gt;. If it is less than &lt;code&gt;count&lt;code&gt;, then &lt;code&gt;buf[pos]&lt;code&gt; is the next byte to be supplied as input; if it is equal to &lt;code&gt;count&lt;code&gt;, then the next &lt;code&gt;read&lt;code&gt; or &lt;code&gt;skip&lt;code&gt; operation will require more bytes to be read from the contained input stream. @see java.io.BufferedInputStreambuf" />
-      <item value="The index one greater than the index of the last valid byte in the buffer. This value is always in the range &lt;code&gt;0&lt;code&gt; through &lt;code&gt;buf.length&lt;code&gt;; elements &lt;code&gt;buf[0]&lt;code&gt; through &lt;code&gt;buf[count-1] &lt;code&gt;contain buffered input data obtained from the underlying input stream." />
-      <item value="push Back" />
-      <item value="This class is an input stream filter that provides the added functionality of keeping track of the current line number. &lt;p&gt; A line is a sequence of bytes ending with a carriage return character ({@code '\u005Cr'}), a newline character ({@code '\u005Cn'}), or a carriage return character followed immediately by a linefeed character. In all three cases, the line terminating character(s) are returned as a single newline character. &lt;p&gt; The line number begins at {@code 0}, and is incremented by {@code 1} when a {@code read} returns a newline character." />
-      <item value="get More Data" />
-      <item value="grande" />
-      <item value="Beverage" />
-      <item value="get Capacity" />
-      <item value="set Capacity" />
-      <item value="get Description" />
-      <item value="Soy" />
-      <item value="House Blend" />
-      <item value="Buffered Input Stream" />
-      <item value="Filter Input Stream" />
-      <item value="The input stream to be filtered." />
+      <item value="integration" />
+      <item value="hikvision" />
+      <item value="utility" />
+      <item value="apache" />
+      <item value="startup" />
+      <item value="catalina" />
+      <item value="get System Map Type" />
+      <item value="来认识设计模式" />
+      <item value="decrement Worker Count" />
+      <item value="添加工作线程的操作" />
+      <item value="包含了核心线程以及非核心线程" />
+      <item value="chart New Div" />
+      <item value="趋势图" />
+      <item value="请求方式api" />
+      <item value="init New Reactor Chart" />
+      <item value="由系统总览点击传递" />
+      <item value="global System Map Type" />
+      <item value="获取系统地图类型" />
+      <item value="GROUP MAPPING ICON" />
+      <item value="GROUP MAPPING PRIMARY" />
+      <item value="device Data List Id" />
+      <item value="execute Add Document" />
+      <item value="device Primary" />
+      <item value="device Icon" />
+      <item value="function" />
+      <item value="top Center Left num 2" />
+      <item value="设备列表" />
+      <item value="人工监测点" />
+      <item value="legenddiv new active" />
+      <item value="clear Water Quality Label" />
+      <item value="clear Color Tags" />
+      <item value="parent" />
+      <item value="Point" />
+      <item value="B Map GL" />
+      <item value="info Window" />
+      <item value="current Pagepath" />
+      <item value="project Name" />
+      <item value="optional new" />
+      <item value="点击第一部分循环出来对应的设备信息" />
+      <item value="legenddiv new" />
+      <item value="从接口获取当前传感器类型的所有设备列表信息" />
+      <item value="border-right" />
+      <item value="margin-top" />
+      <item value="width" />
+      <item value="icon" />
+      <item value="marker" />
+      <item value="remove Document All Device By Layer" />
+      <item value="初始化json数据" />
+      <item value="并添加到" />
+      <item value="传感器设备信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4614" />
-        <entry key="ENGLISH" value="4615" />
-        <entry key="ALBANIAN" value="4" />
+        <entry key="CHINESE" value="4548" />
+        <entry key="ENGLISH" value="4549" />
+        <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
@@ -86,10 +86,9 @@
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
-        <entry key="SLOVAK" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
@@ -106,6 +105,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661867090426" />
+    <option name="lastTrimTime" value="1661933104687" />
   </component>
 </application>
