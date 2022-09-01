@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Note: further occurrences of this error will be logged at DEBUG level." />
+      <item value="Address already in use: Cannot bind" />
+      <item value="Std Scheduler Factory" />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="default" />
+      <item value="camtype" />
       <item value="tag" />
       <item value="tags" />
       <item value="point" />
@@ -49,17 +55,11 @@
       <item value="Tim Sort" />
       <item value="Josh Bloch and Doug Lea" />
       <item value="Navigable Map" />
-      <item value="Gwt Compatible" />
-      <item value="Ruo Yi Application" />
-      <item value="HV 000001" />
-      <item value="integration" />
-      <item value="hikvision" />
-      <item value="utility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4597" />
-        <entry key="ENGLISH" value="4598" />
+        <entry key="CHINESE" value="4604" />
+        <entry key="ENGLISH" value="4605" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
