@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="grande" />
       <item value="Beverage" />
       <item value="get Capacity" />
       <item value="set Capacity" />
@@ -54,11 +55,10 @@
       <item value="function" />
       <item value="top Center Left num 2" />
       <item value="设备列表" />
-      <item value="人工监测点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4572" />
+        <entry key="CHINESE" value="4573" />
         <entry key="ENGLISH" value="4573" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
@@ -86,7 +86,7 @@
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
-        <entry key="PORTUGUESE" value="7" />
+        <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVENIAN" value="1" />
