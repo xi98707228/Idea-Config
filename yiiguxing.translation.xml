@@ -5,9 +5,45 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="read File To Lower Case" />
+      <item value="input" />
+      <item value="buffer" />
+      <item value="underlying" />
+      <item value="String Buffer Input Stream" />
+      <item value="read String To Lower Case" />
+      <item value="read" />
+      <item value="需要将缓冲区内所有的字符都转换为小写" />
+      <item value="i" />
+      <item value="len" />
+      <item value="Override" />
+      <item value="off" />
+      <item value="Reads up to &lt;code&gt;len&lt;code&gt; bytes of data from this input stream into an array of bytes. If &lt;code&gt;len&lt;code&gt; is not zero, the method blocks until some input is available; otherwise, no bytes are read and &lt;code&gt;0&lt;code&gt; is returned. &lt;p&gt; This method simply performs &lt;code&gt;in.read(b, off, len)&lt;code&gt; and returns the result. @param b the buffer into which the data is read. @param off the start offset in the destination array &lt;code&gt;b&lt;code&gt; @param len the maximum number of bytes read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the stream has been reached. @exception NullPointerException If &lt;code&gt;b&lt;code&gt; is &lt;code&gt;null&lt;code&gt;. @exception IndexOutOfBoundsException If &lt;code&gt;off&lt;code&gt; is negative, &lt;code&gt;len&lt;code&gt; is negative, or &lt;code&gt;len&lt;code&gt; is greater than &lt;code&gt;b.length - off&lt;code&gt; @exception IOException if an IO error occurs. @see java.io.FilterInputStreamin" />
+      <item value="read Data" />
+      <item value="Lower Case Input Stream Decorator" />
+      <item value="DEFAULT CONVERT STRING" />
+      <item value="======== constructs ==========" />
+      <item value="convert String" />
+      <item value="in" />
+      <item value="Input Stream" />
+      <item value="target Convert String" />
+      <item value="Resource Bundle" />
+      <item value="转换为小写的输入流装饰器" />
+      <item value="987072248" />
+      <item value="58__星期四" />
+      <item value="Client Http Request Decorator" />
+      <item value="Lower Case Input Stream Decorate" />
+      <item value="需求" />
+      <item value="把输入流内的所有大写字符转成小写" />
+      <item value="编写一个装饰者" />
+      <item value="See the general contract of the &lt;code&gt;read&lt;code&gt; method of &lt;code&gt;InputStream&lt;code&gt;. @return the next byte of data, or &lt;code&gt;-1&lt;code&gt; if the end of the stream is reached. @exception IOException if this input stream has been closed by invoking its {@link close()} method, or an IO error occurs. @see java.io.FilterInputStreamin" />
+      <item value="0 xff" />
+      <item value="Can't replace buf if there was an async close. Note: This would need to be changed if fill() is ever made accessible to multiple threads. But for now, the only way CAS can fail is via close. assert buf == null;" />
+      <item value="marklimit" />
+      <item value="markpos" />
+      <item value="The current position in the buffer. This is the index of the next character to be read from the &lt;code&gt;buf&lt;code&gt; array. &lt;p&gt; This value is always in the range &lt;code&gt;0&lt;code&gt; through &lt;code&gt;count&lt;code&gt;. If it is less than &lt;code&gt;count&lt;code&gt;, then &lt;code&gt;buf[pos]&lt;code&gt; is the next byte to be supplied as input; if it is equal to &lt;code&gt;count&lt;code&gt;, then the next &lt;code&gt;read&lt;code&gt; or &lt;code&gt;skip&lt;code&gt; operation will require more bytes to be read from the contained input stream. @see java.io.BufferedInputStreambuf" />
+      <item value="The index one greater than the index of the last valid byte in the buffer. This value is always in the range &lt;code&gt;0&lt;code&gt; through &lt;code&gt;buf.length&lt;code&gt;; elements &lt;code&gt;buf[0]&lt;code&gt; through &lt;code&gt;buf[count-1] &lt;code&gt;contain buffered input data obtained from the underlying input stream." />
       <item value="push Back" />
       <item value="This class is an input stream filter that provides the added functionality of keeping track of the current line number. &lt;p&gt; A line is a sequence of bytes ending with a carriage return character ({@code '\u005Cr'}), a newline character ({@code '\u005Cn'}), or a carriage return character followed immediately by a linefeed character. In all three cases, the line terminating character(s) are returned as a single newline character. &lt;p&gt; The line number begins at {@code 0}, and is incremented by {@code 1} when a {@code read} returns a newline character." />
-      <item value="987072248" />
       <item value="get More Data" />
       <item value="grande" />
       <item value="Beverage" />
@@ -19,48 +55,12 @@
       <item value="Buffered Input Stream" />
       <item value="Filter Input Stream" />
       <item value="The input stream to be filtered." />
-      <item value="REDEFINE FROZEN" />
-      <item value="DECORATE" />
-      <item value="A &lt;code&gt;FilterInputStream&lt;code&gt; contains some other input stream, which it uses as its basic source of data, possibly transforming the data along the way or providing additional functionality. The class &lt;code&gt;FilterInputStream&lt;code&gt; itself simply overrides all methods of &lt;code&gt;InputStream&lt;code&gt; with versions that pass all requests to the contained input stream. Subclasses of &lt;code&gt;FilterInputStream&lt;code&gt; may further override some of these methods and may also provide additional methods and fields." />
-      <item value="Espresso" />
-      <item value="Starbuzz Coffee" />
-      <item value="Mocha" />
-      <item value="beverage" />
-      <item value="Decaf" />
-      <item value="Condiment Decorator" />
-      <item value="run State Of" />
-      <item value="The queue used for holding tasks and handing off to worker threads. We do not require that workQueue.poll() returning null necessarily means that workQueue.isEmpty(), so rely solely on isEmpty to see if the queue is empty (which we must do for example when deciding whether to transition from SHUTDOWN to TIDYING). This accommodates special-purpose queues such as DelayQueues for which poll() is allowed to return null even if it may later return non-null when delays expire." />
-      <item value="Set containing all worker threads in pool. Accessed only when holding mainLock." />
-      <item value="add" />
-      <item value="Recheck while holding lock. Back out on ThreadFactory failure or if shut down before lock acquired." />
-      <item value="offer" />
-      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
-      <item value="Thread this worker is running in. Null if factory fails." />
-      <item value="char At" />
-      <item value="存在当前字符" />
-      <item value="contains Key" />
-      <item value="long Bits To Double" />
-      <item value="char" />
-      <item value="cost" />
-      <item value="Character" />
-      <item value="Bow And Arrow Behavior" />
-      <item value="Current Conditions Display" />
-      <item value="Weather Data" />
-      <item value="设计成接口" />
-      <item value="为了交互对象之间的松耦合设计而努力" />
-      <item value="分别封装起来" />
-      <item value="Fly Behavior" />
-      <item value="GROUP MAPPING ICON" />
-      <item value="GROUP MAPPING PRIMARY" />
-      <item value="device Data List Id" />
-      <item value="execute Add Document" />
-      <item value="device Primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4575" />
-        <entry key="ENGLISH" value="4576" />
-        <entry key="ALBANIAN" value="3" />
+        <entry key="CHINESE" value="4614" />
+        <entry key="ENGLISH" value="4615" />
+        <entry key="ALBANIAN" value="4" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
@@ -89,6 +89,7 @@
         <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
