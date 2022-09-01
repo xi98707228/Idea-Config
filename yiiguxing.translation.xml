@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="utility" />
+      <item value="apache" />
+      <item value="startup" />
+      <item value="catalina" />
+      <item value="get System Map Type" />
       <item value="来认识设计模式" />
       <item value="decrement Worker Count" />
       <item value="添加工作线程的操作" />
@@ -14,7 +19,6 @@
       <item value="请求方式api" />
       <item value="init New Reactor Chart" />
       <item value="由系统总览点击传递" />
-      <item value="get System Map Type" />
       <item value="global System Map Type" />
       <item value="获取系统地图类型" />
       <item value="GROUP MAPPING ICON" />
@@ -51,15 +55,11 @@
       <item value="传感器设备信息" />
       <item value="get Device List By Layer And Add Document" />
       <item value="remove All Device List By Layer" />
-      <item value="获取当前图层类型的所有" />
-      <item value="add Monitoring Points To Map" />
-      <item value="click" />
-      <item value="input water quality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4542" />
-        <entry key="ENGLISH" value="4542" />
+        <entry key="CHINESE" value="4546" />
+        <entry key="ENGLISH" value="4547" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
