@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="devlist" />
+      <item value="szsd Dev Info" />
+      <item value="Szsd Dev Info" />
+      <item value="szsd Dev Info Service" />
+      <item value="查询人工设备设备与接口管理列表" />
+      <item value="dev List" />
+      <item value="get Data Table" />
+      <item value="start Page" />
       <item value="氨氮" />
       <item value="氨氮的遮罩物" />
       <item value="温度" />
@@ -47,19 +55,11 @@
       <item value="application" />
       <item value="根据查出的有问题的点位重新在右上角绘制图表" />
       <item value="清除当前水质div中水质文字和table中数据" />
-      <item value="开始初始化图表" />
-      <item value="start Init Chart" />
-      <item value="nice Scroll" />
-      <item value="current Date" />
-      <item value="received" />
-      <item value="water quality div" />
-      <item value="optional new" />
-      <item value="longitudinal Roll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4667" />
-        <entry key="ENGLISH" value="4667" />
+        <entry key="CHINESE" value="4677" />
+        <entry key="ENGLISH" value="4678" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
