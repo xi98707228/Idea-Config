@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="part 3_factory" />
-      <item value="Lower Case Input Stream Decorator" />
-      <item value="编写一个装饰者" />
-      <item value="把输入流内的所有大写字符转成小写" />
-      <item value="Test Lower Case Decorator" />
-      <item value="integration" />
-      <item value="hikvision" />
-      <item value="utility" />
-      <item value="apache" />
-      <item value="startup" />
-      <item value="catalina" />
-      <item value="get System Map Type" />
-      <item value="来认识设计模式" />
-      <item value="decrement Worker Count" />
-      <item value="添加工作线程的操作" />
-      <item value="包含了核心线程以及非核心线程" />
-      <item value="chart New Div" />
-      <item value="趋势图" />
-      <item value="请求方式api" />
-      <item value="init New Reactor Chart" />
-      <item value="由系统总览点击传递" />
-      <item value="global System Map Type" />
-      <item value="获取系统地图类型" />
-      <item value="GROUP MAPPING ICON" />
-      <item value="GROUP MAPPING PRIMARY" />
-      <item value="device Data List Id" />
-      <item value="execute Add Document" />
-      <item value="device Primary" />
-      <item value="device Icon" />
-      <item value="function" />
-      <item value="top Center Left num 2" />
-      <item value="设备列表" />
-      <item value="人工监测点" />
-      <item value="legenddiv new active" />
+      <item value="transverse Roll" />
+      <item value="time Vo" />
+      <item value="set Line Time" />
+      <item value="100" />
+      <item value="bottom Left" />
+      <item value="bottom Left Chart" />
+      <item value="left Chart" />
+      <item value="tabindex" />
+      <item value="info Window Field" />
+      <item value="return" />
+      <item value="add Class" />
+      <item value="remove Class" />
+      <item value="level-title" />
+      <item value="add Judgment Basis To Body" />
+      <item value="get Local Condition" />
+      <item value="application" />
+      <item value="根据查出的有问题的点位重新在右上角绘制图表" />
+      <item value="清除当前水质div中水质文字和table中数据" />
       <item value="clear Water Quality Label" />
-      <item value="clear Color Tags" />
-      <item value="parent" />
-      <item value="Point" />
-      <item value="B Map GL" />
-      <item value="info Window" />
-      <item value="current Pagepath" />
-      <item value="project Name" />
+      <item value="开始初始化图表" />
+      <item value="longitudinal Roll Health" />
+      <item value="start Init Chart" />
+      <item value="nice Scroll" />
+      <item value="current Date" />
+      <item value="received" />
+      <item value="water Quality" />
+      <item value="display" />
+      <item value="water quality div" />
+      <item value="div" />
       <item value="optional new" />
-      <item value="点击第一部分循环出来对应的设备信息" />
-      <item value="legenddiv new" />
-      <item value="从接口获取当前传感器类型的所有设备列表信息" />
-      <item value="border-right" />
-      <item value="margin-top" />
-      <item value="width" />
-      <item value="icon" />
+      <item value="longitudinal Roll" />
+      <item value="get System Map Type" />
+      <item value="Note: further occurrences of this error will be logged at DEBUG level." />
+      <item value="Address already in use: Cannot bind" />
+      <item value="Std Scheduler Factory" />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="default" />
+      <item value="camtype" />
+      <item value="tag" />
+      <item value="tags" />
+      <item value="point" />
+      <item value="get Location Param By Name" />
+      <item value="ssdsd" />
+      <item value="B Map GL" />
+      <item value="三山岛水质监测数据可视化" />
+      <item value="当前地图点位的点击事件" />
+      <item value="init Map" />
+      <item value="global System Map Type" />
+      <item value="隐藏不需要的按钮" />
+      <item value="设置系统名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4555" />
-        <entry key="ENGLISH" value="4556" />
+        <entry key="CHINESE" value="4641" />
+        <entry key="ENGLISH" value="4642" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -82,6 +82,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="1" />
         <entry key="MALTESE" value="3" />
+        <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
@@ -89,10 +90,11 @@
         <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="7" />
