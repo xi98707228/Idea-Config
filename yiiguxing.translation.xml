@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="longitudinal Roll" />
       <item value="left Chart" />
       <item value="tabindex" />
       <item value="5000" />
@@ -54,12 +55,11 @@
       <item value="100" />
       <item value="bottom Left" />
       <item value="bottom Left Chart" />
-      <item value="info Window Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4688" />
-        <entry key="ENGLISH" value="4689" />
+        <entry key="CHINESE" value="4689" />
+        <entry key="ENGLISH" value="4690" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
