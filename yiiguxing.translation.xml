@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="clear Water Quality Label" />
+      <item value="water Quality" />
+      <item value="显示水质当前水质标准的表格" />
+      <item value="longitudinal Roll Health" />
+      <item value="display" />
+      <item value="NTU" />
+      <item value="TOC" />
+      <item value="left Chart Div" />
+      <item value="div" />
       <item value="transverse Roll" />
       <item value="time Vo" />
       <item value="set Line Time" />
@@ -23,17 +32,12 @@
       <item value="application" />
       <item value="根据查出的有问题的点位重新在右上角绘制图表" />
       <item value="清除当前水质div中水质文字和table中数据" />
-      <item value="clear Water Quality Label" />
       <item value="开始初始化图表" />
-      <item value="longitudinal Roll Health" />
       <item value="start Init Chart" />
       <item value="nice Scroll" />
       <item value="current Date" />
       <item value="received" />
-      <item value="water Quality" />
-      <item value="display" />
       <item value="water quality div" />
-      <item value="div" />
       <item value="optional new" />
       <item value="longitudinal Roll" />
       <item value="get System Map Type" />
@@ -51,15 +55,11 @@
       <item value="B Map GL" />
       <item value="三山岛水质监测数据可视化" />
       <item value="当前地图点位的点击事件" />
-      <item value="init Map" />
-      <item value="global System Map Type" />
-      <item value="隐藏不需要的按钮" />
-      <item value="设置系统名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4641" />
-        <entry key="ENGLISH" value="4642" />
+        <entry key="CHINESE" value="4649" />
+        <entry key="ENGLISH" value="4650" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MALTESE" value="3" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
-        <entry key="HMONG" value="1" />
+        <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="7" />
