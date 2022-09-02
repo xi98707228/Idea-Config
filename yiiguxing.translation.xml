@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transverse Roll" />
       <item value="time Vo" />
       <item value="set Line Time" />
       <item value="100" />
@@ -25,7 +26,6 @@
       <item value="clear Water Quality Label" />
       <item value="开始初始化图表" />
       <item value="longitudinal Roll Health" />
-      <item value="transverse Roll" />
       <item value="start Init Chart" />
       <item value="nice Scroll" />
       <item value="current Date" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4641" />
-        <entry key="ENGLISH" value="4641" />
+        <entry key="ENGLISH" value="4642" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
