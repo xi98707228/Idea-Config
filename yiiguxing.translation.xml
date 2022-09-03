@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Pizza Store" />
+      <item value="order Pizza" />
+      <item value="box" />
+      <item value="cheese" />
+      <item value="bake" />
+      <item value="prepare" />
       <item value="transverse Roll" />
       <item value="time Vo" />
       <item value="set Line Time" />
@@ -49,17 +55,11 @@
       <item value="get Location Param By Name" />
       <item value="ssdsd" />
       <item value="B Map GL" />
-      <item value="三山岛水质监测数据可视化" />
-      <item value="当前地图点位的点击事件" />
-      <item value="init Map" />
-      <item value="global System Map Type" />
-      <item value="隐藏不需要的按钮" />
-      <item value="设置系统名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4641" />
-        <entry key="ENGLISH" value="4642" />
+        <entry key="CHINESE" value="4647" />
+        <entry key="ENGLISH" value="4647" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -97,7 +97,7 @@
         <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="7" />
+        <entry key="ITALIAN" value="8" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
