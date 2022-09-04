@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="工厂模式" />
+      <item value="纽约披萨原料生产工厂" />
+      <item value="Pizza Ingredient Factory" />
+      <item value="create Dough" />
       <item value="expected Mod Count" />
       <item value="spliterator" />
       <item value="Concurrent Modification Exception" />
@@ -15,7 +19,6 @@
       <item value="就属于芝加哥方的披萨原谅生产工厂" />
       <item value="思考设计类时" />
       <item value="都是为了让客户端使用创建对象的代码" />
-      <item value="create Dough" />
       <item value="Pizza Ingredient Factory抽象工厂的" />
       <item value="其内部也是工厂方法模式来实现的" />
       <item value="Ny Pizza Ingredient Factory" />
@@ -23,7 +26,6 @@
       <item value="工厂方法使用继承来实现" />
       <item value="Cheese Pizza" />
       <item value="其中创建对象返回的都是" />
-      <item value="Pizza Ingredient Factory" />
       <item value="这一族的抽象结果" />
       <item value="抽象工厂定义的接口" />
       <item value="get Pizza Name" />
@@ -53,13 +55,11 @@
       <item value="但是他们的风格" />
       <item value="order Pizza" />
       <item value="Pizza" />
-      <item value="prepare" />
-      <item value="Pizza Store" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4708" />
-        <entry key="ENGLISH" value="4709" />
+        <entry key="CHINESE" value="4713" />
+        <entry key="ENGLISH" value="4713" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
