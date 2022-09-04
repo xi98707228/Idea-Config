@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expected Mod Count" />
+      <item value="spliterator" />
+      <item value="Concurrent Modification Exception" />
+      <item value="No Such Element Exception" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="mod Count" />
+      <item value="entry Set" />
+      <item value="就属于芝加哥方的披萨原谅生产工厂" />
       <item value="思考设计类时" />
       <item value="都是为了让客户端使用创建对象的代码" />
       <item value="create Dough" />
@@ -47,19 +55,11 @@
       <item value="Pizza" />
       <item value="prepare" />
       <item value="Pizza Store" />
-      <item value="box" />
-      <item value="cheese" />
-      <item value="bake" />
-      <item value="transverse Roll" />
-      <item value="time Vo" />
-      <item value="set Line Time" />
-      <item value="100" />
-      <item value="bottom Left" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4699" />
-        <entry key="ENGLISH" value="4699" />
+        <entry key="CHINESE" value="4708" />
+        <entry key="ENGLISH" value="4709" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
