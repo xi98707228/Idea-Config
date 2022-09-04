@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cheese Pizza" />
       <item value="工厂模式" />
       <item value="纽约披萨原料生产工厂" />
       <item value="Pizza Ingredient Factory" />
@@ -24,7 +25,6 @@
       <item value="Ny Pizza Ingredient Factory" />
       <item value="Thin Crust Dough" />
       <item value="工厂方法使用继承来实现" />
-      <item value="Cheese Pizza" />
       <item value="其中创建对象返回的都是" />
       <item value="这一族的抽象结果" />
       <item value="抽象工厂定义的接口" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4713" />
-        <entry key="ENGLISH" value="4713" />
+        <entry key="ENGLISH" value="4714" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
