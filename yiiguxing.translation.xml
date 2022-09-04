@@ -5,8 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Pizza Ingredient Factory" />
+      <item value="思考设计类时" />
+      <item value="都是为了让客户端使用创建对象的代码" />
       <item value="create Dough" />
+      <item value="Pizza Ingredient Factory抽象工厂的" />
+      <item value="其内部也是工厂方法模式来实现的" />
+      <item value="Ny Pizza Ingredient Factory" />
+      <item value="Thin Crust Dough" />
+      <item value="工厂方法使用继承来实现" />
+      <item value="Cheese Pizza" />
+      <item value="其中创建对象返回的都是" />
+      <item value="Pizza Ingredient Factory" />
+      <item value="这一族的抽象结果" />
+      <item value="抽象工厂定义的接口" />
+      <item value="get Pizza Name" />
+      <item value="Prepare" />
+      <item value="自动根据工厂来创建对应的材料" />
+      <item value="这四种原料即可" />
+      <item value="芝士披萨的创建只需要" />
+      <item value="pizza Ingredient Factory" />
+      <item value="Abstract Factory" />
+      <item value="images" />
+      <item value="Ny Pizza Store" />
+      <item value="veggies" />
+      <item value="clams" />
+      <item value="Reggiano Cheese" />
+      <item value="Plum Tomato Sauce" />
+      <item value="Mushroom" />
+      <item value="Fresh Clams" />
       <item value="Dough" />
       <item value="Clams" />
       <item value="create Clams" />
@@ -29,37 +55,11 @@
       <item value="set Line Time" />
       <item value="100" />
       <item value="bottom Left" />
-      <item value="bottom Left Chart" />
-      <item value="left Chart" />
-      <item value="tabindex" />
-      <item value="info Window Field" />
-      <item value="return" />
-      <item value="add Class" />
-      <item value="remove Class" />
-      <item value="level-title" />
-      <item value="add Judgment Basis To Body" />
-      <item value="get Local Condition" />
-      <item value="application" />
-      <item value="根据查出的有问题的点位重新在右上角绘制图表" />
-      <item value="清除当前水质div中水质文字和table中数据" />
-      <item value="clear Water Quality Label" />
-      <item value="开始初始化图表" />
-      <item value="longitudinal Roll Health" />
-      <item value="start Init Chart" />
-      <item value="nice Scroll" />
-      <item value="current Date" />
-      <item value="received" />
-      <item value="water Quality" />
-      <item value="display" />
-      <item value="water quality div" />
-      <item value="div" />
-      <item value="optional new" />
-      <item value="longitudinal Roll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4664" />
-        <entry key="ENGLISH" value="4665" />
+        <entry key="CHINESE" value="4699" />
+        <entry key="ENGLISH" value="4699" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -80,7 +80,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
-        <entry key="MALAGASY" value="1" />
+        <entry key="MALAGASY" value="4" />
         <entry key="MALTESE" value="3" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
@@ -97,7 +97,7 @@
         <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="8" />
+        <entry key="ITALIAN" value="9" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
