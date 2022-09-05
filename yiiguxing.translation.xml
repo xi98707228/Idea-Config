@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="order Pizza" />
+      <item value="pizza Ingredient Factory" />
+      <item value="create Pizza" />
       <item value="Correlation Message Post Processor" />
       <item value="Amqp Admin" />
       <item value="Handler Method Argument Resolver" />
@@ -41,7 +44,6 @@
       <item value="自动根据工厂来创建对应的材料" />
       <item value="这四种原料即可" />
       <item value="芝士披萨的创建只需要" />
-      <item value="pizza Ingredient Factory" />
       <item value="Abstract Factory" />
       <item value="images" />
       <item value="Ny Pizza Store" />
@@ -53,13 +55,11 @@
       <item value="Fresh Clams" />
       <item value="Dough" />
       <item value="Clams" />
-      <item value="create Clams" />
-      <item value="create Pepperoni" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4720" />
-        <entry key="ENGLISH" value="4721" />
+        <entry key="CHINESE" value="4723" />
+        <entry key="ENGLISH" value="4724" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661933104687" />
+    <option name="lastTrimTime" value="1662376678831" />
   </component>
 </application>
