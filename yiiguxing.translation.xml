@@ -5,9 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Xml Bean Factory" />
+      <item value="javax Inject Provider Class" />
+      <item value="Parent bean factory, for bean inheritance support." />
+      <item value="Default Listable Bean Factory" />
+      <item value="想要都遵循我们披萨店的规则来执行" />
+      <item value="create Pizza" />
       <item value="order Pizza" />
       <item value="pizza Ingredient Factory" />
-      <item value="create Pizza" />
       <item value="Correlation Message Post Processor" />
       <item value="Amqp Admin" />
       <item value="Handler Method Argument Resolver" />
@@ -50,16 +55,11 @@
       <item value="veggies" />
       <item value="clams" />
       <item value="Reggiano Cheese" />
-      <item value="Plum Tomato Sauce" />
-      <item value="Mushroom" />
-      <item value="Fresh Clams" />
-      <item value="Dough" />
-      <item value="Clams" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4723" />
-        <entry key="ENGLISH" value="4724" />
+        <entry key="CHINESE" value="4728" />
+        <entry key="ENGLISH" value="4729" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
