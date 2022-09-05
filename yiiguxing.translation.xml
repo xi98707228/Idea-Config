@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="溶解氧" />
+      <item value="new Optional" />
       <item value="总有机碳" />
       <item value="optional" />
       <item value="legenddiv" />
@@ -53,13 +55,11 @@
       <item value="Ny Pizza Ingredient Factory" />
       <item value="Thin Crust Dough" />
       <item value="工厂方法使用继承来实现" />
-      <item value="其中创建对象返回的都是" />
-      <item value="这一族的抽象结果" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4741" />
-        <entry key="ENGLISH" value="4741" />
+        <entry key="CHINESE" value="4743" />
+        <entry key="ENGLISH" value="4743" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
