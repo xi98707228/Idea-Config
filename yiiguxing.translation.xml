@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transfer div" />
+      <item value="姝ュ嚭鐜板皢璁板綍鍦ㄨ皟璇曠骇鍒" />
+      <item value="hidden" />
+      <item value="href" />
+      <item value="started" />
+      <item value="3 SSJU 371662341195216" />
+      <item value="Ruoyi Scheduler DESKTOP" />
+      <item value="Scheduler" />
+      <item value="Quartz Scheduler" />
+      <item value="Ruoyi Scheduler" />
+      <item value="Druid Abstract Data Source" />
+      <item value="long" />
+      <item value="discard" />
+      <item value="test Connection Internal" />
+      <item value="add" />
       <item value="Chart Inner Vo" />
       <item value="Correlation Message Post Processor" />
       <item value="Amqp Admin" />
@@ -40,26 +55,11 @@
       <item value="get Pizza Name" />
       <item value="Prepare" />
       <item value="自动根据工厂来创建对应的材料" />
-      <item value="这四种原料即可" />
-      <item value="芝士披萨的创建只需要" />
-      <item value="pizza Ingredient Factory" />
-      <item value="Abstract Factory" />
-      <item value="images" />
-      <item value="Ny Pizza Store" />
-      <item value="veggies" />
-      <item value="clams" />
-      <item value="Reggiano Cheese" />
-      <item value="Plum Tomato Sauce" />
-      <item value="Mushroom" />
-      <item value="Fresh Clams" />
-      <item value="Dough" />
-      <item value="Clams" />
-      <item value="create Clams" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4721" />
-        <entry key="ENGLISH" value="4722" />
+        <entry key="CHINESE" value="4738" />
+        <entry key="ENGLISH" value="4739" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -81,7 +81,7 @@
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="4" />
-        <entry key="MALTESE" value="3" />
+        <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
