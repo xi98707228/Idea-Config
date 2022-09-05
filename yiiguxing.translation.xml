@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="initialization" />
-      <item value="longitudinal Roll" />
-      <item value="left Chart" />
-      <item value="tabindex" />
-      <item value="5000" />
-      <item value="margin" />
-      <item value="tbody" />
-      <item value="start Page" />
-      <item value="szsd Dev Info Service" />
-      <item value="Caller Runs Policy" />
-      <item value="Predefined RejectedExecutionHandlers" />
-      <item value="Discard Oldest Policy" />
-      <item value="Discard Policy" />
-      <item value="Abort Policy" />
-      <item value="core Pool Size" />
-      <item value="devlist" />
-      <item value="szsd Dev Info" />
-      <item value="Szsd Dev Info" />
-      <item value="查询人工设备设备与接口管理列表" />
-      <item value="dev List" />
-      <item value="get Data Table" />
-      <item value="氨氮" />
-      <item value="氨氮的遮罩物" />
-      <item value="温度" />
-      <item value="layer Type" />
-      <item value="add Text Layer To Map" />
-      <item value="request Base Url" />
-      <item value="json" />
-      <item value="result" />
-      <item value="rows" />
-      <item value="add Artificial Test Layer To Map" />
-      <item value="field" />
-      <item value="left Chart Flag" />
-      <item value="empty" />
-      <item value="device List" />
-      <item value="onclick" />
-      <item value="left Chart Div" />
-      <item value="clear Water Quality Label" />
-      <item value="water Quality" />
-      <item value="显示水质当前水质标准的表格" />
-      <item value="longitudinal Roll Health" />
-      <item value="display" />
-      <item value="NTU" />
-      <item value="TOC" />
-      <item value="div" />
-      <item value="transverse Roll" />
-      <item value="time Vo" />
-      <item value="set Line Time" />
-      <item value="100" />
-      <item value="bottom Left" />
+      <item value="Correlation Message Post Processor" />
+      <item value="Amqp Admin" />
+      <item value="Handler Method Argument Resolver" />
+      <item value="Array Deque" />
+      <item value="Organzie Constant" />
+      <item value="cache Map" />
+      <item value="Cache Organize" />
+      <item value="vtk XML Rectilinear Grid Reader" />
+      <item value="Cheese Pizza" />
+      <item value="工厂模式" />
+      <item value="纽约披萨原料生产工厂" />
+      <item value="Pizza Ingredient Factory" />
+      <item value="create Dough" />
+      <item value="expected Mod Count" />
+      <item value="spliterator" />
+      <item value="Concurrent Modification Exception" />
+      <item value="No Such Element Exception" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="mod Count" />
+      <item value="entry Set" />
+      <item value="就属于芝加哥方的披萨原谅生产工厂" />
+      <item value="思考设计类时" />
+      <item value="都是为了让客户端使用创建对象的代码" />
+      <item value="Pizza Ingredient Factory抽象工厂的" />
+      <item value="其内部也是工厂方法模式来实现的" />
+      <item value="Ny Pizza Ingredient Factory" />
+      <item value="Thin Crust Dough" />
+      <item value="工厂方法使用继承来实现" />
+      <item value="其中创建对象返回的都是" />
+      <item value="这一族的抽象结果" />
+      <item value="抽象工厂定义的接口" />
+      <item value="get Pizza Name" />
+      <item value="Prepare" />
+      <item value="自动根据工厂来创建对应的材料" />
+      <item value="这四种原料即可" />
+      <item value="芝士披萨的创建只需要" />
+      <item value="pizza Ingredient Factory" />
+      <item value="Abstract Factory" />
+      <item value="images" />
+      <item value="Ny Pizza Store" />
+      <item value="veggies" />
+      <item value="clams" />
+      <item value="Reggiano Cheese" />
+      <item value="Plum Tomato Sauce" />
+      <item value="Mushroom" />
+      <item value="Fresh Clams" />
+      <item value="Dough" />
+      <item value="Clams" />
+      <item value="create Clams" />
+      <item value="create Pepperoni" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4690" />
-        <entry key="ENGLISH" value="4691" />
+        <entry key="CHINESE" value="4720" />
+        <entry key="ENGLISH" value="4721" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -80,11 +80,11 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
-        <entry key="MALAGASY" value="1" />
+        <entry key="MALAGASY" value="4" />
         <entry key="MALTESE" value="3" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
-        <entry key="HMONG" value="2" />
+        <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="7" />
@@ -97,12 +97,12 @@
         <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="7" />
+        <entry key="ITALIAN" value="9" />
         <entry key="HINDI" value="6" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="6" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
