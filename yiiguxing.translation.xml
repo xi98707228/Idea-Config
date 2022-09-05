@@ -5,68 +5,68 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="create Sauce" />
-      <item value="Xml Bean Factory" />
-      <item value="javax Inject Provider Class" />
-      <item value="Parent bean factory, for bean inheritance support." />
-      <item value="Default Listable Bean Factory" />
-      <item value="想要都遵循我们披萨店的规则来执行" />
-      <item value="create Pizza" />
-      <item value="order Pizza" />
-      <item value="pizza Ingredient Factory" />
-      <item value="Correlation Message Post Processor" />
-      <item value="Amqp Admin" />
-      <item value="Handler Method Argument Resolver" />
-      <item value="Array Deque" />
-      <item value="Organzie Constant" />
-      <item value="cache Map" />
-      <item value="Cache Organize" />
-      <item value="vtk XML Rectilinear Grid Reader" />
-      <item value="Cheese Pizza" />
-      <item value="工厂模式" />
-      <item value="纽约披萨原料生产工厂" />
-      <item value="Pizza Ingredient Factory" />
-      <item value="create Dough" />
-      <item value="expected Mod Count" />
-      <item value="spliterator" />
-      <item value="Concurrent Modification Exception" />
-      <item value="No Such Element Exception" />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="mod Count" />
-      <item value="entry Set" />
-      <item value="就属于芝加哥方的披萨原谅生产工厂" />
-      <item value="思考设计类时" />
-      <item value="都是为了让客户端使用创建对象的代码" />
-      <item value="Pizza Ingredient Factory抽象工厂的" />
-      <item value="其内部也是工厂方法模式来实现的" />
-      <item value="Ny Pizza Ingredient Factory" />
-      <item value="Thin Crust Dough" />
-      <item value="工厂方法使用继承来实现" />
-      <item value="其中创建对象返回的都是" />
-      <item value="这一族的抽象结果" />
-      <item value="抽象工厂定义的接口" />
-      <item value="get Pizza Name" />
-      <item value="Prepare" />
-      <item value="自动根据工厂来创建对应的材料" />
-      <item value="这四种原料即可" />
-      <item value="芝士披萨的创建只需要" />
-      <item value="Abstract Factory" />
-      <item value="images" />
-      <item value="Ny Pizza Store" />
-      <item value="veggies" />
-      <item value="clams" />
+      <item value="get Select File Tree" />
+      <item value="file Tree Service" />
+      <item value="operate Tree Data" />
+      <item value="save" />
+      <item value="any Match" />
+      <item value="Aspect" />
+      <item value="aspect Cut" />
+      <item value="Multiple Statistics Common Pool" />
+      <item value="object" />
+      <item value="select Szsd Dev Info List" />
+      <item value="ownareanid" />
+      <item value="device Ids" />
+      <item value="true" />
+      <item value="tag" />
+      <item value="change Date Input Event" />
+      <item value="pattern" />
+      <item value="hidden" />
+      <item value="click Time Line Re Flush Data" />
+      <item value="remove All Heat Layer" />
+      <item value="remove Point By Class" />
+      <item value="inner Text" />
+      <item value="data" />
+      <item value="select Time Btn" />
+      <item value="longitudinal Roll Health" />
+      <item value="longitudinal Roll" />
+      <item value="menu" />
+      <item value="function" />
+      <item value="remove All Text Layer" />
+      <item value="init Css Style And Java Script Event" />
+      <item value="legenddiv Group" />
+      <item value="height" />
+      <item value="start" />
+      <item value="break" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="Abstract Autowire Capable Bean Factory" />
+      <item value="The root interface for accessing a Spring bean container. &lt;p&gt;This is the basic client view of a bean container; further interfaces such as {@link ListableBeanFactory} and {@link org.springframework.beans.factory.config.ConfigurableBeanFactory} are available for specific purposes. &lt;p&gt;This interface is implemented by objects that hold a number of bean definitions, each uniquely identified by a String name. Depending on the bean definition, the factory will return either an independent instance of a contained object (the Prototype design pattern), or a single shared instance (a superior alternative to the Singleton design pattern, in which the instance is a singleton in the scope of the factory). Which type of instance will be returned depends on the bean factory configuration: the API is the same. Since Spring 2.0, further scopes are available depending on the concrete application context (e.g. &quot;request&quot; and &quot;session&quot; scopes in a web environment). &lt;p&gt;The point of this approach is that the BeanFactory is a central registry of application components, and centralizes configuration of application components (no more do individual objects need to read properties files, for example). See chapters 4 and 11 of &quot;Expert One-on-One J2EE Design and Development&quot; for a discussion of the benefits of this approach. &lt;p&gt;Note that it is generally better to rely on Dependency Injection (&quot;push&quot; configuration) to configure application objects through setters or constructors, rather than use any form of &quot;pull&quot; configuration like a BeanFactory lookup. Spring's Dependency Injection functionality is implemented using this BeanFactory interface and its subinterfaces. &lt;p&gt;Normally a BeanFactory will load bean definitions stored in a configuration source (such as an XML document), and use the {@code org.springframework.beans} package to configure the beans. However, an implementation could simply return Java objects it creates as necessary directly in Java code. There are no constraints on how the definitions could be stored: LDAP, RDBMS, XML, properties file, etc. Implementations are encouraged to support references amongst beans (Dependency Injection). &lt;p&gt;In contrast to the methods in {@link ListableBeanFactory}, all of the operations in this interface will also check parent factories if this is a {@link HierarchicalBeanFactory}. If a bean is not found in this factory instance, the immediate parent factory will be asked. Beans in this factory instance are supposed to override beans of the same name in any parent factory. &lt;p&gt;Bean factory implementations should support the standard bean lifecycle interfaces as far as possible. The full set of initialization methods and their standard order is: &lt;ol&gt; &lt;li&gt;BeanNameAware's {@code setBeanName} &lt;li&gt;BeanClassLoaderAware's {@code setBeanClassLoader} &lt;li&gt;BeanFactoryAware's {@code setBeanFactory} &lt;li&gt;EnvironmentAware's {@code setEnvironment} &lt;li&gt;EmbeddedValueResolverAware's {@code setEmbeddedValueResolver} &lt;li&gt;ResourceLoaderAware's {@code setResourceLoader} (only applicable when running in an application context) &lt;li&gt;ApplicationEventPublisherAware's {@code setApplicationEventPublisher} (only applicable when running in an application context) &lt;li&gt;MessageSourceAware's {@code setMessageSource} (only applicable when running in an application context) &lt;li&gt;ApplicationContextAware's {@code setApplicationContext} (only applicable when running in an application context) &lt;li&gt;ServletContextAware's {@code setServletContext} (only applicable when running in a web application context) &lt;li&gt;{@code postProcessBeforeInitialization} methods of BeanPostProcessors &lt;li&gt;InitializingBean's {@code afterPropertiesSet} &lt;li&gt;a custom {@code init-method} definition &lt;li&gt;{@code postProcessAfterInitialization} methods of BeanPostProcessors &lt;ol&gt; &lt;p&gt;On shutdown of a bean factory, the following lifecycle methods apply: &lt;ol&gt; &lt;li&gt;{@code postProcessBeforeDestruction} methods of DestructionAwareBeanPostProcessors &lt;li&gt;DisposableBean's {@code destroy} &lt;li&gt;a custom {@code destroy-method} definition &lt;ol&gt;" />
+      <item value="left-menu-body" />
+      <item value="width" />
+      <item value="湖水标准按钮" />
+      <item value="left menu select" />
+      <item value="zhpf table" />
+      <item value="class" />
+      <item value="cellpadding" />
+      <item value="span" />
+      <item value="溶解氧" />
+      <item value="left-menu-hover" />
+      <item value="add Class" />
+      <item value="attr" />
+      <item value="layer bod" />
+      <item value="new Optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4729" />
-        <entry key="ENGLISH" value="4730" />
+        <entry key="CHINESE" value="4797" />
+        <entry key="ENGLISH" value="4798" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="4" />
+        <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -81,7 +81,7 @@
         <entry key="LUXEMBOURGISH" value="4" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAGASY" value="4" />
-        <entry key="MALTESE" value="3" />
+        <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662376678831" />
+    <option name="lastTrimTime" value="1662368432835" />
   </component>
 </application>
