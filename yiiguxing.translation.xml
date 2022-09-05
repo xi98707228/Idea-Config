@@ -5,7 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="width" />
+      <item value="湖水标准按钮" />
+      <item value="left menu select" />
+      <item value="zhpf table" />
+      <item value="class" />
+      <item value="cellpadding" />
+      <item value="span" />
       <item value="溶解氧" />
+      <item value="remove All Text Layer" />
+      <item value="left-menu-hover" />
+      <item value="add Class" />
+      <item value="attr" />
+      <item value="layer bod" />
       <item value="new Optional" />
       <item value="总有机碳" />
       <item value="optional" />
@@ -43,23 +55,11 @@
       <item value="expected Mod Count" />
       <item value="spliterator" />
       <item value="Concurrent Modification Exception" />
-      <item value="No Such Element Exception" />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="mod Count" />
-      <item value="entry Set" />
-      <item value="就属于芝加哥方的披萨原谅生产工厂" />
-      <item value="思考设计类时" />
-      <item value="都是为了让客户端使用创建对象的代码" />
-      <item value="Pizza Ingredient Factory抽象工厂的" />
-      <item value="其内部也是工厂方法模式来实现的" />
-      <item value="Ny Pizza Ingredient Factory" />
-      <item value="Thin Crust Dough" />
-      <item value="工厂方法使用继承来实现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4743" />
-        <entry key="ENGLISH" value="4743" />
+        <entry key="CHINESE" value="4755" />
+        <entry key="ENGLISH" value="4756" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
