@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="redis Cache" />
       <item value="transfer div" />
       <item value="姝ュ嚭鐜板皢璁板綍鍦ㄨ皟璇曠骇鍒" />
       <item value="hidden" />
@@ -54,12 +55,11 @@
       <item value="抽象工厂定义的接口" />
       <item value="get Pizza Name" />
       <item value="Prepare" />
-      <item value="自动根据工厂来创建对应的材料" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4738" />
-        <entry key="ENGLISH" value="4739" />
+        <entry key="CHINESE" value="4739" />
+        <entry key="ENGLISH" value="4740" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
