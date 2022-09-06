@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="datum" />
+      <item value="has Own Property" />
+      <item value="init Standard" />
+      <item value="get JSON" />
+      <item value="standard Data" />
+      <item value="初始化水质标准" />
+      <item value="获取水质标准" />
       <item value="timeline Key" />
       <item value="TIMESTAMP" />
       <item value="Data API Controller" />
@@ -48,18 +55,11 @@
       <item value="system" />
       <item value="http" />
       <item value="deploy Directory" />
-      <item value="Device Vo" />
-      <item value="设置湿地归属系统" />
-      <item value="Mag Spare Instrument" />
-      <item value="Sequence Type" />
-      <item value="Quartz Scheduler" />
-      <item value="Szsd Dev Info" />
-      <item value="get All Device Top" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4863" />
-        <entry key="ENGLISH" value="4864" />
+        <entry key="CHINESE" value="4874" />
+        <entry key="ENGLISH" value="4875" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
