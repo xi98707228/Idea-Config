@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="threshold" />
+      <item value="result" />
       <item value="Bean Utils" />
       <item value="springframework" />
       <item value="BEAN METHOD PROP INDEX" />
@@ -21,7 +23,6 @@
       <item value="return" />
       <item value="throws" />
       <item value="field Name" />
-      <item value="threshold" />
       <item value="current Date" />
       <item value="Exception" />
       <item value="compare Rome Number" />
@@ -54,12 +55,11 @@
       <item value="太湖水质监测数据可视化" />
       <item value="set Time Line" />
       <item value="下方标签颜色" />
-      <item value="初始化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4898" />
-        <entry key="ENGLISH" value="4899" />
+        <entry key="CHINESE" value="4901" />
+        <entry key="ENGLISH" value="4902" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
