@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="GROUP_3_CAMERA" />
+      <item value="GROUP_4_BIRD CAMERA" />
+      <item value="传感器组" />
+      <item value="水质" />
       <item value="compute Median Val" />
       <item value="merge Array Size" />
       <item value="那么就" />
@@ -51,15 +55,11 @@
       <item value="则重新加载这些点位" />
       <item value="find" />
       <item value="play Bar" />
-      <item value="remove Class" />
-      <item value="change Date" />
-      <item value="global System Map Type" />
-      <item value="current select date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4853" />
-        <entry key="ENGLISH" value="4854" />
+        <entry key="CHINESE" value="4857" />
+        <entry key="ENGLISH" value="4858" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
