@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="timeline Key" />
+      <item value="TIMESTAMP" />
+      <item value="Data API Controller" />
       <item value="instantiate" />
       <item value="field Name" />
       <item value="get Entity Path" />
@@ -52,14 +55,11 @@
       <item value="Quartz Scheduler" />
       <item value="Szsd Dev Info" />
       <item value="get All Device Top" />
-      <item value="current Date" />
-      <item value="选择的时间发生变化" />
-      <item value="则重新加载这些点位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4860" />
-        <entry key="ENGLISH" value="4861" />
+        <entry key="CHINESE" value="4863" />
+        <entry key="ENGLISH" value="4864" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
