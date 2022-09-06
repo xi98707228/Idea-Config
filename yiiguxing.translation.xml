@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Time Line" />
+      <item value="下方标签颜色" />
+      <item value="初始化" />
+      <item value="init Tags Color" />
+      <item value="tag" />
+      <item value="Taihushidi 1 Sonde" />
+      <item value="szsd Dev Info Service" />
+      <item value="list" />
+      <item value="show Point By Tag" />
+      <item value="query Device Param" />
+      <item value="Soap Client" />
+      <item value="ownareanid" />
+      <item value="mfb-component button--child" />
+      <item value="index" />
+      <item value="new Reactor" />
+      <item value="szsd db port" />
+      <item value="style" />
+      <item value="80" />
+      <item value="system" />
+      <item value="http" />
+      <item value="deploy Directory" />
       <item value="instantiate" />
       <item value="Device Vo" />
       <item value="设置湿地归属系统" />
@@ -20,8 +41,6 @@
       <item value="play Bar" />
       <item value="remove Class" />
       <item value="change Date" />
-      <item value="list" />
-      <item value="szsd Dev Info Service" />
       <item value="global System Map Type" />
       <item value="current select date" />
       <item value="change Date Input Event" />
@@ -36,30 +55,11 @@
       <item value="any Match" />
       <item value="Aspect" />
       <item value="aspect Cut" />
-      <item value="Multiple Statistics Common Pool" />
-      <item value="object" />
-      <item value="select Szsd Dev Info List" />
-      <item value="ownareanid" />
-      <item value="device Ids" />
-      <item value="true" />
-      <item value="tag" />
-      <item value="pattern" />
-      <item value="hidden" />
-      <item value="click Time Line Re Flush Data" />
-      <item value="remove All Heat Layer" />
-      <item value="remove Point By Class" />
-      <item value="inner Text" />
-      <item value="data" />
-      <item value="select Time Btn" />
-      <item value="longitudinal Roll Health" />
-      <item value="longitudinal Roll" />
-      <item value="menu" />
-      <item value="function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4821" />
-        <entry key="ENGLISH" value="4822" />
+        <entry key="CHINESE" value="4843" />
+        <entry key="ENGLISH" value="4844" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
