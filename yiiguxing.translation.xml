@@ -5,28 +5,48 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="指定需要关闭那个灯光" />
-      <item value="This class is for the exclusive use of ProcessBuilder.start() to create new processes." />
-      <item value="Martin Buchholz" />
-      <item value="invalid null character in command" />
-      <item value="Throws IndexOutOfBoundsException if command is empty" />
-      <item value="room Light" />
-      <item value="simple Remote Control" />
-      <item value="execute Command" />
-      <item value="Command" />
-      <item value="按下按钮" />
-      <item value="即遥控器上的按钮" />
-      <item value="qq" />
-      <item value="987072248" />
-      <item value="Simple Remote Control" />
-      <item value="slot" />
-      <item value="Light On Command" />
-      <item value="Caller Sensitive" />
-      <item value="get Actual Type Arguments" />
-      <item value="comparable Class For" />
-      <item value="spread" />
-      <item value="Spreads (XORs) higher bits of hash to lower and also forces top bit to 0. Because the table uses power-of-two masking, sets of hashes that vary only in bits above the current mask will always collide. (Among known examples are sets of Float keys holding consecutive whole numbers in small tables.) So we apply a transform that spreads the impact of higher bits downward. There is a tradeoff between speed, utility, and quality of bit-spreading. Because many common sets of hashes are already reasonably distributed (so don't benefit from spreading), and because we use trees to handle large sets of collisions in bins, we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage, as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds." />
-      <item value="Head First Design Pattern" />
+      <item value="start Time" />
+      <item value="end Time" />
+      <item value="turb Ntu" />
+      <item value="level" />
+      <item value="添加单击事件" />
+      <item value="field Level" />
+      <item value="change Color Tags" />
+      <item value="即每个检测点数据表top 1数据" />
+      <item value="resolve Top Data" />
+      <item value="datum" />
+      <item value="用于改变tags的颜色等级" />
+      <item value="threshold" />
+      <item value="result" />
+      <item value="Bean Utils" />
+      <item value="springframework" />
+      <item value="BEAN METHOD PROP INDEX" />
+      <item value="Thrown when an application tries to create an instance of a class using the {@code newInstance} method in class {@code Class}, but the specified class object cannot be instantiated. The instantiation can fail for a variety of reasons including but not limited to: &lt;ul&gt; &lt;li&gt; the class object represents an abstract class, an interface, an array class, a primitive type, or {@code void} &lt;li&gt; the class has no nullary constructor &lt;ul&gt;" />
+      <item value="Instantiation Exception" />
+      <item value="&quot;Is it an abstract class" />
+      <item value="instantiate" />
+      <item value="return List" />
+      <item value="device Ids" />
+      <item value="归属系统" />
+      <item value="根据属性名称和属性值查询已经预警的点位信息" />
+      <item value="参数" />
+      <item value="object" />
+      <item value="return" />
+      <item value="throws" />
+      <item value="field Name" />
+      <item value="current Date" />
+      <item value="Exception" />
+      <item value="compare Rome Number" />
+      <item value="has Own Property" />
+      <item value="init Standard" />
+      <item value="get JSON" />
+      <item value="standard Data" />
+      <item value="初始化水质标准" />
+      <item value="获取水质标准" />
+      <item value="timeline Key" />
+      <item value="TIMESTAMP" />
+      <item value="Data API Controller" />
+      <item value="get Entity Path" />
       <item value="GROUP_3_CAMERA" />
       <item value="GROUP_4_BIRD CAMERA" />
       <item value="传感器组" />
@@ -35,31 +55,11 @@
       <item value="merge Array Size" />
       <item value="那么就" />
       <item value="如果发现当前map中没有当前遍历的字符" />
-      <item value="此时需要移动窗口的左侧边界至" />
-      <item value="shuaibilin" />
-      <item value="Human Task Connector" />
-      <item value="system Name Map" />
-      <item value="公园对应系统名称" />
-      <item value="三山岛水质监测数据可视化" />
-      <item value="湖滨水质监测数据可视化" />
-      <item value="太湖水质监测数据可视化" />
-      <item value="set Time Line" />
-      <item value="下方标签颜色" />
-      <item value="初始化" />
-      <item value="init Tags Color" />
-      <item value="tag" />
-      <item value="Taihushidi 1 Sonde" />
-      <item value="szsd Dev Info Service" />
-      <item value="list" />
-      <item value="show Point By Tag" />
-      <item value="query Device Param" />
-      <item value="Soap Client" />
-      <item value="ownareanid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4882" />
-        <entry key="ENGLISH" value="4882" />
+        <entry key="CHINESE" value="4907" />
+        <entry key="ENGLISH" value="4908" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -75,7 +75,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="15" />
+        <entry key="LATIN" value="16" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
