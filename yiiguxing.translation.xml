@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指定需要关闭那个灯光" />
+      <item value="This class is for the exclusive use of ProcessBuilder.start() to create new processes." />
+      <item value="Martin Buchholz" />
+      <item value="invalid null character in command" />
+      <item value="Throws IndexOutOfBoundsException if command is empty" />
+      <item value="room Light" />
+      <item value="simple Remote Control" />
       <item value="execute Command" />
       <item value="Command" />
       <item value="按下按钮" />
@@ -48,18 +55,11 @@
       <item value="query Device Param" />
       <item value="Soap Client" />
       <item value="ownareanid" />
-      <item value="mfb-component button--child" />
-      <item value="index" />
-      <item value="new Reactor" />
-      <item value="szsd db port" />
-      <item value="style" />
-      <item value="80" />
-      <item value="system" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4875" />
-        <entry key="ENGLISH" value="4876" />
+        <entry key="CHINESE" value="4882" />
+        <entry key="ENGLISH" value="4882" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
