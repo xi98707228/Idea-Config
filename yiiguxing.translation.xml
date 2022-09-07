@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="execute Command" />
+      <item value="Command" />
+      <item value="按下按钮" />
+      <item value="即遥控器上的按钮" />
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="Simple Remote Control" />
+      <item value="slot" />
+      <item value="Light On Command" />
+      <item value="Caller Sensitive" />
+      <item value="get Actual Type Arguments" />
+      <item value="comparable Class For" />
+      <item value="spread" />
+      <item value="Spreads (XORs) higher bits of hash to lower and also forces top bit to 0. Because the table uses power-of-two masking, sets of hashes that vary only in bits above the current mask will always collide. (Among known examples are sets of Float keys holding consecutive whole numbers in small tables.) So we apply a transform that spreads the impact of higher bits downward. There is a tradeoff between speed, utility, and quality of bit-spreading. Because many common sets of hashes are already reasonably distributed (so don't benefit from spreading), and because we use trees to handle large sets of collisions in bins, we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage, as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds." />
+      <item value="Head First Design Pattern" />
       <item value="GROUP_3_CAMERA" />
       <item value="GROUP_4_BIRD CAMERA" />
       <item value="传感器组" />
@@ -40,26 +55,11 @@
       <item value="style" />
       <item value="80" />
       <item value="system" />
-      <item value="http" />
-      <item value="deploy Directory" />
-      <item value="instantiate" />
-      <item value="Device Vo" />
-      <item value="设置湿地归属系统" />
-      <item value="Mag Spare Instrument" />
-      <item value="Sequence Type" />
-      <item value="Quartz Scheduler" />
-      <item value="Szsd Dev Info" />
-      <item value="get All Device Top" />
-      <item value="current Date" />
-      <item value="选择的时间发生变化" />
-      <item value="则重新加载这些点位" />
-      <item value="find" />
-      <item value="play Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4857" />
-        <entry key="ENGLISH" value="4858" />
+        <entry key="CHINESE" value="4875" />
+        <entry key="ENGLISH" value="4876" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
