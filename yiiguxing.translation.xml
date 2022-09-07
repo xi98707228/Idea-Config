@@ -5,13 +5,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="default Active" />
+      <item value="inner HTML" />
+      <item value="obj Item" />
+      <item value="flush Cream Document" />
+      <item value="open Camera Id" />
+      <item value="health Index Main" />
+      <item value="cream-body" />
+      <item value="get Local Condition" />
+      <item value="initialize Ezuikit Player" />
+      <item value="camera Id" />
+      <item value="playr" />
+      <item value="100" />
+      <item value="clear Water Quality Label" />
+      <item value="longitudinal Roll Health" />
+      <item value="remove Class" />
+      <item value="add Class" />
+      <item value="longitudinal Roll Health Shrink" />
+      <item value="EZUI Kit Player" />
       <item value="add Event Listener" />
       <item value="window Title Icon" />
-      <item value="health Index Main" />
       <item value="new Version Flag" />
       <item value="新版本则先在健康指数那显示摄像头" />
       <item value="function" />
-      <item value="initialize Ezuikit Player" />
       <item value="area Check select id" />
       <item value="position Default Map Point" />
       <item value="current Date" />
@@ -39,27 +55,11 @@
       <item value="&quot;Is it an abstract class" />
       <item value="instantiate" />
       <item value="return List" />
-      <item value="device Ids" />
-      <item value="归属系统" />
-      <item value="根据属性名称和属性值查询已经预警的点位信息" />
-      <item value="参数" />
-      <item value="object" />
-      <item value="return" />
-      <item value="throws" />
-      <item value="field Name" />
-      <item value="Exception" />
-      <item value="compare Rome Number" />
-      <item value="has Own Property" />
-      <item value="init Standard" />
-      <item value="get JSON" />
-      <item value="standard Data" />
-      <item value="初始化水质标准" />
-      <item value="获取水质标准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4919" />
-        <entry key="ENGLISH" value="4920" />
+        <entry key="CHINESE" value="4944" />
+        <entry key="ENGLISH" value="4945" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -86,7 +86,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
