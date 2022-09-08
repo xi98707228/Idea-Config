@@ -5,6 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="filter Chart Data List" />
+      <item value="is Not Empty" />
+      <item value="String Utils" />
+      <item value="order By Desc" />
+      <item value="Chart Data Record" />
+      <item value="Delegating Method Accessor Impl" />
+      <item value="A Thread implementation that records the time at which it was created." />
+      <item value="A Thread implementation that records the time at which it was created" />
+      <item value="Wrapping Runnable" />
+      <item value="Task Thread" />
+      <item value="already Hash Compute Mapping" />
+      <item value="flow Execute Hashing" />
+      <item value="Compute Scale Strategy Dispatch" />
+      <item value="Merge Multiple Expression Compute" />
+      <item value="entry Manage Service" />
+      <item value="Query Expression Handle Text Controller" />
+      <item value="Primary" />
+      <item value="default Text Query Executor" />
+      <item value="Default Text Query Executor" />
+      <item value="data Base Utils" />
+      <item value="text Query Executor" />
+      <item value="默认为苏州市天气情况" />
+      <item value="field" />
+      <item value="The constant value of this field is the smallest value of type {@code char}, {@code '\u005Cu0000'}." />
+      <item value="Serializable" />
+      <item value="temp Param String" />
+      <item value="builder Condition Sql" />
+      <item value="init New Reactor Chart" />
       <item value="n遍历完全" />
       <item value="m未遍历完全" />
       <item value="nums 1" />
@@ -27,39 +55,11 @@
       <item value="遍历完毕" />
       <item value="socket" />
       <item value="n Index" />
-      <item value="如果有一个集合遍历完了" />
-      <item value="merge Array Nums" />
-      <item value="上边的参数意义和" />
-      <item value="上个方法相同" />
-      <item value="merge Array Size" />
-      <item value="合并后的长度为" />
-      <item value="leet Code Reduce Method" />
-      <item value="plan Array Method" />
-      <item value="compute Median Val" />
-      <item value="initialize System Map" />
-      <item value="init Boundary" />
-      <item value="get Future Weather" />
-      <item value="TAI HU" />
-      <item value="BOTTOM SELECT TAG AUTO REFRESH INTERVAL" />
-      <item value="initialize Interval Schedule Task" />
-      <item value="set Interval" />
-      <item value="initialze" />
-      <item value="initialzation" />
-      <item value="initial" />
-      <item value="Schedule Task TimeSetting" />
-      <item value="Common Constants" />
-      <item value="schedule Task Auto Flushed Select Tag" />
-      <item value="自动刷新下方选中的" />
-      <item value="标签图表数据" />
-      <item value="schedule Task Auto Flushed Selective Tag" />
-      <item value="schedule Task Auto Flushed" />
-      <item value="schedule" />
-      <item value="chart New Div" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5051" />
-        <entry key="ENGLISH" value="5051" />
+        <entry key="CHINESE" value="5083" />
+        <entry key="ENGLISH" value="5084" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
