@@ -5,13 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="chart New Div" />
+      <item value="NTU" />
+      <item value="init Ssd Info Window" />
+      <item value="info Window Field" />
+      <item value="has Own Property" />
+      <item value="field" />
+      <item value="background-color" />
       <item value="create Line Chart" />
       <item value="健康数据指数" />
       <item value="init Tags Color" />
       <item value="datum" />
       <item value="device Data" />
       <item value="device Id" />
-      <item value="has Own Property" />
       <item value="standard Tags Data" />
       <item value="standard Chart" />
       <item value="code" />
@@ -49,17 +55,11 @@
       <item value="longitudinal Roll Health Shrink" />
       <item value="EZUI Kit Player" />
       <item value="add Event Listener" />
-      <item value="window Title Icon" />
-      <item value="new Version Flag" />
-      <item value="新版本则先在健康指数那显示摄像头" />
-      <item value="function" />
-      <item value="area Check select id" />
-      <item value="position Default Map Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4974" />
-        <entry key="ENGLISH" value="4975" />
+        <entry key="CHINESE" value="4984" />
+        <entry key="ENGLISH" value="4985" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -84,7 +84,7 @@
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
-        <entry key="HMONG" value="1" />
+        <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="7" />
