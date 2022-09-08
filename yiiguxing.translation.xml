@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="TIMELINEKEY_" />
+      <item value="shortest Period Length" />
+      <item value="则选择哪一组" />
+      <item value="比较这几组中时间线最短的是哪一组" />
+      <item value="device List" />
+      <item value="shortest Time Period" />
+      <item value="series" />
+      <item value="series Composition Data" />
+      <item value="控制当前类型是否显示的json数据" />
+      <item value="首先处理添加上方" />
+      <item value="field" />
+      <item value="series Data" />
+      <item value="get Element By Id" />
+      <item value="document" />
+      <item value="chart Name" />
+      <item value="指定图表的配置项和数据" />
+      <item value="resolve Core Options" />
+      <item value="series Composition" />
+      <item value="batch Handle Resolve Chart Data" />
+      <item value="core Data" />
+      <item value="has Own Property" />
+      <item value="create Line Chart" />
+      <item value="option" />
+      <item value="title" />
+      <item value="text" />
+      <item value="text Style" />
+      <item value="tooltip" />
+      <item value="name" />
+      <item value="color" />
+      <item value="element" />
+      <item value="new Version Flag" />
+      <item value="else" />
+      <item value="split The Index" />
+      <item value="has Split" />
+      <item value="append To Object" />
+      <item value="根据标签元素" />
+      <item value="batch Handle Point By Tag" />
+      <item value="判断是左侧的图表还是右侧的图表" />
+      <item value="has Class" />
+      <item value="style Left Chart" />
+      <item value="style Chart Class Name" />
+      <item value="target Search Tag" />
+      <item value="tag Element" />
+      <item value="tag" />
+      <item value="left Chart Flag" />
+      <item value="clear Water Quality Label" />
+      <item value="show Point By Tag" />
+      <item value="class" />
       <item value="water Quality" />
       <item value="创建线形图表" />
-      <item value="create Line Chart Merge Data" />
-      <item value="get Data Min Value" />
-      <item value="1000" />
-      <item value="60" />
-      <item value="15 min" />
-      <item value="BOTTOM SELECT TAG AUTO REFRESH INTERVAL" />
-      <item value="schedule Task Auto Flushed Select Tag" />
-      <item value="org.apache.catalina.core.Standard Server.await" />
-      <item value="await" />
-      <item value="Standard Server" />
-      <item value="catalina" />
-      <item value="initialize Interval Schedule Task" />
-      <item value="filter Chart Data List" />
-      <item value="is Not Empty" />
-      <item value="String Utils" />
-      <item value="order By Desc" />
-      <item value="Chart Data Record" />
-      <item value="Delegating Method Accessor Impl" />
-      <item value="A Thread implementation that records the time at which it was created." />
-      <item value="A Thread implementation that records the time at which it was created" />
-      <item value="Wrapping Runnable" />
-      <item value="Task Thread" />
-      <item value="already Hash Compute Mapping" />
-      <item value="flow Execute Hashing" />
-      <item value="Compute Scale Strategy Dispatch" />
-      <item value="Merge Multiple Expression Compute" />
-      <item value="entry Manage Service" />
-      <item value="Query Expression Handle Text Controller" />
-      <item value="Primary" />
-      <item value="default Text Query Executor" />
-      <item value="Default Text Query Executor" />
-      <item value="data Base Utils" />
-      <item value="text Query Executor" />
-      <item value="默认为苏州市天气情况" />
-      <item value="field" />
-      <item value="The constant value of this field is the smallest value of type {@code char}, {@code '\u005Cu0000'}." />
-      <item value="Serializable" />
-      <item value="temp Param String" />
-      <item value="builder Condition Sql" />
-      <item value="init New Reactor Chart" />
-      <item value="n遍历完全" />
-      <item value="m未遍历完全" />
-      <item value="nums 1" />
-      <item value="nums 2" />
-      <item value="m Index" />
-      <item value="current Value" />
-      <item value="n未遍历完全" />
-      <item value="m遍历完全" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5100" />
-        <entry key="ENGLISH" value="5101" />
+        <entry key="CHINESE" value="5163" />
+        <entry key="ENGLISH" value="5164" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
