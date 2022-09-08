@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="filter" />
+      <item value="property" />
+      <item value="Lingo" />
+      <item value="iterator Overlay" />
       <item value="如果存在摄像头则" />
       <item value="get Elements By Name" />
       <item value="document" />
@@ -51,15 +55,11 @@
       <item value="threshold" />
       <item value="result" />
       <item value="Bean Utils" />
-      <item value="springframework" />
-      <item value="BEAN METHOD PROP INDEX" />
-      <item value="Thrown when an application tries to create an instance of a class using the {@code newInstance} method in class {@code Class}, but the specified class object cannot be instantiated. The instantiation can fail for a variety of reasons including but not limited to: &lt;ul&gt; &lt;li&gt; the class object represents an abstract class, an interface, an array class, a primitive type, or {@code void} &lt;li&gt; the class has no nullary constructor &lt;ul&gt;" />
-      <item value="Instantiation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4947" />
-        <entry key="ENGLISH" value="4947" />
+        <entry key="CHINESE" value="4950" />
+        <entry key="ENGLISH" value="4951" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
