@@ -5,13 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="water Quality" />
+      <item value="创建线形图表" />
+      <item value="create Line Chart Merge Data" />
+      <item value="get Data Min Value" />
+      <item value="1000" />
+      <item value="60" />
+      <item value="15 min" />
+      <item value="BOTTOM SELECT TAG AUTO REFRESH INTERVAL" />
+      <item value="schedule Task Auto Flushed Select Tag" />
       <item value="org.apache.catalina.core.Standard Server.await" />
       <item value="await" />
       <item value="Standard Server" />
       <item value="catalina" />
       <item value="initialize Interval Schedule Task" />
-      <item value="schedule Task Auto Flushed Select Tag" />
-      <item value="BOTTOM SELECT TAG AUTO REFRESH INTERVAL" />
       <item value="filter Chart Data List" />
       <item value="is Not Empty" />
       <item value="String Utils" />
@@ -48,18 +55,11 @@
       <item value="current Value" />
       <item value="n未遍历完全" />
       <item value="m遍历完全" />
-      <item value="m" />
-      <item value="previous Value" />
-      <item value="iter Bounds" />
-      <item value="当前的值" />
-      <item value="后边再会对当前值进行更新" />
-      <item value="接下来就是在循环过程中确定当前值" />
-      <item value="时移动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5091" />
-        <entry key="ENGLISH" value="5092" />
+        <entry key="CHINESE" value="5100" />
+        <entry key="ENGLISH" value="5101" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
