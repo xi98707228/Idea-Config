@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="iter Bounds" />
+      <item value="merge Array Nums" />
+      <item value="m Index" />
+      <item value="上边的参数意义和" />
+      <item value="上个方法相同" />
+      <item value="merge Array Size" />
+      <item value="合并后的长度为" />
+      <item value="leet Code Reduce Method" />
+      <item value="plan Array Method" />
+      <item value="compute Median Val" />
       <item value="initialize System Map" />
       <item value="init Boundary" />
       <item value="get Future Weather" />
@@ -45,21 +55,11 @@
       <item value="get Overlays" />
       <item value="remove Dev Id" />
       <item value="all Overlay" />
-      <item value="dom Element" />
-      <item value="health Index Main" />
-      <item value="iterator Overlay" />
-      <item value="map" />
-      <item value="filter" />
-      <item value="property" />
-      <item value="Lingo" />
-      <item value="如果存在摄像头则" />
-      <item value="get Elements By Name" />
-      <item value="document" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5012" />
-        <entry key="ENGLISH" value="5013" />
+        <entry key="CHINESE" value="5022" />
+        <entry key="ENGLISH" value="5023" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
