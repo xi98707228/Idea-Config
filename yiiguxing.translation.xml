@@ -5,10 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="datum" />
+      <item value="device Data" />
+      <item value="device Id" />
+      <item value="has Own Property" />
+      <item value="standard Tags Data" />
+      <item value="standard Chart" />
+      <item value="init Tags Color" />
+      <item value="code" />
+      <item value="下方标签颜色" />
+      <item value="remove Overlay" />
+      <item value="break" />
+      <item value="get Overlays" />
+      <item value="remove Dev Id" />
+      <item value="all Overlay" />
+      <item value="dom Element" />
+      <item value="health Index Main" />
+      <item value="iterator Overlay" />
+      <item value="map" />
       <item value="filter" />
       <item value="property" />
       <item value="Lingo" />
-      <item value="iterator Overlay" />
       <item value="如果存在摄像头则" />
       <item value="get Elements By Name" />
       <item value="document" />
@@ -17,7 +34,6 @@
       <item value="obj Item" />
       <item value="flush Cream Document" />
       <item value="open Camera Id" />
-      <item value="health Index Main" />
       <item value="cream-body" />
       <item value="get Local Condition" />
       <item value="initialize Ezuikit Player" />
@@ -39,27 +55,11 @@
       <item value="position Default Map Point" />
       <item value="current Date" />
       <item value="select Sanshandao 4 Sonde Vo" />
-      <item value="select" />
-      <item value="parameter Type" />
-      <item value="start Time" />
-      <item value="end Time" />
-      <item value="turb Ntu" />
-      <item value="level" />
-      <item value="添加单击事件" />
-      <item value="field Level" />
-      <item value="change Color Tags" />
-      <item value="即每个检测点数据表top 1数据" />
-      <item value="resolve Top Data" />
-      <item value="datum" />
-      <item value="用于改变tags的颜色等级" />
-      <item value="threshold" />
-      <item value="result" />
-      <item value="Bean Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4950" />
-        <entry key="ENGLISH" value="4951" />
+        <entry key="CHINESE" value="4972" />
+        <entry key="ENGLISH" value="4973" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
