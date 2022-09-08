@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="start Time" />
-      <item value="end Time" />
-      <item value="turb Ntu" />
-      <item value="level" />
-      <item value="添加单击事件" />
-      <item value="field Level" />
-      <item value="change Color Tags" />
-      <item value="即每个检测点数据表top 1数据" />
-      <item value="resolve Top Data" />
-      <item value="datum" />
-      <item value="用于改变tags的颜色等级" />
-      <item value="threshold" />
-      <item value="result" />
-      <item value="Bean Utils" />
-      <item value="springframework" />
-      <item value="BEAN METHOD PROP INDEX" />
-      <item value="Thrown when an application tries to create an instance of a class using the {@code newInstance} method in class {@code Class}, but the specified class object cannot be instantiated. The instantiation can fail for a variety of reasons including but not limited to: &lt;ul&gt; &lt;li&gt; the class object represents an abstract class, an interface, an array class, a primitive type, or {@code void} &lt;li&gt; the class has no nullary constructor &lt;ul&gt;" />
-      <item value="Instantiation Exception" />
-      <item value="&quot;Is it an abstract class" />
-      <item value="instantiate" />
-      <item value="return List" />
-      <item value="device Ids" />
-      <item value="归属系统" />
-      <item value="根据属性名称和属性值查询已经预警的点位信息" />
-      <item value="参数" />
-      <item value="object" />
-      <item value="return" />
-      <item value="throws" />
-      <item value="field Name" />
-      <item value="current Date" />
-      <item value="Exception" />
-      <item value="compare Rome Number" />
-      <item value="has Own Property" />
-      <item value="init Standard" />
-      <item value="get JSON" />
-      <item value="standard Data" />
-      <item value="初始化水质标准" />
-      <item value="获取水质标准" />
-      <item value="timeline Key" />
-      <item value="TIMESTAMP" />
-      <item value="Data API Controller" />
-      <item value="get Entity Path" />
-      <item value="GROUP_3_CAMERA" />
-      <item value="GROUP_4_BIRD CAMERA" />
-      <item value="传感器组" />
-      <item value="水质" />
-      <item value="compute Median Val" />
-      <item value="merge Array Size" />
-      <item value="那么就" />
-      <item value="如果发现当前map中没有当前遍历的字符" />
+      <item value="filter Chart Data List" />
+      <item value="is Not Empty" />
+      <item value="String Utils" />
+      <item value="order By Desc" />
+      <item value="Chart Data Record" />
+      <item value="Delegating Method Accessor Impl" />
+      <item value="A Thread implementation that records the time at which it was created." />
+      <item value="A Thread implementation that records the time at which it was created" />
+      <item value="Wrapping Runnable" />
+      <item value="Task Thread" />
+      <item value="already Hash Compute Mapping" />
+      <item value="flow Execute Hashing" />
+      <item value="Compute Scale Strategy Dispatch" />
+      <item value="Merge Multiple Expression Compute" />
+      <item value="entry Manage Service" />
+      <item value="Query Expression Handle Text Controller" />
+      <item value="Primary" />
+      <item value="default Text Query Executor" />
+      <item value="Default Text Query Executor" />
+      <item value="data Base Utils" />
+      <item value="text Query Executor" />
+      <item value="默认为苏州市天气情况" />
+      <item value="field" />
+      <item value="The constant value of this field is the smallest value of type {@code char}, {@code '\u005Cu0000'}." />
+      <item value="Serializable" />
+      <item value="temp Param String" />
+      <item value="builder Condition Sql" />
+      <item value="init New Reactor Chart" />
+      <item value="n遍历完全" />
+      <item value="m未遍历完全" />
+      <item value="nums 1" />
+      <item value="nums 2" />
+      <item value="m Index" />
+      <item value="current Value" />
+      <item value="n未遍历完全" />
+      <item value="m遍历完全" />
+      <item value="m" />
+      <item value="previous Value" />
+      <item value="iter Bounds" />
+      <item value="当前的值" />
+      <item value="后边再会对当前值进行更新" />
+      <item value="接下来就是在循环过程中确定当前值" />
+      <item value="时移动" />
+      <item value="并且" />
+      <item value="集合没有遍历完" />
+      <item value="不能再移动n Index" />
+      <item value="else" />
+      <item value="遍历完毕" />
+      <item value="socket" />
+      <item value="n Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4907" />
-        <entry key="ENGLISH" value="4908" />
+        <entry key="CHINESE" value="5083" />
+        <entry key="ENGLISH" value="5084" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -84,9 +84,9 @@
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
-        <entry key="HMONG" value="1" />
+        <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="7" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
@@ -98,7 +98,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="9" />
-        <entry key="HINDI" value="6" />
+        <entry key="HINDI" value="11" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
