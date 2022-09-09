@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="convert Reflection Exception To Unchecked" />
+      <item value="text Python Struc Path" />
+      <item value="python Path" />
+      <item value="exec" />
+      <item value="analyze Document" />
+      <item value="Runtime Constant Exception Message" />
+      <item value="JVM Persistence" />
       <item value="create Pizza" />
       <item value="Request Mapping" />
       <item value="Request Param" />
@@ -48,18 +55,11 @@
       <item value="则选择哪一组" />
       <item value="比较这几组中时间线最短的是哪一组" />
       <item value="shortest Time Period" />
-      <item value="series" />
-      <item value="控制当前类型是否显示的json数据" />
-      <item value="首先处理添加上方" />
-      <item value="field" />
-      <item value="series Data" />
-      <item value="document" />
-      <item value="resolve Core Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5208" />
-        <entry key="ENGLISH" value="5209" />
+        <entry key="CHINESE" value="5217" />
+        <entry key="ENGLISH" value="5218" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
