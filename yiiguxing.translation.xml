@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="event File" />
       <item value="上传文件相关代码" />
       <item value="content 1_start Command" />
       <item value="遥控器和灯光的开关实现方" />
@@ -54,12 +55,11 @@
       <item value="iter Bounds" />
       <item value="当前的值" />
       <item value="后边再会对当前值进行更新" />
-      <item value="接下来就是在循环过程中确定当前值" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5089" />
-        <entry key="ENGLISH" value="5089" />
+        <entry key="ENGLISH" value="5090" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
