@@ -5,10 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="color" />
+      <item value="device List" />
       <item value="count" />
+      <item value="get Element By Id" />
+      <item value="point Chart Name" />
+      <item value="append Document Div Id" />
+      <item value="create Line Chart" />
+      <item value="show All Symbol" />
+      <item value="point Chart Data" />
       <item value="point Chart" />
       <item value="point Chart Key" />
-      <item value="device List" />
+      <item value="has Own Property" />
       <item value="null" />
       <item value="series Item" />
       <item value="batch Handle Resolve Chart Data" />
@@ -28,20 +36,16 @@
       <item value="首先处理添加上方" />
       <item value="field" />
       <item value="series Data" />
-      <item value="get Element By Id" />
       <item value="document" />
       <item value="resolve Core Options" />
       <item value="series Composition" />
       <item value="core Data" />
-      <item value="has Own Property" />
-      <item value="create Line Chart" />
       <item value="option" />
       <item value="title" />
       <item value="text" />
       <item value="text Style" />
       <item value="tooltip" />
       <item value="name" />
-      <item value="color" />
       <item value="element" />
       <item value="new Version Flag" />
       <item value="else" />
@@ -51,15 +55,11 @@
       <item value="根据标签元素" />
       <item value="batch Handle Point By Tag" />
       <item value="判断是左侧的图表还是右侧的图表" />
-      <item value="has Class" />
-      <item value="style Left Chart" />
-      <item value="style Chart Class Name" />
-      <item value="target Search Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5177" />
-        <entry key="ENGLISH" value="5178" />
+        <entry key="CHINESE" value="5190" />
+        <entry key="ENGLISH" value="5191" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
