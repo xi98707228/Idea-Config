@@ -5,12 +5,35 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="page Content" />
+      <item value="relational Table Create" />
+      <item value="slice Block Num" />
+      <item value="slice Config" />
+      <item value="执行切片服务" />
+      <item value="slice Access Token" />
+      <item value="切片访问符" />
+      <item value="execute Slice" />
+      <item value="String Utils" />
+      <item value="is Empty" />
+      <item value="Slice Item Dto" />
+      <item value="start Slice" />
+      <item value="slice Store Root" />
+      <item value="Slice Start Dto" />
+      <item value="分片请求访问令牌" />
+      <item value="Component" />
+      <item value="Slice Config" />
+      <item value="分片存储" />
+      <item value="Slice Data Executor" />
+      <item value="user session" />
+      <item value="Table Configuration Expand Controller" />
+      <item value="res Map" />
+      <item value="Version Logger Listener" />
+      <item value="bootstrap" />
+      <item value="set Result" />
       <item value="Slice Data Config" />
       <item value="Abstract String Builder" />
       <item value="table Configuration Expand" />
-      <item value="user session" />
       <item value="Session Attributes" />
-      <item value="Table Configuration Expand Controller" />
       <item value="987072248" />
       <item value="Controller" />
       <item value="dictionarytableconfiguration" />
@@ -32,34 +55,11 @@
       <item value="Read Only Transaction Manager" />
       <item value="convert Reflection Exception To Unchecked" />
       <item value="text Python Struc Path" />
-      <item value="python Path" />
-      <item value="exec" />
-      <item value="analyze Document" />
-      <item value="Runtime Constant Exception Message" />
-      <item value="JVM Persistence" />
-      <item value="create Pizza" />
-      <item value="Request Mapping" />
-      <item value="Request Param" />
-      <item value="Model Attribute" />
-      <item value="order Num" />
-      <item value="create Time" />
-      <item value="page" />
-      <item value="parameter Map" />
-      <item value="Gx Oa File Read User Controller" />
-      <item value="return" />
-      <item value="Plain Socket Impl" />
-      <item value="This class defines the plain SocketImpl that is used on Windows platforms greater or equal to Windows Vista. These platforms have a dual layer TCPIP stack and can handle both IPv4 and IPV6 through a single file descriptor. @author Chris Hegarty" />
-      <item value="Dual Stack Plain Socket Impl" />
-      <item value="Java IO File Descriptor Access" />
-      <item value="tag" />
-      <item value="right Chart Flag" />
-      <item value="left Chart Flag" />
-      <item value="color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5250" />
-        <entry key="ENGLISH" value="5251" />
+        <entry key="CHINESE" value="5282" />
+        <entry key="ENGLISH" value="5283" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
