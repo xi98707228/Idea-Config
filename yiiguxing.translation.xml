@@ -5,6 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Slice Data Config" />
+      <item value="Abstract String Builder" />
+      <item value="table Configuration Expand" />
+      <item value="user session" />
+      <item value="Session Attributes" />
+      <item value="Table Configuration Expand Controller" />
+      <item value="987072248" />
+      <item value="Controller" />
+      <item value="dictionarytableconfiguration" />
+      <item value="Dictionary Table Configuration Controller" />
+      <item value="字典表配置" />
+      <item value="shuaibilin" />
+      <item value="String" />
+      <item value="format Date" />
+      <item value="Njzjdbc Table" />
+      <item value="new" />
+      <item value="id" />
+      <item value="copy" />
+      <item value="bean Mapper" />
       <item value="schema change not implemented" />
       <item value="Xml Bean Definition Reader" />
       <item value="Connection" />
@@ -36,30 +55,11 @@
       <item value="right Chart Flag" />
       <item value="left Chart Flag" />
       <item value="color" />
-      <item value="device List" />
-      <item value="count" />
-      <item value="get Element By Id" />
-      <item value="point Chart Name" />
-      <item value="append Document Div Id" />
-      <item value="create Line Chart" />
-      <item value="show All Symbol" />
-      <item value="point Chart Data" />
-      <item value="point Chart" />
-      <item value="point Chart Key" />
-      <item value="has Own Property" />
-      <item value="null" />
-      <item value="series Item" />
-      <item value="batch Handle Resolve Chart Data" />
-      <item value="series Composition Data" />
-      <item value="chart Name" />
-      <item value="指定图表的配置项和数据" />
-      <item value="chart Title" />
-      <item value="legend List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5225" />
-        <entry key="ENGLISH" value="5226" />
+        <entry key="CHINESE" value="5250" />
+        <entry key="ENGLISH" value="5251" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
