@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schema change not implemented" />
+      <item value="Xml Bean Definition Reader" />
+      <item value="Connection" />
+      <item value="querytype" />
+      <item value="hibernate" />
+      <item value="Read Only Transaction Manager" />
       <item value="convert Reflection Exception To Unchecked" />
       <item value="text Python Struc Path" />
       <item value="python Path" />
@@ -49,17 +55,11 @@
       <item value="指定图表的配置项和数据" />
       <item value="chart Title" />
       <item value="legend List" />
-      <item value="compare Time Line Result" />
-      <item value="TIMELINEKEY_" />
-      <item value="shortest Period Length" />
-      <item value="则选择哪一组" />
-      <item value="比较这几组中时间线最短的是哪一组" />
-      <item value="shortest Time Period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5217" />
-        <entry key="ENGLISH" value="5218" />
+        <entry key="CHINESE" value="5225" />
+        <entry key="ENGLISH" value="5226" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
