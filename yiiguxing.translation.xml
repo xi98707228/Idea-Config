@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="event File" />
-      <item value="上传文件相关代码" />
-      <item value="content 1_start Command" />
-      <item value="遥控器和灯光的开关实现方" />
-      <item value="只是实现了一个简单的遥控器" />
+      <item value="Slice Data Config" />
+      <item value="Abstract String Builder" />
+      <item value="table Configuration Expand" />
+      <item value="user session" />
+      <item value="Session Attributes" />
+      <item value="Table Configuration Expand Controller" />
       <item value="987072248" />
-      <item value="Head First Design Pattern" />
-      <item value="真实的遥控器有好多插槽需要绑定命令" />
-      <item value="part 5_command" />
-      <item value="filter Chart Data List" />
-      <item value="is Not Empty" />
-      <item value="String Utils" />
-      <item value="order By Desc" />
-      <item value="Chart Data Record" />
-      <item value="Delegating Method Accessor Impl" />
-      <item value="A Thread implementation that records the time at which it was created." />
-      <item value="A Thread implementation that records the time at which it was created" />
-      <item value="Wrapping Runnable" />
-      <item value="Task Thread" />
-      <item value="already Hash Compute Mapping" />
-      <item value="flow Execute Hashing" />
-      <item value="Compute Scale Strategy Dispatch" />
-      <item value="Merge Multiple Expression Compute" />
-      <item value="entry Manage Service" />
-      <item value="Query Expression Handle Text Controller" />
-      <item value="Primary" />
-      <item value="default Text Query Executor" />
-      <item value="Default Text Query Executor" />
-      <item value="data Base Utils" />
-      <item value="text Query Executor" />
-      <item value="默认为苏州市天气情况" />
-      <item value="field" />
-      <item value="The constant value of this field is the smallest value of type {@code char}, {@code '\u005Cu0000'}." />
-      <item value="Serializable" />
-      <item value="temp Param String" />
-      <item value="builder Condition Sql" />
-      <item value="init New Reactor Chart" />
-      <item value="n遍历完全" />
-      <item value="m未遍历完全" />
-      <item value="nums 1" />
-      <item value="nums 2" />
-      <item value="m Index" />
-      <item value="current Value" />
-      <item value="n未遍历完全" />
-      <item value="m遍历完全" />
-      <item value="m" />
-      <item value="previous Value" />
-      <item value="iter Bounds" />
-      <item value="当前的值" />
-      <item value="后边再会对当前值进行更新" />
+      <item value="Controller" />
+      <item value="dictionarytableconfiguration" />
+      <item value="Dictionary Table Configuration Controller" />
+      <item value="字典表配置" />
+      <item value="shuaibilin" />
+      <item value="String" />
+      <item value="format Date" />
+      <item value="Njzjdbc Table" />
+      <item value="new" />
+      <item value="id" />
+      <item value="copy" />
+      <item value="bean Mapper" />
+      <item value="schema change not implemented" />
+      <item value="Xml Bean Definition Reader" />
+      <item value="Connection" />
+      <item value="querytype" />
+      <item value="hibernate" />
+      <item value="Read Only Transaction Manager" />
+      <item value="convert Reflection Exception To Unchecked" />
+      <item value="text Python Struc Path" />
+      <item value="python Path" />
+      <item value="exec" />
+      <item value="analyze Document" />
+      <item value="Runtime Constant Exception Message" />
+      <item value="JVM Persistence" />
+      <item value="create Pizza" />
+      <item value="Request Mapping" />
+      <item value="Request Param" />
+      <item value="Model Attribute" />
+      <item value="order Num" />
+      <item value="create Time" />
+      <item value="page" />
+      <item value="parameter Map" />
+      <item value="Gx Oa File Read User Controller" />
+      <item value="return" />
+      <item value="Plain Socket Impl" />
+      <item value="This class defines the plain SocketImpl that is used on Windows platforms greater or equal to Windows Vista. These platforms have a dual layer TCPIP stack and can handle both IPv4 and IPV6 through a single file descriptor. @author Chris Hegarty" />
+      <item value="Dual Stack Plain Socket Impl" />
+      <item value="Java IO File Descriptor Access" />
+      <item value="tag" />
+      <item value="right Chart Flag" />
+      <item value="left Chart Flag" />
+      <item value="color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5089" />
-        <entry key="ENGLISH" value="5090" />
+        <entry key="CHINESE" value="5250" />
+        <entry key="ENGLISH" value="5251" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -75,7 +75,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="16" />
+        <entry key="LATIN" value="17" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
