@@ -5,25 +5,33 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="count" />
+      <item value="point Chart" />
+      <item value="point Chart Key" />
+      <item value="device List" />
+      <item value="null" />
+      <item value="series Item" />
+      <item value="batch Handle Resolve Chart Data" />
+      <item value="series Composition Data" />
+      <item value="chart Name" />
+      <item value="指定图表的配置项和数据" />
+      <item value="chart Title" />
+      <item value="legend List" />
+      <item value="compare Time Line Result" />
       <item value="TIMELINEKEY_" />
       <item value="shortest Period Length" />
       <item value="则选择哪一组" />
       <item value="比较这几组中时间线最短的是哪一组" />
-      <item value="device List" />
       <item value="shortest Time Period" />
       <item value="series" />
-      <item value="series Composition Data" />
       <item value="控制当前类型是否显示的json数据" />
       <item value="首先处理添加上方" />
       <item value="field" />
       <item value="series Data" />
       <item value="get Element By Id" />
       <item value="document" />
-      <item value="chart Name" />
-      <item value="指定图表的配置项和数据" />
       <item value="resolve Core Options" />
       <item value="series Composition" />
-      <item value="batch Handle Resolve Chart Data" />
       <item value="core Data" />
       <item value="has Own Property" />
       <item value="create Line Chart" />
@@ -47,19 +55,11 @@
       <item value="style Left Chart" />
       <item value="style Chart Class Name" />
       <item value="target Search Tag" />
-      <item value="tag Element" />
-      <item value="tag" />
-      <item value="left Chart Flag" />
-      <item value="clear Water Quality Label" />
-      <item value="show Point By Tag" />
-      <item value="class" />
-      <item value="water Quality" />
-      <item value="创建线形图表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5163" />
-        <entry key="ENGLISH" value="5164" />
+        <entry key="CHINESE" value="5177" />
+        <entry key="ENGLISH" value="5178" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
