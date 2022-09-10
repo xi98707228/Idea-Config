@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="receive" />
+      <item value="slice" />
+      <item value="Multipart File" />
+      <item value="file" />
+      <item value="Request Param" />
+      <item value="get Original Filename" />
+      <item value="upload Part Name" />
+      <item value="Filter" />
+      <item value="Filter Chain" />
+      <item value="Cors Filter" />
+      <item value="http Servlet Response" />
+      <item value="Access-Control-Allow-Origin" />
       <item value="do Filter" />
       <item value="target" />
       <item value="Access-Control-Request-Headers" />
@@ -14,8 +26,6 @@
       <item value="exposed Headers" />
       <item value="allowed Origins" />
       <item value="org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation" />
-      <item value="upload Part Name" />
-      <item value="get Original Filename" />
       <item value="Could not find acceptable representation]" />
       <item value="event File" />
       <item value="slice Upload Config" />
@@ -28,14 +38,12 @@
       <item value="change File Event" />
       <item value="slice Data Upload" />
       <item value="console" />
-      <item value="Multipart File" />
       <item value="receive Slice Handle" />
       <item value="文件快" />
       <item value="存储切块后的" />
       <item value="files" />
       <item value="name" />
       <item value="每次切块为" />
-      <item value="slice" />
       <item value="如果不清空则会显示上次选中的文件内容" />
       <item value="初始化选中文件input框" />
       <item value="框选中file时" />
@@ -47,19 +55,11 @@
       <item value="转化为" />
       <item value="数据显示区" />
       <item value="SLICE THRESHOLD" />
-      <item value="A file-like object of immutable, raw data. Blobs represent data that isn't necessarily in a JavaScript-native format. The File interface is based on Blob, inheriting blob functionality and expanding it to support files on the user's system." />
-      <item value="Slice Handler" />
-      <item value="Slice Handle" />
-      <item value="Web Business Application" />
-      <item value="data Out Put" />
-      <item value="div" />
-      <item value="选择文件" />
-      <item value="input" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5346" />
-        <entry key="ENGLISH" value="5347" />
+        <entry key="CHINESE" value="5360" />
+        <entry key="ENGLISH" value="5361" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
