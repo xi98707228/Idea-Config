@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="target" />
+      <item value="Access-Control-Request-Headers" />
+      <item value="接收切片数据" />
+      <item value="Current request is not a multipart request" />
+      <item value="allowed Headers" />
+      <item value="exposed Headers" />
+      <item value="allowed Origins" />
+      <item value="org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation" />
+      <item value="upload Part Name" />
+      <item value="get Original Filename" />
+      <item value="Could not find acceptable representation]" />
       <item value="event File" />
       <item value="slice Upload Config" />
       <item value="slice Block Data Array" />
@@ -44,22 +55,11 @@
       <item value="选择文件" />
       <item value="input" />
       <item value="change File" />
-      <item value="style" />
-      <item value="onchange" />
-      <item value="Slice Data Config" />
-      <item value="Abstract String Builder" />
-      <item value="table Configuration Expand" />
-      <item value="user session" />
-      <item value="Session Attributes" />
-      <item value="Table Configuration Expand Controller" />
-      <item value="987072248" />
-      <item value="Controller" />
-      <item value="dictionarytableconfiguration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5336" />
-        <entry key="ENGLISH" value="5337" />
+        <entry key="CHINESE" value="5345" />
+        <entry key="ENGLISH" value="5346" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662368432835" />
+    <option name="lastTrimTime" value="1662801903430" />
   </component>
 </application>
