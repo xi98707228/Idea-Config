@@ -5,6 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="console" />
+      <item value="slice Block Data Array" />
+      <item value="Multipart File" />
+      <item value="receive Slice Handle" />
+      <item value="文件快" />
+      <item value="存储切块后的" />
+      <item value="change File Event" />
+      <item value="target Document" />
+      <item value="files" />
+      <item value="name" />
+      <item value="slice Block Amount" />
+      <item value="每次切块为" />
+      <item value="slice" />
+      <item value="event File" />
+      <item value="slice Upload Config" />
+      <item value="如果不清空则会显示上次选中的文件内容" />
+      <item value="初始化选中文件input框" />
+      <item value="框选中file时" />
+      <item value="parse Int" />
+      <item value="计算当前文件需要进行切片多少次" />
+      <item value="将选中的文件按照切片配置项" />
+      <item value="配置的核心属性来对文件切片" />
+      <item value="来划分" />
+      <item value="默认按照" />
+      <item value="转化为" />
+      <item value="数据显示区" />
+      <item value="SLICE THRESHOLD" />
+      <item value="A file-like object of immutable, raw data. Blobs represent data that isn't necessarily in a JavaScript-native format. The File interface is based on Blob, inheriting blob functionality and expanding it to support files on the user's system." />
       <item value="Slice Handler" />
       <item value="Slice Handle" />
       <item value="Web Business Application" />
@@ -27,39 +55,11 @@
       <item value="Dictionary Table Configuration Controller" />
       <item value="字典表配置" />
       <item value="shuaibilin" />
-      <item value="String" />
-      <item value="format Date" />
-      <item value="Njzjdbc Table" />
-      <item value="new" />
-      <item value="id" />
-      <item value="copy" />
-      <item value="bean Mapper" />
-      <item value="schema change not implemented" />
-      <item value="Xml Bean Definition Reader" />
-      <item value="Connection" />
-      <item value="querytype" />
-      <item value="hibernate" />
-      <item value="Read Only Transaction Manager" />
-      <item value="convert Reflection Exception To Unchecked" />
-      <item value="text Python Struc Path" />
-      <item value="python Path" />
-      <item value="exec" />
-      <item value="analyze Document" />
-      <item value="Runtime Constant Exception Message" />
-      <item value="JVM Persistence" />
-      <item value="create Pizza" />
-      <item value="Request Mapping" />
-      <item value="Request Param" />
-      <item value="Model Attribute" />
-      <item value="order Num" />
-      <item value="create Time" />
-      <item value="page" />
-      <item value="parameter Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5260" />
-        <entry key="ENGLISH" value="5260" />
+        <entry key="CHINESE" value="5322" />
+        <entry key="ENGLISH" value="5323" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
