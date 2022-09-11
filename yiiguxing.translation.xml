@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
+      <item value="verify Done" />
+      <item value="slice Block Index" />
+      <item value="web Application Context Injected" />
+      <item value="Framework Servlet" />
+      <item value="Slice Part" />
+      <item value="access Token" />
+      <item value="切片块名称" />
+      <item value="before Tcp Bind" />
+      <item value="Net Hooks" />
+      <item value="Selector Provider" />
+      <item value="Not Yet Bound Exception" />
+      <item value="Server Socket Channel" />
       <item value="url" />
       <item value="upload Slice File" />
       <item value="localhost" />
@@ -26,7 +39,6 @@
       <item value="Slice Abstract Handler" />
       <item value="存储处理数据队列" />
       <item value="slice Store Meta Data Mapping" />
-      <item value="Slice Part" />
       <item value="target Document" />
       <item value="slice File Input" />
       <item value="start Upload Slice Data" />
@@ -43,23 +55,11 @@
       <item value="remapping Function" />
       <item value="compute If Absent" />
       <item value="put If Absent" />
-      <item value="Hash Map" />
-      <item value="hash Map" />
-      <item value="String" />
-      <item value="当put的Key在Map中不存在时" />
-      <item value="则put进Map" />
-      <item value="treeify Bin" />
-      <item value="compute If Present" />
-      <item value="hash" />
-      <item value="token" />
-      <item value="access" />
-      <item value="success" />
-      <item value="slice-access-token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5444" />
-        <entry key="ENGLISH" value="5445" />
+        <entry key="CHINESE" value="5457" />
+        <entry key="ENGLISH" value="5458" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
