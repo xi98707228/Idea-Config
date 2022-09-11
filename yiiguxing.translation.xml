@@ -6,9 +6,14 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="slice Handler Access Token" />
+      <item value="验证切片流程完成性" />
+      <item value="verify Done" />
+      <item value="upload Part Name" />
+      <item value="success" />
+      <item value="handle Done" />
+      <item value="handle Done Slice Data" />
       <item value="存储处理数据队列" />
       <item value="slice Store Meta Data Mapping" />
-      <item value="verify Done" />
       <item value="Handler Slice Remote Pull" />
       <item value="slice Store Meta Data Map" />
       <item value="Slice Fill Handler" />
@@ -27,7 +32,6 @@
       <item value="file" />
       <item value="Request Param" />
       <item value="get Original Filename" />
-      <item value="upload Part Name" />
       <item value="Filter" />
       <item value="Filter Chain" />
       <item value="Cors Filter" />
@@ -51,15 +55,11 @@
       <item value="slice Block Amount" />
       <item value="let" />
       <item value="target Document" />
-      <item value="change File Event" />
-      <item value="slice Data Upload" />
-      <item value="console" />
-      <item value="receive Slice Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5382" />
-        <entry key="ENGLISH" value="5383" />
+        <entry key="CHINESE" value="5389" />
+        <entry key="ENGLISH" value="5390" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
