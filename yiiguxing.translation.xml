@@ -5,68 +5,68 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="slice-access-token" />
-      <item value="slice Handler Access Token" />
-      <item value="验证切片流程完成性" />
-      <item value="verify Done" />
-      <item value="upload Part Name" />
-      <item value="success" />
-      <item value="handle Done" />
-      <item value="handle Done Slice Data" />
-      <item value="存储处理数据队列" />
-      <item value="slice Store Meta Data Mapping" />
-      <item value="Handler Slice Remote Pull" />
-      <item value="slice Store Meta Data Map" />
-      <item value="Slice Fill Handler" />
-      <item value="Slice Merge Handle" />
-      <item value="meta Slice Data" />
-      <item value="process Data" />
-      <item value="start Upload Slice Data" />
-      <item value="get Bytes" />
-      <item value="engine Digest" />
-      <item value="to Hex" />
-      <item value="Message Digest" />
-      <item value="Cors Config" />
-      <item value="receive" />
-      <item value="slice" />
-      <item value="Multipart File" />
-      <item value="file" />
-      <item value="Request Param" />
-      <item value="get Original Filename" />
-      <item value="Filter" />
-      <item value="Filter Chain" />
-      <item value="Cors Filter" />
-      <item value="http Servlet Response" />
-      <item value="Access-Control-Allow-Origin" />
-      <item value="do Filter" />
-      <item value="target" />
-      <item value="Access-Control-Request-Headers" />
-      <item value="接收切片数据" />
-      <item value="Current request is not a multipart request" />
-      <item value="allowed Headers" />
-      <item value="exposed Headers" />
-      <item value="allowed Origins" />
-      <item value="org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation" />
-      <item value="Could not find acceptable representation]" />
-      <item value="event File" />
-      <item value="slice Upload Config" />
-      <item value="slice Block Data Array" />
+      <item value="url" />
+      <item value="upload Slice File" />
+      <item value="localhost" />
+      <item value="form Data" />
+      <item value="append" />
       <item value="event File Name" />
+      <item value="计算当前文件需要进行切片多少次" />
       <item value="parse Int" />
       <item value="slice Block Amount" />
-      <item value="let" />
+      <item value="sum" />
+      <item value="temp" />
+      <item value="get" />
+      <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
+      <item value="finish Completion" />
+      <item value="Executor Completion Service" />
+      <item value="40__星期日" />
+      <item value="com" />
+      <item value="987072248" />
+      <item value="Slice Abstract Handler" />
+      <item value="存储处理数据队列" />
+      <item value="slice Store Meta Data Mapping" />
+      <item value="Slice Part" />
+      <item value="target Document" />
+      <item value="slice File Input" />
+      <item value="start Upload Slice Data" />
+      <item value="console" />
+      <item value="Thread Local" />
+      <item value="Object" />
+      <item value="Slice Handler" />
+      <item value="slice" />
+      <item value="Handler Slice Loop Merge" />
+      <item value="Handler Slice Iter Merge" />
+      <item value="new Value" />
+      <item value="rethrown" />
+      <item value="If the value for the specified key is present and non-null, attempts to compute a new mapping given the key and its current mapped value. &lt;p&gt;If the function returns {@code null}, the mapping is removed. If the function itself throws an (unchecked) exception, the exception is rethrown, and the current mapping is left unchanged." />
+      <item value="remapping Function" />
+      <item value="compute If Absent" />
+      <item value="put If Absent" />
+      <item value="Hash Map" />
+      <item value="hash Map" />
+      <item value="String" />
+      <item value="当put的Key在Map中不存在时" />
+      <item value="则put进Map" />
+      <item value="treeify Bin" />
+      <item value="compute If Present" />
+      <item value="hash" />
+      <item value="token" />
+      <item value="access" />
+      <item value="success" />
+      <item value="slice-access-token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5390" />
-        <entry key="ENGLISH" value="5391" />
+        <entry key="CHINESE" value="5444" />
+        <entry key="ENGLISH" value="5445" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="6" />
+        <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -87,7 +87,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="7" />
+        <entry key="PORTUGUESE" value="8" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
