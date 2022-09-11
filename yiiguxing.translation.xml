@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="slice Handler Access Token" />
+      <item value="存储处理数据队列" />
+      <item value="slice Store Meta Data Mapping" />
+      <item value="verify Done" />
+      <item value="Handler Slice Remote Pull" />
+      <item value="slice Store Meta Data Map" />
+      <item value="Slice Fill Handler" />
+      <item value="Slice Merge Handle" />
+      <item value="meta Slice Data" />
+      <item value="process Data" />
+      <item value="start Upload Slice Data" />
+      <item value="get Bytes" />
       <item value="engine Digest" />
       <item value="to Hex" />
       <item value="Message Digest" />
@@ -43,23 +55,11 @@
       <item value="slice Data Upload" />
       <item value="console" />
       <item value="receive Slice Handle" />
-      <item value="文件快" />
-      <item value="存储切块后的" />
-      <item value="files" />
-      <item value="name" />
-      <item value="每次切块为" />
-      <item value="如果不清空则会显示上次选中的文件内容" />
-      <item value="初始化选中文件input框" />
-      <item value="框选中file时" />
-      <item value="计算当前文件需要进行切片多少次" />
-      <item value="将选中的文件按照切片配置项" />
-      <item value="配置的核心属性来对文件切片" />
-      <item value="来划分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5364" />
-        <entry key="ENGLISH" value="5365" />
+        <entry key="CHINESE" value="5382" />
+        <entry key="ENGLISH" value="5383" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
