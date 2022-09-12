@@ -5,11 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="storage Data" />
+      <item value="Input Stream" />
+      <item value="storage Handler" />
+      <item value="Byte Array Input Stream" />
+      <item value="buf" />
+      <item value="Standard Multipart File" />
+      <item value="receive Slice Handle" />
+      <item value="Mock implementation of the {@link org.springframework.web.multipart.MultipartFile} interface. &lt;p&gt;Useful in conjunction with a {@link MockMultipartHttpServletRequest} for testing application controllers that access multipart uploads. @author Juergen Hoeller @author Eric Crampton @since 2.0 @see MockMultipartHttpServletRequest" />
+      <item value="Return an InputStream to read the contents of the file from. &lt;p&gt;The user is responsible for closing the returned stream. @return the contents of the file as stream, or an empty stream if empty @throws IOException in case of access errors (if the temporary store fails)" />
+      <item value="Storage Abstract Handler" />
+      <item value="File Input Stream" />
+      <item value="offset" />
       <item value="Handler Zero Copy Storage" />
       <item value="Handler Prototype Storage" />
-      <item value="storage Data" />
-      <item value="storage Handler" />
-      <item value="Storage Abstract Handler" />
       <item value="storage File" />
       <item value="storage File Input Stream" />
       <item value="File" />
@@ -46,20 +55,11 @@
       <item value="40__星期日" />
       <item value="com" />
       <item value="987072248" />
-      <item value="Slice Abstract Handler" />
-      <item value="存储处理数据队列" />
-      <item value="slice Store Meta Data Mapping" />
-      <item value="target Document" />
-      <item value="slice File Input" />
-      <item value="start Upload Slice Data" />
-      <item value="console" />
-      <item value="Thread Local" />
-      <item value="Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5467" />
-        <entry key="ENGLISH" value="5468" />
+        <entry key="CHINESE" value="5480" />
+        <entry key="ENGLISH" value="5481" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
