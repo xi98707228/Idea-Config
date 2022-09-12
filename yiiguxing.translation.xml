@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Concurrent Reference Hash Map" />
+      <item value="Objenesis" />
+      <item value="Spring Objenesis" />
+      <item value="Handler Prototype Storage" />
+      <item value="IO Exception" />
+      <item value="Parallel Sorter" />
+      <item value="Abstract Intercept Field Callback" />
+      <item value="Useful unit data types." />
+      <item value="Storage Abstract Handler" />
+      <item value="Handler Zero Copy Storage" />
+      <item value="Spring Application" />
+      <item value="File Output Stream" />
+      <item value="Input Stream" />
       <item value="example" />
       <item value="Storage Input File Require Is A File" />
       <item value="Field Writer Bool Val" />
@@ -33,7 +46,6 @@
       <item value="slice Block Index" />
       <item value="access Token" />
       <item value="slice Item Max Size" />
-      <item value="Input Stream" />
       <item value="storage Handler" />
       <item value="storage File" />
       <item value="Readable Byte Channel" />
@@ -43,30 +55,18 @@
       <item value="slice Handler Service" />
       <item value="Slice Handler Service" />
       <item value="slice Handler" />
-      <item value="Equivalence" />
-      <item value="try" />
-      <item value="Storage Abstract Handler" />
-      <item value="mark" />
-      <item value="Audio Data" />
-      <item value="Byte Array Input Stream" />
-      <item value="Storage Handler" />
-      <item value="com" />
-      <item value="get Original Filename" />
-      <item value="Handler Prototype Storage" />
-      <item value="buf" />
-      <item value="Standard Multipart File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5556" />
-        <entry key="ENGLISH" value="5557" />
+        <entry key="CHINESE" value="5569" />
+        <entry key="ENGLISH" value="5570" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="11" />
+        <entry key="DANISH" value="12" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -90,6 +90,7 @@
         <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
