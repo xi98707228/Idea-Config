@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="verify Done" />
+      <item value="access" />
+      <item value="slice Handler Access Token" />
+      <item value="Override" />
+      <item value="receive Slice Data" />
       <item value="Concurrent Reference Hash Map" />
       <item value="Objenesis" />
       <item value="Spring Objenesis" />
@@ -39,7 +44,6 @@
       <item value="input Channel" />
       <item value="channel" />
       <item value="Joshua Bloch" />
-      <item value="Override" />
       <item value="slice Block Size" />
       <item value="original Name" />
       <item value="slice Block Amount" />
@@ -51,15 +55,11 @@
       <item value="Readable Byte Channel" />
       <item value="copy Large" />
       <item value="storage Data" />
-      <item value="File" />
-      <item value="slice Handler Service" />
-      <item value="Slice Handler Service" />
-      <item value="slice Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5569" />
-        <entry key="ENGLISH" value="5570" />
+        <entry key="CHINESE" value="5580" />
+        <entry key="ENGLISH" value="5581" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
