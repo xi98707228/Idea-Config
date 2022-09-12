@@ -5,14 +5,30 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Handler Prototype Storage" />
-      <item value="Storage Abstract Handler" />
-      <item value="Input Stream" />
+      <item value="Readable Byte Channel" />
+      <item value="copy Large" />
       <item value="storage Handler" />
-      <item value="Override" />
-      <item value="storage File" />
       <item value="storage Data" />
+      <item value="File" />
+      <item value="slice Handler Service" />
+      <item value="Slice Handler Service" />
+      <item value="slice Handler" />
+      <item value="Equivalence" />
+      <item value="try" />
+      <item value="Storage Abstract Handler" />
+      <item value="Storage Input File Require Is A File" />
+      <item value="mark" />
+      <item value="Audio Data" />
       <item value="Byte Array Input Stream" />
+      <item value="Input Stream" />
+      <item value="storage Input Stream" />
+      <item value="storage File" />
+      <item value="Storage Handler" />
+      <item value="com" />
+      <item value="987072248" />
+      <item value="get Original Filename" />
+      <item value="Handler Prototype Storage" />
+      <item value="Override" />
       <item value="buf" />
       <item value="Standard Multipart File" />
       <item value="receive Slice Handle" />
@@ -22,7 +38,6 @@
       <item value="offset" />
       <item value="Handler Zero Copy Storage" />
       <item value="storage File Input Stream" />
-      <item value="File" />
       <item value="execute Storage Handler" />
       <item value="Store File Handler" />
       <item value="success" />
@@ -40,33 +55,18 @@
       <item value="Server Socket Channel" />
       <item value="url" />
       <item value="upload Slice File" />
-      <item value="localhost" />
-      <item value="form Data" />
-      <item value="append" />
-      <item value="event File Name" />
-      <item value="计算当前文件需要进行切片多少次" />
-      <item value="parse Int" />
-      <item value="slice Block Amount" />
-      <item value="sum" />
-      <item value="temp" />
-      <item value="get" />
-      <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
-      <item value="finish Completion" />
-      <item value="Executor Completion Service" />
-      <item value="40__星期日" />
-      <item value="com" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5490" />
-        <entry key="ENGLISH" value="5491" />
+        <entry key="CHINESE" value="5518" />
+        <entry key="ENGLISH" value="5519" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="8" />
+        <entry key="DANISH" value="11" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -87,7 +87,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
