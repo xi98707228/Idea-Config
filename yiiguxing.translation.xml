@@ -5,7 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No Such Method Exception" />
+      <item value="Method Not Allowed Exception" />
+      <item value="Abstract Method Error" />
+      <item value="Byte Array Input Stream" />
+      <item value="receive Data" />
       <item value="verify Done" />
+      <item value="public" />
+      <item value="slice Handler" />
+      <item value="handler Part" />
+      <item value="Thread Pool Executor" />
+      <item value="executor Service" />
+      <item value="take" />
+      <item value="A {@linkplain BlockingQueue blocking queue} in which each insert operation must wait for a corresponding remove operation by another thread, and vice versa. A synchronous queue does not have any internal capacity, not even a capacity of one. You cannot {@code peek} at a synchronous queue because an element is only present when you try to remove it; you cannot insert an element (using any method) unless another thread is trying to remove it; you cannot iterate as there is nothing to iterate. The &lt;em&gt;head&lt;em&gt; of the queue is the element that the first queued inserting thread is trying to add to the queue; if there is no such queued thread then no element is available for removal and {@code poll()} will return {@code null}. For purposes of other {@code Collection} methods (for example {@code contains}), a {@code SynchronousQueue} acts as an empty collection. This queue does not permit {@code null} elements. &lt;p&gt;Synchronous queues are similar to rendezvous channels used in CSP and Ada. They are well suited for handoff designs, in which an object running in one thread must sync up with an object running in another thread in order to hand it some information, event, or task. &lt;p&gt;This class supports an optional fairness policy for ordering waiting producer and consumer threads. By default, this ordering is not guaranteed. However, a queue constructed with fairness set to {@code true} grants threads access in FIFO order. &lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
+      <item value="Synchronous Queue" />
+      <item value="Doug Lea" />
+      <item value="Bill Scherer" />
+      <item value="Michael Scott" />
+      <item value="Doug Lea and Bill Scherer and Michael Scott" />
       <item value="access" />
       <item value="slice Handler Access Token" />
       <item value="Override" />
@@ -38,35 +55,18 @@
       <item value="Handler Slice File Fill" />
       <item value="storage Input Stream" />
       <item value="return" />
-      <item value="file Input Stream" />
-      <item value="File Input Stream" />
-      <item value="File Channel" />
-      <item value="input Channel" />
-      <item value="channel" />
-      <item value="Joshua Bloch" />
-      <item value="slice Block Size" />
-      <item value="original Name" />
-      <item value="slice Block Amount" />
-      <item value="slice Block Index" />
-      <item value="access Token" />
-      <item value="slice Item Max Size" />
-      <item value="storage Handler" />
-      <item value="storage File" />
-      <item value="Readable Byte Channel" />
-      <item value="copy Large" />
-      <item value="storage Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5580" />
-        <entry key="ENGLISH" value="5581" />
+        <entry key="CHINESE" value="5598" />
+        <entry key="ENGLISH" value="5599" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="12" />
+        <entry key="DANISH" value="14" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
