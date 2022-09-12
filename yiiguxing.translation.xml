@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="example" />
+      <item value="Storage Input File Require Is A File" />
+      <item value="Field Writer Bool Val" />
+      <item value="receive" />
+      <item value="result" />
+      <item value="示例区" />
+      <item value="500" />
       <item value="987072248" />
       <item value="author" />
       <item value="切片填充" />
@@ -39,7 +46,6 @@
       <item value="Equivalence" />
       <item value="try" />
       <item value="Storage Abstract Handler" />
-      <item value="Storage Input File Require Is A File" />
       <item value="mark" />
       <item value="Audio Data" />
       <item value="Byte Array Input Stream" />
@@ -49,17 +55,11 @@
       <item value="Handler Prototype Storage" />
       <item value="buf" />
       <item value="Standard Multipart File" />
-      <item value="receive Slice Handle" />
-      <item value="Mock implementation of the {@link org.springframework.web.multipart.MultipartFile} interface. &lt;p&gt;Useful in conjunction with a {@link MockMultipartHttpServletRequest} for testing application controllers that access multipart uploads. @author Juergen Hoeller @author Eric Crampton @since 2.0 @see MockMultipartHttpServletRequest" />
-      <item value="Return an InputStream to read the contents of the file from. &lt;p&gt;The user is responsible for closing the returned stream. @return the contents of the file as stream, or an empty stream if empty @throws IOException in case of access errors (if the temporary store fails)" />
-      <item value="offset" />
-      <item value="Handler Zero Copy Storage" />
-      <item value="storage File Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5552" />
-        <entry key="ENGLISH" value="5551" />
+        <entry key="CHINESE" value="5556" />
+        <entry key="ENGLISH" value="5557" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
