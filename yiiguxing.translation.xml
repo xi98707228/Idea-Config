@@ -5,68 +5,68 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="storageInputStream instanceof FileInputStream" />
+      <item value="storage Input Stream" />
+      <item value="Handler Zero Copy Storage" />
+      <item value="Override" />
+      <item value="storage Handler" />
+      <item value="require Non Null" />
+      <item value="get Slice Part" />
+      <item value="return" />
+      <item value="File Input Stream" />
+      <item value="一键导入" />
+      <item value="handler" />
+      <item value="server" />
+      <item value="sys Id" />
+      <item value="file" />
+      <item value="customconfigurationquery" />
+      <item value="处理excel文件" />
+      <item value="go One Key Import" />
+      <item value="Storage Abstract Handler" />
+      <item value="one Key Import" />
+      <item value="parse Object" />
+      <item value="slice Part" />
+      <item value="slice Handler Service" />
+      <item value="handler Slice Data" />
+      <item value="token" />
+      <item value="access" />
+      <item value="slice Access Token" />
+      <item value="success" />
+      <item value="choose" />
       <item value="request Base Url" />
       <item value="Readable Byte Channel" />
       <item value="copy Large" />
-      <item value="storage Handler" />
       <item value="storage Data" />
       <item value="File" />
-      <item value="slice Handler Service" />
       <item value="Slice Handler Service" />
       <item value="slice Handler" />
       <item value="Equivalence" />
       <item value="try" />
-      <item value="Storage Abstract Handler" />
       <item value="Storage Input File Require Is A File" />
       <item value="mark" />
       <item value="Audio Data" />
       <item value="Byte Array Input Stream" />
       <item value="Input Stream" />
-      <item value="storage Input Stream" />
       <item value="storage File" />
       <item value="Storage Handler" />
       <item value="com" />
       <item value="987072248" />
       <item value="get Original Filename" />
       <item value="Handler Prototype Storage" />
-      <item value="Override" />
       <item value="buf" />
       <item value="Standard Multipart File" />
-      <item value="receive Slice Handle" />
-      <item value="Mock implementation of the {@link org.springframework.web.multipart.MultipartFile} interface. &lt;p&gt;Useful in conjunction with a {@link MockMultipartHttpServletRequest} for testing application controllers that access multipart uploads. @author Juergen Hoeller @author Eric Crampton @since 2.0 @see MockMultipartHttpServletRequest" />
-      <item value="Return an InputStream to read the contents of the file from. &lt;p&gt;The user is responsible for closing the returned stream. @return the contents of the file as stream, or an empty stream if empty @throws IOException in case of access errors (if the temporary store fails)" />
-      <item value="File Input Stream" />
-      <item value="offset" />
-      <item value="Handler Zero Copy Storage" />
-      <item value="storage File Input Stream" />
-      <item value="execute Storage Handler" />
-      <item value="Store File Handler" />
-      <item value="success" />
-      <item value="verify Done" />
-      <item value="slice Block Index" />
-      <item value="web Application Context Injected" />
-      <item value="Framework Servlet" />
-      <item value="Slice Part" />
-      <item value="access Token" />
-      <item value="切片块名称" />
-      <item value="before Tcp Bind" />
-      <item value="Net Hooks" />
-      <item value="Selector Provider" />
-      <item value="Not Yet Bound Exception" />
-      <item value="Server Socket Channel" />
-      <item value="url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5519" />
-        <entry key="ENGLISH" value="5520" />
+        <entry key="CHINESE" value="5551" />
+        <entry key="ENGLISH" value="5552" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="11" />
+        <entry key="DANISH" value="12" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
