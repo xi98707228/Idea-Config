@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="select Original Data" />
+      <item value="selectpicker" />
+      <item value="risk warning air conditioner" />
+      <item value="transfer" />
+      <item value="operation" />
+      <item value="select Model" />
+      <item value="margin" />
+      <item value="img" />
+      <item value="page Url" />
+      <item value="Repository" />
+      <item value="increment" />
       <item value="air-conditioner" />
       <item value="flight-control" />
       <item value="flight" />
@@ -44,22 +55,11 @@
       <item value="One Key Import" />
       <item value="storageInputStream instanceof FileInputStream" />
       <item value="storage Input Stream" />
-      <item value="Handler Zero Copy Storage" />
-      <item value="storage Handler" />
-      <item value="require Non Null" />
-      <item value="get Slice Part" />
-      <item value="return" />
-      <item value="一键导入" />
-      <item value="handler" />
-      <item value="server" />
-      <item value="sys Id" />
-      <item value="file" />
-      <item value="customconfigurationquery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5618" />
-        <entry key="ENGLISH" value="5619" />
+        <entry key="CHINESE" value="5632" />
+        <entry key="ENGLISH" value="5633" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
