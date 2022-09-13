@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="verify" />
+      <item value="initialization Plugins" />
+      <item value="boolean" />
+      <item value="相关插件" />
+      <item value="Excel" />
+      <item value="初始化" />
+      <item value="初始化 Excel 相关插件" />
+      <item value="Concurrent Hash Map" />
+      <item value="No Set Opertion Primary Key Exception" />
+      <item value="File Input Stream" />
+      <item value="One Key Import" />
       <item value="storageInputStream instanceof FileInputStream" />
       <item value="storage Input Stream" />
       <item value="Handler Zero Copy Storage" />
@@ -13,7 +24,6 @@
       <item value="require Non Null" />
       <item value="get Slice Part" />
       <item value="return" />
-      <item value="File Input Stream" />
       <item value="一键导入" />
       <item value="handler" />
       <item value="server" />
@@ -45,21 +55,11 @@
       <item value="Storage Input File Require Is A File" />
       <item value="mark" />
       <item value="Audio Data" />
-      <item value="Byte Array Input Stream" />
-      <item value="Input Stream" />
-      <item value="storage File" />
-      <item value="Storage Handler" />
-      <item value="com" />
-      <item value="987072248" />
-      <item value="get Original Filename" />
-      <item value="Handler Prototype Storage" />
-      <item value="buf" />
-      <item value="Standard Multipart File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5551" />
-        <entry key="ENGLISH" value="5552" />
+        <entry key="CHINESE" value="5571" />
+        <entry key="ENGLISH" value="5572" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
