@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Releases in shared mode. Implemented by unblocking one or more threads if {@link tryReleaseShared} returns true. @param arg the release argument. This value is conveyed to {@link tryReleaseShared} but is otherwise uninterpreted and can represent anything you like. @return the value returned from {@link tryReleaseShared}" />
+      <item value="wait for libraries to load" />
+      <item value="Count Down Latch" />
       <item value="now Slice Part Size" />
       <item value="exists" />
       <item value="get Slice Part Handler File" />
@@ -52,14 +55,11 @@
       <item value="Collection Utils" />
       <item value="slice Meta Data" />
       <item value="finished" />
-      <item value="slice Parts" />
-      <item value="Exception" />
-      <item value="slice Handler Access Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5694" />
-        <entry key="ENGLISH" value="5695" />
+        <entry key="CHINESE" value="5697" />
+        <entry key="ENGLISH" value="5698" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
