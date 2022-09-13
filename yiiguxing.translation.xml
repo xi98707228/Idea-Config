@@ -5,9 +5,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Risk Warning Display Vo" />
+      <item value="create Risk Warning Display" />
+      <item value="risk warning air conditioner" />
+      <item value="执行系统类型计算" />
+      <item value="execute Calculate" />
+      <item value="Risk Warning Display" />
+      <item value="Air Conditioner Display" />
+      <item value="original Table Name" />
+      <item value="risk Warning Display" />
+      <item value="execute Complete" />
+      <item value="model Type" />
+      <item value="Ny Style Pizza Store" />
+      <item value="risk Warning Display Factory" />
+      <item value="create Pizza" />
+      <item value="987072248" />
+      <item value="warning Display" />
       <item value="select Original Data" />
       <item value="selectpicker" />
-      <item value="risk warning air conditioner" />
       <item value="transfer" />
       <item value="operation" />
       <item value="select Model" />
@@ -40,26 +55,11 @@
       <item value="处理excel中日期" />
       <item value="get Numeric Cell Value" />
       <item value="Decimal Format" />
-      <item value="get Number Of Sheets" />
-      <item value="number Of Sheets" />
-      <item value="get Data List" />
-      <item value="verify" />
-      <item value="boolean" />
-      <item value="相关插件" />
-      <item value="Excel" />
-      <item value="初始化" />
-      <item value="初始化 Excel 相关插件" />
-      <item value="Concurrent Hash Map" />
-      <item value="No Set Opertion Primary Key Exception" />
-      <item value="File Input Stream" />
-      <item value="One Key Import" />
-      <item value="storageInputStream instanceof FileInputStream" />
-      <item value="storage Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5632" />
-        <entry key="ENGLISH" value="5633" />
+        <entry key="CHINESE" value="5672" />
+        <entry key="ENGLISH" value="5673" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -97,7 +97,7 @@
         <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="9" />
+        <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="11" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
