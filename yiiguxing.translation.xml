@@ -5,9 +5,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Override" />
+      <item value="initialization Plugins" />
+      <item value="get Cell Type" />
+      <item value="处理excel中日期 的问题" />
+      <item value="处理excel中日期" />
+      <item value="get Numeric Cell Value" />
+      <item value="Decimal Format" />
+      <item value="get Number Of Sheets" />
+      <item value="number Of Sheets" />
       <item value="get Data List" />
       <item value="verify" />
-      <item value="initialization Plugins" />
       <item value="boolean" />
       <item value="相关插件" />
       <item value="Excel" />
@@ -20,7 +28,6 @@
       <item value="storageInputStream instanceof FileInputStream" />
       <item value="storage Input Stream" />
       <item value="Handler Zero Copy Storage" />
-      <item value="Override" />
       <item value="storage Handler" />
       <item value="require Non Null" />
       <item value="get Slice Part" />
@@ -48,18 +55,11 @@
       <item value="Readable Byte Channel" />
       <item value="copy Large" />
       <item value="storage Data" />
-      <item value="File" />
-      <item value="Slice Handler Service" />
-      <item value="slice Handler" />
-      <item value="Equivalence" />
-      <item value="try" />
-      <item value="Storage Input File Require Is A File" />
-      <item value="mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5572" />
-        <entry key="ENGLISH" value="5573" />
+        <entry key="CHINESE" value="5580" />
+        <entry key="ENGLISH" value="5581" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
