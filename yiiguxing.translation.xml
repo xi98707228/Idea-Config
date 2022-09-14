@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="分别封装起来" />
+      <item value="调料装饰者" />
+      <item value="House Blend" />
+      <item value="Dark Roast" />
+      <item value="Soy" />
+      <item value="capacity Cost" />
+      <item value="Condiment Decorator" />
+      <item value="get Slice Block Amount" />
+      <item value="Fixed String" />
+      <item value="Chicago Style Cheese Pizza" />
+      <item value="Pizza Store" />
+      <item value="This class is immutable and thread-safe." />
+      <item value="Date Time Formatter" />
       <item value="Override" />
       <item value="initialization Plugins" />
       <item value="get Cell Type" />
@@ -42,24 +55,11 @@
       <item value="go One Key Import" />
       <item value="Storage Abstract Handler" />
       <item value="one Key Import" />
-      <item value="parse Object" />
-      <item value="slice Part" />
-      <item value="slice Handler Service" />
-      <item value="handler Slice Data" />
-      <item value="token" />
-      <item value="access" />
-      <item value="slice Access Token" />
-      <item value="success" />
-      <item value="choose" />
-      <item value="request Base Url" />
-      <item value="Readable Byte Channel" />
-      <item value="copy Large" />
-      <item value="storage Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5580" />
-        <entry key="ENGLISH" value="5581" />
+        <entry key="CHINESE" value="5592" />
+        <entry key="ENGLISH" value="5592" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -97,7 +97,7 @@
         <entry key="SPANISH" value="8" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="9" />
+        <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="11" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
