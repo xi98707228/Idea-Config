@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compare And Set" />
+      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
+      <item value="Object Provider" />
+      <item value="Ordered Form Content Filter" />
+      <item value="Phillip Webb" />
+      <item value="state" />
+      <item value="Nullable" />
+      <item value="trim Trailing Slash" />
+      <item value="Handler Slice Loop Merge" />
+      <item value="Override" />
+      <item value="Input Stream" />
+      <item value="receive Slice Data Thread Pool" />
+      <item value="is Cancelled" />
+      <item value="The run state of this task, initially NEW. The run state transitions to a terminal state only in methods set, setException, and cancel. During completion, state may take on transient values of COMPLETING (while outcome is being set) or INTERRUPTING (only while interrupting the runner to satisfy a cancel(true)). Transitions from these intermediate to final states use cheaper orderedlazy writes because values are unique and cannot be further modified." />
+      <item value="NORMAL" />
+      <item value="INTERRUPTED" />
+      <item value="CANCELLED" />
+      <item value="is Done" />
+      <item value="NEW" />
+      <item value="MILLISECONDS" />
+      <item value="Handler Slice File Fill" />
       <item value="promise in order" />
       <item value="slice Part" />
       <item value="Atomic Boolean" />
@@ -34,32 +55,11 @@
       <item value="Pizza Store" />
       <item value="This class is immutable and thread-safe." />
       <item value="Date Time Formatter" />
-      <item value="Override" />
-      <item value="initialization Plugins" />
-      <item value="get Cell Type" />
-      <item value="处理excel中日期 的问题" />
-      <item value="处理excel中日期" />
-      <item value="get Numeric Cell Value" />
-      <item value="Decimal Format" />
-      <item value="get Number Of Sheets" />
-      <item value="number Of Sheets" />
-      <item value="get Data List" />
-      <item value="verify" />
-      <item value="boolean" />
-      <item value="相关插件" />
-      <item value="Excel" />
-      <item value="初始化" />
-      <item value="初始化 Excel 相关插件" />
-      <item value="Concurrent Hash Map" />
-      <item value="No Set Opertion Primary Key Exception" />
-      <item value="File Input Stream" />
-      <item value="One Key Import" />
-      <item value="storageInputStream instanceof FileInputStream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5606" />
-        <entry key="ENGLISH" value="5607" />
+        <entry key="CHINESE" value="5627" />
+        <entry key="ENGLISH" value="5628" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
