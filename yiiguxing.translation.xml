@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="request Base Path" />
       <item value="display" />
       <item value="warning" />
       <item value="input" />
@@ -54,12 +55,11 @@
       <item value="Risk Warning Display" />
       <item value="risk Air Conditioner Manager" />
       <item value="create Risk Warning Display" />
-      <item value="risk warning air conditioner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5768" />
-        <entry key="ENGLISH" value="5769" />
+        <entry key="CHINESE" value="5769" />
+        <entry key="ENGLISH" value="5770" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
