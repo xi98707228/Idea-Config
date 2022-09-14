@@ -5,7 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="length" />
+      <item value="display Out Chart Div" />
+      <item value="x" />
+      <item value="common Suffix" />
+      <item value="field Counter" />
+      <item value="inner Builder Container" />
+      <item value="div" />
+      <item value="left Field List" />
+      <item value="iter Field" />
+      <item value="right Field List" />
+      <item value="right Field" />
       <item value="tr" />
+      <item value="create Out Echarts Table Container" />
+      <item value="iter Counter" />
+      <item value="left Field Name List" />
+      <item value="create Out Echarts" />
+      <item value="creator" />
+      <item value="进行分组" />
+      <item value="左侧数据" />
+      <item value="和右侧数据" />
+      <item value="for Each" />
+      <item value="index" />
+      <item value="td" />
+      <item value="air Conditioner Warning Display" />
+      <item value="condensed" />
+      <item value="min Value" />
+      <item value="max Value" />
+      <item value="max Value Map" />
       <item value="data Size" />
       <item value="this" />
       <item value="Hash Map" />
@@ -28,38 +55,11 @@
       <item value="获取图表JSON数据则先不计算" />
       <item value="String Utils" />
       <item value="risk Warning Display" />
-      <item value="Response Body" />
-      <item value="type" />
-      <item value="display Data" />
-      <item value="risk Warning Display Vo" />
-      <item value="base Path" />
-      <item value="hover" />
-      <item value="table" />
-      <item value="condensed" />
-      <item value="label" />
-      <item value="page Content" />
-      <item value="otherwise" />
-      <item value="bean Name" />
-      <item value="get Display Type" />
-      <item value="replace Name" />
-      <item value="core Data Item Map" />
-      <item value="field Name" />
-      <item value="Risk Warning Air Conditioner Entity" />
-      <item value="risk Warning Air Conditioner Entities" />
-      <item value="ENTER FIELD" />
-      <item value="计算出所有上下限" />
-      <item value="Display Type" />
-      <item value="Risk Air Conditioner Manager" />
-      <item value="stream" />
-      <item value="all Risk Air Conditioner Data List" />
-      <item value="all Risk Air Conditioner" />
-      <item value="display Type Mapping" />
-      <item value="core Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5776" />
-        <entry key="ENGLISH" value="5777" />
+        <entry key="CHINESE" value="5826" />
+        <entry key="ENGLISH" value="5827" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
