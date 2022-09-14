@@ -5,11 +5,37 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="base Path" />
+      <item value="hover" />
+      <item value="table" />
+      <item value="condensed" />
+      <item value="label" />
+      <item value="warning" />
+      <item value="page Content" />
+      <item value="otherwise" />
+      <item value="display" />
+      <item value="bean Name" />
+      <item value="original Table Name" />
+      <item value="get Display Type" />
+      <item value="replace Name" />
+      <item value="core Data Map" />
+      <item value="core Data Item Map" />
+      <item value="field Name" />
+      <item value="Risk Warning Air Conditioner Entity" />
+      <item value="risk Warning Air Conditioner Entities" />
+      <item value="ENTER FIELD" />
+      <item value="计算出所有上下限" />
+      <item value="Display Type" />
+      <item value="Risk Air Conditioner Manager" />
+      <item value="stream" />
+      <item value="all Risk Air Conditioner Data List" />
+      <item value="all Risk Air Conditioner" />
+      <item value="display Type Mapping" />
+      <item value="core Data" />
       <item value="risk Warning Query Data" />
       <item value="risk Warning Display" />
       <item value="Override" />
       <item value="for Each" />
-      <item value="display Type Mapping" />
       <item value="Risk Warning Display" />
       <item value="risk Warning Display Vo" />
       <item value="risk Air Conditioner Manager" />
@@ -19,11 +45,8 @@
       <item value="Air Conditioner Display" />
       <item value="Subscriber Processor" />
       <item value="springframework" />
-      <item value="warning" />
-      <item value="original Table Name" />
       <item value="select Original Data" />
       <item value="button" />
-      <item value="display" />
       <item value="operation" />
       <item value="user" />
       <item value="selectpicker" />
@@ -32,34 +55,11 @@
       <item value="execute Calculate" />
       <item value="execute Complete" />
       <item value="model Type" />
-      <item value="Ny Style Pizza Store" />
-      <item value="risk Warning Display Factory" />
-      <item value="create Pizza" />
-      <item value="987072248" />
-      <item value="warning Display" />
-      <item value="transfer" />
-      <item value="select Model" />
-      <item value="margin" />
-      <item value="img" />
-      <item value="page Url" />
-      <item value="Repository" />
-      <item value="increment" />
-      <item value="air-conditioner" />
-      <item value="flight-control" />
-      <item value="flight" />
-      <item value="base Path" />
-      <item value="manual" />
-      <item value="Default One Key Import Impl" />
-      <item value="Abstract One Key Import" />
-      <item value="File" />
-      <item value="import File" />
-      <item value="String" />
-      <item value="data Base Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5701" />
-        <entry key="ENGLISH" value="5702" />
+        <entry key="CHINESE" value="5737" />
+        <entry key="ENGLISH" value="5738" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
