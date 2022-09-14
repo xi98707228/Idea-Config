@@ -5,10 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="now Val" />
+      <item value="echarts" />
       <item value="air Conditioner Css" />
       <item value="stylesheet" />
       <item value="script" />
-      <item value="echarts" />
       <item value="get Root Path" />
       <item value="skip Calculate" />
       <item value="left Append" />
@@ -54,12 +55,11 @@
       <item value="page Url" />
       <item value="original Table Name" />
       <item value="model" />
-      <item value="add Attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5831" />
-        <entry key="ENGLISH" value="5832" />
+        <entry key="CHINESE" value="5832" />
+        <entry key="ENGLISH" value="5833" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -94,7 +94,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="11" />
+        <entry key="SPANISH" value="12" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
