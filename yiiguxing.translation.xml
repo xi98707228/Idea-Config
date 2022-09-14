@@ -5,15 +5,31 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Risk Warning Display Vo" />
+      <item value="risk Warning Query Data" />
+      <item value="risk Warning Display" />
+      <item value="Override" />
+      <item value="for Each" />
+      <item value="display Type Mapping" />
+      <item value="Risk Warning Display" />
+      <item value="risk Warning Display Vo" />
+      <item value="risk Air Conditioner Manager" />
       <item value="create Risk Warning Display" />
       <item value="risk warning air conditioner" />
+      <item value="type" />
+      <item value="Air Conditioner Display" />
+      <item value="Subscriber Processor" />
+      <item value="springframework" />
+      <item value="warning" />
+      <item value="original Table Name" />
+      <item value="select Original Data" />
+      <item value="button" />
+      <item value="display" />
+      <item value="operation" />
+      <item value="user" />
+      <item value="selectpicker" />
+      <item value="Risk Warning Display Vo" />
       <item value="执行系统类型计算" />
       <item value="execute Calculate" />
-      <item value="Risk Warning Display" />
-      <item value="Air Conditioner Display" />
-      <item value="original Table Name" />
-      <item value="risk Warning Display" />
       <item value="execute Complete" />
       <item value="model Type" />
       <item value="Ny Style Pizza Store" />
@@ -21,10 +37,7 @@
       <item value="create Pizza" />
       <item value="987072248" />
       <item value="warning Display" />
-      <item value="select Original Data" />
-      <item value="selectpicker" />
       <item value="transfer" />
-      <item value="operation" />
       <item value="select Model" />
       <item value="margin" />
       <item value="img" />
@@ -42,24 +55,11 @@
       <item value="import File" />
       <item value="String" />
       <item value="data Base Name" />
-      <item value="initialization Plugins" />
-      <item value="Import Excel" />
-      <item value="import Excel" />
-      <item value="Override" />
-      <item value="get Sheet At" />
-      <item value="import After" />
-      <item value="import Excel File" />
-      <item value="validation Executable" />
-      <item value="get Cell Type" />
-      <item value="处理excel中日期 的问题" />
-      <item value="处理excel中日期" />
-      <item value="get Numeric Cell Value" />
-      <item value="Decimal Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5672" />
-        <entry key="ENGLISH" value="5673" />
+        <entry key="CHINESE" value="5701" />
+        <entry key="ENGLISH" value="5702" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
