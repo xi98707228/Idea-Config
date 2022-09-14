@@ -5,17 +5,33 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="display" />
+      <item value="warning" />
+      <item value="input" />
+      <item value="risk" />
+      <item value="page Url" />
+      <item value="original Table Name" />
+      <item value="model" />
+      <item value="add Attribute" />
+      <item value="is Not Empty" />
+      <item value="display Vo" />
+      <item value="display Type" />
+      <item value="risk Warning Dispatcher Service" />
+      <item value="获取图表JSON数据则先不计算" />
+      <item value="String Utils" />
+      <item value="risk Warning Display" />
+      <item value="Response Body" />
+      <item value="type" />
+      <item value="display Data" />
+      <item value="risk Warning Display Vo" />
       <item value="base Path" />
       <item value="hover" />
       <item value="table" />
       <item value="condensed" />
       <item value="label" />
-      <item value="warning" />
       <item value="page Content" />
       <item value="otherwise" />
-      <item value="display" />
       <item value="bean Name" />
-      <item value="original Table Name" />
       <item value="get Display Type" />
       <item value="replace Name" />
       <item value="core Data Map" />
@@ -33,33 +49,17 @@
       <item value="display Type Mapping" />
       <item value="core Data" />
       <item value="risk Warning Query Data" />
-      <item value="risk Warning Display" />
       <item value="Override" />
       <item value="for Each" />
       <item value="Risk Warning Display" />
-      <item value="risk Warning Display Vo" />
       <item value="risk Air Conditioner Manager" />
       <item value="create Risk Warning Display" />
       <item value="risk warning air conditioner" />
-      <item value="type" />
-      <item value="Air Conditioner Display" />
-      <item value="Subscriber Processor" />
-      <item value="springframework" />
-      <item value="select Original Data" />
-      <item value="button" />
-      <item value="operation" />
-      <item value="user" />
-      <item value="selectpicker" />
-      <item value="Risk Warning Display Vo" />
-      <item value="执行系统类型计算" />
-      <item value="execute Calculate" />
-      <item value="execute Complete" />
-      <item value="model Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5737" />
-        <entry key="ENGLISH" value="5738" />
+        <entry key="CHINESE" value="5768" />
+        <entry key="ENGLISH" value="5769" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
