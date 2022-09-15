@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Lower Case Input Stream Decorator" />
+      <item value="read File To Lower Case" />
+      <item value="Piped Input Stream" />
+      <item value="closed By Reader" />
+      <item value="needs" />
+      <item value="write" />
+      <item value="broken" />
+      <item value="BROKEN" />
+      <item value="A piped input stream should be connected to a piped output stream; the piped input stream then provides whatever data bytes are written to the piped output stream. Typically, data is read from a &lt;code&gt;PipedInputStream&lt;code&gt; object by one thread and data is written to the corresponding &lt;code&gt;PipedOutputStream&lt;code&gt; by some other thread. Attempting to use both objects from a single thread is not recommended, as it may deadlock the thread. The piped input stream contains a buffer, decoupling read operations from write operations, within limits. A pipe is said to be &lt;a name=&quot;BROKEN&quot;&gt; &lt;i&gt;broken&lt;i&gt; &lt;a&gt; if a thread that was providing data bytes to the connected piped output stream is no longer alive." />
+      <item value="Returns the number of bytes that can be read from this input stream without blocking. @return the number of bytes that can be read from this input stream without blocking, or {@code 0} if this input stream has been closed by invoking its {@link close()} method, or if the pipe is {@link connect(java.io.PipedOutputStream) unconnected}, or &lt;a href=&quot;BROKEN&quot;&gt; &lt;code&gt;broken&lt;code&gt;&lt;a&gt;. @exception IOException if an IO error occurs. @since JDK1.0.2" />
+      <item value="await Space" />
+      <item value="DEFAULT PIPE SIZE" />
+      <item value="REMIND: identification of the read and write sides needs to be more sophisticated. Either using thread groups (but what about pipes within a thread?) or using finalization (but it may be a long time until the next GC)." />
+      <item value="James Gosling" />
       <item value="user Ids" />
       <item value="user Mapper" />
       <item value="execute Remove User To Process Node" />
@@ -41,25 +55,11 @@
       <item value="script" />
       <item value="get Root Path" />
       <item value="skip Calculate" />
-      <item value="left Append" />
-      <item value="length" />
-      <item value="display Out Chart Div" />
-      <item value="x" />
-      <item value="common Suffix" />
-      <item value="field Counter" />
-      <item value="inner Builder Container" />
-      <item value="left Field List" />
-      <item value="iter Field" />
-      <item value="right Field List" />
-      <item value="right Field" />
-      <item value="tr" />
-      <item value="create Out Echarts Table Container" />
-      <item value="iter Counter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5859" />
-        <entry key="ENGLISH" value="5860" />
+        <entry key="CHINESE" value="5872" />
+        <entry key="ENGLISH" value="5873" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662801903430" />
+    <option name="lastTrimTime" value="1663243444896" />
   </component>
 </application>
