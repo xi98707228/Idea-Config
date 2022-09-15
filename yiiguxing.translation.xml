@@ -5,12 +5,28 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rs" />
+      <item value="wc" />
+      <item value="receive Slice Data Thread Pool" />
+      <item value="storage Handler" />
+      <item value="Abstract Merge Slice Handler" />
+      <item value="Adapted Runnable Action" />
+      <item value="compare And Set" />
+      <item value="handler Finish Mapping" />
+      <item value="return" />
+      <item value="slice Block Amount" />
+      <item value="Verify Slice Handler Process Finish" />
+      <item value="Linked Blocking Queue" />
+      <item value="Copy On Write Array List" />
+      <item value="volatile" />
+      <item value="submit" />
+      <item value="sleep" />
+      <item value="MILLISECONDS" />
       <item value="finalize" />
       <item value="Finalizable Delegated Executor Service" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
       <item value="execute Command" />
-      <item value="compare And Set" />
       <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
       <item value="Object Provider" />
       <item value="Ordered Form Content Filter" />
@@ -21,7 +37,6 @@
       <item value="Handler Slice Loop Merge" />
       <item value="Override" />
       <item value="Input Stream" />
-      <item value="receive Slice Data Thread Pool" />
       <item value="is Cancelled" />
       <item value="The run state of this task, initially NEW. The run state transitions to a terminal state only in methods set, setException, and cancel. During completion, state may take on transient values of COMPLETING (while outcome is being set) or INTERRUPTING (only while interrupting the runner to satisfy a cancel(true)). Transitions from these intermediate to final states use cheaper orderedlazy writes because values are unique and cannot be further modified." />
       <item value="NORMAL" />
@@ -29,7 +44,6 @@
       <item value="CANCELLED" />
       <item value="is Done" />
       <item value="NEW" />
-      <item value="MILLISECONDS" />
       <item value="Handler Slice File Fill" />
       <item value="promise in order" />
       <item value="slice Part" />
@@ -41,25 +55,11 @@
       <item value="Slice Part" />
       <item value="slice Block Index" />
       <item value="pojo" />
-      <item value="storage Slice Data" />
-      <item value="receive Slice Data" />
-      <item value="Slice Abstract Handler" />
-      <item value="verify Function" />
-      <item value="content 1_error Case的" />
-      <item value="去通知每个观察者时" />
-      <item value="分别封装起来" />
-      <item value="调料装饰者" />
-      <item value="House Blend" />
-      <item value="Dark Roast" />
-      <item value="Soy" />
-      <item value="capacity Cost" />
-      <item value="Condiment Decorator" />
-      <item value="get Slice Block Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5633" />
-        <entry key="ENGLISH" value="5634" />
+        <entry key="CHINESE" value="5653" />
+        <entry key="ENGLISH" value="5654" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
