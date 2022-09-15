@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="finalize" />
+      <item value="Finalizable Delegated Executor Service" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
       <item value="execute Command" />
@@ -53,13 +55,11 @@
       <item value="capacity Cost" />
       <item value="Condiment Decorator" />
       <item value="get Slice Block Amount" />
-      <item value="Fixed String" />
-      <item value="Chicago Style Cheese Pizza" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5631" />
-        <entry key="ENGLISH" value="5632" />
+        <entry key="CHINESE" value="5633" />
+        <entry key="ENGLISH" value="5634" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662801903430" />
+    <option name="lastTrimTime" value="1663239317694" />
   </component>
 </application>
