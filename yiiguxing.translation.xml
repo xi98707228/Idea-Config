@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="import After" />
+      <item value="execute Import File Data" />
+      <item value="execute Data Base Relation" />
+      <item value="Override" />
+      <item value="validation Executable" />
+      <item value="Abstract One Key Import" />
       <item value="user Ids" />
       <item value="user Mapper" />
       <item value="execute Remove User To Process Node" />
@@ -12,7 +18,6 @@
       <item value="import File" />
       <item value="Invalid Format Exception" />
       <item value="data Base Name" />
-      <item value="validation Executable" />
       <item value="table Configuration Expand" />
       <item value="Table Configuration Expand Controller" />
       <item value="delete Datas" />
@@ -50,16 +55,11 @@
       <item value="inner Builder Container" />
       <item value="left Field List" />
       <item value="iter Field" />
-      <item value="right Field List" />
-      <item value="right Field" />
-      <item value="tr" />
-      <item value="create Out Echarts Table Container" />
-      <item value="iter Counter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5859" />
-        <entry key="ENGLISH" value="5860" />
+        <entry key="CHINESE" value="5865" />
+        <entry key="ENGLISH" value="5866" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
