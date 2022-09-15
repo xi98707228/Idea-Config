@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="upload" />
+      <item value="选择文件" />
+      <item value="id" />
+      <item value="list location container" />
+      <item value="file id" />
+      <item value="_data" />
+      <item value="table Form Container" />
+      <item value="reset Files Index" />
+      <item value="fileupload Form" />
+      <item value="uploadfiles_" />
+      <item value="random" />
+      <item value="upload-file-list" />
       <item value="max Upload Index" />
       <item value="且EXCEL表头字段名称应与系统中添加字段名称完全一致" />
       <item value="建议将EXCEL中纯数字单元格转为文本单元格" />
@@ -43,23 +55,11 @@
       <item value="height" />
       <item value="size" />
       <item value="fly Info Td" />
-      <item value="div" />
-      <item value="text" />
-      <item value="boundary Gap" />
-      <item value="function" />
-      <item value="value" />
-      <item value="display Type" />
-      <item value="execute Calculate" />
-      <item value="now Val" />
-      <item value="echarts" />
-      <item value="air Conditioner Css" />
-      <item value="stylesheet" />
-      <item value="script" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5877" />
-        <entry key="ENGLISH" value="5878" />
+        <entry key="CHINESE" value="5887" />
+        <entry key="ENGLISH" value="5888" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -98,7 +98,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
-        <entry key="HINDI" value="11" />
+        <entry key="HINDI" value="12" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
