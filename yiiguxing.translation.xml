@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Annotation Config Reactive Web Application Context" />
+      <item value="load Bean Definitions For Bean Method" />
+      <item value="Annotation Attributes" />
+      <item value="Annotation Scope Metadata Resolver" />
+      <item value="Test Spring Bean Scope" />
+      <item value="Slf 4 j" />
+      <item value="Slice Abstract Handler" />
       <item value="Lower Case Input Stream Decorator" />
       <item value="read File To Lower Case" />
       <item value="Piped Input Stream" />
@@ -48,18 +55,11 @@
       <item value="value" />
       <item value="display Type" />
       <item value="execute Calculate" />
-      <item value="now Val" />
-      <item value="echarts" />
-      <item value="air Conditioner Css" />
-      <item value="stylesheet" />
-      <item value="script" />
-      <item value="get Root Path" />
-      <item value="skip Calculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5873" />
-        <entry key="ENGLISH" value="5874" />
+        <entry key="CHINESE" value="5880" />
+        <entry key="ENGLISH" value="5881" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
