@@ -5,15 +5,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="select File Change Method" />
+      <item value="cellpadding" />
       <item value="select File Object" />
+      <item value="type" />
+      <item value="init File Component Event" />
+      <item value="execute Calculate" />
+      <item value="risk Warning Display" />
+      <item value="DISPLAY MAPPING" />
+      <item value="CACHE DISPLAY VO" />
+      <item value="Display Type" />
+      <item value="Risk Warning Dispatcher Service" />
+      <item value="select File Change Method" />
       <item value="reset File Component" />
       <item value="实现的逻辑" />
       <item value="点击浏览文件" />
       <item value="click Browser File" />
       <item value="change" />
       <item value="选择文件" />
-      <item value="execute Calculate" />
       <item value="slice File Input" />
       <item value="example Main" />
       <item value="device Location" />
@@ -47,19 +55,11 @@
       <item value="execute Import File Data" />
       <item value="execute Data Base Relation" />
       <item value="Override" />
-      <item value="validation Executable" />
-      <item value="Abstract One Key Import" />
-      <item value="user Ids" />
-      <item value="user Mapper" />
-      <item value="execute Remove User To Process Node" />
-      <item value="1" />
-      <item value="import File" />
-      <item value="Invalid Format Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5908" />
-        <entry key="ENGLISH" value="5909" />
+        <entry key="CHINESE" value="5918" />
+        <entry key="ENGLISH" value="5919" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
