@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="eval" />
       <item value="表配置 拓展接口" />
       <item value="com" />
       <item value="987072248" />
@@ -54,12 +55,11 @@
       <item value="custom Configuration Table Manager" />
       <item value="one Key Import" />
       <item value="relational Table Create" />
-      <item value="dictionarytableconfiguration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5928" />
-        <entry key="ENGLISH" value="5927" />
+        <entry key="ENGLISH" value="5928" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
