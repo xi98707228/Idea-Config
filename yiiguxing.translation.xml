@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No Such Method Exception" />
       <item value="table Configuration Expand" />
       <item value="name" />
       <item value="event File" />
@@ -54,12 +55,11 @@
       <item value="DISPLAY MAPPING" />
       <item value="CACHE DISPLAY VO" />
       <item value="Display Type" />
-      <item value="Risk Warning Dispatcher Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5961" />
-        <entry key="ENGLISH" value="5962" />
+        <entry key="CHINESE" value="5962" />
+        <entry key="ENGLISH" value="5963" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
