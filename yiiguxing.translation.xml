@@ -5,22 +5,44 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Storage Abstract Handler" />
+      <item value="get Default File Path" />
+      <item value="get Slice Part Handler File" />
+      <item value="Slice Abstract Handler" />
+      <item value="创建当前切片文件" />
+      <item value="IO Exception" />
+      <item value="get Slice Block Name" />
+      <item value="slice Part" />
+      <item value="merge Slice List" />
+      <item value="Handler Slice Loop Merge" />
+      <item value="receive Slice Data" />
       <item value="Override" />
-      <item value="verify Done" />
+      <item value="handler Slice Data" />
+      <item value="get Slice Process Status" />
       <item value="access Token" />
+      <item value="storage Slice Data" />
+      <item value="Input Stream" />
+      <item value="verify Done" />
+      <item value="Slice Loop Merge Handler" />
+      <item value="Slice Handler Service" />
+      <item value="handler Slice Loop Merge" />
       <item value="handler Finish Mapping" />
+      <item value="请求标识" />
+      <item value="Connection" />
+      <item value="compare And Set" />
+      <item value="slice Handler Access Token" />
+      <item value="String" />
+      <item value="判断是否完成" />
+      <item value="请求流程状态" />
       <item value="health" />
       <item value="verify Done(" />
       <item value="Atomic Boolean" />
-      <item value="Slice Abstract Handler" />
       <item value="Slice Handler" />
       <item value="处理的目标切片" />
       <item value="access" />
       <item value="token" />
-      <item value="slice Handler Access Token" />
       <item value="remove" />
       <item value="false" />
-      <item value="compare And Set" />
       <item value="now Slice Part Size" />
       <item value="slice Block Amount" />
       <item value="if" />
@@ -33,40 +55,18 @@
       <item value="return" />
       <item value="result" />
       <item value="storage Handler" />
-      <item value="Storage Abstract Handler" />
-      <item value="No Such Method Exception" />
-      <item value="table Configuration Expand" />
-      <item value="name" />
-      <item value="event File" />
-      <item value="slice Counter" />
-      <item value="parse Int" />
-      <item value="SLICE THRESHOLD" />
-      <item value="File" />
-      <item value="Form Data" />
-      <item value="upload File Before" />
-      <item value="true" />
-      <item value="点击上传文件" />
-      <item value="click To Upload The File" />
-      <item value="click Browser File" />
-      <item value="select File Change Method" />
-      <item value="click" />
-      <item value="reset File Component" />
-      <item value="更改上传流程信息" />
-      <item value="update Process Info" />
-      <item value="upload Process Info" />
-      <item value="Hibernate Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6005" />
-        <entry key="ENGLISH" value="6006" />
+        <entry key="CHINESE" value="6055" />
+        <entry key="ENGLISH" value="6056" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="13" />
+        <entry key="DANISH" value="16" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
