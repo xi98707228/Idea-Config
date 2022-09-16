@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="upload File Original Name" />
+      <item value="one Key Import Index Id" />
+      <item value="alertmsg" />
       <item value="slice Handler Service" />
       <item value="success" />
       <item value="return" />
@@ -21,7 +24,6 @@
       <item value="SLICE THRESHOLD" />
       <item value="File" />
       <item value="Form Data" />
-      <item value="upload File Original Name" />
       <item value="upload File Before" />
       <item value="true" />
       <item value="点击上传文件" />
@@ -53,13 +55,11 @@
       <item value="user session" />
       <item value="Table Configuration Expand Controller" />
       <item value="cellpadding" />
-      <item value="select File Object" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5969" />
-        <entry key="ENGLISH" value="5970" />
+        <entry key="CHINESE" value="5972" />
+        <entry key="ENGLISH" value="5973" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
