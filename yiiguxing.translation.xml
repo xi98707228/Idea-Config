@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="reset File Component" />
       <item value="更改上传流程信息" />
       <item value="update Process Info" />
       <item value="upload Process Info" />
@@ -39,7 +40,6 @@
       <item value="Display Type" />
       <item value="Risk Warning Dispatcher Service" />
       <item value="select File Change Method" />
-      <item value="reset File Component" />
       <item value="实现的逻辑" />
       <item value="点击浏览文件" />
       <item value="click Browser File" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5942" />
-        <entry key="ENGLISH" value="5942" />
+        <entry key="ENGLISH" value="5943" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
