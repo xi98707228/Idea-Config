@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result" />
       <item value="storage Handler" />
       <item value="handler Finish Mapping" />
       <item value="Storage Abstract Handler" />
@@ -54,12 +55,11 @@
       <item value="type" />
       <item value="init File Component Event" />
       <item value="execute Calculate" />
-      <item value="risk Warning Display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5965" />
-        <entry key="ENGLISH" value="5966" />
+        <entry key="CHINESE" value="5966" />
+        <entry key="ENGLISH" value="5967" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
