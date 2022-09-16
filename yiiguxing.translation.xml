@@ -5,8 +5,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="click Browser File" />
+      <item value="table Configuration Expand" />
+      <item value="name" />
+      <item value="event File" />
+      <item value="slice Counter" />
+      <item value="parse Int" />
+      <item value="return" />
+      <item value="SLICE THRESHOLD" />
+      <item value="File" />
+      <item value="Form Data" />
+      <item value="upload File Original Name" />
+      <item value="upload File Before" />
+      <item value="true" />
+      <item value="点击上传文件" />
       <item value="click To Upload The File" />
+      <item value="click Browser File" />
       <item value="select File Change Method" />
       <item value="click" />
       <item value="reset File Component" />
@@ -31,7 +44,6 @@
       <item value="com" />
       <item value="987072248" />
       <item value="user session" />
-      <item value="table Configuration Expand" />
       <item value="Table Configuration Expand Controller" />
       <item value="cellpadding" />
       <item value="select File Object" />
@@ -43,23 +55,11 @@
       <item value="CACHE DISPLAY VO" />
       <item value="Display Type" />
       <item value="Risk Warning Dispatcher Service" />
-      <item value="实现的逻辑" />
-      <item value="点击浏览文件" />
-      <item value="change" />
-      <item value="选择文件" />
-      <item value="slice File Input" />
-      <item value="example Main" />
-      <item value="device Location" />
-      <item value="device Detail Address" />
-      <item value="device Name" />
-      <item value="设备存放地点" />
-      <item value="browse File" />
-      <item value="upload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5946" />
-        <entry key="ENGLISH" value="5947" />
+        <entry key="CHINESE" value="5961" />
+        <entry key="ENGLISH" value="5962" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
