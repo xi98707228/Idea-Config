@@ -5,10 +5,31 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="import Excel Data To Data Base" />
+      <item value="table Exist" />
+      <item value="当前表已存在" />
+      <item value="sys Id" />
+      <item value="find By" />
+      <item value="create Table Detals" />
+      <item value="custom Configuration Table Manager" />
+      <item value="state" />
+      <item value="default Value" />
+      <item value="false" />
+      <item value="value" />
+      <item value="read Listener" />
+      <item value="Dynamic Easy Excel Import Utils" />
+      <item value="parse Excel To View" />
+      <item value="set Paretid" />
+      <item value="field Name List" />
+      <item value="存储到数据表中" />
+      <item value="initialization Data Base" />
+      <item value="data List" />
+      <item value="do After All Analysed" />
+      <item value="one Key Data Base Service" />
+      <item value="context" />
       <item value="字段名列表" />
       <item value="数据库名称" />
       <item value="data Base Name" />
-      <item value="field Name List" />
       <item value="Map" />
       <item value="table" />
       <item value="ram generator a function which produces a new array of the desired type and the provided length @return an array containing the elements in this stream @throws ArrayStoreException if the runtime type of the array returned from the array generator is not a supertype of the runtime type of every element in this stream" />
@@ -17,7 +38,6 @@
       <item value="100" />
       <item value="stream" />
       <item value="Integer" />
-      <item value="context" />
       <item value="header Field List" />
       <item value="request" />
       <item value="Http Servlet Request" />
@@ -27,10 +47,7 @@
       <item value="Object" />
       <item value="String Builder" />
       <item value="初始化数据库" />
-      <item value="initialization Data Base" />
       <item value="文件的数据" />
-      <item value="存储到数据表中" />
-      <item value="import Excel Data To Data Base" />
       <item value="这里会一行行的返回头" />
       <item value="head Map" />
       <item value="relational Field Save" />
@@ -38,28 +55,11 @@
       <item value="Dynamic Easy Excel Listener" />
       <item value="One Key Data Base Service" />
       <item value="jdbc Template" />
-      <item value="data List" />
-      <item value="Byte Array Input Stream" />
-      <item value="read Listener" />
-      <item value="column Head" />
-      <item value="parse Row Number" />
-      <item value="head List" />
-      <item value="get Head List" />
-      <item value="Excel未包含表头" />
-      <item value="Runtime Exception" />
-      <item value="取最后一次解析的列头数据" />
-      <item value="获取头部,取最后一次解析的列头数据" />
-      <item value="excel Head Idx Name Map" />
-      <item value="do Read" />
-      <item value="都会来调用" />
-      <item value="所有数据解析完成了" />
-      <item value="do After All Analysed" />
-      <item value="存储全部表头数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6239" />
-        <entry key="ENGLISH" value="6239" />
+        <entry key="CHINESE" value="6260" />
+        <entry key="ENGLISH" value="6261" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -75,7 +75,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="17" />
+        <entry key="LATIN" value="18" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
