@@ -5,17 +5,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="初始化数据库" />
+      <item value="initialization Data Base" />
+      <item value="String" />
+      <item value="field Name List" />
+      <item value="文件的数据" />
+      <item value="存储到数据表中" />
+      <item value="import Excel Data To Data Base" />
+      <item value="这里会一行行的返回头" />
+      <item value="head Map" />
+      <item value="context" />
       <item value="relational Field Save" />
       <item value="get Column Meta Data By Table" />
       <item value="Dynamic Easy Excel Listener" />
-      <item value="initialization Data Base" />
       <item value="One Key Data Base Service" />
       <item value="jdbc Template" />
       <item value="data List" />
-      <item value="这里会一行行的返回头" />
-      <item value="head Map" />
-      <item value="存储到数据表中" />
-      <item value="import Excel Data To Data Base" />
       <item value="Byte Array Input Stream" />
       <item value="read Listener" />
       <item value="column Head" />
@@ -32,7 +37,6 @@
       <item value="data" />
       <item value="都会来调用" />
       <item value="所有数据解析完成了" />
-      <item value="context" />
       <item value="do After All Analysed" />
       <item value="存储全部表头数据" />
       <item value="Page Read Listener" />
@@ -51,15 +55,11 @@
       <item value="excel Reader" />
       <item value="No Class Def Found Error" />
       <item value="Excel Analysis Exception" />
-      <item value="handle Business Logic" />
-      <item value="do Read Sync" />
-      <item value="Import Excel" />
-      <item value="import Excel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6202" />
-        <entry key="ENGLISH" value="6203" />
+        <entry key="CHINESE" value="6216" />
+        <entry key="ENGLISH" value="6216" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
