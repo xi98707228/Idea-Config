@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tab fields" />
       <item value="subscribable" />
       <item value="Hibernate" />
       <item value="annotations" />
@@ -54,12 +55,11 @@
       <item value="Object" />
       <item value="String Builder" />
       <item value="初始化数据库" />
-      <item value="文件的数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6270" />
-        <entry key="ENGLISH" value="6271" />
+        <entry key="CHINESE" value="6271" />
+        <entry key="ENGLISH" value="6272" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
