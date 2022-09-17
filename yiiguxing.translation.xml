@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="字段名列表" />
+      <item value="数据库名称" />
+      <item value="data Base Name" />
+      <item value="field Name List" />
+      <item value="Map" />
       <item value="table" />
       <item value="ram generator a function which produces a new array of the desired type and the provided length @return an array containing the elements in this stream @throws ArrayStoreException if the runtime type of the array returned from the array generator is not a supertype of the runtime type of every element in this stream" />
       <item value="size" />
@@ -23,7 +28,6 @@
       <item value="String Builder" />
       <item value="初始化数据库" />
       <item value="initialization Data Base" />
-      <item value="field Name List" />
       <item value="文件的数据" />
       <item value="存储到数据表中" />
       <item value="import Excel Data To Data Base" />
@@ -51,15 +55,11 @@
       <item value="所有数据解析完成了" />
       <item value="do After All Analysed" />
       <item value="存储全部表头数据" />
-      <item value="Page Read Listener" />
-      <item value="invoke Head Map" />
-      <item value="Array List" />
-      <item value="这个每一条数据解析都会来调用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6230" />
-        <entry key="ENGLISH" value="6231" />
+        <entry key="CHINESE" value="6239" />
+        <entry key="ENGLISH" value="6239" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
