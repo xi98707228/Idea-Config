@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="do After All Analysed" />
+      <item value="handle Business Logic" />
+      <item value="do Read Sync" />
       <item value="Import Excel" />
       <item value="import Excel" />
       <item value="import File" />
@@ -52,14 +55,11 @@
       <item value="root Path" />
       <item value="close" />
       <item value="true" />
-      <item value="slice File Path" />
-      <item value="out Merge File" />
-      <item value="IO Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6129" />
-        <entry key="ENGLISH" value="6130" />
+        <entry key="CHINESE" value="6132" />
+        <entry key="ENGLISH" value="6133" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
