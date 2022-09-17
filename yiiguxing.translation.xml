@@ -5,15 +5,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="head Map" />
+      <item value="Array List" />
+      <item value="Dynamic Easy Excel Listener" />
+      <item value="这个每一条数据解析都会来调用" />
+      <item value="context" />
+      <item value="invoke Head Map" />
+      <item value="存储全部表头数据" />
+      <item value="excel Head Idx Name Map" />
+      <item value="Integer" />
+      <item value="parse Excel To View" />
+      <item value="excel Data List" />
+      <item value="取最后一次解析的列头数据" />
+      <item value="parse Row Number" />
       <item value="NUMERIC" />
       <item value="ALIGN CENTER" />
-      <item value="parse Row Number" />
       <item value="set File Download Header" />
       <item value="create Cell Style" />
       <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
       <item value="2016" />
-      <item value="parse Excel To View" />
-      <item value="invoke Head Map" />
       <item value="excel Reader" />
       <item value="No Class Def Found Error" />
       <item value="Excel Analysis Exception" />
@@ -45,21 +55,11 @@
       <item value="String" />
       <item value="Njzjdbc Table" />
       <item value="njzjdbc Table Manager" />
-      <item value="handler Finish Mapping" />
-      <item value="Slice Handler Impl" />
-      <item value="file Name" />
-      <item value="Excel Resolve" />
-      <item value="Slice Handler" />
-      <item value="merge Future File" />
-      <item value="one Key Import Index Id" />
-      <item value="ends With" />
-      <item value="to Lower Case" />
-      <item value="select File Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6143" />
-        <entry key="ENGLISH" value="6144" />
+        <entry key="CHINESE" value="6156" />
+        <entry key="ENGLISH" value="6157" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
