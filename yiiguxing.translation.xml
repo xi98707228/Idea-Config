@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Import Excel" />
+      <item value="import Excel" />
+      <item value="import File" />
       <item value="hibernate.HibernateUtils hibernate.HibernateUtils hibernate.HibernateUtils" />
       <item value="HibernateUtils HibernateUtils HibernateUtils" />
       <item value="Hibernate Utils" />
@@ -14,7 +17,6 @@
       <item value="_cells" />
       <item value="Sheet" />
       <item value="initialization Excel Component" />
-      <item value="Import Excel" />
       <item value="HSSF Workbook" />
       <item value="header Row" />
       <item value="start One Key Import Process Task" />
@@ -30,7 +32,6 @@
       <item value="njzjdbc Table Manager" />
       <item value="handler Finish Mapping" />
       <item value="Slice Handler Impl" />
-      <item value="import File" />
       <item value="file Name" />
       <item value="Excel Resolve" />
       <item value="Slice Handler" />
@@ -54,12 +55,11 @@
       <item value="slice File Path" />
       <item value="out Merge File" />
       <item value="IO Exception" />
-      <item value="Abstract Merge Slice Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6126" />
-        <entry key="ENGLISH" value="6127" />
+        <entry key="CHINESE" value="6129" />
+        <entry key="ENGLISH" value="6130" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
