@@ -5,16 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="data" />
+      <item value="100" />
+      <item value="stream" />
+      <item value="Integer" />
+      <item value="context" />
+      <item value="header Field List" />
+      <item value="request" />
+      <item value="Http Servlet Request" />
+      <item value="Njzjdbc Table" />
+      <item value="Request Param" />
+      <item value="String" />
+      <item value="Object" />
+      <item value="String Builder" />
       <item value="初始化数据库" />
       <item value="initialization Data Base" />
-      <item value="String" />
       <item value="field Name List" />
       <item value="文件的数据" />
       <item value="存储到数据表中" />
       <item value="import Excel Data To Data Base" />
       <item value="这里会一行行的返回头" />
       <item value="head Map" />
-      <item value="context" />
       <item value="relational Field Save" />
       <item value="get Column Meta Data By Table" />
       <item value="Dynamic Easy Excel Listener" />
@@ -33,8 +44,6 @@
       <item value="获取头部,取最后一次解析的列头数据" />
       <item value="excel Head Idx Name Map" />
       <item value="do Read" />
-      <item value="header Field List" />
-      <item value="data" />
       <item value="都会来调用" />
       <item value="所有数据解析完成了" />
       <item value="do After All Analysed" />
@@ -43,23 +52,14 @@
       <item value="invoke Head Map" />
       <item value="Array List" />
       <item value="这个每一条数据解析都会来调用" />
-      <item value="Integer" />
       <item value="parse Excel To View" />
       <item value="excel Data List" />
       <item value="NUMERIC" />
-      <item value="ALIGN CENTER" />
-      <item value="set File Download Header" />
-      <item value="create Cell Style" />
-      <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
-      <item value="2016" />
-      <item value="excel Reader" />
-      <item value="No Class Def Found Error" />
-      <item value="Excel Analysis Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6216" />
-        <entry key="ENGLISH" value="6216" />
+        <entry key="CHINESE" value="6228" />
+        <entry key="ENGLISH" value="6228" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
