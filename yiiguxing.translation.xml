@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="parse Row Number" />
+      <item value="set File Download Header" />
+      <item value="create Cell Style" />
+      <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
+      <item value="2016" />
+      <item value="parse Excel To View" />
+      <item value="invoke Head Map" />
+      <item value="excel Reader" />
+      <item value="No Class Def Found Error" />
+      <item value="Excel Analysis Exception" />
       <item value="do After All Analysed" />
       <item value="handle Business Logic" />
       <item value="do Read Sync" />
@@ -45,21 +55,11 @@
       <item value="select File Name" />
       <item value="请选择Excel文件" />
       <item value="SLICE INTERVAL" />
-      <item value="切片上传配置项" />
-      <item value="access Token" />
-      <item value="upload File Original Name" />
-      <item value="while" />
-      <item value="slice Handler Access Token" />
-      <item value="execute" />
-      <item value="merge Slice List" />
-      <item value="root Path" />
-      <item value="close" />
-      <item value="true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6132" />
-        <entry key="ENGLISH" value="6133" />
+        <entry key="CHINESE" value="6141" />
+        <entry key="ENGLISH" value="6142" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
