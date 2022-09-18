@@ -5,68 +5,68 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Cache of singleton objects: bean name to bean instance." />
-      <item value="singleton Factories" />
-      <item value="early Singleton Objects" />
-      <item value="singleton Objects" />
-      <item value="Return the (raw) singleton object registered under the given name. &lt;p&gt;Checks already instantiated singletons and also allows for an early reference to a currently created singleton (resolving a circular reference). @param beanName the name of the bean to look for @param allowEarlyReference whether early references should be created or not @return the registered singleton object, or {@code null} if none found" />
-      <item value="Delegating Filter Proxy" />
-      <item value="Turkey Adapter" />
-      <item value="invoke Any" />
-      <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent {@code newFixedThreadPool(1)} the returned executor is guaranteed not to be reconfigurable to use additional threads. @return the newly created single-threaded Executor" />
-      <item value="parallelism" />
-      <item value="new Work Stealing Pool" />
-      <item value="fasterxml" />
-      <item value="Duck" />
-      <item value="Wild Turkey" />
-      <item value="gobble" />
-      <item value="Turkey" />
-      <item value="quack" />
-      <item value="Default Fork Join Worker Thread Factory" />
-      <item value="OK to set this even before completion" />
-      <item value="Adaptor for Runnables. This implements RunnableFuture to be compliant with AbstractExecutorService constraints when used in ForkJoinPool." />
-      <item value="Annotation Config Reactive Web Application Context" />
-      <item value="load Bean Definitions For Bean Method" />
-      <item value="Annotation Attributes" />
-      <item value="Annotation Scope Metadata Resolver" />
-      <item value="Test Spring Bean Scope" />
-      <item value="Slf 4 j" />
-      <item value="Slice Abstract Handler" />
-      <item value="Lower Case Input Stream Decorator" />
-      <item value="read File To Lower Case" />
-      <item value="Piped Input Stream" />
-      <item value="closed By Reader" />
-      <item value="needs" />
-      <item value="write" />
-      <item value="broken" />
-      <item value="BROKEN" />
-      <item value="A piped input stream should be connected to a piped output stream; the piped input stream then provides whatever data bytes are written to the piped output stream. Typically, data is read from a &lt;code&gt;PipedInputStream&lt;code&gt; object by one thread and data is written to the corresponding &lt;code&gt;PipedOutputStream&lt;code&gt; by some other thread. Attempting to use both objects from a single thread is not recommended, as it may deadlock the thread. The piped input stream contains a buffer, decoupling read operations from write operations, within limits. A pipe is said to be &lt;a name=&quot;BROKEN&quot;&gt; &lt;i&gt;broken&lt;i&gt; &lt;a&gt; if a thread that was providing data bytes to the connected piped output stream is no longer alive." />
-      <item value="Returns the number of bytes that can be read from this input stream without blocking. @return the number of bytes that can be read from this input stream without blocking, or {@code 0} if this input stream has been closed by invoking its {@link close()} method, or if the pipe is {@link connect(java.io.PipedOutputStream) unconnected}, or &lt;a href=&quot;BROKEN&quot;&gt; &lt;code&gt;broken&lt;code&gt;&lt;a&gt;. @exception IOException if an IO error occurs. @since JDK1.0.2" />
-      <item value="await Space" />
-      <item value="DEFAULT PIPE SIZE" />
-      <item value="REMIND: identification of the read and write sides needs to be more sophisticated. Either using thread groups (but what about pipes within a thread?) or using finalization (but it may be a long time until the next GC)." />
-      <item value="James Gosling" />
-      <item value="user Ids" />
-      <item value="user Mapper" />
-      <item value="execute Remove User To Process Node" />
-      <item value="1" />
-      <item value="import File" />
-      <item value="Invalid Format Exception" />
+      <item value="data Value Iterator" />
+      <item value="values" />
+      <item value="拼接批量插入参数" />
+      <item value="data Lists" />
+      <item value="添加数据的sql" />
+      <item value="data List" />
+      <item value="tab fields" />
+      <item value="subscribable" />
+      <item value="Hibernate" />
+      <item value="annotations" />
+      <item value="prototype" />
+      <item value="Dynamic Easy Excel Import Utils" />
+      <item value="表投字段" />
+      <item value="header Field List" />
+      <item value="One Key Data Base Service" />
+      <item value="Dynamic Easy Excel Listener" />
+      <item value="one Key Data Base Service" />
+      <item value="import Excel Data To Data Base" />
+      <item value="table Exist" />
+      <item value="当前表已存在" />
+      <item value="sys Id" />
+      <item value="find By" />
+      <item value="create Table Detals" />
+      <item value="custom Configuration Table Manager" />
+      <item value="state" />
+      <item value="default Value" />
+      <item value="false" />
+      <item value="value" />
+      <item value="read Listener" />
+      <item value="parse Excel To View" />
+      <item value="set Paretid" />
+      <item value="field Name List" />
+      <item value="存储到数据表中" />
+      <item value="initialization Data Base" />
+      <item value="do After All Analysed" />
+      <item value="context" />
+      <item value="字段名列表" />
+      <item value="数据库名称" />
       <item value="data Base Name" />
-      <item value="validation Executable" />
-      <item value="table Configuration Expand" />
+      <item value="Map" />
+      <item value="table" />
+      <item value="ram generator a function which produces a new array of the desired type and the provided length @return an array containing the elements in this stream @throws ArrayStoreException if the runtime type of the array returned from the array generator is not a supertype of the runtime type of every element in this stream" />
+      <item value="size" />
+      <item value="data" />
+      <item value="100" />
+      <item value="stream" />
+      <item value="Integer" />
+      <item value="request" />
+      <item value="Http Servlet Request" />
+      <item value="Njzjdbc Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5901" />
-        <entry key="ENGLISH" value="5902" />
+        <entry key="CHINESE" value="6276" />
+        <entry key="ENGLISH" value="6277" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="12" />
+        <entry key="DANISH" value="17" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -75,7 +75,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="17" />
+        <entry key="LATIN" value="18" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
@@ -87,7 +87,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="10" />
+        <entry key="PORTUGUESE" value="11" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
@@ -98,7 +98,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
-        <entry key="HINDI" value="11" />
+        <entry key="HINDI" value="12" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663243444896" />
+    <option name="lastTrimTime" value="1663234071789" />
   </component>
 </application>
