@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cache of singleton objects: bean name to bean instance." />
+      <item value="singleton Factories" />
+      <item value="early Singleton Objects" />
+      <item value="singleton Objects" />
+      <item value="Return the (raw) singleton object registered under the given name. &lt;p&gt;Checks already instantiated singletons and also allows for an early reference to a currently created singleton (resolving a circular reference). @param beanName the name of the bean to look for @param allowEarlyReference whether early references should be created or not @return the registered singleton object, or {@code null} if none found" />
+      <item value="Delegating Filter Proxy" />
       <item value="Turkey Adapter" />
       <item value="invoke Any" />
       <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent {@code newFixedThreadPool(1)} the returned executor is guaranteed not to be reconfigurable to use additional threads. @return the newly created single-threaded Executor" />
@@ -49,17 +55,11 @@
       <item value="data Base Name" />
       <item value="validation Executable" />
       <item value="table Configuration Expand" />
-      <item value="Table Configuration Expand Controller" />
-      <item value="delete Datas" />
-      <item value="templateconfiguration" />
-      <item value="data" />
-      <item value="Excel导入" />
-      <item value="air Conditioner Warning Display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5895" />
-        <entry key="ENGLISH" value="5896" />
+        <entry key="CHINESE" value="5901" />
+        <entry key="ENGLISH" value="5902" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
