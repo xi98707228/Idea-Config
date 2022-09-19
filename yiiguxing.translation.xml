@@ -5,10 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="import Excel Data To Data Base" />
+      <item value="meta Batch Value Item" />
+      <item value="batch Values Sql" />
+      <item value="添加数据的sql" />
+      <item value="No operations allowed after statement closed." />
       <item value="append" />
       <item value="data List" />
       <item value="data Value Iterator" />
-      <item value="添加数据的sql" />
       <item value="iterator" />
       <item value="Head" />
       <item value="mapper" />
@@ -47,19 +51,15 @@
       <item value="One Key Data Base Service" />
       <item value="Dynamic Easy Excel Listener" />
       <item value="one Key Data Base Service" />
-      <item value="import Excel Data To Data Base" />
       <item value="table Exist" />
       <item value="当前表已存在" />
       <item value="sys Id" />
       <item value="find By" />
-      <item value="create Table Detals" />
-      <item value="custom Configuration Table Manager" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6323" />
-        <entry key="ENGLISH" value="6324" />
+        <entry key="CHINESE" value="6327" />
+        <entry key="ENGLISH" value="6328" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
