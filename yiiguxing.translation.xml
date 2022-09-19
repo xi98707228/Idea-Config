@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="args" />
+      <item value="适配原始的表名称" />
+      <item value="split Table Name" />
+      <item value="now Split Start Index" />
+      <item value="Split Relation Config" />
+      <item value="split Table Counter" />
+      <item value="return Adapter Original Data List" />
+      <item value="Array List" />
+      <item value="original Table Name" />
+      <item value="当前批量处理的数据列表" />
+      <item value="Map" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="split Table Insert Data List Map" />
+      <item value="Split Data Resolver" />
+      <item value="那么就采取不同策略" />
+      <item value="如果字段数量超过阈值" />
+      <item value="field Name List" />
+      <item value="batch Insert" />
+      <item value="Integer" />
+      <item value="import Data List" />
+      <item value="batch Execute Split Data Base Table" />
+      <item value="List" />
+      <item value="import Excel Data List" />
+      <item value="one Key Import Process Error" />
+      <item value="batch Insert List" />
+      <item value="field Lists" />
+      <item value="header Field List" />
+      <item value="Override" />
+      <item value="data List" />
+      <item value="sync Table" />
+      <item value="save" />
+      <item value="split Table Field Map" />
       <item value="sync System Manage Lists" />
-      <item value="create Table" />
+      <item value="和字段" />
+      <item value="创建拆分出来的数据库表" />
+      <item value="原始的首段" />
+      <item value="SQL Exception" />
+      <item value="first Original Table Field" />
+      <item value="字段映射关系" />
+      <item value="sync Table Name" />
+      <item value="selection Field List" />
       <item value="njzjdbc Table Manager" />
+      <item value="initialization Data Base" />
+      <item value="create Table" />
       <item value="唯一构造" />
       <item value="original Field List" />
       <item value="传进来原表头" />
-      <item value="Split Data Resolver" />
-      <item value="创建拆分出来的数据库表" />
-      <item value="原始的首段" />
-      <item value="batch Execute Split Data Base Table" />
-      <item value="first Original Table Field" />
       <item value="Manager" />
       <item value="表字段管理台账数据信息" />
       <item value="适配系统中的" />
-      <item value="operate System Table" />
-      <item value="SPLIT BATCH INSERT THRESHOLD" />
-      <item value="selection Field List" />
-      <item value="同步系统管理列表" />
-      <item value="sync System Manager Lists" />
-      <item value="sync System Lists Manage" />
-      <item value="first Original Table" />
-      <item value="split Table Name Map" />
-      <item value="split Table Counter" />
-      <item value="batch Executor Split Data Base Table" />
-      <item value="batch Create Split Data Base Table" />
-      <item value="import Excel Data List" />
-      <item value="get" />
-      <item value="field Name List" />
-      <item value="Table Columns Too More" />
-      <item value="batch Create Data Base Table" />
-      <item value="Njzjdbc Table" />
-      <item value="已创建" />
-      <item value="set Sstate" />
-      <item value="initialization Data Base" />
-      <item value="head List" />
-      <item value="one Key Data Base Service" />
-      <item value="One Key Data Base Service" />
-      <item value="分割表名称分区的" />
-      <item value="split Table Field Map" />
-      <item value="original Table Name" />
-      <item value="String" />
-      <item value="now Split Start Index" />
-      <item value="size" />
-      <item value="Instrumentation Impl" />
-      <item value="transform" />
-      <item value="initialization Prototype" />
-      <item value="Split Relation Config" />
-      <item value="Partition" />
-      <item value="Random Access Partition" />
-      <item value="initialization Table Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6503" />
-        <entry key="ENGLISH" value="6504" />
+        <entry key="CHINESE" value="6566" />
+        <entry key="ENGLISH" value="6567" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
