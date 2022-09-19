@@ -5,7 +5,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="append" />
       <item value="data List" />
+      <item value="data Value Iterator" />
+      <item value="添加数据的sql" />
+      <item value="iterator" />
+      <item value="Head" />
+      <item value="mapper" />
+      <item value="always" />
+      <item value="identity" />
+      <item value="to List" />
+      <item value="Collectors" />
+      <item value="collect" />
+      <item value="convert Insert Value" />
+      <item value="Object" />
       <item value="&lt;P&gt;The constant in the Java programming language that identifies the generic SQL value &lt;code&gt;NULL&lt;code&gt;." />
       <item value="EMPTY" />
       <item value="String Utils" />
@@ -13,12 +26,9 @@
       <item value="equals" />
       <item value="val" />
       <item value="NULL" />
-      <item value="collect" />
       <item value="return" />
-      <item value="convert Insert Value" />
       <item value="Collection" />
       <item value="has Next" />
-      <item value="data Value Iterator" />
       <item value="value" />
       <item value="collection Iterator" />
       <item value="sql" />
@@ -26,7 +36,6 @@
       <item value="values" />
       <item value="拼接批量插入参数" />
       <item value="data Lists" />
-      <item value="添加数据的sql" />
       <item value="tab fields" />
       <item value="subscribable" />
       <item value="Hibernate" />
@@ -46,20 +55,11 @@
       <item value="create Table Detals" />
       <item value="custom Configuration Table Manager" />
       <item value="state" />
-      <item value="default Value" />
-      <item value="false" />
-      <item value="read Listener" />
-      <item value="parse Excel To View" />
-      <item value="set Paretid" />
-      <item value="field Name List" />
-      <item value="存储到数据表中" />
-      <item value="initialization Data Base" />
-      <item value="do After All Analysed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6310" />
-        <entry key="ENGLISH" value="6311" />
+        <entry key="CHINESE" value="6323" />
+        <entry key="ENGLISH" value="6324" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
