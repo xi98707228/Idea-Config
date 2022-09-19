@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="split Table Counter" />
+      <item value="batch Execute Split Data Base Table" />
+      <item value="batch Executor Split Data Base Table" />
+      <item value="batch Create Split Data Base Table" />
+      <item value="import Excel Data List" />
+      <item value="get" />
+      <item value="njzjdbc Table Manager" />
+      <item value="field Name List" />
+      <item value="Table Columns Too More" />
+      <item value="batch Create Data Base Table" />
+      <item value="create Table" />
       <item value="Njzjdbc Table" />
-      <item value="set Cretime" />
-      <item value="now Date" />
-      <item value="tab fields" />
-      <item value="length" />
-      <item value="DEFAULT" />
-      <item value="Too many columns" />
-      <item value="varchar" />
-      <item value="16" />
-      <item value="Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOB" />
-      <item value="Invalid Format Exception" />
-      <item value="B 6671_20190201092924" />
-      <item value="Request Method" />
-      <item value="SYS ID THREAD LOCAL" />
+      <item value="已创建" />
+      <item value="set Sstate" />
+      <item value="initialization Data Base" />
       <item value="head List" />
-      <item value="data List" />
-      <item value="header Field List" />
-      <item value="100" />
-      <item value="Analysis" />
-      <item value="Analysis Event Listener" />
-      <item value="one Key Import Process Error" />
-      <item value="operate System Table" />
-      <item value="import Excel Data To Data Base" />
-      <item value="meta Batch Value Item" />
-      <item value="batch Values Sql" />
-      <item value="添加数据的sql" />
-      <item value="No operations allowed after statement closed." />
-      <item value="append" />
-      <item value="data Value Iterator" />
-      <item value="iterator" />
-      <item value="Head" />
-      <item value="mapper" />
-      <item value="always" />
-      <item value="identity" />
-      <item value="to List" />
-      <item value="Collectors" />
-      <item value="collect" />
-      <item value="convert Insert Value" />
-      <item value="Object" />
-      <item value="&lt;P&gt;The constant in the Java programming language that identifies the generic SQL value &lt;code&gt;NULL&lt;code&gt;." />
-      <item value="EMPTY" />
-      <item value="String Utils" />
-      <item value="null" />
-      <item value="equals" />
-      <item value="val" />
-      <item value="NULL" />
-      <item value="return" />
-      <item value="Collection" />
-      <item value="has Next" />
-      <item value="value" />
+      <item value="one Key Data Base Service" />
+      <item value="One Key Data Base Service" />
+      <item value="分割表名称分区的" />
+      <item value="split Table Name Map" />
+      <item value="split Table Field Map" />
+      <item value="original Table Name" />
+      <item value="String" />
+      <item value="now Split Start Index" />
+      <item value="original Field List" />
+      <item value="size" />
+      <item value="唯一构造" />
+      <item value="Instrumentation Impl" />
+      <item value="transform" />
+      <item value="initialization Prototype" />
+      <item value="Split Relation Config" />
+      <item value="Partition" />
+      <item value="Random Access Partition" />
+      <item value="initialization Table Field" />
+      <item value="spliterator" />
+      <item value="Creates a {@link Spliterator} over the elements in this list. &lt;p&gt;The {@code Spliterator} reports {@link SpliteratorSIZED} and {@link SpliteratorORDERED}. Implementations should document the reporting of additional characteristic values. @implSpec The default implementation creates a &lt;em&gt;&lt;a href=&quot;Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;&lt;em&gt; spliterator from the list's {@code Iterator}. The spliterator inherits the &lt;em&gt;fail-fast&lt;em&gt; properties of the list's iterator. @implNote The created {@code Spliterator} additionally reports {@link SpliteratorSUBSIZED}. @return a {@code Spliterator} over the elements in this list @since 1.8" />
+      <item value="characteristics" />
+      <item value="try Split" />
+      <item value="Array List Spliterator" />
+      <item value="get Fence" />
+      <item value="expected Mod Count" />
+      <item value="fence" />
+      <item value="try Advance" />
+      <item value="List" />
+      <item value="Njzjdbc Table Manager" />
+      <item value="get Bean" />
+      <item value="Spring Util" />
+      <item value="分割表计数器" />
+      <item value="SPLIT BATCH INSERT THRESHOLD" />
+      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6349" />
-        <entry key="ENGLISH" value="6350" />
+        <entry key="CHINESE" value="6482" />
+        <entry key="ENGLISH" value="6483" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
