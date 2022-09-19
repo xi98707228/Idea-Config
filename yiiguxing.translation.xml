@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Njzjdbc Table" />
+      <item value="set Cretime" />
+      <item value="now Date" />
+      <item value="tab fields" />
+      <item value="length" />
+      <item value="DEFAULT" />
       <item value="Too many columns" />
       <item value="varchar" />
       <item value="16" />
@@ -49,17 +55,11 @@
       <item value="Collection" />
       <item value="has Next" />
       <item value="value" />
-      <item value="collection Iterator" />
-      <item value="sql" />
-      <item value="import File The Insert Data List" />
-      <item value="values" />
-      <item value="拼接批量插入参数" />
-      <item value="data Lists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6341" />
-        <entry key="ENGLISH" value="6342" />
+        <entry key="CHINESE" value="6349" />
+        <entry key="ENGLISH" value="6350" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
