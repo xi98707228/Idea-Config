@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Too many columns" />
+      <item value="varchar" />
+      <item value="16" />
       <item value="Row size too large. The maximum row size for the used table type, not counting BLOBs, is 65535. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOB" />
       <item value="Invalid Format Exception" />
       <item value="B 6671_20190201092924" />
@@ -52,14 +55,11 @@
       <item value="values" />
       <item value="拼接批量插入参数" />
       <item value="data Lists" />
-      <item value="tab fields" />
-      <item value="subscribable" />
-      <item value="Hibernate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6339" />
-        <entry key="ENGLISH" value="6340" />
+        <entry key="CHINESE" value="6341" />
+        <entry key="ENGLISH" value="6342" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
