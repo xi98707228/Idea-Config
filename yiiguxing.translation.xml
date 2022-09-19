@@ -5,12 +5,28 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="data List" />
+      <item value="&lt;P&gt;The constant in the Java programming language that identifies the generic SQL value &lt;code&gt;NULL&lt;code&gt;." />
+      <item value="EMPTY" />
+      <item value="String Utils" />
+      <item value="null" />
+      <item value="equals" />
+      <item value="val" />
+      <item value="NULL" />
+      <item value="collect" />
+      <item value="return" />
+      <item value="convert Insert Value" />
+      <item value="Collection" />
+      <item value="has Next" />
       <item value="data Value Iterator" />
+      <item value="value" />
+      <item value="collection Iterator" />
+      <item value="sql" />
+      <item value="import File The Insert Data List" />
       <item value="values" />
       <item value="拼接批量插入参数" />
       <item value="data Lists" />
       <item value="添加数据的sql" />
-      <item value="data List" />
       <item value="tab fields" />
       <item value="subscribable" />
       <item value="Hibernate" />
@@ -32,7 +48,6 @@
       <item value="state" />
       <item value="default Value" />
       <item value="false" />
-      <item value="value" />
       <item value="read Listener" />
       <item value="parse Excel To View" />
       <item value="set Paretid" />
@@ -40,26 +55,11 @@
       <item value="存储到数据表中" />
       <item value="initialization Data Base" />
       <item value="do After All Analysed" />
-      <item value="context" />
-      <item value="字段名列表" />
-      <item value="数据库名称" />
-      <item value="data Base Name" />
-      <item value="Map" />
-      <item value="table" />
-      <item value="ram generator a function which produces a new array of the desired type and the provided length @return an array containing the elements in this stream @throws ArrayStoreException if the runtime type of the array returned from the array generator is not a supertype of the runtime type of every element in this stream" />
-      <item value="size" />
-      <item value="data" />
-      <item value="100" />
-      <item value="stream" />
-      <item value="Integer" />
-      <item value="request" />
-      <item value="Http Servlet Request" />
-      <item value="Njzjdbc Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6276" />
-        <entry key="ENGLISH" value="6277" />
+        <entry key="CHINESE" value="6310" />
+        <entry key="ENGLISH" value="6311" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
