@@ -5,17 +5,36 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="split Table Counter" />
+      <item value="sync System Manage Lists" />
+      <item value="create Table" />
+      <item value="njzjdbc Table Manager" />
+      <item value="唯一构造" />
+      <item value="original Field List" />
+      <item value="传进来原表头" />
+      <item value="Split Data Resolver" />
+      <item value="创建拆分出来的数据库表" />
+      <item value="原始的首段" />
       <item value="batch Execute Split Data Base Table" />
+      <item value="first Original Table Field" />
+      <item value="Manager" />
+      <item value="表字段管理台账数据信息" />
+      <item value="适配系统中的" />
+      <item value="operate System Table" />
+      <item value="SPLIT BATCH INSERT THRESHOLD" />
+      <item value="selection Field List" />
+      <item value="同步系统管理列表" />
+      <item value="sync System Manager Lists" />
+      <item value="sync System Lists Manage" />
+      <item value="first Original Table" />
+      <item value="split Table Name Map" />
+      <item value="split Table Counter" />
       <item value="batch Executor Split Data Base Table" />
       <item value="batch Create Split Data Base Table" />
       <item value="import Excel Data List" />
       <item value="get" />
-      <item value="njzjdbc Table Manager" />
       <item value="field Name List" />
       <item value="Table Columns Too More" />
       <item value="batch Create Data Base Table" />
-      <item value="create Table" />
       <item value="Njzjdbc Table" />
       <item value="已创建" />
       <item value="set Sstate" />
@@ -24,14 +43,11 @@
       <item value="one Key Data Base Service" />
       <item value="One Key Data Base Service" />
       <item value="分割表名称分区的" />
-      <item value="split Table Name Map" />
       <item value="split Table Field Map" />
       <item value="original Table Name" />
       <item value="String" />
       <item value="now Split Start Index" />
-      <item value="original Field List" />
       <item value="size" />
-      <item value="唯一构造" />
       <item value="Instrumentation Impl" />
       <item value="transform" />
       <item value="initialization Prototype" />
@@ -39,27 +55,11 @@
       <item value="Partition" />
       <item value="Random Access Partition" />
       <item value="initialization Table Field" />
-      <item value="spliterator" />
-      <item value="Creates a {@link Spliterator} over the elements in this list. &lt;p&gt;The {@code Spliterator} reports {@link SpliteratorSIZED} and {@link SpliteratorORDERED}. Implementations should document the reporting of additional characteristic values. @implSpec The default implementation creates a &lt;em&gt;&lt;a href=&quot;Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;&lt;em&gt; spliterator from the list's {@code Iterator}. The spliterator inherits the &lt;em&gt;fail-fast&lt;em&gt; properties of the list's iterator. @implNote The created {@code Spliterator} additionally reports {@link SpliteratorSUBSIZED}. @return a {@code Spliterator} over the elements in this list @since 1.8" />
-      <item value="characteristics" />
-      <item value="try Split" />
-      <item value="Array List Spliterator" />
-      <item value="get Fence" />
-      <item value="expected Mod Count" />
-      <item value="fence" />
-      <item value="try Advance" />
-      <item value="List" />
-      <item value="Njzjdbc Table Manager" />
-      <item value="get Bean" />
-      <item value="Spring Util" />
-      <item value="分割表计数器" />
-      <item value="SPLIT BATCH INSERT THRESHOLD" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6482" />
-        <entry key="ENGLISH" value="6483" />
+        <entry key="CHINESE" value="6503" />
+        <entry key="ENGLISH" value="6504" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
