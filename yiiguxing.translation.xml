@@ -5,6 +5,40 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rawtypes" />
+      <item value="Suppress Warnings" />
+      <item value="就是为了让原本不兼容的接口变成" />
+      <item value="987072248" />
+      <item value="Enumeration Iterator Adapter" />
+      <item value="enumeration" />
+      <item value="Iterable" />
+      <item value="需要将旧版本中的枚举器" />
+      <item value="迭代器方法" />
+      <item value="和老版本的" />
+      <item value="进行适配" />
+      <item value="elements" />
+      <item value="Completion Stage" />
+      <item value="Exception thrown when an error or other exception is encountered in the course of completing a result or task." />
+      <item value="Completion Exception" />
+      <item value="Parameterized Type Reference" />
+      <item value="The purpose of this class is to enable capturing and passing a generic {@link Type}. In order to capture the generic type and retain it at runtime, you need to create a subclass (ideally as anonymous inline class) as follows:" />
+      <item value="parameterized" />
+      <item value="p&gt;The resulting {@code typeRef} instance can then be used to obtain a {@link Type} instance that carries the captured parameterized type information at runtime. For more information on &quot;super type tokens&quot; see the link to Neal Gafter's blog post." />
+      <item value="Neal Gafter" />
+      <item value="Mark Reinhold" />
+      <item value="Joshua Bloch" />
+      <item value="TYPE USE" />
+      <item value="TYPE PARAMETER" />
+      <item value="The characteristics of Spliterators that traverse and split elements maintained in Buffers." />
+      <item value="SPLITERATOR CHARACTERISTICS" />
+      <item value="lo Tail" />
+      <item value="hi Tail" />
+      <item value="结论: 1. 适配器模式 就是为了让原本不兼容的接口变成 可兼容的 ， 这样可以让原来的 耦合的双方因中间加了个适配器而解耦 ， 适配代码都在适配器里边 2. 对象适配器 - 和类适配器 - (组合)对象适配器就是我们常用的 将不兼容的接口或者抽象 变为可兼容新系统的方式 - (继承)类适配器就是 通过 将适配器同时继承 A 和 B 让其拥有同时适配这两种行为的方式 (但Java不支持多继承)" />
+      <item value="适配器" />
+      <item value="外观模式" />
+      <item value="适配器 和" />
+      <item value="变为可兼容新系统的方式" />
+      <item value="将适配器同时继承" />
       <item value="data Value Iterator" />
       <item value="values" />
       <item value="拼接批量插入参数" />
@@ -21,45 +55,11 @@
       <item value="header Field List" />
       <item value="One Key Data Base Service" />
       <item value="Dynamic Easy Excel Listener" />
-      <item value="one Key Data Base Service" />
-      <item value="import Excel Data To Data Base" />
-      <item value="table Exist" />
-      <item value="当前表已存在" />
-      <item value="sys Id" />
-      <item value="find By" />
-      <item value="create Table Detals" />
-      <item value="custom Configuration Table Manager" />
-      <item value="state" />
-      <item value="default Value" />
-      <item value="false" />
-      <item value="value" />
-      <item value="read Listener" />
-      <item value="parse Excel To View" />
-      <item value="set Paretid" />
-      <item value="field Name List" />
-      <item value="存储到数据表中" />
-      <item value="initialization Data Base" />
-      <item value="do After All Analysed" />
-      <item value="context" />
-      <item value="字段名列表" />
-      <item value="数据库名称" />
-      <item value="data Base Name" />
-      <item value="Map" />
-      <item value="table" />
-      <item value="ram generator a function which produces a new array of the desired type and the provided length @return an array containing the elements in this stream @throws ArrayStoreException if the runtime type of the array returned from the array generator is not a supertype of the runtime type of every element in this stream" />
-      <item value="size" />
-      <item value="data" />
-      <item value="100" />
-      <item value="stream" />
-      <item value="Integer" />
-      <item value="request" />
-      <item value="Http Servlet Request" />
-      <item value="Njzjdbc Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6276" />
-        <entry key="ENGLISH" value="6277" />
+        <entry key="CHINESE" value="6313" />
+        <entry key="ENGLISH" value="6314" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
