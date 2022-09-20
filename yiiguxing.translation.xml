@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="primitive" />
+      <item value="Visitable" />
+      <item value="V Paper" />
       <item value="run If Async Not Complete" />
       <item value="Handler Result Subscriber" />
       <item value="Coyote Input Stream" />
@@ -52,14 +55,11 @@
       <item value="data Lists" />
       <item value="添加数据的sql" />
       <item value="data List" />
-      <item value="tab fields" />
-      <item value="subscribable" />
-      <item value="Hibernate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6320" />
-        <entry key="ENGLISH" value="6321" />
+        <entry key="CHINESE" value="6322" />
+        <entry key="ENGLISH" value="6323" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -94,7 +94,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="12" />
+        <entry key="SPANISH" value="13" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663234071789" />
+    <option name="lastTrimTime" value="1663681503656" />
   </component>
 </application>
