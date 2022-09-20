@@ -1,29 +1,34 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="args" />
-      <item value="适配原始的表名称" />
-      <item value="split Table Name" />
-      <item value="now Split Start Index" />
-      <item value="Split Relation Config" />
+      <item value="batch Inset Value" />
+      <item value="然后" />
       <item value="split Table Counter" />
+      <item value="index Data Map" />
+      <item value="original Table Name" />
+      <item value="next Split Start Index" />
+      <item value="now Split Start Index" />
+      <item value="返回原始数据表数据" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="split Table Name" />
+      <item value="适配原始的表名称" />
+      <item value="Integer" />
+      <item value="args" />
+      <item value="Split Relation Config" />
       <item value="return Adapter Original Data List" />
       <item value="Array List" />
-      <item value="original Table Name" />
       <item value="当前批量处理的数据列表" />
       <item value="Map" />
-      <item value="batch Execute Split Insert Data Base Values" />
       <item value="split Table Insert Data List Map" />
       <item value="Split Data Resolver" />
       <item value="那么就采取不同策略" />
       <item value="如果字段数量超过阈值" />
       <item value="field Name List" />
       <item value="batch Insert" />
-      <item value="Integer" />
       <item value="import Data List" />
       <item value="batch Execute Split Data Base Table" />
       <item value="List" />
@@ -50,16 +55,11 @@
       <item value="initialization Data Base" />
       <item value="create Table" />
       <item value="唯一构造" />
-      <item value="original Field List" />
-      <item value="传进来原表头" />
-      <item value="Manager" />
-      <item value="表字段管理台账数据信息" />
-      <item value="适配系统中的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6566" />
-        <entry key="ENGLISH" value="6567" />
+        <entry key="CHINESE" value="6586" />
+        <entry key="ENGLISH" value="6585" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
