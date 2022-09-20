@@ -5,6 +5,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Compute smallest power of 2 &gt; minCapacity" />
+      <item value="ensure Capacity" />
+      <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
+      <item value="gallop Right" />
+      <item value="Josh Bloch" />
+      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
+      <item value="The invariants still hold: pivot &gt;= all in [lo, left) and pivot &lt; all in [left, start), so pivot belongs at left. Note that if there are elements equal to pivot, left points to the first slot after them -- that's why this sort is stable. Slide elements over to make room for pivot." />
+      <item value="binary Sort" />
+      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators. &lt;p&gt;If you are using an optimizing VM, you may find that ComparableTimSort offers no performance benefit over TimSort in conjunction with a comparator that simply returns {@code ((Comparable)first).compareTo(Second)}. If this is the case, you are better off deleting ComparableTimSort to eliminate the code duplication. (See Arrays.java for details.)" />
+      <item value="Comparable Tim Sort" />
+      <item value="QUICKSORT THRESHOLD" />
+      <item value="Index run[i] is the start of i-th run (ascending or descending sequence)." />
+      <item value="Use Quicksort on small arrays" />
+      <item value="middle" />
+      <item value="middle Value" />
+      <item value="Move negative zeros to the beginning of the sub-range." />
+      <item value="This class implements the Dual-Pivot Quicksort algorithm by Vladimir Yaroslavskiy, Jon Bentley, and Josh Bloch. The algorithm offers O(n log(n)) performance on many data sets that cause other quicksorts to degrade to quadratic performance, and is typically faster than traditional (one-pivot) Quicksort implementations. All exposed methods are package-private, designed to be invoked from public methods (in class Arrays) after performing any necessary array bounds checks and expanding parameters into the required forms." />
+      <item value="quartiles" />
+      <item value="Relay" />
+      <item value="Dual Pivot Quicksort" />
+      <item value="parallel Sort" />
       <item value="primitive" />
       <item value="Visitable" />
       <item value="V Paper" />
@@ -34,32 +55,11 @@
       <item value="The purpose of this class is to enable capturing and passing a generic {@link Type}. In order to capture the generic type and retain it at runtime, you need to create a subclass (ideally as anonymous inline class) as follows:" />
       <item value="parameterized" />
       <item value="p&gt;The resulting {@code typeRef} instance can then be used to obtain a {@link Type} instance that carries the captured parameterized type information at runtime. For more information on &quot;super type tokens&quot; see the link to Neal Gafter's blog post." />
-      <item value="Neal Gafter" />
-      <item value="Mark Reinhold" />
-      <item value="Joshua Bloch" />
-      <item value="TYPE USE" />
-      <item value="TYPE PARAMETER" />
-      <item value="The characteristics of Spliterators that traverse and split elements maintained in Buffers." />
-      <item value="SPLITERATOR CHARACTERISTICS" />
-      <item value="lo Tail" />
-      <item value="hi Tail" />
-      <item value="结论: 1. 适配器模式 就是为了让原本不兼容的接口变成 可兼容的 ， 这样可以让原来的 耦合的双方因中间加了个适配器而解耦 ， 适配代码都在适配器里边 2. 对象适配器 - 和类适配器 - (组合)对象适配器就是我们常用的 将不兼容的接口或者抽象 变为可兼容新系统的方式 - (继承)类适配器就是 通过 将适配器同时继承 A 和 B 让其拥有同时适配这两种行为的方式 (但Java不支持多继承)" />
-      <item value="适配器" />
-      <item value="外观模式" />
-      <item value="适配器 和" />
-      <item value="变为可兼容新系统的方式" />
-      <item value="将适配器同时继承" />
-      <item value="data Value Iterator" />
-      <item value="values" />
-      <item value="拼接批量插入参数" />
-      <item value="data Lists" />
-      <item value="添加数据的sql" />
-      <item value="data List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6322" />
-        <entry key="ENGLISH" value="6323" />
+        <entry key="CHINESE" value="6344" />
+        <entry key="ENGLISH" value="6345" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
