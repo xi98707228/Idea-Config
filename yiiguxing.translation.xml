@@ -1,65 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Exception" />
+      <item value="res List" />
+      <item value="table Name" />
+      <item value="Map" />
+      <item value="execute Calculate" />
+      <item value="query List" />
+      <item value="Calculate" />
+      <item value="calculate Value" />
+      <item value="Hash Map" />
+      <item value="as List" />
+      <item value="data Handle Vo" />
+      <item value="before Calculate" />
+      <item value="hibernate" />
+      <item value="Hibernate Utils" />
+      <item value="FROM" />
+      <item value="String" />
+      <item value="get Table Name" />
+      <item value="get Select Fields" />
+      <item value="set Original List" />
+      <item value="missing Value Vo" />
+      <item value="current List" />
+      <item value="Jdbc Util" />
+      <item value="Missing Value Vo" />
+      <item value="data Handle Type" />
+      <item value="MISSING VALUE" />
+      <item value="Data Handle Type" />
+      <item value="Override" />
+      <item value="Data Handle Vo" />
+      <item value="Request Mapping" />
+      <item value="customconfigurationquery.persistence.manager" />
+      <item value="customconfigurationquery" />
+      <item value="get Column Meta Data By Table" />
+      <item value="column List" />
+      <item value="for Each" />
+      <item value="option" />
+      <item value="The constant indicating the concurrency mode for a &lt;code&gt;ResultSet&lt;code&gt; object that may NOT be updated. @since 1.2" />
+      <item value="The constant indicating the type for a &lt;code&gt;ResultSet&lt;code&gt; object that is scrollable but generally not sensitive to changes to the data that underlies the &lt;code&gt;ResultSet&lt;code&gt;. @since 1.2" />
+      <item value="handle" />
+      <item value="original List" />
+      <item value="Missing Value Service" />
+      <item value="Abnormal Value Service" />
+      <item value="get Data By Primary" />
+      <item value="data By Primary" />
+      <item value="证明当前要编辑" />
+      <item value="Njzjdbc Table" />
+      <item value="tablename" />
       <item value="close Split Resolver" />
       <item value="null" />
       <item value="file Output Stream" />
       <item value="file Input Stream" />
-      <item value="slice Source Path" />
-      <item value="import Excel Data To Data Base" />
-      <item value="Filter Reply" />
-      <item value="excute Ps" />
-      <item value="No value specified for parameter 1" />
-      <item value="njzjdbc Table Manager" />
-      <item value="sync Table" />
-      <item value="No operations allowed after connection closed." />
-      <item value="import Data List" />
-      <item value="jdbc Template" />
-      <item value="batch Insert" />
-      <item value="index Data Map" />
-      <item value="split Table Field Map" />
-      <item value="batch Execute Split Data Base Table" />
-      <item value="create Table" />
-      <item value="original Table Name" />
-      <item value="is Empty" />
-      <item value="return" />
-      <item value="execute Data Base Thread Pool" />
-      <item value="table Name" />
-      <item value="和字段" />
-      <item value="创建拆分出来的数据库表" />
-      <item value="table Fields Map" />
-      <item value="get Value" />
-      <item value="Jdbc Util" />
-      <item value="split Table Counter" />
-      <item value="适配原始的表名称" />
-      <item value="test big data" />
-      <item value="Loaded classes are up to date. Nothing to reload." />
-      <item value="@param fromIndex low endpoint (inclusive) of the subList @param toIndex high endpoint (exclusive) of the subList @return a view of the specified range within this list @throws IndexOutOfBoundsException for an illegal endpoint index value (&lt;tt&gt;fromIndex &amp;lt; 0 || toIndex &amp;gt; size || fromIndex &amp;gt; toIndex&lt;tt&gt;)" />
-      <item value="original Field List" />
-      <item value="Njzjdbc Table" />
-      <item value="sub List" />
-      <item value="SPLIT TABLE FIELD THRESHOLD" />
-      <item value="now Split Start Index" />
-      <item value="next Split Start Index" />
-      <item value="Split Relation Config" />
-      <item value="insert Item" />
-      <item value="values" />
-      <item value="copy Highest Count First" />
-      <item value="依次到" />
-      <item value="然后" />
-      <item value="Array List" />
-      <item value="batch Inset Value" />
-      <item value="integer String Entry" />
-      <item value="Comparable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6687" />
-        <entry key="ENGLISH" value="6688" />
+        <entry key="CHINESE" value="6776" />
+        <entry key="ENGLISH" value="6777" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
