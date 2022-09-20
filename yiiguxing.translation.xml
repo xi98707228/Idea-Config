@@ -4,14 +4,25 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="verify Effective Double" />
+      <item value="is Na N" />
+      <item value="最可能为总容量的" />
       <item value="record Error Index" />
+      <item value="column Value" />
+      <item value="original List" />
+      <item value="Column Of Data" />
+      <item value="Column Resolver Data" />
+      <item value="verify Effective Double" />
+      <item value="start Value" />
+      <item value="result Column Data" />
+      <item value="completable Calculate And Replace" />
+      <item value="start Index" />
+      <item value="end Index" />
+      <item value="completable Calculate" />
       <item value="column Values" />
       <item value="size" />
       <item value="column Size" />
       <item value="25" />
       <item value="Objects" />
-      <item value="end Index" />
       <item value="Maximum exponent a finite {@code double} variable may have. It is equal to the value returned by {@code Math.getExponent(Double.MAX_VALUE)}." />
       <item value="MAX EXPONENT" />
       <item value="is Null" />
@@ -19,15 +30,12 @@
       <item value="completable" />
       <item value="complate" />
       <item value="execute Calculate" />
-      <item value="start Index" />
       <item value="Boolean" />
       <item value="Short" />
-      <item value="column Value" />
       <item value="verify Data" />
       <item value="to String" />
       <item value="verify Effective" />
       <item value="short" />
-      <item value="result Column Data" />
       <item value="column Value Error Index" />
       <item value="parse Double" />
       <item value="Float" />
@@ -41,24 +49,16 @@
       <item value="Array List" />
       <item value="Missing Value Vo" />
       <item value="current List" />
-      <item value="original List" />
-      <item value="Column Of Data" />
       <item value="calculate Result List" />
       <item value="column Of Data" />
       <item value="Object" />
       <item value="String" />
       <item value="column Name" />
-      <item value="column Of Data List" />
-      <item value="Calculate" />
-      <item value="Returns the current value of synchronization state. This operation has memory semantics of a {@code volatile} read. @return current state value" />
-      <item value="Decrements the count of the latch, releasing all waiting threads if the count reaches zero. &lt;p&gt;If the current count is greater than zero then it is decremented. If the new count is zero then all waiting threads are re-enabled for thread scheduling purposes. &lt;p&gt;If the current count equals zero then nothing happens." />
-      <item value="count Down" />
-      <item value="The empty list (immutable). This list is serializable. @see emptyList()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6907" />
-        <entry key="ENGLISH" value="6908" />
+        <entry key="CHINESE" value="6926" />
+        <entry key="ENGLISH" value="6926" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -96,6 +96,7 @@
         <entry key="SPANISH" value="12" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
+        <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="4" />
