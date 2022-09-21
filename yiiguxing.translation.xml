@@ -4,25 +4,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Value" />
+      <item value="Double" />
+      <item value="未发生异常" />
+      <item value="添加本次的开始值" />
+      <item value="column Size" />
+      <item value="verify Effective Double" />
+      <item value="get" />
+      <item value="verify Effective" />
+      <item value="record Error Index" />
+      <item value="column Values" />
+      <item value="Objects" />
+      <item value="continue" />
+      <item value="5" />
+      <item value="12" />
+      <item value="3" />
+      <item value="Na N" />
       <item value="is Na N" />
       <item value="最可能为总容量的" />
-      <item value="record Error Index" />
       <item value="column Value" />
       <item value="original List" />
       <item value="Column Of Data" />
       <item value="Column Resolver Data" />
-      <item value="verify Effective Double" />
-      <item value="start Value" />
       <item value="result Column Data" />
       <item value="completable Calculate And Replace" />
       <item value="start Index" />
       <item value="end Index" />
       <item value="completable Calculate" />
-      <item value="column Values" />
       <item value="size" />
-      <item value="column Size" />
       <item value="25" />
-      <item value="Objects" />
       <item value="Maximum exponent a finite {@code double} variable may have. It is equal to the value returned by {@code Math.getExponent(Double.MAX_VALUE)}." />
       <item value="MAX EXPONENT" />
       <item value="is Null" />
@@ -34,7 +44,6 @@
       <item value="Short" />
       <item value="verify Data" />
       <item value="to String" />
-      <item value="verify Effective" />
       <item value="short" />
       <item value="column Value Error Index" />
       <item value="parse Double" />
@@ -42,23 +51,14 @@
       <item value="verify Flag" />
       <item value="compile" />
       <item value="parse Float" />
-      <item value="continue" />
       <item value="column Data" />
       <item value="current Index" />
       <item value="this" />
-      <item value="Array List" />
-      <item value="Missing Value Vo" />
-      <item value="current List" />
-      <item value="calculate Result List" />
-      <item value="column Of Data" />
-      <item value="Object" />
-      <item value="String" />
-      <item value="column Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6926" />
-        <entry key="ENGLISH" value="6926" />
+        <entry key="CHINESE" value="6967" />
+        <entry key="ENGLISH" value="6968" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -96,7 +96,7 @@
         <entry key="SPANISH" value="12" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="IGBO" value="1" />
+        <entry key="IGBO" value="2" />
         <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="4" />
@@ -107,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663234071789" />
+    <option name="lastTrimTime" value="1663723769851" />
   </component>
 </application>
