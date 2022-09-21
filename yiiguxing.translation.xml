@@ -5,32 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="step 01 Comparable Student Beans" />
-      <item value="Uni Relay" />
-      <item value="Asynchronous Completion Task" />
-      <item value="Completion" />
-      <item value="The argument supplied to the current call to java.util.concurrent.locks.LockSupport.park. Set by (private) java.util.concurrent.locks.LockSupport.setBlocker Accessed using java.util.concurrent.locks.LockSupport.getBlocker" />
-      <item value="park Nanos" />
-      <item value="A {@link Future} that may be explicitly completed (setting its value and status), and may be used as a {@link CompletionStage}, supporting dependent functions and actions that trigger upon its completion. &lt;p&gt;When two or more threads attempt to {@link complete complete}, {@link completeExceptionally completeExceptionally}, or {@link cancel cancel} a CompletableFuture, only one of them succeeds. &lt;p&gt;In addition to these and related methods for directly manipulating status and results, CompletableFuture implements interface {@link CompletionStage} with the following policies: &lt;ul&gt; &lt;li&gt;Actions supplied for dependent completions of &lt;em&gt;non-async&lt;em&gt; methods may be performed by the thread that completes the current CompletableFuture, or by any other caller of a completion method.&lt;li&gt; &lt;li&gt;All &lt;em&gt;async&lt;em&gt; methods without an explicit Executor argument are performed using the {@link ForkJoinPoolcommonPool()} (unless it does not support a parallelism level of at least two, in which case, a new Thread is created to run each task). To simplify monitoring, debugging, and tracking, all generated asynchronous tasks are instances of the marker interface {@link AsynchronousCompletionTask}. &lt;li&gt; &lt;li&gt;All CompletionStage methods are implemented independently of other public methods, so the behavior of one method is not impacted by overrides of others in subclasses. &lt;li&gt; &lt;ul&gt; &lt;p&gt;CompletableFuture also implements {@link Future} with the following policies: &lt;ul&gt; &lt;li&gt;Since (unlike {@link FutureTask}) this class has no direct control over the computation that causes it to be completed, cancellation is treated as just another form of exceptional completion. Method {@link cancel cancel} has the same effect as {@code completeExceptionally(new CancellationException())}. Method {@link isCompletedExceptionally} can be used to determine if a CompletableFuture completed in any exceptional fashion.&lt;li&gt; &lt;li&gt;In case of exceptional completion with a CompletionException, methods {@link get()} and {@link get(long, TimeUnit)} throw an {@link ExecutionException} with the same cause as held in the corresponding CompletionException. To simplify usage in most contexts, this class also defines methods {@link join()} and {@link getNow} that instead throw the CompletionException directly in these cases.&lt;li&gt; &lt;ul&gt;" />
-      <item value="Thread Per Task Executor" />
-      <item value="Mark Reinhold" />
-      <item value="Read a byte from each page to bring it into memory. A checksum is computed as we go along to prevent the compiler from otherwise considering the loop as dead code." />
-      <item value="register Methods To Filter" />
-      <item value="array Index Scale" />
-      <item value="register Natives" />
-      <item value="Completable Future" />
-      <item value="Locale" />
-      <item value="compute If Present" />
-      <item value="put If Absent" />
-      <item value="full Fence" />
-      <item value="Check Map.Entry[].class since it's the nearest public type to what we're actually creating." />
-      <item value="internal Write Entries" />
-      <item value="after Node Access" />
-      <item value="Callbacks to allow LinkedHashMap post-actions" />
-      <item value="after Node Insertion" />
-      <item value="public" />
-      <item value="Thread Pool Executor" />
-      <item value="java" />
+      <item value="verify Dynamical Value" />
+      <item value="Object Util" />
+      <item value="end Value" />
+      <item value="start Index" />
+      <item value="column Size" />
+      <item value="verify Effective" />
+      <item value="start Value" />
+      <item value="verify String" />
       <item value="Compute smallest power of 2 &gt; minCapacity" />
       <item value="ensure Capacity" />
       <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
@@ -55,11 +37,29 @@
       <item value="primitive" />
       <item value="Visitable" />
       <item value="V Paper" />
+      <item value="run If Async Not Complete" />
+      <item value="Handler Result Subscriber" />
+      <item value="Coyote Input Stream" />
+      <item value="Servlet Http Handler Adapter" />
+      <item value="deprecation" />
+      <item value="Facade class that wraps a Coyote request object. All methods are delegated to the wrapped request." />
+      <item value="Request Facade" />
+      <item value="rawtypes" />
+      <item value="Suppress Warnings" />
+      <item value="就是为了让原本不兼容的接口变成" />
+      <item value="987072248" />
+      <item value="Enumeration Iterator Adapter" />
+      <item value="enumeration" />
+      <item value="Iterable" />
+      <item value="需要将旧版本中的枚举器" />
+      <item value="迭代器方法" />
+      <item value="和老版本的" />
+      <item value="进行适配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6370" />
-        <entry key="ENGLISH" value="6371" />
+        <entry key="CHINESE" value="6363" />
+        <entry key="ENGLISH" value="6364" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -97,7 +97,7 @@
         <entry key="SPANISH" value="13" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="11" />
+        <entry key="ITALIAN" value="10" />
         <entry key="HINDI" value="12" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
