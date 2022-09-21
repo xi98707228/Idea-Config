@@ -5,21 +5,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="end Value" />
-      <item value="start Value" />
-      <item value="之间的值" />
+      <item value="内部一直添出现异常值的下标索引" />
+      <item value="并移动右侧门阀" />
+      <item value="start Index" />
       <item value="end Index" />
+      <item value="之间的值" />
+      <item value="verify Effective" />
+      <item value="record Error Index" />
+      <item value="NUAA" />
+      <item value="Tomcat NUAA-SYS: add method not implemented" />
+      <item value="is Null" />
+      <item value="Objects" />
+      <item value="column Values" />
+      <item value="default If Null" />
+      <item value="completable Calculate And Replace" />
+      <item value="add" />
+      <item value="Object Util" />
+      <item value="end Value" />
+      <item value="execute Calculate" />
+      <item value="start Value" />
+      <item value="column Size" />
+      <item value="verify Double Flag" />
+      <item value="start Calculate" />
+      <item value="end Calculate" />
+      <item value="objects List" />
+      <item value="column Value Error Index" />
       <item value="result Column Data" />
       <item value="divide" />
-      <item value="completable Calculate And Replace" />
-      <item value="is Null" />
-      <item value="column Value Error Index" />
-      <item value="column Size" />
-      <item value="start Index" />
-      <item value="verify Effective" />
-      <item value="Objects" />
       <item value="verify Dynamical Value" />
-      <item value="Object Util" />
       <item value="verify String" />
       <item value="Compute smallest power of 2 &gt; minCapacity" />
       <item value="ensure Capacity" />
@@ -42,24 +55,11 @@
       <item value="Relay" />
       <item value="Dual Pivot Quicksort" />
       <item value="parallel Sort" />
-      <item value="primitive" />
-      <item value="Visitable" />
-      <item value="V Paper" />
-      <item value="run If Async Not Complete" />
-      <item value="Handler Result Subscriber" />
-      <item value="Coyote Input Stream" />
-      <item value="Servlet Http Handler Adapter" />
-      <item value="deprecation" />
-      <item value="Facade class that wraps a Coyote request object. All methods are delegated to the wrapped request." />
-      <item value="Request Facade" />
-      <item value="rawtypes" />
-      <item value="Suppress Warnings" />
-      <item value="就是为了让原本不兼容的接口变成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6416" />
-        <entry key="ENGLISH" value="6417" />
+        <entry key="CHINESE" value="6522" />
+        <entry key="ENGLISH" value="6522" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
