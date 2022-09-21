@@ -1,19 +1,33 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Flag Exception" />
+      <item value="start Index" />
+      <item value="replace Length" />
+      <item value="completable Calculate And Replace" />
+      <item value="column Values" />
+      <item value="start Abnormity" />
+      <item value="添加本次门阀开始" />
+      <item value="替换门阀结尾开始之间的异常值" />
+      <item value="如果开始闸门值异常则转换为0" />
+      <item value="record Error Index" />
+      <item value="1" />
+      <item value="添加本次门阀结束" />
       <item value="start Value" />
+      <item value="result Column Data" />
+      <item value="null" />
+      <item value="啊" />
+      <item value="column Value" />
+      <item value="verify Effective Double" />
       <item value="Double" />
       <item value="未发生异常" />
       <item value="添加本次的开始值" />
       <item value="column Size" />
-      <item value="verify Effective Double" />
       <item value="get" />
       <item value="verify Effective" />
-      <item value="record Error Index" />
-      <item value="column Values" />
       <item value="Objects" />
       <item value="continue" />
       <item value="5" />
@@ -22,13 +36,9 @@
       <item value="Na N" />
       <item value="is Na N" />
       <item value="最可能为总容量的" />
-      <item value="column Value" />
       <item value="original List" />
       <item value="Column Of Data" />
       <item value="Column Resolver Data" />
-      <item value="result Column Data" />
-      <item value="completable Calculate And Replace" />
-      <item value="start Index" />
       <item value="end Index" />
       <item value="completable Calculate" />
       <item value="size" />
@@ -44,21 +54,11 @@
       <item value="Short" />
       <item value="verify Data" />
       <item value="to String" />
-      <item value="short" />
-      <item value="column Value Error Index" />
-      <item value="parse Double" />
-      <item value="Float" />
-      <item value="verify Flag" />
-      <item value="compile" />
-      <item value="parse Float" />
-      <item value="column Data" />
-      <item value="current Index" />
-      <item value="this" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6967" />
-        <entry key="ENGLISH" value="6968" />
+        <entry key="CHINESE" value="7017" />
+        <entry key="ENGLISH" value="7018" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
