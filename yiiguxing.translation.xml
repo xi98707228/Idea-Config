@@ -1,64 +1,65 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="end Index" />
-      <item value="column Size" />
-      <item value="开始未发生异常" />
-      <item value="result Column Data" />
-      <item value="start Index" />
-      <item value="divide" />
-      <item value="verify Effective Double" />
-      <item value="则添加本次验证的值" />
-      <item value="替换门阀结尾开始之间的异常值" />
-      <item value="添加本次门阀开始" />
-      <item value="未发生异常则" />
-      <item value="null" />
-      <item value="start Value" />
-      <item value="start Flag Exception" />
-      <item value="i" />
-      <item value="i - startIndex" />
-      <item value="short" />
-      <item value="不能" />
-      <item value="由于i此时是非异常的所以并不会参与替换操作" />
-      <item value="completable Calculate And Replace" />
-      <item value="进入下次替换" />
-      <item value="本次替换结束" />
-      <item value="record Error Index" />
-      <item value="0" />
-      <item value="column Value" />
-      <item value="column Values" />
-      <item value="verify Effective" />
-      <item value="当前值发生异常 ， 则标记" />
-      <item value="则标记" />
-      <item value="is Null" />
-      <item value="1 , null , 2 , null , 啊" />
-      <item value="null , null , 2 , null , 啊" />
-      <item value="添加本次门阀结束" />
-      <item value="add" />
-      <item value="如果开始闸门值异常则转换为0" />
-      <item value="column Value Error Index" />
-      <item value="execute Calculate" />
-      <item value="Array List" />
-      <item value="Calculate" />
-      <item value="column Name" />
-      <item value="get Column Name" />
-      <item value="get Column Value Error Index" />
-      <item value="set Column Value Error Index" />
-      <item value="Override" />
-      <item value="to String" />
-      <item value="fix After Deletion" />
-      <item value="Red-black mechanics" />
-      <item value="fix After Insertion" />
-      <item value="Utility classes commonly useful in concurrent programming. This package includes a few small standardized extensible frameworks, as well as some classes that provide useful functionality and are otherwise tedious or difficult to implement. Here are brief descriptions of the main components. See also the {@link java.util.concurrent.locks} and {@link java.util.concurrent.atomic} packages. &lt;h2&gt;Executors&lt;h2&gt; &lt;b&gt;Interfaces.&lt;b&gt; {@link java.util.concurrent.Executor} is a simple standardized interface for defining custom thread-like subsystems, including thread pools, asynchronous IO, and lightweight task frameworks. Depending on which concrete Executor class is being used, tasks may execute in a newly created thread, an existing task-execution thread, or the thread calling {@link java.util.concurrent.Executorexecute execute}, and may execute sequentially or concurrently. {@link java.util.concurrent.ExecutorService} provides a more complete asynchronous task execution framework. An ExecutorService manages queuing and scheduling of tasks, and allows controlled shutdown. The {@link java.util.concurrent.ScheduledExecutorService} subinterface and associated interfaces add support for delayed and periodic task execution. ExecutorServices provide methods arranging asynchronous execution of any function expressed as {@link java.util.concurrent.Callable}, the result-bearing analog of {@link java.lang.Runnable}. A {@link java.util.concurrent.Future} returns the results of a function, allows determination of whether execution has completed, and provides a means to cancel execution. A {@link java.util.concurrent.RunnableFuture} is a {@code Future} that possesses a {@code run} method that upon execution, sets its results. &lt;p&gt; &lt;b&gt;Implementations.&lt;b&gt; Classes {@link java.util.concurrent.ThreadPoolExecutor} and {@link java.util.concurrent.ScheduledThreadPoolExecutor} provide tunable, flexible thread pools. The {@link java.util.concurrent.Executors} class provides factory methods for the most common kinds and configurations of Executors, as well as a few utility methods for using them. Other utilities based on {@code Executors} include the concrete class {@link java.util.concurrent.FutureTask} providing a common extensible implementation of Futures, and {@link java.util.concurrent.ExecutorCompletionService}, that assists in coordinating the processing of groups of asynchronous tasks. &lt;p&gt;Class {@link java.util.concurrent.ForkJoinPool} provides an Executor primarily designed for processing instances of {@link java.util.concurrent.ForkJoinTask} and its subclasses. These classes employ a work-stealing scheduler that attains high throughput for tasks conforming to restrictions that often hold in computation-intensive parallel processing. &lt;h2&gt;Queues&lt;h2&gt; The {@link java.util.concurrent.ConcurrentLinkedQueue} class supplies an efficient scalable thread-safe non-blocking FIFO queue. The {@link java.util.concurrent.ConcurrentLinkedDeque} class is similar, but additionally supports the {@link java.util.Deque} interface. &lt;p&gt;Five implementations in {@code java.util.concurrent} support the extended {@link java.util.concurrent.BlockingQueue} interface, that defines blocking versions of put and take: {@link java.util.concurrent.LinkedBlockingQueue}, {@link java.util.concurrent.ArrayBlockingQueue}, {@link java.util.concurrent.SynchronousQueue}, {@link java.util.concurrent.PriorityBlockingQueue}, and {@link java.util.concurrent.DelayQueue}. The different classes cover the most common usage contexts for producer-consumer, messaging, parallel tasking, and related concurrent designs. &lt;p&gt;Extended interface {@link java.util.concurrent.TransferQueue}, and implementation {@link java.util.concurrent.LinkedTransferQueue} introduce a synchronous {@code transfer} method (along with related features) in which a producer may optionally block awaiting its consumer. &lt;p&gt;The {@link java.util.concurrent.BlockingDeque} interface extends {@code BlockingQueue} to support both FIFO and LIFO (stack-based) operations. Class {@link java.util.concurrent.LinkedBlockingDeque} provides an implementation. &lt;h2&gt;Timing&lt;h2&gt; The {@link java.util.concurrent.TimeUnit} class provides multiple granularities (including nanoseconds) for specifying and controlling time-out based operations. Most classes in the package contain operations based on time-outs in addition to indefinite waits. In all cases that time-outs are used, the time-out specifies the minimum time that the method should wait before indicating that it timed-out. Implementations make a &amp;quot;best effort&amp;quot; to detect time-outs as soon as possible after they occur. However, an indefinite amount of time may elapse between a time-out being detected and a thread actually executing again after that time-out. All methods that accept timeout parameters treat values less than or equal to zero to mean not to wait at all. To wait &quot;forever&quot;, you can use a value of {@code Long.MAX_VALUE}. &lt;h2&gt;Synchronizers&lt;h2&gt; Five classes aid common special-purpose synchronization idioms. &lt;ul&gt; &lt;li&gt;{@link java.util.concurrent.Semaphore} is a classic concurrency tool. &lt;li&gt;{@link java.util.concurrent.CountDownLatch} is a very simple yet very common utility for blocking until a given number of signals, events, or conditions hold. &lt;li&gt;A {@link java.util.concurrent.CyclicBarrier} is a resettable multiway synchronization point useful in some styles of parallel programming. &lt;li&gt;A {@link java.util.concurrent.Phaser} provides a more flexible form of barrier that may be used to control phased computation among multiple threads. &lt;li&gt;An {@link java.util.concurrent.Exchanger} allows two threads to exchange objects at a rendezvous point, and is useful in several pipeline designs. &lt;ul&gt; &lt;h2&gt;Concurrent Collections&lt;h2&gt; Besides Queues, this package supplies Collection implementations designed for use in multithreaded contexts: {@link java.util.concurrent.ConcurrentHashMap}, {@link java.util.concurrent.ConcurrentSkipListMap}, {@link java.util.concurrent.ConcurrentSkipListSet}, {@link java.util.concurrent.CopyOnWriteArrayList}, and {@link java.util.concurrent.CopyOnWriteArraySet}. When many threads are expected to access a given collection, a {@code ConcurrentHashMap} is normally preferable to a synchronized {@code HashMap}, and a {@code ConcurrentSkipListMap} is normally preferable to a synchronized {@code TreeMap}. A {@code CopyOnWriteArrayList} is preferable to a synchronized {@code ArrayList} when the expected number of reads and traversals greatly outnumber the number of updates to a list. &lt;p&gt;The &quot;Concurrent&quot; prefix used with some classes in this package is a shorthand indicating several differences from similar &quot;synchronized&quot; classes. For example {@code java.util.Hashtable} and {@code Collections.synchronizedMap(new HashMap())} are synchronized. But {@link java.util.concurrent.ConcurrentHashMap} is &quot;concurrent&quot;. A concurrent collection is thread-safe, but not governed by a single exclusion lock. In the particular case of ConcurrentHashMap, it safely permits any number of concurrent reads as well as a tunable number of concurrent writes. &quot;Synchronized&quot; classes can be useful when you need to prevent all access to a collection via a single lock, at the expense of poorer scalability. In other cases in which multiple threads are expected to access a common collection, &quot;concurrent&quot; versions are normally preferable. And unsynchronized collections are preferable when either collections are unshared, or are accessible only when holding other locks. &lt;p id=&quot;Weakly&quot;&gt;Most concurrent Collection implementations (including most Queues) also differ from the usual {@code java.util} conventions in that their {@linkplain java.util.Iterator Iterators} and {@linkplain java.util.Spliterator Spliterators} provide &lt;em&gt;weakly consistent&lt;em&gt; rather than fast-fail traversal: &lt;ul&gt; &lt;li&gt;they may proceed concurrently with other operations &lt;li&gt;they will never throw {@link java.util.ConcurrentModificationException ConcurrentModificationException} &lt;li&gt;they are guaranteed to traverse elements as they existed upon construction exactly once, and may (but are not guaranteed to) reflect any modifications subsequent to construction. &lt;ul&gt; &lt;h2 id=&quot;MemoryVisibility&quot;&gt;Memory Consistency Properties&lt;h2&gt; &lt;a href=&quot;https:docs.oracle.comjavasespecsjlsse7htmljls-17.htmljls-17.4.5&quot;&gt; Chapter 17 of the Java Language Specification&lt;a&gt; defines the &lt;i&gt;happens-before&lt;i&gt; relation on memory operations such as reads and writes of shared variables. The results of a write by one thread are guaranteed to be visible to a read by another thread only if the write operation &lt;i&gt;happens-before&lt;i&gt; the read operation. The {@code synchronized} and {@code volatile} constructs, as well as the {@code Thread.start()} and {@code Thread.join()} methods, can form &lt;i&gt;happens-before&lt;i&gt; relationships. In particular: &lt;ul&gt; &lt;li&gt;Each action in a thread &lt;i&gt;happens-before&lt;i&gt; every action in that thread that comes later in the program's order. &lt;li&gt;An unlock ({@code synchronized} block or method exit) of a monitor &lt;i&gt;happens-before&lt;i&gt; every subsequent lock ({@code synchronized} block or method entry) of that same monitor. And because the &lt;i&gt;happens-before&lt;i&gt; relation is transitive, all actions of a thread prior to unlocking &lt;i&gt;happen-before&lt;i&gt; all actions subsequent to any thread locking that monitor. &lt;li&gt;A write to a {@code volatile} field &lt;i&gt;happens-before&lt;i&gt; every subsequent read of that same field. Writes and reads of {@code volatile} fields have similar memory consistency effects as entering and exiting monitors, but do &lt;em&gt;not&lt;em&gt; entail mutual exclusion locking. &lt;li&gt;A call to {@code start} on a thread &lt;i&gt;happens-before&lt;i&gt; any action in the started thread. &lt;li&gt;All actions in a thread &lt;i&gt;happen-before&lt;i&gt; any other thread successfully returns from a {@code join} on that thread. &lt;ul&gt; The methods of all classes in {@code java.util.concurrent} and its subpackages extend these guarantees to higher-level synchronization. In particular: &lt;ul&gt; &lt;li&gt;Actions in a thread prior to placing an object into any concurrent collection &lt;i&gt;happen-before&lt;i&gt; actions subsequent to the access or removal of that element from the collection in another thread. &lt;li&gt;Actions in a thread prior to the submission of a {@code Runnable} to an {@code Executor} &lt;i&gt;happen-before&lt;i&gt; its execution begins. Similarly for {@code Callables} submitted to an {@code ExecutorService}. &lt;li&gt;Actions taken by the asynchronous computation represented by a {@code Future} &lt;i&gt;happen-before&lt;i&gt; actions subsequent to the retrieval of the result via {@code Future.get()} in another thread. &lt;li&gt;Actions prior to &quot;releasing&quot; synchronizer methods such as {@code Lock.unlock}, {@code Semaphore.release}, and {@code CountDownLatch.countDown} &lt;i&gt;happen-before&lt;i&gt; actions subsequent to a successful &quot;acquiring&quot; method such as {@code Lock.lock}, {@code Semaphore.acquire}, {@code Condition.await}, and {@code CountDownLatch.await} on the same synchronizer object in another thread. &lt;li&gt;For each pair of threads that successfully exchange objects via an {@code Exchanger}, actions prior to the {@code exchange()} in each thread &lt;i&gt;happen-before&lt;i&gt; those subsequent to the corresponding {@code exchange()} in another thread. &lt;li&gt;Actions prior to calling {@code CyclicBarrier.await} and {@code Phaser.awaitAdvance} (as well as its variants) &lt;i&gt;happen-before&lt;i&gt; actions performed by the barrier action, and actions performed by the barrier action &lt;i&gt;happen-before&lt;i&gt; actions subsequent to a successful return from the corresponding {@code await} in other threads. &lt;ul&gt; @since 1.5" />
-      <item value="Written by Doug Lea with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained at http:creativecommons.orgpublicdomainzero1.0" />
+      <item value="Compute smallest power of 2 &gt; minCapacity" />
+      <item value="ensure Capacity" />
+      <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
+      <item value="gallop Right" />
+      <item value="Josh Bloch" />
+      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
+      <item value="The invariants still hold: pivot &gt;= all in [lo, left) and pivot &lt; all in [left, start), so pivot belongs at left. Note that if there are elements equal to pivot, left points to the first slot after them -- that's why this sort is stable. Slide elements over to make room for pivot." />
+      <item value="binary Sort" />
+      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators. &lt;p&gt;If you are using an optimizing VM, you may find that ComparableTimSort offers no performance benefit over TimSort in conjunction with a comparator that simply returns {@code ((Comparable)first).compareTo(Second)}. If this is the case, you are better off deleting ComparableTimSort to eliminate the code duplication. (See Arrays.java for details.)" />
+      <item value="Comparable Tim Sort" />
+      <item value="QUICKSORT THRESHOLD" />
+      <item value="Index run[i] is the start of i-th run (ascending or descending sequence)." />
+      <item value="Use Quicksort on small arrays" />
+      <item value="middle" />
+      <item value="middle Value" />
+      <item value="Move negative zeros to the beginning of the sub-range." />
+      <item value="This class implements the Dual-Pivot Quicksort algorithm by Vladimir Yaroslavskiy, Jon Bentley, and Josh Bloch. The algorithm offers O(n log(n)) performance on many data sets that cause other quicksorts to degrade to quadratic performance, and is typically faster than traditional (one-pivot) Quicksort implementations. All exposed methods are package-private, designed to be invoked from public methods (in class Arrays) after performing any necessary array bounds checks and expanding parameters into the required forms." />
+      <item value="quartiles" />
+      <item value="Relay" />
+      <item value="Dual Pivot Quicksort" />
+      <item value="parallel Sort" />
+      <item value="primitive" />
+      <item value="Visitable" />
+      <item value="V Paper" />
+      <item value="run If Async Not Complete" />
+      <item value="Handler Result Subscriber" />
+      <item value="Coyote Input Stream" />
+      <item value="Servlet Http Handler Adapter" />
+      <item value="deprecation" />
+      <item value="Facade class that wraps a Coyote request object. All methods are delegated to the wrapped request." />
+      <item value="Request Facade" />
+      <item value="rawtypes" />
+      <item value="Suppress Warnings" />
+      <item value="就是为了让原本不兼容的接口变成" />
+      <item value="987072248" />
+      <item value="Enumeration Iterator Adapter" />
+      <item value="enumeration" />
+      <item value="Iterable" />
+      <item value="需要将旧版本中的枚举器" />
+      <item value="迭代器方法" />
+      <item value="和老版本的" />
+      <item value="进行适配" />
+      <item value="elements" />
+      <item value="Completion Stage" />
+      <item value="Exception thrown when an error or other exception is encountered in the course of completing a result or task." />
+      <item value="Completion Exception" />
+      <item value="Parameterized Type Reference" />
+      <item value="The purpose of this class is to enable capturing and passing a generic {@link Type}. In order to capture the generic type and retain it at runtime, you need to create a subclass (ideally as anonymous inline class) as follows:" />
+      <item value="parameterized" />
+      <item value="p&gt;The resulting {@code typeRef} instance can then be used to obtain a {@link Type} instance that carries the captured parameterized type information at runtime. For more information on &quot;super type tokens&quot; see the link to Neal Gafter's blog post." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7147" />
-        <entry key="ENGLISH" value="7148" />
+        <entry key="CHINESE" value="6344" />
+        <entry key="ENGLISH" value="6345" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -74,7 +75,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="19" />
+        <entry key="LATIN" value="18" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
@@ -83,7 +84,6 @@
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
-        <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
@@ -94,12 +94,11 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="12" />
+        <entry key="SPANISH" value="13" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="IGBO" value="2" />
         <entry key="ITALIAN" value="10" />
-        <entry key="HINDI" value="14" />
+        <entry key="HINDI" value="12" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
@@ -108,6 +107,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663723769851" />
+    <option name="lastTrimTime" value="1663681503656" />
   </component>
 </application>
