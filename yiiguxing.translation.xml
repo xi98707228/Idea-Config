@@ -4,20 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="column Size" />
+      <item value="开始未发生异常" />
+      <item value="result Column Data" />
+      <item value="start Index" />
       <item value="divide" />
       <item value="verify Effective Double" />
       <item value="则添加本次验证的值" />
       <item value="替换门阀结尾开始之间的异常值" />
       <item value="添加本次门阀开始" />
       <item value="未发生异常则" />
-      <item value="开始未发生异常" />
-      <item value="start Index" />
       <item value="null" />
       <item value="start Value" />
       <item value="start Flag Exception" />
       <item value="i" />
       <item value="i - startIndex" />
-      <item value="result Column Data" />
       <item value="short" />
       <item value="不能" />
       <item value="由于i此时是非异常的所以并不会参与替换操作" />
@@ -25,7 +26,6 @@
       <item value="进入下次替换" />
       <item value="本次替换结束" />
       <item value="record Error Index" />
-      <item value="column Size" />
       <item value="0" />
       <item value="column Value" />
       <item value="column Values" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7139" />
-        <entry key="ENGLISH" value="7140" />
+        <entry key="CHINESE" value="7144" />
+        <entry key="ENGLISH" value="7145" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
