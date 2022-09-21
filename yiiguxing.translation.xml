@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="verify Dynamical Value" />
+      <item value="Object Util" />
+      <item value="end Value" />
+      <item value="start Index" />
+      <item value="column Size" />
+      <item value="verify Effective" />
+      <item value="start Value" />
+      <item value="verify String" />
       <item value="Compute smallest power of 2 &gt; minCapacity" />
       <item value="ensure Capacity" />
       <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
@@ -47,19 +55,11 @@
       <item value="迭代器方法" />
       <item value="和老版本的" />
       <item value="进行适配" />
-      <item value="elements" />
-      <item value="Completion Stage" />
-      <item value="Exception thrown when an error or other exception is encountered in the course of completing a result or task." />
-      <item value="Completion Exception" />
-      <item value="Parameterized Type Reference" />
-      <item value="The purpose of this class is to enable capturing and passing a generic {@link Type}. In order to capture the generic type and retain it at runtime, you need to create a subclass (ideally as anonymous inline class) as follows:" />
-      <item value="parameterized" />
-      <item value="p&gt;The resulting {@code typeRef} instance can then be used to obtain a {@link Type} instance that carries the captured parameterized type information at runtime. For more information on &quot;super type tokens&quot; see the link to Neal Gafter's blog post." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6344" />
-        <entry key="ENGLISH" value="6345" />
+        <entry key="CHINESE" value="6363" />
+        <entry key="ENGLISH" value="6364" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
