@@ -5,61 +5,61 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="column Size" />
+      <item value="start Index" />
+      <item value="end Index" />
+      <item value="end Value" />
+      <item value="contains" />
+      <item value="add" />
+      <item value="process End Flag" />
+      <item value="badge Already Store Index" />
+      <item value="result Column Data" />
+      <item value="completable Calculate And Replace" />
+      <item value="start Value" />
+      <item value="左边边缘化" />
+      <item value="badge" />
+      <item value="This class consists of {@code static} utility methods for operating on objects. These utilities include {@code null}-safe or {@code null}-tolerant methods for computing the hash code of an object, returning a string for an object, and comparing two objects." />
+      <item value="No java.util.Objects instances for you!" />
+      <item value="Assertion Error" />
+      <item value="is Null" />
+      <item value="处理右边缘" />
+      <item value="while" />
+      <item value="start Effective Value" />
+      <item value="当出现不发生异常的元素时则替换处理" />
+      <item value="过程中所有出现的异常值" />
+      <item value="左右门阀值限制" />
+      <item value="在执行替换异常值方法之前就已经做了数量和" />
+      <item value="修正过的版本" />
+      <item value="store Index Queue" />
+      <item value="peek" />
+      <item value="size" />
       <item value="border Operate" />
+      <item value="sync System Manage Lists" />
+      <item value="Split Data Resolver" />
+      <item value="true" />
+      <item value="record Error Index" />
+      <item value="Immutable Range Set" />
+      <item value="column Values" />
+      <item value="verify Effective" />
+      <item value="右边缘化" />
+      <item value="处理左边缘" />
+      <item value="else" />
+      <item value="过滤出所有的异常值" />
+      <item value="Objects" />
+      <item value="Returns a {@code BigDecimal} whose value is {@code (this divisor)}, and whose scale is as specified. If rounding must be performed to generate a result with the specified scale, the specified rounding mode is applied. &lt;p&gt;The new {@link divide(BigDecimal, int, RoundingMode)} method should be used in preference to this legacy method. @param divisor value by which this {@code BigDecimal} is to be divided. @param scale scale of the {@code BigDecimal} quotient to be returned. @param roundingMode rounding mode to apply. @return {@code this divisor} @throws ArithmeticException if {@code divisor} is zero, {@code roundingMode==ROUND_UNNECESSARY} and the specified scale is insufficient to represent the result of the division exactly. @throws IllegalArgumentException if {@code roundingMode} does not represent a valid rounding mode." />
+      <item value="当出现不发生异常的元素时则替换处理 过程中所有出现的异常值" />
+      <item value="verify Data" />
+      <item value="啊" />
+      <item value="哈哈" />
+      <item value="start Calculate" />
       <item value="replace Length" />
       <item value="非边缘化操作" />
       <item value="则需要添加" />
-      <item value="起始门阀值" />
-      <item value="result Column Data" />
-      <item value="start Calculate" />
-      <item value="completable Calculate And Replace" />
-      <item value="起始" />
-      <item value="value Of" />
-      <item value="completable Replace Value" />
-      <item value="verify Effective" />
-      <item value="verify Effective End Value" />
-      <item value="end Index" />
-      <item value="column Size" />
-      <item value="end Value" />
-      <item value="verify Effective Start Value" />
-      <item value="Strict Math" />
-      <item value="Nakul Saraiya" />
-      <item value="Objects" />
-      <item value="record Error Index" />
-      <item value="column Values" />
-      <item value="is Null" />
-      <item value="start Index" />
-      <item value="start Value" />
-      <item value="内部一直添出现异常值的下标索引" />
-      <item value="并移动右侧门阀" />
-      <item value="之间的值" />
-      <item value="NUAA" />
-      <item value="Tomcat NUAA-SYS: add method not implemented" />
-      <item value="default If Null" />
-      <item value="add" />
-      <item value="Object Util" />
-      <item value="execute Calculate" />
-      <item value="verify Double Flag" />
-      <item value="end Calculate" />
-      <item value="objects List" />
-      <item value="column Value Error Index" />
-      <item value="divide" />
-      <item value="verify Dynamical Value" />
-      <item value="verify String" />
-      <item value="Compute smallest power of 2 &gt; minCapacity" />
-      <item value="ensure Capacity" />
-      <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
-      <item value="gallop Right" />
-      <item value="Josh Bloch" />
-      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
-      <item value="The invariants still hold: pivot &gt;= all in [lo, left) and pivot &lt; all in [left, start), so pivot belongs at left. Note that if there are elements equal to pivot, left points to the first slot after them -- that's why this sort is stable. Slide elements over to make room for pivot." />
-      <item value="binary Sort" />
-      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators. &lt;p&gt;If you are using an optimizing VM, you may find that ComparableTimSort offers no performance benefit over TimSort in conjunction with a comparator that simply returns {@code ((Comparable)first).compareTo(Second)}. If this is the case, you are better off deleting ComparableTimSort to eliminate the code duplication. (See Arrays.java for details.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6623" />
-        <entry key="ENGLISH" value="6624" />
+        <entry key="CHINESE" value="6952" />
+        <entry key="ENGLISH" value="6953" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
