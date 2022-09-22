@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Iterable" />
       <item value="- 设计原则 ： 最少知识原则：只和你的密友谈话 ， 尽量少在本类中使用其他的多个类 的方法" />
       <item value="- 和策略模式类似 对比策略模式 两者各有优缺" />
       <item value="和策略模式类似" />
@@ -54,12 +55,11 @@
       <item value="Facade class that wraps a Coyote request object. All methods are delegated to the wrapped request." />
       <item value="Request Facade" />
       <item value="rawtypes" />
-      <item value="Suppress Warnings" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6371" />
-        <entry key="ENGLISH" value="6371" />
+        <entry key="ENGLISH" value="6372" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
