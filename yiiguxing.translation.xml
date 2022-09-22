@@ -4,16 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="slice Handler Impl" />
+      <item value="slice Handler" />
+      <item value="receive Slice Data Thread Pool" />
+      <item value="receive Slice Data" />
+      <item value="slice Input Stream" />
+      <item value="invoke Data Counter" />
+      <item value="Njzjdbc Table" />
+      <item value="njzjdbc Table" />
+      <item value="get Logger" />
+      <item value="Logger Factory" />
+      <item value="slice Handler Service" />
+      <item value="获取本次分片识别的" />
+      <item value="Slice Handler Impl" />
+      <item value="Slice Abstract Handler" />
       <item value="Analysis Context" />
       <item value="import Excel Data List" />
       <item value="header Field List" />
       <item value="one Key Data Base Service" />
       <item value="All files are up-to-date" />
-      <item value="receive Slice Data Thread Pool" />
       <item value="merge Process Data Thread Pool" />
       <item value="Hibernate Utils" />
       <item value="head Map" />
-      <item value="invoke Data Counter" />
       <item value="allow Core Thread Time Out" />
       <item value="Timeout in nanoseconds for idle threads waiting for work. Threads use this timeout when there are more than corePoolSize present or if allowCoreThreadTimeOut. Otherwise they wait forever for new work." />
       <item value="shutdown" />
@@ -35,37 +47,25 @@
       <item value="split Data Resolver" />
       <item value="one Key Import Process Error" />
       <item value="One Key Data Base Service" />
-      <item value="Logger Factory" />
-      <item value="get Logger" />
       <item value="Njzjdbc Table Manager" />
       <item value="Spring Util" />
       <item value="get Bean" />
       <item value="operate System Table" />
       <item value="finalize" />
       <item value="Component" />
-      <item value="Njzjdbc Table" />
       <item value="customconfigurationquery" />
-      <item value="Logger" />
-      <item value="Invoke - Excel Data Count" />
-      <item value="context" />
-      <item value="batch Insert" />
-      <item value="Split Data Resolver" />
-      <item value="close Split Resolver" />
-      <item value="import Excel Data To Data Base" />
-      <item value="data List" />
-      <item value="do After All Analysed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7063" />
-        <entry key="ENGLISH" value="7064" />
+        <entry key="CHINESE" value="7078" />
+        <entry key="ENGLISH" value="7079" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="17" />
+        <entry key="DANISH" value="18" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
