@@ -4,8 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="mergely" />
+      <item value="function" />
+      <item value="table Name" />
+      <item value="result" />
+      <item value="action" />
+      <item value="click" />
+      <item value="save data handle form" />
+      <item value="base Path" />
+      <item value="method" />
+      <item value="application" />
+      <item value="delete method" />
+      <item value="Hot Swap failed." />
+      <item value="POST" />
+      <item value="Request Method" />
+      <item value="data Handle Vo" />
+      <item value="Data Handle Vo" />
+      <item value="Request Body" />
+      <item value="produces" />
       <item value="Hash Map" />
+      <item value="status Code" />
+      <item value="colspan" />
+      <item value="table inner title" />
+      <item value="margin" />
+      <item value="mergely" />
+      <item value="div" />
       <item value="get Context Path" />
       <item value="request" />
       <item value="full" />
@@ -16,7 +38,6 @@
       <item value="searchcursor" />
       <item value="javascript" />
       <item value="若你忽然问我为什么要写诗" />
-      <item value="status Code" />
       <item value="slice Handler Impl" />
       <item value="slice Handler" />
       <item value="receive Slice Data Thread Pool" />
@@ -33,32 +54,11 @@
       <item value="Slice Abstract Handler" />
       <item value="Analysis Context" />
       <item value="import Excel Data List" />
-      <item value="header Field List" />
-      <item value="one Key Data Base Service" />
-      <item value="All files are up-to-date" />
-      <item value="merge Process Data Thread Pool" />
-      <item value="Hibernate Utils" />
-      <item value="head Map" />
-      <item value="allow Core Thread Time Out" />
-      <item value="Timeout in nanoseconds for idle threads waiting for work. Threads use this timeout when there are more than corePoolSize present or if allowCoreThreadTimeOut. Otherwise they wait forever for new work." />
-      <item value="shutdown" />
-      <item value="close Component" />
-      <item value="access Token" />
-      <item value="String" />
-      <item value="verify Done" />
-      <item value="boolean" />
-      <item value="wait Counter" />
-      <item value="handler Finish Mapping" />
-      <item value="try" />
-      <item value="interrupt Idle Workers" />
-      <item value="storage Handler" />
-      <item value="return" />
-      <item value="Simple Url Handler Mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7094" />
-        <entry key="ENGLISH" value="7095" />
+        <entry key="CHINESE" value="7128" />
+        <entry key="ENGLISH" value="7129" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
