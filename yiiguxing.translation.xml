@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="button" />
+      <item value="function" />
+      <item value="get Parameter Map" />
+      <item value="close" />
+      <item value="warning" />
+      <item value="javascript" />
+      <item value="application" />
+      <item value="form" />
+      <item value="save data handle btn" />
+      <item value="前往分发页面" />
+      <item value="data Handle Vo" />
+      <item value="stringify" />
+      <item value="json" />
+      <item value="exploded" />
+      <item value="save data handle form" />
+      <item value="console" />
+      <item value="this" />
+      <item value="request Params" />
+      <item value="get Message" />
+      <item value="status Code" />
+      <item value="message" />
+      <item value="get Handle Type" />
+      <item value="Hibernate Utils" />
+      <item value="handle Data" />
+      <item value="dispatcher Service" />
+      <item value="result Vo" />
+      <item value="Exception" />
+      <item value="print Stack Trace" />
+      <item value="若你忽然问我为什么要写诗" />
+      <item value="Request Method" />
+      <item value="Data Handle Vo" />
+      <item value="Request Body" />
+      <item value="Xml Web Application Context" />
+      <item value="Context Loader" />
+      <item value="org.apache.jasper.servlet.Tld Scanner.scan Jars" />
+      <item value="deployed" />
+      <item value="return" />
+      <item value="dialog" />
+      <item value="close Current" />
+      <item value="document" />
+      <item value="关闭当前弹窗" />
       <item value="ready" />
       <item value="8 a 8080 e 2506560 d 40150658120 a 10001" />
-      <item value="Hibernate Utils" />
       <item value="screen" />
-      <item value="get Handle Type" />
-      <item value="function" />
       <item value="table Name" />
       <item value="result" />
       <item value="action" />
       <item value="click" />
-      <item value="save data handle form" />
       <item value="base Path" />
       <item value="method" />
-      <item value="application" />
-      <item value="delete method" />
-      <item value="Hot Swap failed." />
-      <item value="POST" />
-      <item value="Request Method" />
-      <item value="data Handle Vo" />
-      <item value="Data Handle Vo" />
-      <item value="Request Body" />
-      <item value="produces" />
-      <item value="Hash Map" />
-      <item value="status Code" />
-      <item value="colspan" />
-      <item value="table inner title" />
-      <item value="margin" />
-      <item value="mergely" />
-      <item value="div" />
-      <item value="get Context Path" />
-      <item value="request" />
-      <item value="full" />
-      <item value="resizer" />
-      <item value="Response Body" />
-      <item value="codemirror" />
-      <item value="searchcursor" />
-      <item value="javascript" />
-      <item value="若你忽然问我为什么要写诗" />
-      <item value="slice Handler Impl" />
-      <item value="slice Handler" />
-      <item value="receive Slice Data Thread Pool" />
-      <item value="receive Slice Data" />
-      <item value="slice Input Stream" />
-      <item value="invoke Data Counter" />
-      <item value="Njzjdbc Table" />
-      <item value="njzjdbc Table" />
-      <item value="get Logger" />
-      <item value="Logger Factory" />
-      <item value="slice Handler Service" />
-      <item value="获取本次分片识别的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7131" />
-        <entry key="ENGLISH" value="7132" />
+        <entry key="CHINESE" value="7185" />
+        <entry key="ENGLISH" value="7186" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
