@@ -4,9 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Response Body" />
-      <item value="screen" />
       <item value="mergely" />
+      <item value="Hash Map" />
+      <item value="get Context Path" />
+      <item value="request" />
+      <item value="full" />
+      <item value="screen" />
+      <item value="resizer" />
+      <item value="Response Body" />
       <item value="codemirror" />
       <item value="searchcursor" />
       <item value="javascript" />
@@ -49,16 +54,11 @@
       <item value="storage Handler" />
       <item value="return" />
       <item value="Simple Url Handler Mapping" />
-      <item value="org.springframework.web.servlet.handler" />
-      <item value="springframework" />
-      <item value="njzjdbc Table Manager" />
-      <item value="split Data Resolver" />
-      <item value="one Key Import Process Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7086" />
-        <entry key="ENGLISH" value="7087" />
+        <entry key="CHINESE" value="7094" />
+        <entry key="ENGLISH" value="7095" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
