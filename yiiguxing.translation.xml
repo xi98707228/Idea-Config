@@ -4,16 +4,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="load Counter" />
+      <item value="result Data Json" />
+      <item value="interval Load Tag" />
+      <item value="function" />
+      <item value="加载当前标签页的" />
+      <item value="代码对比插件" />
+      <item value="tab Id" />
+      <item value="若你忽然问我为什么要写诗" />
+      <item value="TIME DELAY LENGTH" />
+      <item value="TIME DEALY LENGTH" />
+      <item value="load Current Tag Plugin" />
+      <item value="load Current Tab Plugnis" />
+      <item value="tablist" />
+      <item value="fade" />
       <item value="class" />
       <item value="mergely 1" />
       <item value="data-toggle" />
       <item value="Home" />
-      <item value="load Current Tab Plugnis" />
       <item value="javascript" />
-      <item value="result Data Json" />
       <item value="div" />
-      <item value="function" />
-      <item value="tab Id" />
       <item value="diff Vo" />
       <item value="forward" />
       <item value="data Handle Vo" />
@@ -44,21 +54,11 @@
       <item value="Exception" />
       <item value="data Handle Method" />
       <item value="forward Diff" />
-      <item value="前往对比页面" />
-      <item value="handle Type" />
-      <item value="POST" />
-      <item value="application" />
-      <item value="btn" />
-      <item value="onsubmit" />
-      <item value="select Original Data" />
-      <item value="val" />
-      <item value="post" />
-      <item value="base Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7320" />
-        <entry key="ENGLISH" value="7321" />
+        <entry key="CHINESE" value="7334" />
+        <entry key="ENGLISH" value="7335" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
