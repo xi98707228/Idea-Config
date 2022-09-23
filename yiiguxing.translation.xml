@@ -4,7 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="dispatch" />
+      <item value="data" />
+      <item value="diff" />
       <item value="button" />
+      <item value="dialog" />
       <item value="function" />
       <item value="get Parameter Map" />
       <item value="close" />
@@ -41,7 +45,6 @@
       <item value="org.apache.jasper.servlet.Tld Scanner.scan Jars" />
       <item value="deployed" />
       <item value="return" />
-      <item value="dialog" />
       <item value="close Current" />
       <item value="document" />
       <item value="关闭当前弹窗" />
@@ -51,14 +54,11 @@
       <item value="table Name" />
       <item value="result" />
       <item value="action" />
-      <item value="click" />
-      <item value="base Path" />
-      <item value="method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7185" />
-        <entry key="ENGLISH" value="7186" />
+        <entry key="CHINESE" value="7191" />
+        <entry key="ENGLISH" value="7192" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
