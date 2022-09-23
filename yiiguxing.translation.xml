@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="class" />
+      <item value="mergely 1" />
+      <item value="data-toggle" />
+      <item value="Home" />
+      <item value="load Current Tab Plugnis" />
+      <item value="javascript" />
+      <item value="result Data Json" />
+      <item value="div" />
+      <item value="function" />
+      <item value="tab Id" />
+      <item value="diff Vo" />
       <item value="forward" />
       <item value="data Handle Vo" />
       <item value="Data Handle Vo" />
@@ -25,7 +36,6 @@
       <item value="save data handle btn" />
       <item value="submit" />
       <item value="button" />
-      <item value="class" />
       <item value="default" />
       <item value="result Vo" />
       <item value="Request Method" />
@@ -38,27 +48,17 @@
       <item value="handle Type" />
       <item value="POST" />
       <item value="application" />
-      <item value="javascript" />
       <item value="btn" />
       <item value="onsubmit" />
       <item value="select Original Data" />
       <item value="val" />
       <item value="post" />
       <item value="base Path" />
-      <item value="dispatch" />
-      <item value="diff" />
-      <item value="dialog" />
-      <item value="function" />
-      <item value="get Parameter Map" />
-      <item value="close" />
-      <item value="warning" />
-      <item value="form" />
-      <item value="前往分发页面" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7296" />
-        <entry key="ENGLISH" value="7297" />
+        <entry key="CHINESE" value="7320" />
+        <entry key="ENGLISH" value="7321" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
