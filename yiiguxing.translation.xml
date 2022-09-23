@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="dispatch" />
+      <item value="forward" />
+      <item value="data Handle Vo" />
+      <item value="Data Handle Vo" />
+      <item value="处理成功" />
+      <item value="handle Data" />
+      <item value="dispatcher Service" />
+      <item value="method" />
+      <item value="Hash Map" />
+      <item value="close Current" />
+      <item value="res Map" />
+      <item value="get Handle Type" />
+      <item value="processing" />
       <item value="data" />
-      <item value="diff" />
+      <item value="page Content" />
+      <item value="hand" />
+      <item value="Current Dialog" />
+      <item value="submit Callback" />
+      <item value="result Data" />
+      <item value="save data handle btn" />
+      <item value="submit" />
       <item value="button" />
+      <item value="class" />
+      <item value="default" />
+      <item value="result Vo" />
+      <item value="Request Method" />
+      <item value="status Code" />
+      <item value="btn-close" />
+      <item value="Exception" />
+      <item value="data Handle Method" />
+      <item value="forward Diff" />
+      <item value="前往对比页面" />
+      <item value="handle Type" />
+      <item value="POST" />
+      <item value="application" />
+      <item value="javascript" />
+      <item value="btn" />
+      <item value="onsubmit" />
+      <item value="select Original Data" />
+      <item value="val" />
+      <item value="post" />
+      <item value="base Path" />
+      <item value="dispatch" />
+      <item value="diff" />
       <item value="dialog" />
       <item value="function" />
       <item value="get Parameter Map" />
       <item value="close" />
       <item value="warning" />
-      <item value="javascript" />
-      <item value="application" />
       <item value="form" />
-      <item value="save data handle btn" />
       <item value="前往分发页面" />
-      <item value="data Handle Vo" />
-      <item value="stringify" />
-      <item value="json" />
-      <item value="exploded" />
-      <item value="save data handle form" />
-      <item value="console" />
-      <item value="this" />
-      <item value="request Params" />
-      <item value="get Message" />
-      <item value="status Code" />
-      <item value="message" />
-      <item value="get Handle Type" />
-      <item value="Hibernate Utils" />
-      <item value="handle Data" />
-      <item value="dispatcher Service" />
-      <item value="result Vo" />
-      <item value="Exception" />
-      <item value="print Stack Trace" />
-      <item value="若你忽然问我为什么要写诗" />
-      <item value="Request Method" />
-      <item value="Data Handle Vo" />
-      <item value="Request Body" />
-      <item value="Xml Web Application Context" />
-      <item value="Context Loader" />
-      <item value="org.apache.jasper.servlet.Tld Scanner.scan Jars" />
-      <item value="deployed" />
-      <item value="return" />
-      <item value="close Current" />
-      <item value="document" />
-      <item value="关闭当前弹窗" />
-      <item value="ready" />
-      <item value="8 a 8080 e 2506560 d 40150658120 a 10001" />
-      <item value="screen" />
-      <item value="table Name" />
-      <item value="result" />
-      <item value="action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7191" />
-        <entry key="ENGLISH" value="7192" />
+        <entry key="CHINESE" value="7296" />
+        <entry key="ENGLISH" value="7297" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -74,7 +74,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="18" />
+        <entry key="LATIN" value="19" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
