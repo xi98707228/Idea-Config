@@ -1,72 +1,71 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="int" />
-      <item value="而输入流就是获取服务端返回回来的数据" />
-      <item value="而输入流则是接收客户端返回回来的数据" />
-      <item value="Strip Qualifiers" />
-      <item value="quick Check Member Access" />
-      <item value="Method Accessor" />
-      <item value="Executable" />
-      <item value="Returns an array of {@code Parameter} objects that represent all the parameters to the underlying executable represented by this object. Returns an array of length 0 if the executable has no parameters. &lt;p&gt;The parameters of the underlying executable do not necessarily have unique names, or names that are legal identifiers in the Java programming language (JLS 3.8). @throws MalformedParametersException if the class file contains a MethodParameters attribute that is improperly formatted. @return an array of {@code Parameter} objects representing all the parameters to the executable this object represents." />
-      <item value="Parameter" />
-      <item value="Parameter Name Discoverer" />
-      <item value="Cache of singleton objects: bean name to bean instance" />
-      <item value="Return the (raw) singleton object registered under the given name. &lt;p&gt;Checks already instantiated singletons and also allows for an early reference to a currently created singleton (resolving a circular reference). @param beanName the name of the bean to look for @param allowEarlyReference whether early references should be created or not @return the registered singleton object, or {@code null} if none found" />
-      <item value="Default Singleton Bean Registry" />
-      <item value="Maximum number of suppressed exceptions to preserve." />
-      <item value="SUPPRESSED EXCEPTIONS LIMIT" />
-      <item value="Simple Alias Registry" />
-      <item value="Singleton Bean Registry" />
-      <item value="Configurable Bean Factory" />
-      <item value="Autowire Capable Bean Factory" />
-      <item value="Abstract Bean Factory" />
-      <item value="Abstract Autowire Capable Bean Factory" />
-      <item value="Register the given existing object as singleton in the bean registry, under the given bean name. &lt;p&gt;The given instance is supposed to be fully initialized; the registry will not perform any initialization callbacks (in particular, it won't call InitializingBean's {@code afterPropertiesSet} method). The given instance will not receive any destruction callbacks (like DisposableBean's {@code destroy} method) either. &lt;p&gt;When running within a full BeanFactory: &lt;b&gt;Register a bean definition instead of an existing instance if your bean is supposed to receive initialization andor destruction callbacks.&lt;b&gt; &lt;p&gt;Typically invoked during registry configuration, but can also be used for runtime registration of singletons. As a consequence, a registry implementation should synchronize singleton access; it will have to do this anyway if it supports a BeanFactory's lazy initialization of singletons. @param beanName the name of the bean" />
-      <item value="Bean Definition" />
-      <item value="Rob Harrop" />
-      <item value="A BeanDefinition describes a bean instance, which has property values, constructor argument values, and further information supplied by concrete implementations. &lt;p&gt;This is just a minimal interface: The main intention is to allow a {@link BeanFactoryPostProcessor} to introspect and modify property values and other bean metadata. @author Juergen Hoeller @author Rob Harrop" />
-      <item value="Interface that defines a registry for shared bean instances. Can be implemented by {@link org.springframework.beans.factory.BeanFactory} implementations in order to expose their singleton management facility in a uniform manner. &lt;p&gt;The {@link ConfigurableBeanFactory} interface extends this interface. @author Juergen Hoeller @since 2.0 @see ConfigurableBeanFactory @see org.springframework.beans.factory.support.DefaultSingletonBeanRegistry @see org.springframework.beans.factory.support.AbstractBeanFactory" />
-      <item value="观看到第" />
-      <item value="模板方法模式" />
-      <item value="迭代器模式" />
-      <item value="Iterable" />
-      <item value="- 设计原则 ： 最少知识原则：只和你的密友谈话 ， 尽量少在本类中使用其他的多个类 的方法" />
-      <item value="- 和策略模式类似 对比策略模式 两者各有优缺" />
-      <item value="和策略模式类似" />
-      <item value="留给子类更多的拓展" />
-      <item value="工厂方法模式" />
-      <item value="转换接口" />
-      <item value="可以添加新的职责" />
-      <item value="主要就是做" />
-      <item value="verify Dynamical Value" />
-      <item value="Object Util" />
-      <item value="end Value" />
-      <item value="start Index" />
-      <item value="column Size" />
-      <item value="verify Effective" />
-      <item value="start Value" />
-      <item value="verify String" />
-      <item value="Compute smallest power of 2 &gt; minCapacity" />
-      <item value="ensure Capacity" />
-      <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
-      <item value="gallop Right" />
+      <item value="Response Body" />
+      <item value="screen" />
+      <item value="mergely" />
+      <item value="codemirror" />
+      <item value="searchcursor" />
+      <item value="javascript" />
+      <item value="若你忽然问我为什么要写诗" />
+      <item value="status Code" />
+      <item value="slice Handler Impl" />
+      <item value="slice Handler" />
+      <item value="receive Slice Data Thread Pool" />
+      <item value="receive Slice Data" />
+      <item value="slice Input Stream" />
+      <item value="invoke Data Counter" />
+      <item value="Njzjdbc Table" />
+      <item value="njzjdbc Table" />
+      <item value="get Logger" />
+      <item value="Logger Factory" />
+      <item value="slice Handler Service" />
+      <item value="获取本次分片识别的" />
+      <item value="Slice Handler Impl" />
+      <item value="Slice Abstract Handler" />
+      <item value="Analysis Context" />
+      <item value="import Excel Data List" />
+      <item value="header Field List" />
+      <item value="one Key Data Base Service" />
+      <item value="All files are up-to-date" />
+      <item value="merge Process Data Thread Pool" />
+      <item value="Hibernate Utils" />
+      <item value="head Map" />
+      <item value="allow Core Thread Time Out" />
+      <item value="Timeout in nanoseconds for idle threads waiting for work. Threads use this timeout when there are more than corePoolSize present or if allowCoreThreadTimeOut. Otherwise they wait forever for new work." />
+      <item value="shutdown" />
+      <item value="close Component" />
+      <item value="access Token" />
+      <item value="String" />
+      <item value="verify Done" />
+      <item value="boolean" />
+      <item value="wait Counter" />
+      <item value="handler Finish Mapping" />
+      <item value="try" />
+      <item value="interrupt Idle Workers" />
+      <item value="storage Handler" />
+      <item value="return" />
+      <item value="Simple Url Handler Mapping" />
+      <item value="org.springframework.web.servlet.handler" />
+      <item value="springframework" />
+      <item value="njzjdbc Table Manager" />
+      <item value="split Data Resolver" />
+      <item value="one Key Import Process Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6402" />
-        <entry key="ENGLISH" value="6403" />
+        <entry key="CHINESE" value="7086" />
+        <entry key="ENGLISH" value="7087" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="3" />
         <entry key="AFRIKAANS" value="3" />
-        <entry key="DANISH" value="17" />
+        <entry key="DANISH" value="18" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="2" />
@@ -87,7 +86,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="11" />
+        <entry key="PORTUGUESE" value="12" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
@@ -98,7 +97,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
-        <entry key="HINDI" value="12" />
+        <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
