@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="int" />
       <item value="而输入流就是获取服务端返回回来的数据" />
       <item value="而输入流则是接收客户端返回回来的数据" />
       <item value="Strip Qualifiers" />
@@ -54,12 +55,11 @@
       <item value="ensure Capacity" />
       <item value="Gallop left until a[b+hint - ofs] &lt;= key &lt; a[b+hint - lastOfs]" />
       <item value="gallop Right" />
-      <item value="Josh Bloch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6402" />
-        <entry key="ENGLISH" value="6402" />
+        <entry key="ENGLISH" value="6403" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
