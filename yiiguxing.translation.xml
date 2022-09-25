@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="assert Has Next" />
+      <item value="Reusable assertions for &lt;code&gt;{@link Iterator}&lt;code&gt;s. @author Stephan Windmüller" />
       <item value="多种" />
       <item value="其实就是 各个集合、或数组的遍历方式不同 我们需要写多种 for 循环去遍历" />
       <item value="如果实现了统一的接口 迭代器 那么只需要修改迭代器内部的逻辑即可 客户调用只需要 hashNext next 方法即可" />
@@ -52,13 +54,11 @@
       <item value="handler Finish Mapping" />
       <item value="try" />
       <item value="interrupt Idle Workers" />
-      <item value="storage Handler" />
-      <item value="return" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7092" />
-        <entry key="ENGLISH" value="7092" />
+        <entry key="CHINESE" value="7093" />
+        <entry key="ENGLISH" value="7094" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
