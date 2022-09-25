@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="try to activate" />
+      <item value="hold prev stack top" />
+      <item value="await Join" />
+      <item value="compare And Swap Int" />
+      <item value="Abstract Pipeline" />
+      <item value="Abstract Short Circuit Task" />
+      <item value="This task's completer, or null if none" />
+      <item value="Counted Completer" />
       <item value="Head First Design Pattern" />
       <item value="previous" />
       <item value="cursor" />
@@ -46,19 +54,11 @@
       <item value="All files are up-to-date" />
       <item value="merge Process Data Thread Pool" />
       <item value="Hibernate Utils" />
-      <item value="head Map" />
-      <item value="allow Core Thread Time Out" />
-      <item value="Timeout in nanoseconds for idle threads waiting for work. Threads use this timeout when there are more than corePoolSize present or if allowCoreThreadTimeOut. Otherwise they wait forever for new work." />
-      <item value="shutdown" />
-      <item value="close Component" />
-      <item value="access Token" />
-      <item value="String" />
-      <item value="verify Done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7099" />
-        <entry key="ENGLISH" value="7100" />
+        <entry key="CHINESE" value="7108" />
+        <entry key="ENGLISH" value="7109" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -106,6 +106,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663681503656" />
+    <option name="lastTrimTime" value="1664115270341" />
   </component>
 </application>
