@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="多种" />
+      <item value="其实就是 各个集合、或数组的遍历方式不同 我们需要写多种 for 循环去遍历" />
+      <item value="如果实现了统一的接口 迭代器 那么只需要修改迭代器内部的逻辑即可 客户调用只需要 hashNext next 方法即可" />
+      <item value="@author xqh, 987072248@qq.com" />
+      <item value="part 8_iterator And Component" />
+      <item value="Head First Design Pattern" />
       <item value="Response Body" />
       <item value="screen" />
       <item value="mergely" />
@@ -48,17 +54,11 @@
       <item value="interrupt Idle Workers" />
       <item value="storage Handler" />
       <item value="return" />
-      <item value="Simple Url Handler Mapping" />
-      <item value="org.springframework.web.servlet.handler" />
-      <item value="springframework" />
-      <item value="njzjdbc Table Manager" />
-      <item value="split Data Resolver" />
-      <item value="one Key Import Process Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7086" />
-        <entry key="ENGLISH" value="7087" />
+        <entry key="CHINESE" value="7092" />
+        <entry key="ENGLISH" value="7092" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
