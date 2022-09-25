@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="previous" />
+      <item value="cursor" />
+      <item value="An iterator for lists that allows the programmer to traverse the list in either direction, modify the list during iteration, and obtain the iterator's current position in the list. A {@code ListIterator} has no current element; its &lt;I&gt;cursor position&lt;I&gt; always lies between the element that would be returned by a call to {@code previous()} and the element that would be returned by a call to {@code next()}. An iterator for a list of length {@code n} has {@code n+1} possible cursor positions, as illustrated by the carets ({@code ^}) below: &lt;PRE&gt; Element(0) Element(1) Element(2) ... Element(n-1) cursor positions: ^ ^ ^ ^ ^ &lt;PRE&gt; Note that the {@link remove} and {@link set(Object)} methods are &lt;i&gt;not&lt;i&gt; defined in terms of the cursor position; they are defined to operate on the last element returned by a call to {@link next} or {@link previous()}. &lt;p&gt;This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
+      <item value="List Iterator" />
+      <item value="An optimized version of AbstractList.ListItr" />
       <item value="assert Has Next" />
       <item value="Reusable assertions for &lt;code&gt;{@link Iterator}&lt;code&gt;s. @author Stephan Windmüller" />
       <item value="多种" />
@@ -49,16 +54,11 @@
       <item value="access Token" />
       <item value="String" />
       <item value="verify Done" />
-      <item value="boolean" />
-      <item value="wait Counter" />
-      <item value="handler Finish Mapping" />
-      <item value="try" />
-      <item value="interrupt Idle Workers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7093" />
-        <entry key="ENGLISH" value="7094" />
+        <entry key="CHINESE" value="7098" />
+        <entry key="ENGLISH" value="7099" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
