@@ -4,12 +4,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="insert Logininfor" />
+      <item value="Parameters" />
+      <item value="load Counter" />
+      <item value="mergely" />
+      <item value="mergely-full-screen-8" />
+      <item value="DISTINCT ROOT ENTITY" />
+      <item value="Criteria Specification" />
+      <item value="8 a 8080 e 2506560 d 40150658120 a 10001" />
+      <item value="column Id" />
+      <item value="act User Id" />
+      <item value="Hibernate Utils" />
+      <item value="hibernate" />
+      <item value="customconfigurationquery" />
+      <item value="industry involved type" />
+      <item value="load Frame Plugins" />
+      <item value="set Interval" />
+      <item value="load Plugin Counter" />
+      <item value="column Size" />
+      <item value="result Data Json" />
+      <item value="container" />
+      <item value="Player" />
+      <item value="camera Url" />
+      <item value="mpeg URL" />
       <item value="tag Container" />
       <item value="tag Content Container" />
       <item value="field Name List" />
-      <item value="load Counter" />
-      <item value="mergely-full-screen-8" />
-      <item value="column Size" />
       <item value="load Current Tag Plugin" />
       <item value="若你忽然问我为什么要写诗" />
       <item value="加载当前标签页的" />
@@ -20,7 +40,6 @@
       <item value="toggle" />
       <item value="data" />
       <item value="interval" />
-      <item value="result Data Json" />
       <item value="interval Load Tag" />
       <item value="function" />
       <item value="代码对比插件" />
@@ -35,30 +54,11 @@
       <item value="data-toggle" />
       <item value="Home" />
       <item value="javascript" />
-      <item value="div" />
-      <item value="diff Vo" />
-      <item value="forward" />
-      <item value="data Handle Vo" />
-      <item value="Data Handle Vo" />
-      <item value="处理成功" />
-      <item value="handle Data" />
-      <item value="dispatcher Service" />
-      <item value="method" />
-      <item value="Hash Map" />
-      <item value="close Current" />
-      <item value="res Map" />
-      <item value="get Handle Type" />
-      <item value="processing" />
-      <item value="page Content" />
-      <item value="hand" />
-      <item value="Current Dialog" />
-      <item value="submit Callback" />
-      <item value="result Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7356" />
-        <entry key="ENGLISH" value="7357" />
+        <entry key="CHINESE" value="7385" />
+        <entry key="ENGLISH" value="7386" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -106,6 +106,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663681503656" />
+    <option name="lastTrimTime" value="1664155813481" />
   </component>
 </application>
