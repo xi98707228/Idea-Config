@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="测试钩子" />
-      <item value="try to activate" />
-      <item value="hold prev stack top" />
-      <item value="await Join" />
-      <item value="compare And Swap Int" />
-      <item value="Abstract Pipeline" />
-      <item value="Abstract Short Circuit Task" />
-      <item value="This task's completer, or null if none" />
-      <item value="Counted Completer" />
-      <item value="Head First Design Pattern" />
-      <item value="previous" />
-      <item value="cursor" />
-      <item value="An iterator for lists that allows the programmer to traverse the list in either direction, modify the list during iteration, and obtain the iterator's current position in the list. A {@code ListIterator} has no current element; its &lt;I&gt;cursor position&lt;I&gt; always lies between the element that would be returned by a call to {@code previous()} and the element that would be returned by a call to {@code next()}. An iterator for a list of length {@code n} has {@code n+1} possible cursor positions, as illustrated by the carets ({@code ^}) below: &lt;PRE&gt; Element(0) Element(1) Element(2) ... Element(n-1) cursor positions: ^ ^ ^ ^ ^ &lt;PRE&gt; Note that the {@link remove} and {@link set(Object)} methods are &lt;i&gt;not&lt;i&gt; defined in terms of the cursor position; they are defined to operate on the last element returned by a call to {@link next} or {@link previous()}. &lt;p&gt;This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
-      <item value="List Iterator" />
-      <item value="An optimized version of AbstractList.ListItr" />
-      <item value="assert Has Next" />
-      <item value="Reusable assertions for &lt;code&gt;{@link Iterator}&lt;code&gt;s. @author Stephan Windmüller" />
-      <item value="多种" />
-      <item value="其实就是 各个集合、或数组的遍历方式不同 我们需要写多种 for 循环去遍历" />
-      <item value="如果实现了统一的接口 迭代器 那么只需要修改迭代器内部的逻辑即可 客户调用只需要 hashNext next 方法即可" />
-      <item value="@author xqh, 987072248@qq.com" />
-      <item value="part 8_iterator And Component" />
-      <item value="Response Body" />
-      <item value="screen" />
+      <item value="result Vo" />
+      <item value="处理方式" />
+      <item value="data Handle Vo" />
+      <item value="Missing Value Vo" />
+      <item value="Collection Utils" />
+      <item value="field Name Array" />
+      <item value="column Of Data List" />
+      <item value="Column Of Data" />
+      <item value="load Frame Work Function" />
+      <item value="选择比较字段" />
+      <item value="比较插件容器" />
+      <item value="tag Container" />
+      <item value="tablist" />
+      <item value="diff Vo" />
+      <item value="request" />
+      <item value="load Counter" />
+      <item value="tag Content Container" />
+      <item value="content" />
+      <item value="load Plugin Counter" />
+      <item value="interval Load Plugin" />
+      <item value="original List" />
+      <item value="load Current Tag Plugin" />
+      <item value="insert Logininfor" />
+      <item value="Parameters" />
       <item value="mergely" />
-      <item value="codemirror" />
-      <item value="searchcursor" />
-      <item value="javascript" />
+      <item value="mergely-full-screen-8" />
+      <item value="DISTINCT ROOT ENTITY" />
+      <item value="Criteria Specification" />
+      <item value="8 a 8080 e 2506560 d 40150658120 a 10001" />
+      <item value="column Id" />
+      <item value="act User Id" />
+      <item value="Hibernate Utils" />
+      <item value="hibernate" />
+      <item value="customconfigurationquery" />
+      <item value="industry involved type" />
+      <item value="load Frame Plugins" />
+      <item value="set Interval" />
+      <item value="column Size" />
+      <item value="result Data Json" />
+      <item value="container" />
+      <item value="Player" />
+      <item value="camera Url" />
+      <item value="mpeg URL" />
+      <item value="field Name List" />
       <item value="若你忽然问我为什么要写诗" />
-      <item value="status Code" />
-      <item value="slice Handler Impl" />
-      <item value="slice Handler" />
-      <item value="receive Slice Data Thread Pool" />
-      <item value="receive Slice Data" />
-      <item value="slice Input Stream" />
-      <item value="invoke Data Counter" />
-      <item value="Njzjdbc Table" />
-      <item value="njzjdbc Table" />
-      <item value="get Logger" />
-      <item value="Logger Factory" />
-      <item value="slice Handler Service" />
-      <item value="获取本次分片识别的" />
-      <item value="Slice Handler Impl" />
-      <item value="Slice Abstract Handler" />
-      <item value="Analysis Context" />
-      <item value="import Excel Data List" />
-      <item value="header Field List" />
-      <item value="one Key Data Base Service" />
-      <item value="All files are up-to-date" />
-      <item value="merge Process Data Thread Pool" />
+      <item value="加载当前标签页的" />
+      <item value="Settings" />
+      <item value="settings" />
+      <item value="tab-pane" />
+      <item value="toggle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7109" />
-        <entry key="ENGLISH" value="7109" />
+        <entry key="CHINESE" value="7415" />
+        <entry key="ENGLISH" value="7416" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -74,7 +74,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="18" />
+        <entry key="LATIN" value="19" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
@@ -106,6 +106,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664115270341" />
+    <option name="lastTrimTime" value="1664155813481" />
   </component>
 </application>
