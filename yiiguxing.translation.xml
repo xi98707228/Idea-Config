@@ -4,9 +4,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data Handle Vo" />
+      <item value="Missing Value Vo" />
+      <item value="Collection Utils" />
+      <item value="field Name Array" />
+      <item value="column Of Data List" />
+      <item value="Column Of Data" />
+      <item value="load Frame Work Function" />
+      <item value="选择比较字段" />
+      <item value="比较插件容器" />
+      <item value="tag Container" />
+      <item value="tablist" />
+      <item value="diff Vo" />
+      <item value="request" />
+      <item value="load Counter" />
+      <item value="tag Content Container" />
+      <item value="content" />
+      <item value="load Plugin Counter" />
+      <item value="interval Load Plugin" />
+      <item value="original List" />
+      <item value="load Current Tag Plugin" />
       <item value="insert Logininfor" />
       <item value="Parameters" />
-      <item value="load Counter" />
       <item value="mergely" />
       <item value="mergely-full-screen-8" />
       <item value="DISTINCT ROOT ENTITY" />
@@ -20,45 +39,26 @@
       <item value="industry involved type" />
       <item value="load Frame Plugins" />
       <item value="set Interval" />
-      <item value="load Plugin Counter" />
       <item value="column Size" />
       <item value="result Data Json" />
       <item value="container" />
       <item value="Player" />
       <item value="camera Url" />
       <item value="mpeg URL" />
-      <item value="tag Container" />
-      <item value="tag Content Container" />
       <item value="field Name List" />
-      <item value="load Current Tag Plugin" />
       <item value="若你忽然问我为什么要写诗" />
       <item value="加载当前标签页的" />
-      <item value="load Frame Work Function" />
       <item value="Settings" />
       <item value="settings" />
       <item value="tab-pane" />
       <item value="toggle" />
       <item value="data" />
       <item value="interval" />
-      <item value="interval Load Tag" />
-      <item value="function" />
-      <item value="代码对比插件" />
-      <item value="tab Id" />
-      <item value="TIME DELAY LENGTH" />
-      <item value="TIME DEALY LENGTH" />
-      <item value="load Current Tab Plugnis" />
-      <item value="tablist" />
-      <item value="fade" />
-      <item value="class" />
-      <item value="mergely 1" />
-      <item value="data-toggle" />
-      <item value="Home" />
-      <item value="javascript" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7385" />
-        <entry key="ENGLISH" value="7386" />
+        <entry key="CHINESE" value="7414" />
+        <entry key="ENGLISH" value="7415" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
