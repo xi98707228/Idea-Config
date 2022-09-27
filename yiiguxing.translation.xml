@@ -4,6 +4,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="execute Data Base Thread Pool" />
+      <item value="get Key" />
+      <item value="table Fields Map" />
+      <item value="customconfigurationquery" />
+      <item value="table Fields" />
+      <item value="保证高效使用线程池" />
+      <item value="print Stack Trace" />
+      <item value="Execute" />
+      <item value="trace" />
+      <item value="slice Store Meta Data Mapping" />
+      <item value="now Slice Part Size" />
+      <item value="compare And Set" />
+      <item value="slice Handler Access Token" />
+      <item value="Handler Zero Copy Storage" />
+      <item value="run" />
+      <item value="change Slice Data" />
+      <item value="Slice Loop Merge Handler" />
       <item value="nuaa" />
       <item value="gumball Count" />
       <item value="此时糖果机内有多少颗糖果" />
@@ -37,28 +54,11 @@
       <item value="original List" />
       <item value="load Current Tag Plugin" />
       <item value="insert Logininfor" />
-      <item value="Parameters" />
-      <item value="mergely" />
-      <item value="mergely-full-screen-8" />
-      <item value="DISTINCT ROOT ENTITY" />
-      <item value="Criteria Specification" />
-      <item value="8 a 8080 e 2506560 d 40150658120 a 10001" />
-      <item value="column Id" />
-      <item value="act User Id" />
-      <item value="Hibernate Utils" />
-      <item value="hibernate" />
-      <item value="customconfigurationquery" />
-      <item value="industry involved type" />
-      <item value="load Frame Plugins" />
-      <item value="set Interval" />
-      <item value="column Size" />
-      <item value="result Data Json" />
-      <item value="container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7426" />
-        <entry key="ENGLISH" value="7427" />
+        <entry key="CHINESE" value="7448" />
+        <entry key="ENGLISH" value="7449" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
