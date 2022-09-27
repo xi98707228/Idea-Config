@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finalize" />
+      <item value="Split Relation Config" />
+      <item value="SPLIT TABLE FIELD THRESHOLD" />
+      <item value="field Name List" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="close Component" />
       <item value="execute Data Base Thread Pool" />
       <item value="get Key" />
       <item value="table Fields Map" />
@@ -48,17 +54,11 @@
       <item value="request" />
       <item value="load Counter" />
       <item value="tag Content Container" />
-      <item value="content" />
-      <item value="load Plugin Counter" />
-      <item value="interval Load Plugin" />
-      <item value="original List" />
-      <item value="load Current Tag Plugin" />
-      <item value="insert Logininfor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7448" />
-        <entry key="ENGLISH" value="7449" />
+        <entry key="CHINESE" value="7454" />
+        <entry key="ENGLISH" value="7455" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
