@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="nuaa" />
       <item value="gumball Count" />
       <item value="此时糖果机内有多少颗糖果" />
       <item value="machine Count" />
@@ -53,7 +54,6 @@
       <item value="column Size" />
       <item value="result Data Json" />
       <item value="container" />
-      <item value="Player" />
     </histories>
     <option name="languageScores">
       <map>
