@@ -4,26 +4,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="turn Crank" />
-      <item value="HAS QUARTER" />
-      <item value="gumball Machine Insert Quarter Status" />
-      <item value="Gumball Machine Insert Quarter Status" />
-      <item value="compare And Set State" />
-      <item value="compare And Increment Worker Count" />
-      <item value="run State Less Than" />
-      <item value="run State Of" />
-      <item value="worker Count Of" />
-      <item value="Packing and unpacking ctl" />
-      <item value="runState is stored in the high-order bits" />
-      <item value="RUNNING" />
-      <item value="Atomic Integer" />
-      <item value="ctl Of" />
-      <item value="CAPACITY" />
-      <item value="Integer" />
-      <item value="COUNT BITS" />
-      <item value="The main pool control state, ctl, is an atomic integer packing two conceptual fields workerCount, indicating the effective number of threads runState, indicating whether running, shutting down etc In order to pack them into one int, we limit workerCount to (2^29)-1 (about 500 million) threads rather than (2^31)-1 (2 billion) otherwise representable. If this is ever an issue in the future, the variable can be changed to be an AtomicLong, and the shiftmask constants below adjusted. But until the need arises, this code is a bit faster and simpler using an int. The workerCount is the number of workers that have been permitted to start and not permitted to stop. The value may be transiently different from the actual number of live threads, for example when a ThreadFactory fails to create a thread when asked, and when exiting threads are still performing bookkeeping before terminating. The user-visible pool size is reported as the current size of the workers set. The runState provides the main lifecycle control, taking on values: RUNNING: Accept new tasks and process queued tasks SHUTDOWN: Don't accept new tasks, but process queued tasks STOP: Don't accept new tasks, don't process queued tasks, and interrupt in-progress tasks TIDYING: All tasks have terminated, workerCount is zero, the thread transitioning to state TIDYING will run the terminated() hook method TERMINATED: terminated() has completed The numerical order among these values matters, to allow ordered comparisons. The runState monotonically increases over time, but need not hit each state. The transitions are: RUNNING -&gt; SHUTDOWN On invocation of shutdown(), perhaps implicitly in finalize() (RUNNING or SHUTDOWN) -&gt; STOP On invocation of shutdownNow() SHUTDOWN -&gt; TIDYING When both queue and pool are empty STOP -&gt; TIDYING When pool is empty TIDYING -&gt; TERMINATED When the terminated() hook method has completed Threads waiting in awaitTermination() will return when the state reaches TERMINATED. Detecting the transition from SHUTDOWN to TIDYING is less straightforward than you'd like because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below)." />
-      <item value="core Pool Size" />
-      <item value="糖果机" />
+      <item value="Finalize" />
+      <item value="Split Relation Config" />
+      <item value="SPLIT TABLE FIELD THRESHOLD" />
+      <item value="field Name List" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="close Component" />
+      <item value="execute Data Base Thread Pool" />
+      <item value="get Key" />
+      <item value="table Fields Map" />
+      <item value="customconfigurationquery" />
+      <item value="table Fields" />
+      <item value="保证高效使用线程池" />
+      <item value="print Stack Trace" />
+      <item value="Execute" />
+      <item value="trace" />
+      <item value="slice Store Meta Data Mapping" />
+      <item value="now Slice Part Size" />
+      <item value="compare And Set" />
+      <item value="slice Handler Access Token" />
+      <item value="Handler Zero Copy Storage" />
+      <item value="run" />
+      <item value="change Slice Data" />
+      <item value="Slice Loop Merge Handler" />
+      <item value="nuaa" />
       <item value="gumball Count" />
       <item value="此时糖果机内有多少颗糖果" />
       <item value="machine Count" />
@@ -50,15 +54,11 @@
       <item value="request" />
       <item value="load Counter" />
       <item value="tag Content Container" />
-      <item value="content" />
-      <item value="load Plugin Counter" />
-      <item value="interval Load Plugin" />
-      <item value="original List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7449" />
-        <entry key="ENGLISH" value="7450" />
+        <entry key="CHINESE" value="7454" />
+        <entry key="ENGLISH" value="7455" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
