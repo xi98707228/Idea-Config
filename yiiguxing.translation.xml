@@ -1,9 +1,36 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Josh Bloch (Added exception chaining and programmatic access to stack trace in 1.4.)" />
+      <item value="Josh Bloch" />
+      <item value="unascribed" />
+      <item value="Frank Yellin" />
+      <item value="Virtual Machine Error" />
+      <item value="Unknown Error" />
+      <item value="fall through if null as cannot-happen safeguard" />
+      <item value="Unsafe" />
+      <item value="Innocuous Fork Join Worker Thread" />
+      <item value="INHERITEDACCESSCONTROLCONTEXT" />
+      <item value="Managed Blocker" />
+      <item value="Phaser" />
+      <item value="Int Cumulate Task" />
+      <item value="Array Prefix Helpers" />
+      <item value="Long Cumulate Task" />
+      <item value="&lt;p&gt;Another typical usage would be to divide a problem into N parts, describe each part with a Runnable that executes that portion and counts down on the latch, and queue all the Runnables to an Executor. When all sub-parts are complete, the coordinating thread will be able to pass through await. (When threads must repeatedly count down in this way, instead use a {@link CyclicBarrier}.)" />
+      <item value="Cyclic Barrier" />
+      <item value="Cyclicbarrier" />
+      <item value="Count Down Latch" />
+      <item value="Default Fork Join Worker Thread Factory" />
+      <item value="parallelism" />
+      <item value="使用状态模式的糖果机" />
+      <item value="gumball Count" />
+      <item value="此时糖果机内有多少颗糖果" />
+      <item value="gumball Machine Insert Quarter Status" />
+      <item value="status" />
+      <item value="Gumball Machine Insert Quarter Status" />
       <item value="Slice Abstract Handler" />
       <item value="Abstract Merge Slice Handler" />
       <item value="装填描述类" />
@@ -27,38 +54,11 @@
       <item value="Execute" />
       <item value="trace" />
       <item value="slice Store Meta Data Mapping" />
-      <item value="now Slice Part Size" />
-      <item value="compare And Set" />
-      <item value="Handler Zero Copy Storage" />
-      <item value="run" />
-      <item value="change Slice Data" />
-      <item value="Slice Loop Merge Handler" />
-      <item value="nuaa" />
-      <item value="gumball Count" />
-      <item value="此时糖果机内有多少颗糖果" />
-      <item value="machine Count" />
-      <item value="NO QUARTER" />
-      <item value="Status Holder" />
-      <item value="un Contains Store Class Field" />
-      <item value="Store Class Node" />
-      <item value="Resolve Factory" />
-      <item value="result Vo" />
-      <item value="处理方式" />
-      <item value="data Handle Vo" />
-      <item value="Missing Value Vo" />
-      <item value="Collection Utils" />
-      <item value="field Name Array" />
-      <item value="column Of Data List" />
-      <item value="Column Of Data" />
-      <item value="load Frame Work Function" />
-      <item value="选择比较字段" />
-      <item value="比较插件容器" />
-      <item value="tag Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7461" />
-        <entry key="ENGLISH" value="7462" />
+        <entry key="CHINESE" value="7491" />
+        <entry key="ENGLISH" value="7492" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
