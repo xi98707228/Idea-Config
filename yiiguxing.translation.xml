@@ -1,64 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="SOLD" />
-      <item value="dispense" />
-      <item value="turn Crank" />
-      <item value="release Ball" />
-      <item value="insert Quarter" />
-      <item value="Sold Out Status" />
-      <item value="eject Quarter" />
-      <item value="初始化的糖果数量" />
-      <item value="Gumball Machine Status" />
-      <item value="insert Count" />
-      <item value="no Quarter Status" />
-      <item value="sold Status" />
-      <item value="sold Out Status" />
-      <item value="Has Quarter Status" />
-      <item value="Gumball Status" />
-      <item value="后边设置状态对象时" />
-      <item value="所有状态对象" />
-      <item value="Gumball Machine Insert Quarter Status" />
-      <item value="Override" />
-      <item value="gumball Machine Status" />
-      <item value="gumball Machine Insert Quarter Status" />
-      <item value="Josh Bloch (Added exception chaining and programmatic access to stack trace in 1.4.)" />
-      <item value="Josh Bloch" />
-      <item value="unascribed" />
-      <item value="Frank Yellin" />
-      <item value="Virtual Machine Error" />
-      <item value="Unknown Error" />
-      <item value="fall through if null as cannot-happen safeguard" />
-      <item value="Unsafe" />
-      <item value="Innocuous Fork Join Worker Thread" />
-      <item value="INHERITEDACCESSCONTROLCONTEXT" />
-      <item value="Managed Blocker" />
-      <item value="Phaser" />
-      <item value="Int Cumulate Task" />
-      <item value="Array Prefix Helpers" />
-      <item value="Long Cumulate Task" />
-      <item value="&lt;p&gt;Another typical usage would be to divide a problem into N parts, describe each part with a Runnable that executes that portion and counts down on the latch, and queue all the Runnables to an Executor. When all sub-parts are complete, the coordinating thread will be able to pass through await. (When threads must repeatedly count down in this way, instead use a {@link CyclicBarrier}.)" />
-      <item value="Cyclic Barrier" />
-      <item value="Cyclicbarrier" />
-      <item value="Count Down Latch" />
-      <item value="Default Fork Join Worker Thread Factory" />
-      <item value="parallelism" />
-      <item value="使用状态模式的糖果机" />
-      <item value="gumball Count" />
-      <item value="此时糖果机内有多少颗糖果" />
-      <item value="status" />
-      <item value="Slice Abstract Handler" />
-      <item value="Abstract Merge Slice Handler" />
-      <item value="装填描述类" />
-      <item value="Executor Service" />
+      <item value="leet Code Reduce Method" />
+      <item value="td" />
+      <item value="current List" />
+      <item value="javascript" />
+      <item value="Data Handle Dispatcher Service" />
+      <item value="Application Context Aware" />
+      <item value="else" />
+      <item value="append" />
+      <item value="function" />
+      <item value="none" />
+      <item value="load Frame Plugins" />
+      <item value="load Plugin Counter" />
+      <item value="interval Load Plugin" />
+      <item value="currrent List" />
+      <item value="original List" />
+      <item value="diff Vo" />
+      <item value="field Name List" />
+      <item value="result Vo" />
+      <item value="for Each" />
+      <item value="ready" />
+      <item value="Xml Bean Definition Reader" />
+      <item value="数据处理方法" />
+      <item value="结果" />
+      <item value="POST" />
+      <item value="Request Method" />
+      <item value="data" />
+      <item value="Request Mapping" />
+      <item value="Response Body" />
+      <item value="select Fields" />
+      <item value="handle Type" />
+      <item value="message" />
+      <item value="Connection timed out: connect" />
+      <item value="header Field List" />
+      <item value="import Excel Data List" />
+      <item value="data List" />
+      <item value="bean Dest" />
+      <item value="Finalize" />
+      <item value="Split Relation Config" />
+      <item value="SPLIT TABLE FIELD THRESHOLD" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="close Component" />
+      <item value="execute Data Base Thread Pool" />
+      <item value="get Key" />
+      <item value="table Fields Map" />
+      <item value="customconfigurationquery" />
+      <item value="table Fields" />
+      <item value="保证高效使用线程池" />
+      <item value="print Stack Trace" />
+      <item value="Execute" />
+      <item value="trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7524" />
-        <entry key="ENGLISH" value="7525" />
+        <entry key="CHINESE" value="7486" />
+        <entry key="ENGLISH" value="7487" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -107,8 +107,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1664155813481" />
-  </component>
-  <component name="Settings">
-    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
 </application>
