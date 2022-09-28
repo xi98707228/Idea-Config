@@ -4,11 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="else" />
+      <item value="append" />
+      <item value="function" />
+      <item value="none" />
       <item value="load Frame Plugins" />
       <item value="load Plugin Counter" />
       <item value="interval Load Plugin" />
       <item value="currrent List" />
-      <item value="function" />
       <item value="original List" />
       <item value="diff Vo" />
       <item value="field Name List" />
@@ -51,14 +54,11 @@
       <item value="slice Handler Access Token" />
       <item value="Handler Zero Copy Storage" />
       <item value="run" />
-      <item value="change Slice Data" />
-      <item value="Slice Loop Merge Handler" />
-      <item value="nuaa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7480" />
-        <entry key="ENGLISH" value="7481" />
+        <entry key="CHINESE" value="7482" />
+        <entry key="ENGLISH" value="7483" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
