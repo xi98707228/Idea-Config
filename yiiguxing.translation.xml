@@ -4,6 +4,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="SOLD" />
+      <item value="dispense" />
+      <item value="turn Crank" />
+      <item value="release Ball" />
+      <item value="insert Quarter" />
+      <item value="Sold Out Status" />
+      <item value="eject Quarter" />
+      <item value="初始化的糖果数量" />
+      <item value="Gumball Machine Status" />
+      <item value="insert Count" />
+      <item value="no Quarter Status" />
+      <item value="sold Status" />
+      <item value="sold Out Status" />
+      <item value="Has Quarter Status" />
+      <item value="Gumball Status" />
+      <item value="后边设置状态对象时" />
+      <item value="所有状态对象" />
+      <item value="Gumball Machine Insert Quarter Status" />
+      <item value="Override" />
+      <item value="gumball Machine Status" />
+      <item value="gumball Machine Insert Quarter Status" />
       <item value="Josh Bloch (Added exception chaining and programmatic access to stack trace in 1.4.)" />
       <item value="Josh Bloch" />
       <item value="unascribed" />
@@ -28,37 +49,16 @@
       <item value="使用状态模式的糖果机" />
       <item value="gumball Count" />
       <item value="此时糖果机内有多少颗糖果" />
-      <item value="gumball Machine Insert Quarter Status" />
       <item value="status" />
-      <item value="Gumball Machine Insert Quarter Status" />
       <item value="Slice Abstract Handler" />
       <item value="Abstract Merge Slice Handler" />
       <item value="装填描述类" />
-      <item value="insert Quarter" />
       <item value="Executor Service" />
-      <item value="slice Handler Access Token" />
-      <item value="volatile" />
-      <item value="Finalize" />
-      <item value="Split Relation Config" />
-      <item value="SPLIT TABLE FIELD THRESHOLD" />
-      <item value="field Name List" />
-      <item value="batch Execute Split Insert Data Base Values" />
-      <item value="close Component" />
-      <item value="execute Data Base Thread Pool" />
-      <item value="get Key" />
-      <item value="table Fields Map" />
-      <item value="customconfigurationquery" />
-      <item value="table Fields" />
-      <item value="保证高效使用线程池" />
-      <item value="print Stack Trace" />
-      <item value="Execute" />
-      <item value="trace" />
-      <item value="slice Store Meta Data Mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7491" />
-        <entry key="ENGLISH" value="7492" />
+        <entry key="CHINESE" value="7524" />
+        <entry key="ENGLISH" value="7525" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
