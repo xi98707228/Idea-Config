@@ -5,21 +5,43 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="get Left Threshold" />
-      <item value="Data Handle Type" />
+      <item value="String" />
+      <item value="column Name" />
+      <item value="column Value Error Index" />
+      <item value="column Of Data" />
+      <item value="Calculate" />
+      <item value="System" />
+      <item value="Column Resolver Data" />
+      <item value="args" />
+      <item value="Arrays" />
+      <item value="as List" />
+      <item value="objects List" />
+      <item value="execute Calculate" />
+      <item value="abc" />
+      <item value="split" />
+      <item value="query Data For Fields" />
+      <item value="get Select Fields" />
+      <item value="Jdbc Util" />
       <item value="ABNORMAL VALUE" />
-      <item value="get Handle Type" />
-      <item value="data Handle Abnormal Vo" />
       <item value="数据标准化处理" />
-      <item value="Data Handle Vo" />
       <item value="left Threshold" />
+      <item value="data Handle Vo" />
+      <item value="get Left Threshold" />
+      <item value="get Handle Type" />
+      <item value="Data Handle Type" />
+      <item value="forward Page Param" />
+      <item value="res Map" />
+      <item value="else" />
+      <item value="Exception" />
+      <item value="get Message" />
+      <item value="Data Handle Vo" />
+      <item value="data Handle Abnormal Vo" />
       <item value="handle Type" />
       <item value="value" />
       <item value="Request Mapping" />
       <item value="Request Method" />
       <item value="print Stack Trace" />
       <item value="Hash Map" />
-      <item value="data Handle Vo" />
       <item value="model" />
       <item value="dispatcher Service" />
       <item value="handle Data" />
@@ -44,7 +66,6 @@
       <item value="td" />
       <item value="current List" />
       <item value="javascript" />
-      <item value="else" />
       <item value="append" />
       <item value="none" />
       <item value="load Frame Plugins" />
@@ -80,8 +101,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7535" />
-        <entry key="ENGLISH" value="7536" />
+        <entry key="CHINESE" value="7575" />
+        <entry key="ENGLISH" value="7576" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
