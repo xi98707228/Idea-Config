@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Xml Bean Definition Reader" />
+      <item value="数据处理方法" />
+      <item value="结果" />
+      <item value="POST" />
+      <item value="Request Method" />
+      <item value="data" />
+      <item value="Request Mapping" />
+      <item value="Response Body" />
+      <item value="select Fields" />
+      <item value="handle Type" />
+      <item value="message" />
       <item value="Connection timed out: connect" />
       <item value="header Field List" />
       <item value="import Excel Data List" />
@@ -43,22 +54,11 @@
       <item value="Store Class Node" />
       <item value="Resolve Factory" />
       <item value="result Vo" />
-      <item value="处理方式" />
-      <item value="data Handle Vo" />
-      <item value="Missing Value Vo" />
-      <item value="Collection Utils" />
-      <item value="field Name Array" />
-      <item value="column Of Data List" />
-      <item value="Column Of Data" />
-      <item value="load Frame Work Function" />
-      <item value="选择比较字段" />
-      <item value="比较插件容器" />
-      <item value="tag Container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7457" />
-        <entry key="ENGLISH" value="7458" />
+        <entry key="CHINESE" value="7465" />
+        <entry key="ENGLISH" value="7466" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
