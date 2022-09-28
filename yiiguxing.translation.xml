@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Slice Abstract Handler" />
+      <item value="Abstract Merge Slice Handler" />
       <item value="装填描述类" />
       <item value="insert Quarter" />
-      <item value="Slice Abstract Handler" />
       <item value="Executor Service" />
       <item value="slice Handler Access Token" />
       <item value="volatile" />
@@ -53,12 +54,11 @@
       <item value="选择比较字段" />
       <item value="比较插件容器" />
       <item value="tag Container" />
-      <item value="tablist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7460" />
-        <entry key="ENGLISH" value="7460" />
+        <entry key="CHINESE" value="7461" />
+        <entry key="ENGLISH" value="7462" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
