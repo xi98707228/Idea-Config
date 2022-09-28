@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="td" />
+      <item value="tbody" />
+      <item value="handle Type" />
+      <item value="button" />
+      <item value="table Exist" />
+      <item value="处理方式" />
       <item value="data Handle Vo" />
       <item value="dispatcher Service" />
       <item value="to JSON String" />
@@ -78,7 +84,6 @@
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
-      <item value="handle Type" />
       <item value="value" />
       <item value="Request Mapping" />
       <item value="Request Method" />
@@ -103,7 +108,6 @@
       <item value="original List" />
       <item value="for Each" />
       <item value="leet Code Reduce Method" />
-      <item value="td" />
       <item value="current List" />
       <item value="javascript" />
       <item value="append" />
@@ -140,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7659" />
-        <entry key="ENGLISH" value="7660" />
+        <entry key="CHINESE" value="7665" />
+        <entry key="ENGLISH" value="7666" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -184,7 +188,7 @@
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>
