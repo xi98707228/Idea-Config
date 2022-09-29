@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ends With" />
+      <item value="请选择Excel文件" />
+      <item value="one Key Import Index Id" />
+      <item value="reset File Component" />
+      <item value="select File Change Method" />
+      <item value="verify File Extension Name" />
       <item value="divide" />
       <item value="equest processing failed; nested exception is java.lang.ArithmeticException: Non-terminating decimal expansion; no exact representable decimal result" />
       <item value="Using DataSource" />
@@ -246,8 +252,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7866" />
-        <entry key="ENGLISH" value="7867" />
+        <entry key="CHINESE" value="7871" />
+        <entry key="ENGLISH" value="7872" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
