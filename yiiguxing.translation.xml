@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="handle Type" />
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
@@ -18,7 +19,6 @@
       <item value="i Check" />
       <item value="td" />
       <item value="tbody" />
-      <item value="handle Type" />
       <item value="button" />
       <item value="table Exist" />
       <item value="处理方式" />
@@ -155,8 +155,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7682" />
-        <entry key="ENGLISH" value="7683" />
+        <entry key="CHINESE" value="7683" />
+        <entry key="ENGLISH" value="7684" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
