@@ -5,12 +5,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="navtab" />
+      <item value="bjuiajax" />
+      <item value="forward Diff Nav Tab" />
+      <item value="each" />
+      <item value="json" />
+      <item value="ajax Done" />
       <item value="缺失值补充" />
       <item value="handle Type" />
       <item value="信息提示" />
-      <item value="ajax Done" />
-      <item value="json" />
-      <item value="forward Diff Nav Tab" />
       <item value="跳转页面" />
       <item value="forward Page Param" />
       <item value="异常值处理 跳转" />
@@ -31,8 +34,6 @@
       <item value="diff" />
       <item value="table Name" />
       <item value="缺失值处理 跳转页面" />
-      <item value="navtab" />
-      <item value="bjuiajax" />
       <item value="forward Diff Call Back" />
       <item value="right Threshold" />
       <item value="diff Context" />
@@ -179,8 +180,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7744" />
-        <entry key="ENGLISH" value="7744" />
+        <entry key="CHINESE" value="7749" />
+        <entry key="ENGLISH" value="7749" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -207,8 +208,8 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="5" />
-        <entry key="PORTUGUESE" value="13" />
+        <entry key="NORWEGIAN" value="6" />
+        <entry key="PORTUGUESE" value="14" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
