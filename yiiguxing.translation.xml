@@ -5,11 +5,42 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="缺失值补充" />
+      <item value="handle Type" />
+      <item value="信息提示" />
+      <item value="ajax Done" />
+      <item value="json" />
+      <item value="forward Diff Nav Tab" />
+      <item value="跳转页面" />
+      <item value="forward Page Param" />
+      <item value="异常值处理 跳转" />
+      <item value="GET" />
+      <item value="Request Method" />
+      <item value="data Handle Vo" />
+      <item value="Data Handle Vo" />
+      <item value="Hash Map" />
+      <item value="处理成功" />
+      <item value="get Handle Type" />
+      <item value="forward" />
+      <item value="MISSING VALUE" />
+      <item value="Data Handle Type" />
+      <item value="ABNORMAL VALUE" />
+      <item value="我的业务页面" />
+      <item value="get Table Name" />
+      <item value="select Fields" />
+      <item value="diff" />
+      <item value="table Name" />
+      <item value="缺失值处理 跳转页面" />
+      <item value="navtab" />
+      <item value="bjuiajax" />
+      <item value="forward Diff Call Back" />
+      <item value="right Threshold" />
+      <item value="diff Context" />
+      <item value="add Attribute" />
       <item value="get Field Name List" />
       <item value="bordered" />
       <item value="option" />
       <item value="value" />
-      <item value="handle Type" />
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
@@ -26,13 +57,11 @@
       <item value="button" />
       <item value="table Exist" />
       <item value="处理方式" />
-      <item value="data Handle Vo" />
       <item value="dispatcher Service" />
       <item value="to JSON String" />
       <item value="JSON" />
       <item value="result Vo" />
       <item value="field Name Array" />
-      <item value="Data Handle Vo" />
       <item value="超越极限则为异常" />
       <item value="compare Beyond To Limit" />
       <item value="record Error Index" />
@@ -88,27 +117,19 @@
       <item value="query Data For Fields" />
       <item value="get Select Fields" />
       <item value="Jdbc Util" />
-      <item value="ABNORMAL VALUE" />
       <item value="数据标准化处理" />
       <item value="get Left Threshold" />
-      <item value="get Handle Type" />
-      <item value="Data Handle Type" />
-      <item value="forward Page Param" />
       <item value="res Map" />
       <item value="else" />
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
       <item value="Request Mapping" />
-      <item value="Request Method" />
       <item value="print Stack Trace" />
-      <item value="Hash Map" />
       <item value="model" />
       <item value="handle Data" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
-      <item value="table Name" />
-      <item value="select Fields" />
       <item value="handle" />
       <item value="TIME DELAY LENGTH" />
       <item value="Data Handle Dispatcher Service" />
@@ -158,8 +179,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7688" />
-        <entry key="ENGLISH" value="7689" />
+        <entry key="CHINESE" value="7744" />
+        <entry key="ENGLISH" value="7744" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -186,8 +207,8 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="12" />
+        <entry key="NORWEGIAN" value="5" />
+        <entry key="PORTUGUESE" value="13" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
