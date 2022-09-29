@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="push Message" />
+      <item value="Article" />
+      <item value="Privileged Action" />
+      <item value="event Dispatched" />
+      <item value="A tagging interface that all event listener interfaces must extend." />
+      <item value="Interface to be implemented by application event listeners. &lt;p&gt;Based on the standard {@code java.util.EventListener} interface for the Observer design pattern." />
       <item value="Readable Byte Channel" />
       <item value="Resource Pattern Resolver" />
       <item value="Application Context" />
@@ -48,17 +54,11 @@
       <item value="header Field List" />
       <item value="import Excel Data List" />
       <item value="data List" />
-      <item value="bean Dest" />
-      <item value="Finalize" />
-      <item value="Split Relation Config" />
-      <item value="SPLIT TABLE FIELD THRESHOLD" />
-      <item value="batch Execute Split Insert Data Base Values" />
-      <item value="close Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7496" />
-        <entry key="ENGLISH" value="7497" />
+        <entry key="CHINESE" value="7502" />
+        <entry key="ENGLISH" value="7503" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
