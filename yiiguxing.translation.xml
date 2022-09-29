@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Readable Byte Channel" />
+      <item value="Resource Pattern Resolver" />
+      <item value="Application Context" />
+      <item value="Application Event Publisher" />
+      <item value="Publish Event" />
+      <item value="local Event List" />
+      <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
+      <item value="Wx Publish Event Manager" />
+      <item value="Observer" />
       <item value="leet Code Reduce Method" />
       <item value="td" />
       <item value="current List" />
@@ -45,20 +54,11 @@
       <item value="SPLIT TABLE FIELD THRESHOLD" />
       <item value="batch Execute Split Insert Data Base Values" />
       <item value="close Component" />
-      <item value="execute Data Base Thread Pool" />
-      <item value="get Key" />
-      <item value="table Fields Map" />
-      <item value="customconfigurationquery" />
-      <item value="table Fields" />
-      <item value="保证高效使用线程池" />
-      <item value="print Stack Trace" />
-      <item value="Execute" />
-      <item value="trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7486" />
-        <entry key="ENGLISH" value="7487" />
+        <entry key="CHINESE" value="7496" />
+        <entry key="ENGLISH" value="7497" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
