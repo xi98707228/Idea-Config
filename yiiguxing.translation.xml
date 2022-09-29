@@ -5,8 +5,25 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="ctl Of" />
+      <item value="calculate Result List" />
+      <item value="execute Calculate" />
+      <item value="column Of Data List" />
+      <item value="data Handle Vo" />
+      <item value="execute Calculate Dispatcher" />
+      <item value="Handle Result Vo" />
+      <item value="System.out.println(2);" />
+      <item value="Data Normalization Service" />
+      <item value="RUNNING" />
+      <item value="Abort Policy" />
+      <item value="A handler for rejected tasks that silently discards the rejected task." />
+      <item value="Discard Oldest Policy" />
+      <item value="Discard Policy" />
       <item value="COUNT BITS" />
+      <item value="run State Of" />
+      <item value="CAPACITY" />
+      <item value="return" />
+      <item value="ctl Of" />
+      <item value="Bit field accessors that don't require unpacking ctl. These depend on the bit layout and on workerCount being never negative." />
       <item value="rs" />
       <item value="worker Count Of" />
       <item value="merge Process Data Thread Pool" />
@@ -18,7 +35,6 @@
       <item value="table Name" />
       <item value="Help GC" />
       <item value="limit" />
-      <item value="Data Normalization Service" />
       <item value="http-nio-8699" />
       <item value="stylesheet" />
       <item value="codemirror" />
@@ -36,7 +52,6 @@
       <item value="异常值处理 跳转" />
       <item value="GET" />
       <item value="Request Method" />
-      <item value="data Handle Vo" />
       <item value="Data Handle Vo" />
       <item value="Hash Map" />
       <item value="处理成功" />
@@ -97,7 +112,6 @@
       <item value="is Up" />
       <item value="boolean" />
       <item value="Math" />
-      <item value="execute Calculate" />
       <item value="column Resolver Data" />
       <item value="double To Raw Long Bits" />
       <item value="Array List" />
@@ -116,7 +130,6 @@
       <item value="Column Resolver Data" />
       <item value="column Values" />
       <item value="column Of Data" />
-      <item value="column Of Data List" />
       <item value="Column Of Data" />
       <item value="size" />
       <item value="String" />
@@ -194,8 +207,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7766" />
-        <entry key="ENGLISH" value="7767" />
+        <entry key="CHINESE" value="7791" />
+        <entry key="ENGLISH" value="7792" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
