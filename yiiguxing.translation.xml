@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ctl Of" />
+      <item value="COUNT BITS" />
+      <item value="rs" />
+      <item value="worker Count Of" />
+      <item value="merge Process Data Thread Pool" />
+      <item value="remove Shutdown Hook" />
+      <item value="get Parent Bean Factory" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="execute Data Base Thread Pool" />
+      <item value="Execute" />
+      <item value="table Name" />
+      <item value="Help GC" />
+      <item value="limit" />
+      <item value="Data Normalization Service" />
       <item value="http-nio-8699" />
       <item value="stylesheet" />
       <item value="codemirror" />
@@ -35,7 +49,6 @@
       <item value="get Table Name" />
       <item value="select Fields" />
       <item value="diff" />
-      <item value="table Name" />
       <item value="缺失值处理 跳转页面" />
       <item value="forward Diff Call Back" />
       <item value="right Threshold" />
@@ -77,7 +90,6 @@
       <item value="Merge sort from Oracle JDK 6" />
       <item value="verify Effective" />
       <item value="left Threshold" />
-      <item value="limit" />
       <item value="compare Result" />
       <item value="compare To" />
       <item value="待确认值" />
@@ -175,7 +187,6 @@
       <item value="SPLIT TABLE FIELD THRESHOLD" />
       <item value="batch Execute Split Insert Data Base Values" />
       <item value="close Component" />
-      <item value="execute Data Base Thread Pool" />
       <item value="get Key" />
       <item value="table Fields Map" />
       <item value="customconfigurationquery" />
@@ -183,8 +194,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7750" />
-        <entry key="ENGLISH" value="7751" />
+        <entry key="CHINESE" value="7766" />
+        <entry key="ENGLISH" value="7767" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
