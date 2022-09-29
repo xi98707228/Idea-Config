@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Simple Date Format" />
+      <item value="process" />
+      <item value="Excel" />
+      <item value="test Excel" />
+      <item value="button" />
+      <item value="close" />
       <item value="verify File Extension Name" />
       <item value="Request Method" />
       <item value="One Key Data Base Service" />
@@ -151,7 +157,6 @@
       <item value="i Check" />
       <item value="td" />
       <item value="tbody" />
-      <item value="button" />
       <item value="table Exist" />
       <item value="处理方式" />
       <item value="dispatcher Service" />
@@ -257,8 +262,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7878" />
-        <entry key="ENGLISH" value="7879" />
+        <entry key="CHINESE" value="7884" />
+        <entry key="ENGLISH" value="7885" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
