@@ -1,64 +1,269 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="maxHistorySize" value="1000" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="push Message" />
-      <item value="Article" />
-      <item value="Privileged Action" />
-      <item value="event Dispatched" />
-      <item value="A tagging interface that all event listener interfaces must extend." />
-      <item value="Interface to be implemented by application event listeners. &lt;p&gt;Based on the standard {@code java.util.EventListener} interface for the Observer design pattern." />
-      <item value="Readable Byte Channel" />
-      <item value="Resource Pattern Resolver" />
-      <item value="Application Context" />
-      <item value="Application Event Publisher" />
-      <item value="Publish Event" />
-      <item value="local Event List" />
-      <item value="We don't want the Observer doing callbacks into arbitrary code while holding its own Monitor. The code where we extract each Observable from the Vector and store the state of the Observer needs synchronization, but notifying observers does not (should not). The worst result of any potential race-condition here is that: 1) a newly-added Observer will miss a notification in progress 2) a recently unregistered Observer will be wrongly notified when it doesn't care" />
-      <item value="Wx Publish Event Manager" />
-      <item value="Observer" />
-      <item value="leet Code Reduce Method" />
+      <item value="Simple Date Format" />
+      <item value="process" />
+      <item value="Excel" />
+      <item value="test Excel" />
+      <item value="button" />
+      <item value="close" />
+      <item value="verify File Extension Name" />
+      <item value="Request Method" />
+      <item value="One Key Data Base Service" />
+      <item value="operate System Table" />
+      <item value="Called by the garbage collector on an object when garbage collection determines that there are no more references to the object. A subclass overrides the {@code finalize} method to dispose of system resources or to perform other cleanup. &lt;p&gt; The general contract of {@code finalize} is that it is invoked if and when the Java&amp;trade; virtual machine has determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, except as a result of an action taken by the finalization of some other object or class which is ready to be finalized. The {@code finalize} method may take any action, including making this object available again to other threads; the usual purpose of {@code finalize}, however, is to perform cleanup actions before the object is irrevocably discarded. For example, the finalize method for an object that represents an inputoutput connection might perform explicit IO transactions to break the connection before the object is permanently discarded. &lt;p&gt; The {@code finalize} method of class {@code Object} performs no special action; it simply returns normally. Subclasses of {@code Object} may override this definition. &lt;p&gt; The Java programming language does not guarantee which thread will invoke the {@code finalize} method for any given object. It is guaranteed, however, that the thread that invokes finalize will not be holding any user-visible synchronization locks when finalize is invoked. If an uncaught exception is thrown by the finalize method, the exception is ignored and finalization of that object terminates. &lt;p&gt; After the {@code finalize} method has been invoked for an object, no further action is taken until the Java virtual machine has again determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, including possible actions by other objects or classes which are ready to be finalized, at which point the object may be discarded. &lt;p&gt; The {@code finalize} method is never invoked more than once by a Java virtual machine for any given object. &lt;p&gt; Any exception thrown by the {@code finalize} method causes the finalization of this object to be halted, but is otherwise ignored." />
+      <item value="Overrides finalize, the fd is closed by the Socket." />
+      <item value="finalize" />
+      <item value="ends With" />
+      <item value="请选择Excel文件" />
+      <item value="one Key Import Index Id" />
+      <item value="reset File Component" />
+      <item value="select File Change Method" />
+      <item value="divide" />
+      <item value="equest processing failed; nested exception is java.lang.ArithmeticException: Non-terminating decimal expansion; no exact representable decimal result" />
+      <item value="Using DataSource" />
+      <item value="column Size" />
+      <item value="threshold" />
+      <item value="get Common Pool Parallelism" />
+      <item value="Parallel prefix (aka cumulate, scan) task classes are based loosely on Guy Blelloch's original algorithm (http:www.cs.cmu.edu~scandalalgscan.html): Keep dividing by two to threshold segment size, and then: Pass 1: Create tree of partial sums for each segment Pass 2: For each segment, cumulate with offset of left sibling This version improves performance within FJ framework mainly by allowing the second pass of ready left-hand sides to proceed even if some right-hand side first passes are still executing. It also combines first and second pass for leftmost segment, and skips the first pass for rightmost segment (whose result is not needed for second pass). It similarly manages to avoid requiring that users supply an identity basis for accumulations by tracking those segmentssubtasks for which the first existing element is used as base. Managing this relies on ORing some bits in the pendingCount for phasesstates: CUMULATE, SUMMED, and FINISHED. CUMULATE is the main phase bit. When false, segments compute only their sum. When true, they cumulate array elements. CUMULATE is set at root at beginning of second pass and then propagated down. But it may also be set earlier for subtrees with lo==0 (the left spine of tree). SUMMED is a one bit join count. For leafs, it is set when summed. For internal nodes, it becomes true when one child is summed. When the second child finishes summing, we then moves up tree to trigger the cumulate phase. FINISHED is also a one bit join count. For leafs, it is set when cumulated. For internal nodes, it becomes true when one child is cumulated. When the second child finishes cumulating, it then moves up tree, completing at the root. To better exploit locality and reduce overhead, the compute method loops starting with the current task, moving if possible to one of its subtasks rather than forking. As usual for this sort of utility, there are 4 versions, that are simple copypasteadapt variants of each other. (The double and int versions differ from long version soley by replacing &quot;long&quot; (with case-matching))." />
+      <item value="compare And Set Pending Count" />
+      <item value="ForkJoin tasks to perform Arrays.parallelPrefix operations." />
+      <item value="Doug Lea" />
+      <item value="Src is the source array that starts at index 0 Dest is the (possibly larger) array destination with a possible offset low is the index in dest to start sorting high is the end index in dest to end sorting off is the offset to generate corresponding low, high in src To be removed in a future release." />
+      <item value="Comparable Tim Sort" />
+      <item value="Tim Sort" />
+      <item value="Josh Bloch" />
+      <item value="This class implements the Dual-Pivot Quicksort algorithm by Vladimir Yaroslavskiy, Jon Bentley, and Josh Bloch. The algorithm offers O(n log(n)) performance on many data sets that cause other quicksorts to degrade to quadratic performance, and is typically faster than traditional (one-pivot) Quicksort implementations. All exposed methods are package-private, designed to be invoked from public methods (in class Arrays) after performing any necessary array bounds checks and expanding parameters into the required forms." />
+      <item value="Dual Pivot Quicksort" />
+      <item value="Sort five evenly spaced elements around (and including) the center element in the range. These elements will be used for pivot selection as described below. The choice for spacing these elements was empirically determined to work well on a wide variety of inputs." />
+      <item value="Sort these elements using insertion sort" />
+      <item value="Skip the longest ascending sequence." />
+      <item value="seventh" />
+      <item value="Even though a[great] equals to pivot, the assignment a[k] = pivot may be incorrect, if a[great] and pivot are floating-point zeros of different signs. Therefore in float and double sorting methods we have to use more accurate assignment a[k] = a[great]." />
+      <item value="great" />
+      <item value="Partitioning" />
+      <item value="down Value" />
+      <item value="min" />
+      <item value="combine" />
+      <item value="To Double Function" />
+      <item value="column Resolver Data" />
+      <item value="column Values" />
+      <item value="result Column Data" />
+      <item value="split" />
+      <item value="query Data For Fields" />
+      <item value="verify Effective" />
+      <item value="execute Calculate" />
+      <item value="temp Store List" />
+      <item value="catch" />
+      <item value="Array List" />
+      <item value="table Name" />
+      <item value="String" />
+      <item value="result Columns Data" />
+      <item value="get Connection" />
+      <item value="conn" />
+      <item value="result Set" />
+      <item value="columns" />
+      <item value="column" />
+      <item value="execute Sql" />
+      <item value="default If Blank" />
+      <item value="String Utils" />
+      <item value="EMPTY" />
+      <item value="data Normalization Value Vo" />
+      <item value="set Original List" />
+      <item value="field Name Array" />
+      <item value="get Select Fields" />
+      <item value="Jdbc Util" />
+      <item value="Arrays" />
+      <item value="as List" />
+      <item value="execute Calculate Dispatcher" />
+      <item value="calculate Result List" />
+      <item value="column Of Data List" />
+      <item value="data Handle Vo" />
+      <item value="Handle Result Vo" />
+      <item value="System.out.println(2);" />
+      <item value="Data Normalization Service" />
+      <item value="RUNNING" />
+      <item value="Abort Policy" />
+      <item value="A handler for rejected tasks that silently discards the rejected task." />
+      <item value="Discard Oldest Policy" />
+      <item value="Discard Policy" />
+      <item value="COUNT BITS" />
+      <item value="run State Of" />
+      <item value="CAPACITY" />
+      <item value="return" />
+      <item value="ctl Of" />
+      <item value="Bit field accessors that don't require unpacking ctl. These depend on the bit layout and on workerCount being never negative." />
+      <item value="rs" />
+      <item value="worker Count Of" />
+      <item value="merge Process Data Thread Pool" />
+      <item value="remove Shutdown Hook" />
+      <item value="get Parent Bean Factory" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="execute Data Base Thread Pool" />
+      <item value="Execute" />
+      <item value="Help GC" />
+      <item value="limit" />
+      <item value="http-nio-8699" />
+      <item value="stylesheet" />
+      <item value="codemirror" />
+      <item value="navtab" />
+      <item value="bjuiajax" />
+      <item value="forward Diff Nav Tab" />
+      <item value="each" />
+      <item value="json" />
+      <item value="ajax Done" />
+      <item value="缺失值补充" />
+      <item value="handle Type" />
+      <item value="信息提示" />
+      <item value="跳转页面" />
+      <item value="forward Page Param" />
+      <item value="异常值处理 跳转" />
+      <item value="GET" />
+      <item value="Data Handle Vo" />
+      <item value="Hash Map" />
+      <item value="处理成功" />
+      <item value="get Handle Type" />
+      <item value="forward" />
+      <item value="MISSING VALUE" />
+      <item value="Data Handle Type" />
+      <item value="ABNORMAL VALUE" />
+      <item value="我的业务页面" />
+      <item value="get Table Name" />
+      <item value="select Fields" />
+      <item value="diff" />
+      <item value="缺失值处理 跳转页面" />
+      <item value="forward Diff Call Back" />
+      <item value="right Threshold" />
+      <item value="diff Context" />
+      <item value="add Attribute" />
+      <item value="get Field Name List" />
+      <item value="bordered" />
+      <item value="option" />
+      <item value="value" />
+      <item value="initialization Event" />
+      <item value="abnormal" />
+      <item value="if Changed" />
+      <item value="search Title" />
+      <item value="规范输入数值" />
+      <item value="abnormal Handle" />
+      <item value="阈值" />
+      <item value="number" />
+      <item value="placeholder" />
+      <item value="integer" />
+      <item value="i Check" />
       <item value="td" />
-      <item value="current List" />
-      <item value="javascript" />
+      <item value="tbody" />
+      <item value="table Exist" />
+      <item value="处理方式" />
+      <item value="dispatcher Service" />
+      <item value="to JSON String" />
+      <item value="JSON" />
+      <item value="result Vo" />
+      <item value="超越极限则为异常" />
+      <item value="compare Beyond To Limit" />
+      <item value="record Error Index" />
+      <item value="compare Value" />
+      <item value="This interface imposes a total ordering on the objects of each class that implements it. This ordering is referred to as the class's &lt;i&gt;natural ordering&lt;i&gt;, and the class's &lt;tt&gt;compareTo&lt;tt&gt; method is referred to as its &lt;i&gt;natural comparison method&lt;i&gt;.&lt;p&gt; Lists (and arrays) of objects that implement this interface can be sorted automatically by {@link Collectionssort(List) Collections.sort} (and {@link Arrayssort(Object[]) Arrays.sort}). Objects that implement this interface can be used as keys in a {@linkplain SortedMap sorted map} or as elements in a {@linkplain SortedSet sorted set}, without the need to specify a {@linkplain Comparator comparator}.&lt;p&gt; The natural ordering for a class &lt;tt&gt;C&lt;tt&gt; is said to be &lt;i&gt;consistent with equals&lt;i&gt; if and only if &lt;tt&gt;e1.compareTo(e2) == 0&lt;tt&gt; has the same boolean value as &lt;tt&gt;e1.equals(e2)&lt;tt&gt; for every &lt;tt&gt;e1&lt;tt&gt; and &lt;tt&gt;e2&lt;tt&gt; of class &lt;tt&gt;C&lt;tt&gt;. Note that &lt;tt&gt;null&lt;tt&gt; is not an instance of any class, and &lt;tt&gt;e.compareTo(null)&lt;tt&gt; should throw a &lt;tt&gt;NullPointerException&lt;tt&gt; even though &lt;tt&gt;e.equals(null)&lt;tt&gt; returns &lt;tt&gt;false&lt;tt&gt;.&lt;p&gt; It is strongly recommended (though not required) that natural orderings be consistent with equals. This is so because sorted sets (and sorted maps) without explicit comparators behave &quot;strangely&quot; when they are used with elements (or keys) whose natural ordering is inconsistent with equals. In particular, such a sorted set (or sorted map) violates the general contract for set (or map), which is defined in terms of the &lt;tt&gt;equals&lt;tt&gt; method.&lt;p&gt; For example, if one adds two keys &lt;tt&gt;a&lt;tt&gt; and &lt;tt&gt;b&lt;tt&gt; such that {@code (!a.equals(b) &amp;&amp; a.compareTo(b) == 0)} to a sorted set that does not use an explicit comparator, the second &lt;tt&gt;add&lt;tt&gt; operation returns false (and the size of the sorted set does not increase) because &lt;tt&gt;a&lt;tt&gt; and &lt;tt&gt;b&lt;tt&gt; are equivalent from the sorted set's perspective.&lt;p&gt; Virtually all Java core classes that implement &lt;tt&gt;Comparable&lt;tt&gt; have natural orderings that are consistent with equals. One exception is &lt;tt&gt;java.math.BigDecimal&lt;tt&gt;, whose natural ordering equates &lt;tt&gt;BigDecimal&lt;tt&gt; objects with equal values and different precisions (such as 4.0 and 4.00).&lt;p&gt; For the mathematically inclined, the &lt;i&gt;relation&lt;i&gt; that defines the natural ordering on a given class C is:&lt;pre&gt; {(x, y) such that x.compareTo(y) &amp;lt;= 0}. &lt;pre&gt; The &lt;i&gt;quotient&lt;i&gt; for this total order is: &lt;pre&gt; {(x, y) such that x.compareTo(y) == 0}. &lt;pre&gt; It follows immediately from the contract for &lt;tt&gt;compareTo&lt;tt&gt; that the quotient is an &lt;i&gt;equivalence relation&lt;i&gt; on &lt;tt&gt;C&lt;tt&gt;, and that the natural ordering is a &lt;i&gt;total order&lt;i&gt; on &lt;tt&gt;C&lt;tt&gt;. When we say that a class's natural ordering is &lt;i&gt;consistent with equals&lt;i&gt;, we mean that the quotient for the natural ordering is the equivalence relation defined by the class's {@link Objectequals(Object) equals(Object)} method:&lt;pre&gt; {(x, y) such that x.equals(y)}. &lt;pre&gt;&lt;p&gt; This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @param &lt;T&gt; the type of objects that this object may be compared to" />
+      <item value="Compares two strings lexicographically. The comparison is based on the Unicode value of each character in the strings. The character sequence represented by this {@code String} object is compared lexicographically to the character sequence represented by the argument string. The result is a negative integer if this {@code String} object lexicographically precedes the argument string. The result is a positive integer if this {@code String} object lexicographically follows the argument string. The result is zero if the strings are equal; {@code compareTo} returns {@code 0} exactly when the {@link equals(Object)} method would return {@code true}. &lt;p&gt; This is the definition of lexicographic ordering. If two strings are different, then either they have different characters at some index that is a valid index for both strings, or their lengths are different, or both. If they have different characters at one or more index positions, let &lt;i&gt;k&lt;i&gt; be the smallest such index; then the string whose character at position &lt;i&gt;k&lt;i&gt; has the smaller value, as determined by using the &amp;lt; operator, lexicographically precedes the other string. In this case, {@code compareTo} returns the difference of the two character values at position {@code k} in the two string -- that is, the value: &lt;blockquote&gt;&lt;pre&gt; this.charAt(k)-anotherString.charAt(k) &lt;pre&gt;&lt;blockquote&gt; If there is no index position at which they differ, then the shorter string lexicographically precedes the longer string. In this case, {@code compareTo} returns the difference of the lengths of the strings -- that is, the value: &lt;blockquote&gt;&lt;pre&gt; this.length()-anotherString.length() &lt;pre&gt;&lt;blockquote&gt;" />
+      <item value="Helper class that contains algorithms taken from JDK that additionally tracks the permutation that's created thorough the process" />
+      <item value="Merge sort from Oracle JDK 6" />
+      <item value="left Threshold" />
+      <item value="compare Result" />
+      <item value="compare To" />
+      <item value="待确认值" />
+      <item value="本次比较阈值" />
+      <item value="is Up" />
+      <item value="boolean" />
+      <item value="Math" />
+      <item value="double To Raw Long Bits" />
+      <item value="column Value" />
+      <item value="start Index" />
+      <item value="start Value" />
+      <item value="end Index" />
+      <item value="end Value" />
+      <item value="false" />
+      <item value="border Operate" />
+      <item value="process End Flag" />
+      <item value="最可能为总容量的" />
+      <item value="出问题的概率" />
+      <item value="Column Resolver Data" />
+      <item value="column Of Data" />
+      <item value="Column Of Data" />
+      <item value="size" />
+      <item value="column Name" />
+      <item value="column Value Error Index" />
+      <item value="Calculate" />
+      <item value="System" />
+      <item value="args" />
+      <item value="objects List" />
+      <item value="abc" />
+      <item value="数据标准化处理" />
+      <item value="get Left Threshold" />
+      <item value="res Map" />
+      <item value="else" />
+      <item value="Exception" />
+      <item value="get Message" />
+      <item value="data Handle Abnormal Vo" />
+      <item value="Request Mapping" />
+      <item value="print Stack Trace" />
+      <item value="model" />
+      <item value="handle Data" />
+      <item value="DATA NORMALIZATION" />
+      <item value="数据表名称" />
+      <item value="handle" />
+      <item value="TIME DELAY LENGTH" />
       <item value="Data Handle Dispatcher Service" />
       <item value="Application Context Aware" />
-      <item value="else" />
-      <item value="append" />
+      <item value="Application Context" />
+      <item value="set Application Context" />
+      <item value="bean Name" />
+      <item value="load Current Tag Plugin" />
       <item value="function" />
+      <item value="field Name Position" />
+      <item value="original List" />
+      <item value="for Each" />
+      <item value="leet Code Reduce Method" />
+      <item value="current List" />
+      <item value="javascript" />
+      <item value="append" />
       <item value="none" />
       <item value="load Frame Plugins" />
       <item value="load Plugin Counter" />
       <item value="interval Load Plugin" />
       <item value="currrent List" />
-      <item value="original List" />
       <item value="diff Vo" />
       <item value="field Name List" />
-      <item value="result Vo" />
-      <item value="for Each" />
       <item value="ready" />
       <item value="Xml Bean Definition Reader" />
       <item value="数据处理方法" />
       <item value="结果" />
       <item value="POST" />
-      <item value="Request Method" />
       <item value="data" />
-      <item value="Request Mapping" />
       <item value="Response Body" />
-      <item value="select Fields" />
-      <item value="handle Type" />
       <item value="message" />
       <item value="Connection timed out: connect" />
       <item value="header Field List" />
       <item value="import Excel Data List" />
       <item value="data List" />
+      <item value="bean Dest" />
+      <item value="Finalize" />
+      <item value="Split Relation Config" />
+      <item value="SPLIT TABLE FIELD THRESHOLD" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="close Component" />
+      <item value="get Key" />
+      <item value="table Fields Map" />
+      <item value="customconfigurationquery" />
+      <item value="table Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7502" />
-        <entry key="ENGLISH" value="7503" />
+        <entry key="CHINESE" value="7884" />
+        <entry key="ENGLISH" value="7885" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -85,15 +290,15 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="12" />
+        <entry key="NORWEGIAN" value="6" />
+        <entry key="PORTUGUESE" value="15" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
-        <entry key="SPANISH" value="13" />
+        <entry key="SPANISH" value="14" />
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="10" />
@@ -101,11 +306,14 @@
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1664155813481" />
+  </component>
+  <component name="Settings">
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
 </application>
