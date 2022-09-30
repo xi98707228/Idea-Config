@@ -5,12 +5,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="function" />
+      <item value="set Timeout" />
+      <item value="access Token" />
+      <item value="td" />
+      <item value="handle Type" />
+      <item value="异常值处理选择的数据" />
+      <item value="abnormal Handle" />
+      <item value="search Title" />
+      <item value="page Content" />
+      <item value="跟前端状态做对比" />
+      <item value="询问当前切片流程状态" />
+      <item value="page Footer" />
+      <item value="bjui" />
+      <item value="button" />
+      <item value="hand Move Do Ajax Method" />
+      <item value="hand Move Do Ajax" />
+      <item value="get Root Path" />
       <item value="Request Method" />
       <item value="Simple Date Format" />
       <item value="process" />
       <item value="Excel" />
       <item value="test Excel" />
-      <item value="button" />
       <item value="close" />
       <item value="verify File Extension Name" />
       <item value="One Key Data Base Service" />
@@ -117,7 +133,6 @@
       <item value="json" />
       <item value="ajax Done" />
       <item value="缺失值补充" />
-      <item value="handle Type" />
       <item value="信息提示" />
       <item value="跳转页面" />
       <item value="forward Page Param" />
@@ -147,15 +162,12 @@
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
-      <item value="search Title" />
       <item value="规范输入数值" />
-      <item value="abnormal Handle" />
       <item value="阈值" />
       <item value="number" />
       <item value="placeholder" />
       <item value="integer" />
       <item value="i Check" />
-      <item value="td" />
       <item value="tbody" />
       <item value="table Exist" />
       <item value="处理方式" />
@@ -222,7 +234,6 @@
       <item value="set Application Context" />
       <item value="bean Name" />
       <item value="load Current Tag Plugin" />
-      <item value="function" />
       <item value="field Name Position" />
       <item value="original List" />
       <item value="for Each" />
@@ -262,8 +273,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7885" />
-        <entry key="ENGLISH" value="7886" />
+        <entry key="CHINESE" value="7905" />
+        <entry key="ENGLISH" value="7906" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -296,6 +307,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
+        <entry key="SWAHILI" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="14" />
