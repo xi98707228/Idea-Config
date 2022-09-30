@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="readonly" />
+      <item value="input" />
+      <item value="button" />
       <item value="get Flight" />
       <item value="flight" />
       <item value="data" />
@@ -67,7 +70,6 @@
       <item value="询问当前切片流程状态" />
       <item value="page Footer" />
       <item value="bjui" />
-      <item value="button" />
       <item value="hand Move Do Ajax Method" />
       <item value="hand Move Do Ajax" />
       <item value="get Root Path" />
@@ -313,8 +315,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7967" />
-        <entry key="ENGLISH" value="7968" />
+        <entry key="CHINESE" value="7971" />
+        <entry key="ENGLISH" value="7972" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
