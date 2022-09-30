@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="navtab" />
+      <item value="4000" />
+      <item value="提交表单" />
+      <item value="使页面处于加载状态" />
+      <item value="close Current Tab" />
       <item value="Current Dialog" />
       <item value="blocking Verify Process Finish" />
       <item value="String" />
@@ -144,7 +149,6 @@
       <item value="http-nio-8699" />
       <item value="stylesheet" />
       <item value="codemirror" />
-      <item value="navtab" />
       <item value="forward Diff Nav Tab" />
       <item value="each" />
       <item value="json" />
@@ -290,8 +294,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7930" />
-        <entry key="ENGLISH" value="7931" />
+        <entry key="CHINESE" value="7934" />
+        <entry key="ENGLISH" value="7933" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -318,7 +322,7 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="6" />
+        <entry key="NORWEGIAN" value="7" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
