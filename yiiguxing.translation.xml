@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Read in a &quot;logical line&quot; from an InputStreamReader, skip all comment and blank lines and filter out those leading whitespace characters (\u0020, \u0009 and \u000c) from the beginning of a &quot;natural line&quot;. Method returns the char length of the &quot;logical line&quot; and stores the line in &quot;lineBuf&quot;." />
       <item value="readonly" />
       <item value="input" />
       <item value="button" />
@@ -315,8 +316,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7971" />
-        <entry key="ENGLISH" value="7972" />
+        <entry key="CHINESE" value="7972" />
+        <entry key="ENGLISH" value="7973" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
