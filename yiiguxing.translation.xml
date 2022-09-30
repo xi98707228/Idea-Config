@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Request Method" />
       <item value="Simple Date Format" />
       <item value="process" />
       <item value="Excel" />
@@ -12,7 +13,6 @@
       <item value="button" />
       <item value="close" />
       <item value="verify File Extension Name" />
-      <item value="Request Method" />
       <item value="One Key Data Base Service" />
       <item value="operate System Table" />
       <item value="Called by the garbage collector on an object when garbage collection determines that there are no more references to the object. A subclass overrides the {@code finalize} method to dispose of system resources or to perform other cleanup. &lt;p&gt; The general contract of {@code finalize} is that it is invoked if and when the Java&amp;trade; virtual machine has determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, except as a result of an action taken by the finalization of some other object or class which is ready to be finalized. The {@code finalize} method may take any action, including making this object available again to other threads; the usual purpose of {@code finalize}, however, is to perform cleanup actions before the object is irrevocably discarded. For example, the finalize method for an object that represents an inputoutput connection might perform explicit IO transactions to break the connection before the object is permanently discarded. &lt;p&gt; The {@code finalize} method of class {@code Object} performs no special action; it simply returns normally. Subclasses of {@code Object} may override this definition. &lt;p&gt; The Java programming language does not guarantee which thread will invoke the {@code finalize} method for any given object. It is guaranteed, however, that the thread that invokes finalize will not be holding any user-visible synchronization locks when finalize is invoked. If an uncaught exception is thrown by the finalize method, the exception is ignored and finalization of that object terminates. &lt;p&gt; After the {@code finalize} method has been invoked for an object, no further action is taken until the Java virtual machine has again determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, including possible actions by other objects or classes which are ready to be finalized, at which point the object may be discarded. &lt;p&gt; The {@code finalize} method is never invoked more than once by a Java virtual machine for any given object. &lt;p&gt; Any exception thrown by the {@code finalize} method causes the finalization of this object to be halted, but is otherwise ignored." />
@@ -262,8 +262,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7884" />
-        <entry key="ENGLISH" value="7885" />
+        <entry key="CHINESE" value="7885" />
+        <entry key="ENGLISH" value="7886" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
