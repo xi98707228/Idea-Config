@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="diff Vo" />
+      <item value="result Data Json" />
+      <item value="field Name List" />
+      <item value="original List" />
       <item value="import Excel Data To Data Base" />
       <item value="set Sys Id" />
       <item value="reloaded" />
@@ -283,7 +287,6 @@
       <item value="bean Name" />
       <item value="load Current Tag Plugin" />
       <item value="field Name Position" />
-      <item value="original List" />
       <item value="for Each" />
       <item value="leet Code Reduce Method" />
       <item value="current List" />
@@ -294,8 +297,6 @@
       <item value="load Plugin Counter" />
       <item value="interval Load Plugin" />
       <item value="currrent List" />
-      <item value="diff Vo" />
-      <item value="field Name List" />
       <item value="ready" />
       <item value="Xml Bean Definition Reader" />
       <item value="数据处理方法" />
@@ -320,8 +321,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7975" />
-        <entry key="ENGLISH" value="7976" />
+        <entry key="CHINESE" value="7979" />
+        <entry key="ENGLISH" value="7980" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
