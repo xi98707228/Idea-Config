@@ -5,23 +5,85 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Rmi Proxy Factory Bean" />
-      <item value="part 10_proxy Pattern" />
-      <item value="Head First Design Pattern" />
-      <item value="Can proceed with standard RMI lookup API..." />
-      <item value="The &lt;code&gt;Remote&lt;code&gt; interface serves to identify interfaces whose methods may be invoked from a non-local virtual machine. Any object that is a remote object must directly or indirectly implement this interface. Only those methods specified in a &quot;remote interface&quot;, an interface that extends &lt;code&gt;java.rmi.Remote&lt;code&gt; are available remotely. &lt;p&gt;Implementation classes can implement any number of remote interfaces and can extend other remote implementation classes. RMI provides some convenience classes that remote object implementations can extend which facilitate remote object creation. These classes are &lt;code&gt;java.rmi.server.UnicastRemoteObject&lt;code&gt; and &lt;code&gt;java.rmi.activation.Activatable&lt;code&gt;." />
-      <item value="invocation" />
-      <item value="Default Remote Invocation Factory" />
-      <item value="remote Invocation Factory" />
-      <item value="Remote Invocation Based Accessor" />
+      <item value="import Excel Data To Data Base" />
+      <item value="set Sys Id" />
+      <item value="reloaded" />
+      <item value="NUAA" />
+      <item value="Read in a &quot;logical line&quot; from an InputStreamReader, skip all comment and blank lines and filter out those leading whitespace characters (\u0020, \u0009 and \u000c) from the beginning of a &quot;natural line&quot;. Method returns the char length of the &quot;logical line&quot; and stores the line in &quot;lineBuf&quot;." />
+      <item value="readonly" />
+      <item value="input" />
+      <item value="button" />
+      <item value="get Flight" />
+      <item value="flight" />
+      <item value="data" />
+      <item value="list" />
+      <item value="add" />
+      <item value="Array List" />
+      <item value="copy Final List" />
+      <item value="Executor Service" />
+      <item value="String" />
+      <item value="new" />
+      <item value="用于存储数据" />
+      <item value="定义数据包" />
+      <item value="size" />
+      <item value="Adds a set of parameters to this &lt;code&gt;PreparedStatement&lt;code&gt; object's batch of commands. @exception SQLException if a database access error occurs or this method is called on a closed &lt;code&gt;PreparedStatement&lt;code&gt; @see StatementaddBatch @since 1.2" />
+      <item value="get Host Address" />
+      <item value="get Address" />
+      <item value="root 1234" />
+      <item value="user Name" />
+      <item value="receive Thread Pool" />
+      <item value="Link List" />
+      <item value="format" />
+      <item value="format Date" />
+      <item value="set Recordtime" />
+      <item value="navtab" />
+      <item value="4000" />
+      <item value="提交表单" />
+      <item value="使页面处于加载状态" />
+      <item value="close Current Tab" />
+      <item value="Current Dialog" />
+      <item value="blocking Verify Process Finish" />
+      <item value="ajax Form" />
+      <item value="disabled" />
+      <item value="upload Excel File" />
+      <item value="sys Id Input" />
+      <item value="process Data" />
+      <item value="result" />
+      <item value="upload Slice File" />
+      <item value="console" />
+      <item value="access Token" />
+      <item value="handler Finish Mapping" />
+      <item value="success" />
+      <item value="bjuiajax" />
+      <item value="重置文件组件" />
+      <item value="reset File Component" />
+      <item value="verify File Extension Name" />
+      <item value="select File Object" />
+      <item value="root Path" />
+      <item value="one Key Import Index Id" />
+      <item value="access Token Input" />
+      <item value="reset Slice Handle Component" />
+      <item value="function" />
+      <item value="set Timeout" />
+      <item value="td" />
+      <item value="handle Type" />
+      <item value="异常值处理选择的数据" />
+      <item value="abnormal Handle" />
+      <item value="search Title" />
+      <item value="page Content" />
+      <item value="跟前端状态做对比" />
+      <item value="询问当前切片流程状态" />
+      <item value="page Footer" />
+      <item value="bjui" />
+      <item value="hand Move Do Ajax Method" />
+      <item value="hand Move Do Ajax" />
+      <item value="get Root Path" />
+      <item value="Request Method" />
       <item value="Simple Date Format" />
       <item value="process" />
       <item value="Excel" />
       <item value="test Excel" />
-      <item value="button" />
       <item value="close" />
-      <item value="verify File Extension Name" />
-      <item value="Request Method" />
       <item value="One Key Data Base Service" />
       <item value="operate System Table" />
       <item value="Called by the garbage collector on an object when garbage collection determines that there are no more references to the object. A subclass overrides the {@code finalize} method to dispose of system resources or to perform other cleanup. &lt;p&gt; The general contract of {@code finalize} is that it is invoked if and when the Java&amp;trade; virtual machine has determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, except as a result of an action taken by the finalization of some other object or class which is ready to be finalized. The {@code finalize} method may take any action, including making this object available again to other threads; the usual purpose of {@code finalize}, however, is to perform cleanup actions before the object is irrevocably discarded. For example, the finalize method for an object that represents an inputoutput connection might perform explicit IO transactions to break the connection before the object is permanently discarded. &lt;p&gt; The {@code finalize} method of class {@code Object} performs no special action; it simply returns normally. Subclasses of {@code Object} may override this definition. &lt;p&gt; The Java programming language does not guarantee which thread will invoke the {@code finalize} method for any given object. It is guaranteed, however, that the thread that invokes finalize will not be holding any user-visible synchronization locks when finalize is invoked. If an uncaught exception is thrown by the finalize method, the exception is ignored and finalization of that object terminates. &lt;p&gt; After the {@code finalize} method has been invoked for an object, no further action is taken until the Java virtual machine has again determined that there is no longer any means by which this object can be accessed by any thread that has not yet died, including possible actions by other objects or classes which are ready to be finalized, at which point the object may be discarded. &lt;p&gt; The {@code finalize} method is never invoked more than once by a Java virtual machine for any given object. &lt;p&gt; Any exception thrown by the {@code finalize} method causes the finalization of this object to be halted, but is otherwise ignored." />
@@ -29,8 +91,6 @@
       <item value="finalize" />
       <item value="ends With" />
       <item value="请选择Excel文件" />
-      <item value="one Key Import Index Id" />
-      <item value="reset File Component" />
       <item value="select File Change Method" />
       <item value="divide" />
       <item value="equest processing failed; nested exception is java.lang.ArithmeticException: Non-terminating decimal expansion; no exact representable decimal result" />
@@ -68,9 +128,7 @@
       <item value="execute Calculate" />
       <item value="temp Store List" />
       <item value="catch" />
-      <item value="Array List" />
       <item value="table Name" />
-      <item value="String" />
       <item value="result Columns Data" />
       <item value="get Connection" />
       <item value="conn" />
@@ -119,14 +177,11 @@
       <item value="http-nio-8699" />
       <item value="stylesheet" />
       <item value="codemirror" />
-      <item value="navtab" />
-      <item value="bjuiajax" />
       <item value="forward Diff Nav Tab" />
       <item value="each" />
       <item value="json" />
       <item value="ajax Done" />
       <item value="缺失值补充" />
-      <item value="handle Type" />
       <item value="信息提示" />
       <item value="跳转页面" />
       <item value="forward Page Param" />
@@ -156,15 +211,12 @@
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
-      <item value="search Title" />
       <item value="规范输入数值" />
-      <item value="abnormal Handle" />
       <item value="阈值" />
       <item value="number" />
       <item value="placeholder" />
       <item value="integer" />
       <item value="i Check" />
-      <item value="td" />
       <item value="tbody" />
       <item value="table Exist" />
       <item value="处理方式" />
@@ -202,7 +254,6 @@
       <item value="Column Resolver Data" />
       <item value="column Of Data" />
       <item value="Column Of Data" />
-      <item value="size" />
       <item value="column Name" />
       <item value="column Value Error Index" />
       <item value="Calculate" />
@@ -231,7 +282,6 @@
       <item value="set Application Context" />
       <item value="bean Name" />
       <item value="load Current Tag Plugin" />
-      <item value="function" />
       <item value="field Name Position" />
       <item value="original List" />
       <item value="for Each" />
@@ -251,7 +301,6 @@
       <item value="数据处理方法" />
       <item value="结果" />
       <item value="POST" />
-      <item value="data" />
       <item value="Response Body" />
       <item value="message" />
       <item value="Connection timed out: connect" />
@@ -271,8 +320,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7891" />
-        <entry key="ENGLISH" value="7892" />
+        <entry key="CHINESE" value="7975" />
+        <entry key="ENGLISH" value="7976" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -299,12 +348,13 @@
         <entry key="MAORI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="6" />
-        <entry key="PORTUGUESE" value="15" />
+        <entry key="NORWEGIAN" value="7" />
+        <entry key="PORTUGUESE" value="17" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
+        <entry key="SWAHILI" value="1" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="14" />
@@ -320,7 +370,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664606889018" />
+    <option name="lastTrimTime" value="1664155813481" />
   </component>
   <component name="Settings">
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
