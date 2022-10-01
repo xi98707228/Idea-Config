@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Rmi Proxy Factory Bean" />
+      <item value="part 10_proxy Pattern" />
+      <item value="Head First Design Pattern" />
+      <item value="Can proceed with standard RMI lookup API..." />
+      <item value="The &lt;code&gt;Remote&lt;code&gt; interface serves to identify interfaces whose methods may be invoked from a non-local virtual machine. Any object that is a remote object must directly or indirectly implement this interface. Only those methods specified in a &quot;remote interface&quot;, an interface that extends &lt;code&gt;java.rmi.Remote&lt;code&gt; are available remotely. &lt;p&gt;Implementation classes can implement any number of remote interfaces and can extend other remote implementation classes. RMI provides some convenience classes that remote object implementations can extend which facilitate remote object creation. These classes are &lt;code&gt;java.rmi.server.UnicastRemoteObject&lt;code&gt; and &lt;code&gt;java.rmi.activation.Activatable&lt;code&gt;." />
+      <item value="invocation" />
+      <item value="Default Remote Invocation Factory" />
+      <item value="remote Invocation Factory" />
+      <item value="Remote Invocation Based Accessor" />
       <item value="Simple Date Format" />
       <item value="process" />
       <item value="Excel" />
@@ -262,8 +271,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7884" />
-        <entry key="ENGLISH" value="7885" />
+        <entry key="CHINESE" value="7891" />
+        <entry key="ENGLISH" value="7892" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -311,7 +320,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664155813481" />
+    <option name="lastTrimTime" value="1664606889018" />
   </component>
   <component name="Settings">
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
