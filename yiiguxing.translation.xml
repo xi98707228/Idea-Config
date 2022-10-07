@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="remote Method 2" />
       <item value="987072248" />
       <item value="Remote Exception" />
       <item value="Not Bound Exception" />
@@ -361,7 +362,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8019" />
-        <entry key="ENGLISH" value="8018" />
+        <entry key="ENGLISH" value="8019" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
