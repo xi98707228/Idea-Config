@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Registry" />
+      <item value="Locate Registry" />
       <item value="remote Method 2" />
       <item value="987072248" />
       <item value="Remote Exception" />
@@ -14,9 +16,7 @@
       <item value="args" />
       <item value="throws" />
       <item value="9888" />
-      <item value="get Registry" />
       <item value="Remote Method Impl" />
-      <item value="Locate Registry" />
       <item value="Locale" />
       <item value="Connection refused to host: 192.168.131.1; nested exception is:" />
       <item value="TCP Endpoint" />
@@ -361,8 +361,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8019" />
-        <entry key="ENGLISH" value="8019" />
+        <entry key="CHINESE" value="8020" />
+        <entry key="ENGLISH" value="8021" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
