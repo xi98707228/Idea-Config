@@ -5,15 +5,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Dynamic Easy Excel Import Utils" />
+      <item value="Data Handle Vo" />
+      <item value="data Handle Vo" />
+      <item value="missing Value Vo" />
+      <item value="Longest Match Column Width Style Strategy" />
+      <item value="export Data To File" />
       <item value="Export History Diff Data" />
+      <item value="Thread" />
+      <item value="Java" />
+      <item value="EXPORT HISTORY DIFF ROOT PATH" />
+      <item value="file Path" />
+      <item value="mkdir" />
+      <item value="export File" />
+      <item value="Naming Policy" />
+      <item value="No Class Def Found Error" />
+      <item value="file Name" />
+      <item value="数据对比" />
+      <item value="main" />
+      <item value="type" />
+      <item value="Dynamic Easy Excel Import Utils" />
       <item value="Export History Data" />
       <item value="字段名称" />
       <item value="选项的" />
-      <item value="Data Handle Vo" />
       <item value="handle" />
       <item value="Handle Result Vo" />
-      <item value="data Handle Vo" />
       <item value="Data Handle Service" />
       <item value="implements" />
       <item value="Abnormal Value Service" />
@@ -34,7 +49,6 @@
       <item value="Remote Exception" />
       <item value="Not Bound Exception" />
       <item value="String" />
-      <item value="main" />
       <item value="args" />
       <item value="throws" />
       <item value="9888" />
@@ -375,8 +389,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8045" />
-        <entry key="ENGLISH" value="8046" />
+        <entry key="CHINESE" value="8070" />
+        <entry key="ENGLISH" value="8071" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
