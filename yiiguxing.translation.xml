@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Interests" />
+      <item value="get Gender" />
+      <item value="get Name" />
       <item value="Override" />
       <item value="show Icon" />
       <item value="Component" />
@@ -368,8 +371,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8030" />
-        <entry key="ENGLISH" value="8031" />
+        <entry key="CHINESE" value="8033" />
+        <entry key="ENGLISH" value="8034" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
