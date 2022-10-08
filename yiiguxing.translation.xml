@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Data Handle Vo" />
+      <item value="handle" />
+      <item value="Handle Result Vo" />
+      <item value="data Handle Vo" />
+      <item value="Data Handle Service" />
+      <item value="implements" />
+      <item value="Abnormal Value Service" />
+      <item value="data Handle Type" />
+      <item value="min" />
+      <item value="niminui" />
+      <item value="2022915 15:56" />
       <item value="result Column Data" />
       <item value="compare Beyond To Limit" />
       <item value="Override" />
@@ -163,7 +174,6 @@
       <item value="great" />
       <item value="Partitioning" />
       <item value="down Value" />
-      <item value="min" />
       <item value="combine" />
       <item value="To Double Function" />
       <item value="column Resolver Data" />
@@ -195,8 +205,6 @@
       <item value="execute Calculate Dispatcher" />
       <item value="calculate Result List" />
       <item value="column Of Data List" />
-      <item value="data Handle Vo" />
-      <item value="Handle Result Vo" />
       <item value="System.out.println(2);" />
       <item value="Data Normalization Service" />
       <item value="RUNNING" />
@@ -233,7 +241,6 @@
       <item value="forward Page Param" />
       <item value="异常值处理 跳转" />
       <item value="GET" />
-      <item value="Data Handle Vo" />
       <item value="Hash Map" />
       <item value="处理成功" />
       <item value="get Handle Type" />
@@ -318,7 +325,6 @@
       <item value="handle Data" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
-      <item value="handle" />
       <item value="TIME DELAY LENGTH" />
       <item value="Data Handle Dispatcher Service" />
       <item value="Application Context Aware" />
@@ -364,8 +370,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8026" />
-        <entry key="ENGLISH" value="8027" />
+        <entry key="CHINESE" value="8039" />
+        <entry key="ENGLISH" value="8040" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -381,7 +387,7 @@
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="2" />
-        <entry key="LATIN" value="19" />
+        <entry key="LATIN" value="21" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
