@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="proxy" />
+      <item value="Undeclared Throwable Exception" />
+      <item value="get Non Owner Proxy" />
+      <item value="is Assignable From" />
+      <item value="Illegal Access Exception" />
       <item value="get Interests" />
       <item value="get Gender" />
       <item value="get Name" />
@@ -371,8 +376,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8033" />
-        <entry key="ENGLISH" value="8034" />
+        <entry key="CHINESE" value="8038" />
+        <entry key="ENGLISH" value="8039" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
