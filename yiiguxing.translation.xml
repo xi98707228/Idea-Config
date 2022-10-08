@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="342" />
     <histories>
       <item value="Override" />
+      <item value="show Icon" />
+      <item value="Component" />
+      <item value="do Other Things" />
+      <item value="Functional Interface" />
       <item value="retrieving" />
       <item value="get Icon Width" />
       <item value="paint Icon" />
@@ -364,8 +368,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8024" />
-        <entry key="ENGLISH" value="8025" />
+        <entry key="CHINESE" value="8030" />
+        <entry key="ENGLISH" value="8031" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
