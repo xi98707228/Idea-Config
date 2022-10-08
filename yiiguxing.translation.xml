@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="HAND MAPPING" />
+      <item value="Data Handle Service" />
+      <item value="export Source Data List" />
+      <item value="Export Data Utils" />
+      <item value="catch" />
+      <item value="result Vo" />
+      <item value="Data Handle Vo" />
+      <item value="get Data Handle Type" />
+      <item value="Data Handle Type" />
+      <item value="get Field Name List" />
+      <item value="field Name" />
+      <item value="dispatcher Service" />
+      <item value="to JSON String" />
+      <item value="JSON" />
       <item value="Column Resolver Data" />
       <item value="execute Calculate" />
       <item value="get Sys Id" />
@@ -17,7 +31,6 @@
       <item value="select Fields" />
       <item value="get Select Fields" />
       <item value="field Name Array" />
-      <item value="Export Data Utils" />
       <item value="export File Name" />
       <item value="column Resolver Datum" />
       <item value="com" />
@@ -35,7 +48,6 @@
       <item value="导出对比数据相关" />
       <item value="Export History Diff Data" />
       <item value="Handle Result Vo" />
-      <item value="Data Handle Vo" />
       <item value="Longest Match Column Width Style Strategy" />
       <item value="export Data To File" />
       <item value="Thread" />
@@ -54,7 +66,6 @@
       <item value="字段名称" />
       <item value="选项的" />
       <item value="handle" />
-      <item value="Data Handle Service" />
       <item value="implements" />
       <item value="Abnormal Value Service" />
       <item value="data Handle Type" />
@@ -223,7 +234,6 @@
       <item value="query Data For Fields" />
       <item value="verify Effective" />
       <item value="temp Store List" />
-      <item value="catch" />
       <item value="table Name" />
       <item value="result Columns Data" />
       <item value="get Connection" />
@@ -281,7 +291,6 @@
       <item value="get Handle Type" />
       <item value="forward" />
       <item value="MISSING VALUE" />
-      <item value="Data Handle Type" />
       <item value="ABNORMAL VALUE" />
       <item value="我的业务页面" />
       <item value="get Table Name" />
@@ -291,7 +300,6 @@
       <item value="right Threshold" />
       <item value="diff Context" />
       <item value="add Attribute" />
-      <item value="get Field Name List" />
       <item value="bordered" />
       <item value="option" />
       <item value="value" />
@@ -307,10 +315,6 @@
       <item value="tbody" />
       <item value="table Exist" />
       <item value="处理方式" />
-      <item value="dispatcher Service" />
-      <item value="to JSON String" />
-      <item value="JSON" />
-      <item value="result Vo" />
       <item value="超越极限则为异常" />
       <item value="record Error Index" />
       <item value="compare Value" />
@@ -399,8 +403,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8119" />
-        <entry key="ENGLISH" value="8120" />
+        <entry key="CHINESE" value="8140" />
+        <entry key="ENGLISH" value="8141" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
