@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Collectors" />
+      <item value="The maximum length of cell contents (text) is 32767 characters" />
+      <item value="bootstrap" />
+      <item value="apache-tomca" />
+      <item value="socket" />
       <item value=": class net.sf.cglib.core.DebuggingClassWriter has interface org.objectweb.asm.ClassVisitor as super class" />
       <item value="java.lang.IncompatibleClassChangeError: class net.sf.cglib.core.DebuggingClassWriter has interface org.objectweb.asm.ClassVisitor as super class" />
       <item value="ehcache" />
@@ -424,8 +429,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8231" />
-        <entry key="ENGLISH" value="8232" />
+        <entry key="CHINESE" value="8236" />
+        <entry key="ENGLISH" value="8237" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
