@@ -5,13 +5,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Njzjdbc Handle Data Record" />
+      <item value="Column Resolver Data" />
+      <item value="get Original List" />
+      <item value="result Vo" />
       <item value="HAND MAPPING" />
-      <item value="Data Handle Service" />
+      <item value="export Data To File" />
+      <item value="export Name" />
+      <item value="Data Handle Export Name Utils" />
       <item value="export Source Data List" />
+      <item value="Export History Diff Data" />
+      <item value="HANDLE DISPATCHER LOGGER" />
+      <item value="handle Type" />
+      <item value="get Date Time" />
+      <item value="Njzjdbc Handle Data Record" />
+      <item value="Data Handle Service" />
       <item value="Export Data Utils" />
       <item value="catch" />
-      <item value="result Vo" />
       <item value="Data Handle Vo" />
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
@@ -20,7 +29,6 @@
       <item value="dispatcher Service" />
       <item value="to JSON String" />
       <item value="JSON" />
-      <item value="Column Resolver Data" />
       <item value="execute Calculate" />
       <item value="get Sys Id" />
       <item value="missing Value Vo" />
@@ -47,10 +55,8 @@
       <item value="file Path" />
       <item value="field Name List" />
       <item value="导出对比数据相关" />
-      <item value="Export History Diff Data" />
       <item value="Handle Result Vo" />
       <item value="Longest Match Column Width Style Strategy" />
-      <item value="export Data To File" />
       <item value="Thread" />
       <item value="Java" />
       <item value="EXPORT HISTORY DIFF ROOT PATH" />
@@ -179,7 +185,6 @@
       <item value="function" />
       <item value="set Timeout" />
       <item value="td" />
-      <item value="handle Type" />
       <item value="异常值处理选择的数据" />
       <item value="abnormal Handle" />
       <item value="search Title" />
@@ -404,8 +409,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8141" />
-        <entry key="ENGLISH" value="8142" />
+        <entry key="CHINESE" value="8158" />
+        <entry key="ENGLISH" value="8159" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
