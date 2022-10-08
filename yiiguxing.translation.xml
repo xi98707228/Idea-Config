@@ -5,18 +5,32 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Column Resolver Data" />
-      <item value="get Original List" />
+      <item value="create New File" />
+      <item value="register Write Handler" />
       <item value="result Vo" />
+      <item value="Export History Diff Data" />
+      <item value="column Map" />
+      <item value="String" />
+      <item value="Column Of Data" />
+      <item value="Async Handler Direct Return" />
+      <item value="Column Resolver Data" />
+      <item value="column Name" />
+      <item value="column Values" />
+      <item value="column Resolver Map" />
+      <item value="Handle Result Vo" />
+      <item value="get Original List" />
+      <item value="export Source Data List" />
+      <item value="handle Type" />
+      <item value="get Date Time" />
+      <item value="Date Util" />
+      <item value="Initializing Bean" />
+      <item value="Diff History Data Controller" />
+      <item value="jdbc Template" />
       <item value="HAND MAPPING" />
       <item value="export Data To File" />
       <item value="export Name" />
       <item value="Data Handle Export Name Utils" />
-      <item value="export Source Data List" />
-      <item value="Export History Diff Data" />
       <item value="HANDLE DISPATCHER LOGGER" />
-      <item value="handle Type" />
-      <item value="get Date Time" />
       <item value="Njzjdbc Handle Data Record" />
       <item value="Data Handle Service" />
       <item value="Export Data Utils" />
@@ -45,17 +59,13 @@
       <item value="com" />
       <item value="qq" />
       <item value="987072248" />
-      <item value="column Name" />
-      <item value="column Values" />
       <item value="set Original List" />
       <item value="column Of Data List" />
       <item value="data Handle Vo" />
-      <item value="Column Of Data" />
       <item value="Arrays" />
       <item value="file Path" />
       <item value="field Name List" />
       <item value="导出对比数据相关" />
-      <item value="Handle Result Vo" />
       <item value="Longest Match Column Width Style Strategy" />
       <item value="Thread" />
       <item value="Java" />
@@ -90,7 +100,6 @@
       <item value="remote Method 2" />
       <item value="Remote Exception" />
       <item value="Not Bound Exception" />
-      <item value="String" />
       <item value="args" />
       <item value="throws" />
       <item value="9888" />
@@ -409,8 +418,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8158" />
-        <entry key="ENGLISH" value="8159" />
+        <entry key="CHINESE" value="8226" />
+        <entry key="ENGLISH" value="8227" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -430,7 +439,7 @@
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="4" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="MALAGASY" value="4" />
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
