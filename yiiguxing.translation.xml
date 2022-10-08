@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Dynamic Easy Excel Import Utils" />
+      <item value="Export History Diff Data" />
+      <item value="Export History Data" />
       <item value="字段名称" />
       <item value="选项的" />
       <item value="Data Handle Vo" />
@@ -372,8 +375,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8043" />
-        <entry key="ENGLISH" value="8043" />
+        <entry key="CHINESE" value="8045" />
+        <entry key="ENGLISH" value="8046" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
