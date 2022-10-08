@@ -5,16 +5,42 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Data Handle Vo" />
-      <item value="data Handle Vo" />
+      <item value="Column Resolver Data" />
+      <item value="execute Calculate" />
+      <item value="get Sys Id" />
       <item value="missing Value Vo" />
+      <item value="set Current List" />
+      <item value="column Resolver Data" />
+      <item value="persistence" />
+      <item value="customconfigurationquery" />
+      <item value="Hibernate Utils" />
+      <item value="select Fields" />
+      <item value="get Select Fields" />
+      <item value="field Name Array" />
+      <item value="Export Data Utils" />
+      <item value="export File Name" />
+      <item value="column Resolver Datum" />
+      <item value="com" />
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="column Name" />
+      <item value="column Values" />
+      <item value="set Original List" />
+      <item value="column Of Data List" />
+      <item value="data Handle Vo" />
+      <item value="Column Of Data" />
+      <item value="Arrays" />
+      <item value="file Path" />
+      <item value="field Name List" />
+      <item value="导出对比数据相关" />
+      <item value="Export History Diff Data" />
+      <item value="Handle Result Vo" />
+      <item value="Data Handle Vo" />
       <item value="Longest Match Column Width Style Strategy" />
       <item value="export Data To File" />
-      <item value="Export History Diff Data" />
       <item value="Thread" />
       <item value="Java" />
       <item value="EXPORT HISTORY DIFF ROOT PATH" />
-      <item value="file Path" />
       <item value="mkdir" />
       <item value="export File" />
       <item value="Naming Policy" />
@@ -28,7 +54,6 @@
       <item value="字段名称" />
       <item value="选项的" />
       <item value="handle" />
-      <item value="Handle Result Vo" />
       <item value="Data Handle Service" />
       <item value="implements" />
       <item value="Abnormal Value Service" />
@@ -45,7 +70,6 @@
       <item value="get Registry" />
       <item value="Locate Registry" />
       <item value="remote Method 2" />
-      <item value="987072248" />
       <item value="Remote Exception" />
       <item value="Not Bound Exception" />
       <item value="String" />
@@ -195,12 +219,9 @@
       <item value="down Value" />
       <item value="combine" />
       <item value="To Double Function" />
-      <item value="column Resolver Data" />
-      <item value="column Values" />
       <item value="split" />
       <item value="query Data For Fields" />
       <item value="verify Effective" />
-      <item value="execute Calculate" />
       <item value="temp Store List" />
       <item value="catch" />
       <item value="table Name" />
@@ -215,15 +236,10 @@
       <item value="String Utils" />
       <item value="EMPTY" />
       <item value="data Normalization Value Vo" />
-      <item value="set Original List" />
-      <item value="field Name Array" />
-      <item value="get Select Fields" />
       <item value="Jdbc Util" />
-      <item value="Arrays" />
       <item value="as List" />
       <item value="execute Calculate Dispatcher" />
       <item value="calculate Result List" />
-      <item value="column Of Data List" />
       <item value="System.out.println(2);" />
       <item value="Data Normalization Service" />
       <item value="RUNNING" />
@@ -269,7 +285,6 @@
       <item value="ABNORMAL VALUE" />
       <item value="我的业务页面" />
       <item value="get Table Name" />
-      <item value="select Fields" />
       <item value="diff" />
       <item value="缺失值处理 跳转页面" />
       <item value="forward Diff Call Back" />
@@ -322,10 +337,7 @@
       <item value="process End Flag" />
       <item value="最可能为总容量的" />
       <item value="出问题的概率" />
-      <item value="Column Resolver Data" />
       <item value="column Of Data" />
-      <item value="Column Of Data" />
-      <item value="column Name" />
       <item value="column Value Error Index" />
       <item value="Calculate" />
       <item value="System" />
@@ -364,7 +376,6 @@
       <item value="interval Load Plugin" />
       <item value="currrent List" />
       <item value="diff Vo" />
-      <item value="field Name List" />
       <item value="ready" />
       <item value="Xml Bean Definition Reader" />
       <item value="数据处理方法" />
@@ -384,13 +395,12 @@
       <item value="close Component" />
       <item value="get Key" />
       <item value="table Fields Map" />
-      <item value="customconfigurationquery" />
       <item value="table Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8070" />
-        <entry key="ENGLISH" value="8071" />
+        <entry key="CHINESE" value="8119" />
+        <entry key="ENGLISH" value="8120" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -418,7 +428,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="7" />
-        <entry key="PORTUGUESE" value="17" />
+        <entry key="PORTUGUESE" value="18" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
