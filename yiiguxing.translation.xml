@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Row Id" />
+      <item value="set Row Id" />
       <item value="skip Calculate" />
       <item value="display Vo" />
       <item value="application Context" />
@@ -458,8 +460,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8310" />
-        <entry key="ENGLISH" value="8311" />
+        <entry key="CHINESE" value="8319" />
+        <entry key="ENGLISH" value="8320" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
