@@ -5,6 +5,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String" />
+      <item value="model Type" />
+      <item value="model Version" />
+      <item value="model Importance" />
+      <item value="res Map" />
+      <item value="row Id" />
+      <item value="original Table Name" />
+      <item value="risk warning air conditioner" />
+      <item value="display" />
+      <item value="random" />
+      <item value="risk Warning Dispatcher Service" />
+      <item value="warning" />
+      <item value="airplane Model Manager" />
+      <item value="width" />
+      <item value="style" />
+      <item value="repair Scheme" />
+      <item value="textarea" />
+      <item value="repeat Random" />
       <item value="get Row Id" />
       <item value="set Row Id" />
       <item value="skip Calculate" />
@@ -72,7 +90,6 @@
       <item value="Parallel Sorter" />
       <item value="register Write Handler" />
       <item value="column Map" />
-      <item value="String" />
       <item value="Column Of Data" />
       <item value="Column Resolver Data" />
       <item value="column Name" />
@@ -409,7 +426,6 @@
       <item value="abc" />
       <item value="数据标准化处理" />
       <item value="get Left Threshold" />
-      <item value="res Map" />
       <item value="else" />
       <item value="Exception" />
       <item value="get Message" />
@@ -460,8 +476,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8319" />
-        <entry key="ENGLISH" value="8320" />
+        <entry key="CHINESE" value="8345" />
+        <entry key="ENGLISH" value="8346" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -502,7 +518,7 @@
         <entry key="HAWAIIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="11" />
-        <entry key="HINDI" value="14" />
+        <entry key="HINDI" value="15" />
         <entry key="INDONESIAN" value="4" />
         <entry key="JAVANESE" value="1" />
         <entry key="YORUBA" value="1" />
