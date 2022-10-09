@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="file Helper" />
+      <item value="download File" />
+      <item value="octet-stream" />
+      <item value="attachement Ins" />
+      <item value="get File Path" />
+      <item value="get Attachment Name" />
       <item value="export Data To File" />
       <item value="Njzjdbc Handle Data Record" />
       <item value="niminui" />
@@ -433,8 +439,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8253" />
-        <entry key="ENGLISH" value="8254" />
+        <entry key="CHINESE" value="8257" />
+        <entry key="ENGLISH" value="8258" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -443,7 +449,7 @@
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="4" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
