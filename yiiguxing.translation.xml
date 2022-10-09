@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="skip Calculate" />
+      <item value="display Vo" />
+      <item value="application Context" />
+      <item value="DISPLAY MAPPING" />
+      <item value="data Size" />
+      <item value="Override" />
+      <item value="display Type" />
       <item value="页面显示" />
       <item value="persistence" />
       <item value="Array List" />
@@ -129,7 +136,6 @@
       <item value="2022915 15:56" />
       <item value="result Column Data" />
       <item value="compare Beyond To Limit" />
-      <item value="Override" />
       <item value="retrieving" />
       <item value="get Icon Width" />
       <item value="paint Icon" />
@@ -452,8 +458,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8304" />
-        <entry key="ENGLISH" value="8304" />
+        <entry key="CHINESE" value="8310" />
+        <entry key="ENGLISH" value="8311" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
