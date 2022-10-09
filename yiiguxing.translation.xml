@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Application Context Aware" />
+      <item value="HAND MAPPING" />
+      <item value="njzjdbc Handle Data Record Manager" />
+      <item value="Spring Util" />
+      <item value="handle Data" />
+      <item value="result Vo" />
+      <item value="column Resolver Map" />
+      <item value="grouping By" />
       <item value="java" />
       <item value="Model Attribute" />
       <item value="get Single Column Row Mapper" />
@@ -21,8 +29,6 @@
       <item value="export Data To File" />
       <item value="Njzjdbc Handle Data Record" />
       <item value="niminui" />
-      <item value="Application Context Aware" />
-      <item value="njzjdbc Handle Data Record Manager" />
       <item value="Data Handle Dispatcher Service" />
       <item value="Transaction Factory Initiator" />
       <item value="Thread" />
@@ -42,7 +48,6 @@
       <item value="Class Visitor" />
       <item value="Parallel Sorter" />
       <item value="register Write Handler" />
-      <item value="result Vo" />
       <item value="Export History Diff Data" />
       <item value="column Map" />
       <item value="String" />
@@ -51,7 +56,6 @@
       <item value="Column Resolver Data" />
       <item value="column Name" />
       <item value="column Values" />
-      <item value="column Resolver Map" />
       <item value="Handle Result Vo" />
       <item value="get Original List" />
       <item value="export Source Data List" />
@@ -61,7 +65,6 @@
       <item value="Initializing Bean" />
       <item value="Diff History Data Controller" />
       <item value="jdbc Template" />
-      <item value="HAND MAPPING" />
       <item value="export Name" />
       <item value="Data Handle Export Name Utils" />
       <item value="HANDLE DISPATCHER LOGGER" />
@@ -402,7 +405,6 @@
       <item value="Request Mapping" />
       <item value="print Stack Trace" />
       <item value="model" />
-      <item value="handle Data" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
       <item value="TIME DELAY LENGTH" />
@@ -446,8 +448,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8264" />
-        <entry key="ENGLISH" value="8265" />
+        <entry key="CHINESE" value="8279" />
+        <entry key="ENGLISH" value="8280" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
