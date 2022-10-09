@@ -5,14 +5,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="persistence" />
+      <item value="Array List" />
+      <item value="column Resolver Map" />
+      <item value="export Source Data List" />
+      <item value="Export History Diff Data" />
+      <item value="get Field Name List" />
+      <item value="result Vo" />
+      <item value="field Name" />
+      <item value="handle Type" />
+      <item value="HAND MAPPING" />
+      <item value="get Sys Id" />
+      <item value="data Handle Vo" />
+      <item value="sys Id" />
+      <item value="Async Handler Direct Return" />
+      <item value="handle Data" />
+      <item value="to List" />
+      <item value="Collectors" />
       <item value="multiple Thread" />
       <item value="Application Context Aware" />
-      <item value="HAND MAPPING" />
       <item value="njzjdbc Handle Data Record Manager" />
       <item value="Spring Util" />
-      <item value="handle Data" />
-      <item value="result Vo" />
-      <item value="column Resolver Map" />
       <item value="grouping By" />
       <item value="java" />
       <item value="Model Attribute" />
@@ -37,7 +50,6 @@
       <item value="get Boolean Attributes" />
       <item value="is Invalid" />
       <item value="export File" />
-      <item value="Collectors" />
       <item value="The maximum length of cell contents (text) is 32767 characters" />
       <item value="bootstrap" />
       <item value="apache-tomca" />
@@ -49,18 +61,14 @@
       <item value="Class Visitor" />
       <item value="Parallel Sorter" />
       <item value="register Write Handler" />
-      <item value="Export History Diff Data" />
       <item value="column Map" />
       <item value="String" />
       <item value="Column Of Data" />
-      <item value="Async Handler Direct Return" />
       <item value="Column Resolver Data" />
       <item value="column Name" />
       <item value="column Values" />
       <item value="Handle Result Vo" />
       <item value="get Original List" />
-      <item value="export Source Data List" />
-      <item value="handle Type" />
       <item value="get Date Time" />
       <item value="Date Util" />
       <item value="Initializing Bean" />
@@ -75,17 +83,13 @@
       <item value="Data Handle Vo" />
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
-      <item value="get Field Name List" />
-      <item value="field Name" />
       <item value="dispatcher Service" />
       <item value="to JSON String" />
       <item value="JSON" />
       <item value="execute Calculate" />
-      <item value="get Sys Id" />
       <item value="missing Value Vo" />
       <item value="set Current List" />
       <item value="column Resolver Data" />
-      <item value="persistence" />
       <item value="customconfigurationquery" />
       <item value="Hibernate Utils" />
       <item value="select Fields" />
@@ -98,7 +102,6 @@
       <item value="987072248" />
       <item value="set Original List" />
       <item value="column Of Data List" />
-      <item value="data Handle Vo" />
       <item value="Arrays" />
       <item value="file Path" />
       <item value="field Name List" />
@@ -181,7 +184,6 @@
       <item value="data" />
       <item value="list" />
       <item value="add" />
-      <item value="Array List" />
       <item value="copy Final List" />
       <item value="Executor Service" />
       <item value="new" />
@@ -449,8 +451,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8283" />
-        <entry key="ENGLISH" value="8284" />
+        <entry key="CHINESE" value="8302" />
+        <entry key="ENGLISH" value="8303" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
