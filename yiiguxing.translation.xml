@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table" />
+      <item value="inner HTML" />
+      <item value="download" />
+      <item value="href" />
+      <item value="click" />
       <item value="test Export" />
       <item value="ajax" />
       <item value="demo Export Url" />
@@ -511,8 +516,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8406" />
-        <entry key="ENGLISH" value="8407" />
+        <entry key="CHINESE" value="8413" />
+        <entry key="ENGLISH" value="8414" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
