@@ -5,14 +5,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="text" />
+      <item value="javascript" />
       <item value="conversion" />
       <item value="content" />
+      <item value="conversionofhillrightnumber" />
+      <item value="data" />
+      <item value="data Type" />
       <item value="ajax" />
       <item value="type: &quot;post&quot;," />
       <item value="type" />
       <item value="post" />
       <item value="surveyinandmappingsystem" />
-      <item value="text" />
       <item value="Selection Key" />
       <item value="p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same updater." />
       <item value="A reflection-based utility that enables atomic updates to designated {@code volatile} reference fields of designated classes. This class is designed for use in atomic data structures in which several reference fields of the same node are independently subject to atomic updates. For example, a tree node might be declared as &lt;pre&gt; {@code class Node { private volatile Node left, right; private static final AtomicReferenceFieldUpdater&lt;Node, Node&gt; leftUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;left&quot;); private static AtomicReferenceFieldUpdater&lt;Node, Node&gt; rightUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;right&quot;); Node getLeft() { return left; } boolean compareAndSetLeft(Node expect, Node update) { return leftUpdater.compareAndSet(this, expect, update); } ... and so on }}&lt;pre&gt; &lt;p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same upda" />
@@ -269,7 +273,6 @@
       <item value="button" />
       <item value="get Flight" />
       <item value="flight" />
-      <item value="data" />
       <item value="add" />
       <item value="copy Final List" />
       <item value="Executor Service" />
@@ -504,7 +507,6 @@
       <item value="for Each" />
       <item value="leet Code Reduce Method" />
       <item value="current List" />
-      <item value="javascript" />
       <item value="append" />
       <item value="none" />
       <item value="load Frame Plugins" />
@@ -535,8 +537,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8435" />
-        <entry key="ENGLISH" value="8436" />
+        <entry key="CHINESE" value="8442" />
+        <entry key="ENGLISH" value="8443" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
