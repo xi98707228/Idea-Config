@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Selection Key" />
+      <item value="p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same updater." />
+      <item value="A reflection-based utility that enables atomic updates to designated {@code volatile} reference fields of designated classes. This class is designed for use in atomic data structures in which several reference fields of the same node are independently subject to atomic updates. For example, a tree node might be declared as &lt;pre&gt; {@code class Node { private volatile Node left, right; private static final AtomicReferenceFieldUpdater&lt;Node, Node&gt; leftUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;left&quot;); private static AtomicReferenceFieldUpdater&lt;Node, Node&gt; rightUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;right&quot;); Node getLeft() { return left; } boolean compareAndSetLeft(Node expect, Node update) { return leftUpdater.compareAndSet(this, expect, update); } ... and so on }}&lt;pre&gt; &lt;p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same upda" />
+      <item value="Atomic Reference Field Updater" />
+      <item value="Buffered Input Stream" />
+      <item value="__queue Head" />
+      <item value="__process Char" />
+      <item value="Telnet Input Stream" />
+      <item value="compare And Set" />
+      <item value="Single Thread Event Executor" />
+      <item value="Event Executor" />
+      <item value="Atomic Reference Field Updater Impl" />
+      <item value="file Preview" />
       <item value="table" />
       <item value="inner HTML" />
       <item value="download" />
@@ -516,8 +529,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8413" />
-        <entry key="ENGLISH" value="8414" />
+        <entry key="CHINESE" value="8427" />
+        <entry key="ENGLISH" value="8428" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
