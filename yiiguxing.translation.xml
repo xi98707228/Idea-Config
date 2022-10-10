@@ -5,11 +5,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="test Export" />
+      <item value="ajax" />
+      <item value="demo Export Url" />
+      <item value="function" />
+      <item value="unescape" />
+      <item value="window" />
+      <item value="document" />
       <item value="size" />
       <item value="font" />
       <item value="table inner title" />
       <item value="模型描述" />
-      <item value="function" />
       <item value="remove" />
       <item value="original Table Name" />
       <item value="no model" />
@@ -505,8 +511,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8385" />
-        <entry key="ENGLISH" value="8386" />
+        <entry key="CHINESE" value="8406" />
+        <entry key="ENGLISH" value="8407" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
