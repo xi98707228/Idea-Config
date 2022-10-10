@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="conversion" />
+      <item value="content" />
+      <item value="ajax" />
+      <item value="type: &quot;post&quot;," />
+      <item value="type" />
+      <item value="post" />
+      <item value="surveyinandmappingsystem" />
+      <item value="text" />
       <item value="Selection Key" />
       <item value="p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same updater." />
       <item value="A reflection-based utility that enables atomic updates to designated {@code volatile} reference fields of designated classes. This class is designed for use in atomic data structures in which several reference fields of the same node are independently subject to atomic updates. For example, a tree node might be declared as &lt;pre&gt; {@code class Node { private volatile Node left, right; private static final AtomicReferenceFieldUpdater&lt;Node, Node&gt; leftUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;left&quot;); private static AtomicReferenceFieldUpdater&lt;Node, Node&gt; rightUpdater = AtomicReferenceFieldUpdater.newUpdater(Node.class, Node.class, &quot;right&quot;); Node getLeft() { return left; } boolean compareAndSetLeft(Node expect, Node update) { return leftUpdater.compareAndSet(this, expect, update); } ... and so on }}&lt;pre&gt; &lt;p&gt;Note that the guarantees of the {@code compareAndSet} method in this class are weaker than in other atomic classes. Because this class cannot ensure that all uses of the field are appropriate for purposes of atomic access, it can guarantee atomicity only with respect to other invocations of {@code compareAndSet} and {@code set} on the same upda" />
@@ -24,7 +32,6 @@
       <item value="href" />
       <item value="click" />
       <item value="test Export" />
-      <item value="ajax" />
       <item value="demo Export Url" />
       <item value="function" />
       <item value="unescape" />
@@ -198,7 +205,6 @@
       <item value="file Name" />
       <item value="数据对比" />
       <item value="main" />
-      <item value="type" />
       <item value="Dynamic Easy Excel Import Utils" />
       <item value="Export History Data" />
       <item value="字段名称" />
@@ -529,8 +535,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8427" />
-        <entry key="ENGLISH" value="8428" />
+        <entry key="CHINESE" value="8435" />
+        <entry key="ENGLISH" value="8436" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
