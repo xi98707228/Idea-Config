@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="risk warning air conditioner" />
+      <item value="Artifact nuaa_sys:war exploded: Deploy took 24,279 milliseconds" />
+      <item value="exec" />
+      <item value="parser" />
+      <item value="Cookie" />
+      <item value="log Invalid Header" />
+      <item value="apache" />
+      <item value="将忽略该cookie" />
+      <item value="收到包含无效cookie的cookie头" />
+      <item value="1662022126" />
+      <item value="transaction" />
+      <item value="My SQL 5 Dialect" />
+      <item value="Hibernate" />
       <item value="String" />
       <item value="model Type" />
       <item value="model Version" />
@@ -12,7 +25,6 @@
       <item value="res Map" />
       <item value="row Id" />
       <item value="original Table Name" />
-      <item value="risk warning air conditioner" />
       <item value="display" />
       <item value="random" />
       <item value="risk Warning Dispatcher Service" />
@@ -476,8 +488,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8345" />
-        <entry key="ENGLISH" value="8346" />
+        <entry key="CHINESE" value="8360" />
+        <entry key="ENGLISH" value="8361" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
