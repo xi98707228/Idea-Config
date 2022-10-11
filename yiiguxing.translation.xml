@@ -5,6 +5,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="test Export" />
+      <item value="json" />
+      <item value="blocking Verify Process Finish" />
+      <item value="function" />
+      <item value="table inner title" />
+      <item value="radio 1" />
+      <item value="type" />
+      <item value="td" />
+      <item value="risk Assess Store" />
+      <item value="export Page" />
+      <item value="Risk Assess Store Controller" />
+      <item value="Map" />
+      <item value="category" />
+      <item value="Object" />
+      <item value="Context Loader" />
+      <item value="export Pdf" />
+      <item value="plugins" />
+      <item value="assessment" />
       <item value="startprint" />
       <item value="endprint" />
       <item value="substring" />
@@ -20,12 +38,10 @@
       <item value="sprnstr" />
       <item value="bdhtml" />
       <item value="index Of" />
-      <item value="test Export" />
       <item value="设置打印开始区域" />
       <item value="print" />
       <item value="HTML Table Element" />
       <item value="Export Pdf" />
-      <item value="function" />
       <item value="model Version" />
       <item value="select Model Function" />
       <item value="selected Index" />
@@ -61,7 +77,6 @@
       <item value="data Type" />
       <item value="ajax" />
       <item value="type: &quot;post&quot;," />
-      <item value="type" />
       <item value="post" />
       <item value="surveyinandmappingsystem" />
       <item value="Selection Key" />
@@ -87,7 +102,6 @@
       <item value="document" />
       <item value="size" />
       <item value="font" />
-      <item value="table inner title" />
       <item value="模型描述" />
       <item value="remove" />
       <item value="original Table Name" />
@@ -335,7 +349,6 @@
       <item value="使页面处于加载状态" />
       <item value="close Current Tab" />
       <item value="Current Dialog" />
-      <item value="blocking Verify Process Finish" />
       <item value="ajax Form" />
       <item value="disabled" />
       <item value="upload Excel File" />
@@ -357,7 +370,6 @@
       <item value="access Token Input" />
       <item value="reset Slice Handle Component" />
       <item value="set Timeout" />
-      <item value="td" />
       <item value="异常值处理选择的数据" />
       <item value="abnormal Handle" />
       <item value="search Title" />
@@ -456,7 +468,6 @@
       <item value="codemirror" />
       <item value="forward Diff Nav Tab" />
       <item value="each" />
-      <item value="json" />
       <item value="ajax Done" />
       <item value="缺失值补充" />
       <item value="信息提示" />
@@ -575,8 +586,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8543" />
-        <entry key="ENGLISH" value="8544" />
+        <entry key="CHINESE" value="8578" />
+        <entry key="ENGLISH" value="8579" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
