@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Artifact is deployed successfully" />
+      <item value="Deploy took 19,480 milliseconds" />
+      <item value="exploded" />
+      <item value="HV 000001" />
+      <item value="Gx Oa Multi Analysis" />
       <item value="text" />
       <item value="javascript" />
       <item value="conversion" />
@@ -537,13 +542,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8442" />
-        <entry key="ENGLISH" value="8443" />
+        <entry key="CHINESE" value="8446" />
+        <entry key="ENGLISH" value="8447" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="3" />
+        <entry key="ICELANDIC" value="4" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="19" />
         <entry key="GERMAN" value="4" />
