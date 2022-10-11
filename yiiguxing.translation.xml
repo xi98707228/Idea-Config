@@ -5,11 +5,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="receive Form Data" />
+      <item value="op Is Stateful" />
+      <item value="op Evaluate Parallel" />
+      <item value="resolve Page Type" />
+      <item value="filter" />
+      <item value="any Match" />
+      <item value="function" />
       <item value="test Export" />
+      <item value="click" />
+      <item value="start Project Examine Form" />
+      <item value="search Params" />
+      <item value="table inner title" />
+      <item value="radio 2" />
+      <item value="index 24" />
       <item value="json" />
       <item value="blocking Verify Process Finish" />
-      <item value="function" />
-      <item value="table inner title" />
       <item value="radio 1" />
       <item value="type" />
       <item value="td" />
@@ -95,7 +106,6 @@
       <item value="table" />
       <item value="download" />
       <item value="href" />
-      <item value="click" />
       <item value="demo Export Url" />
       <item value="unescape" />
       <item value="window" />
@@ -586,8 +596,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8578" />
-        <entry key="ENGLISH" value="8579" />
+        <entry key="CHINESE" value="8601" />
+        <entry key="ENGLISH" value="8602" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
