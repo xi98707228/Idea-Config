@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="model Version" />
+      <item value="select Model Function" />
+      <item value="selected Index" />
+      <item value="value" />
+      <item value="describe" />
+      <item value="res Map" />
       <item value="v 1" />
       <item value="get Element By Id" />
       <item value="result Table" />
@@ -97,9 +103,7 @@
       <item value="My SQL 5 Dialect" />
       <item value="Hibernate" />
       <item value="String" />
-      <item value="model Version" />
       <item value="model Importance" />
-      <item value="res Map" />
       <item value="random" />
       <item value="risk Warning Dispatcher Service" />
       <item value="warning" />
@@ -459,7 +463,6 @@
       <item value="add Attribute" />
       <item value="bordered" />
       <item value="option" />
-      <item value="value" />
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
@@ -555,8 +558,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8461" />
-        <entry key="ENGLISH" value="8462" />
+        <entry key="CHINESE" value="8475" />
+        <entry key="ENGLISH" value="8476" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
