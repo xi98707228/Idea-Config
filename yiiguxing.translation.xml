@@ -5,14 +5,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="param Key" />
+      <item value="预警报告" />
       <item value="resolve Input Dom" />
+      <item value="page Type" />
+      <item value="param Key" />
       <item value="export Report" />
       <item value="function" />
       <item value="点击确定导出按钮" />
       <item value="click" />
       <item value="_url" />
-      <item value="page Type" />
       <item value="Current Navtab" />
       <item value="this" />
       <item value="data" />
@@ -520,8 +521,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8406" />
-        <entry key="ENGLISH" value="8406" />
+        <entry key="CHINESE" value="8411" />
+        <entry key="ENGLISH" value="8411" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
