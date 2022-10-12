@@ -5,11 +5,45 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="receive Map Param" />
+      <item value="param Key" />
+      <item value="index" />
+      <item value="page Footer" />
+      <item value="close" />
+      <item value="resolve Input Value" />
+      <item value="form Data" />
+      <item value="function" />
+      <item value="Converts a JavaScript Object Notation (JSON) string into an object. @param text A valid JSON string. @param reviver A function that transforms the results. This function is called for each member of the object. If a member contains nested objects, the nested objects are transformed before the parent object is." />
+      <item value="cur Val" />
+      <item value="value" />
+      <item value="page Type" />
+      <item value="form Param Map" />
+      <item value="base Path" />
+      <item value="Request Body" />
+      <item value="go Export Pages" />
+      <item value="Request Method" />
+      <item value="receive Map" />
+      <item value="Excel Import Logging" />
+      <item value="import File" />
+      <item value="excel Import Logging" />
+      <item value="navtab" />
+      <item value="orgapachecommonsmath 3 util Arithmetic Utils" />
+      <item value="Creates an empty file in the default temporary-file directory, using the given prefix and suffix to generate its name. Invoking this method is equivalent to invoking &lt;code&gt;{@link createTempFile(java.lang.String, java.lang.String, java.io.File) createTempFile(prefix,&amp;nbsp;suffix,&amp;nbsp;null)}&lt;code&gt;. &lt;p&gt; The {@link java.nio.file.FilescreateTempFile(String,String,java.nio.file.attribute.FileAttribute[]) Files.createTempFile} method provides an alternative method to create an empty file in the temporary-file directory. Files created by that method may have more restrictive access permissions to files created by this method and so may be more suited to security-sensitive applications. @param prefix The prefix string to be used in generating the file's name; must be at least three characters long @param suffix The suffix string to be used in generating the file's name; may be &lt;code&gt;null&lt;code&gt;, in which case the suffix &lt;code&gt;&quot;.tmp&quot;&lt;code&gt; will be used @return An abstract pathname denoting a newly-created empty file @throws IllegalArgumentException If the &lt;code&gt;prefix&lt;code&gt; argument contains fewer than three characters @throws IOException If a file could not be created @throws SecurityException If a security manager exists and its &lt;code&gt;{@link java.lang.SecurityManagercheckWrite(java.lang.String)}&lt;code&gt; method does not allow a file to be created @since 1.2 @see java.nio.file.FilescreateTempDirectory(String,FileAttribute[])" />
+      <item value="create Temp File" />
+      <item value="get Excel Content" />
+      <item value="subscribable" />
+      <item value="assessment" />
+      <item value="ajax" />
+      <item value="res" />
+      <item value="Request Mapping" />
+      <item value="export Navtab Page" />
+      <item value="go Export Page" />
+      <item value="resolve Page Type" />
+      <item value="ajax Done" />
+      <item value="close Current Tab" />
       <item value="receive Form Data" />
       <item value="export Page" />
-      <item value="go Export Page" />
       <item value="add Attribute" />
-      <item value="form Data" />
       <item value="button" />
       <item value="保存数据" />
       <item value="test Export" />
@@ -18,14 +52,11 @@
       <item value="start Project Examine" />
       <item value="risk Assessment" />
       <item value="input" />
-      <item value="close" />
       <item value="start Project Examine Form" />
       <item value="search Params" />
-      <item value="function" />
       <item value="Hash Map" />
       <item value="op Is Stateful" />
       <item value="op Evaluate Parallel" />
-      <item value="resolve Page Type" />
       <item value="filter" />
       <item value="any Match" />
       <item value="click" />
@@ -45,7 +76,6 @@
       <item value="Context Loader" />
       <item value="export Pdf" />
       <item value="plugins" />
-      <item value="assessment" />
       <item value="startprint" />
       <item value="endprint" />
       <item value="substring" />
@@ -68,7 +98,6 @@
       <item value="model Version" />
       <item value="select Model Function" />
       <item value="selected Index" />
-      <item value="value" />
       <item value="describe" />
       <item value="res Map" />
       <item value="v 1" />
@@ -98,7 +127,6 @@
       <item value="conversionofhillrightnumber" />
       <item value="data" />
       <item value="data Type" />
-      <item value="ajax" />
       <item value="type: &quot;post&quot;," />
       <item value="post" />
       <item value="surveyinandmappingsystem" />
@@ -201,7 +229,6 @@
       <item value="java" />
       <item value="Model Attribute" />
       <item value="get Single Column Row Mapper" />
-      <item value="base Path" />
       <item value="Incorrect column count: expected 1, actual 7" />
       <item value="record Data List" />
       <item value="expected 1, actual 7" />
@@ -363,11 +390,9 @@
       <item value="format" />
       <item value="format Date" />
       <item value="set Recordtime" />
-      <item value="navtab" />
       <item value="4000" />
       <item value="提交表单" />
       <item value="使页面处于加载状态" />
-      <item value="close Current Tab" />
       <item value="Current Dialog" />
       <item value="ajax Form" />
       <item value="disabled" />
@@ -396,12 +421,10 @@
       <item value="page Content" />
       <item value="跟前端状态做对比" />
       <item value="询问当前切片流程状态" />
-      <item value="page Footer" />
       <item value="bjui" />
       <item value="hand Move Do Ajax Method" />
       <item value="hand Move Do Ajax" />
       <item value="get Root Path" />
-      <item value="Request Method" />
       <item value="Simple Date Format" />
       <item value="process" />
       <item value="Excel" />
@@ -487,7 +510,6 @@
       <item value="codemirror" />
       <item value="forward Diff Nav Tab" />
       <item value="each" />
-      <item value="ajax Done" />
       <item value="缺失值补充" />
       <item value="信息提示" />
       <item value="跳转页面" />
@@ -558,7 +580,6 @@
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
-      <item value="Request Mapping" />
       <item value="print Stack Trace" />
       <item value="model" />
       <item value="DATA NORMALIZATION" />
@@ -603,8 +624,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8632" />
-        <entry key="ENGLISH" value="8633" />
+        <entry key="CHINESE" value="8685" />
+        <entry key="ENGLISH" value="8686" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -629,9 +650,10 @@
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
+        <entry key="BENGALI" value="1" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="7" />
+        <entry key="NORWEGIAN" value="10" />
         <entry key="PORTUGUESE" value="18" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
