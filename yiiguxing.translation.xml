@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Import Excel" />
+      <item value="get Excel Content" />
+      <item value="Data truncation: Data too long for column 'AIR_DURN' at row 2" />
+      <item value="AIR DURN" />
       <item value="directory" />
       <item value="director目录" />
       <item value="director" />
@@ -572,8 +576,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8501" />
-        <entry key="ENGLISH" value="8502" />
+        <entry key="CHINESE" value="8504" />
+        <entry key="ENGLISH" value="8505" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -608,7 +612,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="SWAHILI" value="1" />
-        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SCOTS_GAELIC" value="2" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="14" />
