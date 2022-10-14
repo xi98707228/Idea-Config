@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delete Char At" />
+      <item value="get Connection Attributes As Properties" />
+      <item value="Deflater" />
+      <item value="rollback On" />
+      <item value="is Cglib Proxy Class Name" />
+      <item value="Reflective Method Invocation" />
+      <item value="Data too long for column 'AIR_DURN' at row 2" />
+      <item value="Dynamic Easy Excel Listener" />
       <item value="Import Excel" />
       <item value="get Excel Content" />
       <item value="Data truncation: Data too long for column 'AIR_DURN' at row 2" />
@@ -576,8 +584,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8504" />
-        <entry key="ENGLISH" value="8505" />
+        <entry key="CHINESE" value="8512" />
+        <entry key="ENGLISH" value="8513" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
