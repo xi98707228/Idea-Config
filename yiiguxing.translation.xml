@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="directory" />
+      <item value="director目录" />
+      <item value="director" />
+      <item value="Portal Controller" />
+      <item value="Gx Oa Security Guarantees File Manager" />
+      <item value="get File Name" />
+      <item value="parameter Map" />
+      <item value="get Request URI" />
+      <item value="req" />
+      <item value="contains" />
       <item value="form Data Json" />
       <item value="param Key" />
       <item value="starts With" />
@@ -562,8 +572,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8492" />
-        <entry key="ENGLISH" value="8493" />
+        <entry key="CHINESE" value="8501" />
+        <entry key="ENGLISH" value="8502" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
