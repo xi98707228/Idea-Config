@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="2 All files are up-to-date" />
+      <item value="model" />
+      <item value="JSON" />
+      <item value="to JSON String" />
+      <item value="receive Map" />
+      <item value="risk Status Limit Report" />
       <item value="get Session" />
       <item value="boolean" />
       <item value="function List" />
@@ -197,8 +203,6 @@
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
       <item value="dispatcher Service" />
-      <item value="to JSON String" />
-      <item value="JSON" />
       <item value="execute Calculate" />
       <item value="missing Value Vo" />
       <item value="set Current List" />
@@ -512,7 +516,6 @@
       <item value="data Handle Abnormal Vo" />
       <item value="Request Mapping" />
       <item value="print Stack Trace" />
-      <item value="model" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
       <item value="TIME DELAY LENGTH" />
@@ -556,8 +559,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8483" />
-        <entry key="ENGLISH" value="8484" />
+        <entry key="CHINESE" value="8489" />
+        <entry key="ENGLISH" value="8490" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
