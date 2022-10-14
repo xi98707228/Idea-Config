@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Model Attribute" />
+      <item value="get Attribute" />
+      <item value="session" />
+      <item value="n" />
+      <item value="里面获取用户名的信息" />
+      <item value="uuser" />
+      <item value="user session" />
       <item value="Mock Http Handler" />
       <item value="select Report Examine" />
       <item value="risk Assessment" />
@@ -13,7 +20,6 @@
       <item value="inner Examine Form" />
       <item value="Risk Assess Store Controller" />
       <item value="class" />
-      <item value="n" />
       <item value="正在停止服务器实例" />
       <item value="通过关闭端口接收到有效的关闭命令" />
       <item value="Web Application Context" />
@@ -125,7 +131,6 @@
       <item value="Spring Util" />
       <item value="grouping By" />
       <item value="java" />
-      <item value="Model Attribute" />
       <item value="get Single Column Row Mapper" />
       <item value="base Path" />
       <item value="Incorrect column count: expected 1, actual 7" />
@@ -541,8 +546,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8433" />
-        <entry key="ENGLISH" value="8434" />
+        <entry key="CHINESE" value="8440" />
+        <entry key="ENGLISH" value="8441" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
