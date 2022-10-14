@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Date Cell Value" />
+      <item value="equals" />
       <item value="get Cell Value By Cell" />
       <item value="String Builder" />
       <item value="delete Char At" />
@@ -586,8 +588,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8513" />
-        <entry key="ENGLISH" value="8514" />
+        <entry key="CHINESE" value="8515" />
+        <entry key="ENGLISH" value="8516" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
