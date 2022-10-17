@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Rest Controller" />
+      <item value="session" />
+      <item value="Http Session" />
+      <item value="user session" />
+      <item value="get Request URI" />
+      <item value="get Attribute" />
+      <item value="req" />
+      <item value="visitor Url" />
       <item value="analysis Config" />
       <item value="Risk Assess Store Controller" />
       <item value="Application Context Aware" />
@@ -72,8 +80,6 @@
       <item value="Gx Oa Security Guarantees File Manager" />
       <item value="get File Name" />
       <item value="parameter Map" />
-      <item value="get Request URI" />
-      <item value="req" />
       <item value="contains" />
       <item value="form Data Json" />
       <item value="param Key" />
@@ -91,7 +97,6 @@
       <item value="Request Param" />
       <item value="sys Function Manager" />
       <item value="Model" />
-      <item value="user session" />
       <item value="go Port" />
       <item value="suvering System Data Manager" />
       <item value="Servlet Request" />
@@ -99,8 +104,6 @@
       <item value="get Logon Name" />
       <item value="add Attribute" />
       <item value="Model Attribute" />
-      <item value="get Attribute" />
-      <item value="session" />
       <item value="n" />
       <item value="里面获取用户名的信息" />
       <item value="uuser" />
@@ -628,8 +631,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8560" />
-        <entry key="ENGLISH" value="8561" />
+        <entry key="CHINESE" value="8568" />
+        <entry key="ENGLISH" value="8569" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
