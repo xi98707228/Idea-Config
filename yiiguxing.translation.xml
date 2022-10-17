@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Free Login" />
       <item value="mobile" />
       <item value="飞机模型相关" />
       <item value="987072248" />
@@ -646,7 +647,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8587" />
-        <entry key="ENGLISH" value="8587" />
+        <entry key="ENGLISH" value="8588" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
