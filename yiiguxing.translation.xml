@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Proxy Class 0" />
+      <item value="new Proxy Instance" />
+      <item value="target Handler" />
+      <item value="Output Capture" />
+      <item value="System" />
       <item value="a key used for proxy class with 0 implemented interfaces" />
       <item value="Proxy Class Factory" />
       <item value="define Class 0" />
@@ -470,7 +475,6 @@
       <item value="column Of Data" />
       <item value="column Value Error Index" />
       <item value="Calculate" />
-      <item value="System" />
       <item value="objects List" />
       <item value="abc" />
       <item value="数据标准化处理" />
@@ -525,8 +529,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8404" />
-        <entry key="ENGLISH" value="8405" />
+        <entry key="CHINESE" value="8409" />
+        <entry key="ENGLISH" value="8410" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
