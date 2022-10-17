@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Non Owner Proxy" />
+      <item value="fetch" />
+      <item value="Auto" />
       <item value="get Proxy Class 0" />
       <item value="new Proxy Instance" />
       <item value="target Handler" />
@@ -529,8 +532,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8409" />
-        <entry key="ENGLISH" value="8410" />
+        <entry key="CHINESE" value="8412" />
+        <entry key="ENGLISH" value="8413" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
