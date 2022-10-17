@@ -5,36 +5,74 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="get Non Owner Proxy" />
-      <item value="fetch" />
-      <item value="Auto" />
-      <item value="get Proxy Class 0" />
-      <item value="new Proxy Instance" />
-      <item value="target Handler" />
-      <item value="Output Capture" />
-      <item value="System" />
-      <item value="a key used for proxy class with 0 implemented interfaces" />
-      <item value="Proxy Class Factory" />
-      <item value="define Class 0" />
-      <item value="is Proxy Class" />
-      <item value="interests" />
-      <item value="owner Proxy" />
-      <item value="method Accessor" />
-      <item value="read volatile" />
-      <item value="Undeclared Throwable Exception" />
-      <item value="@throws Throwable the exception to throw from the method invocation on the proxy instance. The exception's type must be assignable either to any of the exception types declared in the {@code throws} clause of the interface method or to the unchecked exception types {@code java.lang.RuntimeException} or {@code java.lang.Error}. If a checked exception is thrown by this method that is not assignable to any of the exception types declared in the {@code throws} clause of the interface method, then an {@link UndeclaredThrowableException} containing the exception that was thrown by this method will be thrown by the method invocation on the proxy instance." />
-      <item value="@return the value to return from the method invocation on the proxy instance. If the declared return type of the interface method is a primitive type, then the value returned by this method must be an instance of the corresponding primitive wrapper class; otherwise, it must be a type assignable to the declared return type. If the value returned by this method is {@code null} and the interface method's return type is primitive, then a {@code NullPointerException} will be thrown by the method invocation on the proxy instance. If the value returned by this method is otherwise not compatible with the interface method's declared return type as described above, a {@code ClassCastException} will be thrown by the method invocation on the proxy instance." />
-      <item value="@param args an array of objects containing the values of the arguments passed in the method invocation on the proxy instance, or {@code null} if interface method takes no arguments. Arguments of primitive types are wrapped in instances of the appropriate primitive wrapper class, such as {@code java.lang.Integer} or {@code java.lang.Boolean}." />
-      <item value="@param method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
-      <item value="Processes a method invocation on a proxy instance and returns the result. This method will be invoked on an invocation handler when a method is invoked on a proxy instance that it is associated with. @param proxy the proxy instance that the method was invoked on @param method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through. @param args an array of objects containing the values of the arguments passed in the method invocation on the proxy instance, or {@code null} if interface method takes no arguments. Arguments of primitive types are wrapped in instances of the appropriate primitive wrapper class, such as {@code java.lang.Integer} or {@code java.lang.Boolean}. @return the value to return from the method invocation on the proxy instance. If the declared return type of the interface method is a primitive type, then the value returned by this method must be an instance of the corresponding primitive wrapper class; otherwise, it must be a type assignable to the declared return type. If the value returned by this method is {@code null} and the interface method's return type is primitive, then a {@code NullPointerException} will be thrown by the method invocation on the proxy instance. If the value returned by this method is otherwise not compatible with the interface method's declared return type as described above, a {@code ClassCastException} will be thrown by the method invocation on the proxy instance. @throws Throwable the exception to throw from the method invocation on the proxy instance. The exception's type must be assignable either to any of the exception types declared in the {@code throws} clause of the interface method or to the unchecked exception types {@code java.lang.RuntimeException} or {@code java.lang.Error}. If a checked exception is thrown by this method that is not assignable to any of the exception types declared in the {@code throws} clause of the interface method, then an {@link UndeclaredThrowableException} containing the exception that was thrown by this method will be thrown by the method invocation on the proxy instance. @see UndeclaredThrowableException" />
-      <item value="proxy" />
-      <item value="Person Bean" />
-      <item value="non Owner Proxy" />
-      <item value="Native Library" />
-      <item value="A class loader is an object that is responsible for loading classes. The class &lt;tt&gt;ClassLoader&lt;tt&gt; is an abstract class. Given the &lt;a href=&quot;name&quot;&gt;binary name&lt;a&gt; of a class, a class loader should attempt to locate or generate data that constitutes a definition for the class. A typical strategy is to transform the name into a file name and then read a &quot;class file&quot; of that name from a file system. &lt;p&gt; Every {@link Class &lt;tt&gt;Class&lt;tt&gt;} object contains a {@link ClassgetClassLoader() reference} to the &lt;tt&gt;ClassLoader&lt;tt&gt; that defined it. &lt;p&gt; &lt;tt&gt;Class&lt;tt&gt; objects for array classes are not created by class loaders, but are created automatically as required by the Java runtime. The class loader for an array class, as returned by {@link ClassgetClassLoader()} is the same as the class loader for its element type; if the element type is a primitive type, then the array class has no class loader. &lt;p&gt; Applications implement subclasses of &lt;tt&gt;ClassLoader&lt;tt&gt; in order to extend the manner in which the Java virtual machine dynamically loads classes. &lt;p&gt; Class loaders may typically be used by security managers to indicate security domains. &lt;p&gt; The &lt;tt&gt;ClassLoader&lt;tt&gt; class uses a delegation model to search for classes and resources. Each instance of &lt;tt&gt;ClassLoader&lt;tt&gt; has an associated parent class loader. When requested to find a class or resource, a &lt;tt&gt;ClassLoader&lt;tt&gt; instance will delegate the search for the class or resource to its parent class loader before attempting to find the class or resource itself. The virtual machine's built-in class loader, called the &quot;bootstrap class loader&quot;, does not itself have a parent but may serve as the parent of a &lt;tt&gt;ClassLoader&lt;tt&gt; instance. &lt;p&gt; Class loaders that support concurrent loading of classes are known as &lt;em&gt;parallel capable&lt;em&gt; class loaders and are required to register themselves at their class initialization time by invoking the {@link registerAsParallelCapable &lt;tt&gt;ClassLoader.registerAsParallelCapable&lt;tt&gt;} method. Note that the &lt;tt&gt;ClassLoader&lt;tt&gt; class is registered as parallel capable by default. However, its subclasses still need to register themselves if they are parallel capable. &lt;br&gt; In environments in which the delegation model is not strictly hierarchical, class loaders need to be parallel capable, otherwise class loading can lead to deadlocks because the loader lock is held for the duration of the class loading process (see {@link loadClass &lt;tt&gt;loadClass&lt;tt&gt;} methods). &lt;p&gt; Normally, the Java virtual machine loads classes from the local file system in a platform-dependent manner. For example, on UNIX systems, the virtual machine loads classes from the directory defined by the &lt;tt&gt;CLASSPATH&lt;tt&gt; environment variable. &lt;p&gt; However, some classes may not originate from a file; they may originate from other sources, such as the network, or they could be constructed by an application. The method {@link defineClass(String, byte[], int, int) &lt;tt&gt;defineClass&lt;tt&gt;} converts an array of bytes into an instance of class &lt;tt&gt;Class&lt;tt&gt;. Instances of this newly defined class can be created using {@link ClassnewInstance &lt;tt&gt;Class.newInstance&lt;tt&gt;}. &lt;p&gt; The methods and constructors of objects created by a class loader may reference other classes. To determine the class(es) referred to, the Java virtual machine invokes the {@link loadClass &lt;tt&gt;loadClass&lt;tt&gt;} method of the class loader that originally created the class. &lt;p&gt; For example, an application could create a network class loader to download class files from a server. Sample code might look like: &lt;blockquote&gt;&lt;pre&gt; ClassLoader loader&amp;nbsp;= new NetworkClassLoader(host,&amp;nbsp;port); Object main&amp;nbsp;= loader.loadClass(&quot;Main&quot;, true).newInstance(); &amp;nbsp;.&amp;nbsp;.&amp;nbsp;. &lt;pre&gt;&lt;blockquote&gt; &lt;p&gt; The network class loader subclass must define the methods {@link findClass &lt;tt&gt;findClass&lt;tt&gt;} and &lt;tt&gt;loadClassData&lt;tt&gt; to load a class from the network. Once it has downloaded the bytes that make up the class, it should use the method {@link defineClass &lt;tt&gt;defineClass&lt;tt&gt;} to create a class instance. A sample implementation is: &lt;blockquote&gt;&lt;pre&gt; class NetworkClassLoader extends ClassLoader { String host; int port; public Class findClass(String name) { byte[] b = loadClassData(name); return defineClass(name, b, 0, b.length); } private byte[] loadClassData(String name) { load the class data from the connection &amp;nbsp;.&amp;nbsp;.&amp;nbsp;. } } &lt;pre&gt;&lt;blockquote&gt; &lt;h3&gt; &lt;a name=&quot;name&quot;&gt;Binary names&lt;a&gt; &lt;h3&gt; &lt;p&gt; Any class name provided as a {@link String} parameter to methods in &lt;tt&gt;ClassLoader&lt;tt&gt; must be a binary name as defined by &lt;cite&gt;The Java&amp;trade; Language Specification&lt;cite&gt;. &lt;p&gt; Examples of valid class names include: &lt;blockquote&gt;&lt;pre&gt; &quot;java.lang.String&quot; &quot;javax.swing.JSpinnerDefaultEditor&quot; &quot;java.security.KeyStoreBuilderFileBuilder1&quot; &quot;java.net.URLClassLoader31&quot; &lt;pre&gt;&lt;blockquote&gt;" />
-      <item value="set Hot Or Not Rating" />
-      <item value="Invocation Handler" />
-      <item value="Generic Proxy Bean" />
+      <item value="form Data Json" />
+      <item value="param Key" />
+      <item value="starts With" />
+      <item value="curr" />
+      <item value="2 All files are up-to-date" />
+      <item value="model" />
+      <item value="JSON" />
+      <item value="to JSON String" />
+      <item value="receive Map" />
+      <item value="risk Status Limit Report" />
+      <item value="get Session" />
+      <item value="boolean" />
+      <item value="function List" />
+      <item value="Request Param" />
+      <item value="sys Function Manager" />
+      <item value="Model" />
+      <item value="user session" />
+      <item value="go Port" />
+      <item value="suvering System Data Manager" />
+      <item value="Servlet Request" />
+      <item value="rhf" />
+      <item value="get Logon Name" />
+      <item value="add Attribute" />
+      <item value="Model Attribute" />
+      <item value="get Attribute" />
+      <item value="session" />
+      <item value="n" />
+      <item value="里面获取用户名的信息" />
+      <item value="uuser" />
+      <item value="Mock Http Handler" />
+      <item value="select Report Examine" />
+      <item value="risk Assessment" />
+      <item value="ajaxsearch" />
+      <item value="select Id" />
+      <item value="inner Examine Form" />
+      <item value="Risk Assess Store Controller" />
+      <item value="class" />
+      <item value="正在停止服务器实例" />
+      <item value="通过关闭端口接收到有效的关闭命令" />
+      <item value="Web Application Context" />
+      <item value="go Export Pages" />
+      <item value="page Type" />
+      <item value="Page Type" />
+      <item value="RISK WARNING REPORT" />
+      <item value="RISK ABNORMAL EVENT REPORT" />
+      <item value="RISK STATUS LIMIT REPORT" />
+      <item value="risk Status" />
+      <item value="abnormal Even Examine" />
+      <item value="enable Start Project Examine" />
+      <item value="点击确定导出按钮" />
+      <item value="预警报告" />
+      <item value="resolve Input Dom" />
+      <item value="export Report" />
+      <item value="function" />
+      <item value="click" />
+      <item value="_url" />
+      <item value="Current Navtab" />
+      <item value="this" />
+      <item value="data" />
+      <item value="navtab" />
+      <item value="确认导出报告" />
+      <item value="执行操作" />
+      <item value="获得原本页面的代码" />
+      <item value="构建新网页" />
+      <item value="new str" />
+      <item value="body" />
+      <item value="inner HTML" />
+      <item value="将网页还原" />
       <item value="The {@link Calendar} instance used for calculating the date-time fields and the instant of time. This field is used for both formatting and parsing. &lt;p&gt;Subclasses should initialize this field to a {@link Calendar} appropriate for the {@link Locale} associated with this &lt;code&gt;DateFormat&lt;code&gt;. @serial" />
       <item value="Date Format Symbols" />
       <item value="original Table Name" />
@@ -114,7 +152,6 @@
       <item value="Spring Util" />
       <item value="grouping By" />
       <item value="java" />
-      <item value="Model Attribute" />
       <item value="get Single Column Row Mapper" />
       <item value="base Path" />
       <item value="Incorrect column count: expected 1, actual 7" />
@@ -169,8 +206,6 @@
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
       <item value="dispatcher Service" />
-      <item value="to JSON String" />
-      <item value="JSON" />
       <item value="execute Calculate" />
       <item value="missing Value Vo" />
       <item value="set Current List" />
@@ -265,7 +300,6 @@
       <item value="button" />
       <item value="get Flight" />
       <item value="flight" />
-      <item value="data" />
       <item value="add" />
       <item value="copy Final List" />
       <item value="Executor Service" />
@@ -283,7 +317,6 @@
       <item value="format" />
       <item value="format Date" />
       <item value="set Recordtime" />
-      <item value="navtab" />
       <item value="4000" />
       <item value="提交表单" />
       <item value="使页面处于加载状态" />
@@ -310,7 +343,6 @@
       <item value="one Key Import Index Id" />
       <item value="access Token Input" />
       <item value="reset Slice Handle Component" />
-      <item value="function" />
       <item value="set Timeout" />
       <item value="td" />
       <item value="异常值处理选择的数据" />
@@ -433,7 +465,6 @@
       <item value="forward Diff Call Back" />
       <item value="right Threshold" />
       <item value="diff Context" />
-      <item value="add Attribute" />
       <item value="bordered" />
       <item value="option" />
       <item value="value" />
@@ -462,7 +493,6 @@
       <item value="待确认值" />
       <item value="本次比较阈值" />
       <item value="is Up" />
-      <item value="boolean" />
       <item value="Math" />
       <item value="double To Raw Long Bits" />
       <item value="column Value" />
@@ -478,6 +508,7 @@
       <item value="column Of Data" />
       <item value="column Value Error Index" />
       <item value="Calculate" />
+      <item value="System" />
       <item value="objects List" />
       <item value="abc" />
       <item value="数据标准化处理" />
@@ -488,7 +519,6 @@
       <item value="data Handle Abnormal Vo" />
       <item value="Request Mapping" />
       <item value="print Stack Trace" />
-      <item value="model" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
       <item value="TIME DELAY LENGTH" />
@@ -532,8 +562,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8412" />
-        <entry key="ENGLISH" value="8413" />
+        <entry key="CHINESE" value="8492" />
+        <entry key="ENGLISH" value="8493" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -544,7 +574,7 @@
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="2" />
-        <entry key="FRISIAN" value="1" />
+        <entry key="FRISIAN" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="2" />
@@ -558,9 +588,10 @@
         <entry key="MALTESE" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="MAORI" value="1" />
+        <entry key="BENGALI" value="5" />
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="7" />
+        <entry key="NORWEGIAN" value="9" />
         <entry key="PORTUGUESE" value="18" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
@@ -583,7 +614,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665965817532" />
+    <option name="lastTrimTime" value="1665556140576" />
   </component>
   <component name="Settings">
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
