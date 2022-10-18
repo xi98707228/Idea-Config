@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Not supported. Always throws UnsupportedOperationException. @throws UnsupportedOperationException always; {@code set} is not supported by this iterator." />
+      <item value="A thread-safe variant of {@link java.util.ArrayList} in which all mutative operations ({@code add}, {@code set}, and so on) are implemented by making a fresh copy of the underlying array. &lt;p&gt;This is ordinarily too costly, but may be &lt;em&gt;more&lt;em&gt; efficient than alternatives when traversal operations vastly outnumber mutations, and is useful when you cannot or don't want to synchronize traversals, yet need to preclude interference among concurrent threads. The &quot;snapshot&quot; style iterator method uses a reference to the state of the array at the point that the iterator was created. This array never changes during the lifetime of the iterator, so interference is impossible and the iterator is guaranteed not to throw {@code ConcurrentModificationException}. The iterator will not reflect additions, removals, or changes to the list since the iterator was created. Element-changing operations on iterators themselves ({@code remove}, {@code set}, and {@code add}) are not supported. These methods throw {@code UnsupportedOperationException}. &lt;p&gt;All elements are permitted, including {@code null}. &lt;p&gt;Memory consistency effects: As with other concurrent collections, actions in a thread prior to placing an object into a {@code CopyOnWriteArrayList} &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions subsequent to the access or removal of that element from the {@code CopyOnWriteArrayList} in another thread. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
+      <item value="get Array" />
       <item value="cas Reflection Data" />
       <item value="Soft Reference" />
       <item value="class Redefined Count" />
@@ -569,8 +572,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8500" />
-        <entry key="ENGLISH" value="8501" />
+        <entry key="CHINESE" value="8502" />
+        <entry key="ENGLISH" value="8503" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
