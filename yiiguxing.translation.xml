@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="button" />
+      <item value="for Each" />
       <item value="success" />
       <item value="Airplane Model Manager" />
       <item value="获取飞机模型数据信息" />
@@ -384,7 +386,6 @@
       <item value="Read in a &quot;logical line&quot; from an InputStreamReader, skip all comment and blank lines and filter out those leading whitespace characters (\u0020, \u0009 and \u000c) from the beginning of a &quot;natural line&quot;. Method returns the char length of the &quot;logical line&quot; and stores the line in &quot;lineBuf&quot;." />
       <item value="readonly" />
       <item value="input" />
-      <item value="button" />
       <item value="get Flight" />
       <item value="flight" />
       <item value="add" />
@@ -614,7 +615,6 @@
       <item value="load Current Tag Plugin" />
       <item value="field Name Position" />
       <item value="original List" />
-      <item value="for Each" />
       <item value="leet Code Reduce Method" />
       <item value="current List" />
       <item value="javascript" />
@@ -648,8 +648,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8590" />
-        <entry key="ENGLISH" value="8591" />
+        <entry key="CHINESE" value="8592" />
+        <entry key="ENGLISH" value="8593" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
