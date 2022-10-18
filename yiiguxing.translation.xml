@@ -5,11 +5,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Quack Duck Counter" />
+      <item value="我们想使用现在的鸭子模拟器来加入额的代码则需要使用适配器模式" />
+      <item value="Rubber Duck" />
+      <item value="Goose Adapter" />
+      <item value="目标适配鹅对象" />
+      <item value="Auto fetch: finished" />
+      <item value="Quackable" />
+      <item value="honk" />
+      <item value="Goose" />
+      <item value="public class Goose {" />
       <item value="simulate" />
       <item value="Duck Call" />
       <item value="Red Head Duck" />
       <item value="Mallard Duck" />
-      <item value="Quackable" />
       <item value="987072248" />
       <item value="Head First Design Pattern" />
       <item value="part 11_composite Pattern" />
@@ -301,7 +310,6 @@
       <item value="Ann Wollrath" />
       <item value="Activatable" />
       <item value="The &lt;code&gt;Remote&lt;code&gt; interface serves to identify interfaces whose methods may be invoked from a non-local virtual machine. Any object that is a remote object must directly or indirectly implement this interface. Only those methods specified in a &quot;remote interface&quot;, an interface that extends &lt;code&gt;java.rmi.Remote&lt;code&gt; are available remotely. &lt;p&gt;Implementation classes can implement any number of remote interfaces and can extend other remote implementation classes. RMI provides some convenience classes that remote object implementations can extend which facilitate remote object creation. These classes are &lt;code&gt;java.rmi.server.UnicastRemoteObject&lt;code&gt; and &lt;code&gt;java.rmi.activation.Activatable&lt;code&gt;. &lt;p&gt;For complete details on RMI, see the &lt;a href=......platformrmispecrmiTOC.html&gt;RMI Specification&lt;a&gt; which describes the RMI API and system." />
-      <item value="Auto fetch: finished" />
       <item value="Generation" />
       <item value="Count Down Latch" />
       <item value="Cyclic Barrier" />
@@ -579,8 +587,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8509" />
-        <entry key="ENGLISH" value="8510" />
+        <entry key="CHINESE" value="8520" />
+        <entry key="ENGLISH" value="8521" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
