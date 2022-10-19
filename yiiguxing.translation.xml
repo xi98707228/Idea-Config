@@ -5,9 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get JSON Array" />
+      <item value="go Risk List" />
+      <item value="Request Mapping" />
       <item value="手动预警分析" />
       <item value="String" />
-      <item value="go Risk List" />
       <item value="original Table Name" />
       <item value="String Utils" />
       <item value="equals" />
@@ -618,7 +620,6 @@
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
-      <item value="Request Mapping" />
       <item value="print Stack Trace" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
@@ -661,8 +662,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8608" />
-        <entry key="ENGLISH" value="8608" />
+        <entry key="CHINESE" value="8610" />
+        <entry key="ENGLISH" value="8611" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
