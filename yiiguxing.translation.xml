@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String Utils" />
+      <item value="equals" />
+      <item value="risk" />
+      <item value="如果是查看" />
+      <item value="获取" />
+      <item value="历史预警信息" />
+      <item value="data Type" />
+      <item value="information" />
+      <item value="risk Warning Information Manager" />
+      <item value="warning Information" />
+      <item value="original Table Name" />
+      <item value="如果是查看 获取 历史预警信息" />
+      <item value="view" />
+      <item value="Response Body" />
       <item value="Can't use Subversion command line client svn The path to the Subversion executable is probably wrong" />
       <item value="save Warning" />
       <item value="button" />
@@ -83,7 +97,6 @@
       <item value="Advanced Binary Jedis Commands" />
       <item value="Binary Jedis" />
       <item value="get Date Cell Value" />
-      <item value="equals" />
       <item value="get Cell Value By Cell" />
       <item value="String Builder" />
       <item value="delete Char At" />
@@ -172,11 +185,9 @@
       <item value="将网页还原" />
       <item value="The {@link Calendar} instance used for calculating the date-time fields and the instant of time. This field is used for both formatting and parsing. &lt;p&gt;Subclasses should initialize this field to a {@link Calendar} appropriate for the {@link Locale} associated with this &lt;code&gt;DateFormat&lt;code&gt;. @serial" />
       <item value="Date Format Symbols" />
-      <item value="original Table Name" />
       <item value="no model" />
       <item value="Loaded classes are up to date. Nothing to reload." />
       <item value="model Name Map" />
-      <item value="risk Warning Information Manager" />
       <item value="repair Scheme" />
       <item value="机组信息" />
       <item value="air Conditioner Warning Display" />
@@ -498,7 +509,6 @@
       <item value="column" />
       <item value="execute Sql" />
       <item value="default If Blank" />
-      <item value="String Utils" />
       <item value="EMPTY" />
       <item value="data Normalization Value Vo" />
       <item value="Jdbc Util" />
@@ -632,7 +642,6 @@
       <item value="数据处理方法" />
       <item value="结果" />
       <item value="POST" />
-      <item value="Response Body" />
       <item value="message" />
       <item value="Connection timed out: connect" />
       <item value="header Field List" />
@@ -650,8 +659,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8594" />
-        <entry key="ENGLISH" value="8595" />
+        <entry key="CHINESE" value="8604" />
+        <entry key="ENGLISH" value="8605" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
