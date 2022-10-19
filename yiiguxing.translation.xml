@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Destroying" />
       <item value="Mobile Auto Risk Data Controller" />
       <item value="Mobile Security Guarantees File Controller" />
       <item value="Gx Oa Security Guarantees File Manager" />
@@ -665,8 +666,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8614" />
-        <entry key="ENGLISH" value="8615" />
+        <entry key="CHINESE" value="8615" />
+        <entry key="ENGLISH" value="8616" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
