@@ -5,39 +5,106 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="装饰原来的鸭子类" />
-      <item value="part 11_composite Pattern" />
-      <item value="Head First Design Pattern" />
-      <item value="如果引入动物鹅" />
-      <item value="我们想使用现在的鸭子模拟器来加入额的代码则需要使用适配器模式" />
-      <item value="link" />
-      <item value="counting Duck Factory" />
-      <item value="create Mallard Duck" />
-      <item value="Duck Simulator Abstract Factory" />
-      <item value="Quack Duck Counter" />
-      <item value="Rubber Duck" />
-      <item value="Goose Adapter" />
-      <item value="目标适配鹅对象" />
-      <item value="Auto fetch: finished" />
-      <item value="Quackable" />
-      <item value="honk" />
-      <item value="Goose" />
-      <item value="public class Goose {" />
-      <item value="simulate" />
-      <item value="Duck Call" />
-      <item value="Red Head Duck" />
-      <item value="Mallard Duck" />
+      <item value="save Warning" />
+      <item value="button" />
+      <item value="for Each" />
+      <item value="success" />
+      <item value="Airplane Model Manager" />
+      <item value="获取飞机模型数据信息" />
+      <item value="Hibernate Utils" />
+      <item value="Free Login" />
+      <item value="mobile" />
+      <item value="飞机模型相关" />
       <item value="987072248" />
-      <item value="Not supported. Always throws UnsupportedOperationException. @throws UnsupportedOperationException always; {@code set} is not supported by this iterator." />
-      <item value="A thread-safe variant of {@link java.util.ArrayList} in which all mutative operations ({@code add}, {@code set}, and so on) are implemented by making a fresh copy of the underlying array. &lt;p&gt;This is ordinarily too costly, but may be &lt;em&gt;more&lt;em&gt; efficient than alternatives when traversal operations vastly outnumber mutations, and is useful when you cannot or don't want to synchronize traversals, yet need to preclude interference among concurrent threads. The &quot;snapshot&quot; style iterator method uses a reference to the state of the array at the point that the iterator was created. This array never changes during the lifetime of the iterator, so interference is impossible and the iterator is guaranteed not to throw {@code ConcurrentModificationException}. The iterator will not reflect additions, removals, or changes to the list since the iterator was created. Element-changing operations on iterators themselves ({@code remove}, {@code set}, and {@code add}) are not supported. These methods throw {@code UnsupportedOperationException}. &lt;p&gt;All elements are permitted, including {@code null}. &lt;p&gt;Memory consistency effects: As with other concurrent collections, actions in a thread prior to placing an object into a {@code CopyOnWriteArrayList} &lt;a href=&quot;package-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;i&gt;&lt;a&gt; actions subsequent to the access or removal of that element from the {@code CopyOnWriteArrayList} in another thread. &lt;p&gt;This class is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;." />
-      <item value="get Array" />
-      <item value="cas Reflection Data" />
-      <item value="Soft Reference" />
-      <item value="class Redefined Count" />
-      <item value="declared Fields" />
-      <item value="public Fields" />
-      <item value="get Interfaces" />
-      <item value="is I Pv 6 Supported" />
+      <item value="pre Handle" />
+      <item value="free Login Accept" />
+      <item value="Free Login Handler" />
+      <item value="ztree Data" />
+      <item value="200" />
+      <item value="res Map" />
+      <item value="Casts an object to the class or interface represented by this {@code Class} object. @param obj the object to be cast @return the object after casting, or null if obj is null @throws ClassCastException if the object is not null and is not assignable to the type T. @since 1.5" />
+      <item value="Generic Declaration" />
+      <item value="is Annotation Present" />
+      <item value="is Annotation Inherited" />
+      <item value="is Annotation Declared Locally" />
+      <item value="get Declaring Class" />
+      <item value="aspect Method" />
+      <item value="Rest Controller" />
+      <item value="session" />
+      <item value="Http Session" />
+      <item value="user session" />
+      <item value="get Request URI" />
+      <item value="get Attribute" />
+      <item value="req" />
+      <item value="visitor Url" />
+      <item value="analysis Config" />
+      <item value="Risk Assess Store Controller" />
+      <item value="Application Context Aware" />
+      <item value="do With Local Methods" />
+      <item value="determine Candidate Constructors" />
+      <item value="Instantiation Aware Bean Post Processor Adapter" />
+      <item value="Autowired Annotation Bean Post Processor" />
+      <item value="User Configurations" />
+      <item value="Priority Ordered" />
+      <item value="Configurable Listable Bean Factory" />
+      <item value="Bean Factory Post Processor" />
+      <item value="Indicates one or more &lt;em&gt;component classes&lt;em&gt; to import &amp;mdash; typically {@link Configuration @Configuration} classes. &lt;p&gt;Provides functionality equivalent to the {@code &lt;import&gt;} element in Spring XML. Allows for importing {@code @Configuration} classes, {@link ImportSelector} and {@link ImportBeanDefinitionRegistrar} implementations, as well as regular component classes (as of 4.2; analogous to {@link AnnotationConfigApplicationContextregister}). &lt;p&gt;{@code @Bean} definitions declared in imported {@code @Configuration} classes should be accessed by using {@link org.springframework.beans.factory.annotation.Autowired @Autowired} injection. Either the bean itself can be autowired, or the configuration class instance declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly navigation between {@code @Configuration} class methods. &lt;p&gt;May be declared at the class level or as a meta-annotation. &lt;p&gt;If XML or other non-{@code @Configuration} bean definition resources need to be imported, use the {@link ImportResource @ImportResource} annotation instead." />
+      <item value="get If Available" />
+      <item value="Redis Sentinel Configuration" />
+      <item value="Redis Cluster Configuration" />
+      <item value="Sentinel" />
+      <item value="Cluster" />
+      <item value="redis Application Context" />
+      <item value="redis Connection Factory" />
+      <item value="Redis Connection Factory" />
+      <item value="jedis" />
+      <item value="Digit Tens" />
+      <item value="Digit Ones" />
+      <item value="Filter Output Stream" />
+      <item value="Safe Encoder" />
+      <item value="multi" />
+      <item value="Jedis Data Exception" />
+      <item value="has Pipelined Response" />
+      <item value="pipeline" />
+      <item value="check Is In Multi Or Pipeline" />
+      <item value="get Status Code Reply" />
+      <item value="String" />
+      <item value="singleton" />
+      <item value="default Jedis" />
+      <item value="Tuple" />
+      <item value="initialization" />
+      <item value="Redis Config" />
+      <item value="redis Data Base" />
+      <item value="Component" />
+      <item value="Lettuce" />
+      <item value="redis" />
+      <item value="Default Jedis Socket Factory" />
+      <item value="Advanced Binary Jedis Commands" />
+      <item value="Binary Jedis" />
+      <item value="get Date Cell Value" />
+      <item value="equals" />
+      <item value="get Cell Value By Cell" />
+      <item value="String Builder" />
+      <item value="delete Char At" />
+      <item value="get Connection Attributes As Properties" />
+      <item value="Deflater" />
+      <item value="rollback On" />
+      <item value="is Cglib Proxy Class Name" />
+      <item value="Reflective Method Invocation" />
+      <item value="Data too long for column 'AIR_DURN' at row 2" />
+      <item value="Dynamic Easy Excel Listener" />
+      <item value="Import Excel" />
+      <item value="get Excel Content" />
+      <item value="Data truncation: Data too long for column 'AIR_DURN' at row 2" />
+      <item value="AIR DURN" />
+      <item value="directory" />
+      <item value="director目录" />
+      <item value="director" />
+      <item value="Portal Controller" />
+      <item value="Gx Oa Security Guarantees File Manager" />
+      <item value="get File Name" />
+      <item value="parameter Map" />
+      <item value="contains" />
       <item value="form Data Json" />
       <item value="param Key" />
       <item value="starts With" />
@@ -54,7 +121,6 @@
       <item value="Request Param" />
       <item value="sys Function Manager" />
       <item value="Model" />
-      <item value="user session" />
       <item value="go Port" />
       <item value="suvering System Data Manager" />
       <item value="Servlet Request" />
@@ -62,8 +128,6 @@
       <item value="get Logon Name" />
       <item value="add Attribute" />
       <item value="Model Attribute" />
-      <item value="get Attribute" />
-      <item value="session" />
       <item value="n" />
       <item value="里面获取用户名的信息" />
       <item value="uuser" />
@@ -73,7 +137,6 @@
       <item value="ajaxsearch" />
       <item value="select Id" />
       <item value="inner Examine Form" />
-      <item value="Risk Assess Store Controller" />
       <item value="class" />
       <item value="正在停止服务器实例" />
       <item value="通过关闭端口接收到有效的关闭命令" />
@@ -114,7 +177,6 @@
       <item value="model Name Map" />
       <item value="risk Warning Information Manager" />
       <item value="repair Scheme" />
-      <item value="analysis Config" />
       <item value="机组信息" />
       <item value="air Conditioner Warning Display" />
       <item value="create User Name" />
@@ -139,10 +201,8 @@
       <item value="transaction" />
       <item value="My SQL 5 Dialect" />
       <item value="Hibernate" />
-      <item value="String" />
       <item value="model Version" />
       <item value="model Importance" />
-      <item value="res Map" />
       <item value="display" />
       <item value="random" />
       <item value="risk Warning Dispatcher Service" />
@@ -180,7 +240,6 @@
       <item value="to List" />
       <item value="Collectors" />
       <item value="multiple Thread" />
-      <item value="Application Context Aware" />
       <item value="njzjdbc Handle Data Record Manager" />
       <item value="Spring Util" />
       <item value="grouping By" />
@@ -244,7 +303,6 @@
       <item value="set Current List" />
       <item value="column Resolver Data" />
       <item value="customconfigurationquery" />
-      <item value="Hibernate Utils" />
       <item value="select Fields" />
       <item value="get Select Fields" />
       <item value="field Name Array" />
@@ -316,6 +374,7 @@
       <item value="Ann Wollrath" />
       <item value="Activatable" />
       <item value="The &lt;code&gt;Remote&lt;code&gt; interface serves to identify interfaces whose methods may be invoked from a non-local virtual machine. Any object that is a remote object must directly or indirectly implement this interface. Only those methods specified in a &quot;remote interface&quot;, an interface that extends &lt;code&gt;java.rmi.Remote&lt;code&gt; are available remotely. &lt;p&gt;Implementation classes can implement any number of remote interfaces and can extend other remote implementation classes. RMI provides some convenience classes that remote object implementations can extend which facilitate remote object creation. These classes are &lt;code&gt;java.rmi.server.UnicastRemoteObject&lt;code&gt; and &lt;code&gt;java.rmi.activation.Activatable&lt;code&gt;. &lt;p&gt;For complete details on RMI, see the &lt;a href=......platformrmispecrmiTOC.html&gt;RMI Specification&lt;a&gt; which describes the RMI API and system." />
+      <item value="Auto fetch: finished" />
       <item value="Generation" />
       <item value="Count Down Latch" />
       <item value="Cyclic Barrier" />
@@ -328,7 +387,6 @@
       <item value="Read in a &quot;logical line&quot; from an InputStreamReader, skip all comment and blank lines and filter out those leading whitespace characters (\u0020, \u0009 and \u000c) from the beginning of a &quot;natural line&quot;. Method returns the char length of the &quot;logical line&quot; and stores the line in &quot;lineBuf&quot;." />
       <item value="readonly" />
       <item value="input" />
-      <item value="button" />
       <item value="get Flight" />
       <item value="flight" />
       <item value="add" />
@@ -364,7 +422,6 @@
       <item value="console" />
       <item value="access Token" />
       <item value="handler Finish Mapping" />
-      <item value="success" />
       <item value="bjuiajax" />
       <item value="重置文件组件" />
       <item value="reset File Component" />
@@ -559,7 +616,6 @@
       <item value="load Current Tag Plugin" />
       <item value="field Name Position" />
       <item value="original List" />
-      <item value="for Each" />
       <item value="leet Code Reduce Method" />
       <item value="current List" />
       <item value="javascript" />
@@ -593,8 +649,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8531" />
-        <entry key="ENGLISH" value="8531" />
+        <entry key="CHINESE" value="8593" />
+        <entry key="ENGLISH" value="8594" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -626,10 +682,11 @@
         <entry key="PORTUGUESE" value="18" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="SWAHILI" value="1" />
-        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SCOTS_GAELIC" value="2" />
         <entry key="WELSH" value="2" />
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="14" />
@@ -645,7 +702,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666063655827" />
+    <option name="lastTrimTime" value="1665988984222" />
   </component>
   <component name="Settings">
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
