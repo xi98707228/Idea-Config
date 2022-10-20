@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="schedule With Fixed Delay" />
+      <item value="period" />
       <item value="Schedule Run Unit" />
       <item value="987072248" />
       <item value="get Queue" />
@@ -712,7 +714,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8680" />
-        <entry key="ENGLISH" value="8675" />
+        <entry key="ENGLISH" value="8677" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
