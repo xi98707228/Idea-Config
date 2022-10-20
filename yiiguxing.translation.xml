@@ -5,27 +5,56 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Auto Risk Warning Schedule Thread Factory" />
+      <item value="Completion Stage" />
+      <item value="Asynchronous Completion Task" />
+      <item value="file Row Id" />
+      <item value="Completable Future" />
+      <item value="then Run" />
+      <item value="execute" />
+      <item value="Jdbc Util" />
+      <item value="get Total Count" />
+      <item value="custom Configuration Query Manager" />
+      <item value="会产生线程安全问题" />
+      <item value="脏读" />
+      <item value="this Time Table Count" />
+      <item value="import Task Thread Pool" />
+      <item value="length" />
+      <item value="store This Time Request Data" />
+      <item value="本次保存起始索引" />
+      <item value="insert Tables" />
+      <item value="table" />
+      <item value="values" />
+      <item value="table Name" />
+      <item value="delete Char At" />
+      <item value="插入数据信息" />
+      <item value="分组数据元数据" />
+      <item value="runnable" />
+      <item value="Delegated Scheduled Executor Service" />
+      <item value="get Continue Existing Periodic Tasks After Shutdown Policy" />
+      <item value="hook for ScheduledThreadPoolExecutor" />
+      <item value="Performs any further cleanup following run state transition on invocation of shutdown. A no-op here, but used by ScheduledThreadPoolExecutor to cancel delayed tasks." />
+      <item value="ensure visibility of callable" />
+      <item value="表名称" />
+      <item value="计划的运行单位" />
+      <item value="Schedule Run Unit" />
       <item value="common Run At Fixed Rate" />
       <item value="Creates and executes a periodic action that becomes enabled first after the given initial delay, and subsequently with the given period; that is executions will commence after {@code initialDelay} then {@code initialDelay+period}, then {@code initialDelay + 2 period}, and so on. If any execution of the task encounters an exception, subsequent executions are suppressed. Otherwise, the task will only terminate via cancellation or termination of the executor. If any execution of this task takes longer than its period, then subsequent executions may start late, but will not concurrently execute. @param command the task to execute @param initialDelay the time to delay first execution @param period the period between successive executions @param unit the time unit of the initialDelay and period parameters @return a ScheduledFuture representing pending completion of the task, and whose {@code get()} method will throw an exception upon cancellation @throws RejectedExecutionException if the task cannot be scheduled for execution @throws NullPointerException if command is null @throws IllegalArgumentException if period less than or equal to zero" />
       <item value="AUTO RISK WARNING SCHEDULE THREAD POOL" />
       <item value="resolve Schedule Value To Uint" />
       <item value="store File Name" />
-      <item value="table Name" />
       <item value="Array List" />
       <item value="table name" />
       <item value="A {@link SortedMap} extended with navigation methods returning the closest matches for given search targets. Methods {@code lowerEntry}, {@code floorEntry}, {@code ceilingEntry}, and {@code higherEntry} return {@code Map.Entry} objects associated with keys respectively less than, less than or equal, greater than or equal, and greater than a given key, returning {@code null} if there is no such key. Similarly, methods {@code lowerKey}, {@code floorKey}, {@code ceilingKey}, and {@code higherKey} return only the associated keys. All of these methods are designed for locating, not traversing entries. &lt;p&gt;A {@code NavigableMap} may be accessed and traversed in either ascending or descending key order. The {@code descendingMap} method returns a view of the map with the senses of all relational and directional methods inverted. The performance of ascending operations and views is likely to be faster than that of descending ones. Methods {@code subMap}, {@code headMap}, and {@code tailMap} differ from the like-named {@code SortedMap} methods in accepting additional arguments describing whether lower and upper bounds are inclusive versus exclusive. Submaps of any {@code NavigableMap} must implement the {@code NavigableMap} interface. &lt;p&gt;This interface additionally defines methods {@code firstEntry}, {@code pollFirstEntry}, {@code lastEntry}, and {@code pollLastEntry} that return andor remove the least and greatest mappings, if any exist, else returning {@code null}. &lt;p&gt;Implementations of entry-returning methods are expected to return {@code Map.Entry} pairs representing snapshots of mappings at the time they were produced, and thus generally do &lt;em&gt;not&lt;em&gt; support the optional {@code Entry.setValue} method. Note however that it is possible to change mappings in the associated map using method {@code put}. &lt;p&gt;Methods {@link subMap(Object, Object) subMap(K, K)}, {@link headMap(Object) headMap(K)}, and {@link tailMap(Object) tailMap(K)} are specified to return {@code SortedMap} to allow existing implementations of {@code SortedMap} to be compatibly retrofitted to implement {@code NavigableMap}, but extensions and implementations of this interface are encouraged to override these methods to return {@code NavigableMap}. Similarly, {@link keySet()} can be overriden to return {@code NavigableSet}. &lt;p&gt;This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @author Doug Lea @author Josh Bloch @param &lt;K&gt; the type of keys maintained by this map @param &lt;V&gt; the type of mapped values @since 1.6" />
       <item value="Concurrent Navigable Map" />
       <item value="Navigable Map" />
       <item value="Concurrent Skip List Map" />
-      <item value="custom Configuration Query Manager" />
       <item value="model Name" />
       <item value="groups Index" />
       <item value="groups" />
       <item value="index End" />
       <item value="index Begin" />
-      <item value="delete Char At" />
       <item value="记录本次导入数据" />
-      <item value="Auto Risk Warning Schedule Thread Factory" />
       <item value="service" />
       <item value="auto Risk Warning" />
       <item value="EVERY TIME" />
@@ -45,7 +74,6 @@
       <item value="can Run In Current Run State" />
       <item value="schedule With Fixed Delay" />
       <item value="period" />
-      <item value="Schedule Run Unit" />
       <item value="987072248" />
       <item value="get Queue" />
       <item value="add Worker" />
@@ -597,7 +625,6 @@
       <item value="default If Blank" />
       <item value="EMPTY" />
       <item value="data Normalization Value Vo" />
-      <item value="Jdbc Util" />
       <item value="as List" />
       <item value="execute Calculate Dispatcher" />
       <item value="calculate Result List" />
@@ -741,8 +768,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8715" />
-        <entry key="ENGLISH" value="8716" />
+        <entry key="CHINESE" value="8747" />
+        <entry key="ENGLISH" value="8748" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
