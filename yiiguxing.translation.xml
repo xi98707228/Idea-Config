@@ -5,13 +5,28 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Schedule Run Unit" />
+      <item value="987072248" />
+      <item value="get Queue" />
+      <item value="worker Count Of" />
+      <item value="add Worker" />
+      <item value="enqueue" />
+      <item value="Inserts the specified element at the tail of this queue if it is possible to do so immediately without exceeding the queue's capacity, returning {@code true} upon success and {@code false} if this queue is full. This method is generally preferable to method {@link add}, which can fail to insert an element only by throwing an exception." />
+      <item value="offer" />
+      <item value="Abort Policy" />
+      <item value="AUTO RISK WARNING SCHEDULE THREAD POOL" />
+      <item value="ensure Prestart" />
+      <item value="is Periodic" />
+      <item value="can Run In Current Run State" />
+      <item value="Null Pointer Exception" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="core Pool Size" />
+      <item value="EVERY DAYS" />
       <item value="delayed Time" />
       <item value="type Value" />
       <item value="每次" />
       <item value="EVERY TIME" />
-      <item value="ensure Prestart" />
       <item value="delayed Execute" />
-      <item value="Schedule Run Unit" />
       <item value="Auto Risk Warning Schedule" />
       <item value="String" />
       <item value="airplane Model Manager" />
@@ -32,7 +47,6 @@
       <item value="Logger Factory" />
       <item value="logger" />
       <item value="file Manager" />
-      <item value="987072248" />
       <item value="Quack Observable" />
       <item value="Observer" />
       <item value="Quack Observer" />
@@ -559,7 +573,6 @@
       <item value="System.out.println(2);" />
       <item value="Data Normalization Service" />
       <item value="RUNNING" />
-      <item value="Abort Policy" />
       <item value="A handler for rejected tasks that silently discards the rejected task." />
       <item value="Discard Oldest Policy" />
       <item value="Discard Policy" />
@@ -570,7 +583,6 @@
       <item value="ctl Of" />
       <item value="Bit field accessors that don't require unpacking ctl. These depend on the bit layout and on workerCount being never negative." />
       <item value="rs" />
-      <item value="worker Count Of" />
       <item value="merge Process Data Thread Pool" />
       <item value="remove Shutdown Hook" />
       <item value="get Parent Bean Factory" />
@@ -699,8 +711,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8657" />
-        <entry key="ENGLISH" value="8658" />
+        <entry key="CHINESE" value="8680" />
+        <entry key="ENGLISH" value="8675" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
