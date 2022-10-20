@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Index into delay queue, to support faster cancellation." />
+      <item value="sift Up" />
+      <item value="can Run In Current Run State" />
       <item value="schedule With Fixed Delay" />
       <item value="period" />
       <item value="Schedule Run Unit" />
@@ -19,7 +22,6 @@
       <item value="AUTO RISK WARNING SCHEDULE THREAD POOL" />
       <item value="ensure Prestart" />
       <item value="is Periodic" />
-      <item value="can Run In Current Run State" />
       <item value="Null Pointer Exception" />
       <item value="Scheduled Thread Pool Executor" />
       <item value="core Pool Size" />
@@ -714,7 +716,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8680" />
-        <entry key="ENGLISH" value="8677" />
+        <entry key="ENGLISH" value="8680" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
