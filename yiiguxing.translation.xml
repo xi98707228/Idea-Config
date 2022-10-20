@@ -5,8 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="传入当前呱呱叫的对象" />
+      <item value="implements" />
       <item value="Quack Observable" />
+      <item value="observer List" />
+      <item value="Quack Observable Impl" />
+      <item value="传入当前呱呱叫的对象" />
       <item value="Observable" />
       <item value="update" />
       <item value="Abstract Observer Data Board" />
@@ -464,7 +467,6 @@
       <item value="字段名称" />
       <item value="选项的" />
       <item value="handle" />
-      <item value="implements" />
       <item value="Abnormal Value Service" />
       <item value="data Handle Type" />
       <item value="min" />
@@ -772,8 +774,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8757" />
-        <entry key="ENGLISH" value="8757" />
+        <entry key="CHINESE" value="8762" />
+        <entry key="ENGLISH" value="8763" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
