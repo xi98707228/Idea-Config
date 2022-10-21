@@ -6,6 +6,35 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Row Mapper Result Set Extractor" />
+      <item value="Row Mapper" />
+      <item value="row Mapper" />
+      <item value="are" />
+      <item value="All" />
+      <item value="files" />
+      <item value="Dynamic Easy Excel Listener" />
+      <item value="set Row Id" />
+      <item value="set Groups Data Count" />
+      <item value="query Record" />
+      <item value="get Groups Index" />
+      <item value="this Time Table Count" />
+      <item value="null" />
+      <item value="set Index Begin" />
+      <item value="jdbc Template" />
+      <item value="njzjdbc data groups index record" />
+      <item value="file Name" />
+      <item value="get Groups Data Count" />
+      <item value="module Size" />
+      <item value="get Total Count" />
+      <item value="Interrupted Exception" />
+      <item value="inherit Thread Locals" />
+      <item value="stack Size" />
+      <item value="print Stack Trace" />
+      <item value="store Data" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="check And Update Groups Record Data" />
+      <item value="table Name" />
+      <item value="store This Time Request Data" />
       <item value="store Import Groups Index Record" />
       <item value="invoke Data Counter" />
       <item value="List" />
@@ -15,7 +44,6 @@
       <item value="split Data Resolver" />
       <item value="one Key Data Base Service" />
       <item value="checked And Update Groups Index Record" />
-      <item value="get Total Count" />
       <item value="Jdbc Util" />
       <item value="get Total By Sql" />
       <item value="this Time Table Count Index" />
@@ -44,19 +72,15 @@
       <item value="Table" />
       <item value="batch Insert" />
       <item value="store Check Groups Index Data" />
-      <item value="store This Time Request Data" />
       <item value="split Table Field Map" />
       <item value="return" />
       <item value="store Record Data" />
       <item value="njzjdbc Data Groups Index Record" />
       <item value="is Null" />
-      <item value="module Size" />
       <item value="close Component" />
       <item value="Array List" />
       <item value="batch Inset Value" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="this Time File Name" />
-      <item value="store Data" />
       <item value="SPLIT TABLE FIELD THRESHOLD" />
       <item value="Split Relation Config" />
       <item value="now Sub Split Field List" />
@@ -120,11 +144,9 @@
       <item value="会产生线程安全问题" />
       <item value="insert Tables" />
       <item value="Completion Stage" />
-      <item value="table Name" />
       <item value="Returns the name of the file or directory denoted by this abstract pathname. This is just the last name in the pathname's name sequence. If the pathname's name sequence is empty, then the empty string is returned. @return The name of the file or directory denoted by this abstract pathname, or the empty string if this pathname's name sequence is empty" />
       <item value="separator Char" />
       <item value="Thread Pool Executor" />
-      <item value="Dynamic Easy Excel Listener" />
       <item value="values" />
       <item value="SYS ID THREAD LOCAL" />
       <item value="invoke Head Map" />
@@ -352,7 +374,6 @@
       <item value="textarea" />
       <item value="repeat Random" />
       <item value="get Row Id" />
-      <item value="set Row Id" />
       <item value="skip Calculate" />
       <item value="display Vo" />
       <item value="application Context" />
@@ -425,7 +446,6 @@
       <item value="Date Util" />
       <item value="Initializing Bean" />
       <item value="Diff History Data Controller" />
-      <item value="jdbc Template" />
       <item value="export Name" />
       <item value="Data Handle Export Name Utils" />
       <item value="HANDLE DISPATCHER LOGGER" />
@@ -458,7 +478,6 @@
       <item value="mkdir" />
       <item value="Naming Policy" />
       <item value="No Class Def Found Error" />
-      <item value="file Name" />
       <item value="数据对比" />
       <item value="main" />
       <item value="type" />
@@ -731,7 +750,6 @@
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
-      <item value="print Stack Trace" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
       <item value="TIME DELAY LENGTH" />
@@ -768,8 +786,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8900" />
-        <entry key="ENGLISH" value="8901" />
+        <entry key="CHINESE" value="8926" />
+        <entry key="ENGLISH" value="8927" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -824,6 +842,11 @@
     <option name="lastTrimTime" value="1665988984222" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tLDjC1jVDoGrM15wo3b" />
+      </app-key>
+    </option>
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
 </application>
