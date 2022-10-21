@@ -1,13 +1,107 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="1000" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="operate System Table" />
-      <item value="store This Time Request Data" />
+      <item value="store Import Groups Index Record" />
+      <item value="invoke Data Counter" />
+      <item value="List" />
+      <item value="import Data List" />
+      <item value="batch Execute Split Insert Data Base Values" />
+      <item value="需要结束创建表格和插入数据的标志" />
+      <item value="split Data Resolver" />
+      <item value="one Key Data Base Service" />
+      <item value="checked And Update Groups Index Record" />
+      <item value="get Total Count" />
+      <item value="Jdbc Util" />
+      <item value="get Total By Sql" />
+      <item value="this Time Table Count Index" />
+      <item value="插入数据信息" />
+      <item value="Data Groups Index Controller" />
       <item value="njzjdbc Data Groups Index Record Manager" />
+      <item value="Njzjdbc Data Groups Index Record Manager" />
+      <item value="Request Mapping" />
+      <item value="groups" />
+      <item value="operate System Table" />
+      <item value="set Sstate" />
+      <item value="Batch" />
+      <item value="Handler" />
+      <item value="Split" />
+      <item value="Completable Future" />
+      <item value="custom Configuration Query Manager" />
+      <item value="read File" />
+      <item value="非一键导入" />
+      <item value="new" />
+      <item value="String" />
+      <item value="to Array" />
+      <item value="field Name List" />
+      <item value="field Lists" />
+      <item value="Insert" />
+      <item value="Data" />
+      <item value="Table" />
+      <item value="batch Insert" />
+      <item value="store Check Groups Index Data" />
+      <item value="store This Time Request Data" />
+      <item value="split Table Field Map" />
+      <item value="return" />
+      <item value="store Record Data" />
+      <item value="njzjdbc Data Groups Index Record" />
+      <item value="is Null" />
+      <item value="module Size" />
+      <item value="close Component" />
+      <item value="Array List" />
+      <item value="batch Inset Value" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="this Time File Name" />
+      <item value="store Data" />
+      <item value="SPLIT TABLE FIELD THRESHOLD" />
+      <item value="Split Relation Config" />
+      <item value="now Sub Split Field List" />
+      <item value="batch Execute Split Data Base Table" />
+      <item value="ate the current data table and update the data table fie" />
+      <item value="创建当前数据表 并更新数据表字段" />
+      <item value="initialization Data Base" />
+      <item value="一键导入流程异常" />
+      <item value="并更新数据表字段" />
+      <item value="njzjdbc Table Manager" />
+      <item value="original Field Size" />
+      <item value="original Field List" />
+      <item value="当出现" />
+      <item value="刚好是" />
+      <item value="Hibernate Utils" />
+      <item value="hibernate" />
+      <item value="customconfigurationquery" />
+      <item value="return;" />
+      <item value="Illegal Argument Exception" />
+      <item value="is Empty" />
+      <item value="split Table Name" />
+      <item value="initialization Attribute" />
+      <item value="如果采取分表的形式" />
+      <item value="插入数据不需要适配之前的代码" />
+      <item value="is Terminal" />
+      <item value="one Key Import Process Error" />
+      <item value="Serializable" />
+      <item value="Collection" />
+      <item value="insert Item" />
+      <item value="先处理第一组" />
+      <item value="split Table Counter" />
+      <item value="index Data Map" />
+      <item value="sync System Manage Lists" />
+      <item value="Execute" />
+      <item value="info" />
+      <item value="LOGGER" />
+      <item value="SPLIT BATCH INSERT THRESHOLD" />
+      <item value="invoke" />
+      <item value="import Excel Data List" />
+      <item value="next Split Start Index" />
+      <item value="获取行对象" />
+      <item value="public Row getRow(int rownum) {" />
+      <item value="get Row" />
+      <item value="sheet" />
+      <item value="添加本次切片存储的文件元数据信息到数据表中" />
       <item value="get Original Filename" />
       <item value="file Upload Service" />
       <item value="import File" />
@@ -15,8 +109,6 @@
       <item value="Hash Map" />
       <item value="get Excel Content" />
       <item value="Import Excel" />
-      <item value="custom Configuration Query Manager" />
-      <item value="Array List" />
       <item value="min List" />
       <item value="index Of" />
       <item value="begin" />
@@ -28,53 +120,31 @@
       <item value="会产生线程安全问题" />
       <item value="insert Tables" />
       <item value="Completion Stage" />
-      <item value="Completable Future" />
       <item value="table Name" />
-      <item value="split Data Resolver" />
-      <item value="需要结束创建表格和插入数据的标志" />
-      <item value="one Key Import Process Error" />
-      <item value="split Table Counter" />
-      <item value="original Field List" />
       <item value="Returns the name of the file or directory denoted by this abstract pathname. This is just the last name in the pathname's name sequence. If the pathname's name sequence is empty, then the empty string is returned. @return The name of the file or directory denoted by this abstract pathname, or the empty string if this pathname's name sequence is empty" />
       <item value="separator Char" />
       <item value="Thread Pool Executor" />
       <item value="Dynamic Easy Excel Listener" />
-      <item value="initialization Data Base" />
       <item value="values" />
       <item value="SYS ID THREAD LOCAL" />
       <item value="invoke Head Map" />
       <item value="Integer" />
       <item value="Easy Excel Factory" />
       <item value="easyexcel" />
-      <item value="field Name List" />
       <item value="batch Insert List" />
       <item value="integer String Map" />
-      <item value="index Data Map" />
       <item value="execute Data Base Thread Pool" />
-      <item value="Jdbc Util" />
       <item value="适配原始的表名称" />
-      <item value="import Data List" />
-      <item value="List" />
       <item value="Map" />
-      <item value="batch Execute Split Insert Data Base Values" />
-      <item value="return" />
-      <item value="invoke Data Counter" />
-      <item value="one Key Data Base Service" />
-      <item value="import Excel Data List" />
       <item value="skip Invoke Flag" />
       <item value="header Field List" />
       <item value="true" />
-      <item value="get Total By Sql" />
-      <item value="this Time Table Count Index" />
       <item value="分组数据元数据" />
       <item value="Subscriber Processor" />
       <item value="记录本次导入数据 ， 分组数据元数据" />
-      <item value="get Total Count" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="set Table Name" />
       <item value="set Index End" />
       <item value="index" />
-      <item value="groups" />
       <item value="get Groups Index List" />
       <item value="Schedule Run Unit" />
       <item value="risk Warning Report" />
@@ -82,7 +152,6 @@
       <item value="data Order 2" />
       <item value="Gx Oa File Type" />
       <item value="user Password" />
-      <item value="Hibernate Utils" />
       <item value="Dispatcher Servlet" />
       <item value="Free Login" />
       <item value="save Warning" />
@@ -145,7 +214,6 @@
       <item value="pipeline" />
       <item value="check Is In Multi Or Pipeline" />
       <item value="get Status Code Reply" />
-      <item value="String" />
       <item value="singleton" />
       <item value="default Jedis" />
       <item value="Tuple" />
@@ -372,7 +440,6 @@
       <item value="missing Value Vo" />
       <item value="set Current List" />
       <item value="column Resolver Data" />
-      <item value="customconfigurationquery" />
       <item value="select Fields" />
       <item value="get Select Fields" />
       <item value="field Name Array" />
@@ -424,7 +491,6 @@
       <item value="TCP Endpoint" />
       <item value="Connection refused: connect" />
       <item value="illegal remote method encountered:" />
-      <item value="Illegal Argument Exception" />
       <item value="Exception in thread &quot;main&quot; java.rmi.server.ExportException: remote object implements illegal remote interface; nested exception is:" />
       <item value="Binds the specified &lt;code&gt;name&lt;code&gt; to a remote object. @param name a name in URL format (without the scheme component) @param obj a reference for the remote object (usually a stub) @exception AlreadyBoundException if name is already bound @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
       <item value="Rebinds the specified name to a new remote object. Any existing binding for the name is replaced. @param name a name in URL format (without the scheme component) @param obj new remote object to associate with the name @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
@@ -461,7 +527,6 @@
       <item value="add" />
       <item value="copy Final List" />
       <item value="Executor Service" />
-      <item value="new" />
       <item value="用于存储数据" />
       <item value="定义数据包" />
       <item value="Adds a set of parameters to this &lt;code&gt;PreparedStatement&lt;code&gt; object's batch of commands. @exception SQLException if a database access error occurs or this method is called on a closed &lt;code&gt;PreparedStatement&lt;code&gt; @see StatementaddBatch @since 1.2" />
@@ -587,7 +652,6 @@
       <item value="remove Shutdown Hook" />
       <item value="get Parent Bean Factory" />
       <item value="Hierarchical Bean Factory" />
-      <item value="Execute" />
       <item value="Help GC" />
       <item value="limit" />
       <item value="http-nio-8699" />
@@ -667,7 +731,6 @@
       <item value="Exception" />
       <item value="get Message" />
       <item value="data Handle Abnormal Vo" />
-      <item value="Request Mapping" />
       <item value="print Stack Trace" />
       <item value="DATA NORMALIZATION" />
       <item value="数据表名称" />
@@ -699,17 +762,14 @@
       <item value="data List" />
       <item value="bean Dest" />
       <item value="Finalize" />
-      <item value="Split Relation Config" />
-      <item value="SPLIT TABLE FIELD THRESHOLD" />
-      <item value="close Component" />
       <item value="get Key" />
       <item value="table Fields Map" />
       <item value="table Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8699" />
-        <entry key="ENGLISH" value="8700" />
+        <entry key="CHINESE" value="8900" />
+        <entry key="ENGLISH" value="8901" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
