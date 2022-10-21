@@ -5,12 +5,39 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="operate System Table" />
+      <item value="store This Time Request Data" />
       <item value="njzjdbc Data Groups Index Record Manager" />
+      <item value="get Original Filename" />
+      <item value="file Upload Service" />
+      <item value="import File" />
+      <item value="res Map" />
+      <item value="Hash Map" />
+      <item value="get Excel Content" />
+      <item value="Import Excel" />
+      <item value="custom Configuration Query Manager" />
+      <item value="Array List" />
+      <item value="min List" />
+      <item value="index Of" />
+      <item value="begin" />
+      <item value="table" />
+      <item value="String Builder" />
+      <item value="size" />
+      <item value="delete Char At" />
+      <item value="不要再执行线程任务内计算当前表结构数量" />
+      <item value="会产生线程安全问题" />
+      <item value="insert Tables" />
+      <item value="Completion Stage" />
+      <item value="Completable Future" />
+      <item value="table Name" />
+      <item value="split Data Resolver" />
+      <item value="需要结束创建表格和插入数据的标志" />
+      <item value="one Key Import Process Error" />
+      <item value="split Table Counter" />
       <item value="original Field List" />
       <item value="Returns the name of the file or directory denoted by this abstract pathname. This is just the last name in the pathname's name sequence. If the pathname's name sequence is empty, then the empty string is returned. @return The name of the file or directory denoted by this abstract pathname, or the empty string if this pathname's name sequence is empty" />
       <item value="separator Char" />
       <item value="Thread Pool Executor" />
-      <item value="one Key Import Process Error" />
       <item value="Dynamic Easy Excel Listener" />
       <item value="initialization Data Base" />
       <item value="values" />
@@ -22,18 +49,14 @@
       <item value="field Name List" />
       <item value="batch Insert List" />
       <item value="integer String Map" />
-      <item value="operate System Table" />
-      <item value="split Table Counter" />
       <item value="index Data Map" />
       <item value="execute Data Base Thread Pool" />
       <item value="Jdbc Util" />
-      <item value="Array List" />
       <item value="适配原始的表名称" />
       <item value="import Data List" />
       <item value="List" />
       <item value="Map" />
       <item value="batch Execute Split Insert Data Base Values" />
-      <item value="需要结束创建表格和插入数据的标志" />
       <item value="return" />
       <item value="invoke Data Counter" />
       <item value="one Key Data Base Service" />
@@ -41,18 +64,12 @@
       <item value="skip Invoke Flag" />
       <item value="header Field List" />
       <item value="true" />
-      <item value="store This Time Request Data" />
       <item value="get Total By Sql" />
       <item value="this Time Table Count Index" />
       <item value="分组数据元数据" />
-      <item value="custom Configuration Query Manager" />
       <item value="Subscriber Processor" />
-      <item value="Completable Future" />
-      <item value="delete Char At" />
-      <item value="会产生线程安全问题" />
       <item value="记录本次导入数据 ， 分组数据元数据" />
       <item value="get Total Count" />
-      <item value="table Name" />
       <item value="Njzjdbc Data Groups Index Record" />
       <item value="set Table Name" />
       <item value="set Index End" />
@@ -82,7 +99,6 @@
       <item value="Free Login Handler" />
       <item value="ztree Data" />
       <item value="200" />
-      <item value="res Map" />
       <item value="Casts an object to the class or interface represented by this {@code Class} object. @param obj the object to be cast @return the object after casting, or null if obj is null @throws ClassCastException if the object is not null and is not assignable to the type T. @since 1.5" />
       <item value="Generic Declaration" />
       <item value="is Annotation Present" />
@@ -145,15 +161,12 @@
       <item value="get Date Cell Value" />
       <item value="equals" />
       <item value="get Cell Value By Cell" />
-      <item value="String Builder" />
       <item value="get Connection Attributes As Properties" />
       <item value="Deflater" />
       <item value="rollback On" />
       <item value="is Cglib Proxy Class Name" />
       <item value="Reflective Method Invocation" />
       <item value="Data too long for column 'AIR_DURN' at row 2" />
-      <item value="Import Excel" />
-      <item value="get Excel Content" />
       <item value="Data truncation: Data too long for column 'AIR_DURN' at row 2" />
       <item value="AIR DURN" />
       <item value="directory" />
@@ -451,7 +464,6 @@
       <item value="new" />
       <item value="用于存储数据" />
       <item value="定义数据包" />
-      <item value="size" />
       <item value="Adds a set of parameters to this &lt;code&gt;PreparedStatement&lt;code&gt; object's batch of commands. @exception SQLException if a database access error occurs or this method is called on a closed &lt;code&gt;PreparedStatement&lt;code&gt; @see StatementaddBatch @since 1.2" />
       <item value="get Host Address" />
       <item value="get Address" />
@@ -591,7 +603,6 @@
       <item value="forward Page Param" />
       <item value="异常值处理 跳转" />
       <item value="GET" />
-      <item value="Hash Map" />
       <item value="处理成功" />
       <item value="get Handle Type" />
       <item value="forward" />
@@ -697,8 +708,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8663" />
-        <entry key="ENGLISH" value="8664" />
+        <entry key="CHINESE" value="8699" />
+        <entry key="ENGLISH" value="8700" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
