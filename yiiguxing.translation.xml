@@ -6,6 +6,41 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Jdbc Template" />
+      <item value="jdbc Template" />
+      <item value="query Table Relation Groups List" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="blocking Verify Process Finish" />
+      <item value="table Configuration Expandask-process-status" />
+      <item value="预警分析图" />
+      <item value="预警信息显示" />
+      <item value="risk warning fly control" />
+      <item value="airplane Model Manager" />
+      <item value="Airplane Model Manager" />
+      <item value="Resource" />
+      <item value="required" />
+      <item value="selectpicker" />
+      <item value="value" />
+      <item value="type" />
+      <item value="find" />
+      <item value="list" />
+      <item value="Response Body" />
+      <item value="Request Param" />
+      <item value="get Groups List By Table Name" />
+      <item value="table Name" />
+      <item value="获取当前table" />
+      <item value="的所有组数据记录" />
+      <item value="根据table Name" />
+      <item value="The JNDI name of the resource. For field annotations, the default is the field name. For method annotations, the default is the JavaBeans property name corresponding to the method. For class annotations, there is no default and this must be specified." />
+      <item value="The Java type of the resource. For field annotations, the default is the type of the field. For method annotations, the default is the type of the JavaBeans property. For class annotations, there is no default and this must be specified." />
+      <item value="set Groups Data Count" />
+      <item value="store Data" />
+      <item value="index" />
+      <item value="Njzjdbc Data Groups Index Record Manager" />
+      <item value="groups" />
+      <item value="get Groups Index List" />
+      <item value="Data Groups Index Controller" />
+      <item value="halted" />
       <item value="Row Mapper Result Set Extractor" />
       <item value="Row Mapper" />
       <item value="row Mapper" />
@@ -14,13 +49,11 @@
       <item value="files" />
       <item value="Dynamic Easy Excel Listener" />
       <item value="set Row Id" />
-      <item value="set Groups Data Count" />
       <item value="query Record" />
       <item value="get Groups Index" />
       <item value="this Time Table Count" />
       <item value="null" />
       <item value="set Index Begin" />
-      <item value="jdbc Template" />
       <item value="njzjdbc data groups index record" />
       <item value="file Name" />
       <item value="get Groups Data Count" />
@@ -30,10 +63,7 @@
       <item value="inherit Thread Locals" />
       <item value="stack Size" />
       <item value="print Stack Trace" />
-      <item value="store Data" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="check And Update Groups Record Data" />
-      <item value="table Name" />
       <item value="store This Time Request Data" />
       <item value="store Import Groups Index Record" />
       <item value="invoke Data Counter" />
@@ -48,11 +78,8 @@
       <item value="get Total By Sql" />
       <item value="this Time Table Count Index" />
       <item value="插入数据信息" />
-      <item value="Data Groups Index Controller" />
       <item value="njzjdbc Data Groups Index Record Manager" />
-      <item value="Njzjdbc Data Groups Index Record Manager" />
       <item value="Request Mapping" />
-      <item value="groups" />
       <item value="operate System Table" />
       <item value="set Sstate" />
       <item value="Batch" />
@@ -166,8 +193,6 @@
       <item value="记录本次导入数据 ， 分组数据元数据" />
       <item value="set Table Name" />
       <item value="set Index End" />
-      <item value="index" />
-      <item value="get Groups Index List" />
       <item value="Schedule Run Unit" />
       <item value="risk Warning Report" />
       <item value="risk Status Limit Report" />
@@ -180,7 +205,6 @@
       <item value="button" />
       <item value="for Each" />
       <item value="success" />
-      <item value="Airplane Model Manager" />
       <item value="获取飞机模型数据信息" />
       <item value="mobile" />
       <item value="飞机模型相关" />
@@ -279,7 +303,6 @@
       <item value="get Session" />
       <item value="boolean" />
       <item value="function List" />
-      <item value="Request Param" />
       <item value="sys Function Manager" />
       <item value="Model" />
       <item value="go Port" />
@@ -341,7 +364,6 @@
       <item value="机组信息" />
       <item value="air Conditioner Warning Display" />
       <item value="create User Name" />
-      <item value="list" />
       <item value="set Projection" />
       <item value="page" />
       <item value="parse Date Filter" />
@@ -368,7 +390,6 @@
       <item value="random" />
       <item value="risk Warning Dispatcher Service" />
       <item value="warning" />
-      <item value="airplane Model Manager" />
       <item value="width" />
       <item value="style" />
       <item value="textarea" />
@@ -480,7 +501,6 @@
       <item value="No Class Def Found Error" />
       <item value="数据对比" />
       <item value="main" />
-      <item value="type" />
       <item value="Dynamic Easy Excel Import Utils" />
       <item value="Export History Data" />
       <item value="字段名称" />
@@ -563,7 +583,6 @@
       <item value="使页面处于加载状态" />
       <item value="close Current Tab" />
       <item value="Current Dialog" />
-      <item value="blocking Verify Process Finish" />
       <item value="ajax Form" />
       <item value="disabled" />
       <item value="upload Excel File" />
@@ -700,7 +719,6 @@
       <item value="diff Context" />
       <item value="bordered" />
       <item value="option" />
-      <item value="value" />
       <item value="initialization Event" />
       <item value="abnormal" />
       <item value="if Changed" />
@@ -774,7 +792,6 @@
       <item value="数据处理方法" />
       <item value="结果" />
       <item value="POST" />
-      <item value="Response Body" />
       <item value="message" />
       <item value="Connection timed out: connect" />
       <item value="data List" />
@@ -786,8 +803,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8926" />
-        <entry key="ENGLISH" value="8927" />
+        <entry key="CHINESE" value="8991" />
+        <entry key="ENGLISH" value="8992" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
