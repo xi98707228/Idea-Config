@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Channel" />
+      <item value="Readable Byte Channel" />
+      <item value="Duration" />
+      <item value="File System Watcher" />
+      <item value="Quackologist" />
       <item value="process Worker Exit" />
       <item value="largest Pool Size" />
       <item value="compare And Increment Worker Count" />
@@ -795,8 +800,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8797" />
-        <entry key="ENGLISH" value="8798" />
+        <entry key="CHINESE" value="8803" />
+        <entry key="ENGLISH" value="8804" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
