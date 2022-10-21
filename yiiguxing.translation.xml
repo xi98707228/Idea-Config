@@ -5,6 +5,33 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Jdbc Util" />
+      <item value="custom Configuration Query Manager" />
+      <item value="get Total By Sql" />
+      <item value="store This Time Request Data" />
+      <item value="List" />
+      <item value="Completable Future" />
+      <item value="分组数据元数据" />
+      <item value="delete Char At" />
+      <item value="会产生线程安全问题" />
+      <item value="记录本次导入数据 ， 分组数据元数据" />
+      <item value="this Time Table Count Index" />
+      <item value="get Total Count" />
+      <item value="table Name" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="set Table Name" />
+      <item value="set Index End" />
+      <item value="index" />
+      <item value="groups" />
+      <item value="get Groups Index List" />
+      <item value="Schedule Run Unit" />
+      <item value="risk Warning Report" />
+      <item value="risk Status Limit Report" />
+      <item value="data Order 2" />
+      <item value="Gx Oa File Type" />
+      <item value="user Password" />
+      <item value="Hibernate Utils" />
+      <item value="Dispatcher Servlet" />
       <item value="Free Login" />
       <item value="save Warning" />
       <item value="button" />
@@ -12,7 +39,6 @@
       <item value="success" />
       <item value="Airplane Model Manager" />
       <item value="获取飞机模型数据信息" />
-      <item value="Hibernate Utils" />
       <item value="mobile" />
       <item value="飞机模型相关" />
       <item value="987072248" />
@@ -85,7 +111,6 @@
       <item value="equals" />
       <item value="get Cell Value By Cell" />
       <item value="String Builder" />
-      <item value="delete Char At" />
       <item value="get Connection Attributes As Properties" />
       <item value="Deflater" />
       <item value="rollback On" />
@@ -114,7 +139,6 @@
       <item value="JSON" />
       <item value="to JSON String" />
       <item value="receive Map" />
-      <item value="risk Status Limit Report" />
       <item value="get Session" />
       <item value="boolean" />
       <item value="function List" />
@@ -488,7 +512,6 @@
       <item value="query Data For Fields" />
       <item value="verify Effective" />
       <item value="temp Store List" />
-      <item value="table Name" />
       <item value="result Columns Data" />
       <item value="get Connection" />
       <item value="conn" />
@@ -500,7 +523,6 @@
       <item value="String Utils" />
       <item value="EMPTY" />
       <item value="data Normalization Value Vo" />
-      <item value="Jdbc Util" />
       <item value="as List" />
       <item value="execute Calculate Dispatcher" />
       <item value="calculate Result List" />
@@ -649,8 +671,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8594" />
-        <entry key="ENGLISH" value="8595" />
+        <entry key="CHINESE" value="8616" />
+        <entry key="ENGLISH" value="8617" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
