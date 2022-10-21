@@ -5,10 +5,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Packing and unpacking ctl" />
+      <item value="The number of bits used to represent an {@code int} value in two's complement binary form." />
+      <item value="CAPACITY" />
+      <item value="Returns the index within this string of the last occurrence of the specified character. For values of {@code ch} in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value &lt;i&gt;k&lt;i&gt; such that: &lt;blockquote&gt;&lt;pre&gt; this.charAt(&lt;i&gt;k&lt;i&gt;) == ch &lt;pre&gt;&lt;blockquote&gt; is true. For other values of {@code ch}, it is the largest value &lt;i&gt;k&lt;i&gt; such that: &lt;blockquote&gt;&lt;pre&gt; this.codePointAt(&lt;i&gt;k&lt;i&gt;) == ch &lt;pre&gt;&lt;blockquote&gt; is true. In either case, if no such character occurs in this string, then {@code -1} is returned. The {@code String} is searched backwards starting at the last character. @param ch a character (Unicode code point). @return the index of the last occurrence of the character in the character sequence represented by this object, or {@code -1} if the character does not occur." />
+      <item value="A wrapper class that exposes only the ExecutorService methods of an ExecutorService implementation." />
+      <item value="Finalizable Delegated Executor Service" />
+      <item value="worker Count Of" />
+      <item value="观察者模式观察特定的鸭子" />
+      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
+      <item value="do Privileged" />
       <item value="Performs the specified {@code PrivilegedAction} with privileges enabled and restricted by the specified {@code AccessControlContext}. The action is performed with the intersection of the permissions possessed by the caller's protection domain, and those possessed by the domains represented by the specified {@code AccessControlContext}. &lt;p&gt; If the action's {@code run} method throws an (unchecked) exception, it will propagate through this method. &lt;p&gt; If a security manager is installed and the specified {@code AccessControlContext} was not created by system code and the caller's {@code ProtectionDomain} has not been granted the {@literal &quot;createAccessControlContext&quot;} {@link java.security.SecurityPermission}, then the action is performed with no permissions. @param &lt;T&gt; the type of the value returned by the PrivilegedAction's {@code run} method. @param action the action to be performed. @param context an &lt;i&gt;access control context&lt;i&gt; representing the restriction to be applied to the caller's domain's privileges before performing the specified action. If the context is {@code null}, then no additional restriction is applied. @return the value returned by the action's {@code run} method. @exception NullPointerException if the action is {@code null} @see doPrivileged(PrivilegedAction) @see doPrivileged(PrivilegedExceptionAction,AccessControlContext)" />
       <item value="The context to be used when executing the finalizer, or null." />
       <item value="Invokes {@code shutdown} when this executor is no longer referenced and it has no threads." />
-      <item value="do Privileged" />
       <item value="finalize" />
       <item value="quack Observable" />
       <item value="Quackable" />
@@ -79,10 +88,8 @@
       <item value="NUAA" />
       <item value="compare And Increment Worker Count" />
       <item value="Same as prestartCoreThread except arranges that at least one thread is started even if corePoolSize is 0." />
-      <item value="worker Count Of" />
       <item value="Runnable Scheduled Future" />
       <item value="re Execute Periodic" />
-      <item value="CAPACITY" />
       <item value="ensure Prestart" />
       <item value="注册为观察者" />
       <item value="observer" />
@@ -782,8 +789,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8776" />
-        <entry key="ENGLISH" value="8777" />
+        <entry key="CHINESE" value="8788" />
+        <entry key="ENGLISH" value="8789" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
