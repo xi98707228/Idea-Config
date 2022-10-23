@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table Name" />
+      <item value="groups" />
+      <item value="GET" />
+      <item value="method" />
+      <item value="function" />
+      <item value="success" />
+      <item value="数据表之后再选择数据信息" />
+      <item value="table Type" />
+      <item value="获取数据表关联的数据组信息" />
+      <item value="Scope" />
+      <item value="ajax" />
+      <item value="url" />
       <item value="framework" />
       <item value="Frameworks" />
       <item value="juli" />
@@ -41,7 +53,6 @@
       <item value="insert Tables" />
       <item value="table" />
       <item value="values" />
-      <item value="table Name" />
       <item value="delete Char At" />
       <item value="插入数据信息" />
       <item value="分组数据元数据" />
@@ -67,7 +78,6 @@
       <item value="Concurrent Skip List Map" />
       <item value="model Name" />
       <item value="groups Index" />
-      <item value="groups" />
       <item value="index End" />
       <item value="index Begin" />
       <item value="记录本次导入数据" />
@@ -109,7 +119,6 @@
       <item value="Auto Risk Warning Schedule" />
       <item value="String" />
       <item value="airplane Model Manager" />
-      <item value="success" />
       <item value="information Info" />
       <item value="Ajax Result" />
       <item value="result Ajax" />
@@ -302,7 +311,6 @@
       <item value="预警报告" />
       <item value="resolve Input Dom" />
       <item value="export Report" />
-      <item value="function" />
       <item value="click" />
       <item value="_url" />
       <item value="Current Navtab" />
@@ -673,7 +681,6 @@
       <item value="跳转页面" />
       <item value="forward Page Param" />
       <item value="异常值处理 跳转" />
-      <item value="GET" />
       <item value="Hash Map" />
       <item value="处理成功" />
       <item value="get Handle Type" />
@@ -781,8 +788,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8771" />
-        <entry key="ENGLISH" value="8772" />
+        <entry key="CHINESE" value="8783" />
+        <entry key="ENGLISH" value="8784" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
