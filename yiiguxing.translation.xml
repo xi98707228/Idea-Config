@@ -5,11 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table Relation Data Container" />
+      <item value="append Table Data Container" />
+      <item value="html" />
+      <item value="repair Scheme Val" />
       <item value="checkbox" />
       <item value="element" />
       <item value="data List" />
       <item value="show" />
-      <item value="append Table Data Container" />
       <item value="role" />
       <item value="role Name" />
       <item value="thead" />
@@ -17,7 +20,6 @@
       <item value="default Jedis" />
       <item value="Jedis" />
       <item value="initialization Jedis Connection" />
-      <item value="table Relation Data Container" />
       <item value="table Name" />
       <item value="groups" />
       <item value="GET" />
