@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Random Access File" />
+      <item value="rand Access Content File" />
       <item value="Remote Url Property Extractor" />
       <item value="Readable Byte Channel" />
       <item value="Channel" />
@@ -801,8 +803,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8804" />
-        <entry key="ENGLISH" value="8805" />
+        <entry key="CHINESE" value="8805" />
+        <entry key="ENGLISH" value="8806" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
