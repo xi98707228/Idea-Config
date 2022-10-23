@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Illegal Argument Exception" />
+      <item value="dummy" />
+      <item value="Bootstrap Service Registry Impl" />
+      <item value="groups Record Id List" />
       <item value="store First Groups Index Record" />
       <item value="Njzjdbc Data Groups Index Record" />
       <item value="native" />
@@ -539,7 +543,6 @@
       <item value="TCP Endpoint" />
       <item value="Connection refused: connect" />
       <item value="illegal remote method encountered:" />
-      <item value="Illegal Argument Exception" />
       <item value="Exception in thread &quot;main&quot; java.rmi.server.ExportException: remote object implements illegal remote interface; nested exception is:" />
       <item value="Binds the specified &lt;code&gt;name&lt;code&gt; to a remote object. @param name a name in URL format (without the scheme component) @param obj a reference for the remote object (usually a stub) @exception AlreadyBoundException if name is already bound @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
       <item value="Rebinds the specified name to a new remote object. Any existing binding for the name is replaced. @param name a name in URL format (without the scheme component) @param obj new remote object to associate with the name @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
@@ -820,8 +823,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8791" />
-        <entry key="ENGLISH" value="8792" />
+        <entry key="CHINESE" value="8792" />
+        <entry key="ENGLISH" value="8793" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
