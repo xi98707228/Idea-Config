@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="checkbox" />
+      <item value="element" />
+      <item value="data List" />
       <item value="show" />
       <item value="append Table Data Container" />
       <item value="role" />
@@ -784,7 +787,6 @@
       <item value="Connection timed out: connect" />
       <item value="header Field List" />
       <item value="import Excel Data List" />
-      <item value="data List" />
       <item value="bean Dest" />
       <item value="Finalize" />
       <item value="Split Relation Config" />
