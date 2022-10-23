@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="native" />
+      <item value="wait For Interruptibly" />
       <item value="Virtual Flow" />
       <item value="comparing" />
       <item value="display Table" />
