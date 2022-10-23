@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="role" />
+      <item value="role Name" />
       <item value="thead" />
       <item value="prototype" />
       <item value="default Jedis" />
