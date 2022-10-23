@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Virtual Flow" />
+      <item value="comparing" />
+      <item value="display Table" />
+      <item value="match Primary" />
+      <item value="air conditioner" />
+      <item value="skip Calculate" />
+      <item value="get Display Table" />
+      <item value="Airplane Model" />
+      <item value="row Id" />
+      <item value="distinct" />
+      <item value="select" />
+      <item value="size" />
+      <item value="accept" />
       <item value="completable" />
       <item value="group" />
       <item value="bjuiajax" />
@@ -148,7 +161,6 @@
       <item value="model Type" />
       <item value="original Table Name" />
       <item value="id" />
-      <item value="size" />
       <item value="get" />
       <item value="direct" />
       <item value="retrieve" />
@@ -360,7 +372,6 @@
       <item value="page" />
       <item value="parse Date Filter" />
       <item value="空调系统" />
-      <item value="row Id" />
       <item value="model Level" />
       <item value="Artifact nuaa_sys:war exploded: Deploy took 24,279 milliseconds" />
       <item value="exec" />
@@ -386,7 +397,6 @@
       <item value="repeat Random" />
       <item value="get Row Id" />
       <item value="set Row Id" />
-      <item value="skip Calculate" />
       <item value="display Vo" />
       <item value="application Context" />
       <item value="DISPLAY MAPPING" />
@@ -806,8 +816,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8788" />
-        <entry key="ENGLISH" value="8789" />
+        <entry key="CHINESE" value="8790" />
+        <entry key="ENGLISH" value="8791" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
