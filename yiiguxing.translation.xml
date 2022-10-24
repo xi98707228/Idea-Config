@@ -5,10 +5,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="risk" />
+      <item value="verify Check Value" />
+      <item value="njzjdbc data groups index record" />
+      <item value="groups Record Id List" />
+      <item value="analytical Conversion By Groups Ids" />
+      <item value="Initializing Bean" />
+      <item value="column Id" />
+      <item value="groups Row Id" />
       <item value="Illegal Argument Exception" />
       <item value="dummy" />
       <item value="Bootstrap Service Registry Impl" />
-      <item value="groups Record Id List" />
       <item value="store First Groups Index Record" />
       <item value="Njzjdbc Data Groups Index Record" />
       <item value="native" />
@@ -199,7 +206,6 @@
       <item value="手动预警分析" />
       <item value="String Utils" />
       <item value="equals" />
-      <item value="risk" />
       <item value="如果是查看" />
       <item value="获取" />
       <item value="历史预警信息" />
@@ -474,7 +480,6 @@
       <item value="get Original List" />
       <item value="get Date Time" />
       <item value="Date Util" />
-      <item value="Initializing Bean" />
       <item value="Diff History Data Controller" />
       <item value="jdbc Template" />
       <item value="export Name" />
@@ -823,8 +828,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8792" />
-        <entry key="ENGLISH" value="8793" />
+        <entry key="CHINESE" value="8794" />
+        <entry key="ENGLISH" value="8795" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
