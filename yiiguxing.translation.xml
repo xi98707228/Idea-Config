@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="skip Calculate" />
+      <item value="SUBJECT FACTORY TASK TITLE" />
+      <item value="组数据量" />
+      <item value="记录时间" />
+      <item value="groups Record Id List" />
+      <item value="analytical Conversion By Groups Ids" />
+      <item value="Python Data Source Config" />
+      <item value="Path" />
+      <item value="File" />
+      <item value="Upload" />
+      <item value="Store" />
+      <item value="Python" />
+      <item value="runner" />
       <item value="host" />
       <item value="password" />
       <item value="redis" />
@@ -15,8 +28,6 @@
       <item value="risk" />
       <item value="verify Check Value" />
       <item value="njzjdbc data groups index record" />
-      <item value="groups Record Id List" />
-      <item value="analytical Conversion By Groups Ids" />
       <item value="Initializing Bean" />
       <item value="column Id" />
       <item value="groups Row Id" />
@@ -32,7 +43,6 @@
       <item value="display Table" />
       <item value="match Primary" />
       <item value="air conditioner" />
-      <item value="skip Calculate" />
       <item value="get Display Table" />
       <item value="Airplane Model" />
       <item value="row Id" />
