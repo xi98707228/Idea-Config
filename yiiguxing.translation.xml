@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="add" />
+      <item value="SELECT" />
+      <item value="collect Groups List" />
       <item value="margin" />
       <item value="skip Calculate" />
       <item value="SUBJECT FACTORY TASK TITLE" />
@@ -36,7 +40,6 @@
       <item value="dummy" />
       <item value="Bootstrap Service Registry Impl" />
       <item value="store First Groups Index Record" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="native" />
       <item value="wait For Interruptibly" />
       <item value="Virtual Flow" />
@@ -595,7 +598,6 @@
       <item value="input" />
       <item value="get Flight" />
       <item value="flight" />
-      <item value="add" />
       <item value="copy Final List" />
       <item value="Executor Service" />
       <item value="new" />
@@ -842,8 +844,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8798" />
-        <entry key="ENGLISH" value="8799" />
+        <entry key="CHINESE" value="8800" />
+        <entry key="ENGLISH" value="8801" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
