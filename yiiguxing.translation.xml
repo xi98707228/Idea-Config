@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="host" />
+      <item value="password" />
+      <item value="redis" />
+      <item value="Redis Config" />
+      <item value="process" />
       <item value="risk warning fly control" />
       <item value="risk warning air conditioner" />
       <item value="risk" />
@@ -282,11 +287,9 @@
       <item value="singleton" />
       <item value="Tuple" />
       <item value="initialization" />
-      <item value="Redis Config" />
       <item value="redis Data Base" />
       <item value="Component" />
       <item value="Lettuce" />
-      <item value="redis" />
       <item value="Default Jedis Socket Factory" />
       <item value="Advanced Binary Jedis Commands" />
       <item value="Binary Jedis" />
@@ -636,7 +639,6 @@
       <item value="get Root Path" />
       <item value="Request Method" />
       <item value="Simple Date Format" />
-      <item value="process" />
       <item value="Excel" />
       <item value="test Excel" />
       <item value="close" />
@@ -829,8 +831,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8795" />
-        <entry key="ENGLISH" value="8796" />
+        <entry key="CHINESE" value="8798" />
+        <entry key="ENGLISH" value="8799" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
