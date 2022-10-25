@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="display Table" />
+      <item value="bridge" />
+      <item value="Python Data Source Config" />
       <item value="SIGNAL" />
       <item value="NORMAL" />
       <item value="below" />
@@ -31,7 +34,6 @@
       <item value="记录时间" />
       <item value="groups Record Id List" />
       <item value="analytical Conversion By Groups Ids" />
-      <item value="Python Data Source Config" />
       <item value="Path" />
       <item value="File" />
       <item value="Upload" />
@@ -59,7 +61,6 @@
       <item value="wait For Interruptibly" />
       <item value="Virtual Flow" />
       <item value="comparing" />
-      <item value="display Table" />
       <item value="match Primary" />
       <item value="air conditioner" />
       <item value="get Display Table" />
