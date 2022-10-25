@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Intelli J" />
+      <item value="then Run" />
+      <item value="display Type" />
       <item value="display Table" />
       <item value="bridge" />
       <item value="Python Data Source Config" />
@@ -126,7 +129,6 @@
       <item value="Asynchronous Completion Task" />
       <item value="file Row Id" />
       <item value="Completable Future" />
-      <item value="then Run" />
       <item value="execute" />
       <item value="Jdbc Util" />
       <item value="get Total Count" />
@@ -449,7 +451,6 @@
       <item value="DISPLAY MAPPING" />
       <item value="data Size" />
       <item value="Override" />
-      <item value="display Type" />
       <item value="页面显示" />
       <item value="persistence" />
       <item value="column Resolver Map" />
