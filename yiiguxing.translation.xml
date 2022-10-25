@@ -5,8 +5,113 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="part 1_JUC" />
-      <item value="violating" />
+      <item value="insert Tables" />
+      <item value="custom Configuration Query Manager" />
+      <item value="Intelli J" />
+      <item value="then Run" />
+      <item value="display Type" />
+      <item value="display Table" />
+      <item value="bridge" />
+      <item value="Python Data Source Config" />
+      <item value="SIGNAL" />
+      <item value="NORMAL" />
+      <item value="below" />
+      <item value="CAPACITY" />
+      <item value="device Info Translate Map" />
+      <item value="window Table" />
+      <item value="count" />
+      <item value="td" />
+      <item value="new" />
+      <item value="return" />
+      <item value="modbus" />
+      <item value="pu" />
+      <item value="api" />
+      <item value="request Base Url" />
+      <item value="importance" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="add" />
+      <item value="SELECT" />
+      <item value="collect Groups List" />
+      <item value="margin" />
+      <item value="skip Calculate" />
+      <item value="SUBJECT FACTORY TASK TITLE" />
+      <item value="组数据量" />
+      <item value="记录时间" />
+      <item value="groups Record Id List" />
+      <item value="analytical Conversion By Groups Ids" />
+      <item value="Path" />
+      <item value="File" />
+      <item value="Upload" />
+      <item value="Store" />
+      <item value="Python" />
+      <item value="runner" />
+      <item value="host" />
+      <item value="password" />
+      <item value="redis" />
+      <item value="Redis Config" />
+      <item value="process" />
+      <item value="risk warning fly control" />
+      <item value="risk warning air conditioner" />
+      <item value="risk" />
+      <item value="verify Check Value" />
+      <item value="njzjdbc data groups index record" />
+      <item value="Initializing Bean" />
+      <item value="column Id" />
+      <item value="groups Row Id" />
+      <item value="Illegal Argument Exception" />
+      <item value="dummy" />
+      <item value="Bootstrap Service Registry Impl" />
+      <item value="store First Groups Index Record" />
+      <item value="native" />
+      <item value="wait For Interruptibly" />
+      <item value="Virtual Flow" />
+      <item value="comparing" />
+      <item value="match Primary" />
+      <item value="air conditioner" />
+      <item value="get Display Table" />
+      <item value="Airplane Model" />
+      <item value="row Id" />
+      <item value="distinct" />
+      <item value="select" />
+      <item value="size" />
+      <item value="accept" />
+      <item value="completable" />
+      <item value="group" />
+      <item value="bjuiajax" />
+      <item value="do Load" />
+      <item value="no table" />
+      <item value="no model" />
+      <item value="airplane Model Manager" />
+      <item value="Select Vo" />
+      <item value="table Relation Data Container" />
+      <item value="append Table Data Container" />
+      <item value="html" />
+      <item value="repair Scheme Val" />
+      <item value="checkbox" />
+      <item value="element" />
+      <item value="data List" />
+      <item value="show" />
+      <item value="role" />
+      <item value="role Name" />
+      <item value="thead" />
+      <item value="prototype" />
+      <item value="default Jedis" />
+      <item value="Jedis" />
+      <item value="initialization Jedis Connection" />
+      <item value="table Name" />
+      <item value="groups" />
+      <item value="GET" />
+      <item value="method" />
+      <item value="function" />
+      <item value="success" />
+      <item value="数据表之后再选择数据信息" />
+      <item value="table Type" />
+      <item value="获取数据表关联的数据组信息" />
+      <item value="Scope" />
+      <item value="ajax" />
+      <item value="url" />
+      <item value="framework" />
+      <item value="Frameworks" />
       <item value="juli" />
       <item value="quack Observable" />
       <item value="Quackable" />
@@ -26,11 +131,9 @@
       <item value="Asynchronous Completion Task" />
       <item value="file Row Id" />
       <item value="Completable Future" />
-      <item value="then Run" />
       <item value="execute" />
       <item value="Jdbc Util" />
       <item value="get Total Count" />
-      <item value="custom Configuration Query Manager" />
       <item value="会产生线程安全问题" />
       <item value="脏读" />
       <item value="this Time Table Count" />
@@ -38,10 +141,8 @@
       <item value="length" />
       <item value="store This Time Request Data" />
       <item value="本次保存起始索引" />
-      <item value="insert Tables" />
       <item value="table" />
       <item value="values" />
-      <item value="table Name" />
       <item value="delete Char At" />
       <item value="插入数据信息" />
       <item value="分组数据元数据" />
@@ -67,7 +168,6 @@
       <item value="Concurrent Skip List Map" />
       <item value="model Name" />
       <item value="groups Index" />
-      <item value="groups" />
       <item value="index End" />
       <item value="index Begin" />
       <item value="记录本次导入数据" />
@@ -80,7 +180,6 @@
       <item value="worker Count Of" />
       <item value="Runnable Scheduled Future" />
       <item value="re Execute Periodic" />
-      <item value="CAPACITY" />
       <item value="ensure Prestart" />
       <item value="注册为观察者" />
       <item value="observer" />
@@ -108,15 +207,12 @@
       <item value="delayed Execute" />
       <item value="Auto Risk Warning Schedule" />
       <item value="String" />
-      <item value="airplane Model Manager" />
-      <item value="success" />
       <item value="information Info" />
       <item value="Ajax Result" />
       <item value="result Ajax" />
       <item value="model Type" />
       <item value="original Table Name" />
       <item value="id" />
-      <item value="size" />
       <item value="get" />
       <item value="direct" />
       <item value="retrieve" />
@@ -147,7 +243,6 @@
       <item value="手动预警分析" />
       <item value="String Utils" />
       <item value="equals" />
-      <item value="risk" />
       <item value="如果是查看" />
       <item value="获取" />
       <item value="历史预警信息" />
@@ -221,14 +316,11 @@
       <item value="check Is In Multi Or Pipeline" />
       <item value="get Status Code Reply" />
       <item value="singleton" />
-      <item value="default Jedis" />
       <item value="Tuple" />
       <item value="initialization" />
-      <item value="Redis Config" />
       <item value="redis Data Base" />
       <item value="Component" />
       <item value="Lettuce" />
-      <item value="redis" />
       <item value="Default Jedis Socket Factory" />
       <item value="Advanced Binary Jedis Commands" />
       <item value="Binary Jedis" />
@@ -302,7 +394,6 @@
       <item value="预警报告" />
       <item value="resolve Input Dom" />
       <item value="export Report" />
-      <item value="function" />
       <item value="click" />
       <item value="_url" />
       <item value="Current Navtab" />
@@ -319,7 +410,6 @@
       <item value="将网页还原" />
       <item value="The {@link Calendar} instance used for calculating the date-time fields and the instant of time. This field is used for both formatting and parsing. &lt;p&gt;Subclasses should initialize this field to a {@link Calendar} appropriate for the {@link Locale} associated with this &lt;code&gt;DateFormat&lt;code&gt;. @serial" />
       <item value="Date Format Symbols" />
-      <item value="no model" />
       <item value="Loaded classes are up to date. Nothing to reload." />
       <item value="model Name Map" />
       <item value="repair Scheme" />
@@ -331,9 +421,7 @@
       <item value="page" />
       <item value="parse Date Filter" />
       <item value="空调系统" />
-      <item value="row Id" />
       <item value="model Level" />
-      <item value="risk warning air conditioner" />
       <item value="Artifact nuaa_sys:war exploded: Deploy took 24,279 milliseconds" />
       <item value="exec" />
       <item value="parser" />
@@ -358,13 +446,11 @@
       <item value="repeat Random" />
       <item value="get Row Id" />
       <item value="set Row Id" />
-      <item value="skip Calculate" />
       <item value="display Vo" />
       <item value="application Context" />
       <item value="DISPLAY MAPPING" />
       <item value="data Size" />
       <item value="Override" />
-      <item value="display Type" />
       <item value="页面显示" />
       <item value="persistence" />
       <item value="column Resolver Map" />
@@ -428,7 +514,6 @@
       <item value="get Original List" />
       <item value="get Date Time" />
       <item value="Date Util" />
-      <item value="Initializing Bean" />
       <item value="Diff History Data Controller" />
       <item value="jdbc Template" />
       <item value="export Name" />
@@ -497,7 +582,6 @@
       <item value="TCP Endpoint" />
       <item value="Connection refused: connect" />
       <item value="illegal remote method encountered:" />
-      <item value="Illegal Argument Exception" />
       <item value="Exception in thread &quot;main&quot; java.rmi.server.ExportException: remote object implements illegal remote interface; nested exception is:" />
       <item value="Binds the specified &lt;code&gt;name&lt;code&gt; to a remote object. @param name a name in URL format (without the scheme component) @param obj a reference for the remote object (usually a stub) @exception AlreadyBoundException if name is already bound @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
       <item value="Rebinds the specified name to a new remote object. Any existing binding for the name is replaced. @param name a name in URL format (without the scheme component) @param obj new remote object to associate with the name @exception MalformedURLException if the name is not an appropriately formatted URL @exception RemoteException if registry could not be contacted @exception AccessException if this operation is not permitted (if originating from a non-local host, for example) @since JDK1.1" />
@@ -530,10 +614,8 @@
       <item value="input" />
       <item value="get Flight" />
       <item value="flight" />
-      <item value="add" />
       <item value="copy Final List" />
       <item value="Executor Service" />
-      <item value="new" />
       <item value="用于存储数据" />
       <item value="定义数据包" />
       <item value="Adds a set of parameters to this &lt;code&gt;PreparedStatement&lt;code&gt; object's batch of commands. @exception SQLException if a database access error occurs or this method is called on a closed &lt;code&gt;PreparedStatement&lt;code&gt; @see StatementaddBatch @since 1.2" />
@@ -562,7 +644,6 @@
       <item value="console" />
       <item value="access Token" />
       <item value="handler Finish Mapping" />
-      <item value="bjuiajax" />
       <item value="重置文件组件" />
       <item value="reset File Component" />
       <item value="verify File Extension Name" />
@@ -572,7 +653,6 @@
       <item value="access Token Input" />
       <item value="reset Slice Handle Component" />
       <item value="set Timeout" />
-      <item value="td" />
       <item value="异常值处理选择的数据" />
       <item value="abnormal Handle" />
       <item value="search Title" />
@@ -586,7 +666,6 @@
       <item value="get Root Path" />
       <item value="Request Method" />
       <item value="Simple Date Format" />
-      <item value="process" />
       <item value="Excel" />
       <item value="test Excel" />
       <item value="close" />
@@ -649,7 +728,6 @@
       <item value="Discard Policy" />
       <item value="COUNT BITS" />
       <item value="run State Of" />
-      <item value="return" />
       <item value="ctl Of" />
       <item value="Bit field accessors that don't require unpacking ctl. These depend on the bit layout and on workerCount being never negative." />
       <item value="rs" />
@@ -673,7 +751,6 @@
       <item value="跳转页面" />
       <item value="forward Page Param" />
       <item value="异常值处理 跳转" />
-      <item value="GET" />
       <item value="Hash Map" />
       <item value="处理成功" />
       <item value="get Handle Type" />
@@ -768,7 +845,6 @@
       <item value="Connection timed out: connect" />
       <item value="header Field List" />
       <item value="import Excel Data List" />
-      <item value="data List" />
       <item value="bean Dest" />
       <item value="Finalize" />
       <item value="Split Relation Config" />
@@ -781,8 +857,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8771" />
-        <entry key="ENGLISH" value="8772" />
+        <entry key="CHINESE" value="8804" />
+        <entry key="ENGLISH" value="8805" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
@@ -811,7 +887,7 @@
         <entry key="HMONG" value="2" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="9" />
-        <entry key="PORTUGUESE" value="18" />
+        <entry key="PORTUGUESE" value="19" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="ESPERANTO" value="1" />
