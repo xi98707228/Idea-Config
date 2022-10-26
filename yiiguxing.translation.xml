@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="groups Row Id" />
+      <item value="Jdbc Template" />
+      <item value="Objects" />
+      <item value="is Null" />
       <item value="get Store File" />
       <item value="null" />
       <item value="status Context" />
@@ -81,7 +85,6 @@
       <item value="njzjdbc data groups index record" />
       <item value="Initializing Bean" />
       <item value="column Id" />
-      <item value="groups Row Id" />
       <item value="Illegal Argument Exception" />
       <item value="dummy" />
       <item value="Bootstrap Service Registry Impl" />
@@ -877,8 +880,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8808" />
-        <entry key="ENGLISH" value="8809" />
+        <entry key="CHINESE" value="8810" />
+        <entry key="ENGLISH" value="8811" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
