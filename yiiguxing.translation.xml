@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="null" />
       <item value="status Context" />
       <item value="获取手机端上报的所有关联设备Device Code" />
       <item value="i Gx Oa Work Order Service" />
@@ -875,8 +876,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8807" />
-        <entry key="ENGLISH" value="8808" />
+        <entry key="CHINESE" value="8808" />
+        <entry key="ENGLISH" value="8809" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
