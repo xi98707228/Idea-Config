@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="groups Ids" />
+      <item value="original Table Name" />
+      <item value="经过python" />
+      <item value="原始表名称" />
+      <item value="model Type" />
+      <item value="Request Param" />
+      <item value="Model" />
+      <item value="String" />
+      <item value="airplane Model Manager" />
       <item value="risk warning fly control" />
       <item value="scheduler" />
       <item value="tomcat" />
@@ -110,7 +119,6 @@
       <item value="do Load" />
       <item value="no table" />
       <item value="no model" />
-      <item value="airplane Model Manager" />
       <item value="Select Vo" />
       <item value="table Relation Data Container" />
       <item value="append Table Data Container" />
@@ -232,12 +240,9 @@
       <item value="每次" />
       <item value="delayed Execute" />
       <item value="Auto Risk Warning Schedule" />
-      <item value="String" />
       <item value="information Info" />
       <item value="Ajax Result" />
       <item value="result Ajax" />
-      <item value="model Type" />
-      <item value="original Table Name" />
       <item value="id" />
       <item value="get" />
       <item value="direct" />
@@ -384,9 +389,7 @@
       <item value="get Session" />
       <item value="boolean" />
       <item value="function List" />
-      <item value="Request Param" />
       <item value="sys Function Manager" />
-      <item value="Model" />
       <item value="go Port" />
       <item value="suvering System Data Manager" />
       <item value="Servlet Request" />
@@ -882,8 +885,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8811" />
-        <entry key="ENGLISH" value="8812" />
+        <entry key="CHINESE" value="8815" />
+        <entry key="ENGLISH" value="8816" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
