@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="scheduler" />
+      <item value="tomcat" />
       <item value="Upload" />
       <item value="groups Row Id" />
       <item value="Jdbc Template" />
