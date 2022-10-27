@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Upload" />
       <item value="groups Row Id" />
       <item value="Jdbc Template" />
       <item value="Objects" />
@@ -69,7 +70,6 @@
       <item value="analytical Conversion By Groups Ids" />
       <item value="Path" />
       <item value="File" />
-      <item value="Upload" />
       <item value="Store" />
       <item value="Python" />
       <item value="runner" />
