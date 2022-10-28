@@ -5,13 +5,77 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="thread" />
+      <item value="application Context" />
+      <item value="add All" />
+      <item value="after Process" />
+      <item value="limit Field" />
+      <item value="字段名称分组" />
+      <item value="collect Group Field Name Map" />
+      <item value="TYPE DATA KEY" />
+      <item value="data And Limit Group Map" />
+      <item value="Display Type" />
+      <item value="prepare Handle" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="execute Calculate" />
+      <item value="build Temp Director Path" />
+      <item value="collect Groups File Paths" />
+      <item value="table Name" />
+      <item value="AIR RECEIVE FIELD NAME" />
+      <item value="ERROR" />
+      <item value="创建存储数据的表" />
+      <item value="运行时配置" />
+      <item value="target Director File" />
+      <item value="Python Build Table Type" />
+      <item value="find By Ids" />
+      <item value="njzjdbc Data Groups Index Record Manager" />
+      <item value="Neal Gafter" />
+      <item value="groups Row Ids" />
+      <item value="groups Ids" />
+      <item value="original Table Name" />
+      <item value="经过python" />
+      <item value="原始表名称" />
+      <item value="model Type" />
+      <item value="Request Param" />
+      <item value="Model" />
+      <item value="String" />
+      <item value="airplane Model Manager" />
+      <item value="risk warning fly control" />
+      <item value="scheduler" />
+      <item value="tomcat" />
+      <item value="Upload" />
+      <item value="groups Row Id" />
+      <item value="Jdbc Template" />
+      <item value="Objects" />
+      <item value="is Null" />
+      <item value="get Store File" />
+      <item value="null" />
+      <item value="status Context" />
+      <item value="获取手机端上报的所有关联设备Device Code" />
+      <item value="i Gx Oa Work Order Service" />
+      <item value="V Task" />
+      <item value="get Specify Data Info" />
+      <item value="outside" />
+      <item value="航空数据" />
+      <item value="component" />
+      <item value="store This Time Request Data" />
+      <item value="start Index" />
+      <item value="fast Time" />
+      <item value="this Time Groups Index" />
+      <item value="file Internal Name" />
+      <item value="Python Related File Vo" />
+      <item value="lists" />
+      <item value="usage" />
+      <item value="display Table" />
+      <item value="table name" />
+      <item value="web" />
+      <item value="servlet" />
+      <item value="URL" />
+      <item value="Mapped" />
       <item value="insert Tables" />
       <item value="custom Configuration Query Manager" />
       <item value="Intelli J" />
       <item value="then Run" />
       <item value="display Type" />
-      <item value="display Table" />
       <item value="bridge" />
       <item value="Python Data Source Config" />
       <item value="SIGNAL" />
@@ -29,7 +93,6 @@
       <item value="api" />
       <item value="request Base Url" />
       <item value="importance" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="add" />
       <item value="SELECT" />
       <item value="collect Groups List" />
@@ -42,7 +105,6 @@
       <item value="analytical Conversion By Groups Ids" />
       <item value="Path" />
       <item value="File" />
-      <item value="Upload" />
       <item value="Store" />
       <item value="Python" />
       <item value="runner" />
@@ -51,14 +113,12 @@
       <item value="redis" />
       <item value="Redis Config" />
       <item value="process" />
-      <item value="risk warning fly control" />
       <item value="risk warning air conditioner" />
       <item value="risk" />
       <item value="verify Check Value" />
       <item value="njzjdbc data groups index record" />
       <item value="Initializing Bean" />
       <item value="column Id" />
-      <item value="groups Row Id" />
       <item value="Illegal Argument Exception" />
       <item value="dummy" />
       <item value="Bootstrap Service Registry Impl" />
@@ -82,7 +142,6 @@
       <item value="do Load" />
       <item value="no table" />
       <item value="no model" />
-      <item value="airplane Model Manager" />
       <item value="Select Vo" />
       <item value="table Relation Data Container" />
       <item value="append Table Data Container" />
@@ -99,7 +158,6 @@
       <item value="default Jedis" />
       <item value="Jedis" />
       <item value="initialization Jedis Connection" />
-      <item value="table Name" />
       <item value="groups" />
       <item value="GET" />
       <item value="method" />
@@ -140,7 +198,6 @@
       <item value="this Time Table Count" />
       <item value="import Task Thread Pool" />
       <item value="length" />
-      <item value="store This Time Request Data" />
       <item value="本次保存起始索引" />
       <item value="table" />
       <item value="values" />
@@ -162,7 +219,6 @@
       <item value="resolve Schedule Value To Uint" />
       <item value="store File Name" />
       <item value="Array List" />
-      <item value="table name" />
       <item value="A {@link SortedMap} extended with navigation methods returning the closest matches for given search targets. Methods {@code lowerEntry}, {@code floorEntry}, {@code ceilingEntry}, and {@code higherEntry} return {@code Map.Entry} objects associated with keys respectively less than, less than or equal, greater than or equal, and greater than a given key, returning {@code null} if there is no such key. Similarly, methods {@code lowerKey}, {@code floorKey}, {@code ceilingKey}, and {@code higherKey} return only the associated keys. All of these methods are designed for locating, not traversing entries. &lt;p&gt;A {@code NavigableMap} may be accessed and traversed in either ascending or descending key order. The {@code descendingMap} method returns a view of the map with the senses of all relational and directional methods inverted. The performance of ascending operations and views is likely to be faster than that of descending ones. Methods {@code subMap}, {@code headMap}, and {@code tailMap} differ from the like-named {@code SortedMap} methods in accepting additional arguments describing whether lower and upper bounds are inclusive versus exclusive. Submaps of any {@code NavigableMap} must implement the {@code NavigableMap} interface. &lt;p&gt;This interface additionally defines methods {@code firstEntry}, {@code pollFirstEntry}, {@code lastEntry}, and {@code pollLastEntry} that return andor remove the least and greatest mappings, if any exist, else returning {@code null}. &lt;p&gt;Implementations of entry-returning methods are expected to return {@code Map.Entry} pairs representing snapshots of mappings at the time they were produced, and thus generally do &lt;em&gt;not&lt;em&gt; support the optional {@code Entry.setValue} method. Note however that it is possible to change mappings in the associated map using method {@code put}. &lt;p&gt;Methods {@link subMap(Object, Object) subMap(K, K)}, {@link headMap(Object) headMap(K)}, and {@link tailMap(Object) tailMap(K)} are specified to return {@code SortedMap} to allow existing implementations of {@code SortedMap} to be compatibly retrofitted to implement {@code NavigableMap}, but extensions and implementations of this interface are encouraged to override these methods to return {@code NavigableMap}. Similarly, {@link keySet()} can be overriden to return {@code NavigableSet}. &lt;p&gt;This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @author Doug Lea @author Josh Bloch @param &lt;K&gt; the type of keys maintained by this map @param &lt;V&gt; the type of mapped values @since 1.6" />
       <item value="Concurrent Navigable Map" />
       <item value="Navigable Map" />
@@ -207,12 +263,9 @@
       <item value="每次" />
       <item value="delayed Execute" />
       <item value="Auto Risk Warning Schedule" />
-      <item value="String" />
       <item value="information Info" />
       <item value="Ajax Result" />
       <item value="result Ajax" />
-      <item value="model Type" />
-      <item value="original Table Name" />
       <item value="id" />
       <item value="get" />
       <item value="direct" />
@@ -359,9 +412,7 @@
       <item value="get Session" />
       <item value="boolean" />
       <item value="function List" />
-      <item value="Request Param" />
       <item value="sys Function Manager" />
-      <item value="Model" />
       <item value="go Port" />
       <item value="suvering System Data Manager" />
       <item value="Servlet Request" />
@@ -448,7 +499,6 @@
       <item value="get Row Id" />
       <item value="set Row Id" />
       <item value="display Vo" />
-      <item value="application Context" />
       <item value="DISPLAY MAPPING" />
       <item value="data Size" />
       <item value="Override" />
@@ -527,7 +577,6 @@
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
       <item value="dispatcher Service" />
-      <item value="execute Calculate" />
       <item value="missing Value Vo" />
       <item value="set Current List" />
       <item value="column Resolver Data" />
@@ -796,7 +845,6 @@
       <item value="Math" />
       <item value="double To Raw Long Bits" />
       <item value="column Value" />
-      <item value="start Index" />
       <item value="start Value" />
       <item value="end Index" />
       <item value="end Value" />
@@ -858,8 +906,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8804" />
-        <entry key="ENGLISH" value="8805" />
+        <entry key="CHINESE" value="8822" />
+        <entry key="ENGLISH" value="8823" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
