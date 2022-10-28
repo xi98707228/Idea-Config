@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Display Type" />
+      <item value="build Temp Director Path" />
       <item value="collect Groups File Paths" />
       <item value="AIR RECEIVE FIELD NAME" />
       <item value="ERROR" />
