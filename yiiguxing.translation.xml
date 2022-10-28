@@ -5,9 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Display Type" />
+      <item value="prepare Handle" />
+      <item value="Njzjdbc Data Groups Index Record" />
+      <item value="execute Calculate" />
       <item value="build Temp Director Path" />
       <item value="collect Groups File Paths" />
+      <item value="table Name" />
+      <item value="Display Type" />
       <item value="AIR RECEIVE FIELD NAME" />
       <item value="ERROR" />
       <item value="创建存储数据的表" />
@@ -49,7 +53,6 @@
       <item value="store This Time Request Data" />
       <item value="start Index" />
       <item value="fast Time" />
-      <item value="table Name" />
       <item value="this Time Groups Index" />
       <item value="file Internal Name" />
       <item value="Python Related File Vo" />
@@ -83,7 +86,6 @@
       <item value="api" />
       <item value="request Base Url" />
       <item value="importance" />
-      <item value="Njzjdbc Data Groups Index Record" />
       <item value="add" />
       <item value="SELECT" />
       <item value="collect Groups List" />
@@ -569,7 +571,6 @@
       <item value="get Data Handle Type" />
       <item value="Data Handle Type" />
       <item value="dispatcher Service" />
-      <item value="execute Calculate" />
       <item value="missing Value Vo" />
       <item value="set Current List" />
       <item value="column Resolver Data" />
@@ -899,8 +900,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8816" />
-        <entry key="ENGLISH" value="8817" />
+        <entry key="CHINESE" value="8820" />
+        <entry key="ENGLISH" value="8821" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
