@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="limit Field" />
+      <item value="字段名称分组" />
+      <item value="collect Group Field Name Map" />
+      <item value="TYPE DATA KEY" />
+      <item value="data And Limit Group Map" />
       <item value="Display Type" />
       <item value="prepare Handle" />
       <item value="Njzjdbc Data Groups Index Record" />
