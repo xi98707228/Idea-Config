@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="add All" />
       <item value="after Process" />
       <item value="limit Field" />
       <item value="字段名称分组" />
