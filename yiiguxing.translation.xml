@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="synchronized" />
       <item value="expect" />
       <item value="compare And Set State" />
       <item value="compare And Swap Int" />
