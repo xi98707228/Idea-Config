@@ -5,10 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="merge File Name List" />
-      <item value="空调系统风险预警结果表" />
-      <item value="startup date" />
-      <item value="Air Conditioner Display Vo" />
+      <item value="expect" />
+      <item value="compare And Set State" />
+      <item value="compare And Swap Int" />
       <item value="application Context" />
       <item value="add All" />
       <item value="after Process" />
@@ -910,8 +909,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8822" />
-        <entry key="ENGLISH" value="8823" />
+        <entry key="CHINESE" value="8824" />
+        <entry key="ENGLISH" value="8825" />
         <entry key="ALBANIAN" value="3" />
         <entry key="ARABIC" value="3" />
         <entry key="IRISH" value="2" />
