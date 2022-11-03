@@ -5,7 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="target Field Name" />
+      <item value="在获取锁资源之前就已经加载到当前工作内存的所有变量" />
+      <item value="synchronized" />
       <item value="expect" />
       <item value="compare And Set State" />
       <item value="compare And Swap Int" />
