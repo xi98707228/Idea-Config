@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="ThreaadPoolExecute老郑,md" type="AUTO_DETECTED" />
       <mapping pattern="ReentrantLock老郑.md" type="AUTO_DETECTED" />
+      <mapping pattern="JUC_3_3_锁_ReentrantReadWriteLock.md" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="A" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
