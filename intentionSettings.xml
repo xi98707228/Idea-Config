@@ -2,5 +2,8 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Make method default" />
     <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Markdown/Hide errors in code fences" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Java/Comments/Replace with block comment" />
   </component>
 </application>
