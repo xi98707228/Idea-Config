@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="REENTRANT READ WRITE LOC Ky" />
       <item value="在获取锁资源之前就已经加载到当前工作内存的所有变量" />
       <item value="synchronized" />
       <item value="expect" />
