@@ -980,6 +980,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Thread Pool Executor" />
       <item value="Delegates main run loop to outer runWorker" />
       <item value="author" />
       <item value="周期执行1671353652228" />
@@ -990,8 +991,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
