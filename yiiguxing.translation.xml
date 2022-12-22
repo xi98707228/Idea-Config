@@ -980,6 +980,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="author" />
       <item value="周期执行1671353652228" />
       <item value="执行完方法后才计算下次运行时间" />
       <item value="Delayed Task" />
@@ -989,7 +990,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
