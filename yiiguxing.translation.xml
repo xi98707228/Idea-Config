@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671355104812" />
+    <option name="lastTrimTime" value="1672024232751" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -980,6 +980,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="command" />
+      <item value="return" />
+      <item value="add Worker" />
       <item value="Thread Pool Executor" />
       <item value="Delegates main run loop to outer runWorker" />
       <item value="author" />
@@ -991,8 +994,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
