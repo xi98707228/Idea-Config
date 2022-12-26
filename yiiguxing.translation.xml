@@ -979,10 +979,12 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="This constructor will eventually be called" />
+      <item value="最终都会调用这个构造器" />
       <item value="线程池状态及其转换" />
       <item value="https" />
       <item value="kdocs" />
@@ -1009,8 +1011,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
