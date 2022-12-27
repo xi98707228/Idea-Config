@@ -983,7 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="replacement not needed" />
+      <item value="Same as prestartCoreThread except arranges that at least one thread is started even if corePoolSize is 0." />
       <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
+      <item value="if the worker died due to user exception" />
       <item value="If fewer than corePoolSize" />
       <item value="than" />
       <item value="fewer" />
@@ -1016,8 +1019,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
