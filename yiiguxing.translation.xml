@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Thread factory capturing access control context and class loader" />
       <item value="Completable Statistics Functions" />
       <item value="warning" />
       <item value="The actual task to be re-enqueued by reExecutePeriodic" />
@@ -1026,8 +1027,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
