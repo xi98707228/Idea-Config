@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672024232751" />
+    <option name="lastTrimTime" value="1672471446119" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Runnable" />
+      <item value="将任务和时间封装在一起组成一个具有延时性的对象" />
+      <item value="只不过延时时间是0纳秒" />
+      <item value="Schedule Future Task" />
       <item value="Thread factory capturing access control context and class loader" />
       <item value="Completable Statistics Functions" />
       <item value="warning" />
@@ -1027,8 +1031,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
