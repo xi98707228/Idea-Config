@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
       <item value="Execution Exception" />
       <item value="Executes the computation without setting its result, and then resets this future to initial state, failing to do so if the computation encounters an exception or is cancelled. This is designed for use with tasks that intrinsically execute more than once." />
       <item value="Runnable" />
@@ -1033,8 +1034,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
