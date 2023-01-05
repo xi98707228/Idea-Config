@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="refresh Cached" />
       <item value="absolute" />
       <item value="第一次修改为B" />
       <item value="Pair" />
@@ -1032,12 +1033,11 @@
       <item value="Delegates main run loop to outer runWorker" />
       <item value="author" />
       <item value="周期执行1671353652228" />
-      <item value="执行完方法后才计算下次运行时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
