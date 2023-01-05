@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Must initialize" />
+      <item value="mode" />
       <item value="return {@code true} if interrupted while waiting" />
       <item value="Acquires in exclusive uninterruptible mode for thread already in queue. Used by condition wait methods as well as acquire." />
       <item value="第一次修改为B" />
@@ -1031,8 +1033,6 @@
       <item value="add Worker" />
       <item value="Thread Pool Executor" />
       <item value="Delegates main run loop to outer runWorker" />
-      <item value="author" />
-      <item value="周期执行1671353652228" />
     </histories>
     <option name="languageScores">
       <map>
