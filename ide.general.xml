@@ -11,8 +11,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="TranslationWidget" value="false" />
         <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
-        <entry key="git" value="false" />
         <entry key="leetcode-editor-TimerStatusBar" value="false" />
       </map>
     </option>
