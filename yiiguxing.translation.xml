@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Auto build completed with errors" />
       <item value="找到的话需要利用志愿者user Id" />
       <item value="获取对应积分账户信息" />
       <item value="搜索的条件全部是关于志愿者相关" />
@@ -1032,12 +1033,11 @@
       <item value="Schedule Future Task" />
       <item value="Thread factory capturing access control context and class loader" />
       <item value="Completable Statistics Functions" />
-      <item value="warning" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
