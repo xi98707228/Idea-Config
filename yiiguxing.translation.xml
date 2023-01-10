@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Process In 3 Steps" />
+      <item value="Proceed in 3 steps:" />
       <item value="Auto build completed with errors" />
       <item value="找到的话需要利用志愿者user Id" />
       <item value="获取对应积分账户信息" />
@@ -1031,13 +1033,11 @@
       <item value="将任务和时间封装在一起组成一个具有延时性的对象" />
       <item value="只不过延时时间是0纳秒" />
       <item value="Schedule Future Task" />
-      <item value="Thread factory capturing access control context and class loader" />
-      <item value="Completable Statistics Functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
