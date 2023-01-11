@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Force Inline" />
+      <item value="The JVM interface for the method handles package is all here. This is an interface internal and private to an implementation of JSR 292. &lt;em&gt;This class is not part of the JSR 292 standard.&lt;em&gt; @author jrose" />
       <item value="don't retain ref while waiting" />
       <item value="resources" />
       <item value="Copying" />
@@ -1031,13 +1033,11 @@
       <item value="最终都会调用这个构造器" />
       <item value="线程池状态及其转换" />
       <item value="https" />
-      <item value="kdocs" />
-      <item value="cs HJHP Imdw Z 7" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
