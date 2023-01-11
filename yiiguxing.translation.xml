@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ensure Prestart" />
+      <item value="Type Variable" />
       <item value="derived numerics" />
       <item value="don't retain ref while waiting" />
       <item value="resources" />
@@ -1031,13 +1033,11 @@
       <item value="This constructor will eventually be called" />
       <item value="最终都会调用这个构造器" />
       <item value="线程池状态及其转换" />
-      <item value="https" />
-      <item value="kdocs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
