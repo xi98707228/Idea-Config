@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="derived numerics" />
       <item value="don't retain ref while waiting" />
       <item value="resources" />
       <item value="Copying" />
@@ -1032,12 +1033,11 @@
       <item value="线程池状态及其转换" />
       <item value="https" />
       <item value="kdocs" />
-      <item value="cs HJHP Imdw Z 7" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
