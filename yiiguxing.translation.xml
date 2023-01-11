@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672907854308" />
+    <option name="lastTrimTime" value="1673353773326" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,31 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="is Balance" />
-      <item value="Process In 3 Steps" />
-      <item value="Proceed in 3 steps:" />
-      <item value="Auto build completed with errors" />
-      <item value="找到的话需要利用志愿者user Id" />
-      <item value="获取对应积分账户信息" />
-      <item value="搜索的条件全部是关于志愿者相关" />
-      <item value="Step" />
-      <item value="list" />
-      <item value="points Account Service" />
-      <item value="collect User Id" />
-      <item value="DEBUG" />
-      <item value="Volunteer Information" />
-      <item value="contains Search User Nick" />
-      <item value="Collection Utils" />
-      <item value="is Empty" />
-      <item value="remaining" />
-      <item value="Semaphore" />
-      <item value="Count Down Latch" />
-      <item value="query Vo" />
-      <item value="reflection Factory" />
-      <item value="Caller Sensitive" />
-      <item value="Activity Views Limit" />
-      <item value="Activity Publish Service" />
-      <item value="copy Properties" />
+      <item value="don't retain ref while waiting" />
       <item value="resources" />
       <item value="Copying" />
       <item value="devlop service server" />
@@ -1033,11 +1009,35 @@
       <item value="Runnable" />
       <item value="将任务和时间封装在一起组成一个具有延时性的对象" />
       <item value="只不过延时时间是0纳秒" />
+      <item value="Schedule Future Task" />
+      <item value="Thread factory capturing access control context and class loader" />
+      <item value="Completable Statistics Functions" />
+      <item value="warning" />
+      <item value="The actual task to be re-enqueued by reExecutePeriodic" />
+      <item value="Josh Bloch" />
+      <item value="nanos" />
+      <item value="false" />
+      <item value="return" />
+      <item value="Eligible to terminate" />
+      <item value="replacement not needed" />
+      <item value="Same as prestartCoreThread except arranges that at least one thread is started even if corePoolSize is 0." />
+      <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
+      <item value="if the worker died due to user exception" />
+      <item value="If fewer than corePoolSize" />
+      <item value="than" />
+      <item value="fewer" />
+      <item value="1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
+      <item value="This constructor will eventually be called" />
+      <item value="最终都会调用这个构造器" />
+      <item value="线程池状态及其转换" />
+      <item value="https" />
+      <item value="kdocs" />
+      <item value="cs HJHP Imdw Z 7" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
