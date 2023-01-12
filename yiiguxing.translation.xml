@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="gift Shop Service" />
       <item value="organization Service" />
       <item value="oschina" />
       <item value="user Id" />
@@ -1032,12 +1033,11 @@
       <item value="Same as prestartCoreThread except arranges that at least one thread is started even if corePoolSize is 0." />
       <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
       <item value="if the worker died due to user exception" />
-      <item value="If fewer than corePoolSize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
