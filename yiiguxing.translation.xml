@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="oschina" />
       <item value="user Id" />
       <item value="clustered" />
       <item value="persistence" />
@@ -1032,12 +1033,11 @@
       <item value="if the worker died due to user exception" />
       <item value="If fewer than corePoolSize" />
       <item value="than" />
-      <item value="fewer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
