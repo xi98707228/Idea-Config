@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="那么会把任务加入到这个阻塞队列中" />
       <item value="Force Inline" />
       <item value="The JVM interface for the method handles package is all here. This is an interface internal and private to an implementation of JSR 292. &lt;em&gt;This class is not part of the JSR 292 standard.&lt;em&gt; @author jrose" />
       <item value="don't retain ref while waiting" />
@@ -1032,7 +1033,6 @@
       <item value="This constructor will eventually be called" />
       <item value="最终都会调用这个构造器" />
       <item value="线程池状态及其转换" />
-      <item value="https" />
     </histories>
     <option name="languageScores">
       <map>
