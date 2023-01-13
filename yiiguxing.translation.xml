@@ -983,9 +983,38 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="那么会把任务加入到这个阻塞队列中" />
-      <item value="Force Inline" />
-      <item value="The JVM interface for the method handles package is all here. This is an interface internal and private to an implementation of JSR 292. &lt;em&gt;This class is not part of the JSR 292 standard.&lt;em&gt; @author jrose" />
+      <item value="select Gift Shop Relate" />
+      <item value="xorshift" />
+      <item value="advance Probe" />
+      <item value="See LongAdder version for explanation" />
+      <item value="Counter support" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="usable bits of normal node hash" />
+      <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
+      <item value="released" />
+      <item value="Limit exceeded" />
+      <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
+      <item value="count Down Connection" />
+      <item value="counter for nr of connections handled by an endpoint" />
+      <item value="set Thread Renewal Delay" />
+      <item value="execute Internal" />
+      <item value="Web Data Binder Factory" />
+      <item value="Helper class that encapsulates the specification of a method parameter, i.e. a {@link Method} or {@link Constructor} plus a parameter index and a nested type index for a declared generic type. Useful as a specification object to pass along. &lt;p&gt;As of 4.2, there is a {@link org.springframework.core.annotation.SynthesizingMethodParameter} subclass available which synthesizes annotations with attribute aliases. That subclass is used for web and message endpoint processing, in particular." />
+      <item value="Matrix Variable Method Argument Resolver" />
+      <item value="v Work Order List Service" />
+      <item value="expect Status" />
+      <item value="further" />
+      <item value="Dispatcher Servlet" />
+      <item value="gift Shop Service" />
+      <item value="organization Service" />
+      <item value="oschina" />
+      <item value="user Id" />
+      <item value="clustered" />
+      <item value="persistence" />
+      <item value="create time" />
+      <item value="ensure Prestart" />
+      <item value="Type Variable" />
+      <item value="derived numerics" />
       <item value="don't retain ref while waiting" />
       <item value="resources" />
       <item value="Copying" />
@@ -995,7 +1024,6 @@
       <item value="customer Key" />
       <item value="customer Name" />
       <item value="Dispatcher" />
-      <item value="Dispatcher Servlet" />
       <item value="get Real Server" />
       <item value="parties" />
       <item value="Phaser" />
@@ -1005,39 +1033,11 @@
       <item value="第一次修改为B" />
       <item value="Pair" />
       <item value="lock State" />
-      <item value="maximum Pool Size" />
-      <item value="Disables the current thread for thread scheduling purposes unless the permit is available. &lt;p&gt;If the permit is available then it is consumed and the call returns immediately; otherwise the current thread becomes disabled for thread scheduling purposes and lies dormant until one of three things happens: &lt;ul&gt; &lt;li&gt;Some other thread invokes {@link unpark unpark} with the current thread as the target; or &lt;li&gt;Some other thread {@linkplain Threadinterrupt interrupts} the current thread; or &lt;li&gt;The call spuriously (that is, for no reason) returns. &lt;ul&gt; &lt;p&gt;This method does &lt;em&gt;not&lt;em&gt; report which of these caused the method to return. Callers should re-check the conditions which caused the thread to park in the first place. Callers may also determine, for example, the interrupt status of the thread upon return." />
-      <item value="Execution Exception" />
-      <item value="Executes the computation without setting its result, and then resets this future to initial state, failing to do so if the computation encounters an exception or is cancelled. This is designed for use with tasks that intrinsically execute more than once." />
-      <item value="Runnable" />
-      <item value="将任务和时间封装在一起组成一个具有延时性的对象" />
-      <item value="只不过延时时间是0纳秒" />
-      <item value="Schedule Future Task" />
-      <item value="Thread factory capturing access control context and class loader" />
-      <item value="Completable Statistics Functions" />
-      <item value="warning" />
-      <item value="The actual task to be re-enqueued by reExecutePeriodic" />
-      <item value="Josh Bloch" />
-      <item value="nanos" />
-      <item value="false" />
-      <item value="return" />
-      <item value="Eligible to terminate" />
-      <item value="replacement not needed" />
-      <item value="Same as prestartCoreThread except arranges that at least one thread is started even if corePoolSize is 0." />
-      <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
-      <item value="if the worker died due to user exception" />
-      <item value="If fewer than corePoolSize" />
-      <item value="than" />
-      <item value="fewer" />
-      <item value="1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
-      <item value="This constructor will eventually be called" />
-      <item value="最终都会调用这个构造器" />
-      <item value="线程池状态及其转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
       </map>
     </option>
   </component>
