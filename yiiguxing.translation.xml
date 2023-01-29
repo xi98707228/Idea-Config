@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
+      <item value="transfer" />
       <item value="Implementation for put and putIfAbsent" />
       <item value="spread" />
       <item value="select Gift Shop Relate" />
@@ -1031,13 +1033,11 @@
       <item value="Phaser" />
       <item value="search Value" />
       <item value="refresh Cached" />
-      <item value="absolute" />
-      <item value="第一次修改为B" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
