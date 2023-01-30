@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="get Generic Interfaces" />
+      <item value="Comparable" />
+      <item value="incorporate" />
+      <item value="be used" />
+      <item value="because" />
+      <item value="calculations" />
+      <item value="Returns a power of two table size for the given desired capacity. See Hackers Delight, sec 3.2" />
+      <item value="READER" />
+      <item value="WAITER" />
+      <item value="WRITER" />
       <item value="bin Count" />
       <item value="function full field" />
       <item value="schedule At Fixed Rate" />
@@ -1022,22 +1033,11 @@
       <item value="persistence" />
       <item value="create time" />
       <item value="ensure Prestart" />
-      <item value="Type Variable" />
-      <item value="derived numerics" />
-      <item value="don't retain ref while waiting" />
-      <item value="resources" />
-      <item value="Copying" />
-      <item value="devlop service server" />
-      <item value="compile" />
-      <item value="This application has no configured error view, so you are seeing this as a fallback" />
-      <item value="customer Key" />
-      <item value="customer Name" />
-      <item value="Dispatcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
