@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675042199552" />
+    <option name="lastTrimTime" value="1674997176766" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,61 +983,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="的存储操作" />
-      <item value="Concurrent Hash Map的" />
-      <item value="is Known Empty" />
-      <item value="TYPE HIERARCHY" />
-      <item value="Optionally create a type-safe synthesized version of this annotation based on a condition predicate. &lt;p&gt;The result is synthesized using a JDK {@link Proxy} and as a result may incur a computational cost when first invoked. &lt;p&gt;Consult the documentation for {@link synthesize()} for an explanation of what is considered synthesizable. @param condition the test to determine if the annotation can be synthesized @return an optional containing the synthesized version of the annotation or an empty optional if the condition doesn't match" />
-      <item value="synthesize" />
-      <item value="has Plain Java Annotations Only" />
-      <item value="is Without Hierarchy" />
-      <item value="Class" />
-      <item value="Ordered" />
-      <item value="Member" />
-      <item value="Shortcut: directly present on the element, with no merging needed?" />
-      <item value="Exhaustive retrieval of merged annotations..." />
-      <item value="PLAIN" />
-      <item value="Annotated Element" />
-      <item value="find Merged Annotation" />
-      <item value="The HTTP request methods to map to, narrowing the primary mapping: GET, POST, HEAD, OPTIONS, PUT, PATCH, DELETE, TRACE. &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;b&gt; When used at the type level, all method-level mappings inherit this HTTP method restriction." />
-      <item value="get Declared Annotation" />
-      <item value="unmodifiable Map" />
-      <item value="attribute" />
-      <item value="Shop Status Type" />
-      <item value="SHANG JIA" />
-      <item value="String" />
-      <item value="Path Variable" />
-      <item value="remove" />
-      <item value="success" />
-      <item value="Parameterized Type" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="get Generic Interfaces" />
-      <item value="Comparable" />
-      <item value="incorporate" />
-      <item value="be used" />
-      <item value="because" />
-      <item value="calculations" />
-      <item value="Returns a power of two table size for the given desired capacity. See Hackers Delight, sec 3.2" />
-      <item value="READER" />
-      <item value="WAITER" />
-      <item value="WRITER" />
-      <item value="bin Count" />
-      <item value="function full field" />
-      <item value="schedule At Fixed Rate" />
-      <item value="schedule With Fixed Delay" />
-      <item value="Scheduled Thread Pool Executor应用" />
-      <item value="this" />
-      <item value="main Lock" />
-      <item value="invoke Joinpoint" />
-      <item value="Reflective Method Invocation" />
+      <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
+      <item value="transfer" />
+      <item value="Implementation for put and putIfAbsent" />
+      <item value="spread" />
       <item value="select Gift Shop Relate" />
       <item value="xorshift" />
       <item value="advance Probe" />
+      <item value="See LongAdder version for explanation" />
+      <item value="Counter support" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="usable bits of normal node hash" />
+      <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
+      <item value="released" />
+      <item value="Limit exceeded" />
+      <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
+      <item value="count Down Connection" />
+      <item value="counter for nr of connections handled by an endpoint" />
+      <item value="set Thread Renewal Delay" />
+      <item value="execute Internal" />
+      <item value="Web Data Binder Factory" />
+      <item value="Helper class that encapsulates the specification of a method parameter, i.e. a {@link Method} or {@link Constructor} plus a parameter index and a nested type index for a declared generic type. Useful as a specification object to pass along. &lt;p&gt;As of 4.2, there is a {@link org.springframework.core.annotation.SynthesizingMethodParameter} subclass available which synthesizes annotations with attribute aliases. That subclass is used for web and message endpoint processing, in particular." />
+      <item value="Matrix Variable Method Argument Resolver" />
+      <item value="v Work Order List Service" />
+      <item value="expect Status" />
+      <item value="further" />
+      <item value="Dispatcher Servlet" />
+      <item value="gift Shop Service" />
+      <item value="organization Service" />
+      <item value="oschina" />
+      <item value="user Id" />
+      <item value="clustered" />
+      <item value="persistence" />
+      <item value="create time" />
+      <item value="ensure Prestart" />
+      <item value="Type Variable" />
+      <item value="derived numerics" />
+      <item value="don't retain ref while waiting" />
+      <item value="resources" />
+      <item value="Copying" />
+      <item value="devlop service server" />
+      <item value="compile" />
+      <item value="This application has no configured error view, so you are seeing this as a fallback" />
+      <item value="customer Key" />
+      <item value="customer Name" />
+      <item value="Dispatcher" />
+      <item value="get Real Server" />
+      <item value="parties" />
+      <item value="Phaser" />
+      <item value="search Value" />
+      <item value="refresh Cached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
