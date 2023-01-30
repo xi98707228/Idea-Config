@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Parameterized Type" />
       <item value="Returns a power of two size for the given target capacity." />
       <item value="get Generic Interfaces" />
       <item value="Comparable" />
@@ -1032,7 +1033,6 @@
       <item value="clustered" />
       <item value="persistence" />
       <item value="create time" />
-      <item value="ensure Prestart" />
     </histories>
     <option name="languageScores">
       <map>
