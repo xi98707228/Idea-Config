@@ -983,6 +983,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Known Empty" />
+      <item value="TYPE HIERARCHY" />
+      <item value="Optionally create a type-safe synthesized version of this annotation based on a condition predicate. &lt;p&gt;The result is synthesized using a JDK {@link Proxy} and as a result may incur a computational cost when first invoked. &lt;p&gt;Consult the documentation for {@link synthesize()} for an explanation of what is considered synthesizable. @param condition the test to determine if the annotation can be synthesized @return an optional containing the synthesized version of the annotation or an empty optional if the condition doesn't match" />
+      <item value="synthesize" />
+      <item value="has Plain Java Annotations Only" />
+      <item value="is Without Hierarchy" />
+      <item value="Class" />
+      <item value="Ordered" />
+      <item value="Member" />
+      <item value="Shortcut: directly present on the element, with no merging needed?" />
+      <item value="Exhaustive retrieval of merged annotations..." />
+      <item value="PLAIN" />
+      <item value="Annotated Element" />
+      <item value="find Merged Annotation" />
+      <item value="The HTTP request methods to map to, narrowing the primary mapping: GET, POST, HEAD, OPTIONS, PUT, PATCH, DELETE, TRACE. &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;b&gt; When used at the type level, all method-level mappings inherit this HTTP method restriction." />
       <item value="get Declared Annotation" />
       <item value="unmodifiable Map" />
       <item value="attribute" />
@@ -1018,26 +1033,11 @@
       <item value="advance Probe" />
       <item value="See LongAdder version for explanation" />
       <item value="Counter support" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
-      <item value="usable bits of normal node hash" />
-      <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
-      <item value="released" />
-      <item value="Limit exceeded" />
-      <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
-      <item value="count Down Connection" />
-      <item value="counter for nr of connections handled by an endpoint" />
-      <item value="set Thread Renewal Delay" />
-      <item value="execute Internal" />
-      <item value="Web Data Binder Factory" />
-      <item value="Helper class that encapsulates the specification of a method parameter, i.e. a {@link Method} or {@link Constructor} plus a parameter index and a nested type index for a declared generic type. Useful as a specification object to pass along. &lt;p&gt;As of 4.2, there is a {@link org.springframework.core.annotation.SynthesizingMethodParameter} subclass available which synthesizes annotations with attribute aliases. That subclass is used for web and message endpoint processing, in particular." />
-      <item value="Matrix Variable Method Argument Resolver" />
-      <item value="v Work Order List Service" />
-      <item value="expect Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
       </map>
     </option>
   </component>
