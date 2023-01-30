@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="的存储操作" />
+      <item value="Concurrent Hash Map的" />
       <item value="is Known Empty" />
       <item value="TYPE HIERARCHY" />
       <item value="Optionally create a type-safe synthesized version of this annotation based on a condition predicate. &lt;p&gt;The result is synthesized using a JDK {@link Proxy} and as a result may incur a computational cost when first invoked. &lt;p&gt;Consult the documentation for {@link synthesize()} for an explanation of what is considered synthesizable. @param condition the test to determine if the annotation can be synthesized @return an optional containing the synthesized version of the annotation or an empty optional if the condition doesn't match" />
@@ -1031,13 +1033,11 @@
       <item value="select Gift Shop Relate" />
       <item value="xorshift" />
       <item value="advance Probe" />
-      <item value="See LongAdder version for explanation" />
-      <item value="Counter support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
       </map>
     </option>
   </component>
