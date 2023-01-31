@@ -983,6 +983,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
+      <item value="PROBE" />
+      <item value="Returns the probe value for the current thread. Duplicated from ThreadLocalRandom because of packaging restrictions." />
+      <item value="force initialization" />
+      <item value="Long Adder" />
+      <item value="Long Accumulator" />
+      <item value="long Accumulate" />
+      <item value="advance Probe" />
+      <item value="xorshift" />
+      <item value="CASes the cellsBusy field from 0 to 1 to acquire lock." />
+      <item value="Invalid Object Exception" />
+      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
+      <item value="One or more variables that together maintain an initially zero {@code long} sum. When updates (method {@link add}) are contended across threads, the set of variables may grow dynamically to reduce contention. Method {@link sum} (or, equivalently, {@link longValue}) returns the current total combined across the variables maintaining the sum. &lt;p&gt;This class is usually preferable to {@link AtomicLong} when multiple threads update a common sum that is used for purposes such as collecting statistics, not for fine-grained synchronization control. Under low update contention, the two classes have similar characteristics. But under high contention, expected throughput of this class is significantly higher, at the expense of higher space consumption. &lt;p&gt;LongAdders can be used with a {@link java.util.concurrent.ConcurrentHashMap} to maintain a scalable frequency map (a form of histogram or multiset). For example, to add a count to a {@code ConcurrentHashMap&lt;String,LongAdder&gt; freqs}, initializing if not already present, you can use {@code freqs.computeIfAbsent(k -&gt; new LongAdder()).increment();} &lt;p&gt;This class extends {@link Number}, but does &lt;em&gt;not&lt;em&gt; define methods such as {@code equals}, {@code hashCode} and {@code compareTo} because instances are expected to be mutated, and so are not useful as collection keys." />
+      <item value="get Is Delete" />
+      <item value="put Object Volatile" />
       <item value="result Activity Project Organization Result" />
       <item value="DEBUG" />
       <item value="CACHED ORGANIZATION DATA" />
@@ -995,11 +1010,8 @@
       <item value="Implementation for put and putIfAbsent" />
       <item value="spread" />
       <item value="select Gift Shop Relate" />
-      <item value="xorshift" />
-      <item value="advance Probe" />
       <item value="See LongAdder version for explanation" />
       <item value="Counter support" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
       <item value="usable bits of normal node hash" />
       <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
       <item value="released" />
@@ -1021,23 +1033,11 @@
       <item value="user Id" />
       <item value="clustered" />
       <item value="persistence" />
-      <item value="create time" />
-      <item value="ensure Prestart" />
-      <item value="Type Variable" />
-      <item value="derived numerics" />
-      <item value="don't retain ref while waiting" />
-      <item value="resources" />
-      <item value="Copying" />
-      <item value="devlop service server" />
-      <item value="compile" />
-      <item value="This application has no configured error view, so you are seeing this as a fallback" />
-      <item value="customer Key" />
-      <item value="customer Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
