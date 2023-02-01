@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Async Manager" />
+      <item value="get One Byte" />
+      <item value="frame Header Buffer" />
+      <item value="upgrade Dispatch" />
+      <item value="captcha" />
       <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
       <item value="PROBE" />
       <item value="Returns the probe value for the current thread. Duplicated from ThreadLocalRandom because of packaging restrictions." />
@@ -1028,16 +1033,12 @@
       <item value="expect Status" />
       <item value="further" />
       <item value="gift Shop Service" />
-      <item value="organization Service" />
-      <item value="oschina" />
-      <item value="user Id" />
-      <item value="clustered" />
-      <item value="persistence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
