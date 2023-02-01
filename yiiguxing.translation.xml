@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="import Contract Data" />
+      <item value="16:56 Auto build completed with errors" />
+      <item value="build" />
+      <item value="Auto" />
+      <item value="completed" />
+      <item value="Sys User" />
+      <item value="List" />
+      <item value="Excel Util" />
+      <item value="IMPORT" />
+      <item value="select User List" />
+      <item value="user Service" />
       <item value="Druid Abstract Data Source" />
       <item value="save List" />
       <item value="i Sys User Service" />
@@ -1022,23 +1033,14 @@
       <item value="Initializing" />
       <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
       <item value="transfer" />
-      <item value="Implementation for put and putIfAbsent" />
-      <item value="spread" />
-      <item value="select Gift Shop Relate" />
-      <item value="See LongAdder version for explanation" />
-      <item value="Counter support" />
-      <item value="usable bits of normal node hash" />
-      <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
-      <item value="released" />
-      <item value="Limit exceeded" />
-      <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
-      <item value="count Down Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="GALICIAN" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
