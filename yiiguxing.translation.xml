@@ -983,6 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="创建一个Node数组" />
+      <item value="再次判断当前数组是否已经初始化了" />
+      <item value="table" />
+      <item value="开始初始化" />
+      <item value="如果size Ctl" />
+      <item value="就初始化为" />
+      <item value="size Ctl长度的数组" />
+      <item value="就初始化为默认的长度16" />
+      <item value="DEFAULT CAPACITY" />
+      <item value="Node" />
+      <item value="执行数组的初始化" />
+      <item value="compare And Swap Int" />
       <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
       <item value="or" />
       <item value="averaging Int" />
@@ -1021,23 +1033,11 @@
       <item value="Implementation for put and putIfAbsent" />
       <item value="spread" />
       <item value="select Gift Shop Relate" />
-      <item value="See LongAdder version for explanation" />
-      <item value="Counter support" />
-      <item value="usable bits of normal node hash" />
-      <item value="Stripped-down version of helper class used in previous version, declared for the sake of serialization compatibility" />
-      <item value="released" />
-      <item value="Limit exceeded" />
-      <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
-      <item value="count Down Connection" />
-      <item value="counter for nr of connections handled by an endpoint" />
-      <item value="set Thread Renewal Delay" />
-      <item value="execute Internal" />
-      <item value="Web Data Binder Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
