@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Abstract Data Source" />
       <item value="save List" />
       <item value="i Sys User Service" />
       <item value="dept Child User Id List" />
@@ -1032,7 +1033,6 @@
       <item value="Limit exceeded" />
       <item value="Shared latch that allows the latch to be acquired a limited number of times after which all subsequent requests to acquire the latch will be placed in a FIFO queue until one of the shares is returned." />
       <item value="count Down Connection" />
-      <item value="counter for nr of connections handled by an endpoint" />
     </histories>
     <option name="languageScores">
       <map>
