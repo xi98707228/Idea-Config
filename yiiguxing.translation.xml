@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="contract Really Cost" />
+      <item value="Excel Util" />
+      <item value="import Template Excel" />
+      <item value="SUPPLIER PAYMENT TICK" />
+      <item value="transport" />
       <item value="import Contract Data" />
       <item value="16:56 Auto build completed with errors" />
       <item value="build" />
@@ -990,7 +995,6 @@
       <item value="completed" />
       <item value="Sys User" />
       <item value="List" />
-      <item value="Excel Util" />
       <item value="IMPORT" />
       <item value="select User List" />
       <item value="user Service" />
@@ -1029,18 +1033,14 @@
       <item value="CACHED ORGANIZATION DATA" />
       <item value="若依启动成功" />
       <item value="dispatcher Servlet" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
-      <item value="transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
       </map>
     </option>
   </component>
