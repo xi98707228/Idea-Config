@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Instance" />
       <item value="获取导出工单详细信息" />
       <item value="work Order Id" />
       <item value="handle Fail Judgement Process" />
@@ -1032,7 +1033,6 @@
       <item value="SUPPLIER PAYMENT TICK" />
       <item value="transport" />
       <item value="import Contract Data" />
-      <item value="16:56 Auto build completed with errors" />
     </histories>
     <option name="languageScores">
       <map>
