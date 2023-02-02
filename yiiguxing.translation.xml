@@ -983,6 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="account Size" />
+      <item value="Property Mapper" />
+      <item value="await Termination Period" />
+      <item value="await Termination If Necessary" />
+      <item value="is Change Point" />
+      <item value="error" />
+      <item value="INFO" />
+      <item value="get Data Table" />
       <item value="param String" />
       <item value="Request Param" />
       <item value="导入合同数据" />
@@ -1025,19 +1033,11 @@
       <item value="PROBE" />
       <item value="Returns the probe value for the current thread. Duplicated from ThreadLocalRandom because of packaging restrictions." />
       <item value="force initialization" />
-      <item value="Long Adder" />
-      <item value="Long Accumulator" />
-      <item value="long Accumulate" />
-      <item value="advance Probe" />
-      <item value="xorshift" />
-      <item value="CASes the cellsBusy field from 0 to 1 to acquire lock." />
-      <item value="Invalid Object Exception" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
