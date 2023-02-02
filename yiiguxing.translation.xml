@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="end Index" />
+      <item value="import Outside Contract Data Info" />
       <item value="middle" />
       <item value="current Steal" />
       <item value="main pool control" />
@@ -991,7 +993,6 @@
       <item value="batch Update Table Data" />
       <item value="Override" />
       <item value="Returns a view of the portion of this list between the specified &lt;tt&gt;fromIndex&lt;tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;tt&gt;, exclusive. (If &lt;tt&gt;fromIndex&lt;tt&gt; and &lt;tt&gt;toIndex&lt;tt&gt; are equal, the returned list is empty.) The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. The returned list supports all of the optional list operations supported by this list.&lt;p&gt; This method eliminates the need for explicit range operations (of the sort that commonly exist for arrays). Any operation that expects a list can be used as a range operation by passing a subList view instead of a whole list. For example, the following idiom removes a range of elements from a list: &lt;pre&gt;{@code list.subList(from, to).clear(); }&lt;pre&gt; Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;tt&gt; and &lt;tt&gt;lastIndexOf&lt;tt&gt;, and all of the algorithms in the &lt;tt&gt;Collections&lt;tt&gt; class can be applied to a subList.&lt;p&gt; The semantics of the list returned by this method become undefined if the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in any way other than via the returned list. (Structural modifications are those that change the size of this list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results.)" />
-      <item value="end Index" />
       <item value="start Index" />
       <item value="fork" />
       <item value="batch Task Fork Join Pool" />
@@ -1032,12 +1033,11 @@
       <item value="build" />
       <item value="Auto" />
       <item value="completed" />
-      <item value="Sys User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
