@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Http 11 Nio Protocol" />
       <item value="不符合任务要求" />
       <item value="拆分" />
       <item value="prevent" />
@@ -1032,7 +1033,6 @@
       <item value="i Customer Manage Service" />
       <item value="success" />
       <item value="import Template" />
-      <item value="创建一个Node数组" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1041,6 +1041,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
