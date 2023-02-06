@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="devlop service" />
+      <item value="zero Date Time Behavior" />
+      <item value="convert To Null" />
+      <item value="last Packet Received Idle Millis" />
       <item value="只查看未审批过的报销单" />
       <item value="search Filter" />
       <item value="real time refresh" />
@@ -1029,15 +1033,11 @@
       <item value="update Cost" />
       <item value="proxy Row Id" />
       <item value="Import Contract Template Vo" />
-      <item value="灵当系统的序列" />
-      <item value="序列数字" />
-      <item value="sequence Number" />
-      <item value="contract Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
