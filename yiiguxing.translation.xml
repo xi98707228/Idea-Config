@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674997176766" />
+    <option name="lastTrimTime" value="1675651865858" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="param String" />
+      <item value="reimbursement" />
+      <item value="get Reimbursement Order List" />
       <item value="Http 11 Nio Protocol" />
       <item value="不符合任务要求" />
       <item value="拆分" />
@@ -1026,18 +1029,15 @@
       <item value="error" />
       <item value="INFO" />
       <item value="get Data Table" />
-      <item value="param String" />
       <item value="Request Param" />
       <item value="导入合同数据" />
       <item value="Insert Customer Vo" />
       <item value="i Customer Manage Service" />
-      <item value="success" />
-      <item value="import Template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
