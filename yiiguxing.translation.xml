@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675690830661" />
+    <option name="lastTrimTime" value="1674997176766" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,62 +983,64 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="number Of Leading Zeros" />
-      <item value="array Index Scale" />
+      <item value="is Instance" />
+      <item value="获取导出工单详细信息" />
+      <item value="work Order Id" />
+      <item value="handle Fail Judgement Process" />
+      <item value="end Index" />
+      <item value="import Outside Contract Data Info" />
+      <item value="middle" />
+      <item value="current Steal" />
+      <item value="main pool control" />
+      <item value="void" />
+      <item value="BATCH TASK CELL SIZE" />
+      <item value="batch Update Table Data" />
+      <item value="Override" />
+      <item value="Returns a view of the portion of this list between the specified &lt;tt&gt;fromIndex&lt;tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;tt&gt;, exclusive. (If &lt;tt&gt;fromIndex&lt;tt&gt; and &lt;tt&gt;toIndex&lt;tt&gt; are equal, the returned list is empty.) The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. The returned list supports all of the optional list operations supported by this list.&lt;p&gt; This method eliminates the need for explicit range operations (of the sort that commonly exist for arrays). Any operation that expects a list can be used as a range operation by passing a subList view instead of a whole list. For example, the following idiom removes a range of elements from a list: &lt;pre&gt;{@code list.subList(from, to).clear(); }&lt;pre&gt; Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;tt&gt; and &lt;tt&gt;lastIndexOf&lt;tt&gt;, and all of the algorithms in the &lt;tt&gt;Collections&lt;tt&gt; class can be applied to a subList.&lt;p&gt; The semantics of the list returned by this method become undefined if the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in any way other than via the returned list. (Structural modifications are those that change the size of this list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results.)" />
+      <item value="start Index" />
+      <item value="fork" />
+      <item value="batch Task Fork Join Pool" />
+      <item value="import Contract Template Data" />
+      <item value="update Cost" />
+      <item value="proxy Row Id" />
+      <item value="Import Contract Template Vo" />
+      <item value="灵当系统的序列" />
+      <item value="序列数字" />
+      <item value="sequence Number" />
+      <item value="contract Number" />
+      <item value="custom Name" />
+      <item value="序列" />
+      <item value="客户名称" />
+      <item value="account Size" />
+      <item value="Property Mapper" />
+      <item value="await Termination Period" />
+      <item value="await Termination If Necessary" />
+      <item value="is Change Point" />
+      <item value="error" />
+      <item value="INFO" />
+      <item value="get Data Table" />
+      <item value="param String" />
+      <item value="Request Param" />
+      <item value="导入合同数据" />
+      <item value="Insert Customer Vo" />
+      <item value="i Customer Manage Service" />
+      <item value="success" />
+      <item value="import Template" />
       <item value="创建一个Node数组" />
-      <item value="再次判断当前数组是否已经初始化了" />
-      <item value="table" />
-      <item value="开始初始化" />
-      <item value="如果size Ctl" />
-      <item value="就初始化为" />
-      <item value="size Ctl长度的数组" />
-      <item value="就初始化为默认的长度16" />
-      <item value="DEFAULT CAPACITY" />
-      <item value="Node" />
-      <item value="执行数组的初始化" />
-      <item value="compare And Swap Int" />
-      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
-      <item value="or" />
-      <item value="averaging Int" />
-      <item value="account By User Id" />
-      <item value="sign Back Row Data" />
-      <item value="non Null" />
-      <item value="Async Manager" />
-      <item value="get One Byte" />
-      <item value="frame Header Buffer" />
-      <item value="upgrade Dispatch" />
-      <item value="captcha" />
-      <item value="The following three initially uninitialized fields are exclusively managed by class java.util.concurrent.ThreadLocalRandom. These fields are used to build the high-performance PRNGs in the concurrent code, and we can not risk accidental false sharing. Hence, the fields are isolated with @Contended." />
-      <item value="PROBE" />
-      <item value="Returns the probe value for the current thread. Duplicated from ThreadLocalRandom because of packaging restrictions." />
-      <item value="force initialization" />
-      <item value="Long Adder" />
-      <item value="Long Accumulator" />
-      <item value="long Accumulate" />
-      <item value="advance Probe" />
-      <item value="xorshift" />
-      <item value="CASes the cellsBusy field from 0 to 1 to acquire lock." />
-      <item value="Invalid Object Exception" />
-      <item value="A padded cell for distributing counts. Adapted from LongAdder and Striped64. See their internal docs for explanation." />
-      <item value="One or more variables that together maintain an initially zero {@code long} sum. When updates (method {@link add}) are contended across threads, the set of variables may grow dynamically to reduce contention. Method {@link sum} (or, equivalently, {@link longValue}) returns the current total combined across the variables maintaining the sum. &lt;p&gt;This class is usually preferable to {@link AtomicLong} when multiple threads update a common sum that is used for purposes such as collecting statistics, not for fine-grained synchronization control. Under low update contention, the two classes have similar characteristics. But under high contention, expected throughput of this class is significantly higher, at the expense of higher space consumption. &lt;p&gt;LongAdders can be used with a {@link java.util.concurrent.ConcurrentHashMap} to maintain a scalable frequency map (a form of histogram or multiset). For example, to add a count to a {@code ConcurrentHashMap&lt;String,LongAdder&gt; freqs}, initializing if not already present, you can use {@code freqs.computeIfAbsent(k -&gt; new LongAdder()).increment();} &lt;p&gt;This class extends {@link Number}, but does &lt;em&gt;not&lt;em&gt; define methods such as {@code equals}, {@code hashCode} and {@code compareTo} because instances are expected to be mutated, and so are not useful as collection keys." />
-      <item value="get Is Delete" />
-      <item value="put Object Volatile" />
-      <item value="result Activity Project Organization Result" />
-      <item value="DEBUG" />
-      <item value="CACHED ORGANIZATION DATA" />
-      <item value="若依启动成功" />
-      <item value="dispatcher Servlet" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
-      <item value="transfer" />
-      <item value="Implementation for put and putIfAbsent" />
+      <item value="contract Really Cost" />
+      <item value="Excel Util" />
+      <item value="import Template Excel" />
+      <item value="SUPPLIER PAYMENT TICK" />
+      <item value="transport" />
+      <item value="import Contract Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GALICIAN" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
       </map>
     </option>
   </component>
