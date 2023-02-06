@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="判断是否到达了返回申请人的环节" />
+      <item value="set Attachment Result Ids" />
       <item value="examine Personal Reimbursement Mapper" />
       <item value="sentinel" />
       <item value="validate Sql With Ends With" />
@@ -1005,7 +1007,6 @@
       <item value="examine Reimbursement Process Trigger Update Event" />
       <item value="TriggerUpdateEvent(List&lt;String&gt; ) }" />
       <item value="status Process Engine" />
-      <item value="判断是否到达了返回申请人的环节" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="process" />
       <item value="只查看当前登录人员的提交的报销单列表" />
@@ -1032,12 +1033,11 @@
       <item value="Future Status - Async Methods" />
       <item value="This AbstractGroup Class , Has`t Implement Class!" />
       <item value="Process Struct No Impl Exception" />
-      <item value="examine Personal Reimbursement Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="257" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
