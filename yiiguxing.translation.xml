@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674997176766" />
+    <option name="lastTrimTime" value="1675690830661" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="number Of Leading Zeros" />
+      <item value="array Index Scale" />
       <item value="创建一个Node数组" />
       <item value="再次判断当前数组是否已经初始化了" />
       <item value="table" />
@@ -1031,13 +1033,11 @@
       <item value="Moves andor copies the nodes in each bin to new table. See above for explanation." />
       <item value="transfer" />
       <item value="Implementation for put and putIfAbsent" />
-      <item value="spread" />
-      <item value="select Gift Shop Relate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
