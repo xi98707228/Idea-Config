@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Current Warning" />
+      <item value="custom Name" />
       <item value="import Customer Data" />
       <item value="get List Order By Current Warning" />
       <item value="get Warning Count" />
@@ -1031,13 +1033,11 @@
       <item value="roll Back Flag" />
       <item value="trigger Update Event Reimbursement Order Ids" />
       <item value="reimbursement Process Trigger Update Event" />
-      <item value="examine Reimbursement Process Trigger Update Event" />
-      <item value="TriggerUpdateEvent(List&lt;String&gt; ) }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="286" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
