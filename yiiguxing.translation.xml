@@ -984,6 +984,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新建的报销单" />
+      <item value="Examine Status" />
       <item value="contract Relation Service" />
       <item value="Import Contract Task Center Functions" />
       <item value="Initializing" />
@@ -995,7 +997,6 @@
       <item value="v Reimbursement List Service" />
       <item value="get Create Time" />
       <item value="V Reimbursement List" />
-      <item value="Examine Status" />
       <item value="allow Eager Init" />
       <item value="然后在此客户下方创建项目" />
       <item value="iter Store Project Data" />
@@ -1033,12 +1034,11 @@
       <item value="personal Reimbursement Process" />
       <item value="判断是否到达了返回申请人的环节" />
       <item value="set Attachment Result Ids" />
-      <item value="sentinel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="305" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
