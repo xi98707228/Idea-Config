@@ -4,6 +4,6 @@
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="numberOfColors" value="30" />
     <option name="suppressBigFileCheck" value="true" />
-    <option name="version" value="6.26" />
+    <option name="version" value="2023.1.1-ij" />
   </component>
 </application>
