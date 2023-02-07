@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674997176766" />
+    <option name="lastTrimTime" value="1675772055489" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table" />
       <item value="is Instance" />
       <item value="获取导出工单详细信息" />
       <item value="work Order Id" />
@@ -1032,7 +1033,6 @@
       <item value="import Template Excel" />
       <item value="SUPPLIER PAYMENT TICK" />
       <item value="transport" />
-      <item value="import Contract Data" />
     </histories>
     <option name="languageScores">
       <map>
