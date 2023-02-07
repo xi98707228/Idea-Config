@@ -983,6 +983,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Security Utils" />
+      <item value="custom Contract Relation Mapper" />
+      <item value="Custom Contract Relation Mapper" />
+      <item value="customer Project Service" />
+      <item value="Customer Project Service" />
+      <item value="customer Manage Mapper" />
+      <item value="Case Insensitive Comparator" />
+      <item value="cached Customer Name" />
+      <item value="获取现在的系统内部的客户名称缓存Set" />
+      <item value="Collectors" />
       <item value="import Outside Contract Data Info" />
       <item value="Recursive Action" />
       <item value="987072248" />
@@ -1023,21 +1033,11 @@
       <item value="NOT EXAMINE" />
       <item value="IN EXAMINE" />
       <item value="EXAMINE FINISH" />
-      <item value="新建的报销单" />
-      <item value="退回申请人" />
-      <item value="ROLL BACK AUTHOR" />
-      <item value="devlop service" />
-      <item value="zero Date Time Behavior" />
-      <item value="convert To Null" />
-      <item value="last Packet Received Idle Millis" />
-      <item value="只查看未审批过的报销单" />
-      <item value="search Filter" />
-      <item value="real time refresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
