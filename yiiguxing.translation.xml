@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Examine Status" />
       <item value="allow Eager Init" />
       <item value="然后在此客户下方创建项目" />
       <item value="iter Store Project Data" />
@@ -1032,12 +1033,11 @@
       <item value="thread Pool Task Executor" />
       <item value="jdbc Template" />
       <item value="Suppress Warnings" />
-      <item value="serial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
