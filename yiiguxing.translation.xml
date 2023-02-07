@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="contract Group" />
+      <item value="selected User Ids" />
       <item value="set Current Warning" />
       <item value="custom Name" />
       <item value="import Customer Data" />
@@ -1031,8 +1033,6 @@
       <item value="roll Back Save Process Data Info" />
       <item value="rollback Flag" />
       <item value="roll Back Flag" />
-      <item value="trigger Update Event Reimbursement Order Ids" />
-      <item value="reimbursement Process Trigger Update Event" />
     </histories>
     <option name="languageScores">
       <map>
