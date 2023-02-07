@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="import Contract Template Item" />
       <item value="Security Utils" />
       <item value="custom Contract Relation Mapper" />
       <item value="Custom Contract Relation Mapper" />
@@ -1032,12 +1033,11 @@
       <item value="Examine Status" />
       <item value="NOT EXAMINE" />
       <item value="IN EXAMINE" />
-      <item value="EXAMINE FINISH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
