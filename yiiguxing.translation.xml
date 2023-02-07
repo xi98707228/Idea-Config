@@ -983,11 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="examine Personal Reimbursement Mapper" />
+      <item value="lambda" />
       <item value="roll Back Process Relation Info" />
       <item value="personal Reimbursement Process" />
       <item value="判断是否到达了返回申请人的环节" />
       <item value="set Attachment Result Ids" />
-      <item value="examine Personal Reimbursement Mapper" />
       <item value="sentinel" />
       <item value="validate Sql With Ends With" />
       <item value="Default Simple Diagram Resolver" />
@@ -1001,7 +1002,6 @@
       <item value="Suppress Warnings" />
       <item value="serial" />
       <item value="roll Back Save Process Data Info" />
-      <item value="lambda" />
       <item value="rollback Flag" />
       <item value="roll Back Flag" />
       <item value="trigger Update Event Reimbursement Order Ids" />
@@ -1036,8 +1036,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
