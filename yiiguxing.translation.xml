@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="import Outside Contract Data Info" />
       <item value="Recursive Action" />
       <item value="987072248" />
       <item value="batch Task Fork Join Pool" />
@@ -1032,12 +1033,11 @@
       <item value="只查看未审批过的报销单" />
       <item value="search Filter" />
       <item value="real time refresh" />
-      <item value="update By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
