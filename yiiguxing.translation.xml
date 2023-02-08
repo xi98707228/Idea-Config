@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Process Inst Id" />
       <item value="span" />
       <item value="import Contract Data" />
       <item value="Post Mapping" />
@@ -1032,12 +1033,11 @@
       <item value="Property Mapper" />
       <item value="await Termination Period" />
       <item value="await Termination If Necessary" />
-      <item value="is Change Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
