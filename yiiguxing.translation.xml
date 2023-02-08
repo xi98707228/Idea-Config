@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="import Contract Data" />
+      <item value="Post Mapping" />
+      <item value="count Down Latch" />
+      <item value="Multiple Statistics Controller" />
+      <item value="import Template" />
+      <item value="导入合同数据记录模板" />
+      <item value="import Template Excel" />
       <item value="unascribed" />
       <item value="Void" />
       <item value="innocuous Acc" />
@@ -1026,18 +1033,11 @@
       <item value="await Termination If Necessary" />
       <item value="is Change Point" />
       <item value="error" />
-      <item value="INFO" />
-      <item value="get Data Table" />
-      <item value="param String" />
-      <item value="Request Param" />
-      <item value="导入合同数据" />
-      <item value="Insert Customer Vo" />
-      <item value="i Customer Manage Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
