@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="span" />
       <item value="import Contract Data" />
       <item value="Post Mapping" />
       <item value="count Down Latch" />
@@ -1032,12 +1033,11 @@
       <item value="await Termination Period" />
       <item value="await Termination If Necessary" />
       <item value="is Change Point" />
-      <item value="error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
