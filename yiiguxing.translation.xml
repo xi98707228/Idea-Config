@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675651865858" />
+    <option name="lastTrimTime" value="1675772055489" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -982,67 +982,65 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="新建的报销单" />
-      <item value="Examine Status" />
-      <item value="contract Relation Service" />
-      <item value="Import Contract Task Center Functions" />
-      <item value="Initializing" />
-      <item value="Dispatcher Servlet" />
-      <item value="Quartz Scheduler" />
-      <item value="temp List" />
-      <item value="result Other Primary Data List" />
-      <item value="query Reimbursement Pool Data Ids" />
-      <item value="v Reimbursement List Service" />
-      <item value="get Create Time" />
-      <item value="V Reimbursement List" />
-      <item value="allow Eager Init" />
-      <item value="然后在此客户下方创建项目" />
-      <item value="iter Store Project Data" />
-      <item value="contract Group" />
-      <item value="selected User Ids" />
-      <item value="set Current Warning" />
-      <item value="custom Name" />
-      <item value="import Customer Data" />
-      <item value="get List Order By Current Warning" />
-      <item value="get Warning Count" />
-      <item value="当前客户设备" />
-      <item value="current Warning" />
-      <item value="创建人名称" />
-      <item value="2023" />
-      <item value="import Contract Template Item" />
-      <item value="Security Utils" />
-      <item value="custom Contract Relation Mapper" />
-      <item value="Custom Contract Relation Mapper" />
-      <item value="customer Project Service" />
-      <item value="Customer Project Service" />
-      <item value="customer Manage Mapper" />
-      <item value="Case Insensitive Comparator" />
-      <item value="cached Customer Name" />
-      <item value="获取现在的系统内部的客户名称缓存Set" />
-      <item value="Collectors" />
+      <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are: 0: 0.60653066 1: 0.30326533 2: 0.07581633 3: 0.01263606 4: 0.00157952 5: 0.00015795 6: 0.00001316 7: 0.00000094 8: 0.00000006 more: less than 1 in ten million" />
+      <item value="init Table" />
+      <item value="is Instance" />
+      <item value="获取导出工单详细信息" />
+      <item value="work Order Id" />
+      <item value="handle Fail Judgement Process" />
+      <item value="end Index" />
       <item value="import Outside Contract Data Info" />
-      <item value="Recursive Action" />
-      <item value="987072248" />
+      <item value="middle" />
+      <item value="current Steal" />
+      <item value="main pool control" />
+      <item value="void" />
+      <item value="BATCH TASK CELL SIZE" />
+      <item value="batch Update Table Data" />
+      <item value="Override" />
+      <item value="Returns a view of the portion of this list between the specified &lt;tt&gt;fromIndex&lt;tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;tt&gt;, exclusive. (If &lt;tt&gt;fromIndex&lt;tt&gt; and &lt;tt&gt;toIndex&lt;tt&gt; are equal, the returned list is empty.) The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. The returned list supports all of the optional list operations supported by this list.&lt;p&gt; This method eliminates the need for explicit range operations (of the sort that commonly exist for arrays). Any operation that expects a list can be used as a range operation by passing a subList view instead of a whole list. For example, the following idiom removes a range of elements from a list: &lt;pre&gt;{@code list.subList(from, to).clear(); }&lt;pre&gt; Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;tt&gt; and &lt;tt&gt;lastIndexOf&lt;tt&gt;, and all of the algorithms in the &lt;tt&gt;Collections&lt;tt&gt; class can be applied to a subList.&lt;p&gt; The semantics of the list returned by this method become undefined if the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in any way other than via the returned list. (Structural modifications are those that change the size of this list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results.)" />
+      <item value="start Index" />
+      <item value="fork" />
       <item value="batch Task Fork Join Pool" />
-      <item value="editor Server Service" />
-      <item value="Editor Server Result" />
-      <item value="examine Personal Reimbursement Mapper" />
-      <item value="lambda" />
-      <item value="roll Back Process Relation Info" />
-      <item value="personal Reimbursement Process" />
-      <item value="判断是否到达了返回申请人的环节" />
-      <item value="set Attachment Result Ids" />
+      <item value="import Contract Template Data" />
+      <item value="update Cost" />
+      <item value="proxy Row Id" />
+      <item value="Import Contract Template Vo" />
+      <item value="灵当系统的序列" />
+      <item value="序列数字" />
+      <item value="sequence Number" />
+      <item value="contract Number" />
+      <item value="custom Name" />
+      <item value="序列" />
+      <item value="客户名称" />
+      <item value="account Size" />
+      <item value="Property Mapper" />
+      <item value="await Termination Period" />
+      <item value="await Termination If Necessary" />
+      <item value="is Change Point" />
+      <item value="error" />
+      <item value="INFO" />
+      <item value="get Data Table" />
+      <item value="param String" />
+      <item value="Request Param" />
+      <item value="导入合同数据" />
+      <item value="Insert Customer Vo" />
+      <item value="i Customer Manage Service" />
+      <item value="success" />
+      <item value="import Template" />
+      <item value="创建一个Node数组" />
+      <item value="contract Really Cost" />
+      <item value="Excel Util" />
+      <item value="import Template Excel" />
+      <item value="SUPPLIER PAYMENT TICK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
-        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
