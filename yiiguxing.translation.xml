@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="mybatisplus" />
+      <item value="Duplicate" />
       <item value="set Process Inst Id" />
       <item value="span" />
       <item value="import Contract Data" />
@@ -1031,13 +1033,11 @@
       <item value="客户名称" />
       <item value="account Size" />
       <item value="Property Mapper" />
-      <item value="await Termination Period" />
-      <item value="await Termination If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
