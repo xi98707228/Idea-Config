@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
+      <item value="MIN VALUE" />
       <item value="竞争的读锁是个共享锁资源" />
       <item value="当前写锁资源被占用了" />
       <item value="price Table" />
@@ -1031,13 +1033,11 @@
       <item value="replace" />
       <item value="mybatisplus" />
       <item value="Duplicate" />
-      <item value="set Process Inst Id" />
-      <item value="span" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
