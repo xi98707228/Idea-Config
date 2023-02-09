@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="preserve order" />
+      <item value="to ensure sweep before committing nextTab" />
+      <item value="advance" />
+      <item value="bound" />
+      <item value="Tries to presize table to accommodate the given number of elements." />
       <item value="anonymous" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
@@ -1028,16 +1033,11 @@
       <item value="acquire Shared Interruptibly" />
       <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are: 0: 0.60653066 1: 0.30326533 2: 0.07581633 3: 0.01263606 4: 0.00157952 5: 0.00015795 6: 0.00001316 7: 0.00000094 8: 0.00000006 more: less than 1 in ten million" />
       <item value="init Table" />
-      <item value="is Instance" />
-      <item value="获取导出工单详细信息" />
-      <item value="work Order Id" />
-      <item value="handle Fail Judgement Process" />
-      <item value="end Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
