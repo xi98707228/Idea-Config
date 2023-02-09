@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="test Connection Internal" />
       <item value="支出模块" />
       <item value="计算报销支出" />
       <item value="1. 计算出 - 时间段内的 报销单相关数据" />
@@ -1032,12 +1033,11 @@
       <item value="middle" />
       <item value="current Steal" />
       <item value="main pool control" />
-      <item value="void" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
