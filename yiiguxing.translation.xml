@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="anonymous" />
+      <item value="Dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="project Row Id" />
+      <item value="get Customer By Project Id" />
       <item value="test Connection Internal" />
       <item value="支出模块" />
       <item value="计算报销支出" />
@@ -994,7 +999,6 @@
       <item value="Slf 4 j" />
       <item value="Order" />
       <item value="Connection" />
-      <item value="Initializing" />
       <item value="handle Data List" />
       <item value="Doug Lea" />
       <item value="Contended" />
@@ -1029,15 +1033,11 @@
       <item value="work Order Id" />
       <item value="handle Fail Judgement Process" />
       <item value="end Index" />
-      <item value="import Outside Contract Data Info" />
-      <item value="middle" />
-      <item value="current Steal" />
-      <item value="main pool control" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
