@@ -983,61 +983,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="stride" />
-      <item value="任务领取成功则会改变当前线程的" />
-      <item value="subdivide" />
-      <item value="NCPU" />
-      <item value="MIN TRANSFER STRIDE" />
+      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
+      <item value="MIN VALUE" />
+      <item value="竞争的读锁是个共享锁资源" />
+      <item value="当前写锁资源被占用了" />
+      <item value="price Table" />
+      <item value="temp String Param" />
+      <item value="Develop Client Application" />
+      <item value="14:26 DevelopClientApplication: 1 class reloaded" />
+      <item value="admin" />
+      <item value="Customer Manage" />
+      <item value="Thread" />
+      <item value="v Work Order List Service" />
+      <item value="login User" />
+      <item value="get Engineer" />
+      <item value="is Balance" />
+      <item value="开发环境配置" />
+      <item value="服务器的HTTP端口" />
+      <item value="port" />
+      <item value="preserve order" />
+      <item value="to ensure sweep before committing nextTab" />
+      <item value="advance" />
+      <item value="bound" />
+      <item value="Tries to presize table to accommodate the given number of elements." />
+      <item value="anonymous" />
+      <item value="Dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="project Row Id" />
+      <item value="get Customer By Project Id" />
+      <item value="test Connection Internal" />
+      <item value="支出模块" />
+      <item value="计算报销支出" />
+      <item value="1. 计算出 - 时间段内的 报销单相关数据" />
+      <item value="String Utils" />
+      <item value="发起采购流程采购合计金额" />
+      <item value="cost Order Revenue Count" />
+      <item value="is Annotation Present" />
+      <item value="Slf 4 j" />
+      <item value="Order" />
+      <item value="Connection" />
+      <item value="handle Data List" />
+      <item value="Doug Lea" />
+      <item value="Contended" />
+      <item value="prevent overflow" />
+      <item value="Finance Revenue Expend Part" />
+      <item value="customer Manage Mapper" />
       <item value="contract File" />
       <item value="upload Name" />
       <item value="replace" />
       <item value="mybatisplus" />
       <item value="Duplicate" />
-      <item value="set Process Inst Id" />
-      <item value="span" />
-      <item value="import Contract Data" />
-      <item value="Post Mapping" />
-      <item value="count Down Latch" />
-      <item value="Multiple Statistics Controller" />
-      <item value="import Template" />
-      <item value="导入合同数据记录模板" />
-      <item value="import Template Excel" />
-      <item value="unascribed" />
-      <item value="Void" />
-      <item value="innocuous Acc" />
-      <item value="steal Counter" />
-      <item value="external Push" />
-      <item value="count Down Latch.await();" />
-      <item value="acquire Shared Interruptibly" />
-      <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are: 0: 0.60653066 1: 0.30326533 2: 0.07581633 3: 0.01263606 4: 0.00157952 5: 0.00015795 6: 0.00001316 7: 0.00000094 8: 0.00000006 more: less than 1 in ten million" />
-      <item value="init Table" />
-      <item value="is Instance" />
-      <item value="获取导出工单详细信息" />
-      <item value="work Order Id" />
-      <item value="handle Fail Judgement Process" />
-      <item value="end Index" />
-      <item value="import Outside Contract Data Info" />
-      <item value="middle" />
-      <item value="current Steal" />
-      <item value="main pool control" />
-      <item value="void" />
-      <item value="BATCH TASK CELL SIZE" />
-      <item value="batch Update Table Data" />
-      <item value="Override" />
-      <item value="Returns a view of the portion of this list between the specified &lt;tt&gt;fromIndex&lt;tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;tt&gt;, exclusive. (If &lt;tt&gt;fromIndex&lt;tt&gt; and &lt;tt&gt;toIndex&lt;tt&gt; are equal, the returned list is empty.) The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. The returned list supports all of the optional list operations supported by this list.&lt;p&gt; This method eliminates the need for explicit range operations (of the sort that commonly exist for arrays). Any operation that expects a list can be used as a range operation by passing a subList view instead of a whole list. For example, the following idiom removes a range of elements from a list: &lt;pre&gt;{@code list.subList(from, to).clear(); }&lt;pre&gt; Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;tt&gt; and &lt;tt&gt;lastIndexOf&lt;tt&gt;, and all of the algorithms in the &lt;tt&gt;Collections&lt;tt&gt; class can be applied to a subList.&lt;p&gt; The semantics of the list returned by this method become undefined if the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in any way other than via the returned list. (Structural modifications are those that change the size of this list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results.)" />
-      <item value="start Index" />
-      <item value="fork" />
-      <item value="batch Task Fork Join Pool" />
-      <item value="import Contract Template Data" />
-      <item value="update Cost" />
-      <item value="proxy Row Id" />
-      <item value="Import Contract Template Vo" />
-      <item value="灵当系统的序列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
