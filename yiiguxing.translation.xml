@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Customer Manage" />
       <item value="Thread" />
       <item value="v Work Order List Service" />
       <item value="login User" />
@@ -1032,7 +1033,6 @@
       <item value="import Template" />
       <item value="导入合同数据记录模板" />
       <item value="import Template Excel" />
-      <item value="unascribed" />
     </histories>
     <option name="languageScores">
       <map>
