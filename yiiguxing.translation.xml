@@ -983,8 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="subdivide" />
       <item value="stride" />
+      <item value="任务领取成功则会改变当前线程的" />
+      <item value="subdivide" />
       <item value="NCPU" />
       <item value="MIN TRANSFER STRIDE" />
       <item value="contract File" />
@@ -1032,12 +1033,11 @@
       <item value="proxy Row Id" />
       <item value="Import Contract Template Vo" />
       <item value="灵当系统的序列" />
-      <item value="序列数字" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
