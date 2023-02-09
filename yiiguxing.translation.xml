@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="竞争的读锁是个共享锁资源" />
+      <item value="当前写锁资源被占用了" />
+      <item value="price Table" />
+      <item value="temp String Param" />
       <item value="Develop Client Application" />
       <item value="14:26 DevelopClientApplication: 1 class reloaded" />
       <item value="admin" />
@@ -1029,15 +1033,11 @@
       <item value="Duplicate" />
       <item value="set Process Inst Id" />
       <item value="span" />
-      <item value="import Contract Data" />
-      <item value="Post Mapping" />
-      <item value="count Down Latch" />
-      <item value="Multiple Statistics Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="241" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
