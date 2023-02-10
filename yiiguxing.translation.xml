@@ -985,6 +985,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Examine Reimbursement Process And Change Relation Status" />
+      <item value="Override" />
+      <item value="operate Row Id" />
+      <item value="Down" />
+      <item value="Count Down Latch" />
+      <item value="count Down Latch" />
+      <item value="Quartz Scheduler" />
+      <item value="Ruoyi Scheduler" />
+      <item value="Connection" />
+      <item value="order Row Id" />
+      <item value="Import Contract Template Vo" />
+      <item value="await" />
+      <item value="导入灵当系统合同数据" />
+      <item value="import Contract Data" />
       <item value=" Note: further occurrences of this error will be logged at DEBUG level." />
       <item value="池中的所有线程都尝试查找和执行提交到池和" />
       <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
@@ -1021,25 +1035,11 @@
       <item value="preserve order" />
       <item value="to ensure sweep before committing nextTab" />
       <item value="advance" />
-      <item value="bound" />
-      <item value="Tries to presize table to accommodate the given number of elements." />
-      <item value="anonymous" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="project Row Id" />
-      <item value="get Customer By Project Id" />
-      <item value="test Connection Internal" />
-      <item value="支出模块" />
-      <item value="计算报销支出" />
-      <item value="1. 计算出 - 时间段内的 报销单相关数据" />
-      <item value="String Utils" />
-      <item value="发起采购流程采购合计金额" />
-      <item value="cost Order Revenue Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
