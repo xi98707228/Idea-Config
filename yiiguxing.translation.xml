@@ -976,6 +976,7 @@
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -983,6 +984,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
+      <item value="to" />
+      <item value="import Outside Contract Data Info" />
+      <item value="cached Customer Name" />
+      <item value="is Empty" />
+      <item value="customer Manage Mapper" />
+      <item value="CACHED CUSTOMER NAME KEY" />
+      <item value="wait for all to finish" />
+      <item value="do Something Else" />
+      <item value="done Signal.await" />
+      <item value="Synchronization control For CountDownLatch. Uses AQS state to represent count." />
+      <item value="Solver" />
+      <item value="The synchronization state." />
       <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
       <item value="MIN VALUE" />
       <item value="竞争的读锁是个共享锁资源" />
@@ -1020,24 +1034,11 @@
       <item value="cost Order Revenue Count" />
       <item value="is Annotation Present" />
       <item value="Slf 4 j" />
-      <item value="Order" />
-      <item value="Connection" />
-      <item value="handle Data List" />
-      <item value="Doug Lea" />
-      <item value="Contended" />
-      <item value="prevent overflow" />
-      <item value="Finance Revenue Expend Part" />
-      <item value="customer Manage Mapper" />
-      <item value="contract File" />
-      <item value="upload Name" />
-      <item value="replace" />
-      <item value="mybatisplus" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
