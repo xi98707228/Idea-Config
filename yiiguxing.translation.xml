@@ -983,12 +983,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="hash" />
+      <item value="Node" />
+      <item value="last Run" />
+      <item value="next" />
       <item value="这个值用来标记迁移过程中当前节点是放在" />
       <item value="last Run也指向了当前的桶节点f" />
       <item value="或者" />
       <item value="只能是" />
       <item value="hash值" />
-      <item value="last Run" />
       <item value="advance" />
       <item value="approach" />
       <item value="采用CAS的方式" />
@@ -1030,14 +1033,11 @@
       <item value="get Customer By Project Id" />
       <item value="test Connection Internal" />
       <item value="支出模块" />
-      <item value="计算报销支出" />
-      <item value="1. 计算出 - 时间段内的 报销单相关数据" />
-      <item value="String Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
