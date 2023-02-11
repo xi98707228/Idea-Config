@@ -979,10 +979,18 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="approach" />
+      <item value="采用CAS的方式" />
+      <item value="resize Stamp" />
+      <item value="那么就标记finishing为true表示扩容流程结束" />
+      <item value="如果是最后一个退出扩容流程的线程" />
+      <item value="将i设置为老数组长度 , 这里表示 让这个最后一个即将结束的线程从尾到头再次检查一下,是否数据全部迁移完毕了" />
+      <item value="i = n; recheck before commit" />
+      <item value="当前线程没有接收到任务" />
       <item value="aliyuncs" />
       <item value="不可能成立" />
       <item value="recheck before commit" />
@@ -1025,19 +1033,11 @@
       <item value="Slf 4 j" />
       <item value="Order" />
       <item value="Connection" />
-      <item value="handle Data List" />
-      <item value="Doug Lea" />
-      <item value="Contended" />
-      <item value="prevent overflow" />
-      <item value="Finance Revenue Expend Part" />
-      <item value="customer Manage Mapper" />
-      <item value="contract File" />
-      <item value="upload Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="250" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
