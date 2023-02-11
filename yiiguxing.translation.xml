@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="last Run" />
+      <item value="advance" />
       <item value="approach" />
       <item value="采用CAS的方式" />
       <item value="resize Stamp" />
@@ -1014,7 +1016,6 @@
       <item value="port" />
       <item value="preserve order" />
       <item value="to ensure sweep before committing nextTab" />
-      <item value="advance" />
       <item value="bound" />
       <item value="Tries to presize table to accommodate the given number of elements." />
       <item value="anonymous" />
@@ -1032,12 +1033,11 @@
       <item value="is Annotation Present" />
       <item value="Slf 4 j" />
       <item value="Order" />
-      <item value="Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
