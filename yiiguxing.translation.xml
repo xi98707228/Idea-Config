@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="给sizeCtl做临时变量 Node" />
+      <item value="transfer Index" />
       <item value="当前线程的advance设置为true" />
       <item value="hash" />
       <item value="Node" />
@@ -1031,13 +1033,11 @@
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
       <item value="project Row Id" />
-      <item value="get Customer By Project Id" />
-      <item value="test Connection Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="262" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
