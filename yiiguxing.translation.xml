@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675772055489" />
+    <option name="lastTrimTime" value="1676204690840" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="当前线程的advance设置为true" />
       <item value="hash" />
       <item value="Node" />
       <item value="last Run" />
@@ -1032,11 +1033,10 @@
       <item value="project Row Id" />
       <item value="get Customer By Project Id" />
       <item value="test Connection Internal" />
-      <item value="支出模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
+        <entry key="CHINESE" value="261" />
         <entry key="ENGLISH" value="261" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
