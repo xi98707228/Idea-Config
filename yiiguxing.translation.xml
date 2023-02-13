@@ -985,6 +985,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="contract Cost" />
       <item value="submit Ids" />
       <item value="change Item Length" />
       <item value="Dispatcher Servlet" />
@@ -1034,12 +1035,11 @@
       <item value="导入灵当系统合同数据" />
       <item value="import Contract Data" />
       <item value=" Note: further occurrences of this error will be logged at DEBUG level." />
-      <item value="池中的所有线程都尝试查找和执行提交到池和" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
