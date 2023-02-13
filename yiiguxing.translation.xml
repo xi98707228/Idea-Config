@@ -985,6 +985,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="submit Ids" />
+      <item value="change Item Length" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
       <item value="Quartz Scheduler" />
@@ -1033,8 +1035,6 @@
       <item value="import Contract Data" />
       <item value=" Note: further occurrences of this error will be logged at DEBUG level." />
       <item value="池中的所有线程都尝试查找和执行提交到池和" />
-      <item value="The main disadvantage of per-bin locks is that other update operations on other nodes in a bin list protected by the same lock can stall, for example when user equals() or mapping functions take a long time. However, statistically, under random hash codes, this is not a common problem. Ideally, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average, given the resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
