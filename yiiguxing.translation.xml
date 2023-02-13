@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675772055489" />
+    <option name="lastTrimTime" value="1676253138017" />
   </component>
   <component name="Translation.Settings">
     <option name="keepFormat" value="true" />
@@ -985,6 +985,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Local Host" />
       <item value="order Source" />
       <item value="data Range Order Source Tree Data" />
       <item value="tree" />
@@ -1034,12 +1035,11 @@
       <item value="Synchronization control For CountDownLatch. Uses AQS state to represent count." />
       <item value="Solver" />
       <item value="The synchronization state." />
-      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
