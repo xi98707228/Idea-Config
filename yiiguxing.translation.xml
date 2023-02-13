@@ -985,6 +985,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Examine Reimbursement Order" />
       <item value="Serializable" />
       <item value="input Active Id Arr" />
       <item value="AUTHOR REVISE" />
@@ -1013,7 +1014,6 @@
       <item value="Examine Status" />
       <item value="save" />
       <item value="original Reimbursement Order" />
-      <item value="Examine Reimbursement Order" />
       <item value="start Examine Reimbursement Process And Change Relation Status" />
       <item value="Override" />
       <item value="operate Row Id" />
@@ -1038,8 +1038,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
