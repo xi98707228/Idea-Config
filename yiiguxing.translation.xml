@@ -985,6 +985,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Serializable" />
+      <item value="input Active Id Arr" />
+      <item value="AUTHOR REVISE" />
+      <item value="reimbursement Process Trigger Update Event" />
+      <item value="diff Selected Order Row Id Collection Handler" />
+      <item value="change Examine Reimbursement Order Relation Work Order Status" />
+      <item value="Druid Abstract Data Source" />
+      <item value="3 SSJU 371676251239427_Misfire Handler" />
       <item value="Local Host" />
       <item value="order Source" />
       <item value="data Range Order Source Tree Data" />
@@ -1027,19 +1035,11 @@
       <item value="import Outside Contract Data Info" />
       <item value="cached Customer Name" />
       <item value="is Empty" />
-      <item value="customer Manage Mapper" />
-      <item value="CACHED CUSTOMER NAME KEY" />
-      <item value="wait for all to finish" />
-      <item value="do Something Else" />
-      <item value="done Signal.await" />
-      <item value="Synchronization control For CountDownLatch. Uses AQS state to represent count." />
-      <item value="Solver" />
-      <item value="The synchronization state." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
