@@ -985,6 +985,29 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delete Object" />
+      <item value="right Task" />
+      <item value="prevent" />
+      <item value="end Index" />
+      <item value="start" />
+      <item value="start Index" />
+      <item value="Handle Batch Task" />
+      <item value="Fork Join Task" />
+      <item value="BATCH TASK CELL SIZE" />
+      <item value="符合则直接操作" />
+      <item value="Date" />
+      <item value="now Date" />
+      <item value="[INFO] Finished at: 2023-02-13T16:07:24+08:00" />
+      <item value="[INFO] Total time:  27.045 s" />
+      <item value="Total" />
+      <item value="Finished" />
+      <item value="cached Customer Name" />
+      <item value="Customer Manage" />
+      <item value="lambda" />
+      <item value="开始执行" />
+      <item value="执行导入任务" />
+      <item value="protected" />
+      <item value="left Task" />
       <item value="contract Cost" />
       <item value="submit Ids" />
       <item value="change Item Length" />
@@ -1012,34 +1035,11 @@
       <item value="删除报销单的某个关联的报销明细" />
       <item value="报销明细row Id" />
       <item value="      @param deleteId 报销明细rowId&#10;" />
-      <item value="Ajax Result" />
-      <item value="Resource" />
-      <item value="v Work Order List Service" />
-      <item value="V Work Order List Service" />
-      <item value="Request Param" />
-      <item value="date Range" />
-      <item value="Examine Status" />
-      <item value="save" />
-      <item value="original Reimbursement Order" />
-      <item value="start Examine Reimbursement Process And Change Relation Status" />
-      <item value="Override" />
-      <item value="operate Row Id" />
-      <item value="Down" />
-      <item value="Count Down Latch" />
-      <item value="count Down Latch" />
-      <item value="Ruoyi Scheduler" />
-      <item value="Connection" />
-      <item value="order Row Id" />
-      <item value="Import Contract Template Vo" />
-      <item value="await" />
-      <item value="导入灵当系统合同数据" />
-      <item value="import Contract Data" />
-      <item value=" Note: further occurrences of this error will be logged at DEBUG level." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
