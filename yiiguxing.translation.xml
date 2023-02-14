@@ -985,6 +985,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Import Contract Task Center Functions" />
+      <item value="Custom Contract Relation Service Impl" />
+      <item value="count Down Latch" />
+      <item value="Count Down Latch" />
       <item value="delete Object" />
       <item value="right Task" />
       <item value="prevent" />
@@ -1031,15 +1035,11 @@
       <item value="get User" />
       <item value="get Login User" />
       <item value="token Service" />
-      <item value="work Order Lists" />
-      <item value="删除报销单的某个关联的报销明细" />
-      <item value="报销明细row Id" />
-      <item value="      @param deleteId 报销明细rowId&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
