@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="customer Manage Mapper" />
+      <item value="select List" />
       <item value="start Import Task" />
       <item value="不可能成立" />
       <item value="recheck before commit" />
@@ -1030,14 +1032,12 @@
       <item value="Contended" />
       <item value="prevent overflow" />
       <item value="Finance Revenue Expend Part" />
-      <item value="customer Manage Mapper" />
       <item value="contract File" />
-      <item value="upload Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
