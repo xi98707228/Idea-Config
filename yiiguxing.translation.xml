@@ -971,13 +971,11 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676253138017" />
+    <option name="lastTrimTime" value="1675772055489" />
   </component>
   <component name="Translation.Settings">
-    <option name="keepFormat" value="true" />
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -985,61 +983,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Import Contract Task Center Functions" />
-      <item value="Custom Contract Relation Service Impl" />
-      <item value="count Down Latch" />
-      <item value="Count Down Latch" />
-      <item value="delete Object" />
-      <item value="right Task" />
-      <item value="prevent" />
-      <item value="end Index" />
-      <item value="start" />
-      <item value="start Index" />
-      <item value="Handle Batch Task" />
-      <item value="Fork Join Task" />
-      <item value="BATCH TASK CELL SIZE" />
-      <item value="符合则直接操作" />
-      <item value="Date" />
-      <item value="now Date" />
-      <item value="[INFO] Finished at: 2023-02-13T16:07:24+08:00" />
-      <item value="[INFO] Total time:  27.045 s" />
-      <item value="Total" />
-      <item value="Finished" />
-      <item value="cached Customer Name" />
+      <item value="不可能成立" />
+      <item value="recheck before commit" />
+      <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
+      <item value="MIN VALUE" />
+      <item value="竞争的读锁是个共享锁资源" />
+      <item value="当前写锁资源被占用了" />
+      <item value="price Table" />
+      <item value="temp String Param" />
+      <item value="Develop Client Application" />
+      <item value="14:26 DevelopClientApplication: 1 class reloaded" />
+      <item value="admin" />
       <item value="Customer Manage" />
-      <item value="lambda" />
-      <item value="开始执行" />
-      <item value="执行导入任务" />
-      <item value="protected" />
-      <item value="left Task" />
-      <item value="contract Cost" />
-      <item value="submit Ids" />
-      <item value="change Item Length" />
+      <item value="Thread" />
+      <item value="v Work Order List Service" />
+      <item value="login User" />
+      <item value="get Engineer" />
+      <item value="is Balance" />
+      <item value="开发环境配置" />
+      <item value="服务器的HTTP端口" />
+      <item value="port" />
+      <item value="preserve order" />
+      <item value="to ensure sweep before committing nextTab" />
+      <item value="advance" />
+      <item value="bound" />
+      <item value="Tries to presize table to accommodate the given number of elements." />
+      <item value="anonymous" />
       <item value="Dispatcher Servlet" />
       <item value="Initializing" />
-      <item value="Quartz Scheduler" />
-      <item value="final Relation Source Ids" />
-      <item value="Examine Reimbursement Order" />
-      <item value="Serializable" />
-      <item value="input Active Id Arr" />
-      <item value="AUTHOR REVISE" />
-      <item value="reimbursement Process Trigger Update Event" />
-      <item value="diff Selected Order Row Id Collection Handler" />
-      <item value="change Examine Reimbursement Order Relation Work Order Status" />
-      <item value="Druid Abstract Data Source" />
-      <item value="3 SSJU 371676251239427_Misfire Handler" />
-      <item value="Local Host" />
-      <item value="order Source" />
-      <item value="data Range Order Source Tree Data" />
-      <item value="tree" />
-      <item value="get User" />
-      <item value="get Login User" />
-      <item value="token Service" />
+      <item value="project Row Id" />
+      <item value="get Customer By Project Id" />
+      <item value="test Connection Internal" />
+      <item value="支出模块" />
+      <item value="计算报销支出" />
+      <item value="1. 计算出 - 时间段内的 报销单相关数据" />
+      <item value="String Utils" />
+      <item value="发起采购流程采购合计金额" />
+      <item value="cost Order Revenue Count" />
+      <item value="is Annotation Present" />
+      <item value="Slf 4 j" />
+      <item value="Order" />
+      <item value="Connection" />
+      <item value="handle Data List" />
+      <item value="Doug Lea" />
+      <item value="Contended" />
+      <item value="prevent overflow" />
+      <item value="Finance Revenue Expend Part" />
+      <item value="customer Manage Mapper" />
+      <item value="contract File" />
+      <item value="upload Name" />
+      <item value="replace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="244" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
