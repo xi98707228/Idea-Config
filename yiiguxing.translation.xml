@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table Fields" />
+      <item value="Table Info Helper" />
       <item value="customer Manage Mapper" />
       <item value="select List" />
       <item value="start Import Task" />
@@ -1031,13 +1033,11 @@
       <item value="Doug Lea" />
       <item value="Contended" />
       <item value="prevent overflow" />
-      <item value="Finance Revenue Expend Part" />
-      <item value="contract File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
