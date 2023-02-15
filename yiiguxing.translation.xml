@@ -983,8 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="execute" />
+      <item value="order" />
       <item value="thread Pool Task Executor" />
+      <item value="insert Mag Spare Operate Log Row Data" />
+      <item value="Override" />
+      <item value="operate Count" />
+      <item value="GIVEBACK INPUT" />
+      <item value="spare Brand" />
+      <item value="mag Spare Operate Log Service" />
+      <item value="copy Bean Prop" />
+      <item value="Atomic Operate Spare Data" />
+      <item value="handle Operate Log Point Cut" />
+      <item value="execute" />
       <item value="Query Wrapper" />
       <item value="init Table Fields" />
       <item value="Table Info Helper" />
@@ -1023,21 +1033,11 @@
       <item value="get Customer By Project Id" />
       <item value="test Connection Internal" />
       <item value="支出模块" />
-      <item value="计算报销支出" />
-      <item value="1. 计算出 - 时间段内的 报销单相关数据" />
-      <item value="String Utils" />
-      <item value="发起采购流程采购合计金额" />
-      <item value="cost Order Revenue Count" />
-      <item value="is Annotation Present" />
-      <item value="Slf 4 j" />
-      <item value="Order" />
-      <item value="Connection" />
-      <item value="handle Data List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
