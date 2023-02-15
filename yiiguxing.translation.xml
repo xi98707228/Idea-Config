@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="async Really Operate Store Data" />
       <item value="Applet Atomic Operate Spare Data" />
       <item value="则新增物料保存" />
       <item value="如果计划物料中没有该物料" />
@@ -1032,12 +1033,11 @@
       <item value="bound" />
       <item value="Tries to presize table to accommodate the given number of elements." />
       <item value="anonymous" />
-      <item value="Dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
