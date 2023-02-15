@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Applet Atomic Operate Spare Data" />
+      <item value="则新增物料保存" />
+      <item value="如果计划物料中没有该物料" />
+      <item value="那么为异常数据" />
+      <item value="如果最终存入" />
       <item value="order" />
       <item value="thread Pool Task Executor" />
       <item value="insert Mag Spare Operate Log Row Data" />
@@ -1028,16 +1033,11 @@
       <item value="Tries to presize table to accommodate the given number of elements." />
       <item value="anonymous" />
       <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="project Row Id" />
-      <item value="get Customer By Project Id" />
-      <item value="test Connection Internal" />
-      <item value="支出模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
