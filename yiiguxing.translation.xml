@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="computed" />
       <item value="Hibernate" />
       <item value="更新物料数据" />
       <item value="examine Mag Instrument Part" />
@@ -1032,12 +1033,11 @@
       <item value="get Engineer" />
       <item value="is Balance" />
       <item value="开发环境配置" />
-      <item value="服务器的HTTP端口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
