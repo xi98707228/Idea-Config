@@ -983,8 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Traverser" />
       <item value="parallel Stream" />
+      <item value="spare Count Mapping" />
+      <item value="Traverser" />
       <item value="IDENTITY FINISH" />
       <item value="summarizing Int" />
       <item value="computed" />
@@ -1032,12 +1033,11 @@
       <item value="admin" />
       <item value="Customer Manage" />
       <item value="Thread" />
-      <item value="v Work Order List Service" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
