@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="after Node Insertion" />
       <item value="parallel Stream" />
       <item value="spare Count Mapping" />
       <item value="Traverser" />
@@ -1032,12 +1033,11 @@
       <item value="14:26 DevelopClientApplication: 1 class reloaded" />
       <item value="admin" />
       <item value="Customer Manage" />
-      <item value="Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
