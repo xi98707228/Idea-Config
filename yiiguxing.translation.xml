@@ -983,8 +983,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="GIVEBACK INPUT" />
+      <item value="Hibernate" />
+      <item value="更新物料数据" />
+      <item value="examine Mag Instrument Part" />
+      <item value="新增的物料数据" />
+      <item value="store Operate Mapping List" />
+      <item value="async Store Relationship Data" />
       <item value="async Really Operate Store Data" />
+      <item value="update Only Article Inventory For Mag Instrument" />
+      <item value="GIVEBACK INPUT" />
       <item value="Applet Atomic Operate Spare Data" />
       <item value="则新增物料保存" />
       <item value="如果计划物料中没有该物料" />
@@ -1026,18 +1033,11 @@
       <item value="is Balance" />
       <item value="开发环境配置" />
       <item value="服务器的HTTP端口" />
-      <item value="port" />
-      <item value="preserve order" />
-      <item value="to ensure sweep before committing nextTab" />
-      <item value="advance" />
-      <item value="bound" />
-      <item value="Tries to presize table to accommodate the given number of elements." />
-      <item value="anonymous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
