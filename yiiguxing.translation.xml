@@ -1,19 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676552314166" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="primaryLanguage" value="CHINESE" />
-    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1676635643024" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="子节点必须是黑色" />
-      <item value="Tree Node" />
-      <item value="dir" />
-      <item value="balance Insertion" />
-      <item value="代表要插入到父节点的左边" />
+      <item value="values" />
     </histories>
   </component>
 </application>
