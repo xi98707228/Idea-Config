@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Async Handler Direct Return" />
       <item value="Duplicate Key Exception" />
       <item value="sys Process User Relation Office Service" />
       <item value="after Node Insertion" />
@@ -1032,12 +1033,11 @@
       <item value="price Table" />
       <item value="temp String Param" />
       <item value="Develop Client Application" />
-      <item value="14:26 DevelopClientApplication: 1 class reloaded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
