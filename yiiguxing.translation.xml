@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676339926067" />
+    <option name="lastTrimTime" value="1676901317789" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="在xp的右边" />
+      <item value="check Invariants" />
       <item value="SERVICE UNAVAILABLE" />
       <item value="Calendar" />
       <item value="Parse Exception" />
@@ -1031,13 +1033,11 @@
       <item value="recheck before commit" />
       <item value="A constant holding the minimum value an {@code int} can have, -2&lt;sup&gt;31&lt;sup&gt;." />
       <item value="MIN VALUE" />
-      <item value="竞争的读锁是个共享锁资源" />
-      <item value="当前写锁资源被占用了" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="292" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
