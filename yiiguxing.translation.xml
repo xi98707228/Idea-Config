@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="amount" />
+      <item value="source Order Name" />
+      <item value="cost Account Number" />
+      <item value="cost Bank" />
       <item value="Observer" />
       <item value="Mocha" />
       <item value="Beverage" />
@@ -1029,15 +1033,11 @@
       <item value="如果最终存入" />
       <item value="order" />
       <item value="thread Pool Task Executor" />
-      <item value="insert Mag Spare Operate Log Row Data" />
-      <item value="Override" />
-      <item value="operate Count" />
-      <item value="spare Brand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
