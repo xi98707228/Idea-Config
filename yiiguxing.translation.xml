@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Observer" />
+      <item value="Mocha" />
+      <item value="Beverage" />
+      <item value="Stateful Redis Connection Impl" />
+      <item value="strictfp" />
+      <item value="STRICT" />
+      <item value="Access modifier flag constants from tables 4.1, 4.4, 4.5, and 4.7 of &lt;cite&gt;The Java&amp;trade; Virtual Machine Specification&lt;cite&gt;" />
+      <item value="constants" />
+      <item value="Atomic Integer Field Updater" />
+      <item value="access via COUNT_UPDATER" />
+      <item value="Command output type." />
       <item value="reimbursement Process Trigger Update Event" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="payment Time" />
@@ -1022,22 +1033,11 @@
       <item value="Override" />
       <item value="operate Count" />
       <item value="spare Brand" />
-      <item value="mag Spare Operate Log Service" />
-      <item value="copy Bean Prop" />
-      <item value="Atomic Operate Spare Data" />
-      <item value="handle Operate Log Point Cut" />
-      <item value="execute" />
-      <item value="Query Wrapper" />
-      <item value="init Table Fields" />
-      <item value="Table Info Helper" />
-      <item value="customer Manage Mapper" />
-      <item value="select List" />
-      <item value="start Import Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
