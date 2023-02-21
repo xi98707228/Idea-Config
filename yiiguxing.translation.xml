@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Borrow Money User" />
       <item value="Arrays" />
       <item value="Red-black mechanics" />
       <item value="Navigable Sub Map" />
@@ -1032,7 +1033,6 @@
       <item value="Duplicate Key Exception" />
       <item value="sys Process User Relation Office Service" />
       <item value="after Node Insertion" />
-      <item value="parallel Stream" />
     </histories>
     <option name="languageScores">
       <map>
