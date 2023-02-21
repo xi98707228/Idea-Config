@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Authentication Type" />
+      <item value="APPLICATION" />
+      <item value="CONTAINER" />
+      <item value="success" />
       <item value="get Has Quarter Status" />
       <item value="is Empty" />
       <item value="No Args Constructor" />
@@ -1029,15 +1033,11 @@
       <item value="async Really Operate Store Data" />
       <item value="update Only Article Inventory For Mag Instrument" />
       <item value="GIVEBACK INPUT" />
-      <item value="Applet Atomic Operate Spare Data" />
-      <item value="则新增物料保存" />
-      <item value="如果计划物料中没有该物料" />
-      <item value="那么为异常数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
