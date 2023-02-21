@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resolve Param Convert To" />
+      <item value="resolve Param" />
+      <item value="OPEN BORROW STATUS" />
+      <item value="completed" />
       <item value="Authentication Type" />
       <item value="APPLICATION" />
       <item value="CONTAINER" />
@@ -1029,15 +1033,11 @@
       <item value="examine Mag Instrument Part" />
       <item value="新增的物料数据" />
       <item value="store Operate Mapping List" />
-      <item value="async Store Relationship Data" />
-      <item value="async Really Operate Store Data" />
-      <item value="update Only Article Inventory For Mag Instrument" />
-      <item value="GIVEBACK INPUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
