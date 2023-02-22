@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="spare Apply Count" />
       <item value="get And Accumulate" />
       <item value="ge" />
       <item value="Finance Revenue Expend Item" />
@@ -1032,12 +1033,11 @@
       <item value="reimbursement Process Trigger Update Event" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="payment Time" />
-      <item value="EXCHANGE ACCOUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
