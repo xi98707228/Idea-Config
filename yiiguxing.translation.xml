@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="parallel Search Latch" />
       <item value="compute Revenue Expend Merge Statistics" />
       <item value="init Table Fields" />
       <item value="Table Id" />
@@ -1032,12 +1033,11 @@
       <item value="Mocha" />
       <item value="Beverage" />
       <item value="Stateful Redis Connection Impl" />
-      <item value="strictfp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
