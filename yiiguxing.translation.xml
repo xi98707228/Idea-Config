@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="V Reimbursement List" />
+      <item value="query Reimbursement Data" />
+      <item value="search Filter" />
       <item value="spare Apply Count" />
       <item value="get And Accumulate" />
       <item value="ge" />
@@ -1030,14 +1033,11 @@
       <item value="Atomic Integer Field Updater" />
       <item value="access via COUNT_UPDATER" />
       <item value="Command output type." />
-      <item value="reimbursement Process Trigger Update Event" />
-      <item value="check Current Active Segment Is Input Expect" />
-      <item value="payment Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
