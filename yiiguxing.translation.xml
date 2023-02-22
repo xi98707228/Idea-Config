@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get And Accumulate" />
       <item value="ge" />
       <item value="Finance Revenue Expend Item" />
       <item value="revenue Expend Money" />
@@ -1032,12 +1033,11 @@
       <item value="check Current Active Segment Is Input Expect" />
       <item value="payment Time" />
       <item value="EXCHANGE ACCOUNT" />
-      <item value="related Virtual Account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
