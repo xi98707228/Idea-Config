@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="收入总金额" />
       <item value="cost Order Revenue Count" />
       <item value="optional" />
       <item value="without" />
@@ -1032,11 +1033,10 @@
       <item value="Status Process Engine" />
       <item value="SERVICE UNAVAILABLE" />
       <item value="Calendar" />
-      <item value="Parse Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
+        <entry key="CHINESE" value="335" />
         <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
