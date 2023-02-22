@@ -983,6 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="compute Revenue Expend Merge Statistics" />
+      <item value="init Table Fields" />
+      <item value="Table Id" />
+      <item value="Warn" />
+      <item value="data Source" />
+      <item value="result Data" />
       <item value="V Reimbursement List" />
       <item value="query Reimbursement Data" />
       <item value="search Filter" />
@@ -1027,17 +1033,11 @@
       <item value="Beverage" />
       <item value="Stateful Redis Connection Impl" />
       <item value="strictfp" />
-      <item value="STRICT" />
-      <item value="Access modifier flag constants from tables 4.1, 4.4, 4.5, and 4.7 of &lt;cite&gt;The Java&amp;trade; Virtual Machine Specification&lt;cite&gt;" />
-      <item value="constants" />
-      <item value="Atomic Integer Field Updater" />
-      <item value="access via COUNT_UPDATER" />
-      <item value="Command output type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
