@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Revenue Expend Item" />
+      <item value="revenue Expend Money" />
       <item value="收入总金额" />
       <item value="cost Order Revenue Count" />
       <item value="optional" />
@@ -1031,13 +1033,11 @@
       <item value="EXCHANGE ACCOUNT" />
       <item value="related Virtual Account" />
       <item value="Status Process Engine" />
-      <item value="SERVICE UNAVAILABLE" />
-      <item value="Calendar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
