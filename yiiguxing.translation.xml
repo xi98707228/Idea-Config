@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="put If Absent" />
+      <item value="is deleted" />
       <item value="calculate Activity Result" />
       <item value="le" />
       <item value="Objects" />
@@ -1031,13 +1033,11 @@
       <item value="completed" />
       <item value="Authentication Type" />
       <item value="APPLICATION" />
-      <item value="CONTAINER" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
