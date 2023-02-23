@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Duncan" />
       <item value="is Not Empty" />
       <item value="Bean Property Row Mapper" />
       <item value="Activity Scanner Code Vo" />
@@ -1032,7 +1033,6 @@
       <item value="query Reimbursement Data" />
       <item value="search Filter" />
       <item value="spare Apply Count" />
-      <item value="get And Accumulate" />
     </histories>
     <option name="languageScores">
       <map>
