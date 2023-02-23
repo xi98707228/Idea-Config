@@ -983,13 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="sign Back Handle" />
+      <item value="final Change Points" />
       <item value="Persistence Exception Translator" />
       <item value="Process In 3 Steps:" />
       <item value="activity Publish" />
       <item value="handle Point After Flag" />
       <item value="calculate Activity Result" />
       <item value="sign In Handle" />
-      <item value="sign Back Handle" />
       <item value="Sql Session Interceptor" />
       <item value="this Model Lock" />
       <item value="the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
@@ -1032,12 +1033,11 @@
       <item value="revenue Expend Money" />
       <item value="收入总金额" />
       <item value="cost Order Revenue Count" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
