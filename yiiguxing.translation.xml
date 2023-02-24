@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Three Eighthes Step Interpolator" />
+      <item value="Striped 64" />
       <item value="this Invoice Amount" />
       <item value="invoice Amount" />
       <item value="Finance Supplier Invoice Status" />
@@ -1031,13 +1033,11 @@
       <item value="this Model Lock" />
       <item value="the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
       <item value="compute If Absent" />
-      <item value="dispatcher Servlet" />
-      <item value="set Create Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
