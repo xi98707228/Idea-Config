@@ -983,6 +983,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Maven Reposity" />
+      <item value="springfox" />
+      <item value="springfox-swagger-common" />
+      <item value="仅仅是公司内部业务审批通过后" />
+      <item value="由于这个审批流程暂不涉及金额交易" />
+      <item value="set Payment Time" />
+      <item value="approval Amount" />
+      <item value="transaction Usage Info" />
+      <item value="transaction Record Info" />
+      <item value="target Object" />
       <item value="Finance Supplier Invoice" />
       <item value="Finance Supplier Payment Bill" />
       <item value="Finance Supplier Sell Invoice" />
@@ -1023,21 +1033,11 @@
       <item value="活动签退功能" />
       <item value="subscribe Activity" />
       <item value="报名人数不能大于限制名额" />
-      <item value="statistics Account Point Count The This Month" />
-      <item value="statistics Account Point Count" />
-      <item value="put If Absent" />
-      <item value="is deleted" />
-      <item value="le" />
-      <item value="Objects" />
-      <item value="stream" />
-      <item value="is Empty" />
-      <item value="对in语句进行优化查询" />
-      <item value="这里可以手写SQL语句" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
