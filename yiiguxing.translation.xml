@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Supplier Invoice" />
+      <item value="Finance Supplier Payment Bill" />
+      <item value="Finance Supplier Sell Invoice" />
+      <item value="finance Supplier Payment Tick Service" />
+      <item value="sequence Number Generic" />
+      <item value="v Supplier Payment Tick List Service" />
+      <item value="下一个将要进行占用的编号" />
       <item value="Class Path Mapper Scanner" />
       <item value="Completable Statistics Functions" />
       <item value="HOUR TO SECOND" />
@@ -1026,18 +1033,11 @@
       <item value="is Empty" />
       <item value="对in语句进行优化查询" />
       <item value="这里可以手写SQL语句" />
-      <item value="query Spare Order Data" />
-      <item value="本接口查询慢的原因所在" />
-      <item value="Objects." />
-      <item value="Objenesis" />
-      <item value="parallel Search Latch" />
-      <item value="compute Revenue Expend Merge Statistics" />
-      <item value="init Table Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="399" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
