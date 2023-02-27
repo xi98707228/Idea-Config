@@ -983,8 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
+      <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
+      <item value="Trigger HeartBeatReaction" />
+      <item value="Druid Abstract Data Source" />
       <item value="STARTED" />
       <item value="completed Abruptly" />
       <item value="activity Sign In Service" />
@@ -1031,13 +1033,11 @@
       <item value="v Supplier Payment Tick List Service" />
       <item value="下一个将要进行占用的编号" />
       <item value="Class Path Mapper Scanner" />
-      <item value="Completable Statistics Functions" />
-      <item value="HOUR TO SECOND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
