@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="person Bean" />
+      <item value="Abstract Plain Socket Impl" />
       <item value="test Connection Internal" />
       <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
       <item value="Trigger HeartBeatReaction" />
@@ -1031,13 +1033,11 @@
       <item value="finance Supplier Payment Tick Service" />
       <item value="sequence Number Generic" />
       <item value="v Supplier Payment Tick List Service" />
-      <item value="下一个将要进行占用的编号" />
-      <item value="Class Path Mapper Scanner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="443" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
