@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676862051442" />
+    <option name="lastTrimTime" value="1677460224618" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Suppress Java 6 Requirement" />
+      <item value="sell Invoice Amount" />
       <item value="Three Eighthes Step Interpolator" />
       <item value="Striped 64" />
       <item value="this Invoice Amount" />
@@ -1031,13 +1033,11 @@
       <item value="sign In Handle" />
       <item value="Sql Session Interceptor" />
       <item value="this Model Lock" />
-      <item value="the current (existing or computed) value associated with the specified key, or null if the computed value is null" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
