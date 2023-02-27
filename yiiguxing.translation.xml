@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Abstract Data Source" />
+      <item value="test Connection Internal" />
       <item value="STARTED" />
       <item value="completed Abruptly" />
       <item value="activity Sign In Service" />
@@ -1031,13 +1033,11 @@
       <item value="Class Path Mapper Scanner" />
       <item value="Completable Statistics Functions" />
       <item value="HOUR TO SECOND" />
-      <item value="locks Map" />
-      <item value="Concurrent Reference Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="438" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
