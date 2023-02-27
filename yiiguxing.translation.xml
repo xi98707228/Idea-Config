@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="STARTED" />
       <item value="completed Abruptly" />
       <item value="activity Sign In Service" />
       <item value="sign Back Row Data" />
@@ -1032,7 +1033,6 @@
       <item value="HOUR TO SECOND" />
       <item value="locks Map" />
       <item value="Concurrent Reference Hash Map" />
-      <item value="Weak Reference" />
     </histories>
     <option name="languageScores">
       <map>
