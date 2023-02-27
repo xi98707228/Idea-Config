@@ -983,6 +983,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="activity Sign In Service" />
+      <item value="sign Back Row Data" />
+      <item value="签到" />
+      <item value="activity Sign In Mapper" />
+      <item value="activity Publish Mapper" />
+      <item value="points Account Service" />
+      <item value="points Detail Mapper" />
+      <item value="thread Pool Task Executor" />
+      <item value="Thread Pool Task Executor" />
+      <item value="Override" />
+      <item value="sign In Handle" />
+      <item value="sign In Activity User Info" />
+      <item value="set Activity User" />
+      <item value="success" />
+      <item value="set Subscribe Status" />
       <item value="get Caller Class" />
       <item value="socket" />
       <item value="Suppress Java 6 Requirement" />
@@ -1018,26 +1033,11 @@
       <item value="Concurrent Reference Hash Map" />
       <item value="Weak Reference" />
       <item value="SOFT" />
-      <item value="Web Application Context" />
-      <item value="Duncan" />
-      <item value="is Not Empty" />
-      <item value="Bean Property Row Mapper" />
-      <item value="Activity Scanner Code Vo" />
-      <item value="sign Back Row Data" />
-      <item value="DATE FORMAT" />
-      <item value="sign Back Handle" />
-      <item value="final Change Points" />
-      <item value="Persistence Exception Translator" />
-      <item value="Process In 3 Steps:" />
-      <item value="activity Publish" />
-      <item value="handle Point After Flag" />
-      <item value="calculate Activity Result" />
-      <item value="sign In Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
