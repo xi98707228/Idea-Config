@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="invoice Date" />
+      <item value="source Order Name" />
+      <item value="源单Id" />
+      <item value="sell Invoice Amount" />
       <item value="success" />
       <item value="publish Activity Row Id" />
       <item value="Path Variable" />
@@ -1029,15 +1033,11 @@
       <item value="签到" />
       <item value="activity Sign In Mapper" />
       <item value="activity Publish Mapper" />
-      <item value="points Account Service" />
-      <item value="points Detail Mapper" />
-      <item value="thread Pool Task Executor" />
-      <item value="Thread Pool Task Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
