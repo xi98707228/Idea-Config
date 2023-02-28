@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="I" />
       <item value="custom Contract Relation Service" />
       <item value="Thread safe - The In writeLock Block Inner Use" />
       <item value="Thread safe - On in writeLock Block Inner Use" />
@@ -1032,12 +1033,11 @@
       <item value="Striped 64" />
       <item value="this Invoice Amount" />
       <item value="invoice Amount" />
-      <item value="Finance Supplier Invoice Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
