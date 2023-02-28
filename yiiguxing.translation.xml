@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Abstract Data Source" />
+      <item value="3 SSJU 371677549160885_Misfire Handler" />
+      <item value="received" />
       <item value="I" />
       <item value="custom Contract Relation Service" />
       <item value="Thread safe - The In writeLock Block Inner Use" />
@@ -1007,7 +1010,6 @@
       <item value="test Connection Internal" />
       <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
       <item value="Trigger HeartBeatReaction" />
-      <item value="Druid Abstract Data Source" />
       <item value="STARTED" />
       <item value="completed Abruptly" />
       <item value="activity Sign In Service" />
@@ -1031,13 +1033,11 @@
       <item value="sell Invoice Amount" />
       <item value="Three Eighthes Step Interpolator" />
       <item value="Striped 64" />
-      <item value="this Invoice Amount" />
-      <item value="invoice Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
