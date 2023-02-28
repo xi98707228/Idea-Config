@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="success" />
+      <item value="publish Activity Row Id" />
+      <item value="Path Variable" />
+      <item value="activity Row Id" />
+      <item value="resource Url Field List" />
+      <item value="execute Pull Program" />
+      <item value="really Call Method" />
       <item value="if (subscribeActivity.getAbortTime().before(nowDate)){" />
       <item value="get Abort Time" />
       <item value="collect The Points After Complete The Answer" />
@@ -1026,18 +1033,11 @@
       <item value="points Detail Mapper" />
       <item value="thread Pool Task Executor" />
       <item value="Thread Pool Task Executor" />
-      <item value="Override" />
-      <item value="sign In Handle" />
-      <item value="sign In Activity User Info" />
-      <item value="set Activity User" />
-      <item value="success" />
-      <item value="set Subscribe Status" />
-      <item value="get Caller Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
