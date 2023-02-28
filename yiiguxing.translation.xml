@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="collect The Points After Complete The Answer" />
+      <item value="complete The Answer" />
       <item value="get Activity Project Select Vo List" />
       <item value="Druid Abstract Data Source" />
       <item value="3 SSJU 371677549160885_Misfire Handler" />
@@ -1031,13 +1033,11 @@
       <item value="get Caller Class" />
       <item value="socket" />
       <item value="Suppress Java 6 Requirement" />
-      <item value="sell Invoice Amount" />
-      <item value="Three Eighthes Step Interpolator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
