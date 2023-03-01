@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="schedule Execute Views" />
+      <item value="Date" />
+      <item value="compute If Absent" />
+      <item value="Activity Publish Config" />
+      <item value="修改活动的实际参加人员" />
+      <item value="说明还未到活动开始时间" />
+      <item value="now Date" />
+      <item value="after" />
+      <item value="get Start Time" />
+      <item value="Activity Scanner Code Vo" />
+      <item value="running Activity Info" />
+      <item value="locks Map" />
+      <item value="user Points Detail Dto" />
       <item value="Thread safe - The In writeLock Block Inner Use" />
       <item value="Activity Publish" />
       <item value="invoice Date" />
@@ -1020,24 +1033,11 @@
       <item value="Ruoyi Scheduler DESKTOP" />
       <item value="Dispatcher Servlet" />
       <item value="Spring" />
-      <item value="Initializing" />
-      <item value="TASK SCALE SIZE" />
-      <item value="person Bean" />
-      <item value="Abstract Plain Socket Impl" />
-      <item value="test Connection Internal" />
-      <item value="Trigger HeartBeatReaction -- LifeCycle Perfect" />
-      <item value="Trigger HeartBeatReaction" />
-      <item value="STARTED" />
-      <item value="completed Abruptly" />
-      <item value="activity Sign In Service" />
-      <item value="sign Back Row Data" />
-      <item value="签到" />
-      <item value="activity Sign In Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="499" />
+        <entry key="ENGLISH" value="500" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
