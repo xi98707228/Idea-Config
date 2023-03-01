@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data" />
+      <item value="Get Mapping" />
       <item value="execute Increment Views" />
       <item value="period" />
       <item value="周期" />
@@ -1031,13 +1033,11 @@
       <item value="ACTIVITY PUBLISH VIEWS EXPIRES FLAG REDIS KEY" />
       <item value="WRITE LOCK" />
       <item value="get Cache Set" />
-      <item value="Quartz" />
-      <item value="Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
