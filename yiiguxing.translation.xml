@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Activity Publish" />
       <item value="invoice Date" />
       <item value="source Order Name" />
       <item value="源单Id" />
@@ -1032,12 +1033,11 @@
       <item value="sign Back Row Data" />
       <item value="签到" />
       <item value="activity Sign In Mapper" />
-      <item value="activity Publish Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
