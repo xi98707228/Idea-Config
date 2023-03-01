@@ -983,6 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="execute Increment Views" />
+      <item value="period" />
+      <item value="周期" />
+      <item value="Peroid" />
+      <item value="transform List" />
+      <item value="supplier Name" />
+      <item value="source Order Name" />
+      <item value="本次活动需要改变的积分" />
       <item value="schedule Execute Views" />
       <item value="Date" />
       <item value="compute If Absent" />
@@ -999,7 +1007,6 @@
       <item value="Thread safe - The In writeLock Block Inner Use" />
       <item value="Activity Publish" />
       <item value="invoice Date" />
-      <item value="source Order Name" />
       <item value="源单Id" />
       <item value="sell Invoice Amount" />
       <item value="success" />
@@ -1026,18 +1033,11 @@
       <item value="get Cache Set" />
       <item value="Quartz" />
       <item value="Scheduler" />
-      <item value="Ruoyi Scheduler" />
-      <item value="Connection" />
-      <item value="S" />
-      <item value="Quartz Scheduler" />
-      <item value="Ruoyi Scheduler DESKTOP" />
-      <item value="Dispatcher Servlet" />
-      <item value="Spring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
