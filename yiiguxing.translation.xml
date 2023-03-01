@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ACT DEF ID" />
       <item value="data" />
       <item value="Get Mapping" />
       <item value="execute Increment Views" />
@@ -1032,12 +1033,11 @@
       <item value="Thread safe - in writeLock Block Inner Use" />
       <item value="ACTIVITY PUBLISH VIEWS EXPIRES FLAG REDIS KEY" />
       <item value="WRITE LOCK" />
-      <item value="get Cache Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
