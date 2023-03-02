@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="compare Swap Count" />
+      <item value="limit Views Ids" />
       <item value="import Data List" />
       <item value="pro Data Ledger" />
       <item value="Table Data Info" />
@@ -1031,8 +1033,6 @@
       <item value="invoice Date" />
       <item value="源单Id" />
       <item value="sell Invoice Amount" />
-      <item value="success" />
-      <item value="publish Activity Row Id" />
     </histories>
     <option name="languageScores">
       <map>
