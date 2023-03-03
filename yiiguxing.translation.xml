@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Construct" />
+      <item value="read" />
+      <item value="buff" />
+      <item value="response" />
       <item value="Simple Date Format" />
       <item value="Multipart File" />
       <item value="import Excel" />
@@ -1029,15 +1033,11 @@
       <item value="Override" />
       <item value="ACT DEF ID" />
       <item value="data" />
-      <item value="Get Mapping" />
-      <item value="execute Increment Views" />
-      <item value="period" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="FRENCH" value="3" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
