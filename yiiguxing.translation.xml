@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ACTIVE VIEWS COUNTER MAP" />
       <item value="activity Ids" />
       <item value="get Cache Object" />
       <item value="redis Cache" />
@@ -1032,7 +1033,6 @@
       <item value="source Order Name" />
       <item value="本次活动需要改变的积分" />
       <item value="schedule Execute Views" />
-      <item value="Date" />
     </histories>
     <option name="languageScores">
       <map>
