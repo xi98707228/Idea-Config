@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Execute Period Task , But No Refresh" />
+      <item value="REFRESH REDIS TRANSFER TO DB LOCK" />
+      <item value="SECONDS" />
+      <item value="定时执行刷新访问量入库信息" />
       <item value="retry Count" />
       <item value="compare Swap Count" />
       <item value="Deprecated" />
@@ -1022,7 +1026,6 @@
       <item value="build" />
       <item value="Auto" />
       <item value="Activity Publish Views Limit Expires Flag" />
-      <item value="REFRESH REDIS TRANSFER TO DB LOCK" />
       <item value="single Increment Views" />
       <item value="limit Views Ids" />
       <item value="pro Data Ledger" />
@@ -1030,14 +1033,11 @@
       <item value="use Unit" />
       <item value="13336" />
       <item value="mysql" />
-      <item value="jdbc" />
-      <item value="szysdx 383" />
-      <item value="password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="556" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="FRENCH" value="3" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
