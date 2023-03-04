@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="retry Count" />
+      <item value="compare Swap Count" />
       <item value="Deprecated" />
       <item value="Thread Not Safe Use WriteLock" />
       <item value="log Started" />
@@ -1014,7 +1016,6 @@
       <item value="Redis Key" />
       <item value="流量控制" />
       <item value="Use ReadLock And CAS And SpinBlock Ensure Thread Safe" />
-      <item value="compare Swap Count" />
       <item value="errors" />
       <item value="with" />
       <item value="completed" />
@@ -1032,12 +1033,11 @@
       <item value="jdbc" />
       <item value="szysdx 383" />
       <item value="password" />
-      <item value="get Native Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="FRENCH" value="3" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
