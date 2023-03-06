@@ -6,13 +6,22 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="process Worker Exit" />
+      <item value="run Worker" />
       <item value="core Pool Size" />
       <item value="worker Count Of" />
       <item value="Thread Pool Executor" />
       <item value="fetch" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
   </component>
 </application>
