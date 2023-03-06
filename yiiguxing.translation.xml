@@ -9,6 +9,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="core Pool Size" />
       <item value="worker Count Of" />
       <item value="Thread Pool Executor" />
       <item value="fetch" />
