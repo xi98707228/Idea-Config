@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ALLOW SUBSCRIBE" />
+      <item value="devlop service" />
       <item value="Druid Data Source" />
       <item value="Web Application Context" />
       <item value="is deleted" />
@@ -1031,13 +1033,11 @@
       <item value="buff" />
       <item value="response" />
       <item value="Simple Date Format" />
-      <item value="Multipart File" />
-      <item value="import Excel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="586" />
+        <entry key="CHINESE" value="587" />
+        <entry key="ENGLISH" value="588" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
