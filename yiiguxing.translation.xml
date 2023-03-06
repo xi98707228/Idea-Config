@@ -983,10 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="restarted Main" />
+      <item value="Apache" />
+      <item value="engine" />
+      <item value="Servlet" />
+      <item value="Standard Engine" />
+      <item value="Starting" />
+      <item value="embedded" />
+      <item value="Initializing" />
+      <item value="Spring" />
+      <item value="Web Application Context" />
       <item value="ALLOW SUBSCRIBE" />
       <item value="devlop service" />
       <item value="Druid Data Source" />
-      <item value="Web Application Context" />
       <item value="is deleted" />
       <item value="combiner" />
       <item value="Characteristics" />
@@ -1024,20 +1033,11 @@
       <item value="organizations" />
       <item value="start Page" />
       <item value="Activity Project" />
-      <item value="lambda" />
-      <item value="activity Project Query Vo" />
-      <item value="set Application Context" />
-      <item value="schedule With Fixed Delay" />
-      <item value="Construct" />
-      <item value="read" />
-      <item value="buff" />
-      <item value="response" />
-      <item value="Simple Date Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
