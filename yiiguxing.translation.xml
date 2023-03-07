@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="from" />
+      <item value="sq List" />
       <item value="restarted Main" />
       <item value="Apache" />
       <item value="engine" />
@@ -1031,13 +1033,11 @@
       <item value="log Started" />
       <item value="Are workers subject to culling?" />
       <item value="organizations" />
-      <item value="start Page" />
-      <item value="Activity Project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
