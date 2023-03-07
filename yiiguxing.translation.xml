@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677460224618" />
+    <option name="lastTrimTime" value="1677893579587" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,65 +983,66 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Are workers subject to culling?" />
-      <item value="organizations" />
-      <item value="start Page" />
-      <item value="Activity Project" />
-      <item value="lambda" />
-      <item value="activity Project Query Vo" />
-      <item value="set Application Context" />
-      <item value="schedule With Fixed Delay" />
-      <item value="Construct" />
-      <item value="read" />
-      <item value="buff" />
-      <item value="response" />
-      <item value="Simple Date Format" />
-      <item value="Multipart File" />
-      <item value="import Excel" />
-      <item value="import Data List" />
-      <item value="i Attach Inst Service" />
-      <item value="file Up Load Save Db Sevice" />
-      <item value="publish Collection" />
-      <item value="ACTIVE VIEWS COUNTER MAP" />
-      <item value="activity Ids" />
-      <item value="get Cache Object" />
-      <item value="redis Cache" />
-      <item value="activity Count" />
-      <item value="每个活动的访问量" />
-      <item value="Redis Key" />
-      <item value="流量控制" />
-      <item value="Use ReadLock And CAS And SpinBlock Ensure Thread Safe" />
-      <item value="compare Swap Count" />
-      <item value="errors" />
-      <item value="with" />
-      <item value="completed" />
-      <item value="build" />
-      <item value="Auto" />
-      <item value="Activity Publish Views Limit Expires Flag" />
+      <item value="Soft Ref LRU Policy MS Per MB" />
+      <item value="thread Pool Executor" />
+      <item value="execute" />
+      <item value="MM" />
+      <item value="yyyy" />
+      <item value="payment Date" />
+      <item value="prepare Context" />
+      <item value="The following profiles are active: localhost" />
+      <item value="from" />
+      <item value="sq List" />
+      <item value="restarted Main" />
+      <item value="Apache" />
+      <item value="engine" />
+      <item value="Servlet" />
+      <item value="Standard Engine" />
+      <item value="Starting" />
+      <item value="embedded" />
+      <item value="Initializing" />
+      <item value="Spring" />
+      <item value="Web Application Context" />
+      <item value="ALLOW SUBSCRIBE" />
+      <item value="devlop service" />
+      <item value="Druid Data Source" />
+      <item value="is deleted" />
+      <item value="combiner" />
+      <item value="Characteristics" />
+      <item value="Sys Organization" />
+      <item value="Warn: Could not find @TableId in Class" />
+      <item value="init Table Fields" />
+      <item value="Job Factory" />
+      <item value="set Job Factory" />
+      <item value="Quartz Scheduler" />
+      <item value="Http 11 Nio Protocol" />
+      <item value="get Entry After Miss" />
+      <item value="Thread safe - The In WriteLock-Block Inner Use" />
+      <item value="Locks" />
+      <item value="Core" />
       <item value="REFRESH REDIS TRANSFER TO DB LOCK" />
-      <item value="single Increment Views" />
-      <item value="limit Views Ids" />
-      <item value="pro Data Ledger" />
-      <item value="Table Data Info" />
-      <item value="use Unit" />
-      <item value="13336" />
-      <item value="mysql" />
-      <item value="jdbc" />
-      <item value="szysdx 383" />
-      <item value="password" />
-      <item value="get Native Request" />
-      <item value="Multipart Http Servlet Request" />
-      <item value="Prefer Servlet Part resolution to cover file as well as parameter streams" />
-      <item value="to Int Exact" />
+      <item value="Activity Views Schedule Task" />
+      <item value="Activity Views Limit" />
+      <item value="activity Publish" />
+      <item value="success" />
+      <item value="Ajax Result" />
+      <item value="String Utils" />
+      <item value="is Not Empty" />
+      <item value="activity Project Service" />
+      <item value="Query Wrapper" />
+      <item value="Execute Period Task , But No Refresh" />
+      <item value="SECONDS" />
+      <item value="定时执行刷新访问量入库信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
-        <entry key="FRENCH" value="3" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="608" />
+        <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
