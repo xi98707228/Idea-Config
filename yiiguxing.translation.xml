@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="File Copy Utils" />
       <item value="user Id" />
       <item value="DESKTOP" />
       <item value="Delayed Work Queue" />
@@ -1032,7 +1033,6 @@
       <item value="Activity Views Schedule Task" />
       <item value="Activity Views Limit" />
       <item value="activity Publish" />
-      <item value="success" />
     </histories>
     <option name="languageScores">
       <map>
