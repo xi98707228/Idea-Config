@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="DESKTOP" />
+      <item value="Delayed Work Queue" />
       <item value="happen Amount" />
       <item value="login User" />
       <item value="lambdainitialization Internal Number 14" />
@@ -1031,13 +1033,11 @@
       <item value="Activity Views Limit" />
       <item value="activity Publish" />
       <item value="success" />
-      <item value="Ajax Result" />
-      <item value="String Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="618" />
+        <entry key="ENGLISH" value="619" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
