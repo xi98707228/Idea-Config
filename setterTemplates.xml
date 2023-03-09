@@ -1,5 +1,3 @@
 <application>
-  <component name="SetterTemplates">
-    <option name="defaultTempalteName" value="IntelliJ Default" />
-  </component>
+  <component name="SetterTemplates" defaultTemplateName="Builder" />
 </application>
