@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="需要减额的数值" />
+      <item value="其待收款" />
+      <item value="Custom Contract Cost Plan Record" />
+      <item value="get Relation Cost" />
+      <item value="Named Pipe Socket Factory" />
       <item value="actual Cost" />
       <item value="get Statistical Customer Tree" />
       <item value="modify Record Item" />
@@ -1028,16 +1033,11 @@
       <item value="Sys Organization" />
       <item value="Warn: Could not find @TableId in Class" />
       <item value="init Table Fields" />
-      <item value="Job Factory" />
-      <item value="set Job Factory" />
-      <item value="Http 11 Nio Protocol" />
-      <item value="get Entry After Miss" />
-      <item value="Thread safe - The In WriteLock-Block Inner Use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="630" />
+        <entry key="ENGLISH" value="630" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
