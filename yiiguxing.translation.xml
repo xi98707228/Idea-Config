@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="start Page" />
+      <item value="query Cost Order List" />
       <item value="Arrays" />
       <item value="用户合同模块" />
       <item value="couchbase" />
@@ -1031,13 +1033,11 @@
       <item value="Web Application Context" />
       <item value="ALLOW SUBSCRIBE" />
       <item value="devlop service" />
-      <item value="Druid Data Source" />
-      <item value="is deleted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="636" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
