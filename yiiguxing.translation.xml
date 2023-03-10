@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="related Bank Account Map" />
       <item value="start Page" />
       <item value="query Cost Order List" />
       <item value="Arrays" />
@@ -1032,12 +1033,11 @@
       <item value="Spring" />
       <item value="Web Application Context" />
       <item value="ALLOW SUBSCRIBE" />
-      <item value="devlop service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
