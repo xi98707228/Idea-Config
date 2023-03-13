@@ -983,13 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="query Cost Order List" />
+      <item value="V Cost Order" />
+      <item value="start Page" />
       <item value="收款日期" />
       <item value="parallel Search Latch" />
       <item value="original Amount" />
       <item value="operate Account" />
       <item value="related Bank Account Map" />
-      <item value="start Page" />
-      <item value="query Cost Order List" />
       <item value="Arrays" />
       <item value="用户合同模块" />
       <item value="couchbase" />
@@ -1032,12 +1033,11 @@
       <item value="Servlet" />
       <item value="Standard Engine" />
       <item value="Starting" />
-      <item value="embedded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
