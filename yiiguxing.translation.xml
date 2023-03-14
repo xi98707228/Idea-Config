@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Clock" />
+      <item value="Instant" />
+      <item value="其他的被观察者实现" />
       <item value="Observer" />
       <item value="Quack Observable" />
       <item value="last Packet Received Idle Millis" />
@@ -1030,14 +1033,11 @@
       <item value="contract Adder" />
       <item value="File Copy Utils" />
       <item value="user Id" />
-      <item value="DESKTOP" />
-      <item value="Delayed Work Queue" />
-      <item value="happen Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
