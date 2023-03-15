@@ -983,9 +983,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="clinit" />
+      <item value="Version" />
+      <item value="socket" />
+      <item value="transport" />
+      <item value="Examine Project Purchase Order Process Service" />
+      <item value="examine Project Purchase Order Process Service" />
+      <item value="判断流程是否到达了返回申请人的环节" />
+      <item value="status Process Engine" />
+      <item value="examine Supplier Payment Process Service" />
+      <item value="yyyy" />
+      <item value="MM" />
+      <item value="pattern" />
+      <item value="bank Account Id" />
+      <item value="payment Time" />
+      <item value="打款时间" />
       <item value="process Trigger Update Event" />
       <item value="stereotype" />
-      <item value="status Process Engine" />
       <item value="Dispatcher Servlet" />
       <item value="item" />
       <item value="payment Way" />
@@ -1019,25 +1033,11 @@
       <item value="Druid Abstract Data Source" />
       <item value="helper class should not have a public constructor" />
       <item value="touch" />
-      <item value="duration Threshold" />
-      <item value="query Cost Order List" />
-      <item value="V Cost Order" />
-      <item value="start Page" />
-      <item value="收款日期" />
-      <item value="parallel Search Latch" />
-      <item value="original Amount" />
-      <item value="operate Account" />
-      <item value="related Bank Account Map" />
-      <item value="Arrays" />
-      <item value="用户合同模块" />
-      <item value="couchbase" />
-      <item value="modify Lock" />
-      <item value="modify Locked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
