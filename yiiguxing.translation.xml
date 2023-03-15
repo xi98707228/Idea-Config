@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="add Merged Region" />
       <item value="Clock" />
       <item value="Instant" />
       <item value="其他的被观察者实现" />
@@ -1032,12 +1033,11 @@
       <item value="反之则只靠当前收款计划不够" />
       <item value="contract Adder" />
       <item value="File Copy Utils" />
-      <item value="user Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="669" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
