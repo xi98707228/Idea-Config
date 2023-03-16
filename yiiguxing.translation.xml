@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="vusers Next" />
       <item value="is Multi Instance" />
       <item value="Finance Supplier Payment Tick Relation" />
       <item value="payment Tick Relation" />
@@ -1032,7 +1033,6 @@
       <item value="payment Way" />
       <item value="Merged region G12 must contain 2 or more cells" />
       <item value="Merged region F18 must contain 2 or more cells" />
-      <item value="Merged region G18 must contain 2 or more cells" />
     </histories>
     <option name="languageScores">
       <map>
