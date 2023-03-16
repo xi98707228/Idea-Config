@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="payment Tick Row Id" />
+      <item value="项目采购订单row Id" />
       <item value="Finance Supplier Payment Tick" />
       <item value="回滚刚才提交的流程步骤" />
       <item value="直接删除当前报销流程记录" />
@@ -1031,13 +1033,11 @@
       <item value="threshold" />
       <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
       <item value="Additionally" />
-      <item value="each" />
-      <item value="Scanning for api listing references" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="706" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
