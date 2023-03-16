@@ -983,11 +983,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="count Down" />
+      <item value="supplier Payment Tick" />
+      <item value="set Approve Cost" />
+      <item value="contract Really Cost" />
+      <item value="contract Should Cost" />
+      <item value="approve Cost" />
+      <item value="i" />
+      <item value="already Invoice Amount" />
+      <item value="start Process" />
+      <item value="process Key" />
+      <item value="Finance Supplier Payment Tick" />
+      <item value="累加流程审批中的金额" />
+      <item value="Finance Supplier New Payment Bill Relation" />
       <item value="获取其关联的所有付款信息" />
       <item value="根据供货商付款单row Id" />
       <item value="payment Tick Row Id" />
       <item value="项目采购订单row Id" />
-      <item value="Finance Supplier Payment Tick" />
       <item value="回滚刚才提交的流程步骤" />
       <item value="直接删除当前报销流程记录" />
       <item value="Validator" />
@@ -1021,23 +1033,11 @@
       <item value="use Where" />
       <item value="add Merged Region" />
       <item value="Clock" />
-      <item value="Instant" />
-      <item value="其他的被观察者实现" />
-      <item value="Observer" />
-      <item value="Quack Observable" />
-      <item value="last Packet Received Idle Millis" />
-      <item value="discard long time none received connection" />
-      <item value="get Unique Identifier" />
-      <item value="Property Sourced Request Mapping Handler Mapping" />
-      <item value="load Factor" />
-      <item value="zero initial threshold signifies using defaults" />
-      <item value="initial capacity was placed in threshold" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="707" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
