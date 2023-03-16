@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Future Status - Async Methods" />
+      <item value="Status Process Engine" />
+      <item value="check Current Process Is End" />
+      <item value="thread Pool Task Executor" />
+      <item value="examine Supplier Payment Process Service" />
       <item value="embedded" />
       <item value="Web Application Context" />
       <item value="vusers Next" />
@@ -1021,7 +1026,6 @@
       <item value="examine Project Purchase Order Process Service" />
       <item value="判断流程是否到达了返回申请人的环节" />
       <item value="status Process Engine" />
-      <item value="examine Supplier Payment Process Service" />
       <item value="yyyy" />
       <item value="MM" />
       <item value="pattern" />
@@ -1029,15 +1033,11 @@
       <item value="payment Time" />
       <item value="打款时间" />
       <item value="process Trigger Update Event" />
-      <item value="stereotype" />
-      <item value="Dispatcher Servlet" />
-      <item value="item" />
-      <item value="payment Way" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="732" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
