@@ -983,8 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="start Process" />
+      <item value="Finance Supplier Payment Tick Relation" />
       <item value="payment Tick Relation" />
+      <item value="finance Supplier Payment Tick" />
+      <item value="Finance Supplier Payment Tick" />
+      <item value="start Process" />
       <item value="approve Accept" />
       <item value="count Down" />
       <item value="supplier Payment Tick" />
@@ -995,7 +998,6 @@
       <item value="i" />
       <item value="already Invoice Amount" />
       <item value="process Key" />
-      <item value="Finance Supplier Payment Tick" />
       <item value="累加流程审批中的金额" />
       <item value="Finance Supplier New Payment Bill Relation" />
       <item value="获取其关联的所有付款信息" />
@@ -1031,13 +1033,11 @@
       <item value="Merged region F18 must contain 2 or more cells" />
       <item value="Merged region G18 must contain 2 or more cells" />
       <item value="temp List" />
-      <item value="query Reimbursement Pool Data Ids" />
-      <item value="use Where" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
