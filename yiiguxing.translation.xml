@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="embedded" />
+      <item value="Web Application Context" />
       <item value="vusers Next" />
       <item value="is Multi Instance" />
       <item value="Finance Supplier Payment Tick Relation" />
@@ -1031,13 +1033,11 @@
       <item value="Dispatcher Servlet" />
       <item value="item" />
       <item value="payment Way" />
-      <item value="Merged region G12 must contain 2 or more cells" />
-      <item value="Merged region F18 must contain 2 or more cells" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="731" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
