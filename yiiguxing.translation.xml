@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Examine Supplier Payment Process" />
       <item value="collect Statistics Map" />
       <item value="print If Info Enabled" />
       <item value="Nacos Property Source Builder" />
@@ -1032,12 +1033,11 @@
       <item value="Version" />
       <item value="target" />
       <item value="socket" />
-      <item value="transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
