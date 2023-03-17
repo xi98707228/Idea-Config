@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="clinit" />
       <item value="判断流程是否到达了返回申请人的环节" />
       <item value="Future Status - Async Methods" />
       <item value="Status Process Engine" />
@@ -1020,7 +1021,6 @@
       <item value="Hibernate" />
       <item value="Version" />
       <item value="target" />
-      <item value="clinit" />
       <item value="socket" />
       <item value="transport" />
       <item value="Examine Project Purchase Order Process Service" />
@@ -1036,8 +1036,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
