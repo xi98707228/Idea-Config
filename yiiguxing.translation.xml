@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="take Part In User Nick" />
+      <item value="The" />
+      <item value="following" />
+      <item value="log Startup Profile Info" />
+      <item value="Develop Client Application" />
       <item value="Objects" />
       <item value="user 1" />
       <item value="clinit" />
@@ -1028,16 +1033,11 @@
       <item value="Examine Project Purchase Order Process Service" />
       <item value="examine Project Purchase Order Process Service" />
       <item value="status Process Engine" />
-      <item value="yyyy" />
-      <item value="MM" />
-      <item value="pattern" />
-      <item value="bank Account Id" />
-      <item value="payment Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
