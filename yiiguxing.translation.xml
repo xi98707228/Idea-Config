@@ -983,10 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Payment Date" />
+      <item value="process" />
+      <item value="payment" />
+      <item value="get Store Payment Process Relation Data List" />
+      <item value="payment Tick Relation" />
+      <item value="supplier Payment Tick" />
+      <item value="approve Passed Trigger Synchro Add New Payment Bill" />
+      <item value="审批流关联的数据信息" />
+      <item value="Finance Supplier Payment Tick Relation" />
+      <item value="examine Relation Source List" />
       <item value="payment Bill Relation List" />
       <item value="new" />
       <item value="出纳确认付款则更新当前付款单信息" />
-      <item value="payment Tick Relation" />
       <item value="approve Passed Trigger Update Payment Tick Event" />
       <item value="Localized IntelliJ IDEA 2021.3.1 is available" />
       <item value="supplier New Payment Bill" />
@@ -1014,30 +1023,21 @@
       <item value="Web Application Context" />
       <item value="vusers Next" />
       <item value="is Multi Instance" />
-      <item value="Finance Supplier Payment Tick Relation" />
       <item value="finance Supplier Payment Tick" />
       <item value="Finance Supplier Payment Tick" />
       <item value="start Process" />
       <item value="approve Accept" />
       <item value="count Down" />
-      <item value="supplier Payment Tick" />
       <item value="set Approve Cost" />
       <item value="contract Really Cost" />
       <item value="contract Should Cost" />
       <item value="approve Cost" />
       <item value="i" />
-      <item value="already Invoice Amount" />
-      <item value="process Key" />
-      <item value="累加流程审批中的金额" />
-      <item value="Finance Supplier New Payment Bill Relation" />
-      <item value="获取其关联的所有付款信息" />
-      <item value="根据供货商付款单row Id" />
-      <item value="payment Tick Row Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="769" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
