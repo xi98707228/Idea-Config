@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="account Id" />
       <item value="is Same Thread" />
       <item value="test Connection Internal" />
       <item value="Class Path Mapper Scanner" />
@@ -1032,12 +1033,11 @@
       <item value="Finance Supplier Payment Tick" />
       <item value="start Process" />
       <item value="approve Accept" />
-      <item value="count Down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
