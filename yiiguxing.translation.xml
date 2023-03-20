@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="payment Bill Relation List" />
+      <item value="new" />
+      <item value="出纳确认付款则更新当前付款单信息" />
+      <item value="payment Tick Relation" />
+      <item value="approve Passed Trigger Update Payment Tick Event" />
       <item value="Localized IntelliJ IDEA 2021.3.1 is available" />
       <item value="supplier New Payment Bill" />
       <item value="finance Supplier New Payment Bill Service" />
@@ -1010,7 +1015,6 @@
       <item value="vusers Next" />
       <item value="is Multi Instance" />
       <item value="Finance Supplier Payment Tick Relation" />
-      <item value="payment Tick Relation" />
       <item value="finance Supplier Payment Tick" />
       <item value="Finance Supplier Payment Tick" />
       <item value="start Process" />
@@ -1029,15 +1033,11 @@
       <item value="获取其关联的所有付款信息" />
       <item value="根据供货商付款单row Id" />
       <item value="payment Tick Row Id" />
-      <item value="项目采购订单row Id" />
-      <item value="回滚刚才提交的流程步骤" />
-      <item value="直接删除当前报销流程记录" />
-      <item value="Validator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
