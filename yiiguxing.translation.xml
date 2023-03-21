@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table Fields" />
+      <item value="process Inst Id" />
       <item value="account Id" />
       <item value="is Same Thread" />
       <item value="test Connection Internal" />
@@ -1031,13 +1033,11 @@
       <item value="is Multi Instance" />
       <item value="finance Supplier Payment Tick" />
       <item value="Finance Supplier Payment Tick" />
-      <item value="start Process" />
-      <item value="approve Accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
-        <entry key="ENGLISH" value="775" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="776" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
