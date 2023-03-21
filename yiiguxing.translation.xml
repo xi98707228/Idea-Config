@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678326415516" />
+    <option name="lastTrimTime" value="1678765190891" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,61 +983,61 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="couchbase" />
-      <item value="modify Lock" />
-      <item value="modify Locked" />
-      <item value="需要减额的数值" />
-      <item value="其待收款" />
-      <item value="Custom Contract Cost Plan Record" />
-      <item value="get Relation Cost" />
-      <item value="Named Pipe Socket Factory" />
-      <item value="actual Cost" />
-      <item value="get Statistical Customer Tree" />
-      <item value="modify Record Item" />
-      <item value="part Payment Collect" />
-      <item value="反之则只靠当前收款计划不够" />
-      <item value="contract Adder" />
-      <item value="File Copy Utils" />
-      <item value="user Id" />
-      <item value="DESKTOP" />
-      <item value="Delayed Work Queue" />
-      <item value="happen Amount" />
-      <item value="login User" />
-      <item value="lambdainitialization Internal Number 14" />
-      <item value="receive Organization Id" />
-      <item value="Quartz Scheduler" />
-      <item value="payment Amount" />
-      <item value="Soft Ref LRU Policy MS Per MB" />
-      <item value="thread Pool Executor" />
-      <item value="execute" />
-      <item value="MM" />
-      <item value="yyyy" />
-      <item value="payment Date" />
-      <item value="prepare Context" />
-      <item value="The following profiles are active: localhost" />
-      <item value="from" />
-      <item value="sq List" />
-      <item value="restarted Main" />
-      <item value="Apache" />
-      <item value="engine" />
-      <item value="Servlet" />
-      <item value="Standard Engine" />
-      <item value="Starting" />
+      <item value="singleton" />
+      <item value="Examine Supplier Payment Process" />
+      <item value="collect Statistics Map" />
+      <item value="print If Info Enabled" />
+      <item value="Nacos Property Source Builder" />
+      <item value="take Part In User Nick" />
+      <item value="The" />
+      <item value="following" />
+      <item value="log Startup Profile Info" />
+      <item value="Develop Client Application" />
+      <item value="Objects" />
+      <item value="user 1" />
+      <item value="clinit" />
+      <item value="判断流程是否到达了返回申请人的环节" />
+      <item value="Future Status - Async Methods" />
+      <item value="Status Process Engine" />
+      <item value="check Current Process Is End" />
+      <item value="thread Pool Task Executor" />
+      <item value="examine Supplier Payment Process Service" />
       <item value="embedded" />
-      <item value="Initializing" />
-      <item value="Spring" />
       <item value="Web Application Context" />
-      <item value="ALLOW SUBSCRIBE" />
-      <item value="devlop service" />
-      <item value="Druid Data Source" />
-      <item value="is deleted" />
-      <item value="combiner" />
-      <item value="Characteristics" />
+      <item value="vusers Next" />
+      <item value="is Multi Instance" />
+      <item value="Finance Supplier Payment Tick Relation" />
+      <item value="payment Tick Relation" />
+      <item value="finance Supplier Payment Tick" />
+      <item value="Finance Supplier Payment Tick" />
+      <item value="start Process" />
+      <item value="approve Accept" />
+      <item value="count Down" />
+      <item value="supplier Payment Tick" />
+      <item value="set Approve Cost" />
+      <item value="contract Really Cost" />
+      <item value="contract Should Cost" />
+      <item value="approve Cost" />
+      <item value="i" />
+      <item value="already Invoice Amount" />
+      <item value="process Key" />
+      <item value="累加流程审批中的金额" />
+      <item value="Finance Supplier New Payment Bill Relation" />
+      <item value="获取其关联的所有付款信息" />
+      <item value="根据供货商付款单row Id" />
+      <item value="payment Tick Row Id" />
+      <item value="项目采购订单row Id" />
+      <item value="回滚刚才提交的流程步骤" />
+      <item value="直接删除当前报销流程记录" />
+      <item value="Validator" />
+      <item value="Hibernate" />
+      <item value="Version" />
+      <item value="target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
