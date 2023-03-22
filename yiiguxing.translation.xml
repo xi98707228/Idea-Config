@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="recursion Fn" />
       <item value="finance Supplier New Payment Bill Service" />
       <item value="supplier New Payment Bill Row Id" />
       <item value="devlop service server" />
@@ -1032,12 +1033,11 @@
       <item value="Future Status - Async Methods" />
       <item value="Status Process Engine" />
       <item value="check Current Process Is End" />
-      <item value="examine Supplier Payment Process Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="784" />
+        <entry key="ENGLISH" value="785" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="2" />
