@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ALREADY REVIEWER" />
+      <item value="HAS REVIEWER" />
+      <item value="reviewer Status" />
       <item value="inited" />
       <item value="insert Borrow Money User Info" />
       <item value="finance Borrow Money User Service" />
@@ -1030,14 +1033,11 @@
       <item value="finance Supplier New Payment Bill Relation Service" />
       <item value="Finance Supplier New Payment Bill Relation Service" />
       <item value="set Payment Date" />
-      <item value="process" />
-      <item value="payment" />
-      <item value="get Store Payment Process Relation Data List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="812" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
