@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679490876680" />
+    <option name="lastTrimTime" value="1679276421376" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,64 +983,64 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="transfer Index是从高索引位置到低索引位置领取数据的一个核心属性" />
-      <item value="transfer Index" />
+      <item value="Buchholz" />
+      <item value="When pool is empty" />
+      <item value="Execution Exception" />
+      <item value="Abstract Executor Service" />
+      <item value="Executor Completion Service" />
+      <item value="bytebuddy" />
+      <item value="Queueing Future" />
+      <item value="Completion Service" />
+      <item value="real time refresh" />
+      <item value="expect Instance" />
+      <item value="get Process Advice Strategy" />
+      <item value="Completion" />
+      <item value="report 1 even if threads disabled" />
+      <item value="parallelism" />
+      <item value="get Process Active Def Mapping User By Template Id" />
+      <item value="recursion Fn" />
+      <item value="finance Supplier New Payment Bill Service" />
+      <item value="supplier New Payment Bill Row Id" />
+      <item value="devlop service server" />
+      <item value="target Object" />
+      <item value="status Process Engine" />
+      <item value="check Current Active Segment Is Input Expect" />
+      <item value="thread Pool Task Executor" />
+      <item value="PREFIX ROLLBACK RULE" />
+      <item value="init Table Fields" />
+      <item value="process Inst Id" />
+      <item value="account Id" />
+      <item value="is Same Thread" />
+      <item value="test Connection Internal" />
+      <item value="Class Path Mapper Scanner" />
+      <item value="finance Supplier New Payment Bill Relation Service" />
+      <item value="Finance Supplier New Payment Bill Relation Service" />
+      <item value="set Payment Date" />
+      <item value="process" />
+      <item value="payment" />
+      <item value="get Store Payment Process Relation Data List" />
+      <item value="payment Tick Relation" />
+      <item value="supplier Payment Tick" />
+      <item value="approve Passed Trigger Synchro Add New Payment Bill" />
+      <item value="审批流关联的数据信息" />
+      <item value="Finance Supplier Payment Tick Relation" />
+      <item value="examine Relation Source List" />
+      <item value="payment Bill Relation List" />
+      <item value="new" />
+      <item value="出纳确认付款则更新当前付款单信息" />
+      <item value="approve Passed Trigger Update Payment Tick Event" />
+      <item value="Localized IntelliJ IDEA 2021.3.1 is available" />
+      <item value="supplier New Payment Bill" />
       <item value="singleton" />
       <item value="Examine Supplier Payment Process" />
-      <item value="collect Statistics Map" />
-      <item value="print If Info Enabled" />
-      <item value="Nacos Property Source Builder" />
-      <item value="take Part In User Nick" />
-      <item value="The" />
-      <item value="following" />
-      <item value="log Startup Profile Info" />
-      <item value="Develop Client Application" />
-      <item value="Objects" />
-      <item value="user 1" />
-      <item value="clinit" />
-      <item value="判断流程是否到达了返回申请人的环节" />
-      <item value="Future Status - Async Methods" />
-      <item value="Status Process Engine" />
-      <item value="check Current Process Is End" />
-      <item value="thread Pool Task Executor" />
-      <item value="examine Supplier Payment Process Service" />
-      <item value="embedded" />
-      <item value="Web Application Context" />
-      <item value="vusers Next" />
-      <item value="is Multi Instance" />
-      <item value="Finance Supplier Payment Tick Relation" />
-      <item value="payment Tick Relation" />
-      <item value="finance Supplier Payment Tick" />
-      <item value="Finance Supplier Payment Tick" />
-      <item value="start Process" />
-      <item value="approve Accept" />
-      <item value="count Down" />
-      <item value="supplier Payment Tick" />
-      <item value="set Approve Cost" />
-      <item value="contract Really Cost" />
-      <item value="contract Should Cost" />
-      <item value="approve Cost" />
-      <item value="i" />
-      <item value="already Invoice Amount" />
-      <item value="process Key" />
-      <item value="累加流程审批中的金额" />
-      <item value="Finance Supplier New Payment Bill Relation" />
-      <item value="获取其关联的所有付款信息" />
-      <item value="根据供货商付款单row Id" />
-      <item value="payment Tick Row Id" />
-      <item value="项目采购订单row Id" />
-      <item value="回滚刚才提交的流程步骤" />
-      <item value="直接删除当前报销流程记录" />
-      <item value="Validator" />
-      <item value="Hibernate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="752" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="797" />
+        <entry key="ENGLISH" value="797" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="1" />
       </map>
