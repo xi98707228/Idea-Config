@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Starting Servlet engine" />
+      <item value="engine" />
       <item value="ALREADY REVIEWER" />
       <item value="HAS REVIEWER" />
       <item value="reviewer Status" />
@@ -1031,13 +1033,11 @@
       <item value="test Connection Internal" />
       <item value="Class Path Mapper Scanner" />
       <item value="finance Supplier New Payment Bill Relation Service" />
-      <item value="Finance Supplier New Payment Bill Relation Service" />
-      <item value="set Payment Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
