@@ -5,6 +5,7 @@
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="numberOfColors" value="100" />
     <option name="suppressBigFileCheck" value="true" />
+    <option name="suppressXMLCheck" value="true" />
     <option name="version" value="2023.2.6-ij" />
   </component>
 </application>
