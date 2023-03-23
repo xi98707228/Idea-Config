@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table Fields" />
       <item value="Could" />
       <item value="Heart Beat Reaction" />
       <item value="EXAMINE PROCESS REIMBURSEMENT" />
@@ -993,7 +994,6 @@
       <item value="V Cost Order" />
       <item value="get Sequence Number" />
       <item value="Environment Capable" />
-      <item value="init Table Fields" />
       <item value="Starting Servlet engine" />
       <item value="engine" />
       <item value="ALREADY REVIEWER" />
@@ -1036,8 +1036,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="825" />
+        <entry key="ENGLISH" value="826" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
