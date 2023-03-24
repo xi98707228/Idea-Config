@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="remove runnint advice is empty Start return Empty Array" />
+      <item value="residue Step" />
+      <item value="Application Constant Values" />
       <item value="Universe Task" />
       <item value="Hotspot Unsafe" />
       <item value="Virtual Machine" />
@@ -1030,14 +1033,11 @@
       <item value="Finance Borrow Money User Controller" />
       <item value="is Not Empty" />
       <item value="Finance Borrow Money User" />
-      <item value="Buchholz" />
-      <item value="When pool is empty" />
-      <item value="Execution Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
