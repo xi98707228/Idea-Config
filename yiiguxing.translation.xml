@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679276421376" />
+    <option name="lastTrimTime" value="1679880082604" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="login User" />
+      <item value="submit Object" />
+      <item value="Examine Personal Reimbursement" />
+      <item value="target Object" />
+      <item value="login User Nick Name" />
+      <item value="reimbursement Order Ids" />
+      <item value="thread" />
       <item value="remove runnint advice is empty Start return Empty Array" />
       <item value="residue Step" />
       <item value="Application Constant Values" />
@@ -1026,18 +1033,11 @@
       <item value="borrow Balance" />
       <item value="compare To" />
       <item value="set Payment Time" />
-      <item value="execute Offset Borrow Money" />
-      <item value="approval Amount" />
-      <item value="wait Change Status List" />
-      <item value="select Borrow Money Balance By User Id" />
-      <item value="Finance Borrow Money User Controller" />
-      <item value="is Not Empty" />
-      <item value="Finance Borrow Money User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="854" />
         <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
