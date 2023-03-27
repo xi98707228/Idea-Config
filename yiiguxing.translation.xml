@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="resolve Duration Time To Except Level" />
+      <item value="negative Zero Float Bits" />
+      <item value="Strict Math" />
+      <item value="unascribed" />
+      <item value="instantiate" />
+      <item value="string Length" />
+      <item value="i一直在动其实就相当于是右窗口了" />
+      <item value="Map存在当前字符" />
+      <item value="本次左窗口需要跳转到的索引下标" />
+      <item value="left Window Index" />
+      <item value="store Char Index Map" />
+      <item value="result Max Length" />
+      <item value="iter Char" />
       <item value="sliding Window" />
       <item value="set Update Time" />
       <item value="附件Ids" />
@@ -1020,25 +1033,12 @@
       <item value="Heart Beat Reaction" />
       <item value="EXAMINE PROCESS REIMBURSEMENT" />
       <item value="Map" />
-      <item value="Starting without optional kqueue library" />
-      <item value="Kqueue Provider" />
-      <item value="Objects" />
-      <item value="V Cost Order" />
-      <item value="get Sequence Number" />
-      <item value="Environment Capable" />
-      <item value="Starting Servlet engine" />
-      <item value="engine" />
-      <item value="ALREADY REVIEWER" />
-      <item value="HAS REVIEWER" />
-      <item value="reviewer Status" />
-      <item value="inited" />
-      <item value="insert Borrow Money User Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="858" />
-        <entry key="FRENCH" value="4" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
+        <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="ROMANIAN" value="2" />
