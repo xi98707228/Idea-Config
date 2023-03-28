@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Instrumentation Load Time Weaver" />
+      <item value="Annotation Aware Aspect J Auto Proxy Creator" />
+      <item value="Aspect J Aware Advisor Auto Proxy Creator" />
+      <item value="Infrastructure Advisor Auto Proxy Creator" />
+      <item value="set Overloaded" />
+      <item value="ROLE APPLICATION" />
+      <item value="ROLE SUPPORT" />
+      <item value="ROLE INFRASTRUCTURE" />
+      <item value="register Auto Proxy Creator If Necessary" />
+      <item value="Frank Yellin" />
+      <item value="Aspect Exception" />
+      <item value="Rod Johnson" />
+      <item value="Rob Harrop" />
       <item value="get Local Map" />
       <item value="Transmittable Thread Local" />
       <item value="add This To Holder" />
@@ -1020,25 +1033,12 @@
       <item value="store Char Index Map" />
       <item value="result Max Length" />
       <item value="iter Char" />
-      <item value="sliding Window" />
-      <item value="set Update Time" />
-      <item value="附件Ids" />
-      <item value="最后应该存在数据库中的" />
-      <item value="save Attachment Ids" />
-      <item value="login User" />
-      <item value="submit Object" />
-      <item value="Examine Personal Reimbursement" />
-      <item value="target Object" />
-      <item value="login User Nick Name" />
-      <item value="reimbursement Order Ids" />
-      <item value="thread" />
-      <item value="remove runnint advice is empty Start return Empty Array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
+        <entry key="CHINESE" value="909" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="ENGLISH" value="910" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
