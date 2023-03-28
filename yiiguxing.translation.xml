@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="digest" />
       <item value="Instrumentation Load Time Weaver" />
       <item value="Annotation Aware Aspect J Auto Proxy Creator" />
       <item value="Aspect J Aware Advisor Auto Proxy Creator" />
@@ -1032,13 +1033,12 @@
       <item value="left Window Index" />
       <item value="store Char Index Map" />
       <item value="result Max Length" />
-      <item value="iter Char" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
+        <entry key="CHINESE" value="910" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
