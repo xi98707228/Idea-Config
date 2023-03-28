@@ -983,6 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="volunteer Information" />
+      <item value="Table Data Info" />
+      <item value="Get Mapping" />
+      <item value="list" />
+      <item value="Volunteer Information" />
+      <item value="get Data Table" />
       <item value="export" />
       <item value="manage" />
       <item value="volunteer" />
@@ -1027,17 +1033,11 @@
       <item value="additional Characteristics" />
       <item value="Spliterator" />
       <item value="Callable Statement" />
-      <item value="Sequence Number Generic" />
-      <item value="Application Sequence Manager Class Packages" />
-      <item value="All" />
-      <item value="date" />
-      <item value="from" />
-      <item value="mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="876" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
