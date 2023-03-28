@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="to Int Exact" />
+      <item value="Secure Util" />
+      <item value="NZ Wind Op" />
+      <item value="add User Id" />
       <item value="volunteer Information" />
       <item value="Table Data Info" />
       <item value="Get Mapping" />
@@ -1029,15 +1033,12 @@
       <item value="Hotspot Unsafe" />
       <item value="Virtual Machine" />
       <item value="param Name" />
-      <item value="quotepath" />
-      <item value="additional Characteristics" />
-      <item value="Spliterator" />
-      <item value="Callable Statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="886" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ENGLISH" value="887" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
