@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="export" />
+      <item value="manage" />
+      <item value="volunteer" />
+      <item value="Schedule" />
+      <item value="schedule Execute Views" />
       <item value="enable Transaction Support" />
       <item value="当前条件下" />
       <item value="当前字串不匹配为回文字串" />
@@ -1028,16 +1033,11 @@
       <item value="date" />
       <item value="from" />
       <item value="mapping" />
-      <item value="the previous value associated with &lt;tt&gt;key&lt;tt&gt;, or &lt;tt&gt;null&lt;tt&gt; if there was no mapping for &lt;tt&gt;key&lt;tt&gt;. (A &lt;tt&gt;null&lt;tt&gt; return can also indicate that the map previously associated &lt;tt&gt;null&lt;tt&gt; with &lt;tt&gt;key&lt;tt&gt;, if the implementation supports &lt;tt&gt;null&lt;tt&gt; values.)" />
-      <item value="sequence Number Generic" />
-      <item value="获取当前应显示的销售发票编号" />
-      <item value="init Table Fields" />
-      <item value="Could" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
