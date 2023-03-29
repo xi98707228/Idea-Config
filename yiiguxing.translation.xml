@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data And Limit Group Map" />
+      <item value="operate Data" />
       <item value="digest" />
       <item value="Instrumentation Load Time Weaver" />
       <item value="Annotation Aware Aspect J Auto Proxy Creator" />
@@ -1031,14 +1033,12 @@
       <item value="Map存在当前字符" />
       <item value="本次左窗口需要跳转到的索引下标" />
       <item value="left Window Index" />
-      <item value="store Char Index Map" />
-      <item value="result Max Length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
+        <entry key="CHINESE" value="911" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="ENGLISH" value="912" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
