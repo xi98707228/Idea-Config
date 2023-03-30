@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String" />
+      <item value="get Flight" />
+      <item value="JDBC Link" />
+      <item value="list" />
+      <item value="Datagram Packet" />
+      <item value="flight" />
+      <item value="Array List" />
       <item value="Jdbc Util" />
       <item value="customconfigurationquery" />
       <item value="data And Limit Group Map" />
@@ -1014,7 +1021,6 @@
       <item value="volunteer Information" />
       <item value="Table Data Info" />
       <item value="Get Mapping" />
-      <item value="list" />
       <item value="Volunteer Information" />
       <item value="get Data Table" />
       <item value="export" />
@@ -1027,18 +1033,12 @@
       <item value="当前字串不匹配为回文字串" />
       <item value="resolve Duration Time To Except Level" />
       <item value="negative Zero Float Bits" />
-      <item value="Strict Math" />
-      <item value="unascribed" />
-      <item value="instantiate" />
-      <item value="string Length" />
-      <item value="i一直在动其实就相当于是右窗口了" />
-      <item value="Map存在当前字符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="913" />
+        <entry key="CHINESE" value="920" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="ENGLISH" value="921" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
