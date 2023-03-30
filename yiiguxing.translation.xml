@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Snowflake Next Id" />
+      <item value="owfla" />
       <item value="String" />
       <item value="get Flight" />
       <item value="JDBC Link" />
@@ -1031,14 +1033,12 @@
       <item value="enable Transaction Support" />
       <item value="当前条件下" />
       <item value="当前字串不匹配为回文字串" />
-      <item value="resolve Duration Time To Except Level" />
-      <item value="negative Zero Float Bits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
+        <entry key="CHINESE" value="922" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="ENGLISH" value="923" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
