@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Hibernate Utils" />
+      <item value="Jdbc Util" />
+      <item value="message" />
+      <item value="status Code" />
       <item value="James Gosling" />
       <item value="process Handle" />
       <item value="check Between" />
@@ -1029,16 +1033,12 @@
       <item value="set Airplane System" />
       <item value="risk Warning Information" />
       <item value="type" />
-      <item value="date" />
-      <item value="new" />
-      <item value="Date" />
-      <item value="warning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
+        <entry key="CHINESE" value="991" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="ENGLISH" value="992" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
