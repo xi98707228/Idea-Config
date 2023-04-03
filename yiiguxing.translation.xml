@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="njzjdbc Table" />
+      <item value="get Row Id" />
+      <item value="table Name" />
+      <item value="njzjdbc Table Manager" />
+      <item value="copy" />
+      <item value="bean Mapper" />
+      <item value="dest" />
       <item value="Hibernate Utils" />
       <item value="Jdbc Util" />
       <item value="message" />
@@ -1026,19 +1033,12 @@
       <item value="contains Redis Cache Str" />
       <item value="calculate Result Display Vo" />
       <item value="获取本次预警的" />
-      <item value="已经处理过则直接走Cache" />
-      <item value="是否是经过Cache" />
-      <item value="Gregorian" />
-      <item value="fast Time" />
-      <item value="set Airplane System" />
-      <item value="risk Warning Information" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="991" />
+        <entry key="CHINESE" value="998" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="992" />
+        <entry key="ENGLISH" value="999" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
