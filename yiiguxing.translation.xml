@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="check Between" />
+      <item value="Snowflake" />
       <item value="global Submit Form Row Id" />
       <item value="获取之前流程的附件ids" />
       <item value="已有报销单" />
@@ -1031,14 +1033,12 @@
       <item value="warning" />
       <item value="url" />
       <item value="set Warning Dialog" />
-      <item value="set Warning Level" />
-      <item value="管理员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
+        <entry key="CHINESE" value="986" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="ENGLISH" value="987" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
