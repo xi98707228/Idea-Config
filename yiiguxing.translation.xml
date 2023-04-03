@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="开始协议处理句柄" />
       <item value="njzjdbc Table" />
       <item value="get Row Id" />
       <item value="table Name" />
@@ -1032,11 +1033,10 @@
       <item value="String containsRedisCacheStr = RedisUtils.get(displayType.getRedisKeyStr(originalTableName));" />
       <item value="contains Redis Cache Str" />
       <item value="calculate Result Display Vo" />
-      <item value="获取本次预警的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
+        <entry key="CHINESE" value="999" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="999" />
         <entry key="FRENCH" value="5" />
