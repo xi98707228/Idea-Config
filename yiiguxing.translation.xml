@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679880082604" />
+    <option name="lastTrimTime" value="1680488742222" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="Druid Abstract Data Source" />
+      <item value="Feng 1680485576719_Misfire Handler" />
+      <item value="Feng 1680485576719_Cluster Manager" />
+      <item value="discard long time none received connection" />
+      <item value="last Packet Received Idle Millis" />
+      <item value="server Timezone" />
+      <item value="zero Date Time Behavior" />
+      <item value="character Encoding" />
+      <item value="devlop service" />
+      <item value="221.6.30.202:13336" />
+      <item value="jdbc:mysql" />
+      <item value="jdbc Url" />
+      <item value="connection" />
+      <item value="test Connection Internal" />
+      <item value="use Unicode" />
       <item value="expand" />
       <item value="One Key Data Base Service" />
       <item value="xlsx 5901460894027858250" />
@@ -1017,28 +1033,12 @@
       <item value="get Flight" />
       <item value="JDBC Link" />
       <item value="list" />
-      <item value="Datagram Packet" />
-      <item value="flight" />
-      <item value="Array List" />
-      <item value="Jdbc Util" />
-      <item value="customconfigurationquery" />
-      <item value="data And Limit Group Map" />
-      <item value="operate Data" />
-      <item value="digest" />
-      <item value="Instrumentation Load Time Weaver" />
-      <item value="Annotation Aware Aspect J Auto Proxy Creator" />
-      <item value="Aspect J Aware Advisor Auto Proxy Creator" />
-      <item value="Infrastructure Advisor Auto Proxy Creator" />
-      <item value="set Overloaded" />
-      <item value="ROLE APPLICATION" />
-      <item value="ROLE SUPPORT" />
-      <item value="ROLE INFRASTRUCTURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
+        <entry key="CHINESE" value="979" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="ENGLISH" value="980" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
