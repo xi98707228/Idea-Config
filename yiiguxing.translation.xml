@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Concurrent Skip List Map" />
+      <item value="process End Flag" />
+      <item value="border Operate" />
+      <item value="获取当前表配置任务规则" />
       <item value="delevel" />
       <item value="NUAA" />
       <item value="SECONDS" />
@@ -1029,16 +1033,12 @@
       <item value="Reimbursement Order Model Type" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
       <item value="Druid Abstract Data Source" />
-      <item value="Feng 1680485576719_Misfire Handler" />
-      <item value="Feng 1680485576719_Cluster Manager" />
-      <item value="discard long time none received connection" />
-      <item value="last Packet Received Idle Millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
+        <entry key="CHINESE" value="1024" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="ENGLISH" value="1025" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
