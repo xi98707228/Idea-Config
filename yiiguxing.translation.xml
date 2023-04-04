@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="next Run Time" />
+      <item value="number Of Leading Zeros" />
+      <item value="Immutable" />
+      <item value="byte" />
+      <item value="Executable" />
       <item value="task Count" />
       <item value="period Type" />
       <item value="Njzjdbc Table File Task Rule" />
@@ -1028,17 +1033,12 @@
       <item value="devlop service" />
       <item value="221.6.30.202:13336" />
       <item value="jdbc:mysql" />
-      <item value="jdbc Url" />
-      <item value="connection" />
-      <item value="test Connection Internal" />
-      <item value="use Unicode" />
-      <item value="expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1009" />
+        <entry key="CHINESE" value="1014" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="ENGLISH" value="1015" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
