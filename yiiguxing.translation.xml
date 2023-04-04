@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delevel" />
+      <item value="NUAA" />
       <item value="SECONDS" />
       <item value="Linked Blocking Queue" />
       <item value="HANDLE CALCULATE THREAD POOL" />
@@ -1031,14 +1033,12 @@
       <item value="Feng 1680485576719_Cluster Manager" />
       <item value="discard long time none received connection" />
       <item value="last Packet Received Idle Millis" />
-      <item value="server Timezone" />
-      <item value="zero Date Time Behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1019" />
+        <entry key="CHINESE" value="1021" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1020" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
