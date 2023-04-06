@@ -983,6 +983,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="login User Nick Name" />
+      <item value="developserver" />
+      <item value="simple Quick Examine Send Message" />
+      <item value="selected User Ids" />
+      <item value="examine Supplier Payment Process Service" />
+      <item value="thread Pool Task Executor" />
+      <item value="Array List" />
+      <item value="content item" />
+      <item value="build Content Item" />
       <item value="wxwork Send Message Util" />
       <item value="Content item" />
       <item value="file" />
@@ -1024,21 +1033,12 @@
       <item value="put Ordered Object" />
       <item value="alertmsg" />
       <item value="ensure Open" />
-      <item value="Stream Decoder" />
-      <item value="first" />
-      <item value="开始协议处理句柄" />
-      <item value="njzjdbc Table" />
-      <item value="get Row Id" />
-      <item value="table Name" />
-      <item value="njzjdbc Table Manager" />
-      <item value="copy" />
-      <item value="bean Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
+        <entry key="CHINESE" value="1057" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="ENGLISH" value="1058" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
