@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Data too long for column 'PN' at row" />
+      <item value="如果超过这个值那么就需要考虑" />
+      <item value="Slice Part" />
+      <item value="If true, the next '\n' will be skipped" />
       <item value="enable" />
       <item value="true" />
       <item value="auto List" />
@@ -1029,16 +1033,12 @@
       <item value="global Submit Form Row Id" />
       <item value="获取之前流程的附件ids" />
       <item value="已有报销单" />
-      <item value="order Row Id" />
-      <item value="set Examine Status" />
-      <item value="如果当前报销单是业务员操作" />
-      <item value="BUSINESS PERSONAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
+        <entry key="CHINESE" value="1031" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
