@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="添加表的关联任务规则" />
       <item value="获取当前表配置任务规则" />
       <item value="njzjdbc Table Task Rule" />
       <item value="获取当前表配置关联的文件任务信息" />
@@ -1032,13 +1033,12 @@
       <item value="message" />
       <item value="status Code" />
       <item value="James Gosling" />
-      <item value="process Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
+        <entry key="CHINESE" value="1042" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="ENGLISH" value="1042" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
