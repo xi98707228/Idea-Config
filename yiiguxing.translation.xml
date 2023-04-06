@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="wxwork Send Message Util" />
+      <item value="Content item" />
+      <item value="file" />
+      <item value="exist Error File" />
       <item value="error Info" />
       <item value="Njzjdbc Table Task File" />
       <item value="添加表的关联任务规则" />
@@ -1029,16 +1033,12 @@
       <item value="njzjdbc Table Manager" />
       <item value="copy" />
       <item value="bean Mapper" />
-      <item value="dest" />
-      <item value="Hibernate Utils" />
-      <item value="Jdbc Util" />
-      <item value="message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1043" />
+        <entry key="CHINESE" value="1048" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1044" />
+        <entry key="ENGLISH" value="1049" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
