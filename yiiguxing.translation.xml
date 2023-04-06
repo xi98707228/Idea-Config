@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Single Column Row Mapper" />
+      <item value="column List" />
+      <item value="get Column Beans By Table" />
       <item value="Njzjdbc Table Task File" />
       <item value="task File" />
       <item value="login User Nick Name" />
@@ -1030,15 +1033,12 @@
       <item value="task Count" />
       <item value="period Type" />
       <item value="Njzjdbc Table File Task Rule" />
-      <item value="table border" />
-      <item value="put Ordered Object" />
-      <item value="alertmsg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1062" />
+        <entry key="CHINESE" value="1065" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1063" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
