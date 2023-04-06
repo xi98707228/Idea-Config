@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="enable" />
+      <item value="true" />
       <item value="auto List" />
       <item value="Concurrent Skip List Map" />
       <item value="process End Flag" />
@@ -1031,14 +1033,12 @@
       <item value="set Examine Status" />
       <item value="如果当前报销单是业务员操作" />
       <item value="BUSINESS PERSONAL" />
-      <item value="Reimbursement Order Model Type" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1025" />
+        <entry key="CHINESE" value="1028" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1026" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
