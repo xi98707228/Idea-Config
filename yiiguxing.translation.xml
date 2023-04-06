@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Njzjdbc Table Task File" />
+      <item value="task File" />
       <item value="login User Nick Name" />
       <item value="developserver" />
       <item value="simple Quick Examine Send Message" />
@@ -997,7 +999,6 @@
       <item value="file" />
       <item value="exist Error File" />
       <item value="error Info" />
-      <item value="Njzjdbc Table Task File" />
       <item value="添加表的关联任务规则" />
       <item value="获取当前表配置任务规则" />
       <item value="njzjdbc Table Task Rule" />
@@ -1032,13 +1033,12 @@
       <item value="table border" />
       <item value="put Ordered Object" />
       <item value="alertmsg" />
-      <item value="ensure Open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
+        <entry key="CHINESE" value="1062" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
