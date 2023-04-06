@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table Task Rule" />
       <item value="Custom Configuration Table Manager" />
       <item value="Hibernate Utils" />
       <item value="task file name" />
@@ -1032,7 +1033,6 @@
       <item value="process End Flag" />
       <item value="border Operate" />
       <item value="delevel" />
-      <item value="NUAA" />
     </histories>
     <option name="languageScores">
       <map>
