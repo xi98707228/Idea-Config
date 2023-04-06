@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Custom Configuration Table Manager" />
+      <item value="Hibernate Utils" />
       <item value="task file name" />
       <item value="get Original Filename" />
       <item value="create File" />
@@ -1031,14 +1033,12 @@
       <item value="border Operate" />
       <item value="delevel" />
       <item value="NUAA" />
-      <item value="SECONDS" />
-      <item value="Linked Blocking Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1070" />
+        <entry key="CHINESE" value="1073" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1071" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
