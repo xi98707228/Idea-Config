@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="upload File Store Path" />
+      <item value="set Create Time" />
+      <item value="task Period Type" />
+      <item value="set Task Status" />
+      <item value="set Task File Name" />
+      <item value="set Task File Path" />
+      <item value="period Type" />
       <item value="get Single Column Row Mapper" />
       <item value="column List" />
       <item value="get Column Beans By Table" />
@@ -1026,19 +1033,12 @@
       <item value="HANDLE CALCULATE THREAD POOL" />
       <item value="generic File Primary Director" />
       <item value="next Run Time" />
-      <item value="number Of Leading Zeros" />
-      <item value="Immutable" />
-      <item value="byte" />
-      <item value="Executable" />
-      <item value="task Count" />
-      <item value="period Type" />
-      <item value="Njzjdbc Table File Task Rule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1065" />
+        <entry key="CHINESE" value="1069" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
