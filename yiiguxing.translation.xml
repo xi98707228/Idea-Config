@@ -983,6 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="striped" />
+      <item value="table" />
+      <item value="hover" />
+      <item value="bordered" />
+      <item value="table border" />
+      <item value="thead" />
       <item value="table Task Rule" />
       <item value="Custom Configuration Table Manager" />
       <item value="Hibernate Utils" />
@@ -1027,18 +1033,12 @@
       <item value="Slice Part" />
       <item value="If true, the next '\n' will be skipped" />
       <item value="enable" />
-      <item value="true" />
-      <item value="auto List" />
-      <item value="Concurrent Skip List Map" />
-      <item value="process End Flag" />
-      <item value="border Operate" />
-      <item value="delevel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
+        <entry key="CHINESE" value="1080" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
