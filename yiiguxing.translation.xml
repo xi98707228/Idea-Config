@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is One Time Task" />
+      <item value="handle Point After Flag" />
+      <item value="P" />
       <item value="The next size value at which to resize (capacity load factor)." />
       <item value="threshold" />
       <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
@@ -1030,15 +1033,12 @@
       <item value="exist Error File" />
       <item value="error Info" />
       <item value="添加表的关联任务规则" />
-      <item value="获取当前表配置任务规则" />
-      <item value="njzjdbc Table Task Rule" />
-      <item value="获取当前表配置关联的文件任务信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
+        <entry key="CHINESE" value="1086" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
