@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="accept" />
       <item value="toggle" />
       <item value="is One Time Task" />
       <item value="handle Point After Flag" />
@@ -1032,13 +1033,12 @@
       <item value="Content item" />
       <item value="file" />
       <item value="exist Error File" />
-      <item value="error Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
+        <entry key="CHINESE" value="1088" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
