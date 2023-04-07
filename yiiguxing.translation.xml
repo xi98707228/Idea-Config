@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="unlock" />
+      <item value="db Lock" />
+      <item value="table Task Files" />
       <item value="保存任务规则信息" />
       <item value="striped" />
       <item value="table" />
@@ -1030,9 +1033,6 @@
       <item value="jdbc Template" />
       <item value="after Properties Set" />
       <item value="Data too long for column 'PN' at row" />
-      <item value="如果超过这个值那么就需要考虑" />
-      <item value="Slice Part" />
-      <item value="If true, the next '\n' will be skipped" />
     </histories>
     <option name="languageScores">
       <map>
