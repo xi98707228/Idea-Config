@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="保存任务规则信息" />
       <item value="striped" />
       <item value="table" />
       <item value="hover" />
@@ -1032,11 +1033,10 @@
       <item value="如果超过这个值那么就需要考虑" />
       <item value="Slice Part" />
       <item value="If true, the next '\n' will be skipped" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
+        <entry key="CHINESE" value="1081" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1081" />
         <entry key="FRENCH" value="5" />
