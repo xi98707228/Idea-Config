@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="common Run At Fixed Rate" />
+      <item value="cyclic Time" />
       <item value="Artifact is deployed successfully" />
       <item value="Simple Url Handler Mapping" />
       <item value="handler" />
@@ -1031,14 +1033,12 @@
       <item value="selected User Ids" />
       <item value="examine Supplier Payment Process Service" />
       <item value="thread Pool Task Executor" />
-      <item value="Array List" />
-      <item value="content item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1093" />
+        <entry key="CHINESE" value="1095" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
