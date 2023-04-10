@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="the maximum number of bytes read." />
+      <item value="the start offset in the destination array &lt;code&gt;b&lt;code&gt;" />
       <item value="item" />
       <item value="common Run At Fixed Rate" />
       <item value="cyclic Time" />
@@ -1031,14 +1033,12 @@
       <item value="login User Nick Name" />
       <item value="developserver" />
       <item value="simple Quick Examine Send Message" />
-      <item value="selected User Ids" />
-      <item value="examine Supplier Payment Process Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1096" />
+        <entry key="CHINESE" value="1098" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1097" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
