@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="index" />
       <item value="the maximum number of bytes read." />
       <item value="the start offset in the destination array &lt;code&gt;b&lt;code&gt;" />
       <item value="item" />
@@ -1032,7 +1033,6 @@
       <item value="task File" />
       <item value="login User Nick Name" />
       <item value="developserver" />
-      <item value="simple Quick Examine Send Message" />
     </histories>
     <option name="languageScores">
       <map>
