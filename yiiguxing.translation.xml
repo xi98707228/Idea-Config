@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="executor" />
+      <item value="initialize" />
+      <item value="initinalize" />
+      <item value="File Task Auto Running Starter" />
+      <item value="说明不存在下一个任务" />
+      <item value="get Table Next File Task Runnable" />
+      <item value="get Common Pool Parallelism" />
       <item value="read Import File" />
       <item value="njzjdbc Table Manager" />
       <item value="list 1" />
@@ -1026,19 +1033,12 @@
       <item value="table" />
       <item value="hover" />
       <item value="bordered" />
-      <item value="table border" />
-      <item value="thead" />
-      <item value="table Task Rule" />
-      <item value="Custom Configuration Table Manager" />
-      <item value="Hibernate Utils" />
-      <item value="task file name" />
-      <item value="get Original Filename" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
+        <entry key="CHINESE" value="1120" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="ENGLISH" value="1121" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
