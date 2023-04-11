@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="analysis Context" />
+      <item value="并判断执行python算法" />
+      <item value="存储本次上传的文件信息" />
+      <item value="run Async" />
+      <item value="submit File Task" />
       <item value="executor" />
       <item value="initialize" />
       <item value="initinalize" />
@@ -1028,17 +1033,12 @@
       <item value="unlock" />
       <item value="db Lock" />
       <item value="table Task Files" />
-      <item value="保存任务规则信息" />
-      <item value="striped" />
-      <item value="table" />
-      <item value="hover" />
-      <item value="bordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1120" />
+        <entry key="CHINESE" value="1123" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1121" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
