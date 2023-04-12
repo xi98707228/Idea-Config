@@ -983,6 +983,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="table Task Files" />
+      <item value="clear Running Thread Pool Manager And Retry Initialize Data" />
+      <item value="Application Context Aware" />
+      <item value="advance Run State" />
+      <item value="all Table Rule Data List" />
+      <item value="njzjdbc Table Task Rule Manager" />
+      <item value="initialize Table Task Rule Starter" />
+      <item value="set Application Context" />
+      <item value="decorate" />
+      <item value="Date Util" />
+      <item value="run Task File" />
+      <item value="get Next Run Time" />
+      <item value="file Task Runnable" />
+      <item value="is Exist File Task" />
+      <item value="non Null" />
+      <item value="exist File Task" />
+      <item value="执行文件任务状态更新流程" />
+      <item value="equals Item" />
+      <item value="File Task Runnable" />
+      <item value="则直接执行无需等待" />
       <item value="scheduled Executor Service" />
       <item value="analysis Context" />
       <item value="并判断执行python算法" />
@@ -1009,40 +1029,20 @@
       <item value="check And Update Groups Record Data" />
       <item value="Completable Future" />
       <item value="immedia" />
-      <item value="File Task Runnable" />
       <item value="task Status" />
       <item value="index" />
       <item value="the maximum number of bytes read." />
       <item value="the start offset in the destination array &lt;code&gt;b&lt;code&gt;" />
-      <item value="item" />
-      <item value="common Run At Fixed Rate" />
-      <item value="cyclic Time" />
-      <item value="Artifact is deployed successfully" />
-      <item value="Simple Url Handler Mapping" />
-      <item value="handler" />
-      <item value="springframework" />
-      <item value="上传后的回调" />
-      <item value="accept" />
-      <item value="toggle" />
-      <item value="is One Time Task" />
-      <item value="handle Point After Flag" />
-      <item value="P" />
-      <item value="The next size value at which to resize (capacity load factor)." />
-      <item value="threshold" />
-      <item value="(The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY.)" />
-      <item value="the" />
-      <item value="unlock" />
-      <item value="db Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1124" />
+        <entry key="CHINESE" value="1145" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1125" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
