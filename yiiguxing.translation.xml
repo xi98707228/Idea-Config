@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="realy Diff Tasl File" />
+      <item value="file Task Runnable" />
       <item value="warn Information" />
       <item value="information" />
       <item value="Redis Utils" />
@@ -1019,7 +1021,6 @@
       <item value="Date Util" />
       <item value="run Task File" />
       <item value="get Next Run Time" />
-      <item value="file Task Runnable" />
       <item value="is Exist File Task" />
       <item value="non Null" />
       <item value="exist File Task" />
@@ -1032,13 +1033,12 @@
       <item value="存储本次上传的文件信息" />
       <item value="run Async" />
       <item value="submit File Task" />
-      <item value="executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1167" />
+        <entry key="CHINESE" value="1169" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1168" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
