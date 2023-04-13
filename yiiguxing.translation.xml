@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="begin Index" />
       <item value="File Task Running Environment" />
       <item value="然后再进行针对本次规则存储对应文件" />
       <item value="Connection" />
@@ -1032,13 +1033,12 @@
       <item value="non Null" />
       <item value="exist File Task" />
       <item value="执行文件任务状态更新流程" />
-      <item value="equals Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1176" />
+        <entry key="CHINESE" value="1177" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="ENGLISH" value="1178" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
