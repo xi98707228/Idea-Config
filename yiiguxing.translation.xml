@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Has Run" />
+      <item value="Has Running" />
+      <item value="Already Running" />
       <item value="realy Diff Tasl File" />
       <item value="file Task Runnable" />
       <item value="warn Information" />
@@ -1030,15 +1033,12 @@
       <item value="scheduled Executor Service" />
       <item value="analysis Context" />
       <item value="并判断执行python算法" />
-      <item value="存储本次上传的文件信息" />
-      <item value="run Async" />
-      <item value="submit File Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1169" />
+        <entry key="CHINESE" value="1172" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1170" />
+        <entry key="ENGLISH" value="1173" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
