@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
+      <item value="每次计算都需要要 生成一个新的 表来接收本次输出的内容 python 运行计算处理需要分为 三步 &lt;p&gt; 1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
+      <item value="build Temp Calculate Director" />
       <item value="information" />
       <item value="function List" />
       <item value="sys Function" />
@@ -1030,15 +1033,12 @@
       <item value="advance Run State" />
       <item value="all Table Rule Data List" />
       <item value="njzjdbc Table Task Rule Manager" />
-      <item value="initialize Table Task Rule Starter" />
-      <item value="set Application Context" />
-      <item value="decorate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1185" />
+        <entry key="CHINESE" value="1186" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1186" />
+        <entry key="ENGLISH" value="1187" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
