@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681089651348" />
+    <option name="lastTrimTime" value="1681694940912" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="python Related File Vo" />
+      <item value="get Jdbc Template" />
       <item value="singleton Read" />
       <item value="0 xf" />
       <item value="byte" />
@@ -1031,14 +1033,12 @@
       <item value="decorate" />
       <item value="Date Util" />
       <item value="run Task File" />
-      <item value="get Next Run Time" />
-      <item value="is Exist File Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1180" />
+        <entry key="CHINESE" value="1182" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1181" />
+        <entry key="ENGLISH" value="1183" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
