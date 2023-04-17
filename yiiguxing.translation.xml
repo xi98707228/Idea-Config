@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="function List" />
+      <item value="sys Function" />
       <item value="python Related File Vo" />
       <item value="get Jdbc Template" />
       <item value="singleton Read" />
@@ -1031,14 +1033,12 @@
       <item value="initialize Table Task Rule Starter" />
       <item value="set Application Context" />
       <item value="decorate" />
-      <item value="Date Util" />
-      <item value="run Task File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1182" />
+        <entry key="CHINESE" value="1184" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
