@@ -983,9 +983,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="返回初始化好的" />
+      <item value="display Type" />
+      <item value="Display Type" />
+      <item value="SQL Exception" />
+      <item value="Python Initialization Config" />
+      <item value="Python Build Table Type" />
+      <item value="resolve Param Get Build Type" />
+      <item value="build Sql" />
+      <item value="initialization Table Name" />
+      <item value="build Temp Calculate Director" />
+      <item value="表名称" />
+      <item value="创建存储数据的表" />
+      <item value="预处理" />
+      <item value="initialization Store Calculate Info" />
       <item value="1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
       <item value="每次计算都需要要 生成一个新的 表来接收本次输出的内容 python 运行计算处理需要分为 三步 &lt;p&gt; 1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
-      <item value="build Temp Calculate Director" />
       <item value="information" />
       <item value="function List" />
       <item value="sys Function" />
@@ -1020,25 +1033,12 @@
       <item value="立即执行指定规则rule Id的文件任务" />
       <item value="Dynamic Easy Excel Import Utils" />
       <item value="direct Execute" />
-      <item value="需要判断本次添加任务之前是否为空任务" />
-      <item value="File Task Runnable" />
-      <item value="null" />
-      <item value="table Task Files" />
-      <item value="存在关联任务则改变任务的编排周期" />
-      <item value="ransaction rollback at" />
-      <item value="Read Only Transaction Manager" />
-      <item value="springframework" />
-      <item value="clear Running Thread Pool Manager And Retry Initialize Data" />
-      <item value="Application Context Aware" />
-      <item value="advance Run State" />
-      <item value="all Table Rule Data List" />
-      <item value="njzjdbc Table Task Rule Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1186" />
+        <entry key="CHINESE" value="1207" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1187" />
+        <entry key="ENGLISH" value="1207" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
