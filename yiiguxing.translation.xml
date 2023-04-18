@@ -983,9 +983,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="返回初始化好的" />
       <item value="display Type" />
       <item value="Display Type" />
+      <item value="Runtime Exception" />
+      <item value="UNDEFINED" />
+      <item value="risk Warning Information Manager" />
+      <item value="get Redis Key Str" />
+      <item value="Redis Utils" />
+      <item value="warn Information" />
+      <item value="merge Files Into Target Director" />
+      <item value="返回初始化好的" />
       <item value="SQL Exception" />
       <item value="Python Initialization Config" />
       <item value="Python Build Table Type" />
@@ -1018,8 +1025,6 @@
       <item value="Already Running" />
       <item value="realy Diff Tasl File" />
       <item value="file Task Runnable" />
-      <item value="warn Information" />
-      <item value="Redis Utils" />
       <item value="java.net.SocketException: Connection reset by peer: socket write error" />
       <item value="Auxiliary Power Display" />
       <item value="Array Index Out Of Bounds Exception" />
@@ -1028,18 +1033,13 @@
       <item value="Xml Bean Definition Reader" />
       <item value="factory" />
       <item value="Simple Url Handler Mapping" />
-      <item value="Tuple" />
-      <item value="Gx Oa Out User Relation" />
-      <item value="立即执行指定规则rule Id的文件任务" />
-      <item value="Dynamic Easy Excel Import Utils" />
-      <item value="direct Execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
+        <entry key="CHINESE" value="1215" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1207" />
-        <entry key="FRENCH" value="6" />
+        <entry key="ENGLISH" value="1216" />
+        <entry key="FRENCH" value="7" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="ROMANIAN" value="3" />
