@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="数据库中没有该条数据为新增" />
       <item value="user 1" />
       <item value="bmz Org Id" />
       <item value="get Selfdept" />
@@ -1032,11 +1033,10 @@
       <item value="Has Running" />
       <item value="Already Running" />
       <item value="realy Diff Tasl File" />
-      <item value="file Task Runnable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1224" />
+        <entry key="CHINESE" value="1225" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1225" />
         <entry key="FRENCH" value="7" />
