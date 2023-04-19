@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="available" />
+      <item value="IDEA" />
+      <item value="Intelli J" />
+      <item value="Localized" />
       <item value="Screen Controller" />
       <item value="risk Warning Information Manager" />
       <item value="content Type" />
@@ -1029,17 +1033,13 @@
       <item value="build Temp Calculate Director" />
       <item value="表名称" />
       <item value="创建存储数据的表" />
-      <item value="预处理" />
-      <item value="initialization Store Calculate Info" />
-      <item value="1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
-      <item value="每次计算都需要要 生成一个新的 表来接收本次输出的内容 python 运行计算处理需要分为 三步 &lt;p&gt; 1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
+        <entry key="CHINESE" value="1246" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1244" />
-        <entry key="FRENCH" value="7" />
+        <entry key="ENGLISH" value="1247" />
+        <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="ROMANIAN" value="3" />
