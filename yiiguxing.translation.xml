@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="redis Key Str" />
       <item value="available" />
       <item value="IDEA" />
       <item value="Intelli J" />
@@ -1032,17 +1033,16 @@
       <item value="initialization Table Name" />
       <item value="build Temp Calculate Director" />
       <item value="表名称" />
-      <item value="创建存储数据的表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1246" />
+        <entry key="CHINESE" value="1247" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1247" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
