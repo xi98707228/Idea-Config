@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="content Type" />
+      <item value="Ajax Result" />
       <item value="7078" />
       <item value="proxy Bean Methods" />
       <item value="any Match" />
@@ -1031,14 +1033,12 @@
       <item value="1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
       <item value="每次计算都需要要 生成一个新的 表来接收本次输出的内容 python 运行计算处理需要分为 三步 &lt;p&gt; 1 --&gt; prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
       <item value="information" />
-      <item value="function List" />
-      <item value="sys Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1239" />
+        <entry key="CHINESE" value="1241" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1240" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="FRENCH" value="7" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
