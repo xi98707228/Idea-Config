@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get" />
+      <item value="model" />
+      <item value="statistics" />
       <item value="redis Key Str" />
       <item value="available" />
       <item value="IDEA" />
@@ -1030,15 +1033,12 @@
       <item value="Python Build Table Type" />
       <item value="resolve Param Get Build Type" />
       <item value="build Sql" />
-      <item value="initialization Table Name" />
-      <item value="build Temp Calculate Director" />
-      <item value="表名称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1247" />
+        <entry key="CHINESE" value="1249" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1247" />
+        <entry key="ENGLISH" value="1250" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="3" />
