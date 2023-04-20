@@ -983,11 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="top Right Model Category" />
       <item value="Big Decimal" />
       <item value="comment" />
       <item value="Gx Oa Office Supplies Relation" />
       <item value="DEFAULT CHARSET" />
-      <item value="top Right Model Category" />
       <item value="screen" />
       <item value="count Organization Activity Number" />
       <item value="activity Sign In Mapper" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1292" />
+        <entry key="CHINESE" value="1293" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1293" />
+        <entry key="ENGLISH" value="1294" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
