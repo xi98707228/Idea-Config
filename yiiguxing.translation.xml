@@ -983,6 +983,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="with Visibility" />
+      <item value="Minimum" />
+      <item value="allow chaining" />
+      <item value="allow" />
+      <item value="this" />
+      <item value="that" />
+      <item value="instance" />
+      <item value="set Visibility" />
+      <item value="Json Auto Detect" />
       <item value="public static String set(String key , String value){" />
       <item value="composite Query Sql" />
       <item value="jdbc Template" />
@@ -1024,21 +1033,12 @@
       <item value="redis Key Str" />
       <item value="available" />
       <item value="IDEA" />
-      <item value="Intelli J" />
-      <item value="Screen Controller" />
-      <item value="risk Warning Information Manager" />
-      <item value="content Type" />
-      <item value="Ajax Result" />
-      <item value="7078" />
-      <item value="proxy Bean Methods" />
-      <item value="any Match" />
-      <item value="管理员显示所有菜单信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1296" />
+        <entry key="CHINESE" value="1305" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1297" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
