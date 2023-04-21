@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="plane" />
+      <item value="complete" />
+      <item value="Screen Completion Service" />
+      <item value="arguments" />
+      <item value="add Exact" />
+      <item value="model Type Count Map" />
+      <item value="Risk Warning Information" />
+      <item value="lifecycle Monitor" />
+      <item value="Thread Local Coders" />
+      <item value="internal Map" />
+      <item value="close Quietly" />
+      <item value="Binary Redis Pipeline" />
+      <item value="Pipeline Base" />
       <item value="add User For Point Account" />
       <item value="get Jedis Instance" />
       <item value="risk Warning Information Manager" />
@@ -1002,7 +1015,6 @@
       <item value="compose With Exceptions" />
       <item value="Terminal Op" />
       <item value="accumulator" />
-      <item value="model Type Count Map" />
       <item value="with Visibility" />
       <item value="Minimum" />
       <item value="allow chaining" />
@@ -1021,25 +1033,13 @@
       <item value="Gx Oa Office Supplies Relation" />
       <item value="DEFAULT CHARSET" />
       <item value="screen" />
-      <item value="count Organization Activity Number" />
-      <item value="activity Sign In Mapper" />
-      <item value="handle Point After Flag" />
-      <item value="locks Map" />
-      <item value="Activity Scanner Code Vo" />
-      <item value="build" />
-      <item value="compute If Absent" />
-      <item value="synchronized (locksMap.computeIfAbsent(activityRowId, integer -&gt; new Object())) {" />
-      <item value="sign In Activity User Info" />
-      <item value="points" />
-      <item value="scanner Result" />
-      <item value="hours" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1323" />
+        <entry key="CHINESE" value="1335" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
