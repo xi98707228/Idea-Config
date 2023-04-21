@@ -983,6 +983,23 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Test Security Util Thread Controller" />
+      <item value="fill Finish" />
+      <item value="fill Residue Amount" />
+      <item value="contract Adder" />
+      <item value="complete Fill Series Data Map" />
+      <item value="method" />
+      <item value="statistics" />
+      <item value="warning" />
+      <item value="today" />
+      <item value="Date Util" />
+      <item value="this Day Of Month" />
+      <item value="16" />
+      <item value="X AXIS" />
+      <item value="x Axis)" />
+      <item value="系统的今日预警数据信息" />
+      <item value="Unary Operator" />
+      <item value="seed" />
       <item value="x Axis" />
       <item value="plane" />
       <item value="complete" />
@@ -1016,34 +1033,17 @@
       <item value="compose With Exceptions" />
       <item value="Terminal Op" />
       <item value="accumulator" />
-      <item value="with Visibility" />
-      <item value="Minimum" />
-      <item value="allow chaining" />
-      <item value="allow" />
-      <item value="this" />
-      <item value="that" />
-      <item value="instance" />
-      <item value="set Visibility" />
-      <item value="Json Auto Detect" />
-      <item value="public static String set(String key , String value){" />
-      <item value="composite Query Sql" />
-      <item value="jdbc Template" />
-      <item value="top Right Model Category" />
-      <item value="Big Decimal" />
-      <item value="comment" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="DEFAULT CHARSET" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1335" />
+        <entry key="CHINESE" value="1349" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="ENGLISH" value="1350" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
