@@ -983,11 +983,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Screen Warning Information Po" />
+      <item value="series Type Count" />
+      <item value="complete Fill Series Data Map" />
+      <item value="X AXIS" />
+      <item value="classifier" />
       <item value="Test Security Util Thread Controller" />
       <item value="fill Finish" />
       <item value="fill Residue Amount" />
       <item value="contract Adder" />
-      <item value="complete Fill Series Data Map" />
       <item value="method" />
       <item value="statistics" />
       <item value="warning" />
@@ -995,7 +999,6 @@
       <item value="Date Util" />
       <item value="this Day Of Month" />
       <item value="16" />
-      <item value="X AXIS" />
       <item value="x Axis)" />
       <item value="系统的今日预警数据信息" />
       <item value="Unary Operator" />
@@ -1030,16 +1033,13 @@
       <item value="get Attribute" />
       <item value="SUPPRESSED SENTINEL" />
       <item value="add Suppressed" />
-      <item value="compose With Exceptions" />
-      <item value="Terminal Op" />
-      <item value="accumulator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1349" />
+        <entry key="CHINESE" value="1354" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1350" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
