@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="DEFAULT LOAD FACTOR" />
       <item value="Screen Warning Information Po" />
       <item value="series Type Count" />
       <item value="complete Fill Series Data Map" />
@@ -1032,14 +1033,13 @@
       <item value="Http Servlet Request" />
       <item value="get Attribute" />
       <item value="SUPPRESSED SENTINEL" />
-      <item value="add Suppressed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1354" />
+        <entry key="CHINESE" value="1355" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1355" />
+        <entry key="ENGLISH" value="1356" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
