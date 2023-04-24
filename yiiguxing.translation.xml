@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681738678735" />
+    <option name="lastTrimTime" value="1682338741302" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="cells Busy属性为0" />
       <item value="cells Busy" />
       <item value="njzjdbc Table" />
       <item value="get Row Id" />
@@ -1032,11 +1033,10 @@
       <item value="Schedule Run Unit" />
       <item value="String containsRedisCacheStr = RedisUtils.get(displayType.getRedisKeyStr(originalTableName));" />
       <item value="contains Redis Cache Str" />
-      <item value="calculate Result Display Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
+        <entry key="CHINESE" value="1000" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1000" />
         <entry key="FRENCH" value="5" />
