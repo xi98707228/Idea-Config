@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="X 509 Certificate" />
+      <item value="Api Air Plane Controller" />
       <item value="Risk Airplane Model Auto" />
       <item value="screen Warning Information Po" />
       <item value="airplane Number Set" />
@@ -1031,15 +1033,13 @@
       <item value="get Session" />
       <item value="pre Handle" />
       <item value="tanc" />
-      <item value="instanceof" />
-      <item value="Advanced Business Calendar Manager Factory Bean" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1357" />
+        <entry key="CHINESE" value="1359" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1358" />
+        <entry key="ENGLISH" value="1360" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
