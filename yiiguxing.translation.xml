@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682338741302" />
+    <option name="lastTrimTime" value="1681694940912" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,66 +983,66 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="cells Busy属性为0" />
-      <item value="cells Busy" />
-      <item value="njzjdbc Table" />
-      <item value="get Row Id" />
-      <item value="table Name" />
-      <item value="njzjdbc Table Manager" />
-      <item value="copy" />
-      <item value="bean Mapper" />
-      <item value="dest" />
-      <item value="Hibernate Utils" />
-      <item value="Jdbc Util" />
-      <item value="message" />
-      <item value="status Code" />
-      <item value="James Gosling" />
-      <item value="process Handle" />
-      <item value="check Between" />
-      <item value="Snowflake" />
-      <item value="global Submit Form Row Id" />
-      <item value="获取之前流程的附件ids" />
-      <item value="已有报销单" />
-      <item value="order Row Id" />
-      <item value="set Examine Status" />
-      <item value="如果当前报销单是业务员操作" />
-      <item value="BUSINESS PERSONAL" />
-      <item value="Reimbursement Order Model Type" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Druid Abstract Data Source" />
-      <item value="Feng 1680485576719_Misfire Handler" />
-      <item value="Feng 1680485576719_Cluster Manager" />
-      <item value="discard long time none received connection" />
-      <item value="last Packet Received Idle Millis" />
-      <item value="server Timezone" />
-      <item value="zero Date Time Behavior" />
-      <item value="character Encoding" />
-      <item value="devlop service" />
-      <item value="221.6.30.202:13336" />
-      <item value="jdbc:mysql" />
-      <item value="jdbc Url" />
-      <item value="connection" />
-      <item value="test Connection Internal" />
-      <item value="use Unicode" />
-      <item value="expand" />
-      <item value="One Key Data Base Service" />
-      <item value="xlsx 5901460894027858250" />
-      <item value="Custom Configuration Table Manager" />
-      <item value="system air localtest_1641359210293559296" />
-      <item value="SELECT" />
-      <item value="Schedule Run Unit" />
-      <item value="String containsRedisCacheStr = RedisUtils.get(displayType.getRedisKeyStr(originalTableName));" />
-      <item value="contains Redis Cache Str" />
+      <item value="composite Query Sql" />
+      <item value="jdbc Template" />
+      <item value="top Right Model Category" />
+      <item value="Big Decimal" />
+      <item value="comment" />
+      <item value="Gx Oa Office Supplies Relation" />
+      <item value="DEFAULT CHARSET" />
+      <item value="screen" />
+      <item value="count Organization Activity Number" />
+      <item value="activity Sign In Mapper" />
+      <item value="handle Point After Flag" />
+      <item value="locks Map" />
+      <item value="Activity Scanner Code Vo" />
+      <item value="build" />
+      <item value="compute If Absent" />
+      <item value="synchronized (locksMap.computeIfAbsent(activityRowId, integer -&gt; new Object())) {" />
+      <item value="sign In Activity User Info" />
+      <item value="points" />
+      <item value="scanner Result" />
+      <item value="hours" />
+      <item value="All Args Constructor" />
+      <item value="Builder" />
+      <item value="volunteer Information" />
+      <item value="teer" />
+      <item value="Volunteer Level" />
+      <item value="Activity Publish Config" />
+      <item value="activity Row Id" />
+      <item value="integer" />
+      <item value="builder" />
+      <item value="请先报名后再进行签到" />
+      <item value="Localized" />
+      <item value="Data" />
+      <item value="模型运行状态统计数据信息" />
+      <item value="application Context" />
+      <item value="get" />
+      <item value="model" />
+      <item value="statistics" />
+      <item value="redis Key Str" />
+      <item value="available" />
+      <item value="IDEA" />
+      <item value="Intelli J" />
+      <item value="Screen Controller" />
+      <item value="risk Warning Information Manager" />
+      <item value="content Type" />
+      <item value="Ajax Result" />
+      <item value="7078" />
+      <item value="proxy Bean Methods" />
+      <item value="any Match" />
+      <item value="管理员显示所有菜单信息" />
+      <item value="应用的访问路径" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1000" />
+        <entry key="CHINESE" value="1295" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1000" />
-        <entry key="FRENCH" value="5" />
+        <entry key="ENGLISH" value="1296" />
+        <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="3" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="GERMAN" value="4" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
