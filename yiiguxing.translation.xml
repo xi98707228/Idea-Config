@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="today Group Hour Data List Map" />
+      <item value="get Model Type" />
+      <item value="risk Airplane Model Auto Manager" />
+      <item value="auto List" />
       <item value="WARNING COUNT KEY" />
       <item value="X 509 Certificate" />
       <item value="Api Air Plane Controller" />
@@ -1029,17 +1033,13 @@
       <item value="risk Warning Information Manager" />
       <item value="find" />
       <item value="get Today Warning Statistics Data" />
-      <item value="n" />
-      <item value="result" />
-      <item value="get Session" />
-      <item value="pre Handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1360" />
+        <entry key="CHINESE" value="1364" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1361" />
+        <entry key="ENGLISH" value="1365" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
