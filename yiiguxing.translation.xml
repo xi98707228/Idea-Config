@@ -983,6 +983,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="坐下角系统参数监控数据信息" />
+      <item value="screen Today Data Vo" />
+      <item value="Deploy took" />
+      <item value="success" />
+      <item value="获取大屏" />
+      <item value="左中位置的" />
+      <item value="今日预警数据统计" />
+      <item value="获取大屏 - 左中位置的 今日预警数据统计" />
+      <item value="return" />
+      <item value="Request Mapping" />
+      <item value="complete System Today Warning Data" />
+      <item value="nuaa sys" />
+      <item value="8699" />
+      <item value="localhost" />
+      <item value="Api Air Plane Controller" />
       <item value="Calendar" />
       <item value="Collectors" />
       <item value="parse Int" />
@@ -1002,7 +1017,6 @@
       <item value="auto List" />
       <item value="WARNING COUNT KEY" />
       <item value="X 509 Certificate" />
-      <item value="Api Air Plane Controller" />
       <item value="Risk Airplane Model Auto" />
       <item value="screen Warning Information Po" />
       <item value="airplane Number Set" />
@@ -1019,27 +1033,13 @@
       <item value="warning" />
       <item value="today" />
       <item value="Date Util" />
-      <item value="this Day Of Month" />
-      <item value="16" />
-      <item value="x Axis)" />
-      <item value="系统的今日预警数据信息" />
-      <item value="Unary Operator" />
-      <item value="seed" />
-      <item value="x Axis" />
-      <item value="plane" />
-      <item value="complete" />
-      <item value="Screen Completion Service" />
-      <item value="arguments" />
-      <item value="add Exact" />
-      <item value="model Type Count Map" />
-      <item value="Risk Warning Information" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1373" />
+        <entry key="CHINESE" value="1388" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1374" />
+        <entry key="ENGLISH" value="1389" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
