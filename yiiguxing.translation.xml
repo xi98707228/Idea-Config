@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Collectors" />
       <item value="parse Int" />
       <item value="Integer" />
       <item value="分组预警信息数量" />
@@ -1032,14 +1033,13 @@
       <item value="model Type Count Map" />
       <item value="Risk Warning Information" />
       <item value="lifecycle Monitor" />
-      <item value="Thread Local Coders" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1371" />
+        <entry key="CHINESE" value="1372" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="ENGLISH" value="1373" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
