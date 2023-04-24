@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681694940912" />
+    <option name="lastTrimTime" value="1682341719808" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="was Uncontended" />
+      <item value="Try to attach new Cell" />
       <item value="composite Query Sql" />
       <item value="jdbc Template" />
       <item value="top Right Model Category" />
@@ -1031,14 +1033,12 @@
       <item value="7078" />
       <item value="proxy Bean Methods" />
       <item value="any Match" />
-      <item value="管理员显示所有菜单信息" />
-      <item value="应用的访问路径" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1295" />
+        <entry key="CHINESE" value="1298" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1296" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
