@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Host Config" />
+      <item value="information" />
+      <item value="risk Warning Information Manager" />
+      <item value="Redis Utils" />
+      <item value="get" />
+      <item value="add Attribute" />
+      <item value="display Data" />
+      <item value="get Store Json Data" />
+      <item value="UNDEFINED" />
+      <item value="undefined" />
+      <item value="airplane number" />
+      <item value="set Store Table Name" />
+      <item value="original Table Name" />
       <item value="坐下角系统参数监控数据信息" />
       <item value="screen Today Data Vo" />
       <item value="Deploy took" />
@@ -1020,27 +1033,14 @@
       <item value="Risk Airplane Model Auto" />
       <item value="screen Warning Information Po" />
       <item value="airplane Number Set" />
-      <item value="DEFAULT LOAD FACTOR" />
-      <item value="complete Fill Series Data Map" />
-      <item value="X AXIS" />
-      <item value="classifier" />
-      <item value="Test Security Util Thread Controller" />
-      <item value="fill Finish" />
-      <item value="fill Residue Amount" />
-      <item value="contract Adder" />
-      <item value="method" />
-      <item value="statistics" />
-      <item value="warning" />
-      <item value="today" />
-      <item value="Date Util" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="1388" />
+        <entry key="CHINESE" value="1402" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="1389" />
-        <entry key="FRENCH" value="10" />
+        <entry key="ENGLISH" value="1403" />
+        <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="5" />
