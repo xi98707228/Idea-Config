@@ -2,6 +2,7 @@
   <component name="RainbowSettings">
     <option name="cycleCountOnAllBrackets" value="true" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="numberOfColors" value="100" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="suppressXMLCheck" value="true" />
