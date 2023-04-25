@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="page Size" />
+      <item value="S" />
+      <item value="DEFAULT PAGE SIZE" />
       <item value="action Button" />
       <item value="stacked Cards" />
       <item value="parse Object" />
@@ -1030,15 +1033,12 @@
       <item value="statistics" />
       <item value="redis Key Str" />
       <item value="available" />
-      <item value="IDEA" />
-      <item value="Intelli J" />
-      <item value="Screen Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1304" />
+        <entry key="CHINESE" value="1306" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1305" />
+        <entry key="ENGLISH" value="1307" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
