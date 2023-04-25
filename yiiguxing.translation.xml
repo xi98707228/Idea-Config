@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="predecessor" />
       <item value="collide" />
       <item value="was Uncontended" />
       <item value="Try to attach new Cell" />
@@ -1032,13 +1033,12 @@
       <item value="content Type" />
       <item value="Ajax Result" />
       <item value="7078" />
-      <item value="proxy Bean Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1299" />
+        <entry key="CHINESE" value="1300" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1300" />
+        <entry key="ENGLISH" value="1301" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
