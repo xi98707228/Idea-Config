@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="action Button" />
+      <item value="stacked Cards" />
       <item value="parse Object" />
       <item value="AMPERSAND" />
       <item value="convert Of Map Data" />
@@ -1031,14 +1033,12 @@
       <item value="IDEA" />
       <item value="Intelli J" />
       <item value="Screen Controller" />
-      <item value="risk Warning Information Manager" />
-      <item value="content Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1302" />
+        <entry key="CHINESE" value="1304" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="ENGLISH" value="1305" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
