@@ -983,9 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="barrier Command" />
-      <item value="unpark Successor" />
-      <item value="predecessor" />
+      <item value="Recursive Action" />
+      <item value="Phaser" />
+      <item value="arena Exchange" />
+      <item value="Exchanger" />
+      <item value="page Size" />
+      <item value="S" />
+      <item value="DEFAULT PAGE SIZE" />
+      <item value="action Button" />
+      <item value="stacked Cards" />
+      <item value="parse Object" />
+      <item value="AMPERSAND" />
+      <item value="convert Of Map Data" />
       <item value="collide" />
       <item value="was Uncontended" />
       <item value="Try to attach new Cell" />
@@ -1024,21 +1033,12 @@
       <item value="模型运行状态统计数据信息" />
       <item value="application Context" />
       <item value="get" />
-      <item value="model" />
-      <item value="statistics" />
-      <item value="redis Key Str" />
-      <item value="available" />
-      <item value="IDEA" />
-      <item value="Intelli J" />
-      <item value="Screen Controller" />
-      <item value="risk Warning Information Manager" />
-      <item value="content Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1302" />
+        <entry key="CHINESE" value="1310" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="ENGLISH" value="1311" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
