@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="system Type" />
+      <item value="Screen Plane Controller" />
+      <item value="jdbc Template" />
+      <item value="send Get" />
       <item value="Access-Control-Allow-Origin" />
       <item value="list" />
       <item value="airplane" />
@@ -1003,7 +1007,6 @@
       <item value="was Uncontended" />
       <item value="Try to attach new Cell" />
       <item value="composite Query Sql" />
-      <item value="jdbc Template" />
       <item value="top Right Model Category" />
       <item value="Big Decimal" />
       <item value="comment" />
@@ -1030,15 +1033,12 @@
       <item value="Activity Publish Config" />
       <item value="activity Row Id" />
       <item value="integer" />
-      <item value="builder" />
-      <item value="请先报名后再进行签到" />
-      <item value="Localized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1313" />
+        <entry key="CHINESE" value="1317" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1314" />
+        <entry key="ENGLISH" value="1318" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
