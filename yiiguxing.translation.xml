@@ -983,9 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="risk warning information" />
+      <item value="先根据当前机号查询出所有关联的模型Id" />
+      <item value="risk Warning Information Manager" />
+      <item value="Request Param" />
+      <item value="jdbc Template" />
+      <item value="airplane Number Model Id List" />
       <item value="system Type" />
       <item value="Screen Plane Controller" />
-      <item value="jdbc Template" />
       <item value="send Get" />
       <item value="Access-Control-Allow-Origin" />
       <item value="list" />
@@ -1028,17 +1033,12 @@
       <item value="All Args Constructor" />
       <item value="Builder" />
       <item value="volunteer Information" />
-      <item value="teer" />
-      <item value="Volunteer Level" />
-      <item value="Activity Publish Config" />
-      <item value="activity Row Id" />
-      <item value="integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1317" />
+        <entry key="CHINESE" value="1327" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1318" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
