@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Participant" />
+      <item value="arena Exchange" />
+      <item value="slot Exchange" />
+      <item value="broken" />
+      <item value="The command to run when tripped" />
+      <item value="Updates state on barrier trip and wakes up everyone. Called only while holding lock." />
+      <item value="next Generation" />
       <item value="Mapper Factory Bean" />
       <item value="Array List" />
       <item value="获取所有该模型的预警信息" />
@@ -1003,7 +1010,6 @@
       <item value="i" />
       <item value="Recursive Action" />
       <item value="Phaser" />
-      <item value="arena Exchange" />
       <item value="Exchanger" />
       <item value="page Size" />
       <item value="S" />
@@ -1027,18 +1033,12 @@
       <item value="activity Sign In Mapper" />
       <item value="handle Point After Flag" />
       <item value="locks Map" />
-      <item value="Activity Scanner Code Vo" />
-      <item value="build" />
-      <item value="compute If Absent" />
-      <item value="synchronized (locksMap.computeIfAbsent(activityRowId, integer -&gt; new Object())) {" />
-      <item value="sign In Activity User Info" />
-      <item value="points" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1333" />
+        <entry key="CHINESE" value="1340" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1334" />
+        <entry key="ENGLISH" value="1341" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
