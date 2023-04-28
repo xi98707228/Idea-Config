@@ -983,8 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="显示图片" />
+      <item value="attachment" />
+      <item value="get File Not Down" />
       <item value="987072248" />
+      <item value="显示图片" />
       <item value="let all threads proceed" />
       <item value="don't let run yet" />
       <item value="发现Count Down Latch的内部类Sync继承了AQS" />
@@ -1031,14 +1033,12 @@
       <item value="action Button" />
       <item value="stacked Cards" />
       <item value="parse Object" />
-      <item value="AMPERSAND" />
-      <item value="convert Of Map Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1357" />
+        <entry key="CHINESE" value="1360" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="ENGLISH" value="1361" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
