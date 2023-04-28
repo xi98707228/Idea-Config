@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Already Initialize" />
+      <item value="supplier Payment Tick" />
       <item value="Participant" />
       <item value="arena Exchange" />
       <item value="slot Exchange" />
@@ -1031,14 +1033,12 @@
       <item value="screen" />
       <item value="count Organization Activity Number" />
       <item value="activity Sign In Mapper" />
-      <item value="handle Point After Flag" />
-      <item value="locks Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1340" />
+        <entry key="CHINESE" value="1344" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1341" />
+        <entry key="ENGLISH" value="1345" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
