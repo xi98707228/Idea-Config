@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Cyclic Barrier每来一个线程执行await方法" />
       <item value="set Already Initialize" />
       <item value="supplier Payment Tick" />
       <item value="Participant" />
@@ -1032,11 +1033,10 @@
       <item value="DEFAULT CHARSET" />
       <item value="screen" />
       <item value="count Organization Activity Number" />
-      <item value="activity Sign In Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1344" />
+        <entry key="CHINESE" value="1345" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1345" />
         <entry key="FRENCH" value="9" />
