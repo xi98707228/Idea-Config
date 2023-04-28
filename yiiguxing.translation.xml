@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Mapper Factory Bean" />
       <item value="Array List" />
       <item value="获取所有该模型的预警信息" />
       <item value="model Related Information" />
@@ -1032,13 +1033,12 @@
       <item value="synchronized (locksMap.computeIfAbsent(activityRowId, integer -&gt; new Object())) {" />
       <item value="sign In Activity User Info" />
       <item value="points" />
-      <item value="scanner Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1332" />
+        <entry key="CHINESE" value="1333" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1333" />
+        <entry key="ENGLISH" value="1334" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
