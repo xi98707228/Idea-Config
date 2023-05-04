@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682341719808" />
+    <option name="lastTrimTime" value="1683163648382" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="parallel Execute" />
+      <item value="thread Pool" />
+      <item value="System" />
+      <item value="current Time Millis" />
+      <item value="response" />
       <item value="attachment" />
       <item value="get File Not Down" />
       <item value="987072248" />
@@ -1028,17 +1033,12 @@
       <item value="Phaser" />
       <item value="Exchanger" />
       <item value="page Size" />
-      <item value="S" />
-      <item value="DEFAULT PAGE SIZE" />
-      <item value="action Button" />
-      <item value="stacked Cards" />
-      <item value="parse Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1360" />
+        <entry key="CHINESE" value="1364" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1361" />
+        <entry key="ENGLISH" value="1365" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
