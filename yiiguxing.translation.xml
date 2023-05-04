@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取电话号码对应的Open Id的map映射列表" />
+      <item value="cli a 4 d 9 b 321823 c 100 c" />
+      <item value="C Ymr 0 z 8 hvxhw 7 B Wo Whao FV Zv 2 Ey E 5 Z Lo" />
+      <item value="app id" />
+      <item value="execute" />
+      <item value="Case Insensitive Map" />
+      <item value="APP ID" />
       <item value="parallel Execute" />
       <item value="thread Pool" />
       <item value="System" />
@@ -1026,22 +1033,15 @@
       <item value="Screen Plane Controller" />
       <item value="send Get" />
       <item value="Access-Control-Allow-Origin" />
-      <item value="list" />
-      <item value="airplane" />
-      <item value="i" />
-      <item value="Recursive Action" />
-      <item value="Phaser" />
-      <item value="Exchanger" />
-      <item value="page Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1364" />
+        <entry key="CHINESE" value="1367" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1365" />
-        <entry key="FRENCH" value="9" />
+        <entry key="ENGLISH" value="1367" />
+        <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="6" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
       </map>
