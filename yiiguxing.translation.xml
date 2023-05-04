@@ -983,6 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Open Id Map By Phone Number List" />
+      <item value="Arrays" />
+      <item value="Fly Book Message Utils" />
+      <item value="198220213" />
+      <item value="18339069087" />
+      <item value="获取指定手机号对应的Open Id" />
+      <item value="ou_2 dee 25 fcd 9 c 3 d 3299213643 b 75 b 74 b 3 c" />
+      <item value="Missing access token for authorization" />
       <item value="获取电话号码对应的Open Id的map映射列表" />
       <item value="cli a 4 d 9 b 321823 c 100 c" />
       <item value="C Ymr 0 z 8 hvxhw 7 B Wo Whao FV Zv 2 Ey E 5 Z Lo" />
@@ -1025,23 +1033,16 @@
       <item value="Ajax Result" />
       <item value="airplane Number Model Id List" />
       <item value="risk warning information" />
-      <item value="先根据当前机号查询出所有关联的模型Id" />
-      <item value="risk Warning Information Manager" />
-      <item value="Request Param" />
-      <item value="jdbc Template" />
-      <item value="system Type" />
-      <item value="Screen Plane Controller" />
-      <item value="send Get" />
-      <item value="Access-Control-Allow-Origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1367" />
+        <entry key="CHINESE" value="1369" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1367" />
+        <entry key="ENGLISH" value="1370" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
+        <entry key="ITALIAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
       </map>
