@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Dynamic App Access Token" />
+      <item value="Access Token" />
       <item value="get Open Id Map By Phone Number List" />
       <item value="Arrays" />
       <item value="Fly Book Message Utils" />
@@ -1031,14 +1033,12 @@
       <item value="获取所有该模型的预警信息" />
       <item value="model Related Information" />
       <item value="Ajax Result" />
-      <item value="airplane Number Model Id List" />
-      <item value="risk warning information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1369" />
+        <entry key="CHINESE" value="1370" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="ENGLISH" value="1371" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
