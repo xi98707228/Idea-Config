@@ -983,9 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Pool did not terminate" />
-      <item value="get Dynamic App Access Token" />
+      <item value="is Empty" />
+      <item value="user access token not support" />
       <item value="Access Token" />
+      <item value="信息" />
+      <item value="get Dynamic App Access Token" />
+      <item value="Mapper Factory Bean" />
+      <item value="Skipping" />
+      <item value="Pool did not terminate" />
       <item value="get Open Id Map By Phone Number List" />
       <item value="Arrays" />
       <item value="Fly Book Message Utils" />
@@ -1028,17 +1033,12 @@
       <item value="broken" />
       <item value="The command to run when tripped" />
       <item value="Updates state on barrier trip and wakes up everyone. Called only while holding lock." />
-      <item value="next Generation" />
-      <item value="Mapper Factory Bean" />
-      <item value="Array List" />
-      <item value="获取所有该模型的预警信息" />
-      <item value="model Related Information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1371" />
+        <entry key="CHINESE" value="1378" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="ENGLISH" value="1379" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
