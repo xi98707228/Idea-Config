@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="allow Restricted Headers" />
       <item value="try Release Shared" />
       <item value="releases" />
       <item value="Count Down Latch内提供了实现" />
@@ -1032,13 +1033,12 @@
       <item value="System" />
       <item value="current Time Millis" />
       <item value="response" />
-      <item value="attachment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1400" />
+        <entry key="CHINESE" value="1401" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1401" />
+        <entry key="ENGLISH" value="1402" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
