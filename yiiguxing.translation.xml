@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get String" />
+      <item value="selected User Ids" />
       <item value="is Empty" />
       <item value="user access token not support" />
       <item value="Access Token" />
@@ -1031,14 +1033,12 @@
       <item value="arena Exchange" />
       <item value="slot Exchange" />
       <item value="broken" />
-      <item value="The command to run when tripped" />
-      <item value="Updates state on barrier trip and wakes up everyone. Called only while holding lock." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1378" />
+        <entry key="CHINESE" value="1380" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1379" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
