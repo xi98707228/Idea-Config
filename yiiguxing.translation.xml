@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="current Act Name" />
       <item value="get String" />
       <item value="selected User Ids" />
       <item value="is Empty" />
@@ -1032,13 +1033,12 @@
       <item value="Participant" />
       <item value="arena Exchange" />
       <item value="slot Exchange" />
-      <item value="broken" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1380" />
+        <entry key="CHINESE" value="1381" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1381" />
+        <entry key="ENGLISH" value="1382" />
         <entry key="FRENCH" value="10" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
