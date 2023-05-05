@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="access Token" />
+      <item value="本地或者公司测试服务器" />
       <item value="Map" />
       <item value="app secret" />
       <item value="cli a 4 d 9 b 321823 c 100 c" />
@@ -1031,14 +1033,12 @@
       <item value="barrier Command" />
       <item value="Cyclic Barrier每来一个线程执行await方法" />
       <item value="set Already Initialize" />
-      <item value="supplier Payment Tick" />
-      <item value="Participant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1385" />
+        <entry key="CHINESE" value="1386" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1386" />
+        <entry key="ENGLISH" value="1387" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
