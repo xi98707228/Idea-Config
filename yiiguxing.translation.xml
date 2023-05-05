@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="从这个场景来看" />
       <item value="也是一种同步机制" />
       <item value="并没有基于AQS实现" />
       <item value="而Count Down Latch本身是基于AQS实现的" />
@@ -1032,13 +1033,12 @@
       <item value="Arrays" />
       <item value="198220213" />
       <item value="18339069087" />
-      <item value="获取指定手机号对应的Open Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1412" />
+        <entry key="CHINESE" value="1413" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1412" />
+        <entry key="ENGLISH" value="1413" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
