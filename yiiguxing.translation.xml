@@ -983,6 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="也是一种同步机制" />
+      <item value="并没有基于AQS实现" />
+      <item value="而Count Down Latch本身是基于AQS实现的" />
+      <item value="Cyclic Barrier每来一个线程执行await方法" />
+      <item value="都会对屏障数值" />
+      <item value="Count Down Latch" />
+      <item value="可以获取到现在阻塞的线程有多少" />
+      <item value="Cyclic Barrier的应用" />
+      <item value="这些线程会被阻塞掉" />
+      <item value="到达一个屏障点" />
+      <item value="就会唤醒所有阻塞在屏障点的线程" />
+      <item value="屏障点的数值可以被重置" />
+      <item value="Resource Bundle" />
       <item value="allow Restricted Headers" />
       <item value="try Release Shared" />
       <item value="releases" />
@@ -1020,25 +1033,12 @@
       <item value="198220213" />
       <item value="18339069087" />
       <item value="获取指定手机号对应的Open Id" />
-      <item value="ou_2 dee 25 fcd 9 c 3 d 3299213643 b 75 b 74 b 3 c" />
-      <item value="Missing access token for authorization" />
-      <item value="获取电话号码对应的Open Id的map映射列表" />
-      <item value="C Ymr 0 z 8 hvxhw 7 B Wo Whao FV Zv 2 Ey E 5 Z Lo" />
-      <item value="app id" />
-      <item value="execute" />
-      <item value="Case Insensitive Map" />
-      <item value="APP ID" />
-      <item value="parallel Execute" />
-      <item value="thread Pool" />
-      <item value="System" />
-      <item value="current Time Millis" />
-      <item value="response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1401" />
+        <entry key="CHINESE" value="1412" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1402" />
+        <entry key="ENGLISH" value="1412" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
