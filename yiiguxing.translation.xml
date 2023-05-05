@@ -983,6 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="try Release Shared" />
+      <item value="releases" />
+      <item value="Count Down Latch内提供了实现" />
+      <item value="获取state" />
+      <item value="如果本次释放时" />
+      <item value="那么直接返回false" />
+      <item value="1后的临时结果" />
+      <item value="释放共享锁资源" />
+      <item value="方法处挂起的主线程" />
+      <item value="do Release Shared" />
+      <item value="拿到head头节点" />
+      <item value="Interrupted Exception" />
       <item value="developserver" />
       <item value="active" />
       <item value="access Token" />
@@ -1021,24 +1033,12 @@
       <item value="current Time Millis" />
       <item value="response" />
       <item value="attachment" />
-      <item value="get File Not Down" />
-      <item value="987072248" />
-      <item value="显示图片" />
-      <item value="let all threads proceed" />
-      <item value="don't let run yet" />
-      <item value="发现Count Down Latch的内部类Sync继承了AQS" />
-      <item value="以及AQS双向链表" />
-      <item value="计数器的await方法会将主线程阻塞" />
-      <item value="猜测阻塞时也是阻塞到AQS的双向队列中了" />
-      <item value="Count Down Latch的构造方法" />
-      <item value="barrier Action" />
-      <item value="barrier Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
+        <entry key="CHINESE" value="1400" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1389" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
