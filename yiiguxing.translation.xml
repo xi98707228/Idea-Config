@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="accept Match" />
       <item value="failed Once" />
       <item value="SOCKS" />
       <item value="HTTP" />
@@ -1032,13 +1033,12 @@
       <item value="cli a 4 d 9 b 321823 c 100 c" />
       <item value="Fly Book Message Utils" />
       <item value="current Act Name" />
-      <item value="get String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1425" />
+        <entry key="CHINESE" value="1426" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1426" />
+        <entry key="ENGLISH" value="1427" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
