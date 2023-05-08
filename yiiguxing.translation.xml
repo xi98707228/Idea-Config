@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="本次提交的新的总金额" />
+      <item value="set Without Invoice Amount" />
       <item value="当前线程挂起后会失去锁资源的保护" />
       <item value="使用while的原因是" />
       <item value="其实造成虚假唤醒的原因就是" />
@@ -1031,14 +1033,12 @@
       <item value="等待的线程达到数值后" />
       <item value="再统一唤醒" />
       <item value="从这个场景来看" />
-      <item value="也是一种同步机制" />
-      <item value="并没有基于AQS实现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1454" />
+        <entry key="CHINESE" value="1455" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1454" />
+        <entry key="ENGLISH" value="1455" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
