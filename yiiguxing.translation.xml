@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="当前线程挂起后会失去锁资源的保护" />
+      <item value="使用while的原因是" />
+      <item value="其实造成虚假唤醒的原因就是" />
+      <item value="enqueue方法加入元素这时就会把之前已经存在的数据给覆盖掉了" />
       <item value="到这个while循环前" />
       <item value="items" />
       <item value="loop until tripped, broken, interrupted, or timed out" />
@@ -1029,16 +1033,12 @@
       <item value="从这个场景来看" />
       <item value="也是一种同步机制" />
       <item value="并没有基于AQS实现" />
-      <item value="而Count Down Latch本身是基于AQS实现的" />
-      <item value="Cyclic Barrier每来一个线程执行await方法" />
-      <item value="都会对屏障数值" />
-      <item value="Count Down Latch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1452" />
+        <entry key="CHINESE" value="1454" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1453" />
+        <entry key="ENGLISH" value="1454" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
