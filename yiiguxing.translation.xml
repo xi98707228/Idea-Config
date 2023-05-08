@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="existing mapping for key" />
+      <item value="threshold" />
+      <item value="e" />
+      <item value="after Node Access" />
+      <item value="after Node Insertion" />
+      <item value="remove Eldest Entry" />
+      <item value="evict" />
       <item value="login User" />
       <item value="Exception" />
       <item value="approve Passed Trigger Synchro Add New Payment Bill" />
@@ -1026,23 +1033,16 @@
       <item value="accept Match" />
       <item value="用来生成每个客户端线程体" />
       <item value="a" />
-      <item value="failed Once" />
-      <item value="SOCKS" />
-      <item value="HTTP" />
-      <item value="DIRECT" />
-      <item value="系统日志输出" />
-      <item value="Quantum Toolkit" />
-      <item value="info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1461" />
+        <entry key="CHINESE" value="1468" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1462" />
+        <entry key="ENGLISH" value="1469" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
       </map>
