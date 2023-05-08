@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="login User" />
+      <item value="Exception" />
+      <item value="approve Passed Trigger Synchro Add New Payment Bill" />
+      <item value="payment Tick Relation By Process Id" />
+      <item value="now Date" />
+      <item value="Date" />
+      <item value="confirm Bill Info" />
       <item value="本次提交的新的总金额" />
       <item value="set Without Invoice Amount" />
       <item value="当前线程挂起后会失去锁资源的保护" />
@@ -1026,19 +1033,12 @@
       <item value="系统日志输出" />
       <item value="Quantum Toolkit" />
       <item value="info" />
-      <item value="FILE UTIL" />
-      <item value="THREAD LOCAL DATE" />
-      <item value="避免无限等待的问题" />
-      <item value="Cyclic Barrier更多的是让子线程计数并等待" />
-      <item value="等待的线程达到数值后" />
-      <item value="再统一唤醒" />
-      <item value="从这个场景来看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1455" />
+        <entry key="CHINESE" value="1461" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1455" />
+        <entry key="ENGLISH" value="1462" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
