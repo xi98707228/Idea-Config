@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="link" />
+      <item value="request" />
+      <item value="download File" />
+      <item value="server File Path" />
       <item value="is Broken" />
       <item value="reset" />
       <item value="Timeout Exception" />
@@ -1029,16 +1033,12 @@
       <item value="Count Down Latch内提供了实现" />
       <item value="获取state" />
       <item value="如果本次释放时" />
-      <item value="那么直接返回false" />
-      <item value="1后的临时结果" />
-      <item value="释放共享锁资源" />
-      <item value="方法处挂起的主线程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1437" />
+        <entry key="CHINESE" value="1440" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1438" />
+        <entry key="ENGLISH" value="1441" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
