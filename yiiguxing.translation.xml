@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The command to run when tripped" />
+      <item value="Number of parties still waiting. Counts down from parties to 0 on each generation. It is reset to parties on each new generation or when broken." />
+      <item value="The lock for guarding barrier entry" />
       <item value="link" />
       <item value="request" />
       <item value="download File" />
@@ -1030,15 +1033,12 @@
       <item value="allow Restricted Headers" />
       <item value="try Release Shared" />
       <item value="releases" />
-      <item value="Count Down Latch内提供了实现" />
-      <item value="获取state" />
-      <item value="如果本次释放时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1440" />
+        <entry key="CHINESE" value="1444" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1441" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
