@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="file Upload" />
+      <item value="Hash Map" />
+      <item value="upload Flag" />
       <item value="redis Cache" />
       <item value="wait After Process Attach Ids" />
       <item value="Sequence Number Generic" />
@@ -1030,15 +1033,12 @@
       <item value="break Barrier" />
       <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="request" />
-      <item value="response" />
-      <item value="操作日志对象" />
-      <item value="操作日志集合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1491" />
+        <entry key="CHINESE" value="1493" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1491" />
+        <entry key="ENGLISH" value="1494" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
