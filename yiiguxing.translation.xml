@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Allowed Extension" />
+      <item value="editor Server Service" />
       <item value="get File Not Down" />
       <item value="file Upload" />
       <item value="Hash Map" />
@@ -1031,14 +1033,12 @@
       <item value="到这个while循环前" />
       <item value="items" />
       <item value="loop until tripped, broken, interrupted, or timed out" />
-      <item value="break Barrier" />
-      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1494" />
+        <entry key="CHINESE" value="1495" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1495" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
