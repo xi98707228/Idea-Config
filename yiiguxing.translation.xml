@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get File Not Down" />
       <item value="file Upload" />
       <item value="Hash Map" />
       <item value="upload Flag" />
@@ -1032,13 +1033,12 @@
       <item value="loop until tripped, broken, interrupted, or timed out" />
       <item value="break Barrier" />
       <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
-      <item value="request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1493" />
+        <entry key="CHINESE" value="1494" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1494" />
+        <entry key="ENGLISH" value="1495" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
