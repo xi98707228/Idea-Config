@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683163648382" />
+    <option name="lastTrimTime" value="1683597433334" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Sequence Number Generic" />
+      <item value="warn" />
+      <item value="LOGGER" />
+      <item value="组合参数将" />
+      <item value="json Object" />
+      <item value="equals" />
+      <item value="Authorization" />
       <item value="Trident" />
       <item value="Content-disposition" />
       <item value="ran Action" />
@@ -995,7 +1002,6 @@
       <item value="Replacing main artifact with repackaged archive" />
       <item value="implements" />
       <item value="key" />
-      <item value="equals" />
       <item value="existing mapping for key" />
       <item value="threshold" />
       <item value="e" />
@@ -1027,18 +1033,12 @@
       <item value="操作日志集合" />
       <item value="oper Time" />
       <item value="oper time" />
-      <item value="The command to run when tripped" />
-      <item value="Number of parties still waiting. Counts down from parties to 0 on each generation. It is reset to parties on each new generation or when broken." />
-      <item value="The lock for guarding barrier entry" />
-      <item value="link" />
-      <item value="download File" />
-      <item value="server File Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1481" />
+        <entry key="CHINESE" value="1488" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1482" />
+        <entry key="ENGLISH" value="1489" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
