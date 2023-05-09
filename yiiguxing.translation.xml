@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="total Amount" />
+      <item value="AUTHOR REVISE" />
+      <item value="save Submit Form Handle Procedure" />
+      <item value="business Message Type" />
+      <item value="send Message Type Of Interactive" />
       <item value="if ((waitItem.getAlreadyInitialize() == null || 兼容老版本 waitItem.getAlreadyInitialize() == 0)) { 开启流程 if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); } 更新流程 - 流程结束 if (Objects.equals(ExamineStatus.EXAMINE_FINISH.getExamineStatusCode(), waitItem.getExamineStatus())){ waitItem.setAlreadyInitialize(1); } waitItem.setExamineStatus(changeStatus.getExamineStatusCode()); financeSupplierPaymentTickMapper.updateById(waitItem); }" />
       <item value="if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); }" />
       <item value="if" />
@@ -1028,17 +1033,12 @@
       <item value="remove Eldest Entry" />
       <item value="evict" />
       <item value="login User" />
-      <item value="Exception" />
-      <item value="approve Passed Trigger Synchro Add New Payment Bill" />
-      <item value="payment Tick Relation By Process Id" />
-      <item value="now Date" />
-      <item value="Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1502" />
+        <entry key="CHINESE" value="1505" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1502" />
+        <entry key="ENGLISH" value="1506" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
