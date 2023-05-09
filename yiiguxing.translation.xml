@@ -983,6 +983,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="if ((waitItem.getAlreadyInitialize() == null || 兼容老版本 waitItem.getAlreadyInitialize() == 0)) { 开启流程 if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); } 更新流程 - 流程结束 if (Objects.equals(ExamineStatus.EXAMINE_FINISH.getExamineStatusCode(), waitItem.getExamineStatus())){ waitItem.setAlreadyInitialize(1); } waitItem.setExamineStatus(changeStatus.getExamineStatusCode()); financeSupplierPaymentTickMapper.updateById(waitItem); }" />
+      <item value="if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); }" />
+      <item value="if" />
+      <item value="也即已经审批通过了至少一次了" />
+      <item value="当前审批单是否已经" />
+      <item value="初始化过了" />
+      <item value="already Initialize" />
+      <item value="operate Row Id" />
+      <item value="get Row Id" />
+      <item value="supplier Payment Tick" />
       <item value="is Allowed Extension" />
       <item value="editor Server Service" />
       <item value="get File Not Down" />
@@ -1023,22 +1033,12 @@
       <item value="payment Tick Relation By Process Id" />
       <item value="now Date" />
       <item value="Date" />
-      <item value="confirm Bill Info" />
-      <item value="本次提交的新的总金额" />
-      <item value="set Without Invoice Amount" />
-      <item value="当前线程挂起后会失去锁资源的保护" />
-      <item value="使用while的原因是" />
-      <item value="其实造成虚假唤醒的原因就是" />
-      <item value="enqueue方法加入元素这时就会把之前已经存在的数据给覆盖掉了" />
-      <item value="到这个while循环前" />
-      <item value="items" />
-      <item value="loop until tripped, broken, interrupted, or timed out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1495" />
+        <entry key="CHINESE" value="1502" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1496" />
+        <entry key="ENGLISH" value="1502" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
