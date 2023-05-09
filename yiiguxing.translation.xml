@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Trident" />
+      <item value="Content-disposition" />
       <item value="ran Action" />
       <item value="generation" />
       <item value="match Value" />
@@ -1031,14 +1033,12 @@
       <item value="link" />
       <item value="download File" />
       <item value="server File Path" />
-      <item value="is Broken" />
-      <item value="reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1479" />
+        <entry key="CHINESE" value="1481" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1480" />
+        <entry key="ENGLISH" value="1482" />
         <entry key="FRENCH" value="11" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
