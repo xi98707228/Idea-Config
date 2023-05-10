@@ -983,6 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Held Exclusively" />
+      <item value="node.prev can be non-null, but not yet on queue because the CAS to place it on queue can fail. So we have to traverse from tail to make sure it actually made it. It will always be near the tail in calls to this method, and unless the CAS failed (which is unlikely), it will be there, so we hardly ever traverse much." />
+      <item value="find Node From Tail" />
+      <item value="failed" />
+      <item value="fully Release" />
+      <item value="null" />
+      <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
+      <item value="If lastWaiter is cancelled, clean out." />
+      <item value="await Uninterruptibly" />
+      <item value="first Waiter" />
+      <item value="REINTERRUPT" />
+      <item value="report Interrupt After Wait" />
       <item value="易小川突然有事撤销匹配" />
       <item value="subsequent" />
       <item value="Interrupted Exception" />
@@ -993,7 +1005,6 @@
       <item value="Thread" />
       <item value="Identity Hash Map" />
       <item value="customizer" />
-      <item value="node.prev can be non-null, but not yet on queue because the CAS to place it on queue can fail. So we have to traverse from tail to make sure it actually made it. It will always be near the tail in calls to this method, and unless the CAS failed (which is unlikely), it will be there, so we hardly ever traverse much." />
       <item value="If has successor, it must be on queue" />
       <item value="已经有其他的线程发生了中断或者" />
       <item value="如果在挂起到中断过程中" />
@@ -1022,23 +1033,12 @@
       <item value="if ((waitItem.getAlreadyInitialize() == null || 兼容老版本 waitItem.getAlreadyInitialize() == 0)) { 开启流程 if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); } 更新流程 - 流程结束 if (Objects.equals(ExamineStatus.EXAMINE_FINISH.getExamineStatusCode(), waitItem.getExamineStatus())){ waitItem.setAlreadyInitialize(1); } waitItem.setExamineStatus(changeStatus.getExamineStatusCode()); financeSupplierPaymentTickMapper.updateById(waitItem); }" />
       <item value="if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); }" />
       <item value="if" />
-      <item value="也即已经审批通过了至少一次了" />
-      <item value="当前审批单是否已经" />
-      <item value="初始化过了" />
-      <item value="already Initialize" />
-      <item value="operate Row Id" />
-      <item value="get Row Id" />
-      <item value="supplier Payment Tick" />
-      <item value="is Allowed Extension" />
-      <item value="editor Server Service" />
-      <item value="get File Not Down" />
-      <item value="file Upload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1535" />
+        <entry key="CHINESE" value="1549" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="ENGLISH" value="1550" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
