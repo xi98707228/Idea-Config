@@ -983,6 +983,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Identity Hash Map" />
+      <item value="customizer" />
+      <item value="node.prev can be non-null, but not yet on queue because the CAS to place it on queue can fail. So we have to traverse from tail to make sure it actually made it. It will always be near the tail in calls to this method, and unless the CAS failed (which is unlikely), it will be there, so we hardly ever traverse much." />
+      <item value="If has successor, it must be on queue" />
+      <item value="已经有其他的线程发生了中断或者" />
+      <item value="如果在挂起到中断过程中" />
+      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt" />
+      <item value="finish" />
+      <item value="has Queued Predecessors" />
+      <item value="Fair Sync" />
+      <item value="Broken Barrier Exception" />
+      <item value="将当前的generation的broken属性设置为true" />
+      <item value="generation" />
+      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
+      <item value="loop until tripped, broken, interrupted, or timed out" />
+      <item value="如果当前的generation的broken属性已经是true" />
       <item value="target Object" />
       <item value="relationship Row Ids" />
       <item value="submit Object" />
@@ -1017,28 +1033,12 @@
       <item value="Sequence Number Generic" />
       <item value="warn" />
       <item value="LOGGER" />
-      <item value="组合参数将" />
-      <item value="json Object" />
-      <item value="equals" />
-      <item value="Authorization" />
-      <item value="Trident" />
-      <item value="Content-disposition" />
-      <item value="ran Action" />
-      <item value="generation" />
-      <item value="match Value" />
-      <item value="(value != null &amp;&amp; value.equals(v)))) {" />
-      <item value="if (node != null &amp;&amp; (!matchValue || (v = node.value) == value ||" />
-      <item value="if (node instanceof TreeNode)" />
-      <item value="else if (node == p)" />
-      <item value="Replacing main artifact with repackaged archive" />
-      <item value="implements" />
-      <item value="key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1509" />
+        <entry key="CHINESE" value="1523" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1510" />
+        <entry key="ENGLISH" value="1524" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
