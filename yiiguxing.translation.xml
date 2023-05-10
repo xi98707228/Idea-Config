@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="REINTERRUPT" />
       <item value="transport" />
       <item value="is Held Exclusively" />
@@ -999,7 +1000,6 @@
       <item value="易小川突然有事撤销匹配" />
       <item value="subsequent" />
       <item value="Interrupted Exception" />
-      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="main Lock" />
       <item value="waiting" />
       <item value="execution" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1551" />
+        <entry key="CHINESE" value="1552" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1552" />
+        <entry key="ENGLISH" value="1553" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
