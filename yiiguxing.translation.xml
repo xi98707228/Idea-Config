@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="target Object" />
+      <item value="relationship Row Ids" />
+      <item value="submit Object" />
       <item value="set Already Initialize" />
       <item value="当前单据完成流程后" />
       <item value="单向取消关联审批流程row Id" />
@@ -1030,15 +1033,12 @@
       <item value="Replacing main artifact with repackaged archive" />
       <item value="implements" />
       <item value="key" />
-      <item value="existing mapping for key" />
-      <item value="threshold" />
-      <item value="e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1507" />
+        <entry key="CHINESE" value="1509" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1508" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
