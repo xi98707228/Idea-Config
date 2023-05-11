@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="maven多环境打包配置" />
       <item value="is Add Activity" />
       <item value="timeout" />
@@ -1032,13 +1033,12 @@
       <item value="loop until tripped, broken, interrupted, or timed out" />
       <item value="如果当前的generation的broken属性已经是true" />
       <item value="target Object" />
-      <item value="relationship Row Ids" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1565" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1565" />
+        <entry key="ENGLISH" value="1566" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
