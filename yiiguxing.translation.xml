@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="maven多环境打包配置" />
+      <item value="is Add Activity" />
       <item value="timeout" />
       <item value="break Barrier" />
       <item value="Thread" />
@@ -1031,12 +1033,10 @@
       <item value="如果当前的generation的broken属性已经是true" />
       <item value="target Object" />
       <item value="relationship Row Ids" />
-      <item value="submit Object" />
-      <item value="set Already Initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1564" />
+        <entry key="CHINESE" value="1565" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1565" />
         <entry key="FRENCH" value="12" />
