@@ -983,13 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Thread" />
+      <item value="interrupt" />
       <item value="那么就相当于中断了当前线程" />
       <item value="易小川突然有事撤销匹配" />
-      <item value="Thread" />
       <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="belong" />
       <item value="t 1" />
-      <item value="interrupt" />
       <item value="If we lost out to a signal(), then we can't proceed until it finishes its enq(). Cancelling during an incomplete transfer is both rare and transient, so just spin." />
       <item value="抛出异常的" />
       <item value="的线程中断唤醒后是不会" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1561" />
+        <entry key="CHINESE" value="1563" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1561" />
+        <entry key="ENGLISH" value="1564" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
