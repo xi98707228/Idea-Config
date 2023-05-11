@@ -983,6 +983,30 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="unlock" />
+      <item value="有人拒绝了等待对局" />
+      <item value="需要重新匹配了" />
+      <item value="get Number Waiting" />
+      <item value="有人拒绝了等待对局 , 需要重新匹配了!" />
+      <item value="等待超时,自动回到匹配队列!" />
+      <item value="Disconnected" />
+      <item value="address" />
+      <item value="next Generation" />
+      <item value="trip" />
+      <item value="signal All" />
+      <item value="count" />
+      <item value="parties" />
+      <item value="新的计数器broken默认为false" />
+      <item value="生成一个新的计数器" />
+      <item value="generation" />
+      <item value="Generation" />
+      <item value="new" />
+      <item value="重置屏障处计数器" />
+      <item value="唤醒之前屏障处所有挂起的线程" />
+      <item value="break Barrier" />
+      <item value="broken" />
+      <item value="signal completion of last generation" />
+      <item value="transport" />
       <item value="Lock Support Sleep" />
       <item value="Lock Support" />
       <item value="interrupt" />
@@ -997,7 +1021,6 @@
       <item value="maven多环境打包配置" />
       <item value="is Add Activity" />
       <item value="timeout" />
-      <item value="break Barrier" />
       <item value="Thread" />
       <item value="那么就相当于中断了当前线程" />
       <item value="易小川突然有事撤销匹配" />
@@ -1009,36 +1032,13 @@
       <item value="arrive" />
       <item value="Managed Blocker" />
       <item value="REINTERRUPT" />
-      <item value="transport" />
       <item value="is Held Exclusively" />
-      <item value="node.prev can be non-null, but not yet on queue because the CAS to place it on queue can fail. So we have to traverse from tail to make sure it actually made it. It will always be near the tail in calls to this method, and unless the CAS failed (which is unlikely), it will be there, so we hardly ever traverse much." />
-      <item value="find Node From Tail" />
-      <item value="failed" />
-      <item value="fully Release" />
-      <item value="null" />
-      <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
-      <item value="If lastWaiter is cancelled, clean out." />
-      <item value="await Uninterruptibly" />
-      <item value="first Waiter" />
-      <item value="report Interrupt After Wait" />
-      <item value="subsequent" />
-      <item value="main Lock" />
-      <item value="waiting" />
-      <item value="execution" />
-      <item value="Identity Hash Map" />
-      <item value="customizer" />
-      <item value="If has successor, it must be on queue" />
-      <item value="已经有其他的线程发生了中断或者" />
-      <item value="如果在挂起到中断过程中" />
-      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt" />
-      <item value="finish" />
-      <item value="has Queued Predecessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1575" />
+        <entry key="CHINESE" value="1607" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
