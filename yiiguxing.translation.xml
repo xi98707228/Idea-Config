@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="timeout" />
       <item value="break Barrier" />
       <item value="Thread" />
       <item value="interrupt" />
@@ -1032,7 +1033,6 @@
       <item value="relationship Row Ids" />
       <item value="submit Object" />
       <item value="set Already Initialize" />
-      <item value="当前单据完成流程后" />
     </histories>
     <option name="languageScores">
       <map>
