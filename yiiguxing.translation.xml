@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="If we lost out to a signal(), then we can't proceed until it finishes its enq(). Cancelling during an incomplete transfer is both rare and transient, so just spin." />
+      <item value="抛出异常的" />
+      <item value="的线程中断唤醒后是不会" />
       <item value="arrive" />
       <item value="Managed Blocker" />
       <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
@@ -1030,15 +1033,12 @@
       <item value="set Examine Row Id" />
       <item value="total Amount" />
       <item value="AUTHOR REVISE" />
-      <item value="save Submit Form Handle Procedure" />
-      <item value="business Message Type" />
-      <item value="send Message Type Of Interactive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1554" />
+        <entry key="CHINESE" value="1556" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1555" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
