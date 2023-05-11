@@ -983,12 +983,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="那么就相当于中断了当前线程" />
+      <item value="易小川突然有事撤销匹配" />
+      <item value="Thread" />
+      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
+      <item value="belong" />
+      <item value="t 1" />
+      <item value="interrupt" />
       <item value="If we lost out to a signal(), then we can't proceed until it finishes its enq(). Cancelling during an incomplete transfer is both rare and transient, so just spin." />
       <item value="抛出异常的" />
       <item value="的线程中断唤醒后是不会" />
       <item value="arrive" />
       <item value="Managed Blocker" />
-      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="REINTERRUPT" />
       <item value="transport" />
       <item value="is Held Exclusively" />
@@ -1002,13 +1008,11 @@
       <item value="await Uninterruptibly" />
       <item value="first Waiter" />
       <item value="report Interrupt After Wait" />
-      <item value="易小川突然有事撤销匹配" />
       <item value="subsequent" />
       <item value="Interrupted Exception" />
       <item value="main Lock" />
       <item value="waiting" />
       <item value="execution" />
-      <item value="Thread" />
       <item value="Identity Hash Map" />
       <item value="customizer" />
       <item value="If has successor, it must be on queue" />
@@ -1029,16 +1033,12 @@
       <item value="set Already Initialize" />
       <item value="当前单据完成流程后" />
       <item value="单向取消关联审批流程row Id" />
-      <item value="approve Passed Trigger Synchro Add New Payment Bill" />
-      <item value="set Examine Row Id" />
-      <item value="total Amount" />
-      <item value="AUTHOR REVISE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1556" />
+        <entry key="CHINESE" value="1561" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1557" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
