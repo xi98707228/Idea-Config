@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="arrive" />
+      <item value="Managed Blocker" />
       <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
       <item value="REINTERRUPT" />
       <item value="transport" />
@@ -1031,14 +1033,12 @@
       <item value="save Submit Form Handle Procedure" />
       <item value="business Message Type" />
       <item value="send Message Type Of Interactive" />
-      <item value="if ((waitItem.getAlreadyInitialize() == null || 兼容老版本 waitItem.getAlreadyInitialize() == 0)) { 开启流程 if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); } 更新流程 - 流程结束 if (Objects.equals(ExamineStatus.EXAMINE_FINISH.getExamineStatusCode(), waitItem.getExamineStatus())){ waitItem.setAlreadyInitialize(1); } waitItem.setExamineStatus(changeStatus.getExamineStatusCode()); financeSupplierPaymentTickMapper.updateById(waitItem); }" />
-      <item value="if (saveExamineRowId) { waitItem.setExamineRowId(examineRowId); }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1552" />
+        <entry key="CHINESE" value="1554" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1553" />
+        <entry key="ENGLISH" value="1555" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
