@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="atomic Integer" />
+      <item value="get State" />
+      <item value="interrupt Idle Workers" />
+      <item value="throws" />
+      <item value="permits" />
       <item value="Permit count underflow" />
       <item value="drain Permits" />
       <item value="reduce Permits" />
@@ -1028,17 +1033,12 @@
       <item value="count" />
       <item value="parties" />
       <item value="新的计数器broken默认为false" />
-      <item value="生成一个新的计数器" />
-      <item value="generation" />
-      <item value="Generation" />
-      <item value="new" />
-      <item value="重置屏障处计数器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1631" />
+        <entry key="CHINESE" value="1634" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1632" />
+        <entry key="ENGLISH" value="1635" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
