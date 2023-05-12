@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="xqh" />
       <item value="thead" />
       <item value="for Each" />
       <item value="Activity Sign In" />
@@ -1032,13 +1033,12 @@
       <item value="broken" />
       <item value="signal completion of last generation" />
       <item value="transport" />
-      <item value="Lock Support Sleep" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1625" />
+        <entry key="CHINESE" value="1626" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1626" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
