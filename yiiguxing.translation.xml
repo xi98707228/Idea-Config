@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="init Table Fields" />
       <item value="unlock" />
       <item value="有人拒绝了等待对局" />
       <item value="需要重新匹配了" />
@@ -1032,13 +1033,12 @@
       <item value="arrive" />
       <item value="Managed Blocker" />
       <item value="REINTERRUPT" />
-      <item value="is Held Exclusively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1607" />
+        <entry key="CHINESE" value="1608" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1608" />
+        <entry key="ENGLISH" value="1609" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
