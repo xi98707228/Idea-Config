@@ -983,6 +983,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="查询用户名称" />
+      <item value="获取积分明细数据列表" />
+      <item value="Gift Shop Right Exchange" />
+      <item value="987072248" />
+      <item value="sys Organization" />
+      <item value="get Row Id" />
+      <item value="activity Key" />
+      <item value="Request Param" />
+      <item value="get One" />
+      <item value="activity Publish Service" />
+      <item value="移动端统计访问量" />
+      <item value="获取组织信息" />
+      <item value="query Project Row Ids" />
+      <item value="is Empty" />
+      <item value="Collection Utils" />
+      <item value="activity Projects" />
+      <item value="result Map" />
+      <item value="Data" />
+      <item value="query Data List" />
+      <item value="get Project Id" />
       <item value="init Table Fields" />
       <item value="unlock" />
       <item value="有人拒绝了等待对局" />
@@ -1013,32 +1033,12 @@
       <item value="interrupt" />
       <item value="current Thread" />
       <item value="sleep" />
-      <item value="shutdown" />
-      <item value="full Get First Queued Thread" />
-      <item value="is On Sync Queue" />
-      <item value="We're about to finish waiting even if we had not been interrupted, so this interrupt is deemed to &quot;belong&quot; to subsequent execution." />
-      <item value="Interrupted Exception" />
-      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
-      <item value="maven多环境打包配置" />
-      <item value="is Add Activity" />
-      <item value="timeout" />
-      <item value="Thread" />
-      <item value="那么就相当于中断了当前线程" />
-      <item value="易小川突然有事撤销匹配" />
-      <item value="belong" />
-      <item value="t 1" />
-      <item value="If we lost out to a signal(), then we can't proceed until it finishes its enq(). Cancelling during an incomplete transfer is both rare and transient, so just spin." />
-      <item value="抛出异常的" />
-      <item value="的线程中断唤醒后是不会" />
-      <item value="arrive" />
-      <item value="Managed Blocker" />
-      <item value="REINTERRUPT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
+        <entry key="CHINESE" value="1623" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1609" />
+        <entry key="ENGLISH" value="1623" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
