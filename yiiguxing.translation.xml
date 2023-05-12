@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Permit count underflow" />
+      <item value="drain Permits" />
+      <item value="reduce Permits" />
+      <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
+      <item value="inhibit interrupts until runWorker" />
       <item value="xqh" />
       <item value="thead" />
       <item value="for Each" />
@@ -1028,17 +1033,12 @@
       <item value="Generation" />
       <item value="new" />
       <item value="重置屏障处计数器" />
-      <item value="唤醒之前屏障处所有挂起的线程" />
-      <item value="break Barrier" />
-      <item value="broken" />
-      <item value="signal completion of last generation" />
-      <item value="transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1626" />
+        <entry key="CHINESE" value="1631" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="ENGLISH" value="1632" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
