@@ -983,10 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="如果碗不不够这一队使用" />
+      <item value="需要同一起跑线出发的任务" />
+      <item value="如果有一个任务很慢那么也就是说必须等待这个最慢的" />
       <item value="或者说比赛可以等你1 h" />
       <item value="比如田径项目100米" />
       <item value="如果你没到比赛是不能开始的" />
-      <item value="如果碗不不够这一队使用" />
       <item value="Count Down Latch" />
       <item value="Cyclic Barrier" />
       <item value="当前的Cyclic Barrie没有被破坏" />
@@ -1031,14 +1033,12 @@
       <item value="Collection Utils" />
       <item value="activity Projects" />
       <item value="result Map" />
-      <item value="Data" />
-      <item value="query Data List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1642" />
+        <entry key="CHINESE" value="1645" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1642" />
+        <entry key="ENGLISH" value="1645" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
