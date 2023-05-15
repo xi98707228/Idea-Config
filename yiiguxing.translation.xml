@@ -983,6 +983,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="或者说比赛可以等你1 h" />
+      <item value="比如田径项目100米" />
+      <item value="如果你没到比赛是不能开始的" />
+      <item value="如果碗不不够这一队使用" />
+      <item value="Count Down Latch" />
+      <item value="Cyclic Barrier" />
+      <item value="当前的Cyclic Barrie没有被破坏" />
+      <item value="barrier Command" />
+      <item value="epoll" />
+      <item value="upload Name" />
+      <item value="current Sys User Signature" />
+      <item value="i Sys User Signature Service" />
+      <item value="当Semaphore中的许可证不够某个线程获取后" />
+      <item value="JDK提供的三种并发工具比较和图解" />
       <item value="thread Pool" />
       <item value="execute" />
       <item value="atomic Integer" />
@@ -1019,26 +1033,12 @@
       <item value="result Map" />
       <item value="Data" />
       <item value="query Data List" />
-      <item value="get Project Id" />
-      <item value="init Table Fields" />
-      <item value="unlock" />
-      <item value="有人拒绝了等待对局" />
-      <item value="需要重新匹配了" />
-      <item value="get Number Waiting" />
-      <item value="有人拒绝了等待对局 , 需要重新匹配了!" />
-      <item value="等待超时,自动回到匹配队列!" />
-      <item value="Disconnected" />
-      <item value="address" />
-      <item value="next Generation" />
-      <item value="trip" />
-      <item value="signal All" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1635" />
+        <entry key="CHINESE" value="1642" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1636" />
+        <entry key="ENGLISH" value="1642" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
