@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="thread Pool" />
+      <item value="execute" />
       <item value="atomic Integer" />
       <item value="get State" />
       <item value="interrupt Idle Workers" />
@@ -1031,14 +1033,12 @@
       <item value="trip" />
       <item value="signal All" />
       <item value="count" />
-      <item value="parties" />
-      <item value="新的计数器broken默认为false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1634" />
+        <entry key="CHINESE" value="1635" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1635" />
+        <entry key="ENGLISH" value="1636" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
