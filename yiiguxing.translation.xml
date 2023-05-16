@@ -983,6 +983,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="可以获取指定数量的凭证" />
+      <item value="Body is replaced (injected) by JavassistProxyFactory" />
+      <item value="POOL SUSPENDED" />
+      <item value="acquire Uninterruptibly" />
+      <item value="Suspend Resume Lock" />
+      <item value="suspend" />
       <item value="most Sig Bits" />
       <item value="synchronized" />
       <item value="System" />
@@ -1027,18 +1033,12 @@
       <item value="Semaphore Limit Demo" />
       <item value="static" />
       <item value="main" />
-      <item value="remaining" />
-      <item value="Some private helper methods" />
-      <item value="should Park After Failed Acquire" />
-      <item value="park And Check Interrupt" />
-      <item value="concurrent" />
-      <item value="Semaphore应用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1695" />
+        <entry key="CHINESE" value="1699" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1696" />
+        <entry key="ENGLISH" value="1700" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
