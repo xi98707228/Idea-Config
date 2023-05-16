@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="try Acquire" />
+      <item value="timeout" />
+      <item value="semaphore Pool" />
       <item value="import Data List" />
       <item value="SHARED" />
       <item value="has Queued Predecessors" />
@@ -1030,15 +1033,12 @@
       <item value="upload Name" />
       <item value="current Sys User Signature" />
       <item value="i Sys User Signature Service" />
-      <item value="当Semaphore中的许可证不够某个线程获取后" />
-      <item value="JDK提供的三种并发工具比较和图解" />
-      <item value="thread Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1673" />
+        <entry key="CHINESE" value="1677" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1674" />
+        <entry key="ENGLISH" value="1678" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
