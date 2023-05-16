@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="group Thread" />
+      <item value="在1684142294875时刻并没有拿到足够的名额而进行挂起了" />
       <item value="people Number" />
       <item value="password" />
       <item value="println" />
@@ -1031,14 +1033,12 @@
       <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
       <item value="inhibit interrupts until runWorker" />
       <item value="xqh" />
-      <item value="thead" />
-      <item value="for Each" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1659" />
+        <entry key="CHINESE" value="1660" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1660" />
+        <entry key="ENGLISH" value="1661" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
