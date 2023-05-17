@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Custom Contract File Relation" />
       <item value="update This Model Data Trigger Event" />
       <item value="developserver" />
       <item value="Communications" />
@@ -1032,7 +1033,6 @@
       <item value="acquire Uninterruptibly" />
       <item value="Suspend Resume Lock" />
       <item value="suspend" />
-      <item value="most Sig Bits" />
     </histories>
     <option name="languageScores">
       <map>
