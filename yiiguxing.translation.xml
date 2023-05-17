@@ -983,6 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="exclusive Owner Thread" />
+      <item value="Creates a new {@code AbstractQueuedSynchronizer} instance with initial synchronization state of zero." />
+      <item value="serial Version UID" />
+      <item value="thrown" />
+      <item value="thread" />
+      <item value="current" />
+      <item value="interrupted" />
       <item value="Power Of Two Striped" />
       <item value="Composite Event Target" />
       <item value="fire Event Impl" />
@@ -1006,7 +1013,6 @@
       <item value="permits" />
       <item value="release" />
       <item value="Link to next node waiting on condition, or the special value SHARED. Because condition queues are accessed only when holding in exclusive mode, we just need a simple linked queue to hold nodes while they are waiting on conditions. They are then transferred to the queue to re-acquire. And because conditions can only be exclusive, we save a field by using special value to indicate shared mode." />
-      <item value="thread" />
       <item value="head" />
       <item value="pred" />
       <item value="do Release Shared" />
@@ -1027,18 +1033,12 @@
       <item value="Read Write Lock" />
       <item value="Execute Redis --&gt; DB Lock" />
       <item value="thread People Number" />
-      <item value="will Enter" />
-      <item value="sleep" />
-      <item value="group Thread" />
-      <item value="在1684142294875时刻并没有拿到足够的名额而进行挂起了" />
-      <item value="people Number" />
-      <item value="password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1702" />
+        <entry key="CHINESE" value="1711" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1703" />
+        <entry key="ENGLISH" value="1712" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
