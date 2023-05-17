@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="obtain Data Source" />
+      <item value="Data Source" />
       <item value="exclusive Owner Thread" />
       <item value="Creates a new {@code AbstractQueuedSynchronizer} instance with initial synchronization state of zero." />
       <item value="serial Version UID" />
@@ -1031,14 +1033,12 @@
       <item value="implements" />
       <item value="Activity Views Schedule Task" />
       <item value="Read Write Lock" />
-      <item value="Execute Redis --&gt; DB Lock" />
-      <item value="thread People Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1711" />
+        <entry key="CHINESE" value="1713" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1712" />
+        <entry key="ENGLISH" value="1714" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
