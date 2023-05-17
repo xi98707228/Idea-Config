@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="developserver" />
       <item value="Communications" />
       <item value="Enum Un Update Exception" />
       <item value="login Firewall" />
@@ -1032,13 +1033,12 @@
       <item value="suspend" />
       <item value="most Sig Bits" />
       <item value="synchronized" />
-      <item value="System" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1739" />
+        <entry key="CHINESE" value="1740" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1740" />
+        <entry key="ENGLISH" value="1741" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
