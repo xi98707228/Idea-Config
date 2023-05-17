@@ -983,6 +983,33 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Enum Un Update Exception" />
+      <item value="login Firewall" />
+      <item value="Fir" />
+      <item value="response" />
+      <item value="print Stack Trace" />
+      <item value="The throwable that caused this throwable to get thrown, or null if this throwable was not caused by another throwable, or if the causative throwable is unknown. If this field is equal to this throwable itself, it indicates that the cause of this throwable has not yet been initialized." />
+      <item value="Http 11 Nio Protocol" />
+      <item value="log Started" />
+      <item value="Quartz Scheduler Ruoyi Scheduler" />
+      <item value="Connection" />
+      <item value="Ruoyi Scheduler" />
+      <item value="Dispatcher Servlet" />
+      <item value="Quartz Scheduler" />
+      <item value="Feng 1684293557697_Cluster Manager" />
+      <item value="Druid Abstract Data Source" />
+      <item value="Scheduler" />
+      <item value="Initializing" />
+      <item value="start" />
+      <item value="incorporated" />
+      <item value="automatically" />
+      <item value="The list of suppressed exceptions, as returned by {@link getSuppressed()}. The list is initialized to a zero-element unmodifiable sentinel list. When a serialized Throwable is read in, if the {@code suppressedExceptions} field points to a zero-element list, the field is reset to the sentinel value." />
+      <item value="SUPPRESSED SENTINEL" />
+      <item value="fill In Stack Trace" />
+      <item value="Stack" />
+      <item value="公平的Sync内部类实现" />
+      <item value="get State" />
+      <item value="reductions" />
       <item value="Property Descriptor" />
       <item value="obtain Data Source" />
       <item value="Data Source" />
@@ -1006,46 +1033,19 @@
       <item value="synchronized" />
       <item value="System" />
       <item value="amount" />
-      <item value="release Shared" />
-      <item value="println" />
-      <item value="join" />
-      <item value="Illegal Argument Exception" />
-      <item value="requirement" />
-      <item value="acquired" />
-      <item value="&lt;p&gt;Releases the given number of permits, increasing the number of available permits by that amount. If any threads are trying to acquire permits, then one is selected and given the permits that were just released. If the number of available permits satisfies that thread's request then that thread is (re)enabled for thread scheduling purposes; otherwise the thread will wait until sufficient permits are available. If there are still permits available after this thread's request has been satisfied, then those permits are assigned in turn to other threads trying to acquire permits." />
-      <item value="permits" />
-      <item value="release" />
-      <item value="Link to next node waiting on condition, or the special value SHARED. Because condition queues are accessed only when holding in exclusive mode, we just need a simple linked queue to hold nodes while they are waiting on conditions. They are then transferred to the queue to re-acquire. And because conditions can only be exclusive, we save a field by using special value to indicate shared mode." />
-      <item value="head" />
-      <item value="pred" />
-      <item value="do Release Shared" />
-      <item value="Ensure that a release propagates, even if there are other in-progress acquiresreleases. This proceeds in the usual way of trying to unparkSuccessor of head if it needs signal. But if it does not, status is set to PROPAGATE to ensure that upon release, propagation continues. Additionally, we must loop in case a new node is added while we are doing this. Also, unlike other uses of unparkSuccessor, we need to know if CAS to reset status fails, if so rechecking." />
-      <item value="compare And Set Wait Status" />
-      <item value="SIGNAL" />
-      <item value="unpark Successor" />
-      <item value="try Acquire" />
-      <item value="timeout" />
-      <item value="semaphore Pool" />
-      <item value="import Data List" />
-      <item value="SHARED" />
-      <item value="has Queued Predecessors" />
-      <item value="nonfair Try Acquire Shared" />
-      <item value="Semaphore" />
-      <item value="implements" />
-      <item value="Activity Views Schedule Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1714" />
+        <entry key="CHINESE" value="1738" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
         <entry key="ITALIAN" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
       </map>
     </option>
   </component>
