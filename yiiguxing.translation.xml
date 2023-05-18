@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Releases the given number of permits, returning them to the semaphore." />
       <item value="plan Definition" />
       <item value="stream" />
       <item value="current Project Relation Data List" />
@@ -1032,13 +1033,12 @@
       <item value="Power Of Two Striped" />
       <item value="Composite Event Target" />
       <item value="fire Event Impl" />
-      <item value="可以获取指定数量的凭证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
+        <entry key="CHINESE" value="1745" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
