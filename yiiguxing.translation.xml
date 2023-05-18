@@ -983,10 +983,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Composition Plan Information With Personnel" />
+      <item value="xqh" />
+      <item value="987072248" />
+      <item value="result Map" />
+      <item value="property" />
       <item value="Query Expression Resolve Executor" />
       <item value="column" />
       <item value="plan Information Data Result Map" />
-      <item value="property" />
       <item value="business System" />
       <item value="plan Describe" />
       <item value="plan Definition" />
@@ -1029,16 +1033,12 @@
       <item value="fill In Stack Trace" />
       <item value="Stack" />
       <item value="公平的Sync内部类实现" />
-      <item value="get State" />
-      <item value="reductions" />
-      <item value="Property Descriptor" />
-      <item value="obtain Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1754" />
+        <entry key="CHINESE" value="1760" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1755" />
+        <entry key="ENGLISH" value="1761" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
