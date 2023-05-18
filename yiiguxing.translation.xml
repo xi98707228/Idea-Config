@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="存在并发情况则继续循环" />
+      <item value="try Acquire" />
       <item value="Releases the given number of permits, returning them to the semaphore." />
       <item value="plan Definition" />
       <item value="stream" />
@@ -1031,14 +1033,12 @@
       <item value="current" />
       <item value="interrupted" />
       <item value="Power Of Two Striped" />
-      <item value="Composite Event Target" />
-      <item value="fire Event Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
+        <entry key="CHINESE" value="1746" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1746" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
