@@ -983,10 +983,19 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Query Expression Resolve Executor" />
+      <item value="column" />
+      <item value="plan Information Data Result Map" />
+      <item value="property" />
+      <item value="business System" />
+      <item value="plan Describe" />
+      <item value="plan Definition" />
+      <item value="data" />
+      <item value="plan Information List" />
+      <item value="param String" />
       <item value="存在并发情况则继续循环" />
       <item value="try Acquire" />
       <item value="Releases the given number of permits, returning them to the semaphore." />
-      <item value="plan Definition" />
       <item value="stream" />
       <item value="current Project Relation Data List" />
       <item value="custom Contract Relation Mapper" />
@@ -1024,21 +1033,12 @@
       <item value="reductions" />
       <item value="Property Descriptor" />
       <item value="obtain Data Source" />
-      <item value="Data Source" />
-      <item value="exclusive Owner Thread" />
-      <item value="Creates a new {@code AbstractQueuedSynchronizer} instance with initial synchronization state of zero." />
-      <item value="serial Version UID" />
-      <item value="thrown" />
-      <item value="thread" />
-      <item value="current" />
-      <item value="interrupted" />
-      <item value="Power Of Two Striped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1746" />
+        <entry key="CHINESE" value="1754" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1747" />
+        <entry key="ENGLISH" value="1755" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
