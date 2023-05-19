@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="dept id" />
       <item value="result" />
       <item value="Path Variable" />
       <item value="base Task Pool" />
@@ -1032,7 +1033,6 @@
       <item value="Http 11 Nio Protocol" />
       <item value="log Started" />
       <item value="Quartz Scheduler Ruoyi Scheduler" />
-      <item value="Connection" />
     </histories>
     <option name="languageScores">
       <map>
