@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="result" />
       <item value="Path Variable" />
       <item value="base Task Pool" />
       <item value="Plan Information" />
@@ -994,7 +995,6 @@
       <item value="Plan Information Mapper" />
       <item value="project" />
       <item value="plan Center" />
-      <item value="result" />
       <item value="approve type" />
       <item value="plan definition" />
       <item value="business system" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1780" />
+        <entry key="CHINESE" value="1782" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1781" />
+        <entry key="ENGLISH" value="1783" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
