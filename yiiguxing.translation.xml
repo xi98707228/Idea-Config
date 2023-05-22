@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684113102214" />
+    <option name="lastTrimTime" value="1684723220207" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Also note that the untimed {@link tryAcquire() tryAcquire} methods do not honor the fairness setting, but will take any permits that are available." />
       <item value="Druid Data Source" />
       <item value="shutdown Async Manager" />
       <item value="Common Annotation Bean Post Processor" />
@@ -1032,13 +1033,12 @@
       <item value="login Firewall" />
       <item value="Fir" />
       <item value="response" />
-      <item value="print Stack Trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1785" />
+        <entry key="CHINESE" value="1786" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1786" />
+        <entry key="ENGLISH" value="1787" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
