@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="预案关联人员类别" />
       <item value="target Data" />
       <item value="plan Information Service" />
       <item value="async Execution Reset Plan Information Related Personnel Data" />
@@ -1032,11 +1033,10 @@
       <item value="custom Contract Relation Mapper" />
       <item value="Custom Contract File Relation" />
       <item value="async Update Project Name Execute Method" />
-      <item value="update This Model Data Trigger Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1792" />
+        <entry key="CHINESE" value="1793" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1793" />
         <entry key="FRENCH" value="12" />
