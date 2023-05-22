@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Data Source" />
+      <item value="shutdown Async Manager" />
+      <item value="Common Annotation Bean Post Processor" />
+      <item value="post Process Before Destruction" />
       <item value="dept id" />
       <item value="result" />
       <item value="Path Variable" />
@@ -1029,16 +1033,12 @@
       <item value="Fir" />
       <item value="response" />
       <item value="print Stack Trace" />
-      <item value="The throwable that caused this throwable to get thrown, or null if this throwable was not caused by another throwable, or if the causative throwable is unknown. If this field is equal to this throwable itself, it indicates that the cause of this throwable has not yet been initialized." />
-      <item value="Http 11 Nio Protocol" />
-      <item value="log Started" />
-      <item value="Quartz Scheduler Ruoyi Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1782" />
+        <entry key="CHINESE" value="1785" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1783" />
+        <entry key="ENGLISH" value="1786" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
