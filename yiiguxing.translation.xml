@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Interrupted Exception" />
+      <item value="try Acquire Nanos" />
       <item value="Also note that the untimed {@link tryAcquire() tryAcquire} methods do not honor the fairness setting, but will take any permits that are available." />
       <item value="Druid Data Source" />
       <item value="shutdown Async Manager" />
@@ -1031,14 +1033,12 @@
       <item value="Communications" />
       <item value="Enum Un Update Exception" />
       <item value="login Firewall" />
-      <item value="Fir" />
-      <item value="response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1786" />
+        <entry key="CHINESE" value="1788" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1787" />
+        <entry key="ENGLISH" value="1789" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
