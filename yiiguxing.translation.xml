@@ -983,8 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="element Data" />
       <item value="Identity Hash Map" />
+      <item value="element Data" />
       <item value="plan information version" />
       <item value="config Process" />
       <item value="是否进行流程审批" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1808" />
+        <entry key="CHINESE" value="1809" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="ENGLISH" value="1810" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
