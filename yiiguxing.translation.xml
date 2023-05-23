@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="element Data" />
+      <item value="Identity Hash Map" />
+      <item value="plan information version" />
       <item value="config Process" />
       <item value="是否进行流程审批" />
       <item value="version Number" />
@@ -1030,15 +1033,12 @@
       <item value="property" />
       <item value="Query Expression Resolve Executor" />
       <item value="column" />
-      <item value="plan Information Data Result Map" />
-      <item value="plan Describe" />
-      <item value="plan Definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1803" />
+        <entry key="CHINESE" value="1808" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1804" />
+        <entry key="ENGLISH" value="1809" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
