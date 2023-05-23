@@ -983,11 +983,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="config Process" />
+      <item value="是否进行流程审批" />
+      <item value="version Number" />
       <item value="delete Personnel By Information Id" />
       <item value="type User Ids Entry" />
       <item value="approve Type" />
       <item value="running State" />
-      <item value="version Number" />
       <item value="plan Template Id" />
       <item value="未配置流程图信息则不可以提交审批" />
       <item value="Exception" />
@@ -1031,14 +1033,12 @@
       <item value="plan Information Data Result Map" />
       <item value="plan Describe" />
       <item value="plan Definition" />
-      <item value="data" />
-      <item value="plan Information List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1800" />
+        <entry key="CHINESE" value="1803" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1801" />
+        <entry key="ENGLISH" value="1804" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
