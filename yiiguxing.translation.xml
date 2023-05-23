@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="delete Personnel By Information Id" />
+      <item value="type User Ids Entry" />
       <item value="approve Type" />
       <item value="running State" />
       <item value="version Number" />
@@ -1009,7 +1011,6 @@
       <item value="base Task Pool" />
       <item value="Plan Information" />
       <item value="Ajax Result" />
-      <item value="type User Ids Entry" />
       <item value="reset Plan Information Related Personnel Data With Async Execution" />
       <item value="Override" />
       <item value="SET" />
@@ -1032,13 +1033,12 @@
       <item value="plan Definition" />
       <item value="data" />
       <item value="plan Information List" />
-      <item value="param String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1798" />
+        <entry key="CHINESE" value="1800" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1799" />
+        <entry key="ENGLISH" value="1801" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
