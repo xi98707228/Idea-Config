@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="reductions" />
+      <item value="compare And Set State" />
+      <item value="approve Process Id" />
+      <item value="stride" />
+      <item value="省略计算步长逻辑 ......" />
+      <item value="第一个进来扩容的线程 需要把新数组 nextTab 创建出来" />
+      <item value="这里捕获的异常就是" />
+      <item value="business System" />
+      <item value="approve Type" />
+      <item value="plan Template Id" />
+      <item value="Thread Local Random" />
       <item value="Identity Hash Map" />
       <item value="element Data" />
       <item value="plan information version" />
@@ -991,9 +1002,7 @@
       <item value="version Number" />
       <item value="delete Personnel By Information Id" />
       <item value="type User Ids Entry" />
-      <item value="approve Type" />
       <item value="running State" />
-      <item value="plan Template Id" />
       <item value="未配置流程图信息则不可以提交审批" />
       <item value="Exception" />
       <item value="预案的版本状态" />
@@ -1024,21 +1033,12 @@
       <item value="plan Center" />
       <item value="approve type" />
       <item value="plan definition" />
-      <item value="business system" />
-      <item value="business System" />
-      <item value="987072248" />
-      <item value="Composition Plan Information With Personnel" />
-      <item value="xqh" />
-      <item value="result Map" />
-      <item value="property" />
-      <item value="Query Expression Resolve Executor" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
+        <entry key="CHINESE" value="1816" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1810" />
+        <entry key="ENGLISH" value="1817" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
