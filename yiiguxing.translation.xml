@@ -983,6 +983,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="plan Center" />
+      <item value="ruoyi" />
+      <item value="config Process" />
       <item value="Stamped Lock" />
       <item value="默认为待审核" />
       <item value="reductions" />
@@ -999,7 +1002,6 @@
       <item value="Identity Hash Map" />
       <item value="element Data" />
       <item value="plan information version" />
-      <item value="config Process" />
       <item value="是否进行流程审批" />
       <item value="version Number" />
       <item value="delete Personnel By Information Id" />
@@ -1031,14 +1033,12 @@
       <item value="Override" />
       <item value="SET" />
       <item value="Plan Information Mapper" />
-      <item value="project" />
-      <item value="plan Center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1817" />
+        <entry key="CHINESE" value="1819" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1818" />
+        <entry key="ENGLISH" value="1820" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
