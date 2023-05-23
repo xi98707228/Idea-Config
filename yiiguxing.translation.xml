@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="默认为待审核" />
       <item value="reductions" />
       <item value="compare And Set State" />
       <item value="approve Process Id" />
@@ -1032,11 +1033,10 @@
       <item value="project" />
       <item value="plan Center" />
       <item value="approve type" />
-      <item value="plan definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1816" />
+        <entry key="CHINESE" value="1817" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="1817" />
         <entry key="FRENCH" value="12" />
