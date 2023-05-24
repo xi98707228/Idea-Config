@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="system name" />
+      <item value="plan information personnel" />
+      <item value="config id" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="select Config List" />
+      <item value="debug" />
+      <item value="system Name" />
+      <item value="system code" />
+      <item value="plan information" />
+      <item value="disaster application system" />
       <item value="容灾应用系统" />
       <item value="Disaster Application System" />
       <item value="get Data Table" />
@@ -1022,23 +1033,12 @@
       <item value="async Execution Reset Plan Information Related Personnel Data" />
       <item value="PROPAGATE" />
       <item value="Interrupted Exception" />
-      <item value="try Acquire Nanos" />
-      <item value="Also note that the untimed {@link tryAcquire() tryAcquire} methods do not honor the fairness setting, but will take any permits that are available." />
-      <item value="Druid Data Source" />
-      <item value="shutdown Async Manager" />
-      <item value="Common Annotation Bean Post Processor" />
-      <item value="post Process Before Destruction" />
-      <item value="dept id" />
-      <item value="result" />
-      <item value="Path Variable" />
-      <item value="base Task Pool" />
-      <item value="Plan Information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1826" />
+        <entry key="CHINESE" value="1834" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1826" />
+        <entry key="ENGLISH" value="1835" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
