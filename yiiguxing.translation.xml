@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="USER DECLARED METHODS" />
+      <item value="Rescheduling Runnable" />
       <item value="预案关联人员类别" />
       <item value="version State" />
       <item value="system name" />
@@ -1031,14 +1033,12 @@
       <item value="target Data" />
       <item value="plan Information Service" />
       <item value="async Execution Reset Plan Information Related Personnel Data" />
-      <item value="PROPAGATE" />
-      <item value="Interrupted Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1836" />
+        <entry key="CHINESE" value="1837" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1836" />
+        <entry key="ENGLISH" value="1838" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
