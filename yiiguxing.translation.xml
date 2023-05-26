@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="version Number" />
       <item value="Plan Information Version" />
       <item value="approve Process Type" />
       <item value="operate Plan Running State" />
@@ -1027,7 +1028,6 @@
       <item value="element Data" />
       <item value="plan information version" />
       <item value="是否进行流程审批" />
-      <item value="version Number" />
       <item value="delete Personnel By Information Id" />
       <item value="type User Ids Entry" />
       <item value="running State" />
@@ -1036,9 +1036,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1841" />
+        <entry key="CHINESE" value="1842" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1842" />
+        <entry key="ENGLISH" value="1843" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
