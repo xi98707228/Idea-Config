@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682341719808" />
+    <option name="lastTrimTime" value="1685245864453" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="join" />
+      <item value="current Time Millis" />
       <item value="Recursive Action" />
       <item value="Phaser" />
       <item value="arena Exchange" />
@@ -1031,14 +1033,12 @@
       <item value="Localized" />
       <item value="Data" />
       <item value="模型运行状态统计数据信息" />
-      <item value="application Context" />
-      <item value="get" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1310" />
+        <entry key="CHINESE" value="1312" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1311" />
+        <entry key="ENGLISH" value="1313" />
         <entry key="FRENCH" value="9" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="4" />
