@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685245864453" />
+    <option name="lastTrimTime" value="1685323238734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -983,67 +983,69 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="negative" />
-      <item value="join" />
-      <item value="current Time Millis" />
-      <item value="Recursive Action" />
-      <item value="Phaser" />
-      <item value="arena Exchange" />
-      <item value="Exchanger" />
-      <item value="page Size" />
-      <item value="S" />
-      <item value="DEFAULT PAGE SIZE" />
-      <item value="action Button" />
-      <item value="stacked Cards" />
-      <item value="parse Object" />
-      <item value="AMPERSAND" />
-      <item value="convert Of Map Data" />
-      <item value="collide" />
-      <item value="was Uncontended" />
-      <item value="Try to attach new Cell" />
-      <item value="composite Query Sql" />
-      <item value="jdbc Template" />
-      <item value="top Right Model Category" />
-      <item value="Big Decimal" />
-      <item value="comment" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="DEFAULT CHARSET" />
-      <item value="screen" />
-      <item value="count Organization Activity Number" />
-      <item value="activity Sign In Mapper" />
-      <item value="handle Point After Flag" />
-      <item value="locks Map" />
-      <item value="Activity Scanner Code Vo" />
-      <item value="build" />
-      <item value="compute If Absent" />
-      <item value="synchronized (locksMap.computeIfAbsent(activityRowId, integer -&gt; new Object())) {" />
-      <item value="sign In Activity User Info" />
-      <item value="points" />
-      <item value="scanner Result" />
-      <item value="hours" />
-      <item value="All Args Constructor" />
-      <item value="Builder" />
-      <item value="volunteer Information" />
-      <item value="teer" />
-      <item value="Volunteer Level" />
-      <item value="Activity Publish Config" />
-      <item value="activity Row Id" />
-      <item value="integer" />
-      <item value="builder" />
-      <item value="请先报名后再进行签到" />
-      <item value="Localized" />
-      <item value="Data" />
+      <item value="developserver" />
+      <item value="ev" />
+      <item value="维保正式服务器环境" />
+      <item value="for Leniency" />
+      <item value="Property Editor Support" />
+      <item value="node Record" />
+      <item value="version Number" />
+      <item value="Plan Center Global Status" />
+      <item value="VERSION STATE NOT REVIEWED" />
+      <item value="Disaster Application System" />
+      <item value="Job Factory" />
+      <item value="list" />
+      <item value="get Data Table" />
+      <item value="error" />
+      <item value="Ajax Result" />
+      <item value="select Plan Information By Search Filter" />
+      <item value="select Plan Information By Search Filter COUNT" />
+      <item value="Plan Information Version" />
+      <item value="approve Process Type" />
+      <item value="operate Plan Running State" />
+      <item value="plan Information Service" />
+      <item value="value Of" />
+      <item value="digits" />
+      <item value="USER DECLARED METHODS" />
+      <item value="Rescheduling Runnable" />
+      <item value="预案关联人员类别" />
+      <item value="version State" />
+      <item value="system name" />
+      <item value="plan information personnel" />
+      <item value="config id" />
+      <item value="Parameters" />
+      <item value="Preparing" />
+      <item value="select Config List" />
+      <item value="debug" />
+      <item value="system Name" />
+      <item value="system code" />
+      <item value="plan information" />
+      <item value="disaster application system" />
+      <item value="容灾应用系统" />
+      <item value="plan Center" />
+      <item value="ruoyi" />
+      <item value="config Process" />
+      <item value="Stamped Lock" />
+      <item value="默认为待审核" />
+      <item value="reductions" />
+      <item value="compare And Set State" />
+      <item value="approve Process Id" />
+      <item value="stride" />
+      <item value="省略计算步长逻辑 ......" />
+      <item value="第一个进来扩容的线程 需要把新数组 nextTab 创建出来" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1313" />
+        <entry key="CHINESE" value="1860" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1314" />
-        <entry key="FRENCH" value="9" />
+        <entry key="ENGLISH" value="1861" />
+        <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="6" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
       </map>
     </option>
   </component>
