@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684723220207" />
+    <option name="lastTrimTime" value="1685323238734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -984,6 +984,8 @@
     <option name="newTranslationDialogY" value="342" />
     <histories>
       <item value="Property Editor Support" />
+      <item value="node Record" />
+      <item value="version Number" />
       <item value="Plan Center Global Status" />
       <item value="VERSION STATE NOT REVIEWED" />
       <item value="Disaster Application System" />
@@ -994,7 +996,6 @@
       <item value="Ajax Result" />
       <item value="select Plan Information By Search Filter" />
       <item value="select Plan Information By Search Filter COUNT" />
-      <item value="version Number" />
       <item value="Plan Information Version" />
       <item value="approve Process Type" />
       <item value="operate Plan Running State" />
@@ -1032,13 +1033,12 @@
       <item value="business System" />
       <item value="approve Type" />
       <item value="plan Template Id" />
-      <item value="Thread Local Random" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1854" />
+        <entry key="CHINESE" value="1857" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1855" />
+        <entry key="ENGLISH" value="1858" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
