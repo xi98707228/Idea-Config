@@ -983,6 +983,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="for Leniency" />
       <item value="Property Editor Support" />
       <item value="node Record" />
       <item value="version Number" />
@@ -1032,13 +1033,12 @@
       <item value="这里捕获的异常就是" />
       <item value="business System" />
       <item value="approve Type" />
-      <item value="plan Template Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1857" />
+        <entry key="CHINESE" value="1858" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1858" />
+        <entry key="ENGLISH" value="1859" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
