@@ -983,6 +983,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="occurred" />
+      <item value="Dual Stack Plain Socket Impl" />
+      <item value="Plan Information Mapper" />
+      <item value="add Plan Info Version Data" />
       <item value="version" />
       <item value="base Task Pool" />
       <item value="get Core Pool Size" />
@@ -1029,16 +1033,12 @@
       <item value="Preparing" />
       <item value="select Config List" />
       <item value="debug" />
-      <item value="system Name" />
-      <item value="system code" />
-      <item value="plan information" />
-      <item value="disaster application system" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1869" />
+        <entry key="CHINESE" value="1873" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1870" />
+        <entry key="ENGLISH" value="1874" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
