@@ -983,9 +983,26 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="做了进一步处理" />
+      <item value="fynotefile" />
+      <item value="zhangjiakou" />
+      <item value="线程2再次释放资源" />
+      <item value="导致线程4无法被唤醒" />
+      <item value="说到底导致JDK 1" />
+      <item value="5产生BUG的根本原因就是多个线程在同时释放资源的时候" />
+      <item value="Doug Lea" />
+      <item value="current" />
+      <item value="shared" />
+      <item value="Unsupported Operation Exception" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="table Size For" />
+      <item value="方法一模一样" />
+      <item value="init Table" />
+      <item value="这块代码和" />
+      <item value="并判断是否大于0" />
+      <item value="size Ctl" />
       <item value="![image.png](https:fynotefile.oss-cn-zhangjiakou.aliyuncs.comfynotefyfile 27461663750769045 f 7093 fd 73 db 146658 d 5 f 191 b 5 a 1 a 5 fe 8.png)" />
       <item value="image" />
-      <item value="fynotefile" />
       <item value="oss" />
       <item value="JDK 1" />
       <item value="实现" />
@@ -1016,29 +1033,12 @@
       <item value="demo Enabled" />
       <item value="copyright Year" />
       <item value="njdt yw" />
-      <item value="Ajax Result" />
-      <item value="target Data" />
-      <item value="plan Information Service" />
-      <item value="Plan Information" />
-      <item value="set Approve Process Id" />
-      <item value="template Plan Info" />
-      <item value="VERSION STATE MODIFY NOT REVIEWED" />
-      <item value="set Version State" />
-      <item value="update By Id" />
-      <item value="async Execution Reset Plan Information Related Personnel Data" />
-      <item value="add Plan Info Version Data" />
-      <item value="success" />
-      <item value="Custom Contract File Relation" />
-      <item value="get Version Number" />
-      <item value="set Version Number" />
-      <item value="save" />
-      <item value="Scheduled Method Runnable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1926" />
+        <entry key="CHINESE" value="1942" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1927" />
+        <entry key="ENGLISH" value="1942" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
