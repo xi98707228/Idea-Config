@@ -983,6 +983,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Approve Process Id" />
+      <item value="template Plan Info" />
       <item value="VERSION STATE MODIFY NOT REVIEWED" />
       <item value="set Version State" />
       <item value="update By Id" />
@@ -1031,14 +1033,12 @@
       <item value="select Plan Information By Search Filter COUNT" />
       <item value="Plan Information Version" />
       <item value="approve Process Type" />
-      <item value="operate Plan Running State" />
-      <item value="plan Information Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1887" />
+        <entry key="CHINESE" value="1891" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1888" />
+        <entry key="ENGLISH" value="1892" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
