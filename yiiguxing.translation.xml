@@ -983,13 +983,35 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="做了进一步处理" />
-      <item value="fynotefile" />
       <item value="zhangjiakou" />
-      <item value="线程2再次释放资源" />
+      <item value="首先查看4个线程获取信号量资源的情况" />
+      <item value="fynotefile" />
+      <item value="往下查看释放资源的过程会触发什么问题" />
+      <item value="propagate" />
+      <item value="wait Status" />
+      <item value="后续等待的线程就无法被唤醒了" />
       <item value="导致线程4无法被唤醒" />
-      <item value="说到底导致JDK 1" />
+      <item value="当多个线程可能出现的某种情况的执行时刻" />
+      <item value="成功后" />
+      <item value="try Acquire Shared方法" />
+      <item value="The next node is waiting in shared mode, or we don't know, because it appears null" />
+      <item value="soon" />
+      <item value="anyway" />
+      <item value="node" />
+      <item value="next" />
+      <item value="is Shared" />
+      <item value="set Head And Propagate" />
+      <item value="当前多个线程可能出现的某种情况的执行时刻" />
+      <item value="因为执行点问题" />
+      <item value="可以理解为自己想想出来的" />
+      <item value="先进行执行唤醒后续线程的的线程" />
+      <item value="此时head还是第一个释放资源的线程之前的head节点" />
+      <item value="他是无法执行到唤醒后续线程的操作的" />
       <item value="5产生BUG的根本原因就是多个线程在同时释放资源的时候" />
+      <item value="compare And Set Wait Status" />
+      <item value="做了进一步处理" />
+      <item value="线程2再次释放资源" />
+      <item value="说到底导致JDK 1" />
       <item value="Doug Lea" />
       <item value="current" />
       <item value="shared" />
@@ -1011,34 +1033,12 @@
       <item value="operate" />
       <item value="operate Plan Info" />
       <item value="is Add Opt" />
-      <item value="boolean" />
-      <item value="Plan Information Approve Process" />
-      <item value="plan information approve process" />
-      <item value="AUTO" />
-      <item value="row id" />
-      <item value="int" />
-      <item value="row Id" />
-      <item value="private" />
-      <item value="plan" />
-      <item value="version" />
-      <item value="list" />
-      <item value="Table Data Info" />
-      <item value="List" />
-      <item value="get Plan Version Data List" />
-      <item value="987072248" />
-      <item value="author" />
-      <item value="Windows配置D" />
-      <item value="attachment Dir Path" />
-      <item value="disk" />
-      <item value="demo Enabled" />
-      <item value="copyright Year" />
-      <item value="njdt yw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1942" />
+        <entry key="CHINESE" value="1964" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1942" />
+        <entry key="ENGLISH" value="1965" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
