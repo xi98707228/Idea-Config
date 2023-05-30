@@ -983,6 +983,24 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="plan" />
+      <item value="version" />
+      <item value="list" />
+      <item value="Table Data Info" />
+      <item value="List" />
+      <item value="get Plan Version Data List" />
+      <item value="987072248" />
+      <item value="author" />
+      <item value="Windows配置D" />
+      <item value="attachment Dir Path" />
+      <item value="disk" />
+      <item value="demo Enabled" />
+      <item value="copyright Year" />
+      <item value="njdt yw" />
+      <item value="Ajax Result" />
+      <item value="target Data" />
+      <item value="plan Information Service" />
+      <item value="Plan Information" />
       <item value="set Approve Process Id" />
       <item value="template Plan Info" />
       <item value="VERSION STATE MODIFY NOT REVIEWED" />
@@ -1003,13 +1021,11 @@
       <item value="occurred" />
       <item value="Dual Stack Plain Socket Impl" />
       <item value="Plan Information Mapper" />
-      <item value="version" />
       <item value="base Task Pool" />
       <item value="get Core Pool Size" />
       <item value="get Data Table" />
       <item value="get Type Describe" />
       <item value="get Detail Describe Content" />
-      <item value="987072248" />
       <item value="预案版本变更类型" />
       <item value="新建预案信息时自动产生的记录" />
       <item value="修改预案信息导致版本变更产生的记录" />
@@ -1017,28 +1033,12 @@
       <item value="version Describe" />
       <item value="当前版本关联的预案记录信息Id" />
       <item value="developserver" />
-      <item value="ev" />
-      <item value="维保正式服务器环境" />
-      <item value="for Leniency" />
-      <item value="Property Editor Support" />
-      <item value="node Record" />
-      <item value="Plan Center Global Status" />
-      <item value="VERSION STATE NOT REVIEWED" />
-      <item value="Disaster Application System" />
-      <item value="Job Factory" />
-      <item value="list" />
-      <item value="error" />
-      <item value="Ajax Result" />
-      <item value="select Plan Information By Search Filter" />
-      <item value="select Plan Information By Search Filter COUNT" />
-      <item value="Plan Information Version" />
-      <item value="approve Process Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
+        <entry key="CHINESE" value="1913" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1892" />
+        <entry key="ENGLISH" value="1914" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
@@ -1046,6 +1046,7 @@
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="1" />
       </map>
     </option>
   </component>
