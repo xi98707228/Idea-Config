@@ -983,6 +983,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="operate" />
+      <item value="operate Plan Info" />
+      <item value="is Add Opt" />
+      <item value="boolean" />
+      <item value="Plan Information Approve Process" />
+      <item value="plan information approve process" />
+      <item value="AUTO" />
+      <item value="row id" />
+      <item value="int" />
+      <item value="row Id" />
+      <item value="private" />
       <item value="plan" />
       <item value="version" />
       <item value="list" />
@@ -1022,23 +1033,12 @@
       <item value="Dual Stack Plain Socket Impl" />
       <item value="Plan Information Mapper" />
       <item value="base Task Pool" />
-      <item value="get Core Pool Size" />
-      <item value="get Data Table" />
-      <item value="get Type Describe" />
-      <item value="get Detail Describe Content" />
-      <item value="预案版本变更类型" />
-      <item value="新建预案信息时自动产生的记录" />
-      <item value="修改预案信息导致版本变更产生的记录" />
-      <item value="plan Info Id" />
-      <item value="version Describe" />
-      <item value="当前版本关联的预案记录信息Id" />
-      <item value="developserver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1913" />
+        <entry key="CHINESE" value="1921" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1914" />
+        <entry key="ENGLISH" value="1922" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
