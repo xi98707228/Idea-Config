@@ -983,6 +983,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="plan Information Approve Process Service" />
+      <item value="Plan Information Approve Process Service" />
+      <item value="result" />
+      <item value="plan Id" />
+      <item value="row" />
       <item value="最后流程审批的具体状态" />
       <item value="version State" />
       <item value="获取流程表单信息数据" />
@@ -993,7 +998,6 @@
       <item value="假设现在仅每次审批一个预案信息" />
       <item value="remarks" />
       <item value="create User Name" />
-      <item value="plan Information Approve Process Service" />
       <item value="Suppress Warnings" />
       <item value="unchecked" />
       <item value="获取意见列表" />
@@ -1029,16 +1033,12 @@
       <item value="做了进一步处理" />
       <item value="线程2再次释放资源" />
       <item value="说到底导致JDK 1" />
-      <item value="Doug Lea" />
-      <item value="current" />
-      <item value="shared" />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1979" />
+        <entry key="CHINESE" value="1982" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1979" />
+        <entry key="ENGLISH" value="1983" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
