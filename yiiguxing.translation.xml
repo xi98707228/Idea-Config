@@ -983,6 +983,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="最后流程审批的具体状态" />
+      <item value="version State" />
+      <item value="获取流程表单信息数据" />
+      <item value="plan Center" />
+      <item value="Plan Information Approve Process" />
+      <item value="approve Process Type" />
+      <item value="PERSONNEL ZHAO JI" />
+      <item value="假设现在仅每次审批一个预案信息" />
+      <item value="remarks" />
+      <item value="create User Name" />
+      <item value="plan Information Approve Process Service" />
+      <item value="Suppress Warnings" />
+      <item value="unchecked" />
+      <item value="获取意见列表" />
       <item value="gx Oa Work Order Mapper" />
       <item value="ac Record Pw" />
       <item value="Druid Abstract Data Source" />
@@ -1019,26 +1033,12 @@
       <item value="current" />
       <item value="shared" />
       <item value="Unsupported Operation Exception" />
-      <item value="MAXIMUM CAPACITY" />
-      <item value="table Size For" />
-      <item value="方法一模一样" />
-      <item value="init Table" />
-      <item value="这块代码和" />
-      <item value="并判断是否大于0" />
-      <item value="size Ctl" />
-      <item value="![image.png](https:fynotefile.oss-cn-zhangjiakou.aliyuncs.comfynotefyfile 27461663750769045 f 7093 fd 73 db 146658 d 5 f 191 b 5 a 1 a 5 fe 8.png)" />
-      <item value="image" />
-      <item value="oss" />
-      <item value="JDK 1" />
-      <item value="实现" />
-      <item value="release Shared" />
-      <item value="Try to signal next queued node if: Propagation was indicated by caller, or was recorded (as h.waitStatus either before or after setHead) by a previous operation (note: this uses sign-check of waitStatus because PROPAGATE status may transition to SIGNAL.) and The next node is waiting in shared mode, or we don't know, because it appears null The conservatism in both of these checks may cause unnecessary wake-ups, but only when there are multiple racing acquiresreleases, so most need signals now or soon anyway." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1965" />
+        <entry key="CHINESE" value="1979" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1966" />
+        <entry key="ENGLISH" value="1979" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
