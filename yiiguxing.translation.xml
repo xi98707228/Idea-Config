@@ -976,6 +976,7 @@
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -983,6 +984,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="String" />
+      <item value="approve Process Info" />
+      <item value="Base Controller" />
       <item value="plan Information Version" />
       <item value="执行更新" />
       <item value="async Supply Stage" />
@@ -1030,15 +1034,12 @@
       <item value="set Head And Propagate" />
       <item value="当前多个线程可能出现的某种情况的执行时刻" />
       <item value="因为执行点问题" />
-      <item value="可以理解为自己想想出来的" />
-      <item value="先进行执行唤醒后续线程的的线程" />
-      <item value="此时head还是第一个释放资源的线程之前的head节点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1987" />
+        <entry key="CHINESE" value="1991" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1988" />
+        <entry key="ENGLISH" value="1992" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
