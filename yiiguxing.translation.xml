@@ -984,6 +984,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Druid Abstract Data Source" />
+      <item value="Customer Project" />
+      <item value="get Customer Project List" />
+      <item value="Enhance" />
+      <item value="Type Description" />
       <item value="Scanning for api listing references" />
       <item value="Free Marker Auto Configuration" />
       <item value="修改预案的版本状态" />
@@ -1022,7 +1027,6 @@
       <item value="获取意见列表" />
       <item value="gx Oa Work Order Mapper" />
       <item value="ac Record Pw" />
-      <item value="Druid Abstract Data Source" />
       <item value="zhangjiakou" />
       <item value="首先查看4个线程获取信号量资源的情况" />
       <item value="fynotefile" />
@@ -1030,16 +1034,12 @@
       <item value="propagate" />
       <item value="wait Status" />
       <item value="后续等待的线程就无法被唤醒了" />
-      <item value="导致线程4无法被唤醒" />
-      <item value="当多个线程可能出现的某种情况的执行时刻" />
-      <item value="成功后" />
-      <item value="try Acquire Shared方法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2000" />
+        <entry key="CHINESE" value="2005" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2001" />
+        <entry key="ENGLISH" value="2006" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
