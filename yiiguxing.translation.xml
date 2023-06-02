@@ -984,6 +984,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="library" />
+      <item value="check Template Location Exists" />
+      <item value="Class Path Mapper Scanner" />
+      <item value="Mapper Factory Bean" />
       <item value="project Related List" />
       <item value="continue" />
       <item value="append Project Pack File Data List" />
@@ -1030,16 +1034,12 @@
       <item value="Suppress Warnings" />
       <item value="unchecked" />
       <item value="获取意见列表" />
-      <item value="gx Oa Work Order Mapper" />
-      <item value="ac Record Pw" />
-      <item value="zhangjiakou" />
-      <item value="首先查看4个线程获取信号量资源的情况" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2009" />
+        <entry key="CHINESE" value="2014" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2010" />
+        <entry key="ENGLISH" value="2015" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
