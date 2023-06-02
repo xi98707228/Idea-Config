@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="append Project Pack File Data List" />
       <item value="search Project Filter" />
       <item value="get Create Time" />
       <item value="Druid Abstract Data Source" />
@@ -1033,13 +1034,12 @@
       <item value="首先查看4个线程获取信号量资源的情况" />
       <item value="fynotefile" />
       <item value="往下查看释放资源的过程会触发什么问题" />
-      <item value="propagate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2006" />
+        <entry key="CHINESE" value="2007" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="ENGLISH" value="2008" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
