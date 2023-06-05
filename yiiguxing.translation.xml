@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685323238734" />
+    <option name="lastTrimTime" value="1685927695909" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="append Project Pack File Data List Map" />
       <item value="library" />
       <item value="check Template Location Exists" />
       <item value="Class Path Mapper Scanner" />
@@ -1033,13 +1034,12 @@
       <item value="create User Name" />
       <item value="Suppress Warnings" />
       <item value="unchecked" />
-      <item value="获取意见列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2014" />
+        <entry key="CHINESE" value="2015" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2015" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="FRENCH" value="12" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
