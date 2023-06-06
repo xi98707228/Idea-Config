@@ -984,6 +984,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="customer Project Service" />
+      <item value="Recursive Action" />
+      <item value="删除和当前服务合同关联的项目的关联此数据的信息" />
+      <item value="send Get Access Token Param" />
+      <item value="app secret" />
+      <item value="app id" />
+      <item value="current Contract Instance" />
+      <item value="modify Contract Data Info" />
+      <item value="current Contract Set Cost" />
+      <item value="original Contract Cost" />
+      <item value="confirm Execute Modify" />
+      <item value="contract Adder" />
       <item value="model Redis Key" />
       <item value="delete Object" />
       <item value="redis Cache" />
@@ -1022,24 +1034,12 @@
       <item value="check Is Alive Field By Name" />
       <item value="String" />
       <item value="approve Process Info" />
-      <item value="Base Controller" />
-      <item value="plan Information Version" />
-      <item value="执行更新" />
-      <item value="async Supply Stage" />
-      <item value="screen Executor" />
-      <item value="supply Async" />
-      <item value="global Submit Form Row Id Final" />
-      <item value="plan Information Approve Process Service" />
-      <item value="Plan Information Approve Process Service" />
-      <item value="result" />
-      <item value="plan Id" />
-      <item value="row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2034" />
+        <entry key="CHINESE" value="2043" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2034" />
+        <entry key="ENGLISH" value="2044" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
