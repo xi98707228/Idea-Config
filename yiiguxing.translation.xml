@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="report Instance" />
       <item value="bean" />
       <item value="success" />
       <item value="Contract Payment Handle Enum" />
@@ -1033,13 +1034,12 @@
       <item value="check Template Location Exists" />
       <item value="Class Path Mapper Scanner" />
       <item value="Mapper Factory Bean" />
-      <item value="project Related List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2060" />
+        <entry key="CHINESE" value="2061" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2061" />
+        <entry key="ENGLISH" value="2062" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
