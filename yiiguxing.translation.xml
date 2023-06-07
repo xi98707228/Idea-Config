@@ -984,6 +984,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="bean" />
+      <item value="success" />
+      <item value="Contract Payment Handle Enum" />
       <item value="set Attachment Result Ids" />
       <item value="accept Del File" />
       <item value="14:32:34.056 [http-nio-8091-exec-3] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - null" />
@@ -1031,15 +1034,12 @@
       <item value="Class Path Mapper Scanner" />
       <item value="Mapper Factory Bean" />
       <item value="project Related List" />
-      <item value="continue" />
-      <item value="append Project Pack File Data List" />
-      <item value="search Project Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2058" />
+        <entry key="CHINESE" value="2060" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2059" />
+        <entry key="ENGLISH" value="2061" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
