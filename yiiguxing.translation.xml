@@ -984,9 +984,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
+      <item value="get Relation Project Row Id" />
+      <item value="relation Project Row Id" />
+      <item value="modify Project" />
+      <item value="set Status" />
+      <item value="customer Project Service" />
       <item value="需要考虑代理和被代理删除关系" />
       <item value="execute" />
-      <item value="customer Project Service" />
       <item value="Recursive Action" />
       <item value="删除和当前服务合同关联的项目的关联此数据的信息" />
       <item value="send Get Access Token Param" />
@@ -1029,17 +1034,12 @@
       <item value="修改预案的版本状态" />
       <item value="operate Plan Version State" />
       <item value="Starting without optional kqueue library" />
-      <item value="the main mechanics of invokeAny." />
-      <item value="do Invoke Any" />
-      <item value="Executor Completion Service" />
-      <item value="check Is Alive Field By Name" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2045" />
+        <entry key="CHINESE" value="2047" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2045" />
+        <entry key="ENGLISH" value="2048" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
