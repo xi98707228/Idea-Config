@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="需要考虑代理和被代理删除关系" />
       <item value="execute" />
       <item value="customer Project Service" />
       <item value="Recursive Action" />
@@ -1033,11 +1034,10 @@
       <item value="Executor Completion Service" />
       <item value="check Is Alive Field By Name" />
       <item value="String" />
-      <item value="approve Process Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2044" />
+        <entry key="CHINESE" value="2045" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="2045" />
         <entry key="FRENCH" value="13" />
