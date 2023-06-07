@@ -984,6 +984,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="accept Del File" />
+      <item value="14:32:34.056 [http-nio-8091-exec-3] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - null" />
+      <item value="handle Exception" />
+      <item value="Global Exception Handler" />
+      <item value="null" />
+      <item value="最后直接删除对应服务合同信息即可" />
+      <item value="删除这个可以表示删除" />
+      <item value="DEFAULT类型" />
       <item value="get Is Applied" />
       <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
       <item value="get Relation Project Row Id" />
@@ -1026,20 +1034,12 @@
       <item value="append Project Pack File Data List" />
       <item value="search Project Filter" />
       <item value="get Create Time" />
-      <item value="Customer Project" />
-      <item value="get Customer Project List" />
-      <item value="Enhance" />
-      <item value="Type Description" />
-      <item value="Scanning for api listing references" />
-      <item value="Free Marker Auto Configuration" />
-      <item value="修改预案的版本状态" />
-      <item value="operate Plan Version State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2048" />
+        <entry key="CHINESE" value="2057" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2049" />
+        <entry key="ENGLISH" value="2058" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
