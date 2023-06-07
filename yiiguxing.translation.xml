@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set Attachment Result Ids" />
       <item value="accept Del File" />
       <item value="14:32:34.056 [http-nio-8091-exec-3] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - null" />
       <item value="handle Exception" />
@@ -1033,13 +1034,12 @@
       <item value="continue" />
       <item value="append Project Pack File Data List" />
       <item value="search Project Filter" />
-      <item value="get Create Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2057" />
+        <entry key="CHINESE" value="2058" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2058" />
+        <entry key="ENGLISH" value="2059" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
