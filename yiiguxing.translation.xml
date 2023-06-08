@@ -984,6 +984,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Accessible Object" />
+      <item value="Diagram Atomic Part" />
+      <item value="source Content" />
+      <item value="report Generic Context" />
+      <item value="resolve Report Info" />
+      <item value="Business Request Report" />
+      <item value="report Instance" />
+      <item value="is Not Empty" />
+      <item value="String Utils" />
       <item value="is Resolve" />
       <item value="entity" />
       <item value="base Url" />
@@ -1011,7 +1020,6 @@
       <item value="Engine Proc Act Inst" />
       <item value="order By Desc" />
       <item value="get" />
-      <item value="report Instance" />
       <item value="bean" />
       <item value="success" />
       <item value="Contract Payment Handle Enum" />
@@ -1026,20 +1034,12 @@
       <item value="DEFAULT类型" />
       <item value="get Is Applied" />
       <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
-      <item value="get Relation Project Row Id" />
-      <item value="relation Project Row Id" />
-      <item value="modify Project" />
-      <item value="set Status" />
-      <item value="customer Project Service" />
-      <item value="需要考虑代理和被代理删除关系" />
-      <item value="execute" />
-      <item value="Recursive Action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2084" />
+        <entry key="CHINESE" value="2094" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2085" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
