@@ -984,6 +984,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Josh Bloch" />
+      <item value="Tim Sort" />
+      <item value="Roland Schemers" />
+      <item value="Out Of Memory Error" />
+      <item value="Rectangular Shape" />
+      <item value="Jim Graham" />
+      <item value="redirect Router Path" />
       <item value="set Msg" />
       <item value="examine-check-report" />
       <item value="process Key" />
@@ -1027,19 +1034,12 @@
       <item value="current Contract Set Cost" />
       <item value="original Contract Cost" />
       <item value="confirm Execute Modify" />
-      <item value="contract Adder" />
-      <item value="model Redis Key" />
-      <item value="delete Object" />
-      <item value="redis Cache" />
-      <item value="save Customer" />
-      <item value="result All Customer Name Set" />
-      <item value="test Connection Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2071" />
+        <entry key="CHINESE" value="2077" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2072" />
+        <entry key="ENGLISH" value="2078" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
