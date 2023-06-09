@@ -984,14 +984,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Is Resolve" />
+      <item value="report Instance" />
+      <item value="resolve Report Form Vo" />
+      <item value="Business Request Report" />
+      <item value="set Is Resolve" />
+      <item value="update By Id" />
       <item value="report" />
       <item value="Accessible Object" />
       <item value="Diagram Atomic Part" />
       <item value="source Content" />
       <item value="report Generic Context" />
       <item value="resolve Report Info" />
-      <item value="Business Request Report" />
-      <item value="report Instance" />
       <item value="is Not Empty" />
       <item value="String Utils" />
       <item value="is Resolve" />
@@ -1030,16 +1034,12 @@
       <item value="handle Exception" />
       <item value="Global Exception Handler" />
       <item value="null" />
-      <item value="最后直接删除对应服务合同信息即可" />
-      <item value="删除这个可以表示删除" />
-      <item value="DEFAULT类型" />
-      <item value="get Is Applied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2095" />
+        <entry key="CHINESE" value="2101" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2096" />
+        <entry key="ENGLISH" value="2102" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
