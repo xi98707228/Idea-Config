@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="上传接口" />
       <item value="get Is Resolve" />
       <item value="report Instance" />
       <item value="com.ruoyi.project.process.domian.V Task." />
@@ -1033,11 +1034,10 @@
       <item value="bean" />
       <item value="success" />
       <item value="Contract Payment Handle Enum" />
-      <item value="set Attachment Result Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2107" />
+        <entry key="CHINESE" value="2108" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="2108" />
         <entry key="FRENCH" value="13" />
