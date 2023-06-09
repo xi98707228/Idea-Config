@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="report" />
       <item value="Accessible Object" />
       <item value="Diagram Atomic Part" />
       <item value="source Content" />
@@ -1033,13 +1034,12 @@
       <item value="删除这个可以表示删除" />
       <item value="DEFAULT类型" />
       <item value="get Is Applied" />
-      <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2094" />
+        <entry key="CHINESE" value="2095" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2095" />
+        <entry key="ENGLISH" value="2096" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
