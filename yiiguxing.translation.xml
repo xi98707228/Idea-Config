@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="merge Data Item" />
       <item value="get Is Resolve" />
       <item value="report Instance" />
       <item value="resolve Report Form Vo" />
@@ -1033,7 +1034,6 @@
       <item value="14:32:34.056 [http-nio-8091-exec-3] ERROR c.r.f.w.e.GlobalExceptionHandler - [handleException,83] - null" />
       <item value="handle Exception" />
       <item value="Global Exception Handler" />
-      <item value="null" />
     </histories>
     <option name="languageScores">
       <map>
