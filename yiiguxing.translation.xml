@@ -984,6 +984,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data Type" />
+      <item value="upload Name" />
       <item value="Mapper Factory Bean" />
       <item value="Ueditor Upload Controller" />
       <item value="Request Param" />
@@ -1032,14 +1034,12 @@
       <item value="set-notice-cache" />
       <item value="is Notice" />
       <item value="Engine Proc Act Inst" />
-      <item value="order By Desc" />
-      <item value="get" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2112" />
+        <entry key="CHINESE" value="2115" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2113" />
+        <entry key="ENGLISH" value="2116" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
