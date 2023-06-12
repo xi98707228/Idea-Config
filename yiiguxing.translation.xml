@@ -984,6 +984,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Report Attach" />
+      <item value="get Self Data List" />
+      <item value="param String" />
+      <item value="Query Wrapper" />
       <item value="Druid Abstract Data Source" />
       <item value="ec 95 f 4050 aae 07 c 415 ff 91 d 4 a 14 d 37 ea" />
       <item value="discard long time none received connection" />
@@ -1030,16 +1034,12 @@
       <item value="is Not Empty" />
       <item value="String Utils" />
       <item value="is Resolve" />
-      <item value="entity" />
-      <item value="base Url" />
-      <item value="change Nitoce" />
-      <item value="Path Variable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2138" />
+        <entry key="CHINESE" value="2141" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2139" />
+        <entry key="ENGLISH" value="2142" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
