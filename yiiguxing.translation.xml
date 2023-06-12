@@ -971,11 +971,12 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685323238734" />
+    <option name="lastTrimTime" value="1686532622591" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
@@ -983,69 +984,70 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="developserver" />
-      <item value="ev" />
-      <item value="维保正式服务器环境" />
-      <item value="for Leniency" />
-      <item value="Property Editor Support" />
-      <item value="node Record" />
-      <item value="version Number" />
-      <item value="Plan Center Global Status" />
-      <item value="VERSION STATE NOT REVIEWED" />
-      <item value="Disaster Application System" />
-      <item value="Job Factory" />
-      <item value="list" />
-      <item value="get Data Table" />
-      <item value="error" />
+      <item value="Data members." />
+      <item value="judge Has Enum Type" />
+      <item value="get User" />
+      <item value="上传附件信息" />
+      <item value="upload" />
+      <item value="data Type" />
+      <item value="judge Hash Enum Type" />
+      <item value="Report Attach" />
+      <item value="get Self Data List" />
+      <item value="param String" />
+      <item value="Query Wrapper" />
+      <item value="Druid Abstract Data Source" />
+      <item value="ec 95 f 4050 aae 07 c 415 ff 91 d 4 a 14 d 37 ea" />
+      <item value="discard long time none received connection" />
+      <item value="discard" />
+      <item value="test Connection Internal" />
+      <item value="upload Method" />
       <item value="Ajax Result" />
-      <item value="select Plan Information By Search Filter" />
-      <item value="select Plan Information By Search Filter COUNT" />
-      <item value="Plan Information Version" />
-      <item value="approve Process Type" />
-      <item value="operate Plan Running State" />
-      <item value="plan Information Service" />
-      <item value="value Of" />
-      <item value="digits" />
-      <item value="USER DECLARED METHODS" />
-      <item value="Rescheduling Runnable" />
-      <item value="预案关联人员类别" />
-      <item value="version State" />
-      <item value="system name" />
-      <item value="plan information personnel" />
-      <item value="config id" />
-      <item value="Parameters" />
-      <item value="Preparing" />
-      <item value="select Config List" />
-      <item value="debug" />
-      <item value="system Name" />
-      <item value="system code" />
-      <item value="plan information" />
-      <item value="disaster application system" />
-      <item value="容灾应用系统" />
-      <item value="plan Center" />
-      <item value="ruoyi" />
-      <item value="config Process" />
-      <item value="Stamped Lock" />
-      <item value="默认为待审核" />
-      <item value="reductions" />
-      <item value="compare And Set State" />
-      <item value="approve Process Id" />
-      <item value="stride" />
-      <item value="省略计算步长逻辑 ......" />
-      <item value="第一个进来扩容的线程 需要把新数组 nextTab 创建出来" />
+      <item value="Post Mapping" />
+      <item value="Request Param" />
+      <item value="Multipart File" />
+      <item value="success" />
+      <item value="p" />
+      <item value="get Resource As Stream" />
+      <item value="VERSION STATE HAVE PUBLISHED" />
+      <item value="修改数据时" />
+      <item value="如果检测到已经审批完成" />
+      <item value="审批中是无法修改的" />
+      <item value="已修改待审批" />
+      <item value="target Data" />
+      <item value="Plan Center Global Status" />
+      <item value="upload Name" />
+      <item value="Mapper Factory Bean" />
+      <item value="Ueditor Upload Controller" />
+      <item value="上传接口" />
+      <item value="get Is Resolve" />
+      <item value="report Instance" />
+      <item value="com.ruoyi.project.process.domian.V Task." />
+      <item value="Class" />
+      <item value="Table Id" />
+      <item value="Job Factory" />
+      <item value="merge Data Item" />
+      <item value="resolve Report Form Vo" />
+      <item value="Business Request Report" />
+      <item value="set Is Resolve" />
+      <item value="update By Id" />
+      <item value="report" />
+      <item value="Accessible Object" />
+      <item value="Diagram Atomic Part" />
+      <item value="source Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1860" />
+        <entry key="CHINESE" value="2148" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1861" />
-        <entry key="FRENCH" value="12" />
+        <entry key="ENGLISH" value="2149" />
+        <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
         <entry key="ITALIAN" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="1" />
       </map>
     </option>
   </component>
