@@ -984,6 +984,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Data members." />
+      <item value="judge Has Enum Type" />
+      <item value="get User" />
+      <item value="上传附件信息" />
+      <item value="upload" />
+      <item value="data Type" />
+      <item value="judge Hash Enum Type" />
       <item value="Report Attach" />
       <item value="get Self Data List" />
       <item value="param String" />
@@ -993,7 +1000,6 @@
       <item value="discard long time none received connection" />
       <item value="discard" />
       <item value="test Connection Internal" />
-      <item value="upload" />
       <item value="upload Method" />
       <item value="Ajax Result" />
       <item value="Post Mapping" />
@@ -1009,7 +1015,6 @@
       <item value="已修改待审批" />
       <item value="target Data" />
       <item value="Plan Center Global Status" />
-      <item value="data Type" />
       <item value="upload Name" />
       <item value="Mapper Factory Bean" />
       <item value="Ueditor Upload Controller" />
@@ -1029,17 +1034,12 @@
       <item value="Accessible Object" />
       <item value="Diagram Atomic Part" />
       <item value="source Content" />
-      <item value="report Generic Context" />
-      <item value="resolve Report Info" />
-      <item value="is Not Empty" />
-      <item value="String Utils" />
-      <item value="is Resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2141" />
+        <entry key="CHINESE" value="2148" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2142" />
+        <entry key="ENGLISH" value="2149" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
