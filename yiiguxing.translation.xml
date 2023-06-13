@@ -984,6 +984,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ali Yun Message Utils" />
+      <item value="Send Sms Response" />
+      <item value="parameter Map" />
+      <item value="attach Files" />
       <item value="get Original Filename" />
       <item value="attach File" />
       <item value="upload Attach List" />
@@ -1030,16 +1034,12 @@
       <item value="Job Factory" />
       <item value="merge Data Item" />
       <item value="resolve Report Form Vo" />
-      <item value="Business Request Report" />
-      <item value="set Is Resolve" />
-      <item value="update By Id" />
-      <item value="report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2152" />
+        <entry key="CHINESE" value="2155" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2153" />
+        <entry key="ENGLISH" value="2156" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
