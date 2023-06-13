@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="temp List" />
       <item value="IO Exception" />
       <item value="upload Finance Attach" />
       <item value="finance Attach Service" />
@@ -1033,13 +1034,12 @@
       <item value="上传接口" />
       <item value="get Is Resolve" />
       <item value="report Instance" />
-      <item value="com.ruoyi.project.process.domian.V Task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2160" />
+        <entry key="CHINESE" value="2161" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2161" />
+        <entry key="ENGLISH" value="2162" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
