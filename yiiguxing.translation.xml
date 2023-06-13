@@ -984,6 +984,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="upload Attach List" />
+      <item value="attach File" />
       <item value="Data members." />
       <item value="judge Has Enum Type" />
       <item value="get User" />
@@ -1032,14 +1034,12 @@
       <item value="update By Id" />
       <item value="report" />
       <item value="Accessible Object" />
-      <item value="Diagram Atomic Part" />
-      <item value="source Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2148" />
+        <entry key="CHINESE" value="2150" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2149" />
+        <entry key="ENGLISH" value="2151" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
