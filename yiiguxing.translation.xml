@@ -985,6 +985,16 @@
     <option name="newTranslationDialogY" value="342" />
     <histories>
       <item value="contract File For Project List" />
+      <item value="Starting without optional epoll library" />
+      <item value="init Table Fields" />
+      <item value="Epoll Provider" />
+      <item value="Table Info Helper" />
+      <item value="Starting without optional kqueue library" />
+      <item value="Custom Contract Cost Plan Record" />
+      <item value="contract Cost Plan Record List" />
+      <item value="获取当前所有收款计划生成的收款单信息" />
+      <item value="Finance Cost Order" />
+      <item value="清除所有当前收款关联的所有收款计划关联关系数据" />
       <item value="遍历所有项目数据" />
       <item value="Customer Project" />
       <item value="Custom Contract File Relation" />
@@ -1024,22 +1034,12 @@
       <item value="set Approve Cost" />
       <item value="finance Supplier Payment Tick Service" />
       <item value="Druid Abstract Data Source" />
-      <item value="test Connection Internal" />
-      <item value="discard" />
-      <item value="deep Rollback Flag" />
-      <item value="set Examine Row Id" />
-      <item value="process Row Id" />
-      <item value="Collection Utils" />
-      <item value="Examine Reimbursement Order" />
-      <item value="本地或者公司测试服务器" />
-      <item value="localhost" />
-      <item value="embedded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2211" />
+        <entry key="CHINESE" value="2223" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2212" />
+        <entry key="ENGLISH" value="2224" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
