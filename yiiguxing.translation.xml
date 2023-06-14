@@ -984,12 +984,27 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Finance Supplier Payment Tick Relation" />
+      <item value="提交的付款数据列表信息" />
+      <item value="payment" />
+      <item value="则刷新合同状态" />
+      <item value="反之则每次更新都要确认一下" />
+      <item value="扣除审批中的金额" />
+      <item value="process Payment Tick Info" />
+      <item value="同下方法变种" />
+      <item value="change Status" />
+      <item value="examine Relationship Row Ids" />
+      <item value="start Examine Process And Change Relation Status" />
+      <item value="开启审批报销单流程处理方法" />
+      <item value="并且改变其审批状态" />
+      <item value="审批的关联信息row Ids" />
+      <item value="反之则每次更新都要确认一下 审批中金额正确性" />
       <item value="set Approve Cost" />
+      <item value="finance Supplier Payment Tick Service" />
       <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
       <item value="discard" />
       <item value="deep Rollback Flag" />
-      <item value="Finance Supplier Payment Tick Relation" />
       <item value="set Examine Row Id" />
       <item value="process Row Id" />
       <item value="Collection Utils" />
@@ -1019,27 +1034,12 @@
       <item value="data Type" />
       <item value="judge Hash Enum Type" />
       <item value="Report Attach" />
-      <item value="get Self Data List" />
-      <item value="param String" />
-      <item value="Query Wrapper" />
-      <item value="ec 95 f 4050 aae 07 c 415 ff 91 d 4 a 14 d 37 ea" />
-      <item value="discard long time none received connection" />
-      <item value="upload Method" />
-      <item value="Ajax Result" />
-      <item value="Post Mapping" />
-      <item value="Request Param" />
-      <item value="Multipart File" />
-      <item value="success" />
-      <item value="p" />
-      <item value="get Resource As Stream" />
-      <item value="VERSION STATE HAVE PUBLISHED" />
-      <item value="修改数据时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2179" />
+        <entry key="CHINESE" value="2188" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2180" />
+        <entry key="ENGLISH" value="2189" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
