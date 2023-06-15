@@ -984,6 +984,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Rest Controller" />
+      <item value="Request Mapping" />
+      <item value="report" />
+      <item value="Report Source Data Api Controller" />
+      <item value="init Handler Methods" />
+      <item value="针对于合同文件而言才可以使用" />
+      <item value="Path Variable" />
       <item value="RUNTIME" />
       <item value="METHOD" />
       <item value="STORE CUSTOMER CONTACT TREE JSON KEY" />
@@ -1027,19 +1034,12 @@
       <item value="merge" />
       <item value="confirm Reject Exception Data" />
       <item value="Validator" />
-      <item value="clinit" />
-      <item value="Version" />
-      <item value="project File Relation List" />
-      <item value="reject Exception Data Vo" />
-      <item value="获取每个项目下有多个服务合同的项目信息和其服务合同信息" />
-      <item value="project Item" />
-      <item value="search Project File And Continue Reject Exception Data Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2240" />
+        <entry key="CHINESE" value="2245" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2241" />
+        <entry key="ENGLISH" value="2246" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
