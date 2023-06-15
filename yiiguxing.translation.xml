@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="set From User Dept Name" />
       <item value="depth" />
       <item value="Serialization Delegate" />
       <item value="Jdk Serialization Redis Serializer" />
@@ -1033,13 +1034,12 @@
       <item value="reject Exception Data Vos" />
       <item value="客户项目数据" />
       <item value="合并 客户数据、客户项目数据 重复的数据项" />
-      <item value="item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2248" />
+        <entry key="CHINESE" value="2249" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="ENGLISH" value="2250" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
