@@ -984,6 +984,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="RUNTIME" />
+      <item value="METHOD" />
+      <item value="STORE CUSTOMER CONTACT TREE JSON KEY" />
+      <item value="STORE CONTRACT NAME KEY" />
+      <item value="Long" />
+      <item value="library" />
+      <item value="optional" />
+      <item value="without" />
+      <item value="只获取售后部门的菜单列表" />
+      <item value="select Tree List" />
+      <item value="Tree Select" />
+      <item value="transport" />
       <item value="get Data Table" />
       <item value="list" />
       <item value="Query Wrapper" />
@@ -1022,24 +1034,12 @@
       <item value="获取每个项目下有多个服务合同的项目信息和其服务合同信息" />
       <item value="project Item" />
       <item value="search Project File And Continue Reject Exception Data Item" />
-      <item value="Finance Supplier Payment Tick Relation" />
-      <item value="提交的付款数据列表信息" />
-      <item value="payment" />
-      <item value="则刷新合同状态" />
-      <item value="反之则每次更新都要确认一下" />
-      <item value="扣除审批中的金额" />
-      <item value="process Payment Tick Info" />
-      <item value="同下方法变种" />
-      <item value="change Status" />
-      <item value="examine Relationship Row Ids" />
-      <item value="start Examine Process And Change Relation Status" />
-      <item value="开启审批报销单流程处理方法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2229" />
+        <entry key="CHINESE" value="2240" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2230" />
+        <entry key="ENGLISH" value="2241" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
