@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Parameters" />
       <item value="contract File For Project List" />
       <item value="Starting without optional epoll library" />
       <item value="init Table Fields" />
@@ -1033,13 +1034,12 @@
       <item value="反之则每次更新都要确认一下 审批中金额正确性" />
       <item value="set Approve Cost" />
       <item value="finance Supplier Payment Tick Service" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2223" />
+        <entry key="CHINESE" value="2224" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2224" />
+        <entry key="ENGLISH" value="2225" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
