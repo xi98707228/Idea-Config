@@ -984,6 +984,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="data" />
+      <item value="merge Data Item" />
+      <item value="获取所有的客户信息" />
       <item value="执行重定向当前工单的关联项目数据信息" />
       <item value="return" />
       <item value="redirect Order For Project Info" />
@@ -1031,15 +1034,12 @@
       <item value="遍历所有项目数据" />
       <item value="Customer Project" />
       <item value="Custom Contract File Relation" />
-      <item value="Group Contract Type" />
-      <item value="project Name" />
-      <item value="直接返回异常数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2253" />
+        <entry key="CHINESE" value="2255" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2253" />
+        <entry key="ENGLISH" value="2256" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
