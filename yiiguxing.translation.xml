@@ -984,6 +984,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Coyote Adapter" />
+      <item value="Refresh Cache Aspect Impl" />
+      <item value="COMPLETING" />
+      <item value="NORMAL" />
+      <item value="may Interrupt If Running" />
+      <item value="finish Completion" />
       <item value="data" />
       <item value="merge Data Item" />
       <item value="获取所有的客户信息" />
@@ -1028,18 +1034,12 @@
       <item value="Starting without optional kqueue library" />
       <item value="Custom Contract Cost Plan Record" />
       <item value="contract Cost Plan Record List" />
-      <item value="获取当前所有收款计划生成的收款单信息" />
-      <item value="Finance Cost Order" />
-      <item value="清除所有当前收款关联的所有收款计划关联关系数据" />
-      <item value="遍历所有项目数据" />
-      <item value="Customer Project" />
-      <item value="Custom Contract File Relation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2255" />
+        <entry key="CHINESE" value="2261" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="ENGLISH" value="2262" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
