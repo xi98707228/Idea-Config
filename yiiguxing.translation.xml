@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686532622591" />
+    <option name="lastTrimTime" value="1687139351855" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -984,6 +984,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="HAVING" />
+      <item value="Project Reject Exception Data Vo" />
+      <item value="reject Exception Data Vos" />
       <item value="custom Contract Relation Service" />
       <item value="如果存在多文件则只获取最后关联的文件信息" />
       <item value="pre" />
@@ -1031,15 +1034,12 @@
       <item value="library" />
       <item value="optional" />
       <item value="without" />
-      <item value="只获取售后部门的菜单列表" />
-      <item value="select Tree List" />
-      <item value="Tree Select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2281" />
+        <entry key="CHINESE" value="2284" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2282" />
+        <entry key="ENGLISH" value="2285" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
