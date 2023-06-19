@@ -984,6 +984,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="filter Project Data" />
+      <item value="customer Project" />
+      <item value="project Server Contract Map" />
+      <item value="customer Project Data" />
+      <item value="拥有合同编号的服务合同" />
+      <item value="即单一文件" />
+      <item value="PRIMARY" />
+      <item value="PRIMARY类型的文件" />
       <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
       <item value="HAVING" />
@@ -1026,20 +1034,12 @@
       <item value="report" />
       <item value="Report Source Data Api Controller" />
       <item value="init Handler Methods" />
-      <item value="针对于合同文件而言才可以使用" />
-      <item value="Path Variable" />
-      <item value="RUNTIME" />
-      <item value="METHOD" />
-      <item value="STORE CUSTOMER CONTACT TREE JSON KEY" />
-      <item value="STORE CONTRACT NAME KEY" />
-      <item value="Long" />
-      <item value="library" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2288" />
+        <entry key="CHINESE" value="2292" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2289" />
+        <entry key="ENGLISH" value="2293" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
