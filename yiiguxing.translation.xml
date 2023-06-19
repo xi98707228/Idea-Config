@@ -980,10 +980,32 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="服务合同附件信息列表" />
+      <item value="project Related List" />
+      <item value="lambda" />
+      <item value="file Relation" />
+      <item value="如果是正常的 那么直接返回即可" />
+      <item value="map Value Project Related List" />
+      <item value="easier to spot than zero. OPTIMIZE is this a bug? static?" />
+      <item value="The superclass of anything representing a the shadow of a join point. A shadow represents some bit of code, and encompasses both entry and exit from that code. All shadows have a kind and a signature." />
+      <item value="Shadow" />
+      <item value="ALL SHADOW KINDS BITS" />
+      <item value="Type Safe Enum" />
+      <item value="get Discovered Returning Generic Type" />
+      <item value="should Invoke On Return Value Of" />
+      <item value="Following AspectJ semantics, if a returning clause was specified, then the advice is only invoked if the returned value is an instance of the given returning type and generic type parameters, if any, match the assignment rules. If the returning type is Object, the advice is always invoked. Params: returnValue – the return value of the target method Returns: whether to invoke the advice method for the given return value" />
+      <item value="determine Annotation Type" />
+      <item value="鲁伊抽象数据" />
+      <item value="Druid Abstract Data Source" />
+      <item value="test Connection Internal" />
+      <item value="param String" />
+      <item value="customer Project Service" />
+      <item value="search Project Filter" />
       <item value="filter Project Data" />
       <item value="customer Project" />
       <item value="project Server Contract Map" />
@@ -992,8 +1014,6 @@
       <item value="即单一文件" />
       <item value="PRIMARY" />
       <item value="PRIMARY类型的文件" />
-      <item value="Druid Abstract Data Source" />
-      <item value="test Connection Internal" />
       <item value="HAVING" />
       <item value="Project Reject Exception Data Vo" />
       <item value="reject Exception Data Vos" />
@@ -1002,44 +1022,25 @@
       <item value="pre" />
       <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
       <item value="get Group Type" />
-      <item value="search Project Filter" />
       <item value="get-project-contract-detail" />
       <item value="get Project Contract Detail Data" />
-      <item value="param String" />
       <item value="result Vo" />
       <item value="append Pack File Data List Map" />
       <item value="Use ReadLock And CAS And Spin-Block Ensure Thread Safe" />
       <item value="Are workers subject to culling?" />
       <item value="Custom Contract File Relation" />
-      <item value="file Relation" />
       <item value="Coyote Adapter" />
       <item value="Refresh Cache Aspect Impl" />
       <item value="COMPLETING" />
       <item value="NORMAL" />
       <item value="may Interrupt If Running" />
       <item value="finish Completion" />
-      <item value="data" />
-      <item value="merge Data Item" />
-      <item value="获取所有的客户信息" />
-      <item value="执行重定向当前工单的关联项目数据信息" />
-      <item value="return" />
-      <item value="redirect Order For Project Info" />
-      <item value="Ajax Result" />
-      <item value="set From User Dept Name" />
-      <item value="depth" />
-      <item value="Serialization Delegate" />
-      <item value="Jdk Serialization Redis Serializer" />
-      <item value="Rest Controller" />
-      <item value="Request Mapping" />
-      <item value="report" />
-      <item value="Report Source Data Api Controller" />
-      <item value="init Handler Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2292" />
+        <entry key="CHINESE" value="2310" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2293" />
+        <entry key="ENGLISH" value="2311" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
