@@ -985,6 +985,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transferer" />
+      <item value="Transfer Stack" />
+      <item value="spin For Timeout Threshold" />
+      <item value="await Fulfill" />
+      <item value="wait was cancelled" />
+      <item value="successfully fulfilled" />
+      <item value="Q Node" />
+      <item value="tail" />
+      <item value="complementary-mode" />
+      <item value="same-mode" />
+      <item value="至主客户数据下方" />
+      <item value="repeat Customer Project List" />
       <item value="repeat Name Customer List" />
       <item value="root Customer Data" />
       <item value="重定向所有关联数据至主数据上" />
@@ -1023,25 +1035,13 @@
       <item value="append Contract Related File List Map" />
       <item value="服务合同附件信息列表" />
       <item value="project Related List" />
-      <item value="lambda" />
-      <item value="file Relation" />
-      <item value="如果是正常的 那么直接返回即可" />
-      <item value="map Value Project Related List" />
-      <item value="easier to spot than zero. OPTIMIZE is this a bug? static?" />
-      <item value="The superclass of anything representing a the shadow of a join point. A shadow represents some bit of code, and encompasses both entry and exit from that code. All shadows have a kind and a signature." />
-      <item value="Shadow" />
-      <item value="ALL SHADOW KINDS BITS" />
-      <item value="Type Safe Enum" />
-      <item value="get Discovered Returning Generic Type" />
-      <item value="should Invoke On Return Value Of" />
-      <item value="Following AspectJ semantics, if a returning clause was specified, then the advice is only invoked if the returned value is an instance of the given returning type and generic type parameters, if any, match the assignment rules. If the returning type is Object, the advice is always invoked. Params: returnValue – the return value of the target method Returns: whether to invoke the advice method for the given return value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2343" />
+        <entry key="CHINESE" value="2353" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2344" />
-        <entry key="FRENCH" value="13" />
+        <entry key="ENGLISH" value="2353" />
+        <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
         <entry key="ITALIAN" value="2" />
