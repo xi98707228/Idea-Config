@@ -985,6 +985,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Custom Contract File Relation" />
+      <item value="get Group Type" />
+      <item value="当前项目关联的服务合同为1个时" />
+      <item value="自动关联" />
+      <item value="project Contract List" />
       <item value="all Order" />
       <item value="WAITING ACCEPT TIMEOUT TIME" />
       <item value="只要任务提交到这个缓存的线程池中" />
@@ -1030,17 +1035,12 @@
       <item value="Project Reject Exception Data Vo" />
       <item value="reject Exception Data Vos" />
       <item value="custom Contract Relation Service" />
-      <item value="如果存在多文件则只获取最后关联的文件信息" />
-      <item value="pre" />
-      <item value="&lt;pre&gt; Default --&gt; Single Contract File Primary --&gt; This GroupType Proxy Not Really Instance , But Is Record Tag Child --&gt; This GroupType Is Relation Primary Record &lt;pre&gt;" />
-      <item value="get Group Type" />
-      <item value="get-project-contract-detail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2322" />
+        <entry key="CHINESE" value="2326" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2323" />
+        <entry key="ENGLISH" value="2327" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
