@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="omitted" />
+      <item value="packet Debug Buffer Size" />
       <item value="Druid Abstract Data Source" />
       <item value="test Connection Internal" />
       <item value="for (CustomerManage repeatItem : repeatNameCustomerList) {" />
@@ -1033,14 +1035,12 @@
       <item value="custom Contract Relation Service" />
       <item value="Process Controller" />
       <item value="Spring Boot Servlet Initializer" />
-      <item value="web容器中进行部署" />
-      <item value="extends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2385" />
+        <entry key="CHINESE" value="2387" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="ENGLISH" value="2388" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
