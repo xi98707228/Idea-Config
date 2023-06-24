@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686532622591" />
+    <option name="lastTrimTime" value="1687596057152" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -984,6 +984,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="JUC concurrent Program Future Task详解" />
       <item value="Data members." />
       <item value="judge Has Enum Type" />
       <item value="get User" />
@@ -1033,13 +1034,12 @@
       <item value="report" />
       <item value="Accessible Object" />
       <item value="Diagram Atomic Part" />
-      <item value="source Content" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2148" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2149" />
+        <entry key="ENGLISH" value="2150" />
         <entry key="FRENCH" value="13" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
