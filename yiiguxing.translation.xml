@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取关联的工单Id列表" />
       <item value="工单row Id" />
       <item value="order Row Id" />
       <item value="statistics" />
@@ -1034,11 +1035,10 @@
       <item value="repeat Order Item" />
       <item value="Query Wrapper" />
       <item value="Repair Device Log" />
-      <item value="get Work Order Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
+        <entry key="CHINESE" value="2418" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="2418" />
         <entry key="FRENCH" value="14" />
