@@ -985,6 +985,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="order Source" />
+      <item value="date Range Order Source" />
+      <item value="V Work Order List" />
+      <item value="get Data Table" />
       <item value="RELEASE" />
       <item value="Hibernate" />
       <item value="transport" />
@@ -1031,16 +1035,12 @@
       <item value="get Security Manager" />
       <item value="STRING BUILDER INITIAL SIZE" />
       <item value="type Parameter Matcher Get Cache" />
-      <item value="We should subtract 1 from the count because the first element in 'indexedVariables' is reserved by 'FastThreadLocal' to keep the list of 'FastThreadLocal's to remove on 'FastThreadLocal.removeAll()'." />
-      <item value="Unpadded Internal Thread Local Map" />
-      <item value="prefer Direct" />
-      <item value="jump Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2408" />
+        <entry key="CHINESE" value="2411" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2409" />
+        <entry key="ENGLISH" value="2412" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
