@@ -985,6 +985,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="excel Read Converter Exp" />
+      <item value="TASK WAIT CONFIRM FINISH" />
+      <item value="TASK CONFIRM FINISH" />
+      <item value="Find Cached" />
+      <item value="需要在任务实例表中构建出" />
+      <item value="表示任务项具体状态的字段" />
+      <item value="delete Concrete Task Invoke Method" />
       <item value="TASK HAS RECEIVE" />
       <item value="TASK PENDING RECEIVE" />
       <item value="Task Item State" />
@@ -1028,19 +1035,12 @@
       <item value="从库数据源" />
       <item value="order Item Export List" />
       <item value="get Controller Method Description" />
-      <item value="关联源单相关字段" />
-      <item value="获取关联的工单Id列表" />
-      <item value="工单row Id" />
-      <item value="order Row Id" />
-      <item value="statistics" />
-      <item value="get Statistics Row Detail Data" />
-      <item value="Path Variable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2480" />
+        <entry key="CHINESE" value="2485" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2481" />
+        <entry key="ENGLISH" value="2486" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
