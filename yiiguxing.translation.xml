@@ -985,12 +985,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Xm Name" />
+      <item value="Security Utils" />
+      <item value="query Wrapper" />
+      <item value="get Create Time" />
+      <item value="查询VIEW列表" />
+      <item value="v Person In Project" />
+      <item value="VIEW" />
+      <item value="select V Person In Project List" />
+      <item value="config" />
+      <item value="V Person Task In Projects" />
       <item value="V Person In Project" />
       <item value="lambda" />
       <item value="list" />
-      <item value="v Person In Project" />
       <item value="Get Mapping" />
-      <item value="查询VIEW列表" />
       <item value="Table Data Info" />
       <item value="Mapper Factory Bean" />
       <item value="Http 11 Nio Protocol" />
@@ -1027,20 +1035,12 @@
       <item value="transport" />
       <item value="Smart Lifecycle" />
       <item value="Documentation Plugins Bootstrapper" />
-      <item value="project Contract List" />
-      <item value="get Project Row Id" />
-      <item value="customer Project Service" />
-      <item value="project Ins" />
-      <item value="project" />
-      <item value="merge Project All Data" />
-      <item value="Request Param" />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2448" />
+        <entry key="CHINESE" value="2461" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2449" />
+        <entry key="ENGLISH" value="2462" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
