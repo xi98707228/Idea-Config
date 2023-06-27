@@ -985,6 +985,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Not Empty" />
+      <item value="param String" />
+      <item value="self Pending Item" />
+      <item value="search Filter" />
+      <item value="get Task Item State" />
+      <item value="已委托" />
+      <item value="已接收" />
+      <item value="指定人员" />
+      <item value="set Base Thread Pool" />
       <item value="任务负责人id" />
       <item value="directors" />
       <item value="TASK PENDING RECEIVE" />
@@ -1026,21 +1035,12 @@
       <item value="list" />
       <item value="Get Mapping" />
       <item value="Table Data Info" />
-      <item value="Mapper Factory Bean" />
-      <item value="Http 11 Nio Protocol" />
-      <item value="Skipping" />
-      <item value="log" />
-      <item value="Standard Service" />
-      <item value="Standard Engine" />
-      <item value="Apache Tomcat9.0.63" />
-      <item value="Servlet" />
-      <item value="Starting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2493" />
+        <entry key="CHINESE" value="2501" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2493" />
+        <entry key="ENGLISH" value="2502" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
