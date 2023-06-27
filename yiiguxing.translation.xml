@@ -985,8 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Task Instance" />
       <item value="handle Task Instance" />
+      <item value="Task Instance" />
       <item value="async After Handle Set" />
       <item value="Override" />
       <item value="handle Params" />
@@ -1038,9 +1038,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2549" />
+        <entry key="CHINESE" value="2550" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2550" />
+        <entry key="ENGLISH" value="2551" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
