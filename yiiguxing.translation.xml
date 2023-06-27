@@ -985,9 +985,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="is Not Empty" />
       <item value="param String" />
       <item value="self Pending Item" />
+      <item value="person Task In Projects Service" />
+      <item value="获取以当前登录人员为负责人的任务项" />
+      <item value="is Not Empty" />
       <item value="search Filter" />
       <item value="get Task Item State" />
       <item value="已委托" />
@@ -1033,14 +1035,12 @@
       <item value="V Person In Project" />
       <item value="lambda" />
       <item value="list" />
-      <item value="Get Mapping" />
-      <item value="Table Data Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2501" />
+        <entry key="CHINESE" value="2508" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2502" />
+        <entry key="ENGLISH" value="2509" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
