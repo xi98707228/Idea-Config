@@ -985,6 +985,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Normal" />
+      <item value="Task" />
+      <item value="directors" />
+      <item value="POSTPONE" />
       <item value="param String" />
       <item value="用户名" />
       <item value="处理任务" />
@@ -1001,7 +1005,6 @@
       <item value="指定人员" />
       <item value="set Base Thread Pool" />
       <item value="任务负责人id" />
-      <item value="directors" />
       <item value="TASK PENDING RECEIVE" />
       <item value="select V My Responsible Task List" />
       <item value="v My Responsible Task" />
@@ -1032,15 +1035,12 @@
       <item value="query Wrapper" />
       <item value="get Xm Name" />
       <item value="Security Utils" />
-      <item value="get Create Time" />
-      <item value="查询VIEW列表" />
-      <item value="config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2512" />
+        <entry key="CHINESE" value="2515" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2513" />
+        <entry key="ENGLISH" value="2516" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
