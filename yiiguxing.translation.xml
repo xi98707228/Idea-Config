@@ -985,9 +985,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="async After Handle Set" />
+      <item value="Task Instance" />
       <item value="handle Task Instance" />
+      <item value="async After Handle Set" />
       <item value="Override" />
+      <item value="handle Params" />
       <item value="after Properties Set" />
       <item value="async After Set" />
       <item value="task Instance Service" />
@@ -1033,14 +1035,12 @@
       <item value="save Or Update Concrete Task By Instance Type" />
       <item value="任务创建时刻" />
       <item value="EXCEL READ CONVERTER EXP" />
-      <item value="excel Read Converter Exp" />
-      <item value="TASK WAIT CONFIRM FINISH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2542" />
+        <entry key="CHINESE" value="2549" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2543" />
+        <entry key="ENGLISH" value="2550" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
