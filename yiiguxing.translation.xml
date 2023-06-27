@@ -985,10 +985,32 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="async After Handle Set" />
+      <item value="handle Task Instance" />
+      <item value="Override" />
+      <item value="after Properties Set" />
+      <item value="async After Set" />
+      <item value="task Instance Service" />
+      <item value="TASK ENTRUST" />
+      <item value="task Instance" />
+      <item value="n" />
+      <item value="set Task Item State" />
+      <item value="TASK PENDING RECEIVE" />
+      <item value="handle Task Item State" />
+      <item value="Task Item State" />
+      <item value="task Item State Type" />
+      <item value="resolve Transfer State Value Of Enum Type" />
+      <item value="请更新枚举值" />
+      <item value="预期任务项状态" />
+      <item value="result Table Data" />
+      <item value="expect State" />
+      <item value="task Id" />
+      <item value="except State" />
+      <item value="POSTPONE" />
+      <item value="LACK DIRECTORS" />
       <item value="Normal" />
       <item value="Task" />
       <item value="directors" />
-      <item value="POSTPONE" />
       <item value="param String" />
       <item value="用户名" />
       <item value="处理任务" />
@@ -1005,7 +1027,6 @@
       <item value="指定人员" />
       <item value="set Base Thread Pool" />
       <item value="任务负责人id" />
-      <item value="TASK PENDING RECEIVE" />
       <item value="select V My Responsible Task List" />
       <item value="v My Responsible Task" />
       <item value="RUNNING" />
@@ -1014,34 +1035,13 @@
       <item value="EXCEL READ CONVERTER EXP" />
       <item value="excel Read Converter Exp" />
       <item value="TASK WAIT CONFIRM FINISH" />
-      <item value="TASK CONFIRM FINISH" />
-      <item value="Find Cached" />
-      <item value="需要在任务实例表中构建出" />
-      <item value="表示任务项具体状态的字段" />
-      <item value="delete Concrete Task Invoke Method" />
-      <item value="TASK HAS RECEIVE" />
-      <item value="Task Item State" />
-      <item value="由任务实例开始" />
-      <item value="TASK TERMINATED" />
-      <item value="PENDING_" />
-      <item value="task Instance Service" />
-      <item value="具体任务数据" />
-      <item value="task DTO用于接收参数" />
-      <item value="Task Dto" />
-      <item value="@param vPersonInProject VIEW" />
-      <item value="v Person In Project" />
-      <item value="VIEW" />
-      <item value="select V Person In Project List" />
-      <item value="query Wrapper" />
-      <item value="get Xm Name" />
-      <item value="Security Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2515" />
+        <entry key="CHINESE" value="2542" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2516" />
-        <entry key="FRENCH" value="14" />
+        <entry key="ENGLISH" value="2543" />
+        <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
         <entry key="ITALIAN" value="2" />
