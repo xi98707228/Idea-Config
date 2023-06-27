@@ -985,13 +985,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="COMPLETING" />
+      <item value="NORMAL" />
       <item value="Future Task" />
       <item value="Future Task应用" />
       <item value="compare And Swap Object" />
       <item value="ensure visibility of callable" />
       <item value="The thread running the callable; CASed during run()" />
       <item value="non-volatile, protected by state readswrites" />
-      <item value="COMPLETING" />
       <item value="Smart Lifecycle" />
       <item value="Documentation Plugins Bootstrapper" />
       <item value="project Contract List" />
@@ -1034,13 +1035,12 @@
       <item value="do Privileged" />
       <item value="get Security Manager" />
       <item value="STRING BUILDER INITIAL SIZE" />
-      <item value="type Parameter Matcher Get Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2411" />
+        <entry key="CHINESE" value="2414" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2412" />
+        <entry key="ENGLISH" value="2415" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
