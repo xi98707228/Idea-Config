@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Update Num" />
       <item value="待接收状态所执行" />
       <item value="将异常的任务状态重置为" />
       <item value="待接收操作这个方法的执行用来" />
@@ -1034,13 +1035,12 @@
       <item value="get Task Item State" />
       <item value="已接收" />
       <item value="指定人员" />
-      <item value="set Base Thread Pool" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2558" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2558" />
+        <entry key="ENGLISH" value="2559" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
