@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="任务负责人id" />
+      <item value="directors" />
+      <item value="TASK PENDING RECEIVE" />
       <item value="select V My Responsible Task List" />
       <item value="v My Responsible Task" />
       <item value="RUNNING" />
@@ -999,7 +1002,6 @@
       <item value="表示任务项具体状态的字段" />
       <item value="delete Concrete Task Invoke Method" />
       <item value="TASK HAS RECEIVE" />
-      <item value="TASK PENDING RECEIVE" />
       <item value="Task Item State" />
       <item value="由任务实例开始" />
       <item value="TASK TERMINATED" />
@@ -1033,14 +1035,12 @@
       <item value="Apache Tomcat9.0.63" />
       <item value="Servlet" />
       <item value="Starting" />
-      <item value="Initializing" />
-      <item value="Protocol Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2489" />
+        <entry key="CHINESE" value="2493" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2490" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="FRENCH" value="14" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
