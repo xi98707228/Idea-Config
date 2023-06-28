@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Directors" />
+      <item value="parse Long" />
       <item value="execute Cause" />
       <item value="请更新枚举值" />
       <item value="is Need After Set" />
@@ -1033,14 +1035,12 @@
       <item value="LACK DIRECTORS" />
       <item value="Normal" />
       <item value="Task" />
-      <item value="directors" />
-      <item value="param String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2572" />
+        <entry key="CHINESE" value="2574" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2573" />
+        <entry key="ENGLISH" value="2575" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
