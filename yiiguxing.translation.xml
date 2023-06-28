@@ -985,6 +985,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="execute Cause" />
+      <item value="请更新枚举值" />
+      <item value="is Need After Set" />
+      <item value="need After Set" />
+      <item value="need After Handle Set" />
+      <item value="handle Task Params" />
+      <item value="创建当前任务的流转日志" />
+      <item value="execute" />
       <item value="get Task Item State" />
       <item value="send User Name" />
       <item value="execute Handle Task State" />
@@ -1016,7 +1024,6 @@
       <item value="Task Item State" />
       <item value="task Item State Type" />
       <item value="resolve Transfer State Value Of Enum Type" />
-      <item value="请更新枚举值" />
       <item value="预期任务项状态" />
       <item value="result Table Data" />
       <item value="expect State" />
@@ -1028,19 +1035,12 @@
       <item value="Task" />
       <item value="directors" />
       <item value="param String" />
-      <item value="用户名" />
-      <item value="处理任务" />
-      <item value="user Name" />
-      <item value="分配人员id" />
-      <item value="self Pending Item" />
-      <item value="person Task In Projects Service" />
-      <item value="获取以当前登录人员为负责人的任务项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2564" />
+        <entry key="CHINESE" value="2572" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2565" />
+        <entry key="ENGLISH" value="2573" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
