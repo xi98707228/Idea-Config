@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="project Task Handle Person Service" />
+      <item value="insert Project Task Handle Person" />
+      <item value="将任务重新返回到项目负责人处" />
       <item value="HANDLE PERSON SERVICE" />
       <item value="set Directors" />
       <item value="parse Long" />
@@ -1032,15 +1035,12 @@
       <item value="expect State" />
       <item value="task Id" />
       <item value="except State" />
-      <item value="POSTPONE" />
-      <item value="LACK DIRECTORS" />
-      <item value="Normal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2575" />
+        <entry key="CHINESE" value="2578" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2576" />
+        <entry key="ENGLISH" value="2579" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
