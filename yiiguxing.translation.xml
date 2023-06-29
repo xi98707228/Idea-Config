@@ -985,6 +985,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="16:30 Auto build completed with errors" />
+      <item value="File Util" />
+      <item value="FILE UTIL" />
+      <item value="already" />
+      <item value="mapper Interface" />
+      <item value="Project Contract Mapper" />
+      <item value="file Category" />
+      <item value="String" />
+      <item value="success" />
+      <item value="find First" />
+      <item value="Task Instance Attach" />
+      <item value="c" />
+      <item value="e" />
+      <item value="relation Attach List" />
       <item value="attach Category" />
       <item value="retry" />
       <item value="Thread" />
@@ -1021,30 +1035,16 @@
       <item value="将异常的任务状态重置为" />
       <item value="待接收操作这个方法的执行用来" />
       <item value="已委托" />
-      <item value="可出现在待处理任务项中" />
-      <item value="handle Task State" />
-      <item value="Nullable Problems" />
-      <item value="Listable Bean Factory" />
-      <item value="handle Task Instance" />
-      <item value="Task Instance" />
-      <item value="async After Handle Set" />
-      <item value="Override" />
-      <item value="handle Params" />
-      <item value="after Properties Set" />
-      <item value="async After Set" />
-      <item value="task Instance Service" />
-      <item value="TASK ENTRUST" />
-      <item value="task Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2588" />
+        <entry key="CHINESE" value="2603" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2589" />
+        <entry key="ENGLISH" value="2604" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="4" />
