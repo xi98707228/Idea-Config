@@ -985,6 +985,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Update Num" />
+      <item value="project Task Handle Person Mapper" />
+      <item value="需要查看当前任务状态是否需要复原" />
+      <item value="更新完分配任务的人员之后" />
+      <item value="1. 任务创建时刻 - 默认状态 即待指定人员接收状态" />
+      <item value="handle Log" />
+      <item value="处理完请求后执行" />
       <item value="将任务重新返回到项目负责人处" />
       <item value="project Task Handle Person Service" />
       <item value="insert Project Task Handle Person" />
@@ -1004,7 +1011,6 @@
       <item value="execute Handle Task State" />
       <item value="after Handle Set" />
       <item value="receive User" />
-      <item value="set Update Num" />
       <item value="待接收状态所执行" />
       <item value="将异常的任务状态重置为" />
       <item value="待接收操作这个方法的执行用来" />
@@ -1029,18 +1035,12 @@
       <item value="handle Task Item State" />
       <item value="Task Item State" />
       <item value="task Item State Type" />
-      <item value="resolve Transfer State Value Of Enum Type" />
-      <item value="预期任务项状态" />
-      <item value="result Table Data" />
-      <item value="expect State" />
-      <item value="task Id" />
-      <item value="except State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2579" />
+        <entry key="CHINESE" value="2584" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2579" />
+        <entry key="ENGLISH" value="2585" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
