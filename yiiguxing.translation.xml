@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="async Update Project Name Execute Method" />
+      <item value="NOT UNIQUE" />
       <item value="保存项目计划与项目关系" />
       <item value="get Login User" />
       <item value="Security Utils" />
@@ -1033,14 +1035,12 @@
       <item value="relation Attach List" />
       <item value="attach Category" />
       <item value="retry" />
-      <item value="Thread" />
-      <item value="node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2632" />
+        <entry key="CHINESE" value="2634" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2633" />
+        <entry key="ENGLISH" value="2635" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
