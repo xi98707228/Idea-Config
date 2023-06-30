@@ -985,6 +985,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="cas Base" />
+      <item value="mechanics" />
+      <item value="Unsafe mechanics" />
+      <item value="Completion Stage" />
+      <item value="post Complete" />
+      <item value="Listenable Future Task" />
+      <item value="set" />
+      <item value="put Ordered Int" />
+      <item value="COMPLETING" />
+      <item value="A Future represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method get when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the cancel method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a Future for the sake of cancellability but not provide a usable result, you can declare types of the form Future&lt;?&gt; and return null as a result of the underlying task. Sample Usage (Note that the following classes are all made-up.)" />
+      <item value="Sample Usage (Note that the following classes are all made-up.)" />
+      <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true. Returns: true if this task completed" />
+      <item value="Written by Doug Lea and Martin Buchholz with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained" />
+      <item value="Martin Buchholz" />
       <item value="don't set result" />
       <item value="state" />
       <item value="Double Accumulator" />
@@ -1019,31 +1035,15 @@
       <item value="Thread" />
       <item value="node" />
       <item value="Wait Node" />
-      <item value="check for race" />
-      <item value="set Update Num" />
-      <item value="project Task Handle Person Mapper" />
-      <item value="需要查看当前任务状态是否需要复原" />
-      <item value="更新完分配任务的人员之后" />
-      <item value="1. 任务创建时刻 - 默认状态 即待指定人员接收状态" />
-      <item value="handle Log" />
-      <item value="处理完请求后执行" />
-      <item value="将任务重新返回到项目负责人处" />
-      <item value="project Task Handle Person Service" />
-      <item value="insert Project Task Handle Person" />
-      <item value="HANDLE PERSON SERVICE" />
-      <item value="set Directors" />
-      <item value="parse Long" />
-      <item value="execute Cause" />
-      <item value="请更新枚举值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2618" />
+        <entry key="CHINESE" value="2632" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2619" />
-        <entry key="FRENCH" value="15" />
+        <entry key="ENGLISH" value="2633" />
+        <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="6" />
+        <entry key="GERMAN" value="7" />
         <entry key="ITALIAN" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
