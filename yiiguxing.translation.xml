@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687655912409" />
+    <option name="lastTrimTime" value="1688090030420" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transfer Data" />
       <item value="Ajax Result" />
       <item value="get Original Filename" />
       <item value="upload Name" />
@@ -1034,13 +1035,12 @@
       <item value="send User Name" />
       <item value="execute Handle Task State" />
       <item value="after Handle Set" />
-      <item value="receive User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2607" />
+        <entry key="CHINESE" value="2608" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2608" />
+        <entry key="ENGLISH" value="2609" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
