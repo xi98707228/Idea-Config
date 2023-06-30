@@ -985,7 +985,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="don't set result" />
+      <item value="state" />
+      <item value="Double Accumulator" />
+      <item value="vm Allow Suspension" />
+      <item value="Thread Group" />
+      <item value="Weak Reference" />
+      <item value="inherit Thread Locals" />
+      <item value="task Attach Path" />
       <item value="transfer Data" />
+      <item value="login User" />
+      <item value="attach Upload Name" />
       <item value="Ajax Result" />
       <item value="get Original Filename" />
       <item value="upload Name" />
@@ -1025,22 +1035,12 @@
       <item value="parse Long" />
       <item value="execute Cause" />
       <item value="请更新枚举值" />
-      <item value="is Need After Set" />
-      <item value="need After Set" />
-      <item value="need After Handle Set" />
-      <item value="handle Task Params" />
-      <item value="创建当前任务的流转日志" />
-      <item value="execute" />
-      <item value="get Task Item State" />
-      <item value="send User Name" />
-      <item value="execute Handle Task State" />
-      <item value="after Handle Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2608" />
+        <entry key="CHINESE" value="2618" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2609" />
+        <entry key="ENGLISH" value="2619" />
         <entry key="FRENCH" value="15" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="6" />
