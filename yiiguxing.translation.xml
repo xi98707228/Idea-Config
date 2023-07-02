@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="attach Id" />
       <item value="async Update Project Name Execute Method" />
       <item value="NOT UNIQUE" />
       <item value="保存项目计划与项目关系" />
@@ -1034,7 +1035,6 @@
       <item value="e" />
       <item value="relation Attach List" />
       <item value="attach Category" />
-      <item value="retry" />
     </histories>
     <option name="languageScores">
       <map>
