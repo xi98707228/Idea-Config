@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Task Advance Amount Percentage" />
       <item value="finish Advance Amount" />
       <item value="查询任务实例列表" />
       <item value="Invalidation Listener" />
@@ -1034,13 +1035,12 @@
       <item value="already" />
       <item value="mapper Interface" />
       <item value="Project Contract Mapper" />
-      <item value="file Category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2640" />
+        <entry key="CHINESE" value="2641" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2641" />
+        <entry key="ENGLISH" value="2642" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
