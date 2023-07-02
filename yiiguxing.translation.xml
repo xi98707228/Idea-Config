@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688309668866" />
+    <option name="lastTrimTime" value="1688090030420" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -985,69 +985,69 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Execution Exception" />
-      <item value="Uncaught Exception Handler" />
-      <item value="set Daemon" />
-      <item value="Default Fork Join Worker Thread Factory" />
-      <item value="Cancellation Exception" />
-      <item value="waiters" />
-      <item value="cannot time out yet" />
-      <item value="等待Future Task结果的过程方法" />
-      <item value="Interrupted Exception" />
+      <item value="get Current Task Advance Amount Percentage" />
+      <item value="finish Advance Amount" />
+      <item value="查询任务实例列表" />
+      <item value="Invalidation Listener" />
+      <item value="Author: Mark Reinhold" />
+      <item value="Task Instance Advance Record" />
+      <item value="expect Time" />
+      <item value="expect Work Time" />
+      <item value="down Load Path" />
+      <item value="attach Id" />
+      <item value="async Update Project Name Execute Method" />
+      <item value="NOT UNIQUE" />
+      <item value="保存项目计划与项目关系" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="cas Base" />
+      <item value="mechanics" />
+      <item value="Unsafe mechanics" />
+      <item value="Completion Stage" />
+      <item value="post Complete" />
+      <item value="Listenable Future Task" />
+      <item value="set" />
+      <item value="put Ordered Int" />
       <item value="COMPLETING" />
-      <item value="NORMAL" />
-      <item value="Future Task" />
-      <item value="Future Task应用" />
-      <item value="compare And Swap Object" />
-      <item value="ensure visibility of callable" />
-      <item value="The thread running the callable; CASed during run()" />
-      <item value="non-volatile, protected by state readswrites" />
-      <item value="Smart Lifecycle" />
-      <item value="Documentation Plugins Bootstrapper" />
-      <item value="project Contract List" />
-      <item value="get Project Row Id" />
-      <item value="customer Project Service" />
-      <item value="project Ins" />
-      <item value="project" />
-      <item value="merge Project All Data" />
-      <item value="Request Param" />
-      <item value="required" />
-      <item value="获取所有同名的项目信息列表" />
-      <item value="Type Descriptor" />
-      <item value="repeat Cost Order Item" />
-      <item value="repeat Project" />
-      <item value="重复的项目信息" />
-      <item value="Customer Project" />
-      <item value="optimal Data" />
-      <item value="Custom Contract File Relation" />
-      <item value="repeat Project Item" />
-      <item value="Custom Contract Relation Service" />
-      <item value="先根据项目数量判断" />
-      <item value="outer" />
-      <item value="Concurrent Skip List Set" />
-      <item value="omitted" />
-      <item value="packet Debug Buffer Size" />
-      <item value="Druid Abstract Data Source" />
-      <item value="test Connection Internal" />
-      <item value="for (CustomerManage repeatItem : repeatNameCustomerList) {" />
-      <item value="获取所有同名的客户信息" />
-      <item value="root Customer Data" />
-      <item value="repair Device Log" />
-      <item value="offer" />
-      <item value="repeat Order Item" />
+      <item value="A Future represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method get when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the cancel method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a Future for the sake of cancellability but not provide a usable result, you can declare types of the form Future&lt;?&gt; and return null as a result of the underlying task. Sample Usage (Note that the following classes are all made-up.)" />
+      <item value="Sample Usage (Note that the following classes are all made-up.)" />
+      <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true. Returns: true if this task completed" />
+      <item value="Written by Doug Lea and Martin Buchholz with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained" />
+      <item value="Martin Buchholz" />
+      <item value="don't set result" />
+      <item value="state" />
+      <item value="Double Accumulator" />
+      <item value="vm Allow Suspension" />
+      <item value="Thread Group" />
+      <item value="Weak Reference" />
+      <item value="inherit Thread Locals" />
+      <item value="task Attach Path" />
+      <item value="transfer Data" />
+      <item value="login User" />
+      <item value="attach Upload Name" />
+      <item value="Ajax Result" />
+      <item value="get Original Filename" />
+      <item value="upload Name" />
+      <item value="upload Task Attach" />
+      <item value="16:30 Auto build completed with errors" />
+      <item value="File Util" />
+      <item value="FILE UTIL" />
+      <item value="already" />
+      <item value="mapper Interface" />
+      <item value="Project Contract Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2425" />
+        <entry key="CHINESE" value="2641" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2426" />
-        <entry key="FRENCH" value="14" />
+        <entry key="ENGLISH" value="2642" />
+        <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="6" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="GERMAN" value="7" />
+        <entry key="ITALIAN" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="4" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
