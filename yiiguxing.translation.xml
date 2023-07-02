@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="finish Advance Amount" />
+      <item value="查询任务实例列表" />
+      <item value="Invalidation Listener" />
       <item value="Author: Mark Reinhold" />
       <item value="Task Instance Advance Record" />
       <item value="expect Time" />
@@ -1032,15 +1035,12 @@
       <item value="mapper Interface" />
       <item value="Project Contract Mapper" />
       <item value="file Category" />
-      <item value="String" />
-      <item value="success" />
-      <item value="find First" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2638" />
+        <entry key="CHINESE" value="2640" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2639" />
+        <entry key="ENGLISH" value="2641" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
