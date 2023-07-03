@@ -985,6 +985,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dispatcher Servlet" />
+      <item value="is Null" />
+      <item value="set Create Time" />
+      <item value="set Create User Id" />
+      <item value="i Task Instance Advance Record Service" />
+      <item value="operate Data" />
       <item value="get Current Task Advance Amount Percentage" />
       <item value="finish Advance Amount" />
       <item value="查询任务实例列表" />
@@ -1029,18 +1035,12 @@
       <item value="get Original Filename" />
       <item value="upload Name" />
       <item value="upload Task Attach" />
-      <item value="16:30 Auto build completed with errors" />
-      <item value="File Util" />
-      <item value="FILE UTIL" />
-      <item value="already" />
-      <item value="mapper Interface" />
-      <item value="Project Contract Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2641" />
+        <entry key="CHINESE" value="2647" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2642" />
+        <entry key="ENGLISH" value="2648" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
