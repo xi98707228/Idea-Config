@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="search Filter" />
+      <item value="get Create User Nick" />
       <item value="success" />
       <item value="Dispatcher Servlet" />
       <item value="is Null" />
@@ -1033,14 +1035,12 @@
       <item value="login User" />
       <item value="attach Upload Name" />
       <item value="Ajax Result" />
-      <item value="get Original Filename" />
-      <item value="upload Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2648" />
+        <entry key="CHINESE" value="2650" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2649" />
+        <entry key="ENGLISH" value="2651" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
