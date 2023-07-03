@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fork Join Worker Thread" />
       <item value="value Of" />
       <item value="completed Future" />
       <item value="search Filter" />
@@ -1034,13 +1035,12 @@
       <item value="inherit Thread Locals" />
       <item value="task Attach Path" />
       <item value="transfer Data" />
-      <item value="login User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2652" />
+        <entry key="CHINESE" value="2653" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2653" />
+        <entry key="ENGLISH" value="2654" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
