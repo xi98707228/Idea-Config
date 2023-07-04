@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="repair Device Log" />
+      <item value="customer Project Service" />
+      <item value="one" />
       <item value="row" />
       <item value="清除当前任务关联的分配人员信息拒绝后重置当前任务负责人" />
       <item value="Fork Join Worker Thread" />
@@ -1032,15 +1035,12 @@
       <item value="state" />
       <item value="Double Accumulator" />
       <item value="vm Allow Suspension" />
-      <item value="Thread Group" />
-      <item value="Weak Reference" />
-      <item value="inherit Thread Locals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2654" />
+        <entry key="CHINESE" value="2657" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2655" />
+        <entry key="ENGLISH" value="2658" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
