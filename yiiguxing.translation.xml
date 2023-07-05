@@ -985,6 +985,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="last Run" />
+      <item value="help Transfer" />
+      <item value="HASH BITS" />
+      <item value="SHARED QUEUE" />
+      <item value="LIFO QUEUE" />
+      <item value="FIFO QUEUE" />
+      <item value="report 1 even if threads disabled" />
+      <item value="batch For" />
+      <item value="Map Reduce Mappings Task" />
+      <item value="get Task Advance Record Data List" />
+      <item value="SPLITERATOR CHARACTERISTICS" />
+      <item value="- Other byte stuff: Access to binary data -" />
+      <item value="Byte Order" />
+      <item value="LITTLE ENDIAN" />
+      <item value="BIG ENDIAN" />
+      <item value="try Reserve Memory" />
+      <item value="Pipe" />
+      <item value="Selector Provider" />
       <item value="select Concrete Task By Instance Id" />
       <item value="select Task Dto List By Instant Id" />
       <item value="Task Dto" />
@@ -1017,30 +1035,12 @@
       <item value="get Principal" />
       <item value="get Update Num" />
       <item value="project Task Handle Person Mapper" />
-      <item value="task DTO用于接收参数" />
-      <item value="project Task Handle Person" />
-      <item value="get User Id" />
-      <item value="state Describe" />
-      <item value="need After Set" />
-      <item value="Request Body" />
-      <item value="resolve Transfer State Value Of Enum Type" />
-      <item value="Dispatcher Servlet" />
-      <item value="dispatcher Servlet" />
-      <item value="Project Task Handle Person" />
-      <item value="repair Device Log" />
-      <item value="customer Project Service" />
-      <item value="one" />
-      <item value="row" />
-      <item value="清除当前任务关联的分配人员信息拒绝后重置当前任务负责人" />
-      <item value="Fork Join Worker Thread" />
-      <item value="value Of" />
-      <item value="completed Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2700" />
+        <entry key="CHINESE" value="2717" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2701" />
+        <entry key="ENGLISH" value="2718" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
