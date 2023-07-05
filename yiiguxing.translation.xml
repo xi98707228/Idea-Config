@@ -985,6 +985,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="M Bean Registration" />
+      <item value="set Thread Renewal Delay" />
+      <item value="start Internal" />
+      <item value="After a context is stopped, threads in the pool are renewed. To avoid renewing all threads at the same time, this delay is observed between 2 threads being renewed." />
+      <item value="DEFAULT THREAD RENEWAL DELAY" />
+      <item value="thread Renewal Delay" />
+      <item value="The executor we use for this component" />
+      <item value="Resizable Executor" />
+      <item value="Windows Asynchronous Server Socket Channel Impl" />
+      <item value="Acceptor" />
+      <item value="Initializing" />
+      <item value="获取当前任务关联到的总已完成进度" />
+      <item value="get Current Task Advance Amount Percentage" />
       <item value="SYNTHETIC" />
       <item value="For objects, finish resolving partially resolve field types using the set of type resolutions found by comparing the resolved type of the concrete containing object with its generic type. (Fields were partially resolved before by substituting type arguments of subclasses into type variables of superclasses.)" />
       <item value="process Work Units" />
@@ -1000,7 +1013,6 @@
       <item value="get Update Num" />
       <item value="project Task Handle Person Mapper" />
       <item value="task DTO用于接收参数" />
-      <item value="Initializing" />
       <item value="project Task Handle Person" />
       <item value="get User Id" />
       <item value="state Describe" />
@@ -1023,24 +1035,12 @@
       <item value="success" />
       <item value="is Null" />
       <item value="set Create Time" />
-      <item value="set Create User Id" />
-      <item value="i Task Instance Advance Record Service" />
-      <item value="operate Data" />
-      <item value="get Current Task Advance Amount Percentage" />
-      <item value="finish Advance Amount" />
-      <item value="查询任务实例列表" />
-      <item value="Invalidation Listener" />
-      <item value="Author: Mark Reinhold" />
-      <item value="Task Instance Advance Record" />
-      <item value="expect Time" />
-      <item value="expect Work Time" />
-      <item value="down Load Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2682" />
+        <entry key="CHINESE" value="2695" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2683" />
+        <entry key="ENGLISH" value="2696" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
