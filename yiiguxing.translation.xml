@@ -985,6 +985,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Exception" />
+      <item value="Service Exception" />
+      <item value="get Principal" />
+      <item value="get Update Num" />
+      <item value="project Task Handle Person Mapper" />
+      <item value="update By Id" />
       <item value="task DTO用于接收参数" />
       <item value="Initializing" />
       <item value="project Task Handle Person" />
@@ -1029,18 +1035,12 @@
       <item value="Security Utils" />
       <item value="cas Base" />
       <item value="mechanics" />
-      <item value="Unsafe mechanics" />
-      <item value="Completion Stage" />
-      <item value="post Complete" />
-      <item value="Listenable Future Task" />
-      <item value="set" />
-      <item value="put Ordered Int" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2669" />
+        <entry key="CHINESE" value="2673" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2669" />
+        <entry key="ENGLISH" value="2674" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
