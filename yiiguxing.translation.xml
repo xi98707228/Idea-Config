@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="param String" />
       <item value="self Pending Item" />
       <item value="TASK FINISH" />
       <item value="Task Item State" />
@@ -1034,13 +1035,12 @@
       <item value="get Current Task Advance Amount Percentage" />
       <item value="SYNTHETIC" />
       <item value="For objects, finish resolving partially resolve field types using the set of type resolutions found by comparing the resolved type of the concrete containing object with its generic type. (Fields were partially resolved before by substituting type arguments of subclasses into type variables of superclasses.)" />
-      <item value="process Work Units" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2727" />
+        <entry key="CHINESE" value="2728" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2728" />
+        <entry key="ENGLISH" value="2729" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
