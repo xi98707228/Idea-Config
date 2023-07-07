@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Status" />
       <item value="任务项状态筛选列表" />
       <item value="param String" />
       <item value="self Pending Item" />
@@ -996,7 +997,6 @@
       <item value="get Ext Class Loader" />
       <item value="send Message Type Of Interactive" />
       <item value="Fly Book Dynamic Param Container" />
-      <item value="set Status" />
       <item value="handle Task Instance" />
       <item value="last Run" />
       <item value="help Transfer" />
@@ -1040,7 +1040,7 @@
       <map>
         <entry key="CHINESE" value="2729" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2729" />
+        <entry key="ENGLISH" value="2730" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />

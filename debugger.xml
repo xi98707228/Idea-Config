@@ -81,6 +81,7 @@
   <component name="NodeRendererSettings">
     <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
     <Renderer ID="ClassRenderer">
+      <option name="SHOW_STATIC" value="true" />
       <option name="SHOW_STRINGS_TYPE" value="true" />
     </Renderer>
   </component>
