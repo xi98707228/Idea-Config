@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688523889331" />
+    <option name="lastTrimTime" value="1688956045003" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Runtime Exception" />
+      <item value="Clock" />
+      <item value="order Row Ids" />
       <item value="to List" />
       <item value="primary Project Data" />
       <item value="customer Project Service" />
@@ -1032,15 +1035,12 @@
       <item value="After a context is stopped, threads in the pool are renewed. To avoid renewing all threads at the same time, this delay is observed between 2 threads being renewed." />
       <item value="DEFAULT THREAD RENEWAL DELAY" />
       <item value="thread Renewal Delay" />
-      <item value="The executor we use for this component" />
-      <item value="Resizable Executor" />
-      <item value="Windows Asynchronous Server Socket Channel Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2734" />
+        <entry key="CHINESE" value="2737" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2735" />
+        <entry key="ENGLISH" value="2738" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
