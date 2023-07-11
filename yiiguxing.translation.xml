@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="form Save Apply" />
+      <item value="get Record Option" />
       <item value="Config Transport Client" />
       <item value="Security Proxy" />
       <item value="business relation device user" />
@@ -1033,14 +1035,12 @@
       <item value="handle Task Instance" />
       <item value="last Run" />
       <item value="help Transfer" />
-      <item value="HASH BITS" />
-      <item value="SHARED QUEUE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2763" />
+        <entry key="CHINESE" value="2765" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2764" />
+        <entry key="ENGLISH" value="2766" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
