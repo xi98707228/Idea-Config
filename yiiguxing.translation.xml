@@ -985,6 +985,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is generic report" />
+      <item value="is Not Empty" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
       <item value="可以对当前任务进行关联人员" />
       <item value="987072248" />
       <item value="form Save Apply" />
@@ -992,7 +996,6 @@
       <item value="Config Transport Client" />
       <item value="Security Proxy" />
       <item value="business relation device user" />
-      <item value="is generic report" />
       <item value="Implementation-Version" />
       <item value="Configuration" />
       <item value="fetch Size" />
@@ -1005,7 +1008,6 @@
       <item value="replace" />
       <item value="to String" />
       <item value="user Id String" />
-      <item value="Druid Abstract Data Source" />
       <item value="内网IP" />
       <item value="remove Self Attach Data" />
       <item value="success" />
@@ -1033,14 +1035,12 @@
       <item value="Launcher" />
       <item value="get Ext Class Loader" />
       <item value="send Message Type Of Interactive" />
-      <item value="Fly Book Dynamic Param Container" />
-      <item value="handle Task Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2766" />
+        <entry key="CHINESE" value="2775" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2766" />
+        <entry key="ENGLISH" value="2776" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
