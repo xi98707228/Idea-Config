@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新增项目任务分配人员" />
       <item value="刚新建的时候需要" />
       <item value="LACK DIRECTORS" />
       <item value="no-op because the application context is already initialized" />
@@ -1034,7 +1035,6 @@
       <item value="任务项状态筛选列表" />
       <item value="self Pending Item" />
       <item value="TASK FINISH" />
-      <item value="Task Item State" />
     </histories>
     <option name="languageScores">
       <map>
