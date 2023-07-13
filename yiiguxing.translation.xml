@@ -985,6 +985,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Custom Trigger Task Description" />
+      <item value="is Setter Defined In Interface" />
+      <item value="ignore Dependency Interface" />
+      <item value="y" />
+      <item value="prepare Refresh" />
+      <item value="prepare Bean Factory" />
+      <item value="obtain Fresh Bean Factory" />
+      <item value="Locale" />
+      <item value="implementation" />
+      <item value="message Source" />
       <item value="Initializing" />
       <item value="allow" />
       <item value="保存任务处理人员" />
@@ -1025,29 +1035,20 @@
       <item value="Customer Project" />
       <item value="param String" />
       <item value="customer Manage Service" />
-      <item value="因为缺失项目数据而导致查询不出来的原因" />
-      <item value="Runtime Exception" />
-      <item value="Clock" />
-      <item value="order Row Ids" />
-      <item value="to List" />
-      <item value="primary Project Data" />
-      <item value="customer Project Service" />
-      <item value="sort List" />
-      <item value="sorted Count List" />
-      <item value="set Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2781" />
+        <entry key="CHINESE" value="2790" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2782" />
+        <entry key="ENGLISH" value="2791" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
         <entry key="PORTUGUESE_BRAZILIAN" value="2" />
         <entry key="ROMANIAN" value="4" />
+        <entry key="SPANISH" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="WELSH" value="1" />
       </map>
