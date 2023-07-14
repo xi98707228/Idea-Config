@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="根据部门Id查询用户信息" />
       <item value="Connection refused" />
       <item value="Resource Access Exception" />
       <item value="embedded" />
@@ -1034,11 +1035,10 @@
       <item value="内网IP" />
       <item value="remove Self Attach Data" />
       <item value="success" />
-      <item value="set Abandon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2794" />
+        <entry key="CHINESE" value="2795" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="2795" />
         <entry key="FRENCH" value="18" />
