@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dto List" />
+      <item value="task Allow Allocation Percentage" />
+      <item value="finish Percentage" />
       <item value="Big Decimal" />
       <item value="get Parent Task Id" />
       <item value="task Instance" />
@@ -1032,9 +1035,6 @@
       <item value="signal" />
       <item value="Req Cont Review" />
       <item value="get Check User Id" />
-      <item value="replace" />
-      <item value="to String" />
-      <item value="user Id String" />
     </histories>
     <option name="languageScores">
       <map>
