@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="task Has Child Task" />
+      <item value="Task Dto" />
       <item value="all Children Task" />
       <item value="dto List" />
       <item value="task Allow Allocation Percentage" />
@@ -1033,14 +1035,12 @@
       <item value="The thread running the callable; CASed during run()" />
       <item value="may Interrupt If Running" />
       <item value="A DelayedWorkQueue is based on a heap-based data structure like those in DelayQueue and PriorityQueue, except that every ScheduledFutureTask also records its index into the heap array. This eliminates the need to find a task upon cancellation, greatly speeding up removal (down from O(n) to O(log n)), and reducing garbage retention that would otherwise occur by waiting for the element to rise to top before clearing. But because the queue may also hold RunnableScheduledFutures that are not ScheduledFutureTasks, we are not guaranteed to have such indices available, in which case we fall back to linear search. (We expect that most tasks will not be decorated, and that the faster cases will be much more common.) All heap operations must record index changes -- mainly within siftUp and siftDown. Upon removal, a task's heapIndex is set to -1. Note that ScheduledFutureTasks can appear at most once in the queue (this need not be true for other kinds of tasks or work queues), so are uniquely identified by heapIndex." />
-      <item value="signal" />
-      <item value="Req Cont Review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2799" />
+        <entry key="CHINESE" value="2801" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2800" />
+        <entry key="ENGLISH" value="2802" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
