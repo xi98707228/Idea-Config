@@ -985,6 +985,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Array List" />
+      <item value="Object" />
+      <item value="task Dto List" />
+      <item value="保存项目计划与项目关系" />
+      <item value="get Task Instance" />
+      <item value="task Dto" />
+      <item value="get Invoke Result" />
+      <item value="task Instance" />
       <item value="task Has Child Task" />
       <item value="Task Dto" />
       <item value="all Children Task" />
@@ -993,7 +1001,6 @@
       <item value="finish Percentage" />
       <item value="Big Decimal" />
       <item value="get Parent Task Id" />
-      <item value="task Instance" />
       <item value="根据部门Id查询用户信息" />
       <item value="Connection refused" />
       <item value="Resource Access Exception" />
@@ -1028,19 +1035,12 @@
       <item value="get Record Option" />
       <item value="Config Transport Client" />
       <item value="Security Proxy" />
-      <item value="business relation device user" />
-      <item value="Implementation-Version" />
-      <item value="Configuration" />
-      <item value="fetch Size" />
-      <item value="The thread running the callable; CASed during run()" />
-      <item value="may Interrupt If Running" />
-      <item value="A DelayedWorkQueue is based on a heap-based data structure like those in DelayQueue and PriorityQueue, except that every ScheduledFutureTask also records its index into the heap array. This eliminates the need to find a task upon cancellation, greatly speeding up removal (down from O(n) to O(log n)), and reducing garbage retention that would otherwise occur by waiting for the element to rise to top before clearing. But because the queue may also hold RunnableScheduledFutures that are not ScheduledFutureTasks, we are not guaranteed to have such indices available, in which case we fall back to linear search. (We expect that most tasks will not be decorated, and that the faster cases will be much more common.) All heap operations must record index changes -- mainly within siftUp and siftDown. Upon removal, a task's heapIndex is set to -1. Note that ScheduledFutureTasks can appear at most once in the queue (this need not be true for other kinds of tasks or work queues), so are uniquely identified by heapIndex." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2801" />
+        <entry key="CHINESE" value="2808" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2802" />
+        <entry key="ENGLISH" value="2809" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
