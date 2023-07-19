@@ -985,6 +985,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="all Children Task" />
+      <item value="task Amount Percentage" />
+      <item value="Counted Completer" />
+      <item value="errors" />
+      <item value="completed" />
+      <item value="get Task Invoke Method" />
+      <item value="Sink" />
       <item value="get Current Root Task Advance Amount Percentage" />
       <item value="Procadvice Strategy Dlc Mapper" />
       <item value="service" />
@@ -1016,7 +1023,6 @@
       <item value="task Instance" />
       <item value="task Has Child Task" />
       <item value="Task Dto" />
-      <item value="all Children Task" />
       <item value="dto List" />
       <item value="task Allow Allocation Percentage" />
       <item value="Big Decimal" />
@@ -1029,18 +1035,12 @@
       <item value="Custom Trigger Task Description" />
       <item value="is Setter Defined In Interface" />
       <item value="ignore Dependency Interface" />
-      <item value="y" />
-      <item value="prepare Refresh" />
-      <item value="prepare Bean Factory" />
-      <item value="obtain Fresh Bean Factory" />
-      <item value="Locale" />
-      <item value="implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2830" />
+        <entry key="CHINESE" value="2836" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2831" />
+        <entry key="ENGLISH" value="2837" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
