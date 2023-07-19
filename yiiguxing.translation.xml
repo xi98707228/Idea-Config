@@ -985,6 +985,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="i Task Instance Advance Record Service" />
+      <item value="task Instance List" />
+      <item value="all Children Task" />
+      <item value="is Empty" />
+      <item value="Collection Utils" />
+      <item value="finish Percentage" />
+      <item value="task Instance" />
+      <item value="select Instance By Project Id" />
       <item value="Job Factory" />
       <item value="springframework" />
       <item value="instantiate" />
@@ -993,7 +1001,6 @@
       <item value="root Task Id" />
       <item value="ZERO" />
       <item value="Big Decimal" />
-      <item value="all Children Task" />
       <item value="Counted Completer" />
       <item value="errors" />
       <item value="completed" />
@@ -1016,8 +1023,6 @@
       <item value="init Table Fields" />
       <item value="Table Info Helper" />
       <item value="累加所有子任务的完成进度和" />
-      <item value="i Task Instance Advance Record Service" />
-      <item value="finish Percentage" />
       <item value="Unable to correctly extract the Initialization Vector or ciphertext." />
       <item value="param String" />
       <item value="Array List" />
@@ -1027,20 +1032,15 @@
       <item value="get Task Instance" />
       <item value="task Dto" />
       <item value="get Invoke Result" />
-      <item value="task Instance" />
       <item value="task Has Child Task" />
       <item value="Task Dto" />
       <item value="dto List" />
-      <item value="task Allow Allocation Percentage" />
-      <item value="get Parent Task Id" />
-      <item value="根据部门Id查询用户信息" />
-      <item value="Connection refused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2846" />
+        <entry key="CHINESE" value="2856" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2847" />
+        <entry key="ENGLISH" value="2857" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
