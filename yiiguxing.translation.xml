@@ -985,6 +985,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Procadvice Strategy Dlc Mapper" />
+      <item value="service" />
+      <item value="conflicts with existing, non-compatible bean definition" />
+      <item value="invoke Bean Definition Registry Post Processors" />
+      <item value="Post Processor Registration Delegate" />
+      <item value="print If Info Enabled" />
+      <item value="load Nacos Data" />
+      <item value="Ignore" />
+      <item value="configuration" />
+      <item value="Appender Ref Action" />
+      <item value="appender" />
+      <item value="Root Logger Action" />
+      <item value="Attaching" />
       <item value="init Table Fields" />
       <item value="Table Info Helper" />
       <item value="累加所有子任务的完成进度和" />
@@ -1022,25 +1035,12 @@
       <item value="Locale" />
       <item value="implementation" />
       <item value="message Source" />
-      <item value="Initializing" />
-      <item value="allow" />
-      <item value="保存任务处理人员" />
-      <item value="新增项目任务分配人员" />
-      <item value="刚新建的时候需要" />
-      <item value="LACK DIRECTORS" />
-      <item value="no-op because the application context is already initialized" />
-      <item value="accessible Constructor" />
-      <item value="Spring Application Builder" />
-      <item value="is generic report" />
-      <item value="is Not Empty" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2813" />
+        <entry key="CHINESE" value="2829" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2814" />
+        <entry key="ENGLISH" value="2830" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
