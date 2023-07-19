@@ -985,8 +985,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="all Children Task" />
+      <item value="Job Factory" />
+      <item value="springframework" />
+      <item value="instantiate" />
       <item value="task Amount Percentage" />
+      <item value="get Current Task Advance Amount Percentage" />
+      <item value="root Task Id" />
+      <item value="ZERO" />
+      <item value="Big Decimal" />
+      <item value="all Children Task" />
       <item value="Counted Completer" />
       <item value="errors" />
       <item value="completed" />
@@ -1025,22 +1032,15 @@
       <item value="Task Dto" />
       <item value="dto List" />
       <item value="task Allow Allocation Percentage" />
-      <item value="Big Decimal" />
       <item value="get Parent Task Id" />
       <item value="根据部门Id查询用户信息" />
       <item value="Connection refused" />
-      <item value="Resource Access Exception" />
-      <item value="embedded" />
-      <item value="njmetro" />
-      <item value="Custom Trigger Task Description" />
-      <item value="is Setter Defined In Interface" />
-      <item value="ignore Dependency Interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2836" />
+        <entry key="CHINESE" value="2846" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2837" />
+        <entry key="ENGLISH" value="2847" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
