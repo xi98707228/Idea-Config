@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="REQUEST" />
+      <item value="check Interrupt While Waiting" />
       <item value="Interrupted Exception" />
       <item value="Find the best power of two to hold elements. Tests &quot;&lt;=&quot; because arrays aren't kept full." />
       <item value="calculate Size" />
@@ -1033,14 +1035,12 @@
       <item value="累加所有子任务的完成进度和" />
       <item value="Unable to correctly extract the Initialization Vector or ciphertext." />
       <item value="param String" />
-      <item value="Array List" />
-      <item value="Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2862" />
+        <entry key="CHINESE" value="2863" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2863" />
+        <entry key="ENGLISH" value="2864" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
