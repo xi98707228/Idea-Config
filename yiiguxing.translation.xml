@@ -985,6 +985,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Need After Set" />
+      <item value="task Instance Service" />
+      <item value="after Handle Set" />
+      <item value="task Instance" />
+      <item value="update By Id" />
+      <item value="task Item State Type" />
+      <item value="All files are up-to-date" />
       <item value="run Async And Then Run" />
       <item value="run Async" />
       <item value="那么可能看不到执行过程" />
@@ -1028,19 +1035,12 @@
       <item value="delete Concrete Task" />
       <item value="task Dto List" />
       <item value="i Task Instance Advance Record Service" />
-      <item value="task Instance List" />
-      <item value="all Children Task" />
-      <item value="is Empty" />
-      <item value="Collection Utils" />
-      <item value="finish Percentage" />
-      <item value="task Instance" />
-      <item value="select Instance By Project Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2891" />
+        <entry key="CHINESE" value="2903" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2892" />
+        <entry key="ENGLISH" value="2904" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="7" />
