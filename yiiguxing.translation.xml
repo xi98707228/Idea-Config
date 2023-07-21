@@ -985,6 +985,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="task Instance Service" />
+      <item value="Ajax Result" />
+      <item value="resolve Transfer State Value Of Enum Type" />
+      <item value="task Item State Type" />
+      <item value="请更新枚举值" />
+      <item value="post Complete" />
+      <item value="is Releasable" />
+      <item value="Completion Stage" />
+      <item value="Signaller" />
+      <item value="Asynchronous Completion Task" />
+      <item value="Completion" />
+      <item value="volatile" />
+      <item value="lazy Set Next" />
+      <item value="bi Apply Stage" />
       <item value="get Summary" />
       <item value="V Person Task In Projects" />
       <item value="self Pending Item" />
@@ -999,7 +1013,6 @@
       <item value="A Completion for an action with two sources" />
       <item value="One-input Completions" />
       <item value="A Completion with a source, dependent, and executor." />
-      <item value="Asynchronous Completion Task" />
       <item value="try Fire" />
       <item value="SYNC, ASYNC, or NESTED" />
       <item value="Treiber stack link" />
@@ -1007,11 +1020,9 @@
       <item value="then Combine" />
       <item value="println" />
       <item value="is Need After Set" />
-      <item value="task Instance Service" />
       <item value="after Handle Set" />
       <item value="task Instance" />
       <item value="update By Id" />
-      <item value="task Item State Type" />
       <item value="All files are up-to-date" />
       <item value="run Async And Then Run" />
       <item value="那么可能看不到执行过程" />
@@ -1022,25 +1033,14 @@
       <item value="register Worker" />
       <item value="result" />
       <item value="拿到结果并处理" />
-      <item value="resolve Transfer State Value Of Enum Type" />
       <item value="combine Key" />
       <item value="Weak Reference" />
-      <item value="Any Request Matcher" />
-      <item value="内网IP" />
-      <item value="登录成功" />
-      <item value="密码输入错误1次" />
-      <item value="用户不存在" />
-      <item value="Exception Handler Exception Resolver" />
-      <item value="synthetic Count" />
-      <item value="Advice Impl" />
-      <item value="Ruo Yi Servlet Initializer" />
-      <item value="Completable Future Demo 3_then Accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2922" />
+        <entry key="CHINESE" value="2936" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2923" />
+        <entry key="ENGLISH" value="2937" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
