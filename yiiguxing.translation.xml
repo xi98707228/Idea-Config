@@ -985,6 +985,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="store Query Vo" />
+      <item value="Pjws Store Query Vo" />
+      <item value="Array List" />
+      <item value="pjws Store Ws Book Service" />
+      <item value="Query Wrapper" />
+      <item value="query List" />
       <item value="get Apply Store Data" />
       <item value="socket" />
       <item value="transport" />
@@ -1029,18 +1035,12 @@
       <item value="A Completion for an action with two sources" />
       <item value="One-input Completions" />
       <item value="A Completion with a source, dependent, and executor." />
-      <item value="try Fire" />
-      <item value="SYNC, ASYNC, or NESTED" />
-      <item value="Treiber stack link" />
-      <item value="stack" />
-      <item value="then Combine" />
-      <item value="println" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2951" />
+        <entry key="CHINESE" value="2959" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2952" />
+        <entry key="ENGLISH" value="2960" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
