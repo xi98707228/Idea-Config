@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="position Prefix" />
+      <item value="step Index" />
+      <item value="find Content Tag Name" />
       <item value="end Index" />
       <item value="help Locate Index" />
       <item value="String Utils" />
@@ -1032,15 +1035,12 @@
       <item value="support Methods Arguments" />
       <item value="null Catalog Means Current" />
       <item value="task Instance Service" />
-      <item value="Ajax Result" />
-      <item value="resolve Transfer State Value Of Enum Type" />
-      <item value="task Item State Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2984" />
+        <entry key="CHINESE" value="2987" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2985" />
+        <entry key="ENGLISH" value="2988" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
