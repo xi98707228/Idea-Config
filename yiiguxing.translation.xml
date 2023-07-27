@@ -985,6 +985,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="help Locate Content" />
+      <item value="help Position Content" />
+      <item value="helper Position Content" />
+      <item value="helper Position Context" />
+      <item value="批准" />
+      <item value="validate Template Tag Class" />
+      <item value="Sys Config Controller" />
+      <item value="get Resolve Template Report Info" />
+      <item value="result Report" />
+      <item value="cont Review Instance" />
+      <item value="Report Template Id Resolve" />
+      <item value="set Is Resolve" />
       <item value="query List" />
       <item value="store Query Vo" />
       <item value="Pjws Store Query Vo" />
@@ -1023,24 +1035,12 @@
       <item value="bi Apply Stage" />
       <item value="get Summary" />
       <item value="V Person Task In Projects" />
-      <item value="self Pending Item" />
-      <item value="get Data Table" />
-      <item value="Task Instance" />
-      <item value="指定线程池运行任务" />
-      <item value="Execution Exception" />
-      <item value="Completable Future" />
-      <item value="run Async" />
-      <item value="Thread" />
-      <item value="current Thread" />
-      <item value="A Completion for an action with two sources" />
-      <item value="One-input Completions" />
-      <item value="A Completion with a source, dependent, and executor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2960" />
+        <entry key="CHINESE" value="2970" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2961" />
+        <entry key="ENGLISH" value="2971" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
