@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="already To After Find Content Node" />
       <item value="step Index" />
       <item value="locate Html Node" />
       <item value="source Content" />
@@ -1034,13 +1035,12 @@
       <item value="Sequence Flow" />
       <item value="ALGORITHM" />
       <item value="DEFINER" />
-      <item value="select Dict Data By Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2992" />
+        <entry key="CHINESE" value="2993" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="2993" />
+        <entry key="ENGLISH" value="2994" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
