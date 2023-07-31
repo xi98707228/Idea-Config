@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="IS GIVE" />
+      <item value="Pjws Store Query Vo" />
+      <item value="store Query Vo" />
       <item value="find Inner Tag" />
       <item value="index Of" />
       <item value="already To After Find Content Node" />
@@ -1024,8 +1027,6 @@
       <item value="Report Template Id Resolve" />
       <item value="set Is Resolve" />
       <item value="query List" />
-      <item value="store Query Vo" />
-      <item value="Pjws Store Query Vo" />
       <item value="Array List" />
       <item value="pjws Store Ws Book Service" />
       <item value="Query Wrapper" />
@@ -1034,13 +1035,12 @@
       <item value="transport" />
       <item value="DEBUG" />
       <item value="handle Dispatcher Statistics" />
-      <item value="existed Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3005" />
+        <entry key="CHINESE" value="3009" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3006" />
+        <entry key="ENGLISH" value="3010" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="8" />
