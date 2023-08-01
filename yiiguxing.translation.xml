@@ -985,6 +985,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="acquire Shared Interruptibly" />
+      <item value="初始化所有模板信息" />
+      <item value="添加class属性" />
+      <item value="initial All Template Add Class Attribute" />
+      <item value="count Down" />
+      <item value="prefix Tag Name" />
+      <item value="update By Id" />
+      <item value="report Template Service" />
+      <item value="System" />
+      <item value="cached Thread Pool" />
+      <item value="initial Singleton Template Add Class Attribute" />
+      <item value="after Replace Content" />
+      <item value="6228048 d 29 d 19 d 75 b 7 bb 3 b 334 f 58 cf 7 a" />
+      <item value="End" />
+      <item value="Class Path Mapper Scanner" />
+      <item value="Mapper Factory Bean" />
+      <item value="template Info" />
+      <item value="Skipping" />
       <item value="composition Type Shen He" />
       <item value="temp Content" />
       <item value="待替换的信息" />
@@ -1008,7 +1026,6 @@
       <item value="locate Begin Index" />
       <item value="style" />
       <item value="left" />
-      <item value="initial All Template Add Class Attribute" />
       <item value="target Middle Part" />
       <item value="return" />
       <item value="html Attribute" />
@@ -1018,29 +1035,12 @@
       <item value="static Suffix Part" />
       <item value="substring" />
       <item value="font" />
-      <item value="margin" />
-      <item value="检验检测使用主要仪器一览表" />
-      <item value="样品外观图" />
-      <item value="already Find Content Node" />
-      <item value="meta Content Data" />
-      <item value="builder" />
-      <item value="close Tag Begin Index" />
-      <item value="prefix Chart" />
-      <item value="start Offset" />
-      <item value="start End Offset" />
-      <item value="prefix Tag Name" />
-      <item value="tag Name" />
-      <item value="index" />
-      <item value="闭合成功" />
-      <item value="EMPTY NODE" />
-      <item value="IS GIVE" />
-      <item value="Pjws Store Query Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3078" />
+        <entry key="CHINESE" value="3103" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3079" />
+        <entry key="ENGLISH" value="3104" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
