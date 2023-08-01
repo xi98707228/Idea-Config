@@ -985,17 +985,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="count Down" />
+      <item value="1. 初始化所有模板信息 添加class属性" />
+      <item value="report Template Service" />
+      <item value="Report Template Service" />
+      <item value="initial All Template Add Class Attribute" />
+      <item value="初始化所有模板信息 添加class属性" />
+      <item value="count Down Latch" />
+      <item value="cached Thread Pool" />
       <item value="template Info" />
       <item value="acquire Shared Interruptibly" />
       <item value="初始化所有模板信息" />
       <item value="添加class属性" />
-      <item value="initial All Template Add Class Attribute" />
-      <item value="count Down" />
       <item value="prefix Tag Name" />
       <item value="update By Id" />
-      <item value="report Template Service" />
       <item value="System" />
-      <item value="cached Thread Pool" />
       <item value="initial Singleton Template Add Class Attribute" />
       <item value="after Replace Content" />
       <item value="6228048 d 29 d 19 d 75 b 7 bb 3 b 334 f 58 cf 7 a" />
@@ -1031,16 +1035,12 @@
       <item value="html Attribute" />
       <item value="HELP LOCATE CONTENT" />
       <item value="inner Tag" />
-      <item value="INNER TARGET TAG ARR" />
-      <item value="static Suffix Part" />
-      <item value="substring" />
-      <item value="font" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3104" />
+        <entry key="CHINESE" value="3111" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3105" />
+        <entry key="ENGLISH" value="3112" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
