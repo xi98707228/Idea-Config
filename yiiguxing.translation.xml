@@ -985,6 +985,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="netty-resolver" />
+      <item value="locate Html Node" />
+      <item value="display" />
+      <item value="composition Type Bian Zhi" />
+      <item value="locate Content" />
+      <item value="locate End Index&quot;:" />
+      <item value="text-align" />
+      <item value="margin-top" />
+      <item value="font-size" />
+      <item value="font-family" />
+      <item value="inline-block" />
+      <item value="locate End Index" />
+      <item value="locate Begin Index" />
+      <item value="style" />
+      <item value="left" />
       <item value="initial All Template Add Class Attribute" />
       <item value="target Middle Part" />
       <item value="return" />
@@ -994,12 +1009,10 @@
       <item value="INNER TARGET TAG ARR" />
       <item value="static Suffix Part" />
       <item value="substring" />
-      <item value="inline-block" />
       <item value="font" />
       <item value="margin" />
       <item value="检验检测使用主要仪器一览表" />
       <item value="样品外观图" />
-      <item value="locate End Index" />
       <item value="already Find Content Node" />
       <item value="meta Content Data" />
       <item value="builder" />
@@ -1020,27 +1033,14 @@
       <item value="index Of" />
       <item value="already To After Find Content Node" />
       <item value="String" />
-      <item value="locate Content" />
       <item value="Html Node" />
       <item value="查找文本内的标签信息" />
-      <item value="step Index" />
-      <item value="locate Html Node" />
-      <item value="already Find Content Tag Name" />
-      <item value="application Context" />
-      <item value="position Prefix" />
-      <item value="find Content Tag Name" />
-      <item value="end Index" />
-      <item value="help Locate Index" />
-      <item value="String Utils" />
-      <item value="is Not Empty" />
-      <item value="help Locate Content" />
-      <item value="Found first character, now look at the rest of v2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3047" />
+        <entry key="CHINESE" value="3072" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3048" />
+        <entry key="ENGLISH" value="3073" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
