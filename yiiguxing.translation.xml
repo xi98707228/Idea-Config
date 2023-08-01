@@ -985,15 +985,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="template Info" />
+      <item value="Report Template" />
+      <item value="set Template Generic Content" />
+      <item value="count Down Latch" />
       <item value="count Down" />
       <item value="1. 初始化所有模板信息 添加class属性" />
       <item value="report Template Service" />
       <item value="Report Template Service" />
       <item value="initial All Template Add Class Attribute" />
       <item value="初始化所有模板信息 添加class属性" />
-      <item value="count Down Latch" />
       <item value="cached Thread Pool" />
-      <item value="template Info" />
       <item value="acquire Shared Interruptibly" />
       <item value="初始化所有模板信息" />
       <item value="添加class属性" />
@@ -1033,14 +1035,12 @@
       <item value="target Middle Part" />
       <item value="return" />
       <item value="html Attribute" />
-      <item value="HELP LOCATE CONTENT" />
-      <item value="inner Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3111" />
+        <entry key="CHINESE" value="3114" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3112" />
+        <entry key="ENGLISH" value="3115" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
