@@ -985,6 +985,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="thread Pool User" />
+      <item value="thread Pool Task Executor" />
+      <item value="async Method" />
+      <item value="get User" />
+      <item value="execute" />
+      <item value="security" />
+      <item value="test Security Util" />
       <item value="transport" />
       <item value="Version" />
       <item value="Application" />
@@ -1026,21 +1035,12 @@
       <item value="6228048 d 29 d 19 d 75 b 7 bb 3 b 334 f 58 cf 7 a" />
       <item value="End" />
       <item value="Class Path Mapper Scanner" />
-      <item value="Mapper Factory Bean" />
-      <item value="Skipping" />
-      <item value="composition Type Shen He" />
-      <item value="temp Content" />
-      <item value="待替换的信息" />
-      <item value="direct Starting Replace" />
-      <item value="html Node" />
-      <item value="source Content" />
-      <item value="direct Starting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3129" />
+        <entry key="CHINESE" value="3146" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3130" />
+        <entry key="ENGLISH" value="3147" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
