@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="releases" />
       <item value="get Login User" />
       <item value="Security Utils" />
       <item value="Ajax Result" />
@@ -1034,13 +1035,12 @@
       <item value="初始化所有模板信息" />
       <item value="添加class属性" />
       <item value="prefix Tag Name" />
-      <item value="update By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3162" />
+        <entry key="CHINESE" value="3163" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3163" />
+        <entry key="ENGLISH" value="3164" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
