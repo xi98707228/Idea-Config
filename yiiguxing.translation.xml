@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="没有则不需要释放" />
+      <item value="submit Change Ids" />
+      <item value="change Examine Reimbursement Order Relation Work Order Status" />
       <item value="examine Reimbursement Order" />
       <item value="reimbursement Process Trigger Update Event" />
       <item value="diff Selected Order Row Id Collection Handler" />
@@ -1032,15 +1035,12 @@
       <item value="history Signature Key" />
       <item value="sys User Signature Mapper" />
       <item value="select List" />
-      <item value="current Signature" />
-      <item value="process Active" />
-      <item value="Business Report Examine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3182" />
+        <entry key="CHINESE" value="3184" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="3183" />
+        <entry key="ENGLISH" value="3185" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
