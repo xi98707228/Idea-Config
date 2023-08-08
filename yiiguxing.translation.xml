@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="joran" />
       <item value="check Current Active Segment Is Input Expect" />
       <item value="reimbursement Process Trigger Update Event" />
       <item value="Cannot determine value type from string 'admin'" />
@@ -1034,12 +1035,11 @@
       <item value="report" />
       <item value="Abstract Entity" />
       <item value="natural Order" />
-      <item value="history Signature Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3187" />
-        <entry key="DUTCH" value="1" />
+        <entry key="CHINESE" value="3188" />
+        <entry key="DUTCH" value="2" />
         <entry key="ENGLISH" value="3188" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
