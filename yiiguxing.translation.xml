@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Office Supplies Statistic Org Part" />
       <item value="Gx Oa Office Supplies Relation" />
       <item value="joran" />
       <item value="check Current Active Segment Is Input Expect" />
@@ -1034,13 +1035,12 @@
       <item value="result Active Process Signature Id Mapping" />
       <item value="reference Time" />
       <item value="report" />
-      <item value="Abstract Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3188" />
+        <entry key="CHINESE" value="3191" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="3189" />
+        <entry key="ENGLISH" value="3192" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
