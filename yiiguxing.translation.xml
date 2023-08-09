@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="process Active Inst List" />
+      <item value="act Inst" />
+      <item value="for Each" />
       <item value="task Users By Proc Inst Id" />
       <item value="current Advice Content" />
       <item value="handle Time" />
@@ -1032,15 +1035,12 @@
       <item value="Security Utils" />
       <item value="Ajax Result" />
       <item value="thread Pool Task Executor" />
-      <item value="test Security Util" />
-      <item value="execute" />
-      <item value="Default Listable Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3205" />
+        <entry key="CHINESE" value="3209" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="3206" />
+        <entry key="ENGLISH" value="3210" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
