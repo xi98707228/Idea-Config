@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mapper Factory Bean" />
+      <item value="Skipping" />
+      <item value="Class Path Mapper Scanner" />
       <item value="Engine Proc Workitem" />
       <item value="usernames" />
       <item value="Druid Abstract Data Source" />
@@ -1032,15 +1035,12 @@
       <item value="resolve Html Node Of Attribute" />
       <item value="get User" />
       <item value="Read Ahead Input Stream" />
-      <item value="Native Socket Connection" />
-      <item value="thread Pool User" />
-      <item value="async Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3200" />
+        <entry key="CHINESE" value="3201" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="3200" />
+        <entry key="ENGLISH" value="3202" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
