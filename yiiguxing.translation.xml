@@ -985,6 +985,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Engine Proc Workitem" />
+      <item value="usernames" />
+      <item value="Druid Abstract Data Source" />
+      <item value="discard" />
+      <item value="test Connection Internal" />
+      <item value="dispatch" />
       <item value="office Supplies Relation Service" />
       <item value="row Id" />
       <item value="Path Variable" />
@@ -1029,24 +1035,19 @@
       <item value="Native Socket Connection" />
       <item value="thread Pool User" />
       <item value="async Method" />
-      <item value="security" />
-      <item value="transport" />
-      <item value="Version" />
-      <item value="Application" />
-      <item value="execute User Name" />
-      <item value="signature Part" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3194" />
+        <entry key="CHINESE" value="3200" />
         <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="3195" />
+        <entry key="ENGLISH" value="3200" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="4" />
+        <entry key="POLISH" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="3" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
