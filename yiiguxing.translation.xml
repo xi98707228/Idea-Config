@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Advice Content" />
+      <item value="Free Marker Auto Configuration" />
+      <item value="clinit" />
       <item value="init Table Fields" />
       <item value="prei" />
       <item value="pre" />
@@ -1005,7 +1008,6 @@
       <item value="is Empty" />
       <item value="get Work Item User Name" />
       <item value="act Inst Advice" />
-      <item value="get Advice Content" />
       <item value="Process Step Vo" />
       <item value="Process Item" />
       <item value="current Act Name" />
@@ -1033,14 +1035,12 @@
       <item value="reimbursement Process Trigger Update Event" />
       <item value="Cannot determine value type from string 'admin'" />
       <item value="没有则不需要释放" />
-      <item value="submit Change Ids" />
-      <item value="change Examine Reimbursement Order Relation Work Order Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3245" />
+        <entry key="CHINESE" value="3248" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3246" />
+        <entry key="ENGLISH" value="3249" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
