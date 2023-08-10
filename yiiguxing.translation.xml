@@ -985,6 +985,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取模板实例" />
+      <item value="report Template Service" />
+      <item value="test Connection Internal" />
+      <item value="[testConnectionInternal,1489] - discard long time none received connection [testConnectionInternal,1489] - discard long time none received connection" />
+      <item value="Druid Abstract Data Source" />
+      <item value="WARN" />
+      <item value="8500" />
+      <item value="discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336nsei_device?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 75695 10:47:25.149 [http-nio-8500-exec-10] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection" />
+      <item value="discard long time none received connection" />
+      <item value="long time" />
+      <item value="discard long time none received connection discard long time none received connection" />
       <item value="act Inst Advice" />
       <item value="now Item User Info" />
       <item value="get Advice Content" />
@@ -1013,8 +1024,6 @@
       <item value="Process Item" />
       <item value="current Act Name" />
       <item value="current Advice Content" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
       <item value="process Inst Id" />
       <item value="engine Proc Act Inst Service" />
       <item value="process Active Inst List" />
@@ -1026,21 +1035,12 @@
       <item value="usernames" />
       <item value="discard" />
       <item value="dispatch" />
-      <item value="office Supplies Relation Service" />
-      <item value="row Id" />
-      <item value="Path Variable" />
-      <item value="Office Supplies Statistic Org Part" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="joran" />
-      <item value="check Current Active Segment Is Input Expect" />
-      <item value="reimbursement Process Trigger Update Event" />
-      <item value="Cannot determine value type from string 'admin'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3250" />
+        <entry key="CHINESE" value="3287" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3251" />
+        <entry key="ENGLISH" value="3287" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
