@@ -985,21 +985,43 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="init Table Fields" />
+      <item value="prei" />
+      <item value="pre" />
+      <item value="preinit" />
+      <item value="background" />
+      <item value="Version" />
+      <item value="address" />
+      <item value="handle Time" />
+      <item value="files" />
+      <item value="reversed" />
+      <item value="collect" />
+      <item value="handle User Name" />
+      <item value="sorted" />
+      <item value="get Process Step Detail Info" />
+      <item value="task Users By Proc Inst Id" />
+      <item value="Engine Proc Workitem" />
+      <item value="Collection Utils" />
+      <item value="is Empty" />
+      <item value="get Work Item User Name" />
+      <item value="act Inst Advice" />
+      <item value="get Advice Content" />
+      <item value="Process Step Vo" />
+      <item value="Process Item" />
+      <item value="current Act Name" />
+      <item value="current Advice Content" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
+      <item value="process Inst Id" />
+      <item value="engine Proc Act Inst Service" />
       <item value="process Active Inst List" />
       <item value="act Inst" />
       <item value="for Each" />
-      <item value="task Users By Proc Inst Id" />
-      <item value="current Advice Content" />
-      <item value="handle Time" />
-      <item value="Process Step Vo" />
       <item value="Mapper Factory Bean" />
       <item value="Skipping" />
       <item value="Class Path Mapper Scanner" />
-      <item value="Engine Proc Workitem" />
       <item value="usernames" />
-      <item value="Druid Abstract Data Source" />
       <item value="discard" />
-      <item value="test Connection Internal" />
       <item value="dispatch" />
       <item value="office Supplies Relation Service" />
       <item value="row Id" />
@@ -1013,41 +1035,19 @@
       <item value="没有则不需要释放" />
       <item value="submit Change Ids" />
       <item value="change Examine Reimbursement Order Relation Work Order Status" />
-      <item value="examine Reimbursement Order" />
-      <item value="diff Selected Order Row Id Collection Handler" />
-      <item value="original Change Size" />
-      <item value="init Table Fields" />
-      <item value="Table Info Helper" />
-      <item value="HV 000001" />
-      <item value="Template Html Utils" />
-      <item value="exclude" />
-      <item value="Data Source Auto Configuration" />
-      <item value="Data Source Auto Configuration.class" />
-      <item value="Configurable Application Context" />
-      <item value="Static helper that can be used to run a SpringApplication from the specified sources using default settings and user supplied arguments." />
-      <item value="Static helper that can be used to run a SpringApplication from the specified sources using default" />
-      <item value="Params: primarySources – the primary sources to load" />
-      <item value="args – the application arguments (usually passed from a Java main method)" />
-      <item value="Spring Application" />
-      <item value="启动程序" />
-      <item value="releases" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
-      <item value="Ajax Result" />
-      <item value="thread Pool Task Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3209" />
-        <entry key="DUTCH" value="2" />
-        <entry key="ENGLISH" value="3210" />
+        <entry key="CHINESE" value="3245" />
+        <entry key="DUTCH" value="4" />
+        <entry key="ENGLISH" value="3246" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="9" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="4" />
-        <entry key="POLISH" value="1" />
+        <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="3" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
