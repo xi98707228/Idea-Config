@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set The Line Content" />
+      <item value="get Engine Proc Act Def Relation List" />
+      <item value="Proc Advice Strategy" />
       <item value="the Line Content" />
       <item value="Job Factory" />
       <item value="Protocol Handler" />
@@ -1032,15 +1035,12 @@
       <item value="engine Proc Act Inst Service" />
       <item value="process Active Inst List" />
       <item value="act Inst" />
-      <item value="for Each" />
-      <item value="Mapper Factory Bean" />
-      <item value="Skipping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3289" />
+        <entry key="CHINESE" value="3292" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3290" />
+        <entry key="ENGLISH" value="3293" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
