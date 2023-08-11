@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Request Param" />
       <item value="流程实例Id" />
       <item value="process Inst Id" />
       <item value="set The Line Content" />
@@ -1034,13 +1035,12 @@
       <item value="current Act Name" />
       <item value="current Advice Content" />
       <item value="engine Proc Act Inst Service" />
-      <item value="process Active Inst List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3294" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3294" />
+        <entry key="ENGLISH" value="3295" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
