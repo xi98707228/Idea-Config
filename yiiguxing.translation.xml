@@ -985,6 +985,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Quartz Scheduler" />
+      <item value="Ruoyi Scheduler" />
+      <item value="Scheduler" />
+      <item value="engine Proc Act Inst" />
+      <item value="report Bean" />
+      <item value="set Is Print" />
+      <item value="business Request Report Service" />
+      <item value="get" />
+      <item value="get En Type" />
+      <item value="test Connection Internal" />
       <item value="Request Param" />
       <item value="流程实例Id" />
       <item value="process Inst Id" />
@@ -997,7 +1007,6 @@
       <item value="Starting" />
       <item value="获取模板实例" />
       <item value="report Template Service" />
-      <item value="test Connection Internal" />
       <item value="[testConnectionInternal,1489] - discard long time none received connection [testConnectionInternal,1489] - discard long time none received connection" />
       <item value="Druid Abstract Data Source" />
       <item value="WARN" />
@@ -1026,21 +1035,12 @@
       <item value="sorted" />
       <item value="get Process Step Detail Info" />
       <item value="task Users By Proc Inst Id" />
-      <item value="Engine Proc Workitem" />
-      <item value="Collection Utils" />
-      <item value="is Empty" />
-      <item value="get Work Item User Name" />
-      <item value="Process Step Vo" />
-      <item value="Process Item" />
-      <item value="current Act Name" />
-      <item value="current Advice Content" />
-      <item value="engine Proc Act Inst Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3294" />
+        <entry key="CHINESE" value="3302" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3295" />
+        <entry key="ENGLISH" value="3303" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
