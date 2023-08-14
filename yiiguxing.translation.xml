@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691379924613" />
+    <option name="lastTrimTime" value="1692003657607" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nsei device" />
+      <item value="surefire" />
       <item value="Quartz Scheduler" />
       <item value="Ruoyi Scheduler" />
       <item value="Scheduler" />
@@ -1033,14 +1035,12 @@
       <item value="collect" />
       <item value="handle User Name" />
       <item value="sorted" />
-      <item value="get Process Step Detail Info" />
-      <item value="task Users By Proc Inst Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3302" />
+        <entry key="CHINESE" value="3304" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3303" />
+        <entry key="ENGLISH" value="3305" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
