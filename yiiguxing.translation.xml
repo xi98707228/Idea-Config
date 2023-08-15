@@ -985,6 +985,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="composition Type Stamp Date" />
       <item value="委托方所提供样品的其它相关信息与本报告结果无关" />
       <item value="检验检测项目不符合要求" />
       <item value="检验检测项目不适用" />
@@ -1034,7 +1035,6 @@
       <item value="discard long time none received connection discard long time none received connection" />
       <item value="act Inst Advice" />
       <item value="now Item User Info" />
-      <item value="get Advice Content" />
     </histories>
     <option name="languageScores">
       <map>
