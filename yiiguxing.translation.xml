@@ -985,6 +985,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="finance Supplier Payment Tick Mapper" />
+      <item value="Finance Supplier Payment Tick" />
+      <item value="wait Change Status List" />
+      <item value="finance Supplier Payment Tick Service" />
+      <item value="get String" />
+      <item value="String Utils" />
       <item value="new Instance If Possible" />
       <item value="operate" />
       <item value="assets tenant info" />
@@ -1029,18 +1035,12 @@
       <item value="Scheduler" />
       <item value="engine Proc Act Inst" />
       <item value="report Bean" />
-      <item value="set Is Print" />
-      <item value="business Request Report Service" />
-      <item value="get" />
-      <item value="get En Type" />
-      <item value="Request Param" />
-      <item value="流程实例Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3339" />
+        <entry key="CHINESE" value="3344" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3340" />
+        <entry key="ENGLISH" value="3345" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
