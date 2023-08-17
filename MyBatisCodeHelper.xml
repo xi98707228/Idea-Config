@@ -1,7 +1,13 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile />
+      <Profile>
+        <option name="alreadyTrail" value="true" />
+        <option name="maxMeetContext" value="4" />
+        <option name="trailKey" value="free3134696f856f4cb1a9af57b111ec1272" />
+        <option name="useD1" value="1692240882200" />
+        <option name="valid" value="true" />
+      </Profile>
     </option>
   </component>
 </application>
