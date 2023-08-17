@@ -985,14 +985,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="test Connection Internal" />
+      <item value="assets tenant info" />
       <item value="tenant describe" />
-      <item value="tenant name" />
       <item value="create time" />
+      <item value="update time" />
+      <item value="user id" />
+      <item value="tenant name" />
+      <item value="test Connection Internal" />
       <item value="sys user" />
       <item value="where" />
       <item value="create User Nick" />
-      <item value="user id" />
       <item value="nick name" />
       <item value="get Tenant Data List" />
       <item value="987072248" />
@@ -1033,14 +1035,12 @@
       <item value="流程实例Id" />
       <item value="process Inst Id" />
       <item value="set The Line Content" />
-      <item value="get Engine Proc Act Def Relation List" />
-      <item value="Proc Advice Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3329" />
+        <entry key="CHINESE" value="3338" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3330" />
+        <entry key="ENGLISH" value="3339" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
