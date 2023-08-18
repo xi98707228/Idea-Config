@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="User Provider" />
+      <item value="chain" />
+      <item value="Accessors" />
       <item value="Initializing" />
       <item value="Druid Data Source" />
       <item value="insert Job Log" />
@@ -1032,15 +1035,12 @@
       <item value="Array List" />
       <item value="RECEIVING USER ID" />
       <item value="nsei device" />
-      <item value="surefire" />
-      <item value="Quartz Scheduler" />
-      <item value="Ruoyi Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3346" />
+        <entry key="CHINESE" value="3349" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3347" />
+        <entry key="ENGLISH" value="3350" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
