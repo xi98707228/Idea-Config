@@ -985,6 +985,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="thread Local Random Seed" />
+      <item value="Contended" />
+      <item value="Restrict Contended" />
       <item value="example" />
       <item value="Assets Tenement Type Data Select Part View" />
       <item value="private String tenementName;" />
@@ -1032,15 +1035,12 @@
       <item value="sys user" />
       <item value="where" />
       <item value="create User Nick" />
-      <item value="nick name" />
-      <item value="get Tenant Data List" />
-      <item value="Rest Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3380" />
+        <entry key="CHINESE" value="3383" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3381" />
+        <entry key="ENGLISH" value="3384" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
