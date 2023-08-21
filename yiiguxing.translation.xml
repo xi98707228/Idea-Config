@@ -985,12 +985,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Tenement Type" />
+      <item value="success" />
+      <item value="set Update Time" />
+      <item value="tenement Parent Id" />
       <item value="next Tenement Type" />
       <item value="级联逻辑异常" />
       <item value="int ordinal = tenementTypeByTypeCode.ordinal();" />
       <item value="获取某一类型的数据信息" />
       <item value="Ajax Result" />
-      <item value="success" />
       <item value="查询楼宇数据信息" />
       <item value="search Filter" />
       <item value="tenement Type Data Part View List" />
@@ -1029,18 +1032,15 @@
       <item value="type" />
       <item value="tenement" />
       <item value="list" />
-      <item value="tenement Parent Id" />
-      <item value="Tenement Type" />
       <item value="TENEMENT" />
       <item value="FLOOR" />
       <item value="tenement Remarks" />
-      <item value="xqh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3425" />
+        <entry key="CHINESE" value="3429" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3426" />
+        <entry key="ENGLISH" value="3430" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
