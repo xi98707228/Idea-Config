@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692003657607" />
+    <option name="lastTrimTime" value="1692582372861" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -985,22 +985,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="room Guide Unit Price" />
+      <item value="operate" />
+      <item value="operate Row Data" />
+      <item value="data" />
+      <item value="success" />
+      <item value="Assets Tenement Data Search Filter" />
+      <item value="search Filter" />
+      <item value="get Tenement Type Data List" />
+      <item value="Assets Tenement Type Data Select Part View" />
+      <item value="按照类型分类的楼宇数据信息" />
+      <item value="封装搜索信息实体" />
       <item value="if" />
       <item value="thread Local Random Seed" />
       <item value="Contended" />
       <item value="Restrict Contended" />
       <item value="example" />
-      <item value="Assets Tenement Type Data Select Part View" />
       <item value="private String tenementName;" />
       <item value="Druid Abstract Data Source" />
       <item value="Assets Tenement Service" />
       <item value="assets Tenement Service" />
-      <item value="按照类型分类的楼宇数据信息" />
-      <item value="封装搜索信息实体" />
       <item value="type" />
       <item value="tenement" />
       <item value="list" />
-      <item value="get Tenement Type Data List" />
       <item value="tenement Parent Id" />
       <item value="Tenement Type" />
       <item value="TENEMENT" />
@@ -1025,22 +1032,15 @@
       <item value="get String" />
       <item value="String Utils" />
       <item value="new Instance If Possible" />
-      <item value="operate" />
       <item value="assets tenant info" />
       <item value="tenant describe" />
       <item value="create time" />
-      <item value="update time" />
-      <item value="user id" />
-      <item value="tenant name" />
-      <item value="test Connection Internal" />
-      <item value="sys user" />
-      <item value="where" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3384" />
+        <entry key="CHINESE" value="3398" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3385" />
+        <entry key="ENGLISH" value="3399" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
