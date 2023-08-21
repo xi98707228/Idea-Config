@@ -985,6 +985,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="next Tenement Type" />
+      <item value="级联逻辑异常" />
+      <item value="Tenement Type" />
+      <item value="now Tenement Type" />
       <item value="Spring Boot Version: 2.2.13.RELEASE" />
       <item value="Spring Boot Version" />
       <item value="Spring" />
@@ -993,12 +997,9 @@
       <item value="address" />
       <item value="否则只查询园区类型" />
       <item value="assets Tenement Service" />
-      <item value="Tenement Type" />
       <item value="success" />
       <item value="set Update Time" />
       <item value="tenement Parent Id" />
-      <item value="next Tenement Type" />
-      <item value="级联逻辑异常" />
       <item value="int ordinal = tenementTypeByTypeCode.ordinal();" />
       <item value="获取某一类型的数据信息" />
       <item value="Ajax Result" />
@@ -1034,13 +1035,12 @@
       <item value="Restrict Contended" />
       <item value="example" />
       <item value="private String tenementName;" />
-      <item value="Druid Abstract Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3437" />
+        <entry key="CHINESE" value="3443" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3438" />
+        <entry key="ENGLISH" value="3444" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
