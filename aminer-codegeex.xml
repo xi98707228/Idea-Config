@@ -1,0 +1,6 @@
+<application>
+  <component name="aminer-codegeex">
+    <option name="generateCommentLanguageEnum" value="zh-CN" />
+    <option name="askCodegeexLanguageEnum" value="zh-CN" />
+  </component>
+</application>
