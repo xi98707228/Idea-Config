@@ -985,6 +985,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Handler Interceptor" />
+      <item value="park Server" />
       <item value="tenant Row Id" />
       <item value="租户Id" />
       <item value="is Case Sensitive" />
@@ -1033,14 +1035,12 @@
       <item value="Version" />
       <item value="address" />
       <item value="否则只查询园区类型" />
-      <item value="assets Tenement Service" />
-      <item value="set Update Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3481" />
+        <entry key="CHINESE" value="3486" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3482" />
+        <entry key="ENGLISH" value="3487" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
