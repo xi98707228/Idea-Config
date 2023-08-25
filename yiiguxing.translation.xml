@@ -985,6 +985,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Http Servlet Request" />
+      <item value="req" />
+      <item value="res" />
+      <item value="Http Servlet Response" />
       <item value="Handler Interceptor" />
       <item value="park Server" />
       <item value="tenant Row Id" />
@@ -1031,16 +1035,13 @@
       <item value="Spring Boot Version: 2.2.13.RELEASE" />
       <item value="Spring Boot Version" />
       <item value="Spring" />
-      <item value="Application" />
-      <item value="Version" />
-      <item value="address" />
-      <item value="否则只查询园区类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3486" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CHINESE" value="3491" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3487" />
+        <entry key="ENGLISH" value="3492" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
