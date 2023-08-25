@@ -985,6 +985,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenant Row Id" />
+      <item value="is Case Sensitive" />
+      <item value="Property Key" />
+      <item value="Native Socket Connection" />
+      <item value="Socks Proxy Socket Factory" />
       <item value="Required Args Constructor" />
       <item value="baomidou" />
       <item value="get Tenement Type Data Part View List" />
@@ -1030,17 +1035,12 @@
       <item value="assets Tenement Service" />
       <item value="set Update Time" />
       <item value="tenement Parent Id" />
-      <item value="int ordinal = tenementTypeByTypeCode.ordinal();" />
-      <item value="获取某一类型的数据信息" />
-      <item value="Ajax Result" />
-      <item value="查询楼宇数据信息" />
-      <item value="search Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3475" />
+        <entry key="CHINESE" value="3480" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3476" />
+        <entry key="ENGLISH" value="3481" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
