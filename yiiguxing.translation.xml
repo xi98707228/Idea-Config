@@ -986,6 +986,7 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="tenant Row Id" />
+      <item value="租户Id" />
       <item value="is Case Sensitive" />
       <item value="Property Key" />
       <item value="Native Socket Connection" />
@@ -1034,13 +1035,12 @@
       <item value="否则只查询园区类型" />
       <item value="assets Tenement Service" />
       <item value="set Update Time" />
-      <item value="tenement Parent Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3480" />
+        <entry key="CHINESE" value="3481" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3481" />
+        <entry key="ENGLISH" value="3482" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
