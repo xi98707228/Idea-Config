@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="update Author" />
+      <item value="update Time" />
+      <item value="ANY" />
+      <item value="get Data List" />
+      <item value="Ajax Result" />
+      <item value="success" />
+      <item value="contract Start Date" />
+      <item value="pattern" />
+      <item value="Json Format" />
       <item value="Database Migrator" />
       <item value="lifecycle Event" />
       <item value="Apr Lifecycle Listener" />
@@ -1000,7 +1009,6 @@
       <item value="String" />
       <item value="Comparable" />
       <item value="contract End Date" />
-      <item value="contract Start Date" />
       <item value="row Id" />
       <item value="Http Servlet Request" />
       <item value="req" />
@@ -1018,7 +1026,6 @@
       <item value="baomidou" />
       <item value="get Tenement Type Data Part View List" />
       <item value="Deferred Import Selector" />
-      <item value="success" />
       <item value="open Id" />
       <item value="repair" />
       <item value="execute" />
@@ -1033,20 +1040,13 @@
       <item value="parent Id" />
       <item value="tenement parent id" />
       <item value="tenement Type" />
-      <item value="children" />
-      <item value="tenement Name" />
-      <item value="select User List" />
-      <item value="Assets Tenement Select Options Vo" />
-      <item value="Preparing: SELECT sequence_number FROM custom_contract_file_relation" />
-      <item value="装载当前合同编号信息" />
-      <item value="Warn: Could not find @TableId in Class" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3504" />
+        <entry key="CHINESE" value="3516" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3505" />
+        <entry key="ENGLISH" value="3517" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
