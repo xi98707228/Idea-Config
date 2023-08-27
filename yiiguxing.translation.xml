@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Contract Tenant Part Mapper" />
       <item value="Ruoyi Scheduler" />
       <item value="Ruoyi Scheduler Feng 1693107314421" />
       <item value="Spring" />
@@ -1039,14 +1040,13 @@
       <item value="update By Id" />
       <item value="revise Flag" />
       <item value="为当前root节点附魔" />
-      <item value="cell Data List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3522" />
+        <entry key="CHINESE" value="3525" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3523" />
+        <entry key="ENGLISH" value="3526" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
