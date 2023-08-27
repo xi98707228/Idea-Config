@@ -971,13 +971,13 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692582372861" />
+    <option name="lastTrimTime" value="1693100349793" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2e342f0f30b260e3" />
@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hash" />
+      <item value="String" />
+      <item value="Comparable" />
+      <item value="contract End Date" />
       <item value="contract Start Date" />
       <item value="row Id" />
       <item value="Http Servlet Request" />
@@ -1036,17 +1040,13 @@
       <item value="tenement Type Data Part View List" />
       <item value="set Tenement Type" />
       <item value="next Tenement Type" />
-      <item value="级联逻辑异常" />
-      <item value="Tenement Type" />
-      <item value="now Tenement Type" />
-      <item value="Spring Boot Version: 2.2.13.RELEASE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3493" />
+        <entry key="CHINESE" value="3497" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3494" />
+        <entry key="ENGLISH" value="3498" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
