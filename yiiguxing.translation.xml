@@ -977,7 +977,12 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="2e342f0f30b260e3" />
+      </youdao-translate>
+    </option>
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="594" />
