@@ -11,7 +11,6 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="Memory" value="true" />
         <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
         <entry key="leetcode-editor-TimerStatusBar" value="false" />
       </map>
