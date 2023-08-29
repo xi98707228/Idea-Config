@@ -990,6 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Completable Future" />
+      <item value="supply Async" />
+      <item value="存储本次上传的文件信息" />
+      <item value="then Run Async" />
+      <item value="store Import Groups Index Record" />
+      <item value="outside Retry Initialize" />
       <item value="operate Data" />
       <item value="row Id" />
       <item value="tenement Status" />
@@ -1034,19 +1040,13 @@
       <item value="Http Servlet Response" />
       <item value="Handler Interceptor" />
       <item value="park Server" />
-      <item value="tenant Row Id" />
-      <item value="租户Id" />
-      <item value="is Case Sensitive" />
-      <item value="Property Key" />
-      <item value="Native Socket Connection" />
-      <item value="Socks Proxy Socket Factory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3540" />
+        <entry key="CHINESE" value="3545" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3541" />
+        <entry key="ENGLISH" value="3546" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
