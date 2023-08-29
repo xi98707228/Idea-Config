@@ -990,6 +990,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenement Key" />
+      <item value="original Tenement Row Ids" />
+      <item value="HIRE" />
+      <item value="min" />
+      <item value="set Maximum Pool Size" />
+      <item value="replacement" />
+      <item value="replacement not needed" />
+      <item value="largest Pool Size" />
+      <item value="completed Task Count" />
+      <item value="completed Abruptly" />
+      <item value="If abrupt, then workerCount wasn't adjusted" />
+      <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
+      <item value="keep Alive Seconds" />
+      <item value="线程池维护线程所允许的空闲时间" />
+      <item value="Repeatable" />
+      <item value="assets Tenement Service" />
       <item value="assets contract tenant part" />
       <item value="Assets Contract Tenant Part" />
       <item value="tenement Row Ids" />
@@ -1024,29 +1040,13 @@
       <item value="Repair Attachment" />
       <item value="set Relation Id" />
       <item value="now Date" />
-      <item value="get User" />
-      <item value="reactor" />
-      <item value="Assets Contract Tenant Part Mapper" />
-      <item value="Ruoyi Scheduler" />
-      <item value="Ruoyi Scheduler Feng 1693107314421" />
-      <item value="Spring" />
-      <item value="contract Remarks" />
-      <item value="update Author" />
-      <item value="update Time" />
-      <item value="ANY" />
-      <item value="get Data List" />
-      <item value="Ajax Result" />
-      <item value="success" />
-      <item value="contract Start Date" />
-      <item value="pattern" />
-      <item value="Json Format" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3559" />
+        <entry key="CHINESE" value="3574" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3560" />
+        <entry key="ENGLISH" value="3575" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
