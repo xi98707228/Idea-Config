@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="open Id" />
       <item value="Repair Attachment" />
       <item value="set Relation Id" />
       <item value="now Date" />
@@ -1038,15 +1039,14 @@
       <item value="baomidou" />
       <item value="get Tenement Type Data Part View List" />
       <item value="Deferred Import Selector" />
-      <item value="open Id" />
       <item value="repair" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3530" />
+        <entry key="CHINESE" value="3531" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3531" />
+        <entry key="ENGLISH" value="3532" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
