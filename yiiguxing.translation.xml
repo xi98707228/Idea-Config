@@ -990,8 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="tenement Key" />
       <item value="original Tenement Row Ids" />
+      <item value="tenement Row Ids" />
+      <item value="tenement Key" />
+      <item value="contract Tenant Parts" />
       <item value="HIRE" />
       <item value="min" />
       <item value="set Maximum Pool Size" />
@@ -1008,7 +1010,6 @@
       <item value="assets Tenement Service" />
       <item value="assets contract tenant part" />
       <item value="Assets Contract Tenant Part" />
-      <item value="tenement Row Ids" />
       <item value="execute Composition Contract Data List" />
       <item value="Assets Contract Tenant Part Service" />
       <item value="Illegal Argument Exception" />
@@ -1039,14 +1040,13 @@
       <item value="open Id" />
       <item value="Repair Attachment" />
       <item value="set Relation Id" />
-      <item value="now Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3574" />
+        <entry key="CHINESE" value="3578" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3575" />
+        <entry key="ENGLISH" value="3579" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
