@@ -990,11 +990,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Time" />
+      <item value="current Time Millis" />
+      <item value="start Date" />
+      <item value="Assets Contract Status" />
+      <item value="EXPIRE THRESHOLD" />
+      <item value="WILL EXPIRE" />
+      <item value="end Date" />
+      <item value="status Code" />
+      <item value="Parameter" />
+      <item value="HOST NAME RESOLVE THRESHOLD" />
+      <item value="native" />
+      <item value="get Now Date Contract Status" />
       <item value="contract Row Id" />
       <item value="now Date" />
       <item value="set Create Author" />
-      <item value="WILL EXPIRE" />
-      <item value="status Code" />
       <item value="state Code" />
       <item value="pattern" />
       <item value="Retention Policy" />
@@ -1030,23 +1040,13 @@
       <item value="completed Task Count" />
       <item value="completed Abruptly" />
       <item value="If abrupt, then workerCount wasn't adjusted" />
-      <item value="If pool is stopping, ensure thread is interrupted; if not, ensure thread is not interrupted. This requires a recheck in second case to deal with shutdownNow race while clearing interrupt" />
-      <item value="keep Alive Seconds" />
-      <item value="线程池维护线程所允许的空闲时间" />
-      <item value="Repeatable" />
-      <item value="assets contract tenant part" />
-      <item value="execute Composition Contract Data List" />
-      <item value="Assets Contract Tenant Part Service" />
-      <item value="Illegal Argument Exception" />
-      <item value="we're not going to muck with that here, since it's an error condition anyway!" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3603" />
+        <entry key="CHINESE" value="3624" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3604" />
+        <entry key="ENGLISH" value="3625" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
