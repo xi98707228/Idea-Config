@@ -990,11 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="contract Row Id" />
+      <item value="now Date" />
+      <item value="set Create Author" />
+      <item value="WILL EXPIRE" />
       <item value="status Code" />
       <item value="state Code" />
       <item value="pattern" />
       <item value="Retention Policy" />
-      <item value="contract Row Id" />
       <item value="楼宇数据信息" />
       <item value="直接移除对应关联的" />
       <item value="tenement Part" />
@@ -1037,16 +1040,13 @@
       <item value="Illegal Argument Exception" />
       <item value="we're not going to muck with that here, since it's an error condition anyway!" />
       <item value="milliseconds" />
-      <item value="translate Exception" />
-      <item value="Transaction Event Handler" />
-      <item value="create Communications Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3600" />
+        <entry key="CHINESE" value="3603" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3601" />
+        <entry key="ENGLISH" value="3604" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
