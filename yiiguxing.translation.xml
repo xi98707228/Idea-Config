@@ -990,11 +990,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="contract Row Id" />
+      <item value="楼宇数据信息" />
+      <item value="直接移除对应关联的" />
+      <item value="tenement Part" />
+      <item value="Task Decorator" />
+      <item value="Assets Contract Tenant Part" />
+      <item value="assets Contract Manage Service" />
+      <item value="set Update Time" />
+      <item value="part Item" />
+      <item value="assets Contract Tenant Part List" />
+      <item value="assets Contract Tenant Part Service" />
       <item value="children" />
       <item value="update" />
       <item value="copy Properties" />
       <item value="set Update Author" />
-      <item value="assets Contract Manage Service" />
       <item value="execute Composition Contract And Update Tenement Data" />
       <item value="assets Contract Tenant Part" />
       <item value="tenement Key" />
@@ -1018,7 +1028,6 @@
       <item value="线程池维护线程所允许的空闲时间" />
       <item value="Repeatable" />
       <item value="assets contract tenant part" />
-      <item value="Assets Contract Tenant Part" />
       <item value="execute Composition Contract Data List" />
       <item value="Assets Contract Tenant Part Service" />
       <item value="Illegal Argument Exception" />
@@ -1030,23 +1039,14 @@
       <item value="Base Controller" />
       <item value="select List" />
       <item value="get Tenement Type Data Part View List" />
-      <item value="contract Row Id" />
       <item value="then Combine" />
-      <item value="Completable Future" />
-      <item value="supply Async" />
-      <item value="存储本次上传的文件信息" />
-      <item value="then Run Async" />
-      <item value="store Import Groups Index Record" />
-      <item value="outside Retry Initialize" />
-      <item value="operate Data" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3588" />
+        <entry key="CHINESE" value="3596" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3589" />
+        <entry key="ENGLISH" value="3597" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
