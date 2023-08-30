@@ -990,9 +990,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="update" />
+      <item value="copy Properties" />
+      <item value="set Update Author" />
+      <item value="assets Contract Manage Service" />
+      <item value="execute Composition Contract And Update Tenement Data" />
+      <item value="assets Contract Tenant Part" />
+      <item value="tenement Key" />
+      <item value="original Update Item" />
+      <item value="assets Tenement Service" />
+      <item value="update By Id" />
       <item value="original Tenement Row Ids" />
       <item value="tenement Row Ids" />
-      <item value="tenement Key" />
       <item value="contract Tenant Parts" />
       <item value="HIRE" />
       <item value="min" />
@@ -1007,7 +1016,6 @@
       <item value="keep Alive Seconds" />
       <item value="线程池维护线程所允许的空闲时间" />
       <item value="Repeatable" />
-      <item value="assets Tenement Service" />
       <item value="assets contract tenant part" />
       <item value="Assets Contract Tenant Part" />
       <item value="execute Composition Contract Data List" />
@@ -1032,21 +1040,13 @@
       <item value="operate Data" />
       <item value="row Id" />
       <item value="tenement Status" />
-      <item value="tenement Type" />
-      <item value="Quartz Scheduler" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="Standard Engine" />
-      <item value="open Id" />
-      <item value="Repair Attachment" />
-      <item value="set Relation Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3578" />
+        <entry key="CHINESE" value="3587" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3579" />
+        <entry key="ENGLISH" value="3588" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
