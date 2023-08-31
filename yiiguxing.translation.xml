@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Contract Tenant Part" />
+      <item value="assets Contract Tenant Part Service" />
       <item value="diff Excel Process Error" />
       <item value="upload File Path" />
       <item value="Sneaky Throws" />
@@ -1029,12 +1031,10 @@
       <item value="直接移除对应关联的" />
       <item value="tenement Part" />
       <item value="Task Decorator" />
-      <item value="Assets Contract Tenant Part" />
       <item value="assets Contract Manage Service" />
       <item value="set Update Time" />
       <item value="part Item" />
       <item value="assets Contract Tenant Part List" />
-      <item value="assets Contract Tenant Part Service" />
       <item value="children" />
       <item value="update" />
       <item value="copy Properties" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3638" />
+        <entry key="CHINESE" value="3640" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3639" />
+        <entry key="ENGLISH" value="3641" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
