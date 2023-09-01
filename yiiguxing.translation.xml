@@ -990,21 +990,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="remove Contract Row Data" />
+      <item value="get Assets Module Attach Data List By Main Id" />
+      <item value="assets Module Attach Service" />
       <item value="get Original Filename" />
       <item value="get File Type" />
-      <item value="assets Module Attach Service" />
       <item value="create File" />
       <item value="Record" />
       <item value="Async Batch Add Data Record" />
       <item value="Async Batch Add Record Data" />
-      <item value="remove Contract Row Data" />
       <item value="wrapper Assets Module Attach File Path" />
       <item value="get Bytes" />
       <item value="upload File Path" />
       <item value="upload File Name" />
       <item value="get Login User" />
       <item value="select Module Attach Data Map" />
-      <item value="get Assets Module Attach Data List By Main Id" />
       <item value="attach name" />
       <item value="Dual Pivot Quicksort" />
       <item value="Assets Contract Tenant Part" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3654" />
+        <entry key="CHINESE" value="3657" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3655" />
+        <entry key="ENGLISH" value="3658" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
