@@ -990,12 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="original Tenement Row Map" />
       <item value="Jwt Authentication Token Filter" />
       <item value="restarted Main" />
       <item value="tenement Part" />
       <item value="tenement Key" />
       <item value="for Each" />
-      <item value="original Tenement Row Map" />
       <item value="原始的数据并没有当前" />
       <item value="get Tenement Row Id" />
       <item value="original Tenement Mapping Part List" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3672" />
+        <entry key="CHINESE" value="3674" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3673" />
+        <entry key="ENGLISH" value="3675" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
