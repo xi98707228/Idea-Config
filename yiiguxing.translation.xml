@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Newera Exam Question" />
+      <item value="get Login User" />
       <item value="token" />
       <item value="Async Handler Interceptor" />
       <item value="String" />
@@ -1033,20 +1035,18 @@
       <item value="get Bytes" />
       <item value="upload File Path" />
       <item value="upload File Name" />
-      <item value="get Login User" />
       <item value="select Module Attach Data Map" />
       <item value="attach name" />
       <item value="Dual Pivot Quicksort" />
       <item value="Assets Contract Tenant Part" />
       <item value="assets Contract Tenant Part Service" />
-      <item value="diff Excel Process Error" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3688" />
+        <entry key="CHINESE" value="3690" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3689" />
+        <entry key="ENGLISH" value="3691" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
