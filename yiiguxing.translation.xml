@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Empty" />
+      <item value="Repeating task, reschedule" />
+      <item value="reschedule Min" />
+      <item value="task Fired" />
       <item value="Illegal State Exception" />
       <item value="room Guide Unit Price" />
       <item value="room Guide Manage Unit Price" />
@@ -1026,7 +1030,6 @@
       <item value="原始的数据并没有当前" />
       <item value="get Tenement Row Id" />
       <item value="original Tenement Mapping Part List" />
-      <item value="is Empty" />
       <item value="Collection Utils" />
       <item value="关闭后台任务任务线程池" />
       <item value="composition Changes Part List" />
@@ -1037,16 +1040,13 @@
       <item value="get Assets Module Attach Data List By Main Id" />
       <item value="assets Module Attach Service" />
       <item value="get Original Filename" />
-      <item value="get File Type" />
-      <item value="create File" />
-      <item value="Record" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3704" />
+        <entry key="CHINESE" value="3708" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3705" />
+        <entry key="ENGLISH" value="3709" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
