@@ -990,11 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Illegal State Exception" />
+      <item value="room Guide Unit Price" />
+      <item value="room Guide Manage Unit Price" />
+      <item value="new Tasks May Be Scheduled" />
       <item value="tenement type" />
       <item value="tenement name" />
       <item value="get Tenement Type Data Part View List" />
       <item value="question" />
-      <item value="room Guide Unit Price" />
       <item value="after Completion" />
       <item value="Newera Exam Question" />
       <item value="insert" />
@@ -1037,16 +1040,13 @@
       <item value="get File Type" />
       <item value="create File" />
       <item value="Record" />
-      <item value="Async Batch Add Data Record" />
-      <item value="Async Batch Add Record Data" />
-      <item value="wrapper Assets Module Attach File Path" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3700" />
+        <entry key="CHINESE" value="3704" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3701" />
+        <entry key="ENGLISH" value="3705" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
