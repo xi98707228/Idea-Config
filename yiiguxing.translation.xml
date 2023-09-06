@@ -990,9 +990,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="static Data Type" />
+      <item value="computed Module Map" />
+      <item value="scheduled Thread Pool Executor" />
+      <item value="Assets Statistics Static Data Type" />
+      <item value="get Type Key" />
+      <item value="now Type Static Data" />
+      <item value="Assets Statistics Static Data" />
+      <item value="get Statistics Static Data Info" />
+      <item value="type Key" />
+      <item value="screen" />
+      <item value="finance" />
+      <item value="Rest Controller" />
+      <item value="Base Controller" />
+      <item value="Assets Statistics Static Data Controller" />
+      <item value="mutex Obj" />
       <item value="Assets Statistics Static Data Service Impl" />
       <item value="Override" />
-      <item value="Assets Statistics Static Data Type" />
       <item value="store Statistics Static Data Info" />
       <item value="Assets Statistics Static Data Service" />
       <item value="左下" />
@@ -1000,7 +1014,6 @@
       <item value="园区排名" />
       <item value="building Rent Category" />
       <item value="building Status" />
-      <item value="Rest Controller" />
       <item value="tenant" />
       <item value="assets Tenement Service" />
       <item value="private" />
@@ -1027,26 +1040,13 @@
       <item value="after Completion" />
       <item value="Newera Exam Question" />
       <item value="insert" />
-      <item value="set Cache Object" />
-      <item value="get Login User" />
-      <item value="token" />
-      <item value="Async Handler Interceptor" />
-      <item value="String" />
-      <item value="original Tenement Row Id" />
-      <item value="submit Data Part" />
-      <item value="Update Wrapper" />
-      <item value="get Tenement Status" />
-      <item value="Tenement Status" />
-      <item value="Assets Tenement" />
-      <item value="现如今的房间的状态" />
-      <item value="原始的房间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3745" />
+        <entry key="CHINESE" value="3771" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3746" />
+        <entry key="ENGLISH" value="3772" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
