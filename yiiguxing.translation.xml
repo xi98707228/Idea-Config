@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Module Statistics Static Data" />
+      <item value="static Data Type" />
+      <item value="store Statistics Static Data Info" />
       <item value="每个园区一个定时任务" />
       <item value="get And Load Statistics Static Data" />
       <item value="schedule With Fixed Delay" />
@@ -997,7 +1000,6 @@
       <item value="GROUP COMPANY" />
       <item value="statistics Static Functions" />
       <item value="initial Finance Module Auto Runner Task" />
-      <item value="static Data Type" />
       <item value="get Type Key" />
       <item value="now Type Static Data" />
       <item value="get By Id" />
@@ -1009,8 +1011,6 @@
       <item value="Integer" />
       <item value="Path Variable" />
       <item value="get Statistics Static Data" />
-      <item value="store Statistics Static Data Info" />
-      <item value="get Module Statistics Static Data" />
       <item value="Assets Statistics Static Data Service" />
       <item value="查询区块数据Id" />
       <item value="synchronized" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3826" />
+        <entry key="CHINESE" value="3829" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3827" />
+        <entry key="ENGLISH" value="3830" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
