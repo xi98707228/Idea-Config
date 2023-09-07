@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="右下" />
+      <item value="园区面积排行" />
+      <item value="FINANCE SCREEN RIGHT BOTTOM" />
       <item value="get Module Statistics Static Data" />
       <item value="static Data Type" />
       <item value="store Statistics Static Data Info" />
@@ -1037,14 +1040,11 @@
       <item value="园区排名" />
       <item value="building Rent Category" />
       <item value="building Status" />
-      <item value="tenant" />
-      <item value="assets Tenement Service" />
-      <item value="private" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="3829" />
+        <entry key="CHINESE" value="3830" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="3830" />
         <entry key="FINNISH" value="1" />
