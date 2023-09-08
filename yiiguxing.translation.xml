@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Statistics Static Data Type" />
       <item value="HV 000001" />
       <item value="Version" />
       <item value="SELECT" />
@@ -1035,7 +1036,6 @@
       <item value="return" />
       <item value="main Id" />
       <item value="type Key" />
-      <item value="Assets Statistics Static Data Type" />
       <item value="computed Module Map" />
       <item value="scheduled Thread Pool Executor" />
       <item value="Assets Statistics Static Data" />
@@ -1046,7 +1046,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="CHINESE" value="3836" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3836" />
+        <entry key="ENGLISH" value="3837" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
