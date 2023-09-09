@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="floor Revenue" />
+      <item value="enter The Company" />
+      <item value="============= 经营大屏 ===================" />
+      <item value="Assets Statistics Static Constants" />
+      <item value="GROUP FINANCE UNIT" />
       <item value="statistics Static Functions" />
       <item value="now Floor Residue Area" />
       <item value="get Tenement Area" />
@@ -1035,18 +1040,13 @@
       <item value="set Building Use Area" />
       <item value="park Building Statistics Item Vo" />
       <item value="Illegal State Exception" />
-      <item value="Abstract Pipeline" />
-      <item value="e" />
-      <item value="get Tenement Name" />
-      <item value="park All Building List" />
-      <item value="tenement name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3883" />
+        <entry key="CHINESE" value="3887" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3884" />
+        <entry key="ENGLISH" value="3888" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
