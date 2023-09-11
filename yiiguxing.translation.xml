@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="building Item" />
+      <item value="building Rent Category" />
+      <item value="APARTMENT" />
+      <item value="singleton Building Statistics In" />
+      <item value="get Finance Lc Center" />
       <item value="Collectors" />
       <item value="summing Int" />
       <item value="distinct" />
@@ -1035,18 +1040,13 @@
       <item value="UPDATE" />
       <item value="data Type" />
       <item value="Park Floor Left Bottom Vo" />
-      <item value="computed Finance Floor Service" />
-      <item value="GROUP FINANCE PARK" />
-      <item value="company Amount" />
-      <item value="company Position" />
-      <item value="floor Revenue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3966" />
+        <entry key="CHINESE" value="3970" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3967" />
+        <entry key="ENGLISH" value="3971" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
