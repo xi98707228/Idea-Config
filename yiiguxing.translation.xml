@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="room Rent Amount" />
+      <item value="room Item" />
+      <item value="get Tenant Name" />
+      <item value="Park Floor Right Company Item" />
       <item value="Big Decimal" />
       <item value="floor All Room Info" />
       <item value="multiply" />
@@ -1036,17 +1040,13 @@
       <item value="annotation" />
       <item value="则直接跳过" />
       <item value="没有单元信息" />
-      <item value="now Building Unit List" />
-      <item value="building Area" />
-      <item value="building Use Area" />
-      <item value="residue Area" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3936" />
+        <entry key="CHINESE" value="3939" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3937" />
+        <entry key="ENGLISH" value="3940" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
