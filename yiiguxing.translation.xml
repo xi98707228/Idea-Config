@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Instant" />
       <item value="room Rent Amount" />
       <item value="room Item" />
       <item value="get Tenant Name" />
@@ -1039,14 +1040,13 @@
       <item value="Park Floor Left Bottom Item Vo" />
       <item value="annotation" />
       <item value="则直接跳过" />
-      <item value="没有单元信息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3939" />
+        <entry key="CHINESE" value="3940" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3940" />
+        <entry key="ENGLISH" value="3941" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
