@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Big Decimal" />
+      <item value="floor All Room Info" />
+      <item value="multiply" />
+      <item value="enter The Company Count" />
       <item value="get Room Guide Manage Unit Price" />
       <item value="Park Floor Right Result Vo" />
       <item value="result Vo" />
@@ -1036,17 +1040,13 @@
       <item value="building Area" />
       <item value="building Use Area" />
       <item value="residue Area" />
-      <item value="Assets Tenement" />
-      <item value="get Tenement Type" />
-      <item value="update And Get" />
-      <item value="building Count" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3931" />
+        <entry key="CHINESE" value="3936" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3932" />
+        <entry key="ENGLISH" value="3937" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
