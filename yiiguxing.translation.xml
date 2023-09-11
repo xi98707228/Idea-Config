@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Collectors" />
+      <item value="summing Int" />
+      <item value="distinct" />
       <item value="get Floor Number" />
       <item value="order By Asc" />
       <item value="test Connection Internal" />
@@ -1037,16 +1040,13 @@
       <item value="company Amount" />
       <item value="company Position" />
       <item value="floor Revenue" />
-      <item value="enter The Company" />
-      <item value="============= 经营大屏 ===================" />
-      <item value="Assets Statistics Static Constants" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3965" />
+        <entry key="CHINESE" value="3966" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3966" />
+        <entry key="ENGLISH" value="3967" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
