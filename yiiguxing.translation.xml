@@ -990,8 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="park Floor Left Bottom Item Vos" />
+      <item value="building Unit" />
+      <item value="get Tenement Type" />
       <item value="now Unit Floor Data List" />
+      <item value="update And Get" />
+      <item value="floor Count" />
+      <item value="last Packet Received Idle Millis" />
+      <item value="discard long time none received connection" />
+      <item value="park Floor Left Bottom Item Vos" />
       <item value="assets statistics static data" />
       <item value="Preparing" />
       <item value="debug" />
@@ -1034,19 +1040,13 @@
       <item value="Assets Statistics Static Constants" />
       <item value="GROUP FINANCE UNIT" />
       <item value="statistics Static Functions" />
-      <item value="now Floor Residue Area" />
-      <item value="get Tenement Area" />
-      <item value="get Tenement Ancestors" />
-      <item value="remapping Function" />
-      <item value="compute" />
-      <item value="apply" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3956" />
+        <entry key="CHINESE" value="3963" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3957" />
+        <entry key="ENGLISH" value="3964" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
