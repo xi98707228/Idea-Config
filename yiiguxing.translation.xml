@@ -990,6 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="park Floor Left Bottom Item Vos" />
+      <item value="now Unit Floor Data List" />
+      <item value="assets statistics static data" />
+      <item value="Preparing" />
+      <item value="debug" />
+      <item value="update" />
+      <item value="order By Asc" />
+      <item value="assets Tenement Service" />
       <item value="park Building Statistics Item Vo List" />
       <item value="stream Computed Latch" />
       <item value="Result Item List" />
@@ -1007,7 +1015,6 @@
       <item value="Park Floor Right Result Vo" />
       <item value="result Vo" />
       <item value="create Time Stamp" />
-      <item value="assets Tenement Service" />
       <item value="now Floor Info" />
       <item value="main Id" />
       <item value="get Finance Lc Right" />
@@ -1015,11 +1022,8 @@
       <item value="Finance" />
       <item value="to JSON String" />
       <item value="UPDATE" />
-      <item value="assets statistics static data" />
       <item value="data Type" />
-      <item value="park Floor Left Bottom Item Vos" />
       <item value="Park Floor Left Bottom Vo" />
-      <item value="now Unit Floor Data List" />
       <item value="computed Finance Floor Service" />
       <item value="GROUP FINANCE PARK" />
       <item value="company Amount" />
@@ -1036,17 +1040,13 @@
       <item value="remapping Function" />
       <item value="compute" />
       <item value="apply" />
-      <item value="contains Key" />
-      <item value="floor Number" />
-      <item value="build" />
-      <item value="builder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3944" />
+        <entry key="CHINESE" value="3956" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3945" />
+        <entry key="ENGLISH" value="3957" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
