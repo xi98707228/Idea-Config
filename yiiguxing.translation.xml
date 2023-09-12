@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="park Data List" />
+      <item value="获取所有园区信息" />
+      <item value="Serializer Feature" />
+      <item value="test Connection Internal" />
       <item value="get Module Statistics Static Data" />
       <item value="String" />
       <item value="revenue Amount" />
@@ -1016,7 +1020,6 @@
       <item value="Character" />
       <item value="radix" />
       <item value="negative" />
-      <item value="park Data List" />
       <item value="park Item" />
       <item value="company Amount" />
       <item value="for Each" />
@@ -1037,16 +1040,13 @@
       <item value="GROUP NOT DATA TYPE" />
       <item value="Temporal Adjuster" />
       <item value="SHORT IDS" />
-      <item value="at Zone" />
-      <item value="building Item" />
-      <item value="building Rent Category" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4069" />
+        <entry key="CHINESE" value="4071" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4070" />
+        <entry key="ENGLISH" value="4072" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
