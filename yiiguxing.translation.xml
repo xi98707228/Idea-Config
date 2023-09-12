@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result Vo" />
       <item value="digits" />
       <item value="MIN RADIX" />
       <item value="to String" />
@@ -997,7 +998,6 @@
       <item value="radix" />
       <item value="negative" />
       <item value="park Data List" />
-      <item value="result Vo" />
       <item value="park Item" />
       <item value="company Amount" />
       <item value="for Each" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4040" />
+        <entry key="CHINESE" value="4042" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4041" />
+        <entry key="ENGLISH" value="4043" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
