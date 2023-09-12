@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="park Row Id" />
+      <item value="Row" />
+      <item value="Initializing Spring DispatcherServlet 'dispatcherServlet'" />
+      <item value="Scheduler" />
+      <item value="Quartz Scheduler" />
       <item value="Park Right Result Vo" />
       <item value="remaining Area" />
       <item value="SHORT TIME STAMP FORMATTER" />
@@ -1035,18 +1040,13 @@
       <item value="v Assets Tenant Info Service" />
       <item value="V Assets Tenant Info Service" />
       <item value="get Tenement Type" />
-      <item value="PARK" />
-      <item value="get Type Code" />
-      <item value="Tenement Type" />
-      <item value="list" />
-      <item value="lambda" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4075" />
+        <entry key="CHINESE" value="4081" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4076" />
+        <entry key="ENGLISH" value="4082" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
