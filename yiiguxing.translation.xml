@@ -990,6 +990,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Building Rent Category" />
+      <item value="get Room Guide Unit Price" />
+      <item value="ZERO" />
+      <item value="Big Decimal" />
+      <item value="check Template Location Exists" />
+      <item value="Cannot find template location(s)" />
+      <item value="init Handler Methods" />
+      <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
+      <item value="Free Marker Auto Configuration" />
+      <item value="please add some templates or check your Thymeleaf configuration" />
+      <item value="check Template Location Exists,65" />
+      <item value="get Statistics Static Data" />
+      <item value="Ajax Result" />
+      <item value="success" />
+      <item value="statistics Static Functions" />
+      <item value="get And Load Statistics Static Data" />
       <item value="result Vo" />
       <item value="digits" />
       <item value="MIN RADIX" />
@@ -1024,29 +1040,13 @@
       <item value="APARTMENT" />
       <item value="singleton Building Statistics In" />
       <item value="get Finance Lc Center" />
-      <item value="Collectors" />
-      <item value="summing Int" />
-      <item value="distinct" />
-      <item value="get Floor Number" />
-      <item value="order By Asc" />
-      <item value="test Connection Internal" />
-      <item value="building Unit" />
-      <item value="now Unit Floor Data List" />
-      <item value="update And Get" />
-      <item value="floor Count" />
-      <item value="last Packet Received Idle Millis" />
-      <item value="discard long time none received connection" />
-      <item value="park Floor Left Bottom Item Vos" />
-      <item value="assets statistics static data" />
-      <item value="Preparing" />
-      <item value="debug" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4042" />
+        <entry key="CHINESE" value="4065" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4043" />
+        <entry key="ENGLISH" value="4066" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
