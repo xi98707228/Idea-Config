@@ -990,6 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="digits" />
+      <item value="MIN RADIX" />
+      <item value="to String" />
+      <item value="Character" />
+      <item value="radix" />
+      <item value="negative" />
       <item value="park Data List" />
       <item value="result Vo" />
       <item value="park Item" />
@@ -1034,23 +1040,17 @@
       <item value="assets statistics static data" />
       <item value="Preparing" />
       <item value="debug" />
-      <item value="update" />
-      <item value="park Building Statistics Item Vo List" />
-      <item value="stream Computed Latch" />
-      <item value="Result Item List" />
-      <item value="Thread Safe" />
-      <item value="Instant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4034" />
+        <entry key="CHINESE" value="4040" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4035" />
+        <entry key="ENGLISH" value="4041" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="9" />
+        <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="5" />
         <entry key="POLISH" value="2" />
