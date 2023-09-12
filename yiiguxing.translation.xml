@@ -990,6 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="park Company Count" />
+      <item value="park All People" />
+      <item value="park Name List" />
+      <item value="@author xqh , 987072248@qq.com @data 2023-09-12 14:58:20" />
+      <item value="Builder" />
+      <item value="Park Info Bottom Result Vo" />
+      <item value="init Table Fields" />
       <item value="park Row Id" />
       <item value="Row" />
       <item value="Initializing Spring DispatcherServlet 'dispatcherServlet'" />
@@ -1033,20 +1040,13 @@
       <item value="company Amount" />
       <item value="for Each" />
       <item value="is Empty" />
-      <item value="Collection Utils" />
-      <item value="get Finance Park Left Top" />
-      <item value="assets Tenement Service" />
-      <item value="Query Wrapper" />
-      <item value="v Assets Tenant Info Service" />
-      <item value="V Assets Tenant Info Service" />
-      <item value="get Tenement Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4081" />
+        <entry key="CHINESE" value="4089" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4082" />
+        <entry key="ENGLISH" value="4090" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
