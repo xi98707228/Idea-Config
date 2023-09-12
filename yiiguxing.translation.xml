@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="revenue Amount" />
+      <item value="result Vo" />
       <item value="get Building Rent Category" />
       <item value="get Room Guide Unit Price" />
       <item value="ZERO" />
@@ -1006,7 +1008,6 @@
       <item value="success" />
       <item value="statistics Static Functions" />
       <item value="get And Load Statistics Static Data" />
-      <item value="result Vo" />
       <item value="digits" />
       <item value="MIN RADIX" />
       <item value="to String" />
@@ -1039,14 +1040,13 @@
       <item value="building Rent Category" />
       <item value="APARTMENT" />
       <item value="singleton Building Statistics In" />
-      <item value="get Finance Lc Center" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4065" />
+        <entry key="CHINESE" value="4067" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4066" />
+        <entry key="ENGLISH" value="4068" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
