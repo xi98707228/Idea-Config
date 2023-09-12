@@ -990,6 +990,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Finance Park Left Top" />
+      <item value="get Tenement Type" />
+      <item value="PARK" />
+      <item value="get Type Code" />
+      <item value="Tenement Type" />
+      <item value="for Each" />
+      <item value="assets Tenement Service" />
+      <item value="Query Wrapper" />
+      <item value="list" />
+      <item value="park Data List" />
+      <item value="lambda" />
+      <item value="eq" />
       <item value="GROUP NOT DATA TYPE" />
       <item value="Temporal Adjuster" />
       <item value="SHORT IDS" />
@@ -1007,7 +1019,6 @@
       <item value="order By Asc" />
       <item value="test Connection Internal" />
       <item value="building Unit" />
-      <item value="get Tenement Type" />
       <item value="now Unit Floor Data List" />
       <item value="update And Get" />
       <item value="floor Count" />
@@ -1018,7 +1029,6 @@
       <item value="Preparing" />
       <item value="debug" />
       <item value="update" />
-      <item value="assets Tenement Service" />
       <item value="park Building Statistics Item Vo List" />
       <item value="stream Computed Latch" />
       <item value="Result Item List" />
@@ -1030,23 +1040,13 @@
       <item value="Park Floor Right Company Item" />
       <item value="Big Decimal" />
       <item value="floor All Room Info" />
-      <item value="multiply" />
-      <item value="enter The Company Count" />
-      <item value="get Room Guide Manage Unit Price" />
-      <item value="Park Floor Right Result Vo" />
-      <item value="result Vo" />
-      <item value="create Time Stamp" />
-      <item value="now Floor Info" />
-      <item value="main Id" />
-      <item value="get Finance Lc Right" />
-      <item value="Assets Statistics Static Data Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="3975" />
+        <entry key="CHINESE" value="4003" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="3976" />
+        <entry key="ENGLISH" value="4004" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
