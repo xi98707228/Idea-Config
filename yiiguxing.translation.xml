@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Park Company Target Right Top Result Vo" />
+      <item value="company Target Screen Park Right Top" />
+      <item value="company Target Screen Park Right Bottom" />
+      <item value="Table Info Helper" />
+      <item value="Assets Park Company Manage" />
       <item value="yqys" />
       <item value="building Statistics List" />
       <item value="Park Company Building Info Item" />
@@ -998,7 +1003,6 @@
       <item value="Computed Company Target Park Service" />
       <item value="assets Park Company Manage Service" />
       <item value="THE THOUSAND YUAN FUNCTION" />
-      <item value="Assets Park Company Manage" />
       <item value="park Company Manage" />
       <item value="transport" />
       <item value="Standard Service" />
@@ -1036,17 +1040,13 @@
       <item value="Screen" />
       <item value="get Operate Target Screen Park Left Top" />
       <item value="@data 2023-09-12 17:21:29" />
-      <item value="@author xqh , 987072248@qq.com" />
-      <item value="Service" />
-      <item value="目标园区信息" />
-      <item value="get Operate Screen Park Left Top" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4186" />
+        <entry key="CHINESE" value="4188" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4187" />
+        <entry key="ENGLISH" value="4189" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
