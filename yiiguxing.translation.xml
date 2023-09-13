@@ -990,12 +990,33 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hibernate" />
+      <item value="Validator" />
+      <item value="HV 000001" />
+      <item value="Version" />
+      <item value="background" />
+      <item value="preinit" />
+      <item value="Final" />
+      <item value="transport" />
+      <item value="address" />
+      <item value="data" />
+      <item value="data Table" />
+      <item value="assets Park Company Manage Service" />
+      <item value="Generated" />
+      <item value="get Data List" />
+      <item value="Get Mapping" />
+      <item value="success" />
+      <item value="EXPIRE THRESHOLD" />
+      <item value="Ajax Result" />
+      <item value="operate" />
+      <item value="operate Data" />
+      <item value="Assets Park Company Manage" />
+      <item value="get Row Id" />
+      <item value="park Company Manage" />
       <item value="assets Park Operate Manage Service" />
       <item value="park Operate Manage" />
       <item value="Resource" />
       <item value="Post Mapping" />
-      <item value="operate" />
-      <item value="operate Data" />
       <item value="save" />
       <item value="Assets Park Operate Manage Service Impl" />
       <item value="String" />
@@ -1019,35 +1040,14 @@
       <item value="use Building Total" />
       <item value="area Total" />
       <item value="use Area" />
-      <item value="remaining Area" />
-      <item value="i" />
-      <item value="JSON" />
-      <item value="to JSON String" />
-      <item value="get Finance Park Bottom" />
-      <item value="经营大屏" />
-      <item value="物业工单" />
-      <item value="企业大屏" />
-      <item value="OPERATE SCREEN_" />
-      <item value="Weak Reference" />
-      <item value="only Column" />
-      <item value="column" />
-      <item value="column To String" />
-      <item value="boolean" />
-      <item value="P" />
-      <item value="park Company List" />
-      <item value="park Name List" />
-      <item value="park All People" />
-      <item value="assets Tenement Service" />
-      <item value="park Data List" />
-      <item value="Tenement Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4150" />
+        <entry key="CHINESE" value="4178" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4151" />
-        <entry key="FINNISH" value="2" />
+        <entry key="ENGLISH" value="4179" />
+        <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
