@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transport" />
       <item value="Standard Service" />
       <item value="init Table Fields" />
       <item value="Hibernate" />
@@ -999,7 +1000,6 @@
       <item value="background" />
       <item value="preinit" />
       <item value="Final" />
-      <item value="transport" />
       <item value="address" />
       <item value="data" />
       <item value="data Table" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4181" />
+        <entry key="CHINESE" value="4182" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4182" />
+        <entry key="ENGLISH" value="4183" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
