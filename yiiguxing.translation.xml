@@ -990,13 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="assets Park Operate Manage Service" />
+      <item value="park Operate Manage" />
       <item value="Resource" />
       <item value="Post Mapping" />
       <item value="operate" />
       <item value="operate Data" />
-      <item value="park Operate Manage" />
       <item value="save" />
-      <item value="assets Park Operate Manage Service" />
       <item value="Assets Park Operate Manage Service Impl" />
       <item value="String" />
       <item value="get Module Statistics Static Data" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4148" />
+        <entry key="CHINESE" value="4150" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4149" />
+        <entry key="ENGLISH" value="4151" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
