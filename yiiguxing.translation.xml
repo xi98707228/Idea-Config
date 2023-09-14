@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="入驻公司" />
+      <item value="tenant Name" />
+      <item value="now Park Data" />
+      <item value="now Park Datum" />
+      <item value="Array List" />
       <item value="set Job Factory" />
       <item value="statistics Static Data Service" />
       <item value="park Area Rank List" />
@@ -1035,18 +1040,13 @@
       <item value="address" />
       <item value="data" />
       <item value="data Table" />
-      <item value="Generated" />
-      <item value="get Data List" />
-      <item value="Get Mapping" />
-      <item value="success" />
-      <item value="EXPIRE THRESHOLD" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4200" />
+        <entry key="CHINESE" value="4204" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4201" />
+        <entry key="ENGLISH" value="4205" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
