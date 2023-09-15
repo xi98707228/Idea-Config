@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
       <item value="14:35:32.085 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
       <item value="Connected to the target VM, address: '127.0.0.1:52132', transport: 'socket'" />
       <item value="transport" />
@@ -998,8 +1000,6 @@
       <item value="zxqy List" />
       <item value="Company Scale Item" />
       <item value="company Name" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
       <item value="get Park Row Id" />
       <item value="V Assets Tenant Info" />
       <item value="butie List" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4220" />
+        <entry key="CHINESE" value="4222" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4221" />
+        <entry key="ENGLISH" value="4223" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
