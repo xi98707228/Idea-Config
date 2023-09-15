@@ -990,7 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mapper Factory Bean" />
+      <item value="proc Form Privillege Relation Mapper" />
+      <item value="Skipping" />
+      <item value="Class Path Mapper Scanner" />
       <item value="operate Target Screen Park Center Top" />
+      <item value="Hash Map" />
+      <item value="Array List" />
       <item value="test Connection Internal" />
       <item value="Druid Abstract Data Source" />
       <item value="14:35:32.085 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
@@ -1011,7 +1017,6 @@
       <item value="tenant Name" />
       <item value="now Park Data" />
       <item value="now Park Datum" />
-      <item value="Array List" />
       <item value="set Job Factory" />
       <item value="statistics Static Data Service" />
       <item value="park Area Rank List" />
@@ -1035,18 +1040,13 @@
       <item value="company Target Screen Park Right Top" />
       <item value="company Target Screen Park Right Bottom" />
       <item value="Table Info Helper" />
-      <item value="Assets Park Company Manage" />
-      <item value="yqys" />
-      <item value="building Statistics List" />
-      <item value="Park Company Building Info Item" />
-      <item value="building Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4223" />
+        <entry key="CHINESE" value="4232" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4224" />
+        <entry key="ENGLISH" value="4233" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
