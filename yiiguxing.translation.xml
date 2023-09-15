@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Park Company Contract Item" />
+      <item value="company Name" />
+      <item value="tenement Name" />
       <item value="Mapper Factory Bean" />
       <item value="proc Form Privillege Relation Mapper" />
       <item value="Skipping" />
@@ -1006,7 +1009,6 @@
       <item value="dxqy List" />
       <item value="zxqy List" />
       <item value="Company Scale Item" />
-      <item value="company Name" />
       <item value="get Park Row Id" />
       <item value="V Assets Tenant Info" />
       <item value="butie List" />
@@ -1038,15 +1040,13 @@
       <item value="instantiate" />
       <item value="Park Company Target Right Top Result Vo" />
       <item value="company Target Screen Park Right Top" />
-      <item value="company Target Screen Park Right Bottom" />
-      <item value="Table Info Helper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4232" />
+        <entry key="CHINESE" value="4234" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4233" />
+        <entry key="ENGLISH" value="4235" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
