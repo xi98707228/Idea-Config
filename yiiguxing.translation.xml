@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="14:35:32.085 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
+      <item value="Connected to the target VM, address: '127.0.0.1:52132', transport: 'socket'" />
+      <item value="transport" />
       <item value="Company Finance Item" />
       <item value="dxqy List" />
       <item value="zxqy List" />
@@ -1037,16 +1040,13 @@
       <item value="Park Company Building Info Item" />
       <item value="building Name" />
       <item value="company Target Screen Park Left Top" />
-      <item value="Computed Company Target Park Service" />
-      <item value="assets Park Company Manage Service" />
-      <item value="THE THOUSAND YUAN FUNCTION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4217" />
+        <entry key="CHINESE" value="4220" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4218" />
+        <entry key="ENGLISH" value="4221" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
