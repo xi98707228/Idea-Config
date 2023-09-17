@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="NNTP Command" />
+      <item value="post Article" />
       <item value="Temporal Field" />
       <item value="Chrono Field" />
       <item value="Date Time Format" />
@@ -1038,15 +1040,13 @@
       <item value="computed Camera Service" />
       <item value="camera Target Screen Device Overview" />
       <item value="camera Target Screen Device" />
-      <item value="init Table Fields" />
-      <item value="camera Target Screen Regions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4239" />
+        <entry key="CHINESE" value="4241" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4240" />
+        <entry key="ENGLISH" value="4242" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
