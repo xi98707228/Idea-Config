@@ -990,6 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="returning" />
+      <item value="test Connection Internal" />
+      <item value="aspect Cut" />
+      <item value="select Dept List" />
+      <item value="get Contract Start Date" />
+      <item value="discard" />
+      <item value="Process Controller" />
       <item value="prec" />
       <item value="NNTP Command" />
       <item value="post Article" />
@@ -1008,7 +1015,6 @@
       <item value="operate Target Screen Park Center Top" />
       <item value="Hash Map" />
       <item value="Array List" />
-      <item value="test Connection Internal" />
       <item value="Druid Abstract Data Source" />
       <item value="14:35:32.085 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
       <item value="Connected to the target VM, address: '127.0.0.1:52132', transport: 'socket'" />
@@ -1034,19 +1040,13 @@
       <item value="Assets Statistics Static Data Type" />
       <item value="get Finance Lc Left Top" />
       <item value="computed Finance Floor Service" />
-      <item value="get Finance Lc Left Bottom" />
-      <item value="单元的row Id" />
-      <item value="而不是楼栋的" />
-      <item value="此main Id传递的直接是" />
-      <item value="computed Camera Service" />
-      <item value="camera Target Screen Device Overview" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4242" />
+        <entry key="CHINESE" value="4243" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4242" />
+        <entry key="ENGLISH" value="4244" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
