@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="complaints Order" />
+      <item value="from Tenant Id" />
       <item value="Unknown Source" />
       <item value="set Act Id" />
       <item value="set Act Name" />
@@ -1038,15 +1040,13 @@
       <item value="Company Scale Item" />
       <item value="get Park Row Id" />
       <item value="V Assets Tenant Info" />
-      <item value="butie List" />
-      <item value="now Year Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4254" />
+        <entry key="CHINESE" value="4256" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4255" />
+        <entry key="ENGLISH" value="4257" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
