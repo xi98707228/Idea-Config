@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result Data Group" />
       <item value="complaints Order" />
       <item value="from Tenant Id" />
       <item value="Unknown Source" />
@@ -1039,14 +1040,13 @@
       <item value="zxqy List" />
       <item value="Company Scale Item" />
       <item value="get Park Row Id" />
-      <item value="V Assets Tenant Info" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4256" />
+        <entry key="CHINESE" value="4257" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4257" />
+        <entry key="ENGLISH" value="4258" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
