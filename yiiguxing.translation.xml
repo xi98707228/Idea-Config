@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="parameter Map" />
       <item value="developserver-test" />
       <item value="localhost" />
       <item value="developserver" />
@@ -1039,14 +1040,13 @@
       <item value="Version" />
       <item value="Hibernate" />
       <item value="Park Company Contract Item" />
-      <item value="company Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4269" />
+        <entry key="CHINESE" value="4270" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4270" />
+        <entry key="ENGLISH" value="4271" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
