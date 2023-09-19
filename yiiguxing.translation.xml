@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
       <item value="Documentation Plugins Bootstrapper" />
       <item value="Stack" />
       <item value="Recycler" />
@@ -1007,7 +1008,6 @@
       <item value="String" />
       <item value="Assets Tenement Type Data Select Part View" />
       <item value="assets Tenement Service" />
-      <item value="Ajax Result" />
       <item value="获取楼宇的树形数据列表" />
       <item value="get Tenement Tree Data List" />
       <item value="tenement" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4290" />
+        <entry key="CHINESE" value="4291" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4291" />
+        <entry key="ENGLISH" value="4292" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
