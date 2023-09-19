@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Statistics Static Data" />
+      <item value="不存在定时任务则加入" />
+      <item value="check Template Location Exists" />
+      <item value="init Table Fields" />
       <item value="data Type" />
       <item value="String" />
       <item value="Assets Tenement Type Data Select Part View" />
@@ -1036,17 +1040,13 @@
       <item value="treeselect" />
       <item value="Process Controller" />
       <item value="returning" />
-      <item value="test Connection Internal" />
-      <item value="aspect Cut" />
-      <item value="select Dept List" />
-      <item value="get Contract Start Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4280" />
+        <entry key="CHINESE" value="4283" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4281" />
+        <entry key="ENGLISH" value="4284" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="18" />
         <entry key="GALICIAN" value="1" />
