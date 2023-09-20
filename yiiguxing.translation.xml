@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Starting" />
       <item value="invest Project Name" />
       <item value="楼栋的" />
       <item value="园区" />
@@ -1039,14 +1040,13 @@
       <item value="Ajax Result" />
       <item value="get By Id" />
       <item value="get Row Data" />
-      <item value="Post Mapping" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4383" />
+        <entry key="CHINESE" value="4384" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4384" />
+        <entry key="ENGLISH" value="4385" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
