@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="param String" />
       <item value="Starting" />
       <item value="invest Project Name" />
       <item value="楼栋的" />
@@ -1039,7 +1040,6 @@
       <item value="remove Row Data" />
       <item value="Ajax Result" />
       <item value="get By Id" />
-      <item value="get Row Data" />
     </histories>
     <option name="languageScores">
       <map>
