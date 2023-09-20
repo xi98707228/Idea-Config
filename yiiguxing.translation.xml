@@ -990,63 +990,63 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="test Connection Internal" />
+      <item value="use Area" />
+      <item value="rent Amount" />
+      <item value="Data" />
+      <item value="Builder" />
+      <item value="All Args Constructor" />
+      <item value="Park Company Building Item" />
+      <item value="company Name" />
+      <item value="to JSON String" />
+      <item value="楼栋的园区信息列表" />
+      <item value="building Items" />
+      <item value="result Vo" />
+      <item value="company Target Screen Park Center Top Click" />
+      <item value="now Building Tenant List" />
+      <item value="V Assets Tenant Info" />
+      <item value="get Module Statistics Static Data" />
+      <item value="Assets Statistics Static Data Type" />
+      <item value="company Screen Park Center Bottom" />
+      <item value="company Screen Park Center Top" />
+      <item value="FINANCE COMMON SIGNATURE" />
+      <item value="COMPANY SCREEN PARK LEFT TOP" />
+      <item value="company Screen Park Left Top" />
+      <item value="COMPANY SCREEN TARGET PARK RIGHT TOP" />
+      <item value="operate Target Screen Park Left Top" />
+      <item value="OPERATE SCREEN TARGET PARK LEFT BOTTOM" />
+      <item value="OPERATE SCREEN TARGET PARK RIGHT TOP" />
+      <item value="OPERATE SCREEN TARGET PARK RIGHT CENTER" />
+      <item value="OPERATE SCREEN TARGET PARK RIGHT BOTTOM" />
+      <item value="CAMERA SCREEN SEARCH URL" />
+      <item value="Override" />
+      <item value="success" />
+      <item value="operate Data" />
+      <item value="row" />
+      <item value="remove Row Data" />
       <item value="Ajax Result" />
-      <item value="Documentation Plugins Bootstrapper" />
-      <item value="Stack" />
-      <item value="Recycler" />
-      <item value="RECYCLER" />
-      <item value="Event Loop" />
-      <item value="Scheduled Executor Service" />
-      <item value="Bean Class Loader Aware" />
-      <item value="Bulk Mapper" />
-      <item value="create Author" />
-      <item value="Assets Statistics Static Data" />
-      <item value="不存在定时任务则加入" />
-      <item value="check Template Location Exists" />
-      <item value="init Table Fields" />
-      <item value="data Type" />
-      <item value="String" />
-      <item value="Assets Tenement Type Data Select Part View" />
-      <item value="assets Tenement Service" />
-      <item value="获取楼宇的树形数据列表" />
-      <item value="get Tenement Tree Data List" />
-      <item value="tenement" />
-      <item value="get Tenement Tree Data" />
-      <item value="result Tree Vo" />
-      <item value="parameter Map" />
-      <item value="developserver-test" />
-      <item value="localhost" />
-      <item value="developserver" />
-      <item value="gx oa work order" />
-      <item value="set Job Factory" />
-      <item value="get Title" />
-      <item value="order List By User Id" />
-      <item value="task Order Service" />
-      <item value="params" />
-      <item value="净发小程序API" />
-      <item value="Std Scheduler Factory" />
-      <item value="scheduler" />
-      <item value="Quartz" />
-      <item value="scheduling" />
-      <item value="Local Data Source Job Store" />
-      <item value="preinit" />
-      <item value="background" />
-      <item value="result Data Group" />
-      <item value="complaints Order" />
-      <item value="from Tenant Id" />
-      <item value="Unknown Source" />
-      <item value="set Act Id" />
-      <item value="set Act Name" />
-      <item value="project Name" />
-      <item value="column Comment" />
-      <item value="row id" />
+      <item value="assets Invest Project Service" />
+      <item value="get By Id" />
+      <item value="get Row Data" />
+      <item value="Post Mapping" />
+      <item value="Path Variable" />
+      <item value="remove By Id" />
+      <item value="Druid Abstract Data Source" />
+      <item value="discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121368 10:19:54.817 [threadPoolTaskExecutor-43] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121368 10:21:56.432 [threadPoolTaskExecutor-18] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121609 10:21:56.432 [threadPoolTaskExecutor-47] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection" />
+      <item value="discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121368 10:21:56.432 [threadPoolTaskExecutor-18] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal,1489] - discard long time none received connection" />
+      <item value="testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121368 10:21:56.432 [threadPoolTaskExecutor-18] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal" />
+      <item value="discard long time none received connection" />
+      <item value="get Data Table" />
+      <item value="data Table" />
+      <item value="get Invest Project Data List" />
+      <item value="start Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4291" />
+        <entry key="CHINESE" value="4373" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4292" />
+        <entry key="ENGLISH" value="4374" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
