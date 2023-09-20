@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Read timed out" />
+      <item value="data" />
+      <item value="get" />
+      <item value="row" />
+      <item value="assets Invest Project Service" />
       <item value="test Connection Internal" />
       <item value="use Area" />
       <item value="rent Amount" />
@@ -1022,10 +1027,8 @@
       <item value="Override" />
       <item value="success" />
       <item value="operate Data" />
-      <item value="row" />
       <item value="remove Row Data" />
       <item value="Ajax Result" />
-      <item value="assets Invest Project Service" />
       <item value="get By Id" />
       <item value="get Row Data" />
       <item value="Post Mapping" />
@@ -1037,16 +1040,13 @@
       <item value="testConnectionInternal,1489] - discard long time none received connection. , jdbcUrl : jdbc:mysql:221.6.30.202:13336develop_wuye?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;useSSL=true&amp;serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 121368 10:21:56.432 [threadPoolTaskExecutor-18] WARN c.a.d.p.DruidAbstractDataSource - [testConnectionInternal" />
       <item value="discard long time none received connection" />
       <item value="get Data Table" />
-      <item value="data Table" />
-      <item value="get Invest Project Data List" />
-      <item value="start Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4373" />
+        <entry key="CHINESE" value="4377" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4374" />
+        <entry key="ENGLISH" value="4378" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
