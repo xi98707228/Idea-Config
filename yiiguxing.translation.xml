@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Park Company Manage" />
+      <item value="ZERO" />
       <item value="jwt Authentication Token Filter" />
       <item value="transport" />
       <item value="get Park Id" />
@@ -998,7 +1000,6 @@
       <item value="Park Company Target Left Top Vo" />
       <item value="Park Company Building Info Item" />
       <item value="building Name" />
-      <item value="Assets Park Company Manage" />
       <item value="v Assets Tenant Info Service" />
       <item value="company List" />
       <item value="get Park Row Id" />
@@ -1039,14 +1040,13 @@
       <item value="Assets Invest March" />
       <item value="data Table" />
       <item value="get Data Table" />
-      <item value="get Invest Project Data List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4449" />
+        <entry key="CHINESE" value="4451" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4450" />
+        <entry key="ENGLISH" value="4452" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
