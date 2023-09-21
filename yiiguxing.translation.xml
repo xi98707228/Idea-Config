@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="invest March Status" />
+      <item value="head" />
+      <item value="total Energy" />
+      <item value="energy Buildreport Service" />
+      <item value="march Status" />
       <item value="init Table Fields" />
       <item value="param String" />
       <item value="Starting" />
@@ -1035,18 +1040,13 @@
       <item value="OPERATE SCREEN TARGET PARK RIGHT CENTER" />
       <item value="OPERATE SCREEN TARGET PARK RIGHT BOTTOM" />
       <item value="CAMERA SCREEN SEARCH URL" />
-      <item value="Override" />
-      <item value="success" />
-      <item value="operate Data" />
-      <item value="remove Row Data" />
-      <item value="Ajax Result" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4385" />
+        <entry key="CHINESE" value="4390" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4386" />
+        <entry key="ENGLISH" value="4391" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
