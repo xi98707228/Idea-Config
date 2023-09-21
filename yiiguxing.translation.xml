@@ -990,13 +990,30 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="987072248" />
+      <item value="tenant Name" />
+      <item value="tenement Area" />
+      <item value="number Of People" />
+      <item value="yyyy-MM-dd" />
+      <item value="contract Start Date" />
+      <item value="背景预" />
+      <item value="10:40:30.272 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
+      <item value="transport: 'socket'" />
+      <item value="background-preinit" />
+      <item value="Assets Invest March" />
+      <item value="data Table" />
+      <item value="get Data Table" />
+      <item value="get Invest Project Data List" />
+      <item value="param String" />
+      <item value="invest Project Id" />
+      <item value="invest March Name" />
+      <item value="invest March Remarks" />
       <item value="invest March Status" />
       <item value="head" />
       <item value="total Energy" />
       <item value="energy Buildreport Service" />
       <item value="march Status" />
       <item value="init Table Fields" />
-      <item value="param String" />
       <item value="Starting" />
       <item value="invest Project Name" />
       <item value="楼栋的" />
@@ -1005,7 +1022,6 @@
       <item value="招商目标楼宇Id" />
       <item value="return" />
       <item value="data" />
-      <item value="get Invest Project Data List" />
       <item value="start Page" />
       <item value="Read timed out" />
       <item value="get" />
@@ -1024,29 +1040,13 @@
       <item value="building Items" />
       <item value="result Vo" />
       <item value="company Target Screen Park Center Top Click" />
-      <item value="now Building Tenant List" />
-      <item value="V Assets Tenant Info" />
-      <item value="get Module Statistics Static Data" />
-      <item value="Assets Statistics Static Data Type" />
-      <item value="company Screen Park Center Bottom" />
-      <item value="company Screen Park Center Top" />
-      <item value="FINANCE COMMON SIGNATURE" />
-      <item value="COMPANY SCREEN PARK LEFT TOP" />
-      <item value="company Screen Park Left Top" />
-      <item value="COMPANY SCREEN TARGET PARK RIGHT TOP" />
-      <item value="operate Target Screen Park Left Top" />
-      <item value="OPERATE SCREEN TARGET PARK LEFT BOTTOM" />
-      <item value="OPERATE SCREEN TARGET PARK RIGHT TOP" />
-      <item value="OPERATE SCREEN TARGET PARK RIGHT CENTER" />
-      <item value="OPERATE SCREEN TARGET PARK RIGHT BOTTOM" />
-      <item value="CAMERA SCREEN SEARCH URL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4390" />
+        <entry key="CHINESE" value="4407" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4391" />
+        <entry key="ENGLISH" value="4408" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
