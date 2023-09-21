@@ -990,6 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CHILD" />
+      <item value="execute" />
+      <item value="relation Project Row Id" />
+      <item value="找到关联服务合同并删除" />
+      <item value="Group Contract Type" />
+      <item value="1. 删除和当前服务合同关联的项目的关联此数据的信息 , 由于关联服务合同都是关联的门面代理记录(不需要考虑被代理数据集)" />
+      <item value="accept Del File" />
       <item value="987072248" />
       <item value="tenant Name" />
       <item value="tenement Area" />
@@ -1033,20 +1040,13 @@
       <item value="Data" />
       <item value="Builder" />
       <item value="All Args Constructor" />
-      <item value="Park Company Building Item" />
-      <item value="company Name" />
-      <item value="to JSON String" />
-      <item value="楼栋的园区信息列表" />
-      <item value="building Items" />
-      <item value="result Vo" />
-      <item value="company Target Screen Park Center Top Click" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4407" />
+        <entry key="CHINESE" value="4411" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4408" />
+        <entry key="ENGLISH" value="4412" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
