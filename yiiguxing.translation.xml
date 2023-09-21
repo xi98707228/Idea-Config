@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Big Decimal" />
+      <item value="100000000" />
+      <item value="THE BILLION YUAN" />
+      <item value="THE THOUSAND YUAN" />
       <item value="集团内部租赁" />
       <item value="其他租赁收入" />
       <item value="17:42:53.759 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
@@ -1036,17 +1040,13 @@
       <item value="invest Project Name" />
       <item value="楼栋的" />
       <item value="园区" />
-      <item value="Row Id" />
-      <item value="招商目标楼宇Id" />
-      <item value="return" />
-      <item value="data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4422" />
+        <entry key="CHINESE" value="4429" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4423" />
+        <entry key="ENGLISH" value="4430" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
