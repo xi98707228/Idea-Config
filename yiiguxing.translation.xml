@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="集团内部租赁" />
+      <item value="其他租赁收入" />
       <item value="17:42:53.759 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
       <item value="background-preinit" />
       <item value="Validator" />
@@ -1038,8 +1040,6 @@
       <item value="招商目标楼宇Id" />
       <item value="return" />
       <item value="data" />
-      <item value="start Page" />
-      <item value="Read timed out" />
     </histories>
     <option name="languageScores">
       <map>
