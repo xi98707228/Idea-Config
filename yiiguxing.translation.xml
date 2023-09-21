@@ -990,6 +990,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="17:42:53.759 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
+      <item value="background-preinit" />
+      <item value="Validator" />
+      <item value="Hibernate" />
+      <item value="HV 000001" />
+      <item value="clinit" />
+      <item value="Version" />
+      <item value="Application Version: 3.4.0" />
+      <item value="Spring Boot Version: 2.2.13.RELEASE" />
+      <item value="Connected to the target VM, address: '127.0.0.1:53213', transport: 'socket'" />
       <item value="CHILD" />
       <item value="execute" />
       <item value="relation Project Row Id" />
@@ -1006,7 +1016,6 @@
       <item value="背景预" />
       <item value="10:40:30.272 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
       <item value="transport: 'socket'" />
-      <item value="background-preinit" />
       <item value="Assets Invest March" />
       <item value="data Table" />
       <item value="get Data Table" />
@@ -1031,22 +1040,13 @@
       <item value="data" />
       <item value="start Page" />
       <item value="Read timed out" />
-      <item value="get" />
-      <item value="row" />
-      <item value="assets Invest Project Service" />
-      <item value="test Connection Internal" />
-      <item value="use Area" />
-      <item value="rent Amount" />
-      <item value="Data" />
-      <item value="Builder" />
-      <item value="All Args Constructor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4411" />
+        <entry key="CHINESE" value="4422" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4412" />
+        <entry key="ENGLISH" value="4423" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
