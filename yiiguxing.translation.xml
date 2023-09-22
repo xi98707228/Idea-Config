@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Http 11 Nio Protocol" />
       <item value="Integer" />
       <item value="post Process Before Destruction" />
       <item value="Assets Park Company Manage" />
@@ -1039,12 +1040,11 @@
       <item value="背景预" />
       <item value="10:40:30.272 [background-preinit] INFO o.h.v.i.util.Version - [&lt;clinit&gt;,21] - HV000001: Hibernate Validator 6.0.22.Final" />
       <item value="transport: 'socket'" />
-      <item value="Assets Invest March" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4453" />
+        <entry key="CHINESE" value="4454" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="4454" />
         <entry key="FINNISH" value="3" />
@@ -1057,7 +1057,7 @@
         <entry key="PORTUGUESE_BRAZILIAN" value="4" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
-        <entry key="SWEDISH" value="4" />
+        <entry key="SWEDISH" value="5" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
