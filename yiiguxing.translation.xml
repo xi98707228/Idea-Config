@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="now Invest Project Position List" />
       <item value="Standard Engine" />
       <item value="Web Application Context" />
       <item value="embedded" />
@@ -1039,14 +1040,13 @@
       <item value="Application Version: 3.4.0" />
       <item value="Spring Boot Version: 2.2.13.RELEASE" />
       <item value="Connected to the target VM, address: '127.0.0.1:53213', transport: 'socket'" />
-      <item value="CHILD" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4465" />
+        <entry key="CHINESE" value="4466" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4466" />
+        <entry key="ENGLISH" value="4467" />
         <entry key="FINNISH" value="3" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
