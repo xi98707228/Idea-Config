@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Job Factory" />
+      <item value="complete" />
       <item value="Hibernate Validator 6.0.22.Final" />
       <item value="Hibernate" />
       <item value="HV 000001" />
@@ -1038,15 +1040,13 @@
       <item value="at" />
       <item value="get Element By Id" />
       <item value="This is impossible to happen" />
-      <item value="Quartz scheduler 'RuoyiSchedule Quartz scheduler version: 2.3.2" />
-      <item value="scheduler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4528" />
+        <entry key="CHINESE" value="4529" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4529" />
+        <entry key="ENGLISH" value="4530" />
         <entry key="FINNISH" value="4" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
