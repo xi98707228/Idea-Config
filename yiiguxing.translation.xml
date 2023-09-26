@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enterprise Names" />
+      <item value="get Tenement Name" />
       <item value="set Job Factory" />
       <item value="complete" />
       <item value="Hibernate Validator 6.0.22.Final" />
@@ -1038,15 +1040,13 @@
       <item value="653" />
       <item value="waiting" />
       <item value="at" />
-      <item value="get Element By Id" />
-      <item value="This is impossible to happen" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4529" />
+        <entry key="CHINESE" value="4531" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4530" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="FINNISH" value="4" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
