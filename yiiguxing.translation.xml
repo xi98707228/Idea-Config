@@ -990,13 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="company Screen Park Right Top" />
       <item value="test Connection Internal" />
       <item value="Druid Abstract Data Source" />
       <item value="result Vo List" />
       <item value="Park Company Target Right Bottom Result Vo" />
       <item value="all Park Tenement Id" />
       <item value="Tenement Type" />
-      <item value="company Screen Park Right Top" />
       <item value="Park Company Target Right Top Result Vo" />
       <item value="Statistics Static Functions Finance Common Signature" />
       <item value="get Finance Lc Center" />
@@ -1044,9 +1044,9 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4544" />
+        <entry key="CHINESE" value="4545" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4545" />
+        <entry key="ENGLISH" value="4546" />
         <entry key="FINNISH" value="4" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
