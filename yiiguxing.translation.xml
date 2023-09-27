@@ -990,6 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="U" />
+      <item value="Sys User" />
+      <item value="operate Data" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="get User" />
       <item value="get Invest Project Name" />
       <item value="Assets Invest Project" />
       <item value="get Project Status" />
@@ -1034,19 +1040,14 @@
       <item value="get Finance Lc Center" />
       <item value="computed Finance Floor Service" />
       <item value="信息" />
-      <item value="园区汇总" />
-      <item value="enterprise Names" />
-      <item value="get Tenement Name" />
-      <item value="set Job Factory" />
-      <item value="complete" />
-      <item value="Hibernate Validator 6.0.22.Final" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4576" />
+        <entry key="CHINESE" value="4582" />
+        <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4577" />
+        <entry key="ENGLISH" value="4582" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
