@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="e" />
+      <item value="remove By Id" />
+      <item value="finance Cost Order Service" />
+      <item value="order" />
+      <item value="success" />
       <item value="resolve Table Type" />
       <item value="Finance Reviewer Status" />
       <item value="SQL Exception" />
@@ -1035,25 +1040,20 @@
       <item value="Status Process Engine" />
       <item value="telnet" />
       <item value="author" />
-      <item value="data" />
-      <item value="Signature" />
-      <item value="园区平面数据" />
-      <item value="==================== 园区平面数据 =========================" />
-      <item value="Statistics Static Functions Finance Common Signature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4616" />
+        <entry key="CHINESE" value="4623" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4617" />
+        <entry key="ENGLISH" value="4623" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="20" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="5" />
+        <entry key="ITALIAN" value="6" />
         <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="4" />
         <entry key="ROMANIAN" value="4" />
