@@ -990,6 +990,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="是否开启swagger" />
+      <item value="helper Dialect" />
+      <item value="support Methods Arguments" />
+      <item value="count Sql" />
+      <item value="count" />
+      <item value="Swagger配置" />
+      <item value="Array List Valued Hash Map" />
+      <item value="Cursorable Linked List" />
+      <item value="developer" />
+      <item value="get Component Pointer" />
+      <item value="Bundle-Native Code" />
+      <item value="concatenate Var Args" />
+      <item value="For convenience, always append a NULL argument to the end of varargs, whether the called API requires it or not. If it is not needed, it will be ignored, but if it is required, it avoids forcing the Java client to always explicitly add it." />
+      <item value="Uncaught Exception Handler" />
+      <item value="await Join" />
+      <item value="completer" />
+      <item value="decrement Pending Count Unless Zero" />
+      <item value="Counted Completer" />
+      <item value="Bulk Task" />
+      <item value="spread" />
       <item value="Session Creation Policy" />
       <item value="STATELESS" />
       <item value="register" />
@@ -1020,36 +1040,16 @@
       <item value="REVERSE REVIEWER" />
       <item value="REVESE REVIEWER" />
       <item value="create Credential" />
-      <item value="pseudo Random Number" />
-      <item value="allocate Token" />
-      <item value="Illegal Argument Exception" />
-      <item value="assets Invest Project Service" />
-      <item value="operate Data" />
-      <item value="assets Invest March Service" />
-      <item value="update By Id" />
-      <item value="set Base Jdbc Template" />
-      <item value="base Thread Pool" />
-      <item value="base Jdbc Template" />
-      <item value="Jdbc Template" />
-      <item value="展" />
-      <item value="更新进展计划时" />
-      <item value="若修改了指定招商项目Id" />
-      <item value="那么就需要同时变更两个项目的状态" />
-      <item value="original March Data" />
-      <item value="get Invest Project Id" />
-      <item value="original Project Id" />
-      <item value="RUNNING" />
-      <item value="U" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4642" />
+        <entry key="CHINESE" value="4661" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4643" />
+        <entry key="ENGLISH" value="4661" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="20" />
+        <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
