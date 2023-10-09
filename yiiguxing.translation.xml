@@ -990,13 +990,32 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="parse Fuel" />
+      <item value="check Not Null" />
+      <item value="Preconditions" />
+      <item value="file" />
+      <item value="prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
+      <item value="is Present" />
+      <item value="ENTER FIELD" />
+      <item value="string List" />
+      <item value="groups Row Ids" />
+      <item value="selected Record Index List" />
+      <item value="time num" />
+      <item value="Array List" />
+      <item value="Air Data Item" />
+      <item value="field Value Entry" />
+      <item value="get Value" />
       <item value="String" />
+      <item value="Collection" />
+      <item value="collection Data Lists" />
+      <item value="this Time File Model Size" />
+      <item value="air Data Item" />
+      <item value="cmd 2" />
+      <item value="result" />
+      <item value="parse Fuel" />
       <item value="python Function" />
       <item value="cmd 3" />
       <item value="System" />
       <item value="println" />
-      <item value="Air Data Item" />
       <item value="Air Python Calculate" />
       <item value="Apu Python Calulate" />
       <item value="parse APU" />
@@ -1021,33 +1040,14 @@
       <item value="get Component Pointer" />
       <item value="Bundle-Native Code" />
       <item value="concatenate Var Args" />
-      <item value="For convenience, always append a NULL argument to the end of varargs, whether the called API requires it or not. If it is not needed, it will be ignored, but if it is required, it avoids forcing the Java client to always explicitly add it." />
-      <item value="Uncaught Exception Handler" />
-      <item value="await Join" />
-      <item value="completer" />
-      <item value="decrement Pending Count Unless Zero" />
-      <item value="Counted Completer" />
-      <item value="Bulk Task" />
-      <item value="spread" />
-      <item value="Session Creation Policy" />
-      <item value="STATELESS" />
-      <item value="register" />
-      <item value="operation Selector" />
-      <item value="Unicast Ref 2" />
-      <item value="Unicast Ref" />
-      <item value="password" />
-      <item value="szysdx 383" />
-      <item value="njsd zhkj" />
-      <item value="221.6.30.202" />
-      <item value="barrier Command" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4683" />
+        <entry key="CHINESE" value="4707" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4684" />
+        <entry key="ENGLISH" value="4708" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
@@ -1055,7 +1055,7 @@
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="POLISH" value="2" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="5" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
         <entry key="SWEDISH" value="5" />
