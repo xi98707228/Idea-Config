@@ -990,7 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Python Data Source Config" />
+      <item value="数据源配置" />
       <item value="fuel" />
+      <item value="AIR TABLE FIELD" />
       <item value="Override" />
       <item value="Application Context" />
       <item value="SIMPLE DATE FORMAT" />
@@ -1037,17 +1040,14 @@
       <item value="e" />
       <item value="remove By Id" />
       <item value="finance Cost Order Service" />
-      <item value="order" />
-      <item value="success" />
-      <item value="resolve Table Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4666" />
+        <entry key="CHINESE" value="4671" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4667" />
+        <entry key="ENGLISH" value="4672" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
