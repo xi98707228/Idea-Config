@@ -990,6 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="System" />
+      <item value="println" />
+      <item value="Air Data Item" />
+      <item value="Air Python Calculate" />
+      <item value="Apu Python Calulate" />
+      <item value="parse APU" />
       <item value="Python Data Source Config" />
       <item value="数据源配置" />
       <item value="fuel" />
@@ -1034,20 +1040,14 @@
       <item value="lock" />
       <item value="trip" />
       <item value="signal All" />
-      <item value="broken" />
-      <item value="break Barrier" />
-      <item value="next Generation" />
-      <item value="e" />
-      <item value="remove By Id" />
-      <item value="finance Cost Order Service" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4671" />
+        <entry key="CHINESE" value="4677" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4672" />
+        <entry key="ENGLISH" value="4678" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
@@ -1055,7 +1055,7 @@
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="6" />
         <entry key="POLISH" value="2" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="4" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="5" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
         <entry key="SWEDISH" value="5" />
