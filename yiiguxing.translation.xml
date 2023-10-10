@@ -990,6 +990,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result Store Map" />
+      <item value="Bean Property Row Mapper" />
+      <item value="direct Calculate" />
+      <item value="display Type" />
+      <item value="display Data" />
+      <item value="risk Warning Dispatcher Service" />
+      <item value="air Data Items" />
       <item value="Transaction Factory Initiator" />
       <item value="apache-tomcat" />
       <item value="Abstract Protocol" />
@@ -1027,27 +1034,20 @@
       <item value="set Fuel Data Item Map" />
       <item value="air Data Item" />
       <item value="set Type Index" />
-      <item value="air Data Items" />
       <item value="core Data Calculate" />
       <item value="core Data Map" />
       <item value="jdbc Template" />
       <item value="submit File Task" />
       <item value="File Task Running Thread Pool Manager" />
       <item value="string List" />
-      <item value="划分每一组数据" />
-      <item value="ENTER FIELD" />
-      <item value="after Process" />
-      <item value="command Param" />
-      <item value="check Not Null" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4759" />
+        <entry key="CHINESE" value="4765" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4760" />
+        <entry key="ENGLISH" value="4766" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
