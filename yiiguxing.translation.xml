@@ -990,6 +990,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Transaction Factory Initiator" />
+      <item value="apache-tomcat" />
+      <item value="Abstract Protocol" />
+      <item value="calculate Result Display Vo" />
+      <item value="算法运算获取结果" />
+      <item value="真正执行内部" />
+      <item value="FUEL TABLE FIELD" />
+      <item value="result Object" />
+      <item value="Fuel Data Item" />
+      <item value="password" />
       <item value="dynamic displayType" />
       <item value="entry" />
       <item value="implements" />
@@ -1030,24 +1040,14 @@
       <item value="command Param" />
       <item value="check Not Null" />
       <item value="Preconditions" />
-      <item value="file" />
-      <item value="prepareHandle : initialization calculate after process store table info 2 --&gt; buildTempCalculateDirector : Move Source File Path To TempDirector 3 --&gt; after process ( or processing) : executor calculate , and store calculate store info" />
-      <item value="is Present" />
-      <item value="groups Row Ids" />
-      <item value="selected Record Index List" />
-      <item value="time num" />
-      <item value="Air Data Item" />
-      <item value="field Value Entry" />
-      <item value="get Value" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4750" />
+        <entry key="CHINESE" value="4759" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4751" />
+        <entry key="ENGLISH" value="4760" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="21" />
         <entry key="GALICIAN" value="1" />
