@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="N" />
+      <item value="PYTHON DISK" />
+      <item value="python" />
+      <item value="运行时配置" />
       <item value="INFO" />
       <item value="groups Row Ids" />
       <item value="987072248" />
@@ -1036,20 +1040,16 @@
       <item value="Fuel System Display Vo" />
       <item value="build Temp Director Path" />
       <item value="collection Data Lists" />
-      <item value="Array List" />
-      <item value="File Output Stream" />
-      <item value="APU TABLE FIELD" />
-      <item value="Object" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4775" />
+        <entry key="CHINESE" value="4778" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4776" />
+        <entry key="ENGLISH" value="4778" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="21" />
+        <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
