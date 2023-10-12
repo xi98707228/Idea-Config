@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="virtual Path" />
+      <item value="normalize" />
+      <item value="buffered Reader" />
+      <item value="read Line" />
       <item value="environment Block" />
       <item value="function" />
       <item value="N" />
@@ -1036,18 +1040,14 @@
       <item value="address" />
       <item value="author" />
       <item value="2023-10-10" />
-      <item value="Fuel System Display" />
-      <item value="execute Calculate" />
-      <item value="fuel System Display Vo" />
-      <item value="Fuel System Display Vo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4779" />
+        <entry key="CHINESE" value="4783" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4780" />
+        <entry key="ENGLISH" value="4784" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
