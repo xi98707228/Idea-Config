@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Python Virtual Util" />
       <item value="ma" />
       <item value="command" />
       <item value="Process Builder" />
@@ -1039,7 +1040,6 @@
       <item value="Connected to the target VM, address: '127.0.0.1:58962', transport: 'socket'" />
       <item value="Connected to the target VM, address" />
       <item value="Connected" />
-      <item value="socket" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1047,7 +1047,7 @@
         <entry key="CHINESE" value="4787" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4787" />
+        <entry key="ENGLISH" value="4788" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
