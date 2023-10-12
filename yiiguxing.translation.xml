@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ma" />
+      <item value="command" />
+      <item value="Process Builder" />
       <item value="virtual Path" />
       <item value="normalize" />
       <item value="buffered Reader" />
@@ -1037,23 +1040,20 @@
       <item value="Connected to the target VM, address" />
       <item value="Connected" />
       <item value="socket" />
-      <item value="address" />
-      <item value="author" />
-      <item value="2023-10-10" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4783" />
+        <entry key="CHINESE" value="4787" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4784" />
+        <entry key="ENGLISH" value="4787" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="6" />
+        <entry key="ITALIAN" value="7" />
         <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
