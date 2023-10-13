@@ -990,6 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="封装搜索信息实体" />
+      <item value="获取某一类型的数据信息" />
+      <item value="tenement" />
+      <item value="get Tenement Type Data List" />
+      <item value="now Tenement Type" />
+      <item value="Bc Device Tenement Controller" />
+      <item value="Base Controller" />
+      <item value="bc Device Tenement Service" />
       <item value="VIRTUAL BOOT PATH" />
       <item value="anaconda" />
       <item value="getenv" />
@@ -1032,22 +1040,14 @@
       <item value="UUID Hex Generator" />
       <item value="Standard Engine" />
       <item value="start Internal" />
-      <item value="Standard Service" />
-      <item value="Task Executor Factory Bean" />
-      <item value="Risk Warning Fuel" />
-      <item value="result Store Map" />
-      <item value="Bean Property Row Mapper" />
-      <item value="direct Calculate" />
-      <item value="display Type" />
-      <item value="display Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4806" />
+        <entry key="CHINESE" value="4816" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4807" />
+        <entry key="ENGLISH" value="4816" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
