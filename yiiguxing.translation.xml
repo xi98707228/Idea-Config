@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Tenement Data Search Filter" />
+      <item value="Tenement Type" />
       <item value="封装搜索信息实体" />
       <item value="获取某一类型的数据信息" />
       <item value="tenement" />
@@ -1038,8 +1040,6 @@
       <item value="987072248" />
       <item value="Display Vo" />
       <item value="UUID Hex Generator" />
-      <item value="Standard Engine" />
-      <item value="start Internal" />
     </histories>
     <option name="languageScores">
       <map>
