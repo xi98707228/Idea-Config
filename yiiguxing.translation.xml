@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Template Data List" />
       <item value="item Search Filter" />
       <item value="Http 11 Nio Protocol" />
       <item value="quartz Scheduler NON CLUSTERED" />
@@ -999,7 +1000,6 @@
       <item value="template" />
       <item value="Zhkj Application" />
       <item value="Quartz Scheduler" />
-      <item value="get Template Data List" />
       <item value="bc Template List Service" />
       <item value="resolve Mapped Statement" />
       <item value="Invalid bound statement (not found)" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4855" />
+        <entry key="CHINESE" value="4856" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4856" />
+        <entry key="ENGLISH" value="4857" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
