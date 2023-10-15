@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Invalid bound statement (not found)" />
       <item value="get Tenement Tree Data" />
       <item value="tenement Tree Vo" />
       <item value="Bc Device Tenement Type Data Select Part View" />
@@ -1039,15 +1040,14 @@
       <item value="Users" />
       <item value="Desktop" />
       <item value="public" />
-      <item value="python" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4844" />
+        <entry key="CHINESE" value="4845" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4845" />
+        <entry key="ENGLISH" value="4846" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
