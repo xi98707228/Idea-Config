@@ -990,6 +990,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="item Search Filter" />
+      <item value="Http 11 Nio Protocol" />
+      <item value="quartz Scheduler NON CLUSTERED" />
+      <item value="Scheduler" />
+      <item value="select Job All" />
+      <item value="operate" />
+      <item value="template" />
+      <item value="Zhkj Application" />
+      <item value="Quartz Scheduler" />
+      <item value="get Template Data List" />
+      <item value="bc Template List Service" />
       <item value="resolve Mapped Statement" />
       <item value="Invalid bound statement (not found)" />
       <item value="get Tenement Tree Data" />
@@ -1029,25 +1040,14 @@
       <item value="getenv" />
       <item value="987072248@qq.com" />
       <item value="author" />
-      <item value="type Index" />
-      <item value="forward Page Url" />
-      <item value="resolve File Path" />
-      <item value="merge Files Into Target Director" />
-      <item value="最终算法" />
-      <item value="算法相关数据和数据列表" />
-      <item value="算法相关数据和数据列表 算法相关数据和数据列表 算法相关数据和数据列表" />
-      <item value="nuaa sys" />
-      <item value="NJSD" />
-      <item value="Users" />
-      <item value="Desktop" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4845" />
+        <entry key="CHINESE" value="4855" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4846" />
+        <entry key="ENGLISH" value="4856" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
@@ -1058,7 +1058,7 @@
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="1" />
-        <entry key="SWEDISH" value="5" />
+        <entry key="SWEDISH" value="6" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
