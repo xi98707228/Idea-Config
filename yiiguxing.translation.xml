@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Tenement Tree Data" />
+      <item value="tenement Tree Vo" />
+      <item value="Bc Device Tenement Type Data Select Part View" />
+      <item value="Bc Device Tenement Tree Vo" />
+      <item value="Device Tenement Constants" />
+      <item value="TENEMENT" />
+      <item value="cell Item" />
+      <item value="for Each" />
+      <item value="为当前root节点附魔" />
       <item value="TENEMENT TREE ROOT PARENT NODE" />
       <item value="TENEMENT TREE ROOT NODE" />
       <item value="tenement Type" />
@@ -1031,23 +1040,14 @@
       <item value="Desktop" />
       <item value="public" />
       <item value="python" />
-      <item value="reference" />
-      <item value="Air Python Calculate" />
-      <item value="Apu Python Calulate" />
-      <item value="Python Virtual Util" />
-      <item value="ma" />
-      <item value="command" />
-      <item value="Process Builder" />
-      <item value="virtual Path" />
-      <item value="normalize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4833" />
+        <entry key="CHINESE" value="4844" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4834" />
+        <entry key="ENGLISH" value="4845" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
