@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="publish Template" />
+      <item value="active Publish Template Service" />
+      <item value="Active Publish Template Service" />
+      <item value="publish Form" />
+      <item value="Base Controller" />
       <item value="Active Publish Template" />
       <item value="device Position" />
       <item value="operate Template Data" />
@@ -1005,7 +1010,6 @@
       <item value="template Desc" />
       <item value="template Type" />
       <item value="Bc Template List Service" />
-      <item value="Base Controller" />
       <item value="Bc Template Controller" />
       <item value="Bc Template List Data Search Filter" />
       <item value="Equals And Hash Code" />
@@ -1036,18 +1040,14 @@
       <item value="Invalid bound statement (not found)" />
       <item value="get Tenement Tree Data" />
       <item value="tenement Tree Vo" />
-      <item value="Bc Device Tenement Type Data Select Part View" />
-      <item value="Bc Device Tenement Tree Vo" />
-      <item value="Device Tenement Constants" />
-      <item value="TENEMENT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4892" />
+        <entry key="CHINESE" value="4900" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4893" />
+        <entry key="ENGLISH" value="4901" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
