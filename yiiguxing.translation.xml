@@ -990,9 +990,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="device Position" />
+      <item value="operate Template Data" />
+      <item value="content Form" />
+      <item value="get By Id" />
+      <item value="bc Template List Service" />
+      <item value="template Info" />
+      <item value="set Template Content" />
+      <item value="update Flag" />
+      <item value="success" />
       <item value="result Table" />
       <item value="987072248" />
-      <item value="bc Template List Service" />
       <item value="template Desc" />
       <item value="template Type" />
       <item value="Bc Template List Service" />
@@ -1032,22 +1040,14 @@
       <item value="Device Tenement Constants" />
       <item value="TENEMENT" />
       <item value="cell Item" />
-      <item value="for Each" />
-      <item value="为当前root节点附魔" />
-      <item value="TENEMENT TREE ROOT PARENT NODE" />
-      <item value="TENEMENT TREE ROOT NODE" />
-      <item value="tenement Type" />
-      <item value="tenement name" />
-      <item value="tenement type" />
-      <item value="tenement Type Data Part View List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4881" />
+        <entry key="CHINESE" value="4891" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4882" />
+        <entry key="ENGLISH" value="4892" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
