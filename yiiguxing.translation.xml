@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result Table" />
       <item value="987072248" />
       <item value="bc Template List Service" />
       <item value="template Desc" />
@@ -1005,7 +1006,6 @@
       <item value="e" />
       <item value="yyyy-MM-dd HH:mm:ss" />
       <item value="yyyy" />
-      <item value="result Table" />
       <item value="Opcodes" />
       <item value="ACC STATIC" />
       <item value="Simple Annotation Metadata" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4880" />
+        <entry key="CHINESE" value="4881" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4881" />
+        <entry key="ENGLISH" value="4882" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
