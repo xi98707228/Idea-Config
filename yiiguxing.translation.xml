@@ -990,6 +990,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="template Desc" />
+      <item value="template Type" />
+      <item value="Bc Template List Service" />
+      <item value="bc Template List Service" />
+      <item value="Base Controller" />
+      <item value="Bc Template Controller" />
+      <item value="Bc Template List Data Search Filter" />
+      <item value="Equals And Hash Code" />
+      <item value="call Super" />
+      <item value="Bc Template List" />
+      <item value="Bc Template List Data Composition" />
+      <item value="e" />
+      <item value="yyyy-MM-dd HH:mm:ss" />
+      <item value="yyyy" />
       <item value="result Table" />
       <item value="Opcodes" />
       <item value="ACC STATIC" />
@@ -1008,7 +1022,6 @@
       <item value="template" />
       <item value="Zhkj Application" />
       <item value="Quartz Scheduler" />
-      <item value="bc Template List Service" />
       <item value="resolve Mapped Statement" />
       <item value="Invalid bound statement (not found)" />
       <item value="get Tenement Tree Data" />
@@ -1027,33 +1040,20 @@
       <item value="tenement type" />
       <item value="tenement Type Data Part View List" />
       <item value="search Filter" />
-      <item value="get Tenement Type By Type Code" />
-      <item value="next Tenement Type" />
-      <item value="Ajax Result" />
-      <item value="Bc Device Tenement Data Search Filter" />
-      <item value="Tenement Type" />
-      <item value="Bc Device Tenement Service Impl" />
-      <item value="Resource" />
-      <item value="Assets Tenement Data Search Filter" />
-      <item value="封装搜索信息实体" />
-      <item value="获取某一类型的数据信息" />
-      <item value="tenement" />
-      <item value="get Tenement Type Data List" />
-      <item value="now Tenement Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4864" />
+        <entry key="CHINESE" value="4878" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4865" />
+        <entry key="ENGLISH" value="4879" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="22" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="7" />
+        <entry key="ITALIAN" value="8" />
         <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
