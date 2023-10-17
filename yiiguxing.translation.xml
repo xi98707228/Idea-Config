@@ -992,6 +992,7 @@
     <histories>
       <item value="APP HEART DEVICE REDIS PREFIX" />
       <item value="APP HEART APPLY" />
+      <item value="Page" />
       <item value="============ Page ======================" />
       <item value="http" />
       <item value="remove Flag" />
@@ -1011,7 +1012,6 @@
       <item value="get Device Code" />
       <item value="get Cache Object" />
       <item value="redis Cache" />
-      <item value="Page" />
       <item value="Required Args Constructor" />
       <item value="Bc Template Controller" />
       <item value="Base Controller" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4928" />
+        <entry key="CHINESE" value="4933" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4929" />
+        <entry key="ENGLISH" value="4934" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="23" />
         <entry key="GALICIAN" value="1" />
