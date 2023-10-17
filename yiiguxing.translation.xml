@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Input Stream" />
+      <item value="return super.getInputStream();" />
+      <item value="Ruo Yi Request Param" />
+      <item value="generic Content" />
+      <item value="template Id" />
       <item value="open" />
       <item value="heartbeat" />
       <item value="is Allowed Extension" />
@@ -1035,19 +1040,14 @@
       <item value="ACC STATIC" />
       <item value="Simple Annotation Metadata" />
       <item value="get Annotated Methods" />
-      <item value="annotated Methods" />
-      <item value="Condition" />
-      <item value="Data Source Auto Configuration" />
-      <item value="get Template Data List" />
-      <item value="item Search Filter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4914" />
+        <entry key="CHINESE" value="4919" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="4915" />
+        <entry key="ENGLISH" value="4920" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="23" />
         <entry key="GALICIAN" value="1" />
