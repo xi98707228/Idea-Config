@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="redis Cache" />
       <item value="python Function" />
       <item value="Engine Python Data" />
       <item value="Python Util" />
@@ -1037,19 +1038,18 @@
       <item value="get Tenement Type" />
       <item value="get Device Code" />
       <item value="get Cache Object" />
-      <item value="redis Cache" />
       <item value="Required Args Constructor" />
       <item value="Bc Template Controller" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="4977" />
+        <entry key="CHINESE" value="4978" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="4978" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="23" />
+        <entry key="FRENCH" value="24" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
