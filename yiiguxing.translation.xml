@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Table Id" />
+      <item value="async Execution" />
+      <item value="JSON Object" />
+      <item value="api Config Properties" />
+      <item value="get Token" />
       <item value="api Userguide Zh" />
       <item value="Ruo Yi Application Test Starter" />
       <item value="get Send Speed" />
@@ -1035,19 +1040,14 @@
       <item value="Page" />
       <item value="============ Page ======================" />
       <item value="http" />
-      <item value="remove Flag" />
-      <item value="is Allowed Extension" />
-      <item value="File Upload Utils" />
-      <item value="get Input Stream" />
-      <item value="return super.getInputStream();" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5003" />
+        <entry key="CHINESE" value="5008" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5004" />
+        <entry key="ENGLISH" value="5009" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="24" />
         <entry key="GALICIAN" value="1" />
