@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="y" />
+      <item value="Tenement Type" />
       <item value="application Metric Value Service" />
       <item value="Path Variable" />
       <item value="get By Ip Disk Bytes Usage Rate" />
@@ -1038,16 +1040,14 @@
       <item value="_ENGINE" />
       <item value="longtext" />
       <item value="CHARACTER" />
-      <item value="987072248@qq.com" />
-      <item value="Builder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5016" />
+        <entry key="CHINESE" value="5018" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5017" />
+        <entry key="ENGLISH" value="5018" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="24" />
         <entry key="GALICIAN" value="1" />
@@ -1057,7 +1057,7 @@
         <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="SWEDISH" value="6" />
         <entry key="WELSH" value="1" />
       </map>
