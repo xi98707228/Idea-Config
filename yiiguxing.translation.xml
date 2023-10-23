@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="packet" />
+      <item value="milliseconds" />
+      <item value="received" />
+      <item value="successfully" />
+      <item value="create Communications Exception" />
       <item value="floor number" />
       <item value="parent Id" />
       <item value="tenement parent id" />
@@ -1035,19 +1040,14 @@
       <item value="Python Util" />
       <item value="Engine Display" />
       <item value="engine Display Vo" />
-      <item value="ENGINE TABLE FIELD" />
-      <item value="parse Fuel" />
-      <item value="Engine Data Item" />
-      <item value="calculate Result" />
-      <item value="engine Data Items" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5032" />
+        <entry key="CHINESE" value="5037" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5033" />
+        <entry key="ENGLISH" value="5038" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="24" />
         <entry key="GALICIAN" value="1" />
