@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="publish Device Ids" />
+      <item value="publish Template" />
+      <item value="Zhkj Application" />
+      <item value="log Started" />
+      <item value="Started ZhkjApplication in 14.947 seconds" />
+      <item value="Scheduler quartzScheduler__NON_CLUSTERED started" />
+      <item value="Quartz Scheduler" />
+      <item value="get Publish Device Ids" />
+      <item value="get Login User" />
       <item value="Active Publish Template" />
       <item value="event Publish Template Heart Flag" />
       <item value="redis Cache" />
@@ -1031,23 +1040,14 @@
       <item value="get Send Speed" />
       <item value="python Function" />
       <item value="python Command" />
-      <item value="算法运行只能有一个文件参与运算" />
-      <item value="源代码路径" />
-      <item value="需要进行运算分析的xlsx文件" />
-      <item value="==================== 运行 APU ==========================" />
-      <item value="运行" />
-      <item value="Display Type" />
-      <item value="FUEL" />
-      <item value="display Type" />
-      <item value="FUEL 算法运行只能有一个文件参与运算 FUEL 系统参数: 1. python 指令 2. python 源代码路径 3. 需要进行运算分析的文件路径" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5043" />
+        <entry key="CHINESE" value="5057" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5044" />
+        <entry key="ENGLISH" value="5058" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
