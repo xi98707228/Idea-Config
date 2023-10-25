@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Login User" />
+      <item value="act Publish Device Info" />
       <item value="save Or Update" />
       <item value="active Publish Template Service" />
       <item value="publish Device Ids" />
@@ -1000,13 +1002,11 @@
       <item value="Scheduler quartzScheduler__NON_CLUSTERED started" />
       <item value="Quartz Scheduler" />
       <item value="get Publish Device Ids" />
-      <item value="get Login User" />
       <item value="Active Publish Template" />
       <item value="event Publish Template Heart Flag" />
       <item value="redis Cache" />
       <item value="device Redis Key" />
       <item value="get Template Id" />
-      <item value="act Publish Device Info" />
       <item value="packet" />
       <item value="milliseconds" />
       <item value="received" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5059" />
+        <entry key="CHINESE" value="5061" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5060" />
+        <entry key="ENGLISH" value="5062" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
