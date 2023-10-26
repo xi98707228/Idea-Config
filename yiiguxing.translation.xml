@@ -990,8 +990,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Act Template Attach Mapper" />
+      <item value="file" />
+      <item value="files" />
+      <item value="Security Utils" />
+      <item value="Multipart File" />
       <item value="Act Template Attach Composition" />
+      <item value="is Absolute" />
+      <item value="Part" />
+      <item value="Act Template Attach Mapper" />
       <item value="Resource" />
       <item value="list" />
       <item value="attach" />
@@ -1034,20 +1040,14 @@
       <item value="tenement parent id" />
       <item value="tenement Type" />
       <item value="tenement Name" />
-      <item value="tenement name" />
-      <item value="tenement status" />
-      <item value="tenement Status" />
-      <item value="查找含有当前parent Id的楼宇信息" />
-      <item value="null" />
-      <item value="tenement ancestors" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5084" />
+        <entry key="CHINESE" value="5092" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5085" />
+        <entry key="ENGLISH" value="5093" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
