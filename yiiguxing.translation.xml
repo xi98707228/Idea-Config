@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Act Template Attach Composition" />
+      <item value="Act Template Attach Mapper" />
+      <item value="Resource" />
       <item value="list" />
       <item value="attach" />
       <item value="act Template Attach Service" />
@@ -1037,17 +1040,14 @@
       <item value="查找含有当前parent Id的楼宇信息" />
       <item value="null" />
       <item value="tenement ancestors" />
-      <item value="get Tenement Type Data List" />
-      <item value="y" />
-      <item value="Tenement Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5079" />
+        <entry key="CHINESE" value="5082" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5080" />
+        <entry key="ENGLISH" value="5083" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
