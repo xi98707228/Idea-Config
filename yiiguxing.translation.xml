@@ -990,24 +990,27 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="异步刷新设备状态" />
+      <item value="Active Publish Template" />
+      <item value="copy Properties" />
+      <item value="Bean Utils" />
+      <item value="publish Template" />
+      <item value="act Publish Device Info" />
       <item value="template" />
       <item value="get User Id" />
       <item value="store Attach" />
       <item value="resolve Duration Time To Except Level" />
       <item value="select Bc Template Data List" />
       <item value="get Login User" />
-      <item value="act Publish Device Info" />
       <item value="save Or Update" />
       <item value="active Publish Template Service" />
       <item value="publish Device Ids" />
-      <item value="publish Template" />
       <item value="Zhkj Application" />
       <item value="log Started" />
       <item value="Started ZhkjApplication in 14.947 seconds" />
       <item value="Scheduler quartzScheduler__NON_CLUSTERED started" />
       <item value="Quartz Scheduler" />
       <item value="get Publish Device Ids" />
-      <item value="Active Publish Template" />
       <item value="event Publish Template Heart Flag" />
       <item value="redis Cache" />
       <item value="device Redis Key" />
@@ -1037,17 +1040,14 @@
       <item value="api Config Properties" />
       <item value="is Not Empty" />
       <item value="get Flow Type List" />
-      <item value="key Set" />
-      <item value="Table Id" />
-      <item value="async Execution" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5066" />
+        <entry key="CHINESE" value="5071" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5067" />
+        <entry key="ENGLISH" value="5072" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
