@@ -990,9 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bc Edu Class Schedule" />
       <item value="room Schedule Config Data List" />
       <item value="schedule Head Detail Part Dto" />
-      <item value="Bc Edu Class Schedule" />
       <item value="bc Edu Class Time Slot Mapper" />
       <item value="school Term" />
       <item value="Date" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5143" />
+        <entry key="CHINESE" value="5144" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5144" />
+        <entry key="ENGLISH" value="5145" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
