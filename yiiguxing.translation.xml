@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Process Future Status Call" />
+      <item value="Network Attack Plan Controller" />
       <item value="网页篡改事件应急响应处置流程" />
       <item value="network Attack" />
       <item value="ailpha" />
@@ -1038,16 +1040,14 @@
       <item value="Security Utils" />
       <item value="Multipart File" />
       <item value="Act Template Attach Composition" />
-      <item value="is Absolute" />
-      <item value="Part" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5148" />
+        <entry key="CHINESE" value="5149" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5148" />
+        <entry key="ENGLISH" value="5150" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
