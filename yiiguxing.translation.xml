@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="网页篡改事件应急响应处置流程" />
       <item value="network Attack" />
       <item value="ailpha" />
       <item value="Bc Edu Class Schedule" />
@@ -1039,15 +1040,14 @@
       <item value="Act Template Attach Composition" />
       <item value="is Absolute" />
       <item value="Part" />
-      <item value="Act Template Attach Mapper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5146" />
+        <entry key="CHINESE" value="5148" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5147" />
+        <entry key="ENGLISH" value="5148" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
