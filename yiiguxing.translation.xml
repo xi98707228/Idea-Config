@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenement Parent Id" />
+      <item value="device Code" />
+      <item value="来请求课表模板数据的" />
+      <item value="哪个设备码" />
+      <item value="get Template Schedule Data" />
       <item value="Template Schedule Data Controller" />
       <item value="Template Schedule Data Service" />
       <item value="获取当前设备模板的课表数据信息" />
@@ -1035,19 +1040,14 @@
       <item value="resolve Duration Time To Except Level" />
       <item value="select Bc Template Data List" />
       <item value="get Login User" />
-      <item value="save Or Update" />
-      <item value="active Publish Template Service" />
-      <item value="publish Device Ids" />
-      <item value="Zhkj Application" />
-      <item value="log Started" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5114" />
+        <entry key="CHINESE" value="5118" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5115" />
+        <entry key="ENGLISH" value="5119" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
