@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Template Schedule Data Controller" />
+      <item value="Template Schedule Data Service" />
+      <item value="获取当前设备模板的课表数据信息" />
       <item value="bc edu class courses" />
       <item value="school Schedule" />
       <item value="再次遍历子节点层级数据" />
@@ -1037,17 +1040,14 @@
       <item value="publish Device Ids" />
       <item value="Zhkj Application" />
       <item value="log Started" />
-      <item value="Started ZhkjApplication in 14.947 seconds" />
-      <item value="Scheduler quartzScheduler__NON_CLUSTERED started" />
-      <item value="Quartz Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5112" />
+        <entry key="CHINESE" value="5114" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5113" />
+        <entry key="ENGLISH" value="5115" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
