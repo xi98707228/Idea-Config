@@ -990,15 +990,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="template" />
+      <item value="param" />
+      <item value="device Code" />
+      <item value="哪个设备码" />
+      <item value="获取当前设备模板的课表数据信息" />
+      <item value="来请求课表模板数据的" />
+      <item value="schedule" />
+      <item value="get Template Schedule Data" />
+      <item value="now Device Bind Tenement Row Data" />
+      <item value="Bc Device Tenement" />
+      <item value="Request Param" />
+      <item value="bc Device Tenement Service" />
       <item value="course Cycle" />
       <item value="tenement Parent Id" />
-      <item value="device Code" />
-      <item value="来请求课表模板数据的" />
-      <item value="哪个设备码" />
-      <item value="get Template Schedule Data" />
       <item value="Template Schedule Data Controller" />
       <item value="Template Schedule Data Service" />
-      <item value="获取当前设备模板的课表数据信息" />
       <item value="bc edu class courses" />
       <item value="school Schedule" />
       <item value="再次遍历子节点层级数据" />
@@ -1027,27 +1034,20 @@
       <item value="list" />
       <item value="attach" />
       <item value="act Template Attach Service" />
-      <item value="template" />
       <item value="Act Template Attach Controller" />
       <item value="success" />
       <item value="异步刷新设备状态" />
       <item value="Active Publish Template" />
       <item value="copy Properties" />
       <item value="Bean Utils" />
-      <item value="publish Template" />
-      <item value="act Publish Device Info" />
-      <item value="get User Id" />
-      <item value="store Attach" />
-      <item value="resolve Duration Time To Except Level" />
-      <item value="select Bc Template Data List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5119" />
+        <entry key="CHINESE" value="5134" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5120" />
+        <entry key="ENGLISH" value="5135" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
