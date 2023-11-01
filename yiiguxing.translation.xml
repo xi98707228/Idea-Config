@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="room Code" />
+      <item value="error" />
       <item value="bc Template List Service" />
       <item value="get Template Id" />
       <item value="Process Future Status Call" />
@@ -1038,16 +1040,14 @@
       <item value="allowed Extension" />
       <item value="merge Allow Types" />
       <item value="upload Flag" />
-      <item value="files" />
-      <item value="Security Utils" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5152" />
+        <entry key="CHINESE" value="5154" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5153" />
+        <entry key="ENGLISH" value="5155" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
