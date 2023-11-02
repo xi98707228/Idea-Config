@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ONLINE ADDER" />
+      <item value="Concurrent Hash Map" />
+      <item value="每个客户端对应一个唯一Id" />
+      <item value="Web Socket Template Session" />
+      <item value="WEBSOCKET TEMPLATE PUSH LOGGER" />
+      <item value="send Client Info" />
+      <item value="并返回连接成功" />
+      <item value="存储数据" />
+      <item value="do Close Socket" />
       <item value="Illegal State Exception" />
       <item value="NORMAL CLOSURE" />
       <item value="Close Reason" />
@@ -1031,23 +1040,14 @@
       <item value="来请求课表模板数据的" />
       <item value="schedule" />
       <item value="get Template Schedule Data" />
-      <item value="now Device Bind Tenement Row Data" />
-      <item value="Bc Device Tenement" />
-      <item value="Request Param" />
-      <item value="bc Device Tenement Service" />
-      <item value="course Cycle" />
-      <item value="tenement Parent Id" />
-      <item value="Template Schedule Data Controller" />
-      <item value="Template Schedule Data Service" />
-      <item value="bc edu class courses" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5178" />
+        <entry key="CHINESE" value="5186" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5179" />
+        <entry key="ENGLISH" value="5187" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
