@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="比原子更新类" />
       <item value="send Object By Completion" />
       <item value="send Client Info" />
       <item value="cas Cells Busy" />
@@ -1039,12 +1040,11 @@
       <item value="null" />
       <item value="template" />
       <item value="param" />
-      <item value="device Code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5192" />
+        <entry key="CHINESE" value="5193" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="5193" />
