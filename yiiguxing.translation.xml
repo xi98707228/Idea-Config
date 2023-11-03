@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cas Cells Busy" />
+      <item value="Web Socket" />
+      <item value="do Connection Socket" />
       <item value="Required Args Constructor" />
       <item value="ONLINE ADDER" />
       <item value="Concurrent Hash Map" />
@@ -1037,17 +1040,14 @@
       <item value="param" />
       <item value="device Code" />
       <item value="哪个设备码" />
-      <item value="获取当前设备模板的课表数据信息" />
-      <item value="来请求课表模板数据的" />
-      <item value="schedule" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5187" />
+        <entry key="CHINESE" value="5190" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5188" />
+        <entry key="ENGLISH" value="5191" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
