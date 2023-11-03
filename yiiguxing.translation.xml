@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Remote Endpoint" />
       <item value="request Data" />
       <item value="Web Socket Client Indicate" />
       <item value="一般发送的就是JSON数据" />
@@ -1039,15 +1040,14 @@
       <item value="room Code" />
       <item value="error" />
       <item value="bc Template List Service" />
-      <item value="get Template Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5208" />
+        <entry key="CHINESE" value="5209" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5209" />
+        <entry key="ENGLISH" value="5210" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
