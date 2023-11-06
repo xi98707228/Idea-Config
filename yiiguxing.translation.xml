@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="user" />
+      <item value="Http Utils" />
+      <item value="success" />
+      <item value="成功" />
       <item value="byte Buffer" />
       <item value="capacity" />
       <item value="remaining" />
@@ -1036,18 +1040,14 @@
       <item value="parse Object" />
       <item value="THREAD POOL TASK EXECUTOR" />
       <item value="socket Client Indicate" />
-      <item value="Striped 64" />
-      <item value="serial Version UID" />
-      <item value="send Client Info" />
-      <item value="is Assignable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5319" />
+        <entry key="CHINESE" value="5323" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5320" />
+        <entry key="ENGLISH" value="5324" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
