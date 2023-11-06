@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1698824644227" />
+    <option name="lastTrimTime" value="1699256644963" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -990,8 +990,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="execute Business Logic" />
+      <item value="Seekable Byte Channel" />
+      <item value="reserve Memory" />
+      <item value="allocate Memory" />
+      <item value="read Into Native Buffer" />
+      <item value="seekable Byte Channel" />
+      <item value="Byte Buffer" />
+      <item value="read" />
+      <item value="SIZED" />
+      <item value="SPLITERATOR CHARACTERISTICS" />
+      <item value="flip" />
+      <item value="IO Exception" />
+      <item value="Video Request" />
+      <item value="Writable Byte Channel" />
+      <item value="Readable Byte Channel" />
+      <item value="yte" />
+      <item value="is Slash" />
+      <item value="to File" />
       <item value="TEMPLATE ATTACH SERVICE" />
+      <item value="execute Business Logic" />
       <item value="video Request" />
       <item value="Web Socket Client Indicate" />
       <item value="分发本次" />
@@ -1002,7 +1019,6 @@
       <item value="to JSON String" />
       <item value="series Type" />
       <item value="get Indicate Code" />
-      <item value="Video Request" />
       <item value="client Indicate" />
       <item value="Concurrent Hash Map" />
       <item value="cache Field Based" />
@@ -1024,36 +1040,21 @@
       <item value="二进制数据流数据" />
       <item value="or Else Throw" />
       <item value="Exception" />
-      <item value="Runtime Exception" />
-      <item value="parse Transport Indicate" />
-      <item value="parse Transport" />
-      <item value="rawtypes" />
-      <item value="series" />
-      <item value="Serializable" />
-      <item value="indicate" />
-      <item value="Web Socket Request" />
-      <item value="web Socket Request" />
-      <item value="session" />
-      <item value="bytes" />
-      <item value="String" />
-      <item value="Integer" />
-      <item value="main" />
-      <item value="buffer" />
-      <item value="put Int Val" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5294" />
+        <entry key="CHINESE" value="5316" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5295" />
+        <entry key="ENGLISH" value="5317" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="8" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
