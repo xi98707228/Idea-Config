@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compact" />
+      <item value="remaining" />
       <item value="web Socket Request" />
       <item value="socket Client Indicate" />
       <item value="Web Socket Client Indicate" />
@@ -1008,7 +1010,6 @@
       <item value="成功" />
       <item value="byte Buffer" />
       <item value="capacity" />
-      <item value="remaining" />
       <item value="reserve Memory" />
       <item value="allocate Memory" />
       <item value="read Into Native Buffer" />
@@ -1039,15 +1040,14 @@
       <item value="Concurrent Hash Map" />
       <item value="cache Field Based" />
       <item value="indicate Code" />
-      <item value="transport Indicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5339" />
+        <entry key="CHINESE" value="5341" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5340" />
+        <entry key="ENGLISH" value="5342" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
