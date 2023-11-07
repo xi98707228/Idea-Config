@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Web Application Context" />
       <item value="compact" />
       <item value="remaining" />
       <item value="web Socket Request" />
@@ -1039,15 +1040,14 @@
       <item value="client Indicate" />
       <item value="Concurrent Hash Map" />
       <item value="cache Field Based" />
-      <item value="indicate Code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5341" />
+        <entry key="CHINESE" value="5342" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5342" />
+        <entry key="ENGLISH" value="5343" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="25" />
         <entry key="GALICIAN" value="1" />
