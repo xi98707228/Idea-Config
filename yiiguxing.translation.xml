@@ -990,6 +990,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sql Provider" />
+      <item value="big Screen Right Api Service" />
+      <item value="get Screen Top" />
+      <item value="type Name" />
+      <item value="dept Tj Name Map" />
+      <item value="children Parent Dept Map" />
+      <item value="tj Depts" />
+      <item value="progress Type" />
+      <item value="type Progress List" />
+      <item value="type List" />
+      <item value="get Type Id" />
+      <item value="progress Service" />
+      <item value="get Progress Type" />
       <item value="qj" />
       <item value="cz Process Avg" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
@@ -998,7 +1011,6 @@
       <item value="temp Part" />
       <item value="区间" />
       <item value="security info" />
-      <item value="type List" />
       <item value="Rate Of Progress Manage Type" />
       <item value="Rate Of Progress Manage Data" />
       <item value="get Screen Right Top" />
@@ -1016,8 +1028,6 @@
       <item value="security Temp List" />
       <item value="security Info List" />
       <item value="String" />
-      <item value="dept Tj Name Map" />
-      <item value="tj Depts" />
       <item value="children" />
       <item value="is Empty" />
       <item value="Collection Utils" />
@@ -1030,24 +1040,14 @@
       <item value="select Tu J" />
       <item value="check Dept Exist User" />
       <item value="left Top Part 2 Map" />
-      <item value="Big Screen Left Top Vo" />
-      <item value="normalize" />
-      <item value="finish Total" />
-      <item value="隐患完成情况图表数据" />
-      <item value="part 2" />
-      <item value="metafactory" />
-      <item value="Web Application Context" />
-      <item value="compact" />
-      <item value="remaining" />
-      <item value="web Socket Request" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5396" />
+        <entry key="CHINESE" value="5412" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5397" />
+        <entry key="ENGLISH" value="5413" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
