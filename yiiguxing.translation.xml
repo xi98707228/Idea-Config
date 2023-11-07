@@ -990,6 +990,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="qj" />
+      <item value="cz Process Avg" />
+      <item value="Non-terminating decimal expansion; no exact representable decimal result." />
+      <item value="车站" />
+      <item value="Right Top Part 2" />
+      <item value="temp Part" />
+      <item value="区间" />
+      <item value="security info" />
+      <item value="type List" />
+      <item value="Rate Of Progress Manage Type" />
+      <item value="Rate Of Progress Manage Data" />
+      <item value="get Screen Right Top" />
+      <item value="be" />
+      <item value="Default Sql Session" />
+      <item value="ibatis.session.defaults" />
+      <item value="Connection Proxy Impl" />
+      <item value="Right Api" />
+      <item value="Big Screen Right Api Service Impl" />
+      <item value="screen Left Bottom Vo" />
       <item value="element cannot be mapped to a null key" />
       <item value="to Map" />
       <item value="Collectors" />
@@ -1021,33 +1040,14 @@
       <item value="compact" />
       <item value="remaining" />
       <item value="web Socket Request" />
-      <item value="socket Client Indicate" />
-      <item value="Web Socket Client Indicate" />
-      <item value="Buffer Underflow Exception" />
-      <item value="offset" />
-      <item value="rewind" />
-      <item value="flip" />
-      <item value="next Get Index" />
-      <item value="check Index" />
-      <item value="position" />
-      <item value="Seekable Byte Channel" />
-      <item value="new Byte Channel" />
-      <item value="user" />
-      <item value="Http Utils" />
-      <item value="success" />
-      <item value="成功" />
-      <item value="byte Buffer" />
-      <item value="capacity" />
-      <item value="reserve Memory" />
-      <item value="allocate Memory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5373" />
+        <entry key="CHINESE" value="5396" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5374" />
+        <entry key="ENGLISH" value="5397" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
