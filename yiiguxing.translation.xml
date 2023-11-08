@@ -990,6 +990,43 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="access Token" />
+      <item value="autoplay" />
+      <item value="read Only Http Headers" />
+      <item value="Map implementation" />
+      <item value="Linked Multi Value Map" />
+      <item value="response Entity" />
+      <item value="Accessible Object" />
+      <item value="Reflective Method Invocation" />
+      <item value="set Proxy Context" />
+      <item value="Make invocation available if necessary." />
+      <item value="expose Proxy" />
+      <item value="is Opaque" />
+      <item value="candidate" />
+      <item value="Configuration Properties" />
+      <item value="CGLIB CLASS SEPARATOR" />
+      <item value="ultimate Target Class" />
+      <item value="advised" />
+      <item value="opaque" />
+      <item value="invoke Joinpoint Using Reflection" />
+      <item value="hash Code Defined" />
+      <item value="Advised Support" />
+      <item value="get Default Class Loader" />
+      <item value="aopalliance" />
+      <item value="Abstract Remote Slsb Invoker Interceptor" />
+      <item value="stereotype" />
+      <item value="screen Right Top Vo" />
+      <item value="merge Sort" />
+      <item value="legacy Merge Sort" />
+      <item value="pivot" />
+      <item value="qj Process Avg" />
+      <item value="handle" />
+      <item value="Gateway Exception Handler" />
+      <item value="网关异常处理]请求路径" />
+      <item value="网关异常处理" />
+      <item value="异常信息" />
+      <item value="get Over View" />
+      <item value="three" />
       <item value="Attaching" />
       <item value="Sql Provider" />
       <item value="big Screen Right Api Service" />
@@ -1003,51 +1040,14 @@
       <item value="type List" />
       <item value="get Type Id" />
       <item value="progress Service" />
-      <item value="get Progress Type" />
-      <item value="qj" />
-      <item value="cz Process Avg" />
-      <item value="Non-terminating decimal expansion; no exact representable decimal result." />
-      <item value="车站" />
-      <item value="Right Top Part 2" />
-      <item value="temp Part" />
-      <item value="区间" />
-      <item value="security info" />
-      <item value="Rate Of Progress Manage Type" />
-      <item value="Rate Of Progress Manage Data" />
-      <item value="get Screen Right Top" />
-      <item value="be" />
-      <item value="Default Sql Session" />
-      <item value="ibatis.session.defaults" />
-      <item value="Connection Proxy Impl" />
-      <item value="Right Api" />
-      <item value="Big Screen Right Api Service Impl" />
-      <item value="screen Left Bottom Vo" />
-      <item value="element cannot be mapped to a null key" />
-      <item value="to Map" />
-      <item value="Collectors" />
-      <item value="collect" />
-      <item value="security Temp List" />
-      <item value="security Info List" />
-      <item value="String" />
-      <item value="children" />
-      <item value="is Empty" />
-      <item value="Collection Utils" />
-      <item value="Left Bottom Part" />
-      <item value="Big Screen Left Bottom Vo" />
-      <item value="隐患数据" />
-      <item value="hidden Danger Info" />
-      <item value="fx Total Finish" />
-      <item value="Array List" />
-      <item value="select Tu J" />
-      <item value="check Dept Exist User" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5413" />
+        <entry key="CHINESE" value="5451" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5414" />
+        <entry key="ENGLISH" value="5452" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
