@@ -990,8 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="duplicate" />
       <item value="seekable Byte Channel" />
+      <item value="duplicate" />
       <item value="access Token" />
       <item value="autoplay" />
       <item value="read Only Http Headers" />
@@ -1044,10 +1044,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5453" />
+        <entry key="CHINESE" value="5454" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5454" />
+        <entry key="ENGLISH" value="5455" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
