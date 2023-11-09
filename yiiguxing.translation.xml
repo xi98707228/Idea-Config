@@ -990,8 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="web Socket Request" />
+      <item value="si" />
+      <item value="ze" />
       <item value="Web Socket Template Info Push Server" />
+      <item value="web Socket Request" />
       <item value="async Execution Pool" />
       <item value="socket Client Indicate" />
       <item value="一般发送的就是JSON数据" />
@@ -1038,24 +1040,22 @@
       <item value="three" />
       <item value="Attaching" />
       <item value="Sql Provider" />
-      <item value="big Screen Right Api Service" />
-      <item value="get Screen Top" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5461" />
+        <entry key="CHINESE" value="5463" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5462" />
+        <entry key="ENGLISH" value="5463" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="8" />
+        <entry key="ITALIAN" value="9" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="POLISH" value="2" />
+        <entry key="POLISH" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="6" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SPANISH" value="2" />
