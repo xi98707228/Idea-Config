@@ -990,64 +990,64 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Test Synchronized Show" />
+      <item value="_1_quickstart" />
+      <item value="System" />
+      <item value="然后才加载Test Synchronized Show" />
+      <item value="error Synchronized" />
+      <item value="claim" />
+      <item value="存在异常时" />
+      <item value="执行任务A" />
+      <item value="concurrent" />
+      <item value="Arithmetic Exception" />
+      <item value="Completion Exception" />
+      <item value="encode Throwable" />
+      <item value="complete Throwable" />
+      <item value="try Fire" />
+      <item value="exceptionally" />
+      <item value="then Compose" />
+      <item value="apply To Either" />
+      <item value="flag T 2的可见性" />
+      <item value="加入到线程工作内存之前" />
+      <item value="这个加锁的位置是在" />
+      <item value="此例synchronized代码块写在while里边" />
+      <item value="getstatic" />
+      <item value="ldc" />
+      <item value="monitorenter" />
+      <item value="aload_0" />
+      <item value="monitorexit" />
+      <item value="execute Business Logic" />
+      <item value="2293" />
+      <item value="set" />
+      <item value="09:36:36.100 [restartedMain] INFO o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@67bc7efc" />
+      <item value="Spring Bean Job Factory" />
+      <item value="09:36:39.516 [restartedMain] INFO o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler [&quot;http-nio-16000&quot;]" />
+      <item value="Job Factory" />
+      <item value="springframework" />
+      <item value="09:36:39.555 [restartedMain] INFO o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler__NON_CLUSTERED started." />
+      <item value="09:36:39.575 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 30.926 seconds (JVM running for 35.82)" />
+      <item value="Zhkj Application" />
+      <item value="receive Message" />
+      <item value="do Connection Socket" />
+      <item value="String Utils" />
+      <item value="is Empty" />
+      <item value="前端异常 通过抓包发送 则直接关闭当前创建的session对象" />
+      <item value="正常则建立连接 存储数据 并返回连接成功" />
+      <item value="正常则建立连接" />
+      <item value="存储数据" />
       <item value="Scheduler" />
       <item value="客户端发送的JSON数据" />
       <item value="当前会话" />
       <item value="Quartz Scheduler" />
       <item value="Http 11 Nio Protocol" />
-      <item value="Zhkj Application" />
-      <item value="start" />
-      <item value="Protocol Handler" />
-      <item value="log Started" />
-      <item value="quartz Scheduler NON CLUSTERED" />
-      <item value="allocate" />
-      <item value="send Binary Byte Buffer" />
-      <item value="seekable Byte Channel" />
-      <item value="execute Business Logic" />
-      <item value="THREAD POOL TASK EXECUTOR" />
-      <item value="一般发送的就是JSON数据" />
-      <item value="si" />
-      <item value="ze" />
-      <item value="Web Socket Template Info Push Server" />
-      <item value="web Socket Request" />
-      <item value="async Execution Pool" />
-      <item value="socket Client Indicate" />
-      <item value="send Client Info" />
-      <item value="DEFAULT BATCH BUFFER BYTE SIZE" />
-      <item value="duplicate" />
-      <item value="access Token" />
-      <item value="autoplay" />
-      <item value="read Only Http Headers" />
-      <item value="Map implementation" />
-      <item value="Linked Multi Value Map" />
-      <item value="response Entity" />
-      <item value="Accessible Object" />
-      <item value="Reflective Method Invocation" />
-      <item value="set Proxy Context" />
-      <item value="Make invocation available if necessary." />
-      <item value="expose Proxy" />
-      <item value="is Opaque" />
-      <item value="candidate" />
-      <item value="Configuration Properties" />
-      <item value="CGLIB CLASS SEPARATOR" />
-      <item value="ultimate Target Class" />
-      <item value="advised" />
-      <item value="opaque" />
-      <item value="invoke Joinpoint Using Reflection" />
-      <item value="hash Code Defined" />
-      <item value="Advised Support" />
-      <item value="get Default Class Loader" />
-      <item value="aopalliance" />
-      <item value="Abstract Remote Slsb Invoker Interceptor" />
-      <item value="stereotype" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5483" />
+        <entry key="CHINESE" value="5536" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5484" />
+        <entry key="ENGLISH" value="5537" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
