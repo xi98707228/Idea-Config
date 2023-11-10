@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="removing front item; just advance" />
+      <item value="put Index" />
+      <item value="element Dequeued" />
+      <item value="remove Index" />
+      <item value="take Index" />
       <item value="Enumeration" />
       <item value="Assoc Array" />
       <item value="Dictionary" />
@@ -1035,19 +1040,14 @@
       <item value="apply To Either" />
       <item value="flag T 2的可见性" />
       <item value="加入到线程工作内存之前" />
-      <item value="这个加锁的位置是在" />
-      <item value="此例synchronized代码块写在while里边" />
-      <item value="getstatic" />
-      <item value="ldc" />
-      <item value="monitorenter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5564" />
+        <entry key="CHINESE" value="5570" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5565" />
+        <entry key="ENGLISH" value="5571" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
