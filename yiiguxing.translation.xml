@@ -990,12 +990,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="send Message Type Of Interactive" />
+      <item value="app Store Access Token Data" />
+      <item value="check Is Alive Field By Name" />
+      <item value="init Super Class" />
+      <item value="Terminal Pool" />
+      <item value="Ajax Result" />
+      <item value="success" />
+      <item value="get Data Table" />
       <item value="query List" />
       <item value="Network Tamper Urgent Dispose Process" />
-      <item value="get Data Table" />
       <item value="process" />
       <item value="get Process Data List" />
-      <item value="success" />
       <item value="network tamper urgent dispose process" />
       <item value="row id" />
       <item value="row Id" />
@@ -1034,20 +1040,14 @@
       <item value="elements" />
       <item value="Test Synchronized Show" />
       <item value="_1_quickstart" />
-      <item value="System" />
-      <item value="然后才加载Test Synchronized Show" />
-      <item value="error Synchronized" />
-      <item value="claim" />
-      <item value="存在异常时" />
-      <item value="执行任务A" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5582" />
+        <entry key="CHINESE" value="5591" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5583" />
+        <entry key="ENGLISH" value="5592" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
