@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="error" />
+      <item value="form Process" />
       <item value="file Path" />
       <item value="target File Path" />
       <item value="source File Path" />
@@ -1004,7 +1007,6 @@
       <item value="check Is Alive Field By Name" />
       <item value="init Super Class" />
       <item value="Terminal Pool" />
-      <item value="Ajax Result" />
       <item value="success" />
       <item value="get Data Table" />
       <item value="query List" />
@@ -1038,16 +1040,14 @@
       <item value="Sync" />
       <item value="Nonfair Sync" />
       <item value="permits" />
-      <item value="try Acquire Shared" />
-      <item value="nonfair Try Acquire Shared" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5602" />
+        <entry key="CHINESE" value="5605" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5603" />
+        <entry key="ENGLISH" value="5606" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
