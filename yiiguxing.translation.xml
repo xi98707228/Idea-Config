@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="apply Cause" />
+      <item value="String" />
+      <item value="process Handle" />
       <item value="Warn" />
       <item value="fill Rect" />
       <item value="Graphics 2 D" />
@@ -1037,17 +1040,14 @@
       <item value="remove Index" />
       <item value="take Index" />
       <item value="Enumeration" />
-      <item value="Assoc Array" />
-      <item value="Dictionary" />
-      <item value="V Task" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5617" />
+        <entry key="CHINESE" value="5620" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5618" />
+        <entry key="ENGLISH" value="5621" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="27" />
         <entry key="GALICIAN" value="1" />
