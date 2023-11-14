@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提交保存物料入库信息表单数据" />
+      <item value="987072248" />
       <item value="urgent" />
       <item value="Network Tamper Urgent Dispose Process" />
       <item value="Dictionary Parse" />
@@ -1038,13 +1040,11 @@
       <item value="attach Row Id" />
       <item value="send Message Type Of Interactive" />
       <item value="app Store Access Token Data" />
-      <item value="check Is Alive Field By Name" />
-      <item value="init Super Class" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5637" />
+        <entry key="CHINESE" value="5638" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="5638" />
