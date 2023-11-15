@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="987072248" />
+      <item value="Bm To Decorate Apply Service" />
+      <item value="所有的二次装修申请列表信息" />
       <item value="phonenumber" />
       <item value="child Value" />
       <item value="Note about the holder: 1. holder self is a InheritableThreadLocal(a ThreadLocal). 2. The type of value in the holder is WeakHashMap&lt;TransmittableThreadLocal&lt;Object&gt;, ?&gt;. 2.1 but the WeakHashMap is used as a Set: the value of WeakHashMap is always null, and never used. 2.2 WeakHashMap support null value." />
@@ -1005,7 +1008,6 @@
       <item value="tenement Id" />
       <item value="decorate Type" />
       <item value="qq" />
-      <item value="987072248" />
       <item value="Decorate Type" />
       <item value="decorate Purpose Type" />
       <item value="COMPLETED" />
@@ -1038,16 +1040,14 @@
       <item value="ptid" />
       <item value="ID WORKER STR" />
       <item value="network tamper urgent dispose process" />
-      <item value="Urgent" />
-      <item value="support" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5683" />
+        <entry key="CHINESE" value="5686" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5684" />
+        <entry key="ENGLISH" value="5687" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
