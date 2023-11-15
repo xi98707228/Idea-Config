@@ -990,6 +990,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="child Value" />
+      <item value="Note about the holder: 1. holder self is a InheritableThreadLocal(a ThreadLocal). 2. The type of value in the holder is WeakHashMap&lt;TransmittableThreadLocal&lt;Object&gt;, ?&gt;. 2.1 but the WeakHashMap is used as a Set: the value of WeakHashMap is always null, and never used. 2.2 WeakHashMap support null value." />
+      <item value="add This To Holder" />
+      <item value="disable Ignore Null Value Semantics" />
+      <item value="Transmittable Thread Local" />
       <item value="iv Task Service" />
       <item value="Query Wrapper" />
       <item value="执行保存" />
@@ -1035,19 +1040,14 @@
       <item value="Urgent" />
       <item value="support" />
       <item value="Scheduled Method Runnable" />
-      <item value="scheduling" />
-      <item value="Delegating Error Handling Runnable" />
-      <item value="Ruoyi Scheduler Quartz Scheduler Thread" />
-      <item value="time" />
-      <item value="test Connection Internal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5676" />
+        <entry key="CHINESE" value="5682" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5677" />
+        <entry key="ENGLISH" value="5683" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
