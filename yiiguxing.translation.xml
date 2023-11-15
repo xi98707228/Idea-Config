@@ -990,6 +990,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关联楼宇" />
+      <item value="tenement Id" />
+      <item value="decorate Type" />
+      <item value="qq" />
+      <item value="987072248" />
+      <item value="Decorate Type" />
       <item value="decorate Purpose Type" />
       <item value="COMPLETED" />
       <item value="IN HANDLE" />
@@ -1008,14 +1014,12 @@
       <item value="decorate Drawing Status" />
       <item value="decorate Draw Status" />
       <item value="decorate Graph Status" />
-      <item value="decorate Type" />
       <item value="Bm To Decorate Apply" />
       <item value="copyright Year" />
       <item value="org" />
       <item value="springframework" />
       <item value="ruoyi" />
       <item value="提交保存物料入库信息表单数据" />
-      <item value="987072248" />
       <item value="urgent" />
       <item value="Network Tamper Urgent Dispose Process" />
       <item value="Dictionary Parse" />
@@ -1036,20 +1040,16 @@
       <item value="true" />
       <item value="apply Cause" />
       <item value="String" />
-      <item value="process Handle" />
-      <item value="Warn" />
-      <item value="fill Rect" />
-      <item value="Graphics 2 D" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5663" />
+        <entry key="CHINESE" value="5669" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5664" />
+        <entry key="ENGLISH" value="5669" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="27" />
+        <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
