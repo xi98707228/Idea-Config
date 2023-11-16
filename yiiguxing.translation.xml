@@ -990,6 +990,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bm Storage Attachment" />
+      <item value="Bm Store Attachment" />
+      <item value="Bm Store Attach" />
+      <item value="store File Path" />
+      <item value="set Store File Path" />
+      <item value="String" />
+      <item value="TEMPLATE TYPE" />
+      <item value="attach Name" />
+      <item value="to JSON String" />
+      <item value="Objects" />
+      <item value="submit Object" />
+      <item value="target Object" />
       <item value="11:27:11.720 [restartedMain] WARN c.b.m.c.t.TableInfoHelper - [initTableFields,255] - Warn: Could not find @TableId in Class: com.ruoyi.project.system.domain.SysUser." />
       <item value="Parameter 0 of constructor in com.ruoyi.hxlh.decorate.service.impl.BmToDecorateApplyServiceImpl required a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' that could not be found." />
       <item value="APPLICATION FAILED TO START" />
@@ -1000,7 +1012,6 @@
       <item value="@param concatString 拼接的字符串" />
       <item value="@author xqh, 987072248@qq.com" />
       <item value="@date 20211027 14:41" />
-      <item value="String" />
       <item value="final" />
       <item value="handler Ids Concat String" />
       <item value="987072248" />
@@ -1029,25 +1040,14 @@
       <item value="HANDLER" />
       <item value="IN HAND" />
       <item value="Decorate State" />
-      <item value="Sys User In Applet" />
-      <item value="Table Id" />
-      <item value="project" />
-      <item value="init Table Fields" />
-      <item value="act Name" />
-      <item value="decorate Use Type" />
-      <item value="decorate Application Type" />
-      <item value="decorate State" />
-      <item value="decorate Drawing Status" />
-      <item value="decorate Draw Status" />
-      <item value="decorate Graph Status" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5699" />
+        <entry key="CHINESE" value="5712" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5700" />
+        <entry key="ENGLISH" value="5713" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
