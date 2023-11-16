@@ -990,6 +990,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="11:27:11.720 [restartedMain] WARN c.b.m.c.t.TableInfoHelper - [initTableFields,255] - Warn: Could not find @TableId in Class: com.ruoyi.project.system.domain.SysUser." />
+      <item value="Parameter 0 of constructor in com.ruoyi.hxlh.decorate.service.impl.BmToDecorateApplyServiceImpl required a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' that could not be found." />
+      <item value="APPLICATION FAILED TO START" />
+      <item value="Consider defining a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' in your configuration." />
+      <item value="---&gt; 处理 Ids 类型的字符串拼接问题" />
+      <item value="source String" />
+      <item value="源字符串" />
+      <item value="@param concatString 拼接的字符串" />
+      <item value="@author xqh, 987072248@qq.com" />
+      <item value="@date 20211027 14:41" />
+      <item value="String" />
+      <item value="final" />
+      <item value="handler Ids Concat String" />
       <item value="987072248" />
       <item value="Bm To Decorate Apply Service" />
       <item value="所有的二次装修申请列表信息" />
@@ -1027,27 +1040,14 @@
       <item value="decorate Drawing Status" />
       <item value="decorate Draw Status" />
       <item value="decorate Graph Status" />
-      <item value="Bm To Decorate Apply" />
-      <item value="copyright Year" />
-      <item value="org" />
-      <item value="springframework" />
-      <item value="ruoyi" />
-      <item value="提交保存物料入库信息表单数据" />
-      <item value="urgent" />
-      <item value="Network Tamper Urgent Dispose Process" />
-      <item value="Dictionary Parse" />
-      <item value="title" />
-      <item value="ptid" />
-      <item value="ID WORKER STR" />
-      <item value="network tamper urgent dispose process" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5686" />
+        <entry key="CHINESE" value="5699" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5687" />
+        <entry key="ENGLISH" value="5700" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
