@@ -990,6 +990,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="template User Attach List" />
+      <item value="Act Template Attach Composition" />
       <item value="check Template Location Exists" />
       <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
       <item value="Quick Iter File" />
@@ -1038,16 +1040,14 @@
       <item value="Bm To Decorate Apply Service" />
       <item value="所有的二次装修申请列表信息" />
       <item value="phonenumber" />
-      <item value="child Value" />
-      <item value="Note about the holder: 1. holder self is a InheritableThreadLocal(a ThreadLocal). 2. The type of value in the holder is WeakHashMap&lt;TransmittableThreadLocal&lt;Object&gt;, ?&gt;. 2.1 but the WeakHashMap is used as a Set: the value of WeakHashMap is always null, and never used. 2.2 WeakHashMap support null value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5731" />
+        <entry key="CHINESE" value="5733" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5732" />
+        <entry key="ENGLISH" value="5734" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
