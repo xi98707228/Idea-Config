@@ -990,6 +990,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rs" />
+      <item value="ctl Of" />
+      <item value="Caller Runs Policy" />
+      <item value="Abort Policy" />
       <item value="Bm Storage Attachment" />
       <item value="Bm Store Attachment" />
       <item value="Bm Store Attach" />
@@ -1036,18 +1040,14 @@
       <item value="decorate Purpose Type" />
       <item value="COMPLETED" />
       <item value="IN HANDLE" />
-      <item value="IN HANDLER" />
-      <item value="HANDLER" />
-      <item value="IN HAND" />
-      <item value="Decorate State" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5712" />
+        <entry key="CHINESE" value="5716" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5713" />
+        <entry key="ENGLISH" value="5717" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
