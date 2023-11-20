@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="login User Id" />
+      <item value="require Non Null" />
+      <item value="Bm Storage Attachment Mapping" />
       <item value="Switch Type" />
       <item value="Getter" />
       <item value="Decorate State" />
@@ -1037,17 +1040,14 @@
       <item value="APPLICATION FAILED TO START" />
       <item value="Consider defining a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' in your configuration." />
       <item value="---&gt; 处理 Ids 类型的字符串拼接问题" />
-      <item value="source String" />
-      <item value="源字符串" />
-      <item value="@param concatString 拼接的字符串" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5744" />
+        <entry key="CHINESE" value="5747" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5745" />
+        <entry key="ENGLISH" value="5748" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
