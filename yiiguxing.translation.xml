@@ -990,6 +990,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="二次装修单据审批流程" />
+      <item value="p" />
+      <item value="apply" />
+      <item value="key" />
+      <item value="second" />
+      <item value="decoration" />
+      <item value="equals" />
+      <item value="business Key" />
+      <item value="go Template" />
+      <item value="operate" />
+      <item value="选中需要审批的数据row Id" />
       <item value="restarted Main" />
       <item value="Std Scheduler Factory" />
       <item value="instantiate" />
@@ -1029,25 +1040,14 @@
       <item value="Act Template Attach Composition" />
       <item value="check Template Location Exists" />
       <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
-      <item value="Quick Iter File" />
-      <item value="文件列表" />
-      <item value="业务模块记录Id" />
-      <item value="files" />
-      <item value="now Date" />
-      <item value="form" />
-      <item value="remarks" />
-      <item value="装修状态" />
-      <item value="Sequence Number Generic" />
-      <item value="Examine Personal Reimbursement Controller" />
-      <item value="send Message Type Of Interactive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5770" />
+        <entry key="CHINESE" value="5781" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5771" />
+        <entry key="ENGLISH" value="5781" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
