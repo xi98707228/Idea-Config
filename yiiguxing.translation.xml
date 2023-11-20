@@ -990,6 +990,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="leader phonenumber" />
+      <item value="leader nick" />
+      <item value="bmda" />
       <item value="login User Id" />
       <item value="require Non Null" />
       <item value="Bm Storage Attachment Mapping" />
@@ -1037,17 +1040,14 @@
       <item value="target Object" />
       <item value="11:27:11.720 [restartedMain] WARN c.b.m.c.t.TableInfoHelper - [initTableFields,255] - Warn: Could not find @TableId in Class: com.ruoyi.project.system.domain.SysUser." />
       <item value="Parameter 0 of constructor in com.ruoyi.hxlh.decorate.service.impl.BmToDecorateApplyServiceImpl required a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' that could not be found." />
-      <item value="APPLICATION FAILED TO START" />
-      <item value="Consider defining a bean of type 'com.ruoyi.hxlh.decorate.mapper.BmToDecorateApplyMapper' in your configuration." />
-      <item value="---&gt; 处理 Ids 类型的字符串拼接问题" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5747" />
+        <entry key="CHINESE" value="5749" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5748" />
+        <entry key="ENGLISH" value="5749" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
@@ -1061,6 +1061,7 @@
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="SWEDISH" value="7" />
+        <entry key="TELUGU" value="2" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
