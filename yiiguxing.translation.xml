@@ -990,6 +990,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Path Variable" />
+      <item value="success" />
+      <item value="parse Object" />
+      <item value="target Object" />
+      <item value="Bm To Decorate Apply" />
+      <item value="tenement Id" />
+      <item value="decorate Leader Id" />
+      <item value="decorate Drawing State" />
+      <item value="ID WORKER STR" />
+      <item value="row Id" />
+      <item value="申请表单要素相关" />
+      <item value="房间" />
+      <item value="关联楼宇" />
+      <item value="decorate Type" />
+      <item value="bm To Decorate Apply Service" />
       <item value="二次装修单据审批流程" />
       <item value="p" />
       <item value="apply" />
@@ -1021,35 +1036,20 @@
       <item value="File Util" />
       <item value="bm Storage Attachment Service" />
       <item value="Bm Storage Attachment Service" />
-      <item value="decorate Type" />
       <item value="leader phonenumber" />
       <item value="leader nick" />
       <item value="bmda" />
       <item value="login User Id" />
-      <item value="require Non Null" />
-      <item value="Bm Storage Attachment Mapping" />
-      <item value="Switch Type" />
-      <item value="Getter" />
-      <item value="Decorate State" />
-      <item value="IS RUNNING" />
-      <item value="set Approval Status" />
-      <item value="Model Business Decorate Constants" />
-      <item value="IN APPROVAL" />
-      <item value="apply State" />
-      <item value="template User Attach List" />
-      <item value="Act Template Attach Composition" />
-      <item value="check Template Location Exists" />
-      <item value="Thymeleaf Auto Configuration Default Template Resolver Configuration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5781" />
+        <entry key="CHINESE" value="5797" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5781" />
+        <entry key="ENGLISH" value="5798" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="28" />
+        <entry key="FRENCH" value="31" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
