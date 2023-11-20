@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="restarted Main" />
+      <item value="Std Scheduler Factory" />
+      <item value="instantiate" />
+      <item value="Ruoyi Scheduler" />
+      <item value="scheduler" />
+      <item value="Job Factory" />
+      <item value="Quartz" />
+      <item value="background" />
+      <item value="value" />
       <item value="Property Sourced Request Mapping Handler Mapping" />
       <item value="init Handler Methods" />
       <item value="page Apply Data List" />
@@ -1031,29 +1040,20 @@
       <item value="Sequence Number Generic" />
       <item value="Examine Personal Reimbursement Controller" />
       <item value="send Message Type Of Interactive" />
-      <item value="check Current Active Segment Is Input Expect" />
-      <item value="run Worker" />
-      <item value="get Template Allow Types" />
-      <item value="rs" />
-      <item value="ctl Of" />
-      <item value="Caller Runs Policy" />
-      <item value="Abort Policy" />
-      <item value="Bm Storage Attachment" />
-      <item value="Bm Store Attachment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5760" />
+        <entry key="CHINESE" value="5770" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5761" />
+        <entry key="ENGLISH" value="5771" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="28" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="ITALIAN" value="10" />
+        <entry key="ITALIAN" value="11" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="7" />
