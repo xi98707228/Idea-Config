@@ -990,6 +990,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Druid Data Source" />
+      <item value="Driver" />
+      <item value="druid" />
+      <item value="主库数据源" />
+      <item value="master" />
+      <item value="password" />
+      <item value="slave" />
+      <item value="Job Factory" />
+      <item value="Quartz Scheduler" />
       <item value="plan Convener Service" />
       <item value="phonenumber" />
       <item value="get-plan-personal-list" />
@@ -1008,7 +1017,6 @@
       <item value="判断流程是否是进行结束节点" />
       <item value="Table Info Helper" />
       <item value="result Form Data" />
-      <item value="Quartz Scheduler" />
       <item value="Path Variable" />
       <item value="success" />
       <item value="parse Object" />
@@ -1032,22 +1040,14 @@
       <item value="decoration" />
       <item value="equals" />
       <item value="business Key" />
-      <item value="go Template" />
-      <item value="operate" />
-      <item value="选中需要审批的数据row Id" />
-      <item value="restarted Main" />
-      <item value="Std Scheduler Factory" />
-      <item value="instantiate" />
-      <item value="Ruoyi Scheduler" />
-      <item value="scheduler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5813" />
+        <entry key="CHINESE" value="5821" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5814" />
+        <entry key="ENGLISH" value="5822" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="31" />
         <entry key="GALICIAN" value="1" />
