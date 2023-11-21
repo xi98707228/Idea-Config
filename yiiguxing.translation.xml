@@ -990,6 +990,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plan Convener Service" />
       <item value="phonenumber" />
       <item value="get-plan-personal-list" />
       <item value="async Execution Reset Plan Information Related Personnel Data" />
@@ -1039,15 +1040,14 @@
       <item value="instantiate" />
       <item value="Ruoyi Scheduler" />
       <item value="scheduler" />
-      <item value="Job Factory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5812" />
+        <entry key="CHINESE" value="5813" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5813" />
+        <entry key="ENGLISH" value="5814" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="31" />
         <entry key="GALICIAN" value="1" />
