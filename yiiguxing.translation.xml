@@ -977,7 +977,6 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2e342f0f30b260e3" />
@@ -990,6 +989,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Algorithm Parameters" />
+      <item value="contains Alphabet Or Pad" />
+      <item value="MIME CHUNK SIZE" />
+      <item value="current Time Millis" />
+      <item value="error" />
       <item value="del Row Ids" />
       <item value="permit All" />
       <item value="bm-storage-attachmentdownload-attach" />
@@ -1035,20 +1039,15 @@
       <item value="关联楼宇" />
       <item value="decorate Type" />
       <item value="bm To Decorate Apply Service" />
-      <item value="二次装修单据审批流程" />
-      <item value="p" />
-      <item value="apply" />
-      <item value="key" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5822" />
+        <entry key="CHINESE" value="5827" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5823" />
+        <entry key="ENGLISH" value="5827" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="31" />
         <entry key="GALICIAN" value="1" />
@@ -1062,6 +1061,7 @@
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="SWEDISH" value="7" />
+        <entry key="TAHITIAN" value="1" />
         <entry key="TELUGU" value="2" />
         <entry key="WELSH" value="1" />
       </map>
