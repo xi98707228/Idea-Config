@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取合同行表单数据" />
       <item value="INIT COUNT" />
       <item value="notify" />
       <item value="Produce" />
@@ -1006,7 +1007,6 @@
       <item value="String" />
       <item value="execute Magic" />
       <item value="Product Class" />
-      <item value="获取合同行表单数据" />
       <item value="@param rowId 数据条目-rowId" />
       <item value="My Runnable" />
       <item value="Spring Boot Exception Handler" />
@@ -1044,7 +1044,7 @@
       <map>
         <entry key="BOSNIAN" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5894" />
+        <entry key="CHINESE" value="5895" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="ENGLISH" value="5895" />
