@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Beans Exception" />
       <item value="Nested Runtime Exception" />
       <item value="result Map" />
       <item value="phone number" />
@@ -1038,16 +1039,15 @@
       <item value="After Returning" />
       <item value="STORE CUSTOMER CONTACT TREE JSON KEY" />
       <item value="Multiple Statistics Common Pool" />
-      <item value="C" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5853" />
+        <entry key="CHINESE" value="5855" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5854" />
+        <entry key="ENGLISH" value="5856" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="32" />
         <entry key="GALICIAN" value="1" />
