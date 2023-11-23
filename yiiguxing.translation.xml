@@ -989,6 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Object Name" />
+      <item value="Object Class" />
+      <item value="flow Number" />
+      <item value="produce Class" />
+      <item value="execute Logic" />
+      <item value="Produce Class" />
+      <item value="super" />
+      <item value="Override" />
+      <item value="object Name" />
+      <item value="String" />
+      <item value="execute Magic" />
+      <item value="Product Class" />
       <item value="获取合同行表单数据" />
       <item value="@param rowId 数据条目-rowId" />
       <item value="My Runnable" />
@@ -1024,30 +1036,18 @@
       <item value="Hash Map" />
       <item value="customer Project Service" />
       <item value="project Id" />
-      <item value="String" />
       <item value="Request Param" />
       <item value="Ajax Result" />
       <item value="Algorithm Parameters" />
-      <item value="contains Alphabet Or Pad" />
-      <item value="MIME CHUNK SIZE" />
-      <item value="current Time Millis" />
-      <item value="error" />
-      <item value="del Row Ids" />
-      <item value="permit All" />
-      <item value="bm-storage-attachmentdownload-attach" />
-      <item value="Druid Data Source" />
-      <item value="Driver" />
-      <item value="druid" />
-      <item value="主库数据源" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5868" />
+        <entry key="CHINESE" value="5888" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5868" />
+        <entry key="ENGLISH" value="5889" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="32" />
         <entry key="GALICIAN" value="1" />
@@ -1059,6 +1059,7 @@
         <entry key="PORTUGUESE_BRAZILIAN" value="7" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="1" />
