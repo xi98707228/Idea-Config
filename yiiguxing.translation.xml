@@ -989,7 +989,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Tenement Name" />
+      <item value="list" />
+      <item value="Ajax Result" />
+      <item value="start Page" />
       <item value="获取合同行表单数据" />
+      <item value="数据条目" />
+      <item value="String" />
+      <item value="now Tenement Data" />
+      <item value="Assets Tenement" />
+      <item value="get Now Tenement Position" />
       <item value="INIT COUNT" />
       <item value="notify" />
       <item value="Produce" />
@@ -1004,7 +1013,6 @@
       <item value="super" />
       <item value="Override" />
       <item value="object Name" />
-      <item value="String" />
       <item value="execute Magic" />
       <item value="Product Class" />
       <item value="@param rowId 数据条目-rowId" />
@@ -1031,23 +1039,15 @@
       <item value="get Data Table" />
       <item value="user Attach Data List" />
       <item value="new Task For" />
-      <item value="value" />
-      <item value="Caught an exception in %s. Shutting down." />
-      <item value="cannot use FormattingLogger due to a dependency loop" />
-      <item value="Exiter" />
-      <item value="Visible For Testing" />
-      <item value="Object" />
-      <item value="objmap" />
-      <item value="Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="1" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5895" />
+        <entry key="CHINESE" value="5907" />
         <entry key="CROATIAN" value="1" />
-        <entry key="DUTCH" value="4" />
-        <entry key="ENGLISH" value="5895" />
+        <entry key="DUTCH" value="5" />
+        <entry key="ENGLISH" value="5907" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="32" />
         <entry key="GALICIAN" value="1" />
@@ -1062,7 +1062,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="1" />
+        <entry key="TAHITIAN" value="3" />
         <entry key="TELUGU" value="2" />
         <entry key="WELSH" value="1" />
       </map>
