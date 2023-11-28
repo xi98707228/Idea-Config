@@ -989,8 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="token Offset" />
       <item value="get School Card System Access Token" />
+      <item value="token Offset" />
       <item value="token" />
       <item value="expire Secs" />
       <item value="new" />
@@ -1044,10 +1044,10 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5951" />
+        <entry key="CHINESE" value="5952" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="5952" />
+        <entry key="ENGLISH" value="5953" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="37" />
         <entry key="GALICIAN" value="1" />
