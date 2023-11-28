@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="log Started" />
+      <item value="School Card Flow Service" />
+      <item value="School Card Flow Service Impl" />
       <item value="get Data Table" />
       <item value="result Table" />
       <item value="success" />
@@ -1036,18 +1039,15 @@
       <item value="My Runnable" />
       <item value="Spring Boot Exception Handler" />
       <item value="dispatch Uncaught Exception" />
-      <item value="parallel Prefix" />
-      <item value="SUMMED" />
-      <item value="CUMULATE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5925" />
+        <entry key="CHINESE" value="5929" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="5926" />
+        <entry key="ENGLISH" value="5930" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="32" />
         <entry key="GALICIAN" value="1" />
