@@ -989,12 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="send Params Map" />
+      <item value="login Name" />
+      <item value="get" />
+      <item value="Http Util" />
+      <item value="request Url" />
+      <item value="response Body" />
+      <item value="to String" />
+      <item value="response Json" />
+      <item value="res Code" />
+      <item value="ARRAY BYTE BASE OFFSET" />
       <item value="get School Card System Access Token" />
       <item value="token Offset" />
       <item value="token" />
       <item value="expire Secs" />
       <item value="new" />
-      <item value="response Json" />
       <item value="School Card Access Token Exception" />
       <item value="throw" />
       <item value="Shift" />
@@ -1030,24 +1039,15 @@
       <item value="Ajax Result" />
       <item value="start Page" />
       <item value="获取合同行表单数据" />
-      <item value="数据条目" />
-      <item value="String" />
-      <item value="now Tenement Data" />
-      <item value="Assets Tenement" />
-      <item value="get Now Tenement Position" />
-      <item value="INIT COUNT" />
-      <item value="notify" />
-      <item value="Produce" />
-      <item value="System" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5952" />
+        <entry key="CHINESE" value="5962" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="5953" />
+        <entry key="ENGLISH" value="5963" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="37" />
         <entry key="GALICIAN" value="1" />
@@ -1060,7 +1060,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SLOVAK" value="1" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="3" />
         <entry key="TELUGU" value="2" />
