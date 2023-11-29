@@ -989,6 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expire Secs" />
+      <item value="token Offset" />
+      <item value="Temporal Accessor" />
+      <item value="following" />
+      <item value="Protocol Handler" />
+      <item value="Initializing" />
+      <item value="Ambiguous" />
       <item value="send Params Map" />
       <item value="login Name" />
       <item value="get" />
@@ -1000,9 +1007,7 @@
       <item value="res Code" />
       <item value="ARRAY BYTE BASE OFFSET" />
       <item value="get School Card System Access Token" />
-      <item value="token Offset" />
       <item value="token" />
-      <item value="expire Secs" />
       <item value="new" />
       <item value="School Card Access Token Exception" />
       <item value="throw" />
@@ -1034,22 +1039,17 @@
       <item value="add Template Attach Record" />
       <item value="Web Socket Template Session" />
       <item value="get Apply Data List" />
-      <item value="set Tenement Name" />
-      <item value="list" />
-      <item value="Ajax Result" />
-      <item value="start Page" />
-      <item value="获取合同行表单数据" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
-        <entry key="CATALAN" value="2" />
-        <entry key="CHINESE" value="5962" />
+        <entry key="CATALAN" value="3" />
+        <entry key="CHINESE" value="5968" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="5963" />
+        <entry key="ENGLISH" value="5968" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="37" />
+        <entry key="FRENCH" value="38" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="1" />
