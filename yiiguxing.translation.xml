@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Consumer" />
       <item value="expire Secs" />
       <item value="token Offset" />
       <item value="Temporal Accessor" />
@@ -1038,7 +1039,6 @@
       <item value="truncate" />
       <item value="add Template Attach Record" />
       <item value="Web Socket Template Session" />
-      <item value="get Apply Data List" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1047,7 +1047,7 @@
         <entry key="CHINESE" value="5968" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="5968" />
+        <entry key="ENGLISH" value="5969" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="38" />
         <entry key="GALICIAN" value="1" />
