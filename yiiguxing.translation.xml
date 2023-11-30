@@ -989,6 +989,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="返回的结果" />
+      <item value="result" />
+      <item value="记录历史最长结果的长度" />
+      <item value="也即返回的最终结果result的长度" />
+      <item value="length" />
+      <item value="直接返回" />
+      <item value="middle" />
+      <item value="half Step" />
+      <item value="以当前middle为中心轴查询所有字串情况" />
+      <item value="像回文数这样的特殊字符串有一个特性就是" />
+      <item value="我们仅需要遍历至中间位置即可" />
+      <item value="遍历middle时需要每次从" />
+      <item value="middle就表示回文字串的中心位置的下标值" />
       <item value="Encoder" />
       <item value="Auto Closeable" />
       <item value="Statement" />
@@ -1026,28 +1039,15 @@
       <item value="Ambiguous" />
       <item value="send Params Map" />
       <item value="login Name" />
-      <item value="get" />
-      <item value="Http Util" />
-      <item value="to String" />
-      <item value="response Json" />
-      <item value="res Code" />
-      <item value="ARRAY BYTE BASE OFFSET" />
-      <item value="new" />
-      <item value="School Card Access Token Exception" />
-      <item value="throw" />
-      <item value="Shift" />
-      <item value="987072248" />
-      <item value="xqh" />
-      <item value="com" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6000" />
+        <entry key="CHINESE" value="6014" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6001" />
+        <entry key="ENGLISH" value="6014" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="38" />
         <entry key="GALICIAN" value="1" />
