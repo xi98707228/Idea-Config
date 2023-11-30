@@ -989,13 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="仅由数字和英文字母组成" />
+      <item value="动态规划" />
+      <item value="也即返回的最终结果result的长度" />
+      <item value="length" />
       <item value="直接返回" />
       <item value="is Even Number" />
       <item value="返回的结果" />
       <item value="result" />
       <item value="记录历史最长结果的长度" />
-      <item value="也即返回的最终结果result的长度" />
-      <item value="length" />
       <item value="middle" />
       <item value="half Step" />
       <item value="以当前middle为中心轴查询所有字串情况" />
@@ -1037,17 +1039,15 @@
       <item value="following" />
       <item value="Protocol Handler" />
       <item value="Initializing" />
-      <item value="Ambiguous" />
-      <item value="send Params Map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6015" />
+        <entry key="CHINESE" value="6018" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6015" />
+        <entry key="ENGLISH" value="6018" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="38" />
         <entry key="GALICIAN" value="1" />
