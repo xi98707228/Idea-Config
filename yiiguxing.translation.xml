@@ -989,9 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="result" />
+      <item value="记录历史最长结果的长度" />
+      <item value="也即返回的最终结果result的长度" />
+      <item value="max Result Length" />
+      <item value="是否共偶数个字符串长度" />
+      <item value="is Even Number" />
+      <item value="pos To Blank" />
       <item value="max Middle" />
       <item value="Secret Key" />
-      <item value="max Result Length" />
       <item value="空白位置那么就移动中轴到下一个元素上边" />
       <item value="如果当前中轴游标处于 空白位置那么就移动中轴到下一个元素上边 而不是空白位置" />
       <item value="new" />
@@ -1003,7 +1009,6 @@
       <item value="left" />
       <item value="middle" />
       <item value="中含有的元素个数" />
-      <item value="pos To Blank" />
       <item value="my Self Method" />
       <item value="当前middle指针是否定位在了空白区域" />
       <item value="一号元素后边的空白位置开始遍历" />
@@ -1013,20 +1018,16 @@
       <item value="right" />
       <item value="int" />
       <item value="while" />
-      <item value="is Even Number" />
       <item value="最长的回文数中轴索引" />
       <item value="N" />
       <item value="2" />
       <item value="position Blank" />
-      <item value="是否共偶数个字符串长度" />
       <item value="length" />
       <item value="所以通过一次遍历利用滑动窗口算法找出最长回文子串" />
-      <item value="result" />
       <item value="并归位end Index" />
       <item value="与已截取字符串中字符相同" />
       <item value="那么移动start Index" />
       <item value="并且记录当前最大长度" />
-      <item value="也即返回的最终结果result的长度" />
       <item value="我们仅需要遍历至中间位置即可" />
       <item value="同样是符合题意的答案" />
       <item value="bab" />
@@ -1038,16 +1039,15 @@
       <item value="仅由数字和英文字母组成" />
       <item value="动态规划" />
       <item value="直接返回" />
-      <item value="返回的结果" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6153" />
+        <entry key="CHINESE" value="6166" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6154" />
+        <entry key="ENGLISH" value="6167" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="39" />
         <entry key="GALICIAN" value="1" />
