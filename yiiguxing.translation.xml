@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="即从字符串左侧一直遍历至末尾" />
       <item value="result" />
       <item value="记录历史最长结果的长度" />
       <item value="也即返回的最终结果result的长度" />
@@ -1038,13 +1039,12 @@
       <item value="longest Palindrome" />
       <item value="仅由数字和英文字母组成" />
       <item value="动态规划" />
-      <item value="直接返回" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6166" />
+        <entry key="CHINESE" value="6167" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="ENGLISH" value="6167" />
