@@ -989,9 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="max Middle" />
+      <item value="Secret Key" />
+      <item value="max Result Length" />
+      <item value="空白位置那么就移动中轴到下一个元素上边" />
+      <item value="如果当前中轴游标处于 空白位置那么就移动中轴到下一个元素上边 而不是空白位置" />
+      <item value="new" />
+      <item value="find Median Sorted Arrays" />
+      <item value="solution" />
+      <item value="println" />
       <item value="part Computed Result" />
       <item value="temp Result" />
-      <item value="max Middle" />
       <item value="left" />
       <item value="middle" />
       <item value="中含有的元素个数" />
@@ -1002,12 +1010,10 @@
       <item value="{ if (maxResultLength &lt; tempResult.length()) { maxResultLength = tempResult.length(); result = tempResult; } }" />
       <item value="B" />
       <item value="part Element Count" />
-      <item value="空白位置那么就移动中轴到下一个元素上边" />
       <item value="right" />
       <item value="int" />
       <item value="while" />
       <item value="is Even Number" />
-      <item value="max Result Length" />
       <item value="最长的回文数中轴索引" />
       <item value="N" />
       <item value="2" />
@@ -1033,21 +1039,15 @@
       <item value="动态规划" />
       <item value="直接返回" />
       <item value="返回的结果" />
-      <item value="记录历史最长结果的长度" />
-      <item value="half Step" />
-      <item value="以当前middle为中心轴查询所有字串情况" />
-      <item value="像回文数这样的特殊字符串有一个特性就是" />
-      <item value="遍历middle时需要每次从" />
-      <item value="middle就表示回文字串的中心位置的下标值" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6140" />
+        <entry key="CHINESE" value="6153" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6141" />
+        <entry key="ENGLISH" value="6154" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="39" />
         <entry key="GALICIAN" value="1" />
