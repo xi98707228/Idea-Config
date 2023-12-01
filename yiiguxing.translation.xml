@@ -989,6 +989,28 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="则说明一定不是回文串" />
+      <item value="如果新的right位置和left所表示的字符不一致" />
+      <item value="verify Equals" />
+      <item value="Time Limit Exceeded" />
+      <item value="left" />
+      <item value="偶数个元素" />
+      <item value="continue" />
+      <item value="也即返回的最终结果result的长度" />
+      <item value="null" />
+      <item value="返回的结果" />
+      <item value="now Allow Str Length" />
+      <item value="继续下一个right" />
+      <item value="组成区间的中间元素索引位置" />
+      <item value="外部for循环是为了将left和right两指针一直穷举出目标字符串的所有字串" />
+      <item value="window Length" />
+      <item value="allow" />
+      <item value="los" />
+      <item value="char At" />
+      <item value="length" />
+      <item value="l" />
+      <item value="穷举出字符串s的所有字串" />
+      <item value="right" />
       <item value="自己的思路方法" />
       <item value="s" />
       <item value="String" />
@@ -996,7 +1018,6 @@
       <item value="即从字符串左侧一直遍历至末尾" />
       <item value="result" />
       <item value="记录历史最长结果的长度" />
-      <item value="也即返回的最终结果result的长度" />
       <item value="max Result Length" />
       <item value="是否共偶数个字符串长度" />
       <item value="is Even Number" />
@@ -1011,7 +1032,6 @@
       <item value="println" />
       <item value="part Computed Result" />
       <item value="temp Result" />
-      <item value="left" />
       <item value="middle" />
       <item value="中含有的元素个数" />
       <item value="my Self Method" />
@@ -1019,37 +1039,17 @@
       <item value="一号元素后边的空白位置开始遍历" />
       <item value="{ if (maxResultLength &lt; tempResult.length()) { maxResultLength = tempResult.length(); result = tempResult; } }" />
       <item value="B" />
-      <item value="part Element Count" />
-      <item value="right" />
-      <item value="int" />
-      <item value="while" />
-      <item value="最长的回文数中轴索引" />
-      <item value="N" />
-      <item value="2" />
-      <item value="position Blank" />
-      <item value="length" />
-      <item value="所以通过一次遍历利用滑动窗口算法找出最长回文子串" />
-      <item value="并归位end Index" />
-      <item value="与已截取字符串中字符相同" />
-      <item value="那么移动start Index" />
-      <item value="并且记录当前最大长度" />
-      <item value="我们仅需要遍历至中间位置即可" />
-      <item value="同样是符合题意的答案" />
-      <item value="bab" />
-      <item value="babad" />
-      <item value="aba" />
-      <item value="cbbd" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6175" />
+        <entry key="CHINESE" value="6201" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6175" />
+        <entry key="ENGLISH" value="6201" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="39" />
+        <entry key="FRENCH" value="40" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="2" />
@@ -1060,7 +1060,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SLOVAK" value="1" />
-        <entry key="SPANISH" value="5" />
+        <entry key="SPANISH" value="6" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="7" />
         <entry key="TELUGU" value="2" />
