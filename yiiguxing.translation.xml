@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="part Computed Result" />
+      <item value="temp Result" />
       <item value="max Middle" />
       <item value="left" />
       <item value="middle" />
@@ -997,8 +999,6 @@
       <item value="my Self Method" />
       <item value="当前middle指针是否定位在了空白区域" />
       <item value="一号元素后边的空白位置开始遍历" />
-      <item value="part Computed Result" />
-      <item value="temp Result" />
       <item value="{ if (maxResultLength &lt; tempResult.length()) { maxResultLength = tempResult.length(); result = tempResult; } }" />
       <item value="B" />
       <item value="part Element Count" />
@@ -1044,10 +1044,10 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6133" />
+        <entry key="CHINESE" value="6140" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6134" />
+        <entry key="ENGLISH" value="6141" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="39" />
         <entry key="GALICIAN" value="1" />
