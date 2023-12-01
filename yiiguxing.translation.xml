@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="max Result Length" />
       <item value="则说明一定不是回文串" />
       <item value="如果新的right位置和left所表示的字符不一致" />
       <item value="verify Equals" />
@@ -1018,7 +1019,6 @@
       <item value="即从字符串左侧一直遍历至末尾" />
       <item value="result" />
       <item value="记录历史最长结果的长度" />
-      <item value="max Result Length" />
       <item value="是否共偶数个字符串长度" />
       <item value="is Even Number" />
       <item value="pos To Blank" />
@@ -1047,7 +1047,7 @@
         <entry key="CHINESE" value="6201" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6201" />
+        <entry key="ENGLISH" value="6202" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="40" />
         <entry key="GALICIAN" value="1" />
