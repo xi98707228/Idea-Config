@@ -989,10 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="clear" />
+      <item value="Bit Map" />
+      <item value="string Length" />
       <item value="result Max Length" />
+      <item value="记录最大长度返回结果" />
       <item value="每个字符和其下标的映射关系" />
       <item value="store Char Index Map" />
-      <item value="string Length" />
       <item value="solution" />
       <item value="16:40 Auto fetch: leet-code-idea finished" />
       <item value="16:30 Auto fetch: leet-code-idea finished" />
@@ -1036,18 +1039,15 @@
       <item value="也即返回的最终结果result的长度" />
       <item value="如果新的right位置和left所表示的字符不一致" />
       <item value="则说明一定不是回文串" />
-      <item value="一个长度的字符串是回文数" />
-      <item value="_01_my Self Method" />
-      <item value="school Card Config Properties" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6274" />
+        <entry key="CHINESE" value="6286" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6275" />
+        <entry key="ENGLISH" value="6287" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
