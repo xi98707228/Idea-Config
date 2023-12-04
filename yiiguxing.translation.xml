@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701069083466" />
+    <option name="lastTrimTime" value="1701653247785" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -989,6 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="school Card Config Properties" />
+      <item value="get School Card System Access Token" />
+      <item value="redis Cache Service" />
+      <item value="http" />
+      <item value="get Member By Qr Card" />
+      <item value="Hash Map" />
       <item value="_02_method" />
       <item value="max Result Length" />
       <item value="则说明一定不是回文串" />
@@ -1033,23 +1039,17 @@
       <item value="println" />
       <item value="part Computed Result" />
       <item value="temp Result" />
-      <item value="middle" />
-      <item value="中含有的元素个数" />
-      <item value="my Self Method" />
-      <item value="当前middle指针是否定位在了空白区域" />
-      <item value="一号元素后边的空白位置开始遍历" />
-      <item value="{ if (maxResultLength &lt; tempResult.length()) { maxResultLength = tempResult.length(); result = tempResult; } }" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6201" />
+        <entry key="CHINESE" value="6209" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6202" />
+        <entry key="ENGLISH" value="6210" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="40" />
+        <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="2" />
