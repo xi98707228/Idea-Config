@@ -989,8 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="school Card Config Properties" />
       <item value="get School Card System Access Token" />
+      <item value="school Card Config Properties" />
       <item value="redis Cache Service" />
       <item value="http" />
       <item value="get Member By Qr Card" />
@@ -1044,10 +1044,10 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6209" />
+        <entry key="CHINESE" value="6210" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6210" />
+        <entry key="ENGLISH" value="6211" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
