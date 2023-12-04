@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="一个长度的字符串是回文数" />
+      <item value="length" />
       <item value="_01_my Self Method" />
       <item value="school Card Config Properties" />
       <item value="http" />
@@ -1018,7 +1020,6 @@
       <item value="allow" />
       <item value="los" />
       <item value="char At" />
-      <item value="length" />
       <item value="l" />
       <item value="穷举出字符串s的所有字串" />
       <item value="right" />
@@ -1038,16 +1039,15 @@
       <item value="如果当前中轴游标处于 空白位置那么就移动中轴到下一个元素上边 而不是空白位置" />
       <item value="new" />
       <item value="find Median Sorted Arrays" />
-      <item value="solution" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6220" />
+        <entry key="CHINESE" value="6221" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6221" />
+        <entry key="ENGLISH" value="6222" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
