@@ -989,6 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="记录历史最长结果的长度" />
+      <item value="max Result Length" />
+      <item value="外部for循环" />
+      <item value="遍历" />
+      <item value="但是最多到" />
+      <item value="倒数第二个元素位置" />
+      <item value="需要为right预留索引" />
+      <item value="result" />
+      <item value="也即返回的最终结果result的长度" />
       <item value="verify Equals" />
       <item value="如果新的right位置和left所表示的字符不一致" />
       <item value="则说明一定不是回文串" />
@@ -1004,12 +1013,10 @@
       <item value="get Member By Qr Card" />
       <item value="redis Cache Service" />
       <item value="_02_method" />
-      <item value="max Result Length" />
       <item value="Time Limit Exceeded" />
       <item value="left" />
       <item value="偶数个元素" />
       <item value="continue" />
-      <item value="也即返回的最终结果result的长度" />
       <item value="null" />
       <item value="返回的结果" />
       <item value="now Allow Str Length" />
@@ -1028,26 +1035,19 @@
       <item value="String" />
       <item value="不是回文数" />
       <item value="即从字符串左侧一直遍历至末尾" />
-      <item value="result" />
-      <item value="记录历史最长结果的长度" />
       <item value="是否共偶数个字符串长度" />
       <item value="is Even Number" />
       <item value="pos To Blank" />
       <item value="max Middle" />
-      <item value="Secret Key" />
-      <item value="空白位置那么就移动中轴到下一个元素上边" />
-      <item value="如果当前中轴游标处于 空白位置那么就移动中轴到下一个元素上边 而不是空白位置" />
-      <item value="new" />
-      <item value="find Median Sorted Arrays" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6224" />
+        <entry key="CHINESE" value="6231" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6225" />
+        <entry key="ENGLISH" value="6231" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
