@@ -989,8 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="sliding Window" />
       <item value="length" />
+      <item value="bits" />
+      <item value="BYTES" />
+      <item value="Integer" />
+      <item value="val" />
+      <item value="确定在哪个桶" />
+      <item value="sliding Window" />
       <item value="right Val" />
       <item value="bit Map" />
       <item value="break" />
@@ -999,7 +1004,6 @@
       <item value="Bit Map" />
       <item value="left" />
       <item value="remaining Length" />
-      <item value="bits" />
       <item value="0000" />
       <item value="记录最大长度返回结果" />
       <item value="right" />
@@ -1035,21 +1039,17 @@
       <item value="window Length" />
       <item value="verify Equals" />
       <item value="null" />
-      <item value="方法二" />
-      <item value="i" />
-      <item value="if" />
-      <item value="_left" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6310" />
+        <entry key="CHINESE" value="6319" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6311" />
+        <entry key="ENGLISH" value="6320" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="41" />
+        <entry key="FRENCH" value="42" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="3" />
