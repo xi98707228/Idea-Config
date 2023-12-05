@@ -989,6 +989,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="break" />
+      <item value="bit Map" />
+      <item value="now Window" />
+      <item value="right Val" />
+      <item value="left" />
       <item value="val" />
       <item value="length" />
       <item value="niminui" />
@@ -998,13 +1003,9 @@
       <item value="Integer" />
       <item value="确定在哪个桶" />
       <item value="sliding Window" />
-      <item value="right Val" />
-      <item value="bit Map" />
-      <item value="break" />
       <item value="contains" />
       <item value="创建存储数据的容器" />
       <item value="Bit Map" />
-      <item value="left" />
       <item value="remaining Length" />
       <item value="0000" />
       <item value="记录最大长度返回结果" />
@@ -1038,16 +1039,15 @@
       <item value="此方法主要注意边界取值" />
       <item value="target Chart Arr" />
       <item value="从中心扩散方法" />
-      <item value="window Length" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6321" />
+        <entry key="CHINESE" value="6328" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6321" />
+        <entry key="ENGLISH" value="6329" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="43" />
         <entry key="GALICIAN" value="1" />
