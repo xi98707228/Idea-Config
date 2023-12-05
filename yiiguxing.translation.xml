@@ -989,9 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bit Map" />
       <item value="length Of Longest Substring" />
       <item value="break" />
-      <item value="bit Map" />
       <item value="now Window" />
       <item value="right Val" />
       <item value="left" />
@@ -1044,10 +1044,10 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6329" />
+        <entry key="CHINESE" value="6330" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6330" />
+        <entry key="ENGLISH" value="6331" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="43" />
         <entry key="GALICIAN" value="1" />
