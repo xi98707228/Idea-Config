@@ -989,22 +989,34 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="10:13 Auto fetch: leet-code-idea finished" />
-      <item value="fetch" />
-      <item value="bits" />
-      <item value="result Max Length" />
+      <item value="sliding Window" />
+      <item value="length" />
+      <item value="right Val" />
+      <item value="bit Map" />
+      <item value="break" />
+      <item value="contains" />
+      <item value="创建存储数据的容器" />
       <item value="Bit Map" />
+      <item value="left" />
+      <item value="remaining Length" />
+      <item value="bits" />
+      <item value="0000" />
+      <item value="记录最大长度返回结果" />
+      <item value="right" />
+      <item value="Auto fetch: leet-code-idea finished" />
+      <item value="fetch" />
+      <item value="Auto" />
+      <item value="10:13 Auto fetch: leet-code-idea finished" />
+      <item value="result Max Length" />
       <item value="fill" />
       <item value="clear" />
       <item value="string Length" />
-      <item value="记录最大长度返回结果" />
       <item value="每个字符和其下标的映射关系" />
       <item value="store Char Index Map" />
       <item value="solution" />
       <item value="16:40 Auto fetch: leet-code-idea finished" />
       <item value="16:30 Auto fetch: leet-code-idea finished" />
       <item value="_02_Leet From Center Spread Method" />
-      <item value="length" />
       <item value="private void windowCenterSpread(){" />
       <item value="window Center Spread" />
       <item value="center Spread Window" />
@@ -1027,27 +1039,15 @@
       <item value="i" />
       <item value="if" />
       <item value="_left" />
-      <item value="_right" />
-      <item value="right" />
-      <item value="如果经历上边逻辑并没有找到result" />
-      <item value="max Result Length" />
-      <item value="直接返回" />
-      <item value="那么说明这个目标字符串s并不含有任何回文子串" />
-      <item value="记录历史最长结果的长度" />
-      <item value="外部for循环" />
-      <item value="遍历" />
-      <item value="但是最多到" />
-      <item value="倒数第二个元素位置" />
-      <item value="需要为right预留索引" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6289" />
+        <entry key="CHINESE" value="6310" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6290" />
+        <entry key="ENGLISH" value="6311" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="41" />
         <entry key="GALICIAN" value="1" />
@@ -1063,7 +1063,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="6" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="9" />
+        <entry key="TAHITIAN" value="12" />
         <entry key="TELUGU" value="2" />
         <entry key="WELSH" value="1" />
       </map>
