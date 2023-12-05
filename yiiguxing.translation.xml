@@ -989,13 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="val" />
+      <item value="length" />
       <item value="niminui" />
       <item value="to Char Array" />
-      <item value="length" />
       <item value="bits" />
       <item value="BYTES" />
       <item value="Integer" />
-      <item value="val" />
       <item value="确定在哪个桶" />
       <item value="sliding Window" />
       <item value="right Val" />
@@ -1044,12 +1044,12 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6320" />
+        <entry key="CHINESE" value="6321" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6320" />
+        <entry key="ENGLISH" value="6321" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="42" />
+        <entry key="FRENCH" value="43" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="10" />
         <entry key="INDONESIAN" value="3" />
