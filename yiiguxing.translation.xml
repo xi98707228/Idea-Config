@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="例如" />
+      <item value="直到" />
       <item value="历史存储的字符不会清空" />
       <item value="此算法最大的有点就是" />
       <item value="解答成功" />
@@ -1037,17 +1039,16 @@
       <item value="contains" />
       <item value="创建存储数据的容器" />
       <item value="remaining Length" />
-      <item value="0000" />
-      <item value="记录最大长度返回结果" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6370" />
+        <entry key="CHINESE" value="6371" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6370" />
+        <entry key="ENGLISH" value="6372" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="44" />
         <entry key="GALICIAN" value="1" />
