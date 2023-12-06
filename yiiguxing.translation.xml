@@ -989,6 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_02_Leet From Center Spread Method" />
+      <item value="leet-code" />
+      <item value="code" />
+      <item value="fetch" />
+      <item value="当前i即为对称轴" />
+      <item value="center Spread Execute" />
+      <item value="int" />
       <item value="以当前元素为回文串最中间位置的元素" />
       <item value="如果他们不相同则直接返回即可" />
       <item value="直到出现对应位置元素不相同位置记录此时的最长回文串" />
@@ -997,8 +1004,6 @@
       <item value="我们仅需要遍历一次从头到尾" />
       <item value="1位为对称轴" />
       <item value="目标源字串" />
-      <item value="_02_Leet From Center Spread Method" />
-      <item value="center Spread Execute" />
       <item value="window Center Spread Method" />
       <item value="最主要的区别就是" />
       <item value="方法一确定当前的窗口是通过遍历left和right" />
@@ -1034,21 +1039,16 @@
       <item value="@param s" />
       <item value="@return" />
       <item value="return" />
-      <item value="param" />
-      <item value="最" />
-      <item value="sliding" />
-      <item value="例如" />
-      <item value="直到" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6448" />
+        <entry key="CHINESE" value="6454" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6448" />
+        <entry key="ENGLISH" value="6455" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="44" />
         <entry key="GALICIAN" value="1" />
@@ -1064,7 +1064,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SLOVAK" value="2" />
-        <entry key="SPANISH" value="6" />
+        <entry key="SPANISH" value="7" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="12" />
         <entry key="TELUGU" value="2" />
