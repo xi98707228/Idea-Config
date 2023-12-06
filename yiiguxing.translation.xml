@@ -989,6 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="区间内的某个元素重复了" />
+      <item value="Leet - 滑动窗口方法 , 也是最优解 总结： &lt;1&gt;.此算法最大的优点就是 不会重复计算(积少成多 运算时间就下来了) 解释: 例如像 abcabcadc 这样的目标字符串,我们从左向右依次以每一个元素枚举作为子串的开始位置" />
+      <item value="此算法最大的优点就是" />
+      <item value="abcabcadc" />
+      <item value="这样的目标字符串" />
+      <item value="sliding Window" />
       <item value="滑动窗口方法" />
       <item value="也是最优解" />
       <item value="此算法最大的有点就是" />
@@ -1006,7 +1012,6 @@
       <item value="@param s" />
       <item value="@return" />
       <item value="return" />
-      <item value="sliding Window" />
       <item value="param" />
       <item value="最" />
       <item value="sliding" />
@@ -1034,25 +1039,20 @@
       <item value="import java.util.HashMap;" />
       <item value="Generic Data -&gt; 2021-11-23 21:44:23" />
       <item value="Leet_3_Longest Substring Without Repeating Characters" />
-      <item value="bit Map" />
-      <item value="break" />
-      <item value="now Window" />
-      <item value="right Val" />
-      <item value="left" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6421" />
+        <entry key="CHINESE" value="6425" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6421" />
+        <entry key="ENGLISH" value="6425" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="44" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="12" />
+        <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
         <entry key="ITALIAN" value="11" />
