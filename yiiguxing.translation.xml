@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="even Ans" />
+      <item value="ans Left" />
+      <item value="odd Ans" />
       <item value="_02_Leet From Center Spread Method" />
       <item value="leet-code" />
       <item value="code" />
@@ -1036,21 +1039,18 @@
       <item value="public boolean contains(int val) { 确定在哪个桶 int pos = val % length; 确定在当前桶的byte的哪一位 int col = val % Integer.SIZE; return (bits[pos] &amp; (1 &lt;&lt; col)) != 0; }" />
       <item value="public void clear() { Arrays.fill(bits, (byte) 0); }" />
       <item value="此算法最大的有点就是 不会重复性计算 , 历史存储的字符不会清空 而是会继续沿用" />
-      <item value="@param s" />
-      <item value="@return" />
-      <item value="return" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6454" />
+        <entry key="CHINESE" value="6456" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6455" />
+        <entry key="ENGLISH" value="6457" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="44" />
+        <entry key="FRENCH" value="45" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="7" />
