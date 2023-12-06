@@ -989,15 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="even Ans" />
+      <item value="center Spread Execute" />
       <item value="ans Left" />
+      <item value="even Ans" />
       <item value="odd Ans" />
       <item value="_02_Leet From Center Spread Method" />
       <item value="leet-code" />
       <item value="code" />
       <item value="fetch" />
       <item value="当前i即为对称轴" />
-      <item value="center Spread Execute" />
       <item value="int" />
       <item value="以当前元素为回文串最中间位置的元素" />
       <item value="如果他们不相同则直接返回即可" />
@@ -1044,11 +1044,11 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6456" />
+        <entry key="CHINESE" value="6458" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6457" />
+        <entry key="ENGLISH" value="6459" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="45" />
         <entry key="GALICIAN" value="1" />
