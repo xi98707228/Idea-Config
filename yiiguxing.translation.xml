@@ -989,6 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="历史存储的字符不会清空" />
+      <item value="Queue" />
+      <item value="import java.util.Map;" />
+      <item value="import java.util.HashMap;" />
+      <item value="Generic Data -&gt; 2021-11-23 21:44:23" />
+      <item value="Leet_3_Longest Substring Without Repeating Characters" />
       <item value="bit Map" />
       <item value="length Of Longest Substring" />
       <item value="break" />
@@ -1033,21 +1039,15 @@
       <item value="以此对称轴为中心从内到外开始扩散 直到出现对应位置元素不相同位置记录此时的最长回文串" />
       <item value="2. 此方法主要注意边界取值 , 每次取对称轴后都需要看下 向左和向右是否达到了界值(left:0 , right: length) , 到达则停止判断回文串" />
       <item value="3. 由于区分奇数对称轴、偶数对称轴 所以我们可以抽取一个公共的方法 同时适配奇数对称、偶数对称" />
-      <item value="方法二: Leet - 从中心扩散方法" />
-      <item value="1. 此方法和方法一(我自己想的暴力破解法) 最主要的区别就是 方法一确定当前的窗口是通过遍历left和right" />
-      <item value="而从中心扩散的方式 我们仅需要遍历一次从头到尾(取对称轴-区分以当前轴为奇数轴还是偶数轴)," />
-      <item value="偶数轴-以当前位置i和i+1位为对称轴 如果他们不相同则直接返回即可 反之则需要继续判断 i-1,i+1+1位置是否相同" />
-      <item value="此方法主要注意边界取值" />
-      <item value="target Chart Arr" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6330" />
+        <entry key="CHINESE" value="6336" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6331" />
+        <entry key="ENGLISH" value="6336" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="43" />
         <entry key="GALICIAN" value="1" />
@@ -1057,7 +1057,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PASHTO" value="1" />
         <entry key="POLISH" value="3" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="9" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="10" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="1" />
         <entry key="SLOVAK" value="1" />
