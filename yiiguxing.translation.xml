@@ -990,8 +990,33 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="历史存储的字符不会清空" />
-      <item value="不会重复性计算" />
       <item value="此算法最大的有点就是" />
+      <item value="解答成功" />
+      <item value="的Java用户" />
+      <item value="length Of Longest Substring" />
+      <item value="pwwkew" />
+      <item value="bbtablud" />
+      <item value="tmmzuxt" />
+      <item value="dvdf" />
+      <item value="value" />
+      <item value="Default" />
+      <item value="Comparable" />
+      <item value="Char Sequence" />
+      <item value="return" />
+      <item value="param" />
+      <item value="sliding Window" />
+      <item value="n" />
+      <item value="length" />
+      <item value="Bit Map" />
+      <item value="bits" />
+      <item value="滑动窗口方法" />
+      <item value="也是最优解" />
+      <item value="Leet" />
+      <item value="不会重复性计算" />
+      <item value="Leet - 滑动窗口方法 , 也是最优解" />
+      <item value="此算法最大的有点就是 不会重复性计算 , 历史存储的字符不会清空 而是会继续沿用" />
+      <item value="Generic Code Java Doc" />
+      <item value="Solution" />
       <item value="而是会继续沿用" />
       <item value="Queue" />
       <item value="import java.util.Map;" />
@@ -999,59 +1024,35 @@
       <item value="Generic Data -&gt; 2021-11-23 21:44:23" />
       <item value="Leet_3_Longest Substring Without Repeating Characters" />
       <item value="bit Map" />
-      <item value="length Of Longest Substring" />
       <item value="break" />
       <item value="now Window" />
       <item value="right Val" />
       <item value="left" />
       <item value="val" />
-      <item value="length" />
       <item value="niminui" />
       <item value="to Char Array" />
-      <item value="bits" />
       <item value="BYTES" />
       <item value="Integer" />
       <item value="确定在哪个桶" />
-      <item value="sliding Window" />
       <item value="contains" />
       <item value="创建存储数据的容器" />
-      <item value="Bit Map" />
       <item value="remaining Length" />
       <item value="0000" />
       <item value="记录最大长度返回结果" />
-      <item value="right" />
-      <item value="Auto fetch: leet-code-idea finished" />
-      <item value="fetch" />
-      <item value="Auto" />
-      <item value="10:13 Auto fetch: leet-code-idea finished" />
-      <item value="result Max Length" />
-      <item value="fill" />
-      <item value="clear" />
-      <item value="string Length" />
-      <item value="每个字符和其下标的映射关系" />
-      <item value="store Char Index Map" />
-      <item value="solution" />
-      <item value="16:40 Auto fetch: leet-code-idea finished" />
-      <item value="16:30 Auto fetch: leet-code-idea finished" />
-      <item value="_02_Leet From Center Spread Method" />
-      <item value="private void windowCenterSpread(){" />
-      <item value="window Center Spread" />
-      <item value="center Spread Window" />
-      <item value="目标源字串" />
-      <item value="center Spread" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6340" />
+        <entry key="CHINESE" value="6370" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6340" />
+        <entry key="ENGLISH" value="6370" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="43" />
+        <entry key="FRENCH" value="44" />
         <entry key="GALICIAN" value="1" />
-        <entry key="GERMAN" value="10" />
+        <entry key="GERMAN" value="12" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
         <entry key="ITALIAN" value="11" />
         <entry key="NORWEGIAN" value="1" />
