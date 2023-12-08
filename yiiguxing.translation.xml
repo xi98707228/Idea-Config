@@ -989,6 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get" />
+      <item value="Http Util" />
+      <item value="response Body" />
+      <item value="send Params Map" />
+      <item value="qr Code" />
+      <item value="token" />
+      <item value="new" />
+      <item value="Hash Map" />
+      <item value="Object" />
+      <item value="String" />
+      <item value="get School Card System Access Token" />
       <item value="object Field Offset" />
       <item value="pair" />
       <item value="current" />
@@ -1028,27 +1039,16 @@
       <item value="code" />
       <item value="fetch" />
       <item value="当前i即为对称轴" />
-      <item value="int" />
-      <item value="以当前元素为回文串最中间位置的元素" />
-      <item value="如果他们不相同则直接返回即可" />
-      <item value="直到出现对应位置元素不相同位置记录此时的最长回文串" />
-      <item value="当前了此轴会区分" />
-      <item value="我们仅需要遍历一次从头到尾" />
-      <item value="1位为对称轴" />
-      <item value="目标源字串" />
-      <item value="window Center Spread Method" />
-      <item value="最主要的区别就是" />
-      <item value="方法一确定当前的窗口是通过遍历left和right" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6496" />
+        <entry key="CHINESE" value="6508" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="6" />
-        <entry key="ENGLISH" value="6497" />
+        <entry key="ENGLISH" value="6509" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="45" />
         <entry key="GALICIAN" value="1" />
@@ -1064,7 +1064,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="3" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="8" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="12" />
         <entry key="TELUGU" value="2" />
