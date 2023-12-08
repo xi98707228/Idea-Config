@@ -989,10 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Base Controller" />
       <item value="报告模板Controller" />
       <item value="insert File Path" />
       <item value="bc template list" />
-      <item value="Base Controller" />
       <item value="bc Template List Service" />
       <item value="Bc Template List Data Search Filter" />
       <item value="Template Attach Module Type" />
@@ -1044,11 +1044,11 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6540" />
+        <entry key="CHINESE" value="6541" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6541" />
+        <entry key="ENGLISH" value="6542" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="45" />
         <entry key="GALICIAN" value="1" />
