@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
       <item value="Array List" />
       <item value="insert Teacher List" />
       <item value="iter" />
@@ -1000,7 +1001,6 @@
       <item value="T" />
       <item value="page Num" />
       <item value="transfer Class Room Data" />
-      <item value="Ajax Result" />
       <item value="LIMIT" />
       <item value="seconds" />
       <item value="Zhkj Application" />
@@ -1044,11 +1044,11 @@
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6660" />
+        <entry key="CHINESE" value="6661" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6661" />
+        <entry key="ENGLISH" value="6662" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="47" />
         <entry key="GALICIAN" value="1" />
