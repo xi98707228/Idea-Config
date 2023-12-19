@@ -989,6 +989,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get KCH" />
+      <item value="先获取所有科目数据信息" />
+      <item value="insert Teacher List" />
+      <item value="T" />
+      <item value="remote Teacher Schedule Service" />
+      <item value="bc edu class time slot" />
+      <item value="FROM" />
+      <item value="int pageTotal = (dataTotal batchHandleSize) + 1;" />
+      <item value="batch Handle Size" />
+      <item value="Date" />
+      <item value="page Total" />
+      <item value="Remote Teacher Schedule" />
+      <item value="page Data List" />
       <item value="bc Edu Class Courses Mapper" />
       <item value="course Time Period" />
       <item value="transfer Time Slot Data" />
@@ -1000,14 +1013,11 @@
       <item value="A cookie header was received" />
       <item value="Ajax Result" />
       <item value="Array List" />
-      <item value="insert Teacher List" />
       <item value="iter" />
       <item value="for Each" />
-      <item value="page Data List" />
       <item value="save Batch" />
       <item value="bc Edu Class Room Service" />
       <item value="NAME ZH" />
-      <item value="T" />
       <item value="page Num" />
       <item value="transfer Class Room Data" />
       <item value="LIMIT" />
@@ -1017,7 +1027,6 @@
       <item value="Http 11 Nio Protocol" />
       <item value="Protocol Handler" />
       <item value="http" />
-      <item value="batch Handle Size" />
       <item value="Bc Edu Class Teacher" />
       <item value="Device Tenement Constants" />
       <item value="Template Room Schedule Data Vo" />
@@ -1030,25 +1039,16 @@
       <item value="Required Args Constructor" />
       <item value="@Request Mapping(&quot;template-schedule&quot;)" />
       <item value="Template Schedule Data Controller" />
-      <item value="Bc Device Tenement Service" />
-      <item value="Started" />
-      <item value="log Started" />
-      <item value="Quartz Scheduler" />
-      <item value="quartz Scheduler NON CLUSTERED" />
-      <item value="start" />
-      <item value="Started ZhkjApplication in 12.2 seconds" />
-      <item value="publish Form" />
-      <item value="template" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6672" />
+        <entry key="CHINESE" value="6688" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6673" />
+        <entry key="ENGLISH" value="6689" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="47" />
         <entry key="GALICIAN" value="1" />
