@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="that contained an invalid cookie. That cookie will be ignored." />
+      <item value="A cookie header was received" />
       <item value="Ajax Result" />
       <item value="Array List" />
       <item value="insert Teacher List" />
@@ -1037,18 +1039,16 @@
       <item value="String Utils" />
       <item value="数据源管理" />
       <item value="data Source Config Service" />
-      <item value="Column Info Bean" />
-      <item value="external Has Contract Amount Other" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6661" />
+        <entry key="CHINESE" value="6663" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6662" />
+        <entry key="ENGLISH" value="6664" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="47" />
         <entry key="GALICIAN" value="1" />
