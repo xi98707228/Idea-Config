@@ -989,6 +989,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get" />
+      <item value="school Term" />
+      <item value="course Schedule List" />
+      <item value="null" />
+      <item value="course Cycle" />
+      <item value="false" />
+      <item value="sequence Interrupt" />
+      <item value="append" />
       <item value="room Schedule Config Data List" />
       <item value="transfer Courses Data" />
       <item value="schedule" />
@@ -1012,10 +1020,8 @@
       <item value="schedule Config" />
       <item value="遍历课程配置表" />
       <item value="course Code" />
-      <item value="course Cycle" />
       <item value="edu Class Room" />
       <item value="return" />
-      <item value="null" />
       <item value="data Total" />
       <item value="log Starting" />
       <item value="LIMIT" />
@@ -1033,22 +1039,16 @@
       <item value="get JSJC" />
       <item value="get KCH" />
       <item value="insert Teacher List" />
-      <item value="T" />
-      <item value="remote Teacher Schedule Service" />
-      <item value="bc edu class time slot" />
-      <item value="FROM" />
-      <item value="int pageTotal = (dataTotal batchHandleSize) + 1;" />
-      <item value="batch Handle Size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6738" />
+        <entry key="CHINESE" value="6756" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6739" />
+        <entry key="ENGLISH" value="6757" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="48" />
         <entry key="GALICIAN" value="1" />
