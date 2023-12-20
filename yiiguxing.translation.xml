@@ -989,12 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Array List" />
+      <item value="v Schedule Time Slot Show Service" />
+      <item value="room Schedule Config Data List" />
+      <item value="V Schedule Time Slot Show" />
+      <item value="school Term" />
+      <item value="get Class Room Id" />
       <item value="time Slot Lists" />
       <item value="Bc Edu Class Time Slot" />
       <item value="teacher Config" />
       <item value="time Slot Config" />
       <item value="get Xn" />
-      <item value="school Term" />
       <item value="星期几" />
       <item value="lambda" />
       <item value="null" />
@@ -1016,11 +1021,9 @@
       <item value="false" />
       <item value="sequence Interrupt" />
       <item value="append" />
-      <item value="room Schedule Config Data List" />
       <item value="transfer Courses Data" />
       <item value="schedule" />
       <item value="transfer Time Slot Schedule Data" />
-      <item value="get Class Room Id" />
       <item value="internal After Statement Execute" />
       <item value="先获取所有科目数据信息" />
       <item value="200" />
@@ -1036,19 +1039,16 @@
       <item value="end Sections" />
       <item value="schedule Config" />
       <item value="遍历课程配置表" />
-      <item value="course Code" />
-      <item value="edu Class Room" />
-      <item value="return" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6823" />
+        <entry key="CHINESE" value="6832" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6824" />
+        <entry key="ENGLISH" value="6833" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="48" />
         <entry key="GALICIAN" value="1" />
