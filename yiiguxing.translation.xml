@@ -989,17 +989,26 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="course Schedule Data List Entry" />
       <item value="course Schedule List" />
+      <item value="course Schedule Data List Map" />
+      <item value="null" />
+      <item value="school Term" />
+      <item value="遍历每一类科目的课表信息" />
+      <item value="Bc Edu Class Schedule" />
+      <item value="time Slot Config" />
+      <item value="bc Edu Class Time Slot Mapper" />
+      <item value="time Slot Lists" />
       <item value="Bc Edu Class Time Slot" />
       <item value="all Week List" />
-      <item value="proxy Schedule" />
-      <item value="Bc Edu Class Schedule" />
-      <item value="time Slot Ids" />
       <item value="courses Config" />
+      <item value="proxy Schedule" />
+      <item value="time Slot Ids" />
+      <item value="Entry" />
+      <item value="is Empty" />
+      <item value="get Schedule Data Item List" />
       <item value="teacher Config" />
       <item value="get" />
-      <item value="school Term" />
-      <item value="null" />
       <item value="course Cycle" />
       <item value="false" />
       <item value="sequence Interrupt" />
@@ -1022,7 +1031,6 @@
       <item value="begin Day Of Week" />
       <item value="begin Sections" />
       <item value="end Sections" />
-      <item value="time Slot Config" />
       <item value="schedule Config" />
       <item value="遍历课程配置表" />
       <item value="course Code" />
@@ -1031,24 +1039,16 @@
       <item value="data Total" />
       <item value="log Starting" />
       <item value="LIMIT" />
-      <item value="KSJC" />
-      <item value="api remote teacher schedule" />
-      <item value="Dispatcher Servlet" />
-      <item value="time Slot Item" />
-      <item value="continue" />
-      <item value="insert Time Slot List" />
-      <item value="insert Schedule List" />
-      <item value="Remote Teacher Schedule" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6765" />
+        <entry key="CHINESE" value="6802" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6766" />
+        <entry key="ENGLISH" value="6803" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="48" />
         <entry key="GALICIAN" value="1" />
