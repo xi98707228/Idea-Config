@@ -989,6 +989,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="internal After Statement Execute" />
+      <item value="先获取所有科目数据信息" />
+      <item value="200" />
+      <item value="temp Batch Size" />
+      <item value="bc Edu Class Courses Service" />
+      <item value="data Day Of Week" />
+      <item value="需要先创建时间槽后才可以关联课表数据关系" />
+      <item value="Integer" />
+      <item value="begin Week" />
+      <item value="begin Of Week" />
+      <item value="begin Day Of Week" />
+      <item value="begin Sections" />
+      <item value="end Sections" />
+      <item value="time Slot Config" />
+      <item value="Bc Edu Class Schedule" />
+      <item value="schedule Config" />
+      <item value="遍历课程配置表" />
+      <item value="course Code" />
+      <item value="course Cycle" />
+      <item value="edu Class Room" />
+      <item value="return" />
+      <item value="null" />
+      <item value="data Total" />
       <item value="log Starting" />
       <item value="LIMIT" />
       <item value="KSJC" />
@@ -1000,14 +1023,11 @@
       <item value="insert Time Slot List" />
       <item value="insert Schedule List" />
       <item value="Bc Edu Class Time Slot" />
-      <item value="data Day Of Week" />
       <item value="Remote Teacher Schedule" />
       <item value="2.3 遍历当前课程的所有教师课表信息 , 然后对每一条课表信息构建新系统的 时间槽、课表数据关联关系" />
-      <item value="需要先创建时间槽后才可以关联课表数据关系" />
       <item value="get KSJC" />
       <item value="get JSJC" />
       <item value="get KCH" />
-      <item value="先获取所有科目数据信息" />
       <item value="insert Teacher List" />
       <item value="T" />
       <item value="remote Teacher Schedule Service" />
@@ -1019,36 +1039,16 @@
       <item value="page Total" />
       <item value="page Data List" />
       <item value="bc Edu Class Courses Mapper" />
-      <item value="course Time Period" />
-      <item value="transfer Time Slot Data" />
-      <item value="transfer Courses Data" />
-      <item value="Transfer Service" />
-      <item value="18" />
-      <item value="987072248" />
-      <item value="that contained an invalid cookie. That cookie will be ignored." />
-      <item value="A cookie header was received" />
-      <item value="Ajax Result" />
-      <item value="Array List" />
-      <item value="iter" />
-      <item value="for Each" />
-      <item value="save Batch" />
-      <item value="bc Edu Class Room Service" />
-      <item value="NAME ZH" />
-      <item value="page Num" />
-      <item value="transfer Class Room Data" />
-      <item value="seconds" />
-      <item value="Zhkj Application" />
-      <item value="Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6709" />
+        <entry key="CHINESE" value="6733" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6710" />
+        <entry key="ENGLISH" value="6734" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="48" />
         <entry key="GALICIAN" value="1" />
