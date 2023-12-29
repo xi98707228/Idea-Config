@@ -989,6 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="property Standards" />
+      <item value="Address Remarks" />
+      <item value="Address; Remarks;" />
+      <item value="tenement tenement" />
+      <item value="tenement Remarks" />
+      <item value="园区属性" />
       <item value="building Rent Category" />
       <item value="Validator" />
       <item value="Camera Regions" />
@@ -1033,12 +1039,6 @@
       <item value="scheduled Executor Service" />
       <item value="get Data Group" />
       <item value="Assets Statistics Static Constants" />
-      <item value="Assets Statistics Static Data" />
-      <item value="Scheduled Executor Service" />
-      <item value="get And Load Statistics Static Data" />
-      <item value="statistics Static Data Service" />
-      <item value="schedule With Fixed Delay" />
-      <item value="schedule At Fixed Rate" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6956" />
+        <entry key="CHINESE" value="6961" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6957" />
+        <entry key="ENGLISH" value="6962" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
@@ -1069,7 +1069,7 @@
         <entry key="SLOVAK" value="4" />
         <entry key="SPANISH" value="8" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="21" />
+        <entry key="TAHITIAN" value="23" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="WELSH" value="1" />
