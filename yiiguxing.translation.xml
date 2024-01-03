@@ -989,6 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="10:08:41.494 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 11.947 seconds (JVM running for 13.876)" />
+      <item value="10:08:41.485 [restartedMain] INFO o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler__NON_CLUSTERED started." />
+      <item value="10:09:45.898 [http-nio-16000-exec-1] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [Hm_lvt_33068bcdcd846652c6764a1ffa361ec1=1692262917,1692321479] that contained an invalid cookie. That cookie will be ignored." />
+      <item value="That cookie will be ignored." />
+      <item value="A cookie header was received" />
+      <item value="Hm lvt_33068 bcdcd 846652 c 6764 a 1 ffa 361 ec 1" />
+      <item value="cookie" />
       <item value="log Started" />
       <item value="Ajax Result" />
       <item value="Path Variable" />
@@ -1032,13 +1039,6 @@
       <item value="tenant Row Id" />
       <item value="987072248" />
       <item value="Tenement Status" />
-      <item value="FREE" />
-      <item value="username" />
-      <item value="lambdainitialization Internal Number 17" />
-      <item value="set Application Context" />
-      <item value="Starting" />
-      <item value="Table Info Helper" />
-      <item value="init Table Fields" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,18 +1046,18 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="6995" />
+        <entry key="CHINESE" value="7001" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="6996" />
+        <entry key="ENGLISH" value="7002" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="11" />
+        <entry key="ITALIAN" value="12" />
         <entry key="JAPANESE" value="4" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="1" />
