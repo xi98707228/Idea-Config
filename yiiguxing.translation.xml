@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="本地或者公司测试服务器" />
       <item value="thread Pool Task Executor" />
       <item value="10:08:41.494 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 11.947 seconds (JVM running for 13.876)" />
       <item value="10:08:41.485 [restartedMain] INFO o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler__NON_CLUSTERED started." />
@@ -1038,7 +1039,6 @@
       <item value="contract Name" />
       <item value="contract Row Id" />
       <item value="tenant Row Id" />
-      <item value="987072248" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,7 +1046,7 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7002" />
+        <entry key="CHINESE" value="7003" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
