@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="children" />
+      <item value="singleton List" />
       <item value="Web Socket Server Support" />
       <item value="send Client Info" />
       <item value="test Connection Internal" />
@@ -1037,8 +1039,6 @@
       <item value="HP 1703819990396_Misfire Handler" />
       <item value="property Standards" />
       <item value="Address Remarks" />
-      <item value="Address; Remarks;" />
-      <item value="tenement tenement" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7016" />
+        <entry key="CHINESE" value="7018" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7017" />
+        <entry key="ENGLISH" value="7019" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
