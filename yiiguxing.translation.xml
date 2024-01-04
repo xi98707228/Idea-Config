@@ -989,6 +989,20 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="spring" />
+      <item value="profiles" />
+      <item value="本地或者公司测试服务器" />
+      <item value="active: localhost" />
+      <item value="select Dept By Parent Id" />
+      <item value="String Utils" />
+      <item value="Communications Exception" />
+      <item value="exceptions" />
+      <item value="Caused by: com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: GlobalConfigUtils setMetaData Fail ! Cause:com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure" />
+      <item value="Cause" />
+      <item value="mysql" />
+      <item value="from" />
+      <item value="server" />
+      <item value="milliseconds" />
       <item value="即禁用" />
       <item value="如果当前客户下边没有创建任何人员那么就不能选择" />
       <item value="如果直接使用List接口中的remove" />
@@ -996,7 +1010,6 @@
       <item value="discard long time none received connection" />
       <item value="test Connection Internal" />
       <item value="Druid Abstract Data Source" />
-      <item value="select Dept By Parent Id" />
       <item value="Tree Select" />
       <item value="detected" />
       <item value="custom Contract Relation Service" />
@@ -1026,19 +1039,6 @@
       <item value="EXCEPTION ATTRIBUTE" />
       <item value="enable Auto Task" />
       <item value="Seconds" />
-      <item value="本地或者公司测试服务器" />
-      <item value="thread Pool Task Executor" />
-      <item value="10:08:41.494 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 11.947 seconds (JVM running for 13.876)" />
-      <item value="10:08:41.485 [restartedMain] INFO o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler__NON_CLUSTERED started." />
-      <item value="10:09:45.898 [http-nio-16000-exec-1] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [Hm_lvt_33068bcdcd846652c6764a1ffa361ec1=1692262917,1692321479] that contained an invalid cookie. That cookie will be ignored." />
-      <item value="That cookie will be ignored." />
-      <item value="A cookie header was received" />
-      <item value="Hm lvt_33068 bcdcd 846652 c 6764 a 1 ffa 361 ec 1" />
-      <item value="cookie" />
-      <item value="log Started" />
-      <item value="Ajax Result" />
-      <item value="Path Variable" />
-      <item value="assets Tenement Service" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7040" />
+        <entry key="CHINESE" value="7053" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7041" />
+        <entry key="ENGLISH" value="7054" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
