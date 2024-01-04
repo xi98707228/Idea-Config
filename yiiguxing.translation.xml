@@ -989,6 +989,14 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="即禁用" />
+      <item value="如果当前客户下边没有创建任何人员那么就不能选择" />
+      <item value="如果直接使用List接口中的remove" />
+      <item value="剔除部门下无人员的部门" />
+      <item value="discard long time none received connection" />
+      <item value="test Connection Internal" />
+      <item value="Druid Abstract Data Source" />
+      <item value="select Dept By Parent Id" />
       <item value="Tree Select" />
       <item value="detected" />
       <item value="custom Contract Relation Service" />
@@ -1010,8 +1018,6 @@
       <item value="singleton List" />
       <item value="Web Socket Server Support" />
       <item value="send Client Info" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
       <item value="root Id" />
       <item value="Long" />
       <item value="select Tree List" />
@@ -1033,12 +1039,6 @@
       <item value="Ajax Result" />
       <item value="Path Variable" />
       <item value="assets Tenement Service" />
-      <item value="row Id" />
-      <item value="info" />
-      <item value="row" />
-      <item value="get Row Info" />
-      <item value="contract Remarks" />
-      <item value="contract Start Date" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7034" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE" value="7040" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7035" />
+        <entry key="ENGLISH" value="7041" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
@@ -1058,7 +1058,7 @@
         <entry key="HINDI" value="8" />
         <entry key="INDONESIAN" value="4" />
         <entry key="ITALIAN" value="12" />
-        <entry key="JAPANESE" value="4" />
+        <entry key="JAPANESE" value="5" />
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PASHTO" value="1" />
