@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query Data List" />
+      <item value="compiler" />
+      <item value="Reposity Back" />
+      <item value="Copying 65 resources" />
       <item value="spring" />
       <item value="profiles" />
       <item value="本地或者公司测试服务器" />
@@ -1035,10 +1039,6 @@
       <item value="Long" />
       <item value="select Tree List" />
       <item value="springframework" />
-      <item value="Filter Chain Proxy Virtual Filter Chain" />
-      <item value="EXCEPTION ATTRIBUTE" />
-      <item value="enable Auto Task" />
-      <item value="Seconds" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7053" />
+        <entry key="CHINESE" value="7057" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7054" />
+        <entry key="ENGLISH" value="7058" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
