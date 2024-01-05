@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="facility Standard" />
       <item value="ASSETS FACILITY DICT ICON IMAGE" />
       <item value="module Type" />
       <item value="Override" />
@@ -1038,7 +1039,6 @@
       <item value="Request Mapping" />
       <item value="extends" />
       <item value="Rest Controller" />
-      <item value="dict" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7167" />
+        <entry key="CHINESE" value="7168" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7168" />
+        <entry key="ENGLISH" value="7169" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
