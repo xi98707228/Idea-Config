@@ -989,13 +989,35 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Call" />
+      <item value="success" />
+      <item value="search Dict Data List" />
+      <item value="Assets Facility Dict Composition" />
+      <item value="get Data Table" />
+      <item value="result Table Data" />
+      <item value="Ajax Result" />
+      <item value="Post Mapping" />
+      <item value="operate Data" />
+      <item value="Assets Facility Dict Controller" />
+      <item value="assets Facility Dict Service" />
+      <item value="Assets Facility Dict Service" />
+      <item value="public" />
+      <item value="Request Mapping" />
+      <item value="extends" />
+      <item value="Rest Controller" />
+      <item value="dict" />
+      <item value="Base Controller" />
+      <item value="facility Name" />
+      <item value="icon id" />
+      <item value="facility standard" />
+      <item value="result Map" />
+      <item value="assets Facility Dict Data Result Map" />
+      <item value="create nick" />
       <item value="assets facility dict" />
       <item value="Assets Facility Dict" />
       <item value="facility Icon Attach Id" />
-      <item value="assets Facility Dict Service" />
       <item value="facility Standard" />
       <item value="ASSIGN ID" />
-      <item value="facility Name" />
       <item value="sample" />
       <item value="Nested Configuration Property" />
       <item value="has Text" />
@@ -1017,28 +1039,6 @@
       <item value="from" />
       <item value="server" />
       <item value="milliseconds" />
-      <item value="即禁用" />
-      <item value="如果当前客户下边没有创建任何人员那么就不能选择" />
-      <item value="如果直接使用List接口中的remove" />
-      <item value="剔除部门下无人员的部门" />
-      <item value="discard long time none received connection" />
-      <item value="test Connection Internal" />
-      <item value="Druid Abstract Data Source" />
-      <item value="Tree Select" />
-      <item value="detected" />
-      <item value="custom Contract Relation Service" />
-      <item value="wait Remove Item" />
-      <item value="Custom Contract File Relation" />
-      <item value="JVM" />
-      <item value="running" />
-      <item value="Started" />
-      <item value="seconds" />
-      <item value="Zhkj Application" />
-      <item value="quartz Scheduler NON CLUSTERED" />
-      <item value="Scheduler" />
-      <item value="Quartz Scheduler" />
-      <item value="Http 11 Nio Protocol" />
-      <item value="Synthesized Annotations" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7067" />
+        <entry key="CHINESE" value="7100" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7068" />
+        <entry key="ENGLISH" value="7101" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
