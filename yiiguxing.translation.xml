@@ -989,7 +989,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ASSETS FACILITY DICT ICON IMAGE" />
+      <item value="module Type" />
+      <item value="Override" />
+      <item value="Assets Facility Dict Composition" />
+      <item value="assets Facility Dict Mapper" />
+      <item value="移除行字典数据" />
+      <item value="return" />
       <item value="row Id" />
+      <item value="param" />
+      <item value="remove Row Info" />
       <item value="row" />
       <item value="Dynamic" />
       <item value="Read Only Java Bean Boolean Property" />
@@ -1020,7 +1029,6 @@
       <item value="copy Properties" />
       <item value="Call" />
       <item value="search Dict Data List" />
-      <item value="Assets Facility Dict Composition" />
       <item value="get Data Table" />
       <item value="Post Mapping" />
       <item value="operate Data" />
@@ -1031,14 +1039,6 @@
       <item value="extends" />
       <item value="Rest Controller" />
       <item value="dict" />
-      <item value="Base Controller" />
-      <item value="facility Name" />
-      <item value="icon id" />
-      <item value="facility standard" />
-      <item value="result Map" />
-      <item value="assets Facility Dict Data Result Map" />
-      <item value="create nick" />
-      <item value="assets facility dict" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7157" />
+        <entry key="CHINESE" value="7167" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7158" />
+        <entry key="ENGLISH" value="7168" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
