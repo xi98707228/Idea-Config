@@ -989,13 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Table Data Info" />
+      <item value="F" />
+      <item value="search Filter" />
+      <item value="Assets Facility Dict Composition" />
+      <item value="result Table Data" />
       <item value="连接关闭" />
       <item value="Web Socket Template Session" />
       <item value="facility Standard" />
       <item value="ASSETS FACILITY DICT ICON IMAGE" />
       <item value="module Type" />
       <item value="Override" />
-      <item value="Assets Facility Dict Composition" />
       <item value="assets Facility Dict Mapper" />
       <item value="移除行字典数据" />
       <item value="return" />
@@ -1007,7 +1011,6 @@
       <item value="Read Only Java Bean Boolean Property" />
       <item value="success" />
       <item value="Ajax Result" />
-      <item value="result Table Data" />
       <item value="operate" />
       <item value="Request Body" />
       <item value="assets Facility Dict Service" />
@@ -1036,9 +1039,6 @@
       <item value="Post Mapping" />
       <item value="operate Data" />
       <item value="Assets Facility Dict Controller" />
-      <item value="Assets Facility Dict Service" />
-      <item value="public" />
-      <item value="Request Mapping" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7170" />
+        <entry key="CHINESE" value="7174" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7170" />
+        <entry key="ENGLISH" value="7175" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
