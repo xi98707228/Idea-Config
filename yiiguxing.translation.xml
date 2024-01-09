@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bc Device Tenement Data Search Filter" />
+      <item value="Bc Device Tenement Type Data Select Part View" />
       <item value="Spring Boot Version: 2.5.15" />
       <item value="Connected to the target VM, address: '127.0.0.1:51500', transport: 'socket'" />
       <item value="51500" />
@@ -1037,8 +1039,6 @@
       <item value="Form Data" />
       <item value="@Override" />
       <item value="operate Dict Data" />
-      <item value="Security Utils" />
-      <item value="get User Id" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7192" />
+        <entry key="CHINESE" value="7194" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7193" />
+        <entry key="ENGLISH" value="7195" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="50" />
         <entry key="GALICIAN" value="1" />
