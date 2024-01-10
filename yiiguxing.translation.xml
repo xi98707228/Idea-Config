@@ -989,17 +989,30 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Row Id" />
+      <item value="cell Data List" />
+      <item value="No Args Constructor" />
+      <item value="All Args Constructor" />
+      <item value="Data" />
+      <item value="Builder" />
       <item value="exclude Types" />
+      <item value="Integer" />
+      <item value="parse Int" />
+      <item value="root Part View" />
+      <item value="Tenement Type" />
+      <item value="now Tenement Type" />
       <item value="get Type Code" />
       <item value="ROOM" />
-      <item value="Array List" />
-      <item value="get Tenement Type Data Part View List" />
       <item value="get Now Tenement Children Data List" />
+      <item value="Bc Device Tenement Type Data Select Part View" />
+      <item value="Array List" />
+      <item value="travel" />
+      <item value="如果当前层级还存在 子节点数据 那么久就递归 再次遍历子节点层级数据" />
+      <item value="get Tenement Type Data Part View List" />
       <item value="template Id" />
       <item value="template Type" />
       <item value="init Table Fields" />
       <item value="Bc Device Tenement Data Search Filter" />
-      <item value="Bc Device Tenement Type Data Select Part View" />
       <item value="Spring Boot Version: 2.5.15" />
       <item value="Connected to the target VM, address: '127.0.0.1:51500', transport: 'socket'" />
       <item value="51500" />
@@ -1026,19 +1039,6 @@
       <item value="Override" />
       <item value="assets Facility Dict Mapper" />
       <item value="移除行字典数据" />
-      <item value="return" />
-      <item value="row Id" />
-      <item value="param" />
-      <item value="remove Row Info" />
-      <item value="row" />
-      <item value="Dynamic" />
-      <item value="Read Only Java Bean Boolean Property" />
-      <item value="success" />
-      <item value="Ajax Result" />
-      <item value="operate" />
-      <item value="Request Body" />
-      <item value="assets Facility Dict Service" />
-      <item value="Object" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,13 +1046,13 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7205" />
+        <entry key="CHINESE" value="7225" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7206" />
+        <entry key="ENGLISH" value="7226" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="50" />
+        <entry key="FRENCH" value="51" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
@@ -1067,7 +1067,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="9" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="23" />
         <entry key="TELUGU" value="2" />
