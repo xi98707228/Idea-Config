@@ -989,8 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Dispatcher Servlet" />
       <item value="dispatcher Servlet" />
+      <item value="登录成功" />
+      <item value="Initializing" />
+      <item value="Dispatcher Servlet" />
+      <item value="log" />
+      <item value="facility Dict Enable" />
+      <item value="Assets Facility Manage Composition" />
+      <item value="Assets Facility Manage" />
+      <item value="icon Name" />
+      <item value="icon Id" />
+      <item value="20" />
+      <item value="10" />
+      <item value="qq" />
+      <item value="com" />
+      <item value="987072248" />
       <item value="Ajax Result" />
       <item value="tools" />
       <item value="fastinfoset" />
@@ -1026,19 +1039,6 @@
       <item value="Spring Boot Version: 2.5.15" />
       <item value="Connected to the target VM, address: '127.0.0.1:51500', transport: 'socket'" />
       <item value="51500" />
-      <item value="socket" />
-      <item value="facility Name" />
-      <item value="private" />
-      <item value="Json Format" />
-      <item value="exclude Name" />
-      <item value="Returns: the class names to exclude" />
-      <item value="default" />
-      <item value="facility Status" />
-      <item value="facility Icon Attach Id" />
-      <item value="Assets Facility Dict" />
-      <item value="facility Standard" />
-      <item value="Table Data Info" />
-      <item value="F" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,13 +1046,13 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7233" />
+        <entry key="CHINESE" value="7249" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7233" />
+        <entry key="ENGLISH" value="7249" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="56" />
+        <entry key="FRENCH" value="58" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
@@ -1063,7 +1063,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PASHTO" value="1" />
         <entry key="POLISH" value="3" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="13" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="14" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
