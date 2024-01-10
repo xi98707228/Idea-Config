@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
+      <item value="Ajax Result" />
       <item value="tools" />
       <item value="fastinfoset" />
       <item value="internal" />
@@ -1036,9 +1039,6 @@
       <item value="facility Standard" />
       <item value="Table Data Info" />
       <item value="F" />
-      <item value="search Filter" />
-      <item value="Assets Facility Dict Composition" />
-      <item value="result Table Data" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,13 +1046,13 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7231" />
+        <entry key="CHINESE" value="7233" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7232" />
+        <entry key="ENGLISH" value="7233" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="54" />
+        <entry key="FRENCH" value="56" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
