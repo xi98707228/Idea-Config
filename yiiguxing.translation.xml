@@ -989,6 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@author xqh , 987072248@qq.com" />
+      <item value="@data 2024-01-10 15:55:16" />
+      <item value="extends" />
+      <item value="composition" />
+      <item value="List" />
+      <item value="Assets Facility Manage Composition" />
       <item value="row id" />
       <item value="assets Facility Manage Service" />
       <item value="设施字典数据列表" />
@@ -1021,7 +1027,6 @@
       <item value="Dispatcher Servlet" />
       <item value="log" />
       <item value="facility Dict Enable" />
-      <item value="Assets Facility Manage Composition" />
       <item value="Assets Facility Manage" />
       <item value="icon Name" />
       <item value="icon Id" />
@@ -1034,11 +1039,6 @@
       <item value="tools" />
       <item value="fastinfoset" />
       <item value="internal" />
-      <item value="Assets Facility Manage Service Impl" />
-      <item value="tenement Type" />
-      <item value="tenement type" />
-      <item value="foreach" />
-      <item value="get Row Id" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1047,11 +1047,11 @@
         <entry key="BENGALI" value="3" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7286" />
+        <entry key="CHINESE" value="7296" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7287" />
+        <entry key="ENGLISH" value="7297" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="60" />
         <entry key="GALICIAN" value="3" />
