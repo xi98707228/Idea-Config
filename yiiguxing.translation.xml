@@ -989,6 +989,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="row id" />
+      <item value="ata" />
+      <item value="icon id" />
+      <item value="facility status" />
+      <item value="assets tenement" />
+      <item value="assets facility manage" />
+      <item value="assets facility dict" />
+      <item value="tenement name" />
+      <item value="t" />
+      <item value="facility dict enable" />
+      <item value="facility dict id" />
+      <item value="facility standard" />
+      <item value="facility name" />
+      <item value="tenement room id" />
+      <item value="module id" />
+      <item value="act template attach" />
+      <item value="tenement Id" />
+      <item value="create time" />
+      <item value="ATE.CREATE TIME" />
       <item value="init Table Id With Annotation" />
       <item value="设施字典数据列表" />
       <item value="Assets Facility Manage Service" />
@@ -1020,40 +1039,22 @@
       <item value="foreach" />
       <item value="get Row Id" />
       <item value="cell Data List" />
-      <item value="No Args Constructor" />
-      <item value="All Args Constructor" />
-      <item value="Data" />
-      <item value="Builder" />
-      <item value="exclude Types" />
-      <item value="Integer" />
-      <item value="parse Int" />
-      <item value="root Part View" />
-      <item value="Tenement Type" />
-      <item value="now Tenement Type" />
-      <item value="get Type Code" />
-      <item value="ROOM" />
-      <item value="get Now Tenement Children Data List" />
-      <item value="Bc Device Tenement Type Data Select Part View" />
-      <item value="Array List" />
-      <item value="travel" />
-      <item value="如果当前层级还存在 子节点数据 那么久就递归 再次遍历子节点层级数据" />
-      <item value="get Tenement Type Data Part View List" />
-      <item value="template Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="2" />
         <entry key="AMHARIC" value="1" />
+        <entry key="BENGALI" value="3" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7254" />
+        <entry key="CHINESE" value="7284" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7255" />
+        <entry key="ENGLISH" value="7285" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="58" />
-        <entry key="GALICIAN" value="1" />
+        <entry key="FRENCH" value="60" />
+        <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
         <entry key="INDONESIAN" value="4" />
@@ -1069,7 +1070,7 @@
         <entry key="SLOVAK" value="4" />
         <entry key="SPANISH" value="9" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="23" />
+        <entry key="TAHITIAN" value="24" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="WELSH" value="1" />
