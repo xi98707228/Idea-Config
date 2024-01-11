@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="设施字典数据列表" />
       <item value="Assets Facility Manage Service" />
       <item value="tenement" />
       <item value="get Tenement Dict Data List" />
@@ -1038,7 +1039,6 @@
       <item value="如果当前层级还存在 子节点数据 那么久就递归 再次遍历子节点层级数据" />
       <item value="get Tenement Type Data Part View List" />
       <item value="template Id" />
-      <item value="template Type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,7 +1046,7 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7253" />
+        <entry key="CHINESE" value="7254" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
