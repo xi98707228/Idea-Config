@@ -989,12 +989,12 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="init Table Id With Annotation" />
       <item value="设施字典数据列表" />
       <item value="Assets Facility Manage Service" />
       <item value="tenement" />
       <item value="get Tenement Dict Data List" />
       <item value="init Table Fields" />
-      <item value="init Table Id With Annotation" />
       <item value="dispatcher Servlet" />
       <item value="登录成功" />
       <item value="Initializing" />
@@ -1050,7 +1050,7 @@
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7254" />
+        <entry key="ENGLISH" value="7255" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="58" />
         <entry key="GALICIAN" value="1" />
