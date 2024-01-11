@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assets Facility Manage Service" />
+      <item value="tenement" />
+      <item value="get Tenement Dict Data List" />
       <item value="init Table Fields" />
       <item value="init Table Id With Annotation" />
       <item value="dispatcher Servlet" />
@@ -1036,9 +1039,6 @@
       <item value="get Tenement Type Data Part View List" />
       <item value="template Id" />
       <item value="template Type" />
-      <item value="Bc Device Tenement Data Search Filter" />
-      <item value="Spring Boot Version: 2.5.15" />
-      <item value="Connected to the target VM, address: '127.0.0.1:51500', transport: 'socket'" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,11 +1046,11 @@
         <entry key="AMHARIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7250" />
+        <entry key="CHINESE" value="7253" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7251" />
+        <entry key="ENGLISH" value="7254" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="58" />
         <entry key="GALICIAN" value="1" />
