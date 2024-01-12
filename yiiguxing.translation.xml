@@ -989,13 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="modify Manage Dict Data" />
       <item value="transport" />
       <item value="quartz Scheduler NON CLUSTERED" />
       <item value="Scheduler" />
       <item value="Quartz Scheduler" />
       <item value="NOSONAR" />
       <item value="close Quietly" />
-      <item value="modify Manage Dict Data" />
       <item value="set Create Author" />
       <item value="Assets Facility Manage" />
       <item value="set Facility Dict Enable" />
@@ -1047,11 +1047,11 @@
         <entry key="BENGALI" value="3" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7325" />
+        <entry key="CHINESE" value="7326" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7326" />
+        <entry key="ENGLISH" value="7327" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="60" />
         <entry key="GALICIAN" value="3" />
