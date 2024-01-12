@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenement Id" />
+      <item value="get Tenement Dict Data List" />
+      <item value="only Type" />
+      <item value="only Types" />
       <item value="Loading" />
       <item value="configuration" />
       <item value="Running" />
@@ -1035,10 +1039,6 @@
       <item value="facility status" />
       <item value="assets tenement" />
       <item value="assets facility manage" />
-      <item value="assets facility dict" />
-      <item value="tenement name" />
-      <item value="t" />
-      <item value="facility dict enable" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1047,13 +1047,13 @@
         <entry key="BENGALI" value="3" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7344" />
+        <entry key="CHINESE" value="7348" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7345" />
+        <entry key="ENGLISH" value="7348" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="60" />
+        <entry key="FRENCH" value="61" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
