@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenement Name" />
       <item value="save Facility Dict Ids" />
       <item value="Quartz Scheduler" />
       <item value="restarted Main" />
@@ -1006,7 +1007,6 @@
       <item value="set Fail Continuous" />
       <item value="data Source" />
       <item value="Connection Pool" />
-      <item value="tenement Name" />
       <item value="删除楼宇中关联的字典数据信息" />
       <item value="Ajax Result" />
       <item value="tenement Id" />
@@ -1044,10 +1044,10 @@
       <map>
         <entry key="ALBANIAN" value="2" />
         <entry key="AMHARIC" value="1" />
-        <entry key="BENGALI" value="4" />
+        <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7376" />
+        <entry key="CHINESE" value="7377" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
