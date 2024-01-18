@@ -989,13 +989,32 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Logger" />
+      <item value="Logger Factory" />
+      <item value="get Now Room Code Schedule Data Info" />
+      <item value="schedule Head Detail Part Dto" />
+      <item value="schedule Data Item Dto" />
+      <item value="Schedule Head Detail Part Dto" />
+      <item value="get Schedule Head Detail Part Info" />
+      <item value="room Id" />
+      <item value="head Detail Part" />
+      <item value="get Schedule Data Item List" />
+      <item value="Schedule Head Detail Part" />
+      <item value="String" />
+      <item value="room Code" />
+      <item value="Template Room Schedule Data Vo" />
+      <item value="LOGGER" />
+      <item value="schedule Data Item List" />
+      <item value="error" />
+      <item value="当前设备关联的房间" />
+      <item value="device Room Tenement Row Data" />
+      <item value="Device Tenement Constants" />
       <item value="获取文件信息异常" />
       <item value="zhkj project" />
       <item value="upload" />
       <item value="project home" />
       <item value="get File Not Down" />
       <item value="DEVICE BING DATA EXCEPTION" />
-      <item value="当前设备关联的房间" />
       <item value="get Open Id Map By Phone Number List" />
       <item value="Zhkj Application" />
       <item value="Started" />
@@ -1020,25 +1039,6 @@
       <item value="Ajax Result" />
       <item value="redis Cache" />
       <item value="device Redis Key" />
-      <item value="event Publish Template Heart Flag" />
-      <item value="template" />
-      <item value="Path Variable" />
-      <item value="row Id" />
-      <item value="remove" />
-      <item value="remove Row Data" />
-      <item value="attach" />
-      <item value="String" />
-      <item value="remove Attach Row Data" />
-      <item value="operate Data" />
-      <item value="查找系统内的APP" />
-      <item value="Logo数据记录" />
-      <item value="Assets Application App Logo Composition" />
-      <item value="select System App Logo Data List" />
-      <item value="run Later" />
-      <item value="n L" />
-      <item value="Platform" />
-      <item value="schedule Dispatch" />
-      <item value="get Combined ACC" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7482" />
+        <entry key="CHINESE" value="7524" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7482" />
+        <entry key="ENGLISH" value="7525" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="61" />
+        <entry key="FRENCH" value="62" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
