@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="null" />
       <item value="select Current Device Schedule Table Data" />
       <item value="@data 2024-01-18 11:57:38" />
       <item value="Service" />
@@ -1038,7 +1039,6 @@
       <item value="zhkj project" />
       <item value="upload" />
       <item value="project home" />
-      <item value="get File Not Down" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7556" />
+        <entry key="CHINESE" value="7557" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7557" />
+        <entry key="ENGLISH" value="7558" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="63" />
         <entry key="GALICIAN" value="3" />
