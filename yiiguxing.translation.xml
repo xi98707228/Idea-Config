@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="select Current Device Schedule Table Data" />
       <item value="Assets Application App Search Filter" />
       <item value="select System App Logo Data List" />
       <item value="update user nick" />
@@ -1038,7 +1039,6 @@
       <item value="init Table Id With Annotation" />
       <item value="init Table Fields" />
       <item value="维保正式服务器" />
-      <item value="active: developserver-test" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7548" />
+        <entry key="CHINESE" value="7549" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7549" />
+        <entry key="ENGLISH" value="7550" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="63" />
         <entry key="GALICIAN" value="3" />
