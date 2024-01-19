@@ -989,8 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="null" />
+      <item value="DEVICE BING DATA EXCEPTION" />
+      <item value="serial Version UID" />
       <item value="select Current Device Schedule Table Data" />
+      <item value="null" />
       <item value="@data 2024-01-18 11:57:38" />
       <item value="Service" />
       <item value="App Schedule Data Service" />
@@ -1037,8 +1039,6 @@
       <item value="Device Tenement Constants" />
       <item value="获取文件信息异常" />
       <item value="zhkj project" />
-      <item value="upload" />
-      <item value="project home" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7557" />
+        <entry key="CHINESE" value="7560" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7558" />
+        <entry key="ENGLISH" value="7561" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="63" />
         <entry key="GALICIAN" value="3" />
