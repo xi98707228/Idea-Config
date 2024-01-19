@@ -989,6 +989,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bc Device Tenement Service" />
+      <item value="now Device Bind Tenement Row Data" />
+      <item value="Bc Device Tenement" />
+      <item value="device Room Tenement Row Data" />
+      <item value="Device Tenement Constants" />
       <item value="DEVICE BING DATA EXCEPTION" />
       <item value="serial Version UID" />
       <item value="select Current Device Schedule Table Data" />
@@ -1034,11 +1039,6 @@
       <item value="LOGGER" />
       <item value="schedule Data Item List" />
       <item value="error" />
-      <item value="当前设备关联的房间" />
-      <item value="device Room Tenement Row Data" />
-      <item value="Device Tenement Constants" />
-      <item value="获取文件信息异常" />
-      <item value="zhkj project" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7560" />
+        <entry key="CHINESE" value="7563" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7561" />
+        <entry key="ENGLISH" value="7564" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="63" />
+        <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
@@ -1071,7 +1071,7 @@
         <entry key="SLOVAK" value="4" />
         <entry key="SPANISH" value="9" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="24" />
+        <entry key="TAHITIAN" value="27" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="WELSH" value="2" />
