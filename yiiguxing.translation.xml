@@ -989,16 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schedule Head Detail Part Dto" />
+      <item value="room Id" />
+      <item value="Long" />
+      <item value="schedule Data Item Dto" />
+      <item value="build" />
+      <item value="schedule Data Item List" />
+      <item value="app Get Now Room Schedule Table Data" />
       <item value="Ajax Result" />
       <item value="select Current Device Schedule Table Data" />
       <item value="schedule Time Slot Show" />
       <item value="V Schedule Time Slot Show" />
       <item value="不存在当前教室代码数据记录" />
       <item value="get Schedule Data Item List" />
-      <item value="schedule Head Detail Part Dto" />
       <item value="Schedule Head Detail Part" />
       <item value="Schedule Data Item Dto" />
-      <item value="schedule Data Item Dto" />
       <item value="Template Room Schedule Data Vo" />
       <item value="get Schedule Data Item Part List" />
       <item value="room Code" />
@@ -1034,11 +1039,6 @@
       <item value="16:24:25.190 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 15.952 seconds (JVM running for 18.504)" />
       <item value="Zhkj Application" />
       <item value="dispatcher Servlet" />
-      <item value="Table Info Helper" />
-      <item value="implementation" />
-      <item value="log Started" />
-      <item value="Currently" />
-      <item value="get Logger" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7582" />
+        <entry key="CHINESE" value="7594" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7583" />
+        <entry key="ENGLISH" value="7595" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
