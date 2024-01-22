@@ -989,6 +989,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="bc Device Tenement Service" />
+      <item value="is Empty" />
+      <item value="APP EMPTY PAGE URL" />
+      <item value="get Room Code" />
+      <item value="Bc Edu Class Room" />
+      <item value="edu Class Room" />
+      <item value="Date" />
+      <item value="schedule Head Detail Part" />
+      <item value="Schedule Head Detail Part" />
+      <item value="now Date" />
+      <item value="new" />
+      <item value="tenement Room Name" />
+      <item value="day Of Week Name" />
+      <item value="room Capacity" />
+      <item value="get Capacity" />
       <item value="schedule Head Detail Part Dto" />
       <item value="room Id" />
       <item value="Long" />
@@ -996,22 +1012,18 @@
       <item value="build" />
       <item value="schedule Data Item List" />
       <item value="app Get Now Room Schedule Table Data" />
-      <item value="Ajax Result" />
       <item value="select Current Device Schedule Table Data" />
       <item value="schedule Time Slot Show" />
       <item value="V Schedule Time Slot Show" />
       <item value="不存在当前教室代码数据记录" />
       <item value="get Schedule Data Item List" />
-      <item value="Schedule Head Detail Part" />
       <item value="Schedule Data Item Dto" />
       <item value="Template Room Schedule Data Vo" />
       <item value="get Schedule Data Item Part List" />
       <item value="room Code" />
       <item value="get Now Room Code Schedule Data Info" />
       <item value="tenement Location" />
-      <item value="edu Class Room" />
       <item value="device Room Tenement Row Data" />
-      <item value="bc Device Tenement Service" />
       <item value="Bc Device Tenement Service" />
       <item value="now Device Bind Tenement Row Data" />
       <item value="Bc Device Tenement" />
@@ -1027,18 +1039,6 @@
       <item value="Tenement Device Schedule Table Data Vo" />
       <item value="Assets Application App Search Filter" />
       <item value="select System App Logo Data List" />
-      <item value="update user nick" />
-      <item value="17:19:14.165 [restartedMain] WARN c.b.m.c.m.TableInfoHelper - [initTableIdWithAnnotation,371] - This &quot;CODE&quot; is the table primary key by @TableId annotation in Class: &quot;com.ruoyi.openApi.classroom.domain.RemoteClassRoom&quot;,So @TableField annotation will not work!" />
-      <item value="@author xqh , 987072248@qq.com" />
-      <item value="@data 2024-01-15 17:24:28" />
-      <item value="xqh" />
-      <item value="987072248" />
-      <item value="Base Controller" />
-      <item value="16:24:22.681 [restartedMain] INFO o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@249d7f9c" />
-      <item value="16:24:25.176 [restartedMain] INFO o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler__NON_CLUSTERED started." />
-      <item value="16:24:25.190 [restartedMain] INFO c.r.ZhkjApplication - [logStarted,61] - Started ZhkjApplication in 15.952 seconds (JVM running for 18.504)" />
-      <item value="Zhkj Application" />
-      <item value="dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7594" />
+        <entry key="CHINESE" value="7617" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7595" />
+        <entry key="ENGLISH" value="7618" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
