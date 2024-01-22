@@ -989,11 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schedule Head Detail Part Dto" />
+      <item value="Schedule Head Detail Part Dto" />
+      <item value="No Args Constructor" />
+      <item value="Schedule Data Item Part" />
+      <item value="course Name" />
+      <item value="success" />
+      <item value="bc Device Tenement Service" />
+      <item value="get Now Device Output Template Page Url" />
+      <item value="APP EMPTY PAGE URL" />
       <item value="static" />
       <item value="Ajax Result" />
-      <item value="bc Device Tenement Service" />
       <item value="is Empty" />
-      <item value="APP EMPTY PAGE URL" />
       <item value="get Room Code" />
       <item value="Bc Edu Class Room" />
       <item value="edu Class Room" />
@@ -1006,7 +1013,6 @@
       <item value="day Of Week Name" />
       <item value="room Capacity" />
       <item value="get Capacity" />
-      <item value="schedule Head Detail Part Dto" />
       <item value="room Id" />
       <item value="Long" />
       <item value="schedule Data Item Dto" />
@@ -1033,12 +1039,6 @@
       <item value="serial Version UID" />
       <item value="null" />
       <item value="@data 2024-01-18 11:57:38" />
-      <item value="Service" />
-      <item value="App Schedule Data Service" />
-      <item value="implements" />
-      <item value="App Schedule Data Service Impl" />
-      <item value="Tenement Device Schedule Table Data Vo" />
-      <item value="Assets Application App Search Filter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7618" />
+        <entry key="CHINESE" value="7629" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7619" />
+        <entry key="ENGLISH" value="7630" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
