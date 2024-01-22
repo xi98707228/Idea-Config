@@ -989,18 +989,38 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="16:11:16.764 [restartedMain] INFO o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]" />
+      <item value="Servlet" />
+      <item value="service" />
+      <item value="schedule Data Item Dto" />
+      <item value="get Class Room Id" />
+      <item value="room Id" />
+      <item value="V Schedule Time Slot Show" />
+      <item value="get Class Courses Id" />
+      <item value="search Xn" />
+      <item value="VScheduleTimeSlotShow VScheduleTimeSlotShow VScheduleTimeSlotShow VScheduleTimeSlotShow" />
+      <item value="eq eq eq eq" />
+      <item value="eq" />
+      <item value="group By" />
+      <item value="按照科目和上课星期几分类" />
+      <item value="courses Config" />
+      <item value="bc Edu Class Room Mapper" />
+      <item value="get Capacity" />
+      <item value="app Get Now Room Schedule Table Data" />
       <item value="get Schedule Head Detail Part Info" />
+      <item value="schedule Head Detail Part Dto" />
+      <item value="Schedule Head Detail Part" />
+      <item value="set School Term" />
+      <item value="String" />
+      <item value="Tenement Device Schedule Table Data Vo" />
       <item value="Schedule Head Detail Part Dto" />
       <item value="edu Class Room" />
       <item value="Bc Edu Class Room" />
       <item value="Config Config" />
       <item value="courses teacher" />
       <item value="teacher Config" />
-      <item value="courses Config" />
       <item value="end Sections" />
       <item value="head Detail Part" />
-      <item value="Tenement Device Schedule Table Data Vo" />
-      <item value="schedule Head Detail Part Dto" />
       <item value="No Args Constructor" />
       <item value="Schedule Data Item Part" />
       <item value="course Name" />
@@ -1014,31 +1034,11 @@
       <item value="get Room Code" />
       <item value="Date" />
       <item value="schedule Head Detail Part" />
-      <item value="Schedule Head Detail Part" />
       <item value="now Date" />
       <item value="new" />
       <item value="tenement Room Name" />
       <item value="day Of Week Name" />
       <item value="room Capacity" />
-      <item value="get Capacity" />
-      <item value="room Id" />
-      <item value="Long" />
-      <item value="schedule Data Item Dto" />
-      <item value="build" />
-      <item value="schedule Data Item List" />
-      <item value="app Get Now Room Schedule Table Data" />
-      <item value="select Current Device Schedule Table Data" />
-      <item value="schedule Time Slot Show" />
-      <item value="V Schedule Time Slot Show" />
-      <item value="不存在当前教室代码数据记录" />
-      <item value="get Schedule Data Item List" />
-      <item value="Schedule Data Item Dto" />
-      <item value="Template Room Schedule Data Vo" />
-      <item value="get Schedule Data Item Part List" />
-      <item value="room Code" />
-      <item value="get Now Room Code Schedule Data Info" />
-      <item value="tenement Location" />
-      <item value="device Room Tenement Row Data" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,16 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7642" />
+        <entry key="CHINESE" value="7676" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7643" />
+        <entry key="ENGLISH" value="7677" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
+        <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
         <entry key="ITALIAN" value="12" />
         <entry key="JAPANESE" value="5" />
@@ -1069,7 +1070,8 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
-        <entry key="SPANISH" value="9" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="SPANISH" value="10" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="29" />
         <entry key="TELUGU" value="2" />
