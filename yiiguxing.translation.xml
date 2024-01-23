@@ -989,8 +989,25 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="get Course Name" />
+      <item value="C" />
+      <item value="continue" />
+      <item value="room Code" />
+      <item value="不存在当前教室代码数据记录" />
+      <item value="error" />
+      <item value="LOGGER" />
+      <item value="now Date" />
+      <item value="Date" />
+      <item value="schedule Head Detail Part" />
+      <item value="Schedule Head Detail Part" />
+      <item value="get Now Day Of Week Value" />
+      <item value="Hutool Day Of Week Value" />
+      <item value="get Room Name" />
+      <item value="end Sections" />
+      <item value="get Course Code" />
+      <item value="bc Edu Class Teacher Mapper" />
+      <item value="teacher Config" />
       <item value="courses Config" />
+      <item value="get Course Name" />
       <item value="Schedule Data Item Part" />
       <item value="course Name" />
       <item value="course Code" />
@@ -999,7 +1016,6 @@
       <item value="day Of Week" />
       <item value="of Week" />
       <item value="begin Sections" />
-      <item value="end Sections" />
       <item value="schedule Data Item Part List" />
       <item value="schedule Data Item Part" />
       <item value="schedule Time Slot Show" />
@@ -1023,22 +1039,6 @@
       <item value="sectionth" />
       <item value="contract" />
       <item value="discard Front Elements" />
-      <item value="16:11:16.764 [restartedMain] INFO o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]" />
-      <item value="Servlet" />
-      <item value="service" />
-      <item value="schedule Data Item Dto" />
-      <item value="get Class Room Id" />
-      <item value="room Id" />
-      <item value="V Schedule Time Slot Show" />
-      <item value="get Class Courses Id" />
-      <item value="search Xn" />
-      <item value="VScheduleTimeSlotShow VScheduleTimeSlotShow VScheduleTimeSlotShow VScheduleTimeSlotShow" />
-      <item value="eq eq eq eq" />
-      <item value="eq" />
-      <item value="group By" />
-      <item value="按照科目和上课星期几分类" />
-      <item value="bc Edu Class Room Mapper" />
-      <item value="get Capacity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7722" />
+        <entry key="CHINESE" value="7743" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7723" />
+        <entry key="ENGLISH" value="7744" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
@@ -1062,7 +1062,7 @@
         <entry key="INDONESIAN" value="4" />
         <entry key="ITALIAN" value="12" />
         <entry key="JAPANESE" value="5" />
-        <entry key="MALAYALAM" value="1" />
+        <entry key="MALAYALAM" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PASHTO" value="1" />
         <entry key="POLISH" value="3" />
@@ -1073,7 +1073,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="10" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="29" />
+        <entry key="TAHITIAN" value="30" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="URDU" value="1" />
