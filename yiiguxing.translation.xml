@@ -989,6 +989,28 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ONE_1(ScheduleTableType.XL, 1, &quot;08:20&quot;, &quot;09:00&quot;)," />
+      <item value="TZ" />
+      <item value="Schedule Table Type" />
+      <item value="section Category" />
+      <item value="THREE_1(ScheduleTableType.XL, 3, &quot;10:00&quot;, &quot;10:40&quot;)," />
+      <item value="FOUR_1(ScheduleTableType.XL, 4, &quot;10:50&quot;, &quot;11:30&quot;)," />
+      <item value="COMMON" />
+      <item value="课程时间分布" />
+      <item value="FOUR_1" />
+      <item value="Pm" />
+      <item value="Nig" />
+      <item value="14" />
+      <item value="12" />
+      <item value="10" />
+      <item value="6" />
+      <item value="部分数据" />
+      <item value="987072248" />
+      <item value="Schedule Merge Item Part" />
+      <item value="teacher Name" />
+      <item value="Schedule Data Item Part" />
+      <item value="compute Course Period" />
+      <item value="courses Config" />
       <item value="C" />
       <item value="continue" />
       <item value="room Code" />
@@ -1006,13 +1028,10 @@
       <item value="get Course Code" />
       <item value="bc Edu Class Teacher Mapper" />
       <item value="teacher Config" />
-      <item value="courses Config" />
       <item value="get Course Name" />
-      <item value="Schedule Data Item Part" />
       <item value="course Name" />
       <item value="course Code" />
       <item value="course Cycle" />
-      <item value="teacher Name" />
       <item value="day Of Week" />
       <item value="of Week" />
       <item value="begin Sections" />
@@ -1020,25 +1039,6 @@
       <item value="schedule Data Item Part" />
       <item value="schedule Time Slot Show" />
       <item value="this Course Week List" />
-      <item value="COMMON" />
-      <item value="time Classification" />
-      <item value="time Classif" />
-      <item value="Tenement Device Schedule Table Data Vo" />
-      <item value="allocate" />
-      <item value="Schedule Time Configs" />
-      <item value="EIGHT" />
-      <item value="Schedule Table Type" />
-      <item value="Getter" />
-      <item value="public" />
-      <item value="enum" />
-      <item value="XL" />
-      <item value="type Code" />
-      <item value="schedule Table Type" />
-      <item value="Section Time Spread" />
-      <item value="ONE" />
-      <item value="sectionth" />
-      <item value="contract" />
-      <item value="discard Front Elements" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7743" />
+        <entry key="CHINESE" value="7772" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7744" />
+        <entry key="ENGLISH" value="7773" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
