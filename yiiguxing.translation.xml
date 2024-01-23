@@ -989,6 +989,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Actual Field Value" />
+      <item value="Schedule Data Item Part" />
+      <item value="course Cycle" />
+      <item value="of Week" />
+      <item value="end Sections" />
+      <item value="course Code" />
+      <item value="course Name" />
+      <item value="teacher Name" />
+      <item value="begin Sections" />
+      <item value="schedule Time Slot Show" />
+      <item value="schedule Data Item Part" />
+      <item value="time Classification" />
+      <item value="String" />
       <item value="ONE_1(ScheduleTableType.XL, 1, &quot;08:20&quot;, &quot;09:00&quot;)," />
       <item value="TZ" />
       <item value="Schedule Table Type" />
@@ -1007,8 +1020,6 @@
       <item value="部分数据" />
       <item value="987072248" />
       <item value="Schedule Merge Item Part" />
-      <item value="teacher Name" />
-      <item value="Schedule Data Item Part" />
       <item value="compute Course Period" />
       <item value="courses Config" />
       <item value="C" />
@@ -1024,21 +1035,10 @@
       <item value="get Now Day Of Week Value" />
       <item value="Hutool Day Of Week Value" />
       <item value="get Room Name" />
-      <item value="end Sections" />
       <item value="get Course Code" />
       <item value="bc Edu Class Teacher Mapper" />
       <item value="teacher Config" />
       <item value="get Course Name" />
-      <item value="course Name" />
-      <item value="course Code" />
-      <item value="course Cycle" />
-      <item value="day Of Week" />
-      <item value="of Week" />
-      <item value="begin Sections" />
-      <item value="schedule Data Item Part List" />
-      <item value="schedule Data Item Part" />
-      <item value="schedule Time Slot Show" />
-      <item value="this Course Week List" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7772" />
+        <entry key="CHINESE" value="7789" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7773" />
+        <entry key="ENGLISH" value="7790" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="64" />
         <entry key="GALICIAN" value="3" />
