@@ -989,13 +989,38 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mono" />
+      <item value="Sharable" />
+      <item value="获取当前课程的时间分布数据列表" />
+      <item value="section Category" />
+      <item value="Section Category" />
+      <item value="find Section Category By Begin Section" />
+      <item value="Section Time Spread" />
+      <item value="section Category Time Spread Types" />
+      <item value="get Course Code" />
+      <item value="begin Sections" />
+      <item value="Schedule Time Configs" />
+      <item value="get Section Category Time Spread Types" />
+      <item value="localhost" />
+      <item value="l" />
+      <item value="Connection" />
+      <item value="destination" />
+      <item value="schedule Data Item Part" />
+      <item value="Schedule Data Item Part" />
+      <item value="schedule Data Item Part List" />
+      <item value="resolve Target Data Structure" />
+      <item value="Spread" />
+      <item value="Section Spread Item Part" />
+      <item value="schedule Spread Item Data List" />
+      <item value="Array List" />
+      <item value="Cannot" />
+      <item value="Connection Watchdog" />
+      <item value="INFO" />
+      <item value="Reconnecting" />
       <item value="schedule Data Item Dto" />
       <item value="set School Term" />
-      <item value="Section Category" />
       <item value="section Num" />
-      <item value="get Section Category Time Spread Types" />
       <item value="values" />
-      <item value="Section Time Spread" />
       <item value="TZ" />
       <item value="schedule Time Spread List" />
       <item value="V Schedule Time Slot Show" />
@@ -1003,42 +1028,17 @@
       <item value="Nig" />
       <item value="Schedule Table Type" />
       <item value="get Actual Field Value" />
-      <item value="Schedule Data Item Part" />
       <item value="course Cycle" />
       <item value="of Week" />
       <item value="end Sections" />
       <item value="course Code" />
       <item value="course Name" />
       <item value="teacher Name" />
-      <item value="begin Sections" />
       <item value="schedule Time Slot Show" />
-      <item value="schedule Data Item Part" />
       <item value="time Classification" />
       <item value="String" />
       <item value="ONE_1(ScheduleTableType.XL, 1, &quot;08:20&quot;, &quot;09:00&quot;)," />
-      <item value="section Category" />
       <item value="THREE_1(ScheduleTableType.XL, 3, &quot;10:00&quot;, &quot;10:40&quot;)," />
-      <item value="FOUR_1(ScheduleTableType.XL, 4, &quot;10:50&quot;, &quot;11:30&quot;)," />
-      <item value="COMMON" />
-      <item value="课程时间分布" />
-      <item value="FOUR_1" />
-      <item value="14" />
-      <item value="12" />
-      <item value="10" />
-      <item value="6" />
-      <item value="部分数据" />
-      <item value="987072248" />
-      <item value="Schedule Merge Item Part" />
-      <item value="compute Course Period" />
-      <item value="courses Config" />
-      <item value="C" />
-      <item value="continue" />
-      <item value="room Code" />
-      <item value="不存在当前教室代码数据记录" />
-      <item value="error" />
-      <item value="LOGGER" />
-      <item value="now Date" />
-      <item value="Date" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7818" />
+        <entry key="CHINESE" value="7878" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7819" />
+        <entry key="ENGLISH" value="7879" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="64" />
+        <entry key="FRENCH" value="65" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
