@@ -989,16 +989,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="2023" />
+      <item value="this Day Of Week" />
+      <item value="Date Util" />
+      <item value="search Day Of Week" />
+      <item value="get Weeks Schedule Table Item Part Data List" />
+      <item value="Weeks Schedule Table Day Item Part" />
+      <item value="Schedule Table Type" />
+      <item value="schedule Head Detail Part Dto" />
+      <item value="room Id" />
+      <item value="Tenement Device Weeks Schedule Table Data Vo" />
+      <item value="Schedule Data Item Dto" />
+      <item value="Initializing" />
+      <item value="DEBUG" />
+      <item value="Cookie" />
+      <item value="received" />
+      <item value="Hm lvt_33068 bcdcd 846652 c 6764 a 1 ffa 361 ec 1" />
+      <item value="dispatcher Servlet" />
+      <item value="Dispatcher Servlet" />
+      <item value="weeks Schedule Table Time Spread List" />
       <item value="Success" />
       <item value="登录成功" />
-      <item value="Dispatcher Servlet" />
-      <item value="dispatcher Servlet" />
       <item value="Spring" />
-      <item value="Initializing" />
-      <item value="Cookie" />
-      <item value="Tenement Device Weeks Schedule Table Data Vo" />
       <item value="now Weeks" />
-      <item value="schedule Head Detail Part Dto" />
       <item value="head Detail Part.set School Term(schedule Data Item Dto.get School Term());" />
       <item value="get Schedule Data Item List" />
       <item value="schedule Data Item Dto" />
@@ -1026,19 +1039,6 @@
       <item value="Section Category" />
       <item value="find Section Category By Begin Section" />
       <item value="Section Time Spread" />
-      <item value="section Category Time Spread Types" />
-      <item value="get Course Code" />
-      <item value="begin Sections" />
-      <item value="Schedule Time Configs" />
-      <item value="get Section Category Time Spread Types" />
-      <item value="localhost" />
-      <item value="l" />
-      <item value="Connection" />
-      <item value="destination" />
-      <item value="schedule Data Item Part" />
-      <item value="Schedule Data Item Part" />
-      <item value="schedule Data Item Part List" />
-      <item value="resolve Target Data Structure" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,19 +1048,19 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7904" />
+        <entry key="CHINESE" value="7920" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7905" />
+        <entry key="ENGLISH" value="7921" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="69" />
+        <entry key="FRENCH" value="72" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="13" />
+        <entry key="ITALIAN" value="14" />
         <entry key="JAPANESE" value="5" />
         <entry key="MALAYALAM" value="2" />
         <entry key="NORWEGIAN" value="1" />
