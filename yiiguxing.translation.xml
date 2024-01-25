@@ -989,8 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="head Detail Part.set School Term(schedule Data Item Dto.get School Term());" />
+      <item value="Success" />
+      <item value="登录成功" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
+      <item value="Spring" />
+      <item value="Initializing" />
+      <item value="Cookie" />
+      <item value="Tenement Device Weeks Schedule Table Data Vo" />
+      <item value="now Weeks" />
       <item value="schedule Head Detail Part Dto" />
+      <item value="head Detail Part.set School Term(schedule Data Item Dto.get School Term());" />
       <item value="get Schedule Data Item List" />
       <item value="schedule Data Item Dto" />
       <item value="m Install Results" />
@@ -1030,15 +1039,6 @@
       <item value="Schedule Data Item Part" />
       <item value="schedule Data Item Part List" />
       <item value="resolve Target Data Structure" />
-      <item value="Spread" />
-      <item value="Section Spread Item Part" />
-      <item value="schedule Spread Item Data List" />
-      <item value="Array List" />
-      <item value="Cannot" />
-      <item value="Connection Watchdog" />
-      <item value="INFO" />
-      <item value="Reconnecting" />
-      <item value="set School Term" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,19 +1048,19 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7896" />
+        <entry key="CHINESE" value="7904" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7897" />
+        <entry key="ENGLISH" value="7905" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="66" />
+        <entry key="FRENCH" value="69" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="12" />
+        <entry key="ITALIAN" value="13" />
         <entry key="JAPANESE" value="5" />
         <entry key="MALAYALAM" value="2" />
         <entry key="NORWEGIAN" value="1" />
