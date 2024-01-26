@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Constants" />
+      <item value="TOKEN" />
+      <item value="SysUser user = SecurityUtils.getLoginUser().getUser();" />
+      <item value="login Service" />
       <item value="on Match" />
       <item value="V Schedule Time Slot Show" />
       <item value="Template Schedule Data Service" />
@@ -1035,10 +1039,6 @@
       <item value="换" />
       <item value="返回转换的数据" />
       <item value="resolve Target Weeks Data Structure" />
-      <item value="get Course Code" />
-      <item value="schedule Data Item Part" />
-      <item value="get Time Classification" />
-      <item value="search Weeks" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7999" />
+        <entry key="CHINESE" value="8003" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8000" />
+        <entry key="ENGLISH" value="8004" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="75" />
         <entry key="GALICIAN" value="3" />
@@ -1063,7 +1063,7 @@
         <entry key="ITALIAN" value="15" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAYALAM" value="2" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PASHTO" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="PORTUGUESE_BRAZILIAN" value="14" />
