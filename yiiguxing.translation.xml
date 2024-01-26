@@ -989,8 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Constants" />
+      <item value="delete Object" />
+      <item value="TOKEN PREFIX" />
+      <item value="UTF-8 字符集 public static final String UTF8 = &quot;UTF-8&quot;; GBK 字符集 public static final String GBK = &quot;GBK&quot;; www主域 public static final String WWW = &quot;www.&quot;; http请求 public static final String HTTP = &quot;http:&quot;; https请求 public static final String HTTPS = &quot;https:&quot;; 通用成功标识 public static final String SUCCESS = &quot;0&quot;; 通用失败标识 public static final String FAIL = &quot;1&quot;; 登录成功 public static final String LOGIN_SUCCESS = &quot;Success&quot;; 注销 public static final String LOGOUT = &quot;Logout&quot;; 注册 public static final String REGISTER = &quot;Register&quot;; 登录失败 public static final String LOGIN_FAIL = &quot;Error&quot;; 验证码有效期（分钟） public static final Integer CAPTCHA_EXPIRATION = 2; 令牌 public static final String TOKEN = &quot;token&quot;; 令牌前缀 public static final String TOKEN_PREFIX = &quot;Bearer &quot;; 令牌前缀 public static final String LOGIN_USER_KEY = &quot;login_user_key&quot;; 用户ID public static final String JWT_USERID = &quot;userid&quot;; 用户名称 public static final String JWT_USERNAME = Claims.SUBJECT; 用户头像 public static final String JWT_AVATAR = &quot;avatar&quot;; 创建时间 public static final String JWT_CREATED = &quot;created&quot;; 用户权限 public static final String JWT_AUTHORITIES = &quot;authorities&quot;; 资源映射路径 前缀 public static final String RESOURCE_PREFIX = &quot;profile&quot;; RMI 远程方法调用 public static final String LOOKUP_RMI = &quot;rmi:&quot;; LDAP 远程方法调用 public static final String LOOKUP_LDAP = &quot;ldap:&quot;; LDAPS 远程方法调用 public static final String LOOKUP_LDAPS = &quot;ldaps:&quot;; 自动识别json对象白名单配置（仅允许解析的包名，范围越小越安全） public static final String[] JSON_WHITELIST_STR = { &quot;org.springframework&quot;, &quot;com.ruoyi&quot; }; 定时任务白名单配置（仅允许访问的包名，如其他需要可以自行添加） public static final String[] JOB_WHITELIST_STR = { &quot;com.ruoyi&quot; }; 定时任务违规的字符 public static final String[] JOB_ERROR_STR = { &quot;java.net.URL&quot;, &quot;javax.naming.InitialContext&quot;, &quot;org.yaml.snakeyaml&quot;, &quot;org.springframework&quot;, &quot;org.apache&quot;, &quot;com.ruoyi.common.utils.file&quot;, &quot;com.ruoyi.common.config&quot; };" />
+      <item value="token" />
       <item value="TOKEN" />
+      <item value="Constants" />
+      <item value="ajax" />
       <item value="SysUser user = SecurityUtils.getLoginUser().getUser();" />
       <item value="login Service" />
       <item value="on Match" />
@@ -1034,11 +1039,6 @@
       <item value="dispatcher Servlet" />
       <item value="Dispatcher Servlet" />
       <item value="received" />
-      <item value="Hm lvt_33068 bcdcd 846652 c 6764 a 1 ffa 361 ec 1" />
-      <item value="header" />
-      <item value="换" />
-      <item value="返回转换的数据" />
-      <item value="resolve Target Weeks Data Structure" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8003" />
+        <entry key="CHINESE" value="8010" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8004" />
+        <entry key="ENGLISH" value="8011" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="75" />
         <entry key="GALICIAN" value="3" />
