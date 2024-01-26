@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="resolve Result List" />
+      <item value="Weeks Schedule Table Day Item Part" />
       <item value="days Schedule Table Item List" />
       <item value="add Item" />
       <item value="throwing Merger" />
@@ -1013,9 +1015,7 @@
       <item value="header" />
       <item value="换" />
       <item value="返回转换的数据" />
-      <item value="Weeks Schedule Table Day Item Part" />
       <item value="resolve Target Weeks Data Structure" />
-      <item value="resolve Result List" />
       <item value="get Course Code" />
       <item value="schedule Data Item Part" />
       <item value="get Time Classification" />
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="7974" />
+        <entry key="CHINESE" value="7977" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="7975" />
+        <entry key="ENGLISH" value="7978" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="75" />
         <entry key="GALICIAN" value="3" />
