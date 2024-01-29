@@ -989,13 +989,37 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="number Of Trailing Zeros" />
+      <item value="HD, Figure 5-6" />
+      <item value="Of Leading" />
+      <item value="Leading" />
+      <item value="number Of Leading Zeros" />
+      <item value="Concurrent Hash Map" />
+      <item value="&lt;V&gt; – the type of mapped values" />
+      <item value="Type parameters: &lt;K&gt; – the type of keys maintained by this map" />
+      <item value="Abstract Map" />
+      <item value="Construct a new, empty ConcurrentModel." />
+      <item value="Binding Aware Concurrent Model" />
+      <item value="Concurrent Model" />
+      <item value="Doug Lea" />
+      <item value="the type of keys maintained by this map &lt;V&gt; – the type of mapped values" />
+      <item value="resize Stamp" />
+      <item value="to Unsigned String 0" />
+      <item value="to Hex String" />
+      <item value="l" />
+      <item value="value" />
+      <item value="avoid getfield opcode" />
+      <item value="equals" />
+      <item value="NULLSTR" />
+      <item value="is Empty" />
+      <item value="get Login User" />
+      <item value="get Device Code" />
+      <item value="String Utils" />
       <item value="Override" />
       <item value="Ajax Result" />
       <item value="if" />
-      <item value="String Utils" />
       <item value="login User" />
       <item value="n" />
-      <item value="get Device Code" />
       <item value="project home" />
       <item value="zhkj project" />
       <item value="获取文件信息异常" />
@@ -1015,30 +1039,6 @@
       <item value="Resource" />
       <item value="课表数据相关" />
       <item value="Controller" />
-      <item value="schedule" />
-      <item value="App Schedule Data Controller" />
-      <item value="app Schedule Data Service" />
-      <item value="get Device Schedule Table Data" />
-      <item value="Schedule" />
-      <item value="987072248" />
-      <item value="@Rest Controller" />
-      <item value="self" />
-      <item value="App Device Self Controller" />
-      <item value="Required Args Constructor" />
-      <item value="implements" />
-      <item value="m" />
-      <item value="App Schedule Data Service" />
-      <item value="Template Schedule Data Service" />
-      <item value="template Schedule Data Service" />
-      <item value="ce" />
-      <item value="device Code" />
-      <item value="PROBE" />
-      <item value="delete Object" />
-      <item value="TOKEN PREFIX" />
-      <item value="UTF-8 字符集 public static final String UTF8 = &quot;UTF-8&quot;; GBK 字符集 public static final String GBK = &quot;GBK&quot;; www主域 public static final String WWW = &quot;www.&quot;; http请求 public static final String HTTP = &quot;http:&quot;; https请求 public static final String HTTPS = &quot;https:&quot;; 通用成功标识 public static final String SUCCESS = &quot;0&quot;; 通用失败标识 public static final String FAIL = &quot;1&quot;; 登录成功 public static final String LOGIN_SUCCESS = &quot;Success&quot;; 注销 public static final String LOGOUT = &quot;Logout&quot;; 注册 public static final String REGISTER = &quot;Register&quot;; 登录失败 public static final String LOGIN_FAIL = &quot;Error&quot;; 验证码有效期（分钟） public static final Integer CAPTCHA_EXPIRATION = 2; 令牌 public static final String TOKEN = &quot;token&quot;; 令牌前缀 public static final String TOKEN_PREFIX = &quot;Bearer &quot;; 令牌前缀 public static final String LOGIN_USER_KEY = &quot;login_user_key&quot;; 用户ID public static final String JWT_USERID = &quot;userid&quot;; 用户名称 public static final String JWT_USERNAME = Claims.SUBJECT; 用户头像 public static final String JWT_AVATAR = &quot;avatar&quot;; 创建时间 public static final String JWT_CREATED = &quot;created&quot;; 用户权限 public static final String JWT_AUTHORITIES = &quot;authorities&quot;; 资源映射路径 前缀 public static final String RESOURCE_PREFIX = &quot;profile&quot;; RMI 远程方法调用 public static final String LOOKUP_RMI = &quot;rmi:&quot;; LDAP 远程方法调用 public static final String LOOKUP_LDAP = &quot;ldap:&quot;; LDAPS 远程方法调用 public static final String LOOKUP_LDAPS = &quot;ldaps:&quot;; 自动识别json对象白名单配置（仅允许解析的包名，范围越小越安全） public static final String[] JSON_WHITELIST_STR = { &quot;org.springframework&quot;, &quot;com.ruoyi&quot; }; 定时任务白名单配置（仅允许访问的包名，如其他需要可以自行添加） public static final String[] JOB_WHITELIST_STR = { &quot;com.ruoyi&quot; }; 定时任务违规的字符 public static final String[] JOB_ERROR_STR = { &quot;java.net.URL&quot;, &quot;javax.naming.InitialContext&quot;, &quot;org.yaml.snakeyaml&quot;, &quot;org.springframework&quot;, &quot;org.apache&quot;, &quot;com.ruoyi.common.utils.file&quot;, &quot;com.ruoyi.common.config&quot; };" />
-      <item value="token" />
-      <item value="TOKEN" />
-      <item value="Constants" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8065" />
+        <entry key="CHINESE" value="8094" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8066" />
+        <entry key="ENGLISH" value="8095" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="76" />
+        <entry key="FRENCH" value="77" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
