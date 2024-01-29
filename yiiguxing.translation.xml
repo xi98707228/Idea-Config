@@ -989,6 +989,42 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schedule" />
+      <item value="building" />
+      <item value="get Building Device Data" />
+      <item value="select Current Device Schedule Table Data" />
+      <item value="device Room Tenement Row Data" />
+      <item value="get Template Schedule Data" />
+      <item value="get Section Category" />
+      <item value="schedule Time Spread" />
+      <item value="get Time Classification" />
+      <item value="拆分大节课程" />
+      <item value="遍历当前大节的课程时间分布" />
+      <item value="get Schedule Time Spread List" />
+      <item value="Section Spread Item Part" />
+      <item value="section Num" />
+      <item value="begin Time" />
+      <item value="schedule Data Item Dto" />
+      <item value="get School Term" />
+      <item value="now Device Template" />
+      <item value="获取当前设备信息" />
+      <item value="生成令牌" />
+      <item value="get User Id" />
+      <item value="反之则是web端登录则主动查询绑定设备信息" />
+      <item value="device Code" />
+      <item value="user Device Code Service" />
+      <item value="get User Device Bind Info" />
+      <item value="create Token" />
+      <item value="load User By Username" />
+      <item value="select User By User Name" />
+      <item value="user Service" />
+      <item value="get Username" />
+      <item value="else" />
+      <item value="app Device Self Service" />
+      <item value="App Device Self Service" />
+      <item value="self" />
+      <item value="S" />
+      <item value="App Device Self Service Impl" />
       <item value="return" />
       <item value="number Of Trailing Zeros" />
       <item value="HD, Figure 5-6" />
@@ -1003,42 +1039,6 @@
       <item value="Binding Aware Concurrent Model" />
       <item value="Concurrent Model" />
       <item value="Doug Lea" />
-      <item value="the type of keys maintained by this map &lt;V&gt; – the type of mapped values" />
-      <item value="resize Stamp" />
-      <item value="to Unsigned String 0" />
-      <item value="to Hex String" />
-      <item value="l" />
-      <item value="value" />
-      <item value="avoid getfield opcode" />
-      <item value="equals" />
-      <item value="NULLSTR" />
-      <item value="is Empty" />
-      <item value="get Login User" />
-      <item value="get Device Code" />
-      <item value="String Utils" />
-      <item value="Override" />
-      <item value="Ajax Result" />
-      <item value="if" />
-      <item value="login User" />
-      <item value="n" />
-      <item value="project home" />
-      <item value="zhkj project" />
-      <item value="获取文件信息异常" />
-      <item value="get File Not Down" />
-      <item value="success" />
-      <item value="get Now Device Self Info" />
-      <item value="table Data Info" />
-      <item value="get Data Table" />
-      <item value="query Data List" />
-      <item value="get Bank Account Id" />
-      <item value="related Bank Account Map" />
-      <item value="authentication" />
-      <item value="Async Manager" />
-      <item value="Login User" />
-      <item value="user Device Code Service" />
-      <item value="Rest Controller" />
-      <item value="Resource" />
-      <item value="课表数据相关" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8094" />
+        <entry key="CHINESE" value="8134" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8095" />
+        <entry key="ENGLISH" value="8135" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="77" />
         <entry key="GALICIAN" value="3" />
