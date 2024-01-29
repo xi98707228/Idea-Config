@@ -989,10 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="permit All" />
+      <item value="websocket" />
+      <item value="get Authentication" />
+      <item value="get Context" />
+      <item value="select Current Device Schedule Table Data" />
+      <item value="获取当前设备信息" />
       <item value="schedule" />
       <item value="building" />
       <item value="get Building Device Data" />
-      <item value="select Current Device Schedule Table Data" />
       <item value="device Room Tenement Row Data" />
       <item value="get Template Schedule Data" />
       <item value="get Section Category" />
@@ -1007,7 +1012,6 @@
       <item value="schedule Data Item Dto" />
       <item value="get School Term" />
       <item value="now Device Template" />
-      <item value="获取当前设备信息" />
       <item value="生成令牌" />
       <item value="get User Id" />
       <item value="反之则是web端登录则主动查询绑定设备信息" />
@@ -1035,10 +1039,6 @@
       <item value="&lt;V&gt; – the type of mapped values" />
       <item value="Type parameters: &lt;K&gt; – the type of keys maintained by this map" />
       <item value="Abstract Map" />
-      <item value="Construct a new, empty ConcurrentModel." />
-      <item value="Binding Aware Concurrent Model" />
-      <item value="Concurrent Model" />
-      <item value="Doug Lea" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8134" />
+        <entry key="CHINESE" value="8139" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8135" />
+        <entry key="ENGLISH" value="8140" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="77" />
         <entry key="GALICIAN" value="3" />
