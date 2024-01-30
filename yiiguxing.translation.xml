@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bc Device Tenement Composition" />
       <item value="Tree Select" />
       <item value="building Tenement Info" />
       <item value="bc Device Tenement Service" />
@@ -1038,7 +1039,6 @@
       <item value="select Current Device Schedule Table Data" />
       <item value="schedule" />
       <item value="building" />
-      <item value="get Building Device Data" />
     </histories>
     <option name="languageScores">
       <map>
