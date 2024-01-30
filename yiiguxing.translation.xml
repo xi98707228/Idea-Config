@@ -989,6 +989,11 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="qrcode Url" />
+      <item value="notice Type" />
+      <item value="should Arrive" />
+      <item value="Strong" />
+      <item value="null" />
       <item value="Bc Device Tenement Composition" />
       <item value="Tree Select" />
       <item value="building Tenement Info" />
@@ -1034,11 +1039,6 @@
       <item value="user" />
       <item value="permit All" />
       <item value="websocket" />
-      <item value="get Authentication" />
-      <item value="get Context" />
-      <item value="select Current Device Schedule Table Data" />
-      <item value="schedule" />
-      <item value="building" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,15 +1048,15 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8198" />
+        <entry key="CHINESE" value="8203" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8199" />
+        <entry key="ENGLISH" value="8203" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="80" />
         <entry key="GALICIAN" value="3" />
-        <entry key="GERMAN" value="13" />
+        <entry key="GERMAN" value="14" />
         <entry key="HINDI" value="8" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
