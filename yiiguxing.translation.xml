@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Building Screen Right Bottom Part" />
       <item value="qrcode Url" />
       <item value="notice Type" />
       <item value="should Arrive" />
@@ -1038,7 +1039,6 @@
       <item value="is Not Null" />
       <item value="user" />
       <item value="permit All" />
-      <item value="websocket" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1052,11 +1052,11 @@
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8203" />
+        <entry key="ENGLISH" value="8204" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="80" />
         <entry key="GALICIAN" value="3" />
-        <entry key="GERMAN" value="14" />
+        <entry key="GERMAN" value="15" />
         <entry key="HINDI" value="8" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
