@@ -989,16 +989,45 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="获取当前设备信息" />
+      <item value="building Tenement Info" />
+      <item value="bc Device Tenement Service" />
+      <item value="DEVICE BING DATA EXCEPTION" />
+      <item value="Device Tenement Constants" />
+      <item value="error" />
+      <item value="获取楼栋信息" />
+      <item value="tenement Building Row Id" />
+      <item value="transport" />
+      <item value="55548" />
+      <item value="socket" />
+      <item value="Bc Device Tenement" />
+      <item value="Ajax Result" />
+      <item value="DATA" />
+      <item value="Tenement" />
       <item value="Schedule Time Configs" />
+      <item value="Schedule Table Week Type" />
+      <item value="T" />
+      <item value="app Get Now Room Schedule Table Data" />
       <item value="template Schedule Data Service" />
+      <item value="Security Utils" />
+      <item value="select Building Device Data" />
+      <item value="校验房间唯一码" />
+      <item value="room Code" />
+      <item value="now Device Bind Tenement Row Data" />
+      <item value="Override" />
+      <item value="get Login User" />
+      <item value="tenement type" />
+      <item value="device code" />
+      <item value="c 899 ae 6226067604" />
+      <item value="bc device tenement" />
+      <item value="Login User" />
+      <item value="login User" />
+      <item value="get Device Code" />
+      <item value="登录账号" />
+      <item value="获取当前设备信息" />
       <item value="local Teacher Info" />
       <item value="continue" />
-      <item value="Ajax Result" />
       <item value="获取楼栋设备大屏信息" />
       <item value="获取当前设备 某一周全部课表数据信息" />
-      <item value="Device Tenement Constants" />
-      <item value="login User" />
       <item value="is Not Null" />
       <item value="user" />
       <item value="permit All" />
@@ -1010,35 +1039,6 @@
       <item value="building" />
       <item value="get Building Device Data" />
       <item value="device Room Tenement Row Data" />
-      <item value="get Template Schedule Data" />
-      <item value="get Section Category" />
-      <item value="schedule Time Spread" />
-      <item value="get Time Classification" />
-      <item value="拆分大节课程" />
-      <item value="遍历当前大节的课程时间分布" />
-      <item value="get Schedule Time Spread List" />
-      <item value="Section Spread Item Part" />
-      <item value="section Num" />
-      <item value="begin Time" />
-      <item value="schedule Data Item Dto" />
-      <item value="get School Term" />
-      <item value="now Device Template" />
-      <item value="生成令牌" />
-      <item value="get User Id" />
-      <item value="反之则是web端登录则主动查询绑定设备信息" />
-      <item value="device Code" />
-      <item value="user Device Code Service" />
-      <item value="get User Device Bind Info" />
-      <item value="create Token" />
-      <item value="load User By Username" />
-      <item value="select User By User Name" />
-      <item value="user Service" />
-      <item value="get Username" />
-      <item value="else" />
-      <item value="app Device Self Service" />
-      <item value="App Device Self Service" />
-      <item value="self" />
-      <item value="S" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8153" />
+        <entry key="CHINESE" value="8197" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8153" />
+        <entry key="ENGLISH" value="8198" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="78" />
+        <entry key="FRENCH" value="80" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
@@ -1074,7 +1074,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="12" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="30" />
+        <entry key="TAHITIAN" value="34" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="URDU" value="1" />
