@@ -989,6 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ajax Result" />
+      <item value="获取楼栋设备大屏信息" />
+      <item value="获取当前设备 某一周全部课表数据信息" />
+      <item value="Device Tenement Constants" />
+      <item value="login User" />
+      <item value="is Not Null" />
+      <item value="user" />
       <item value="permit All" />
       <item value="websocket" />
       <item value="get Authentication" />
@@ -1032,13 +1039,6 @@
       <item value="return" />
       <item value="number Of Trailing Zeros" />
       <item value="HD, Figure 5-6" />
-      <item value="Of Leading" />
-      <item value="Leading" />
-      <item value="number Of Leading Zeros" />
-      <item value="Concurrent Hash Map" />
-      <item value="&lt;V&gt; – the type of mapped values" />
-      <item value="Type parameters: &lt;K&gt; – the type of keys maintained by this map" />
-      <item value="Abstract Map" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8139" />
+        <entry key="CHINESE" value="8148" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8140" />
+        <entry key="ENGLISH" value="8149" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="77" />
+        <entry key="FRENCH" value="78" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="13" />
         <entry key="HINDI" value="8" />
