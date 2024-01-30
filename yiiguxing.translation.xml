@@ -989,6 +989,23 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="app Get Now Building Screen Data" />
+      <item value="Spring" />
+      <item value="dispatcher Servlet" />
+      <item value="Zhkj Application" />
+      <item value="seconds" />
+      <item value="Started" />
+      <item value="log Started" />
+      <item value="Bc Edu Class Room" />
+      <item value="get Room Code" />
+      <item value="eq" />
+      <item value="mb" />
+      <item value="edu Class Room" />
+      <item value="a" />
+      <item value="select One" />
+      <item value="bc Edu Class Room Mapper" />
+      <item value="room Code" />
+      <item value="不存在当前教室代码数据记录" />
       <item value="top Part" />
       <item value="SYNTHETIC" />
       <item value="Modifier" />
@@ -1022,23 +1039,6 @@
       <item value="app Get Now Room Schedule Table Data" />
       <item value="template Schedule Data Service" />
       <item value="Security Utils" />
-      <item value="select Building Device Data" />
-      <item value="校验房间唯一码" />
-      <item value="room Code" />
-      <item value="now Device Bind Tenement Row Data" />
-      <item value="Override" />
-      <item value="get Login User" />
-      <item value="tenement type" />
-      <item value="device code" />
-      <item value="c 899 ae 6226067604" />
-      <item value="bc device tenement" />
-      <item value="Login User" />
-      <item value="login User" />
-      <item value="get Device Code" />
-      <item value="登录账号" />
-      <item value="获取当前设备信息" />
-      <item value="local Teacher Info" />
-      <item value="continue" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,13 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8207" />
+        <entry key="CHINESE" value="8225" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8208" />
+        <entry key="ENGLISH" value="8226" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="81" />
+        <entry key="FRENCH" value="82" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="15" />
         <entry key="HINDI" value="8" />
@@ -1072,7 +1072,7 @@
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="1" />
-        <entry key="SPANISH" value="12" />
+        <entry key="SPANISH" value="13" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="34" />
         <entry key="TELUGU" value="2" />
