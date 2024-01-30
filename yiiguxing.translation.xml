@@ -989,56 +989,56 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="app Get Now Building Screen Data" />
-      <item value="Spring" />
-      <item value="dispatcher Servlet" />
+      <item value="Building Screen Left Item" />
+      <item value="Protocol Handler" />
+      <item value="Tenement Building Device Screen Data Vo" />
+      <item value="quartz Scheduler" />
+      <item value="scheduler" />
+      <item value="building Room Name" />
+      <item value="Scheduler" />
+      <item value="Starting" />
+      <item value="Http 11 Nio Protocol" />
+      <item value="restarted Main" />
+      <item value="Quartz Scheduler" />
+      <item value="quartz Scheduler NON CLUSTERED" />
+      <item value="started" />
+      <item value="start" />
+      <item value="Job Factory" />
+      <item value="Spring Bean Job Factory" />
+      <item value="quartz" />
+      <item value="scheduling" />
+      <item value="springframework" />
+      <item value="Std Scheduler Factory" />
+      <item value="log Started" />
+      <item value="running" />
       <item value="Zhkj Application" />
       <item value="seconds" />
-      <item value="Started" />
-      <item value="log Started" />
+      <item value="get Room Ly" />
       <item value="Bc Edu Class Room" />
-      <item value="get Room Code" />
-      <item value="eq" />
-      <item value="mb" />
-      <item value="edu Class Room" />
-      <item value="a" />
-      <item value="select One" />
-      <item value="bc Edu Class Room Mapper" />
-      <item value="room Code" />
-      <item value="不存在当前教室代码数据记录" />
-      <item value="top Part" />
-      <item value="SYNTHETIC" />
-      <item value="Modifier" />
-      <item value="not Schedule List" />
-      <item value="has Schedule List" />
+      <item value="building Room Ly List" />
       <item value="Building Screen Right Bottom Part" />
-      <item value="qrcode Url" />
-      <item value="notice Type" />
-      <item value="should Arrive" />
-      <item value="Strong" />
-      <item value="null" />
-      <item value="Bc Device Tenement Composition" />
-      <item value="Tree Select" />
-      <item value="building Tenement Info" />
-      <item value="bc Device Tenement Service" />
-      <item value="DEVICE BING DATA EXCEPTION" />
-      <item value="Device Tenement Constants" />
-      <item value="error" />
-      <item value="获取楼栋信息" />
-      <item value="tenement Building Row Id" />
-      <item value="transport" />
-      <item value="55548" />
-      <item value="socket" />
-      <item value="Bc Device Tenement" />
-      <item value="Ajax Result" />
-      <item value="DATA" />
-      <item value="Tenement" />
-      <item value="Schedule Time Configs" />
-      <item value="Schedule Table Week Type" />
-      <item value="T" />
-      <item value="app Get Now Room Schedule Table Data" />
-      <item value="template Schedule Data Service" />
-      <item value="Security Utils" />
+      <item value="top Part" />
+      <item value="left Part" />
+      <item value="right Bottom Part" />
+      <item value="building Name" />
+      <item value="Building Screen Top Part" />
+      <item value="Building Screen Left Part" />
+      <item value="JVM running for 16.717" />
+      <item value="return TenementBuildingDeviceScreenDataVo.builder()" />
+      <item value="room Ly" />
+      <item value="app Get Now Building Screen Data" />
+      <item value="String" />
+      <item value="Started" />
+      <item value="http" />
+      <item value="nio" />
+      <item value="16000" />
+      <item value="exec" />
+      <item value="Initializing" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
+      <item value="Spring" />
+      <item value="11:56:45.212 [http-nio-16000-exec-1] INFO o.a.c.c.C.[.[.[] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'" />
+      <item value="智慧空间后台Server启动成功" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,14 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8225" />
+        <entry key="CHINESE" value="8343" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8226" />
+        <entry key="ENGLISH" value="8344" />
+        <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="82" />
+        <entry key="FRENCH" value="85" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="15" />
         <entry key="HINDI" value="8" />
@@ -1067,7 +1068,7 @@
         <entry key="PASHTO" value="1" />
         <entry key="PERSIAN" value="1" />
         <entry key="POLISH" value="3" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="14" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="18" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
