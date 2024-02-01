@@ -989,6 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Zhkj Application" />
+      <item value="error" />
+      <item value="Ajax Result" />
+      <item value="tenement Id" />
+      <item value="get Tenement Type" />
+      <item value="楼宇类型" />
+      <item value="get Now Tenement Position" />
+      <item value="Tenement Type" />
+      <item value="DEVICE" />
+      <item value="get Type Code" />
+      <item value="请求错误" />
+      <item value="terminal Device Id" />
       <item value="智慧空间后台Server启动成功" />
       <item value="A cookie header was received" />
       <item value="Hm lvt_33068 bcdcd 846652 c 6764 a 1 ffa 361 ec 1" />
@@ -1027,18 +1039,6 @@
       <item value="f" />
       <item value="v Schedule Time Slot Show Service" />
       <item value="is Not Empty" />
-      <item value="Protocol Handler" />
-      <item value="quartz Scheduler" />
-      <item value="scheduler" />
-      <item value="building Room Name" />
-      <item value="Scheduler" />
-      <item value="Starting" />
-      <item value="Http 11 Nio Protocol" />
-      <item value="restarted Main" />
-      <item value="Quartz Scheduler" />
-      <item value="quartz Scheduler NON CLUSTERED" />
-      <item value="started" />
-      <item value="start" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,14 +1048,14 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8397" />
+        <entry key="CHINESE" value="8409" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8397" />
+        <entry key="ENGLISH" value="8410" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="85" />
+        <entry key="FRENCH" value="88" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="15" />
         <entry key="HINDI" value="8" />
