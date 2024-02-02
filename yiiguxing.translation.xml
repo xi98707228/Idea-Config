@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expire Secs" />
       <item value="Open Api School Constants" />
       <item value="token Offset" />
       <item value="School Card Access Token Exception" />
@@ -1038,7 +1039,6 @@
       <item value="was received" />
       <item value="09:23:04.984 [http-nio-16000-exec-2] INFO o.a.t.u.h.p.Cookie - [log,173] - A cookie header was received [Hm_lvt_33068bcdcd846652c6764a1ffa361ec1=1692262917,1692321479] that contained an invalid cookie. That cookie will be ignored." />
       <item value="09:23:04.993 [http-nio-16000-exec-2] INFO o.a.c.c.C.[.[.[] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'" />
-      <item value="Note: further occurrences of this error will be logged at DEBUG level." />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,14 +1048,14 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8445" />
+        <entry key="CHINESE" value="8446" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
         <entry key="ENGLISH" value="8446" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="88" />
+        <entry key="FRENCH" value="89" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="15" />
         <entry key="HINDI" value="8" />
