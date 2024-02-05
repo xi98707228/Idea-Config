@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="springframework" />
+      <item value="Connection" />
+      <item value="set Header" />
+      <item value="resp" />
       <item value="调用失败" />
       <item value="te" />
       <item value="start Remote Call" />
@@ -1035,10 +1039,6 @@
       <item value="Jedis" />
       <item value="get Oxygen Path" />
       <item value="en" />
-      <item value="other Path" />
-      <item value="空调" />
-      <item value="AIR" />
-      <item value="BUILD AIR RESULT TABLE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8486" />
+        <entry key="CHINESE" value="8488" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8486" />
+        <entry key="ENGLISH" value="8489" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="89" />
