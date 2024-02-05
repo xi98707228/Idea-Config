@@ -989,6 +989,22 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="调用失败" />
+      <item value="te" />
+      <item value="start Remote Call" />
+      <item value="Python Remote Call Util" />
+      <item value="result Json" />
+      <item value="String Utils" />
+      <item value="is Blank" />
+      <item value="Runtime Exception" />
+      <item value="active Publish Template" />
+      <item value="private static final int" />
+      <item value="private static final int batchHandleSize = 1000;" />
+      <item value="remote Teacher Service" />
+      <item value="insert Teacher List" />
+      <item value="register Future" />
+      <item value="Web Socket Server Support" />
+      <item value="send Client Info" />
       <item value="bc Edu Class Room Service" />
       <item value="page Data List" />
       <item value="bc Edu Class Courses Service" />
@@ -996,7 +1012,6 @@
       <item value="FROM" />
       <item value="bc edu class courses" />
       <item value="jdbc Template" />
-      <item value="insert Teacher List" />
       <item value="Bc Edu Class Courses" />
       <item value="count" />
       <item value="remote Teacher Schedule Service" />
@@ -1024,21 +1039,6 @@
       <item value="空调" />
       <item value="AIR" />
       <item value="BUILD AIR RESULT TABLE" />
-      <item value="CHARACTER" />
-      <item value="SQL Exception" />
-      <item value="FLY" />
-      <item value="Python Build Table Type" />
-      <item value="println" />
-      <item value="build Sql" />
-      <item value="String" />
-      <item value="display Type" />
-      <item value="Display Type" />
-      <item value="算法运行只能有一个文件参与运算" />
-      <item value="air Data Items" />
-      <item value="bc Device Tenement Service" />
-      <item value="device Tenement" />
-      <item value="get Tenement Type" />
-      <item value="Ajax Result" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8469" />
+        <entry key="CHINESE" value="8486" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8470" />
+        <entry key="ENGLISH" value="8486" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="89" />
@@ -1073,7 +1073,7 @@
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="1" />
-        <entry key="SPANISH" value="15" />
+        <entry key="SPANISH" value="16" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="37" />
         <entry key="TELUGU" value="2" />
