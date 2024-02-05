@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706495854116" />
+    <option name="lastTrimTime" value="1707097182992" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="count" />
+      <item value="remote Teacher Schedule Service" />
+      <item value="page Total" />
       <item value="bc Edu Class Courses Service" />
       <item value="building Tenement Info" />
       <item value="python Function" />
@@ -1036,9 +1039,6 @@
       <item value="tenement Id" />
       <item value="楼宇类型" />
       <item value="get Now Tenement Position" />
-      <item value="Tenement Type" />
-      <item value="get Type Code" />
-      <item value="请求错误" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,11 +1048,11 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8453" />
+        <entry key="CHINESE" value="8456" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8454" />
+        <entry key="ENGLISH" value="8457" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="89" />
