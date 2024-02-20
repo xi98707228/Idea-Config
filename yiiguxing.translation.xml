@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="filtered" />
       <item value="11:52 Auto build completed with errors" />
       <item value="param String" />
       <item value="is Not Empty" />
@@ -1038,7 +1039,6 @@
       <item value="page Total" />
       <item value="building Tenement Info" />
       <item value="python Function" />
-      <item value="parse" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8505" />
+        <entry key="CHINESE" value="8506" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8506" />
+        <entry key="ENGLISH" value="8507" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="89" />
