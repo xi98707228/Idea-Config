@@ -989,6 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="otherwise" />
+      <item value="constructor" />
+      <item value="assert share : &quot;unshared not supported&quot;;" />
+      <item value="share" />
+      <item value="验证通过则 截取 left-right 的字符串 , 并和历史值判断是否需要替换" />
+      <item value="substring" />
+      <item value="now Allow Str" />
+      <item value="verify Equals" />
+      <item value="_right" />
+      <item value="_left" />
+      <item value="mozblnzrszxtdjmwvgeovtxoftpcsbnjryogrnibiiqfexljlfikfcxvrzrpfvugtdjrlkgvkmrqgeltifdehsewpdhpjpnuobmuozopmglnocqcozvratjpzrklexqdeuvvzfjkuknkkoynxptrgtzadmpfdkphfjhdulhzncoofmmrwqjxeyhodfavcgpjmohohuztezdxegqzbaaobzrqptuqsvwnfdneyccbkgkjafztytwuppvleukdqqzyeiltsvoqbxupbasiityganofxijucwzqgtdyxljociwwjdrnfnfbwyymmvbuvbrdnvcubzkohknbsneutrcukfiqqhfviqdsbtrldipenqifdcrenpuyaqvkparycksurhbtjppwhezbcgocamurdawimkzzkmiwadrumacogcbzehwppjtbhruskcyrapkvqayupnercdfiqnepidlrtbsdqivfhqqifkucrtuensbnkhokzbucvndrbvubvmmyywbfnfnrdjwwicojlxydtgqzwcujixfonagytiisabpuxbqovstlieyzqqdkuelvppuwtytzfajkgkbccyendfnwvsqutpqrzboaabzqgexdzetzuhohomjpgcvafdohyexjqwrmmfoocnzhludhjfhpkdfpmdaztgrtpxnyokknkukjfzvvuedqxelkrzpjtarvzocqconlgmpozoumbounpjphdpweshedfitlegqrmkvgklrjdtguvfprzrvxcfkifljlxefqiibinrgoyrjnbscptfoxtvoegvwmjdtxzsrznlbzom" />
+      <item value="solution" />
       <item value="odd Ans" />
       <item value="Permit" />
       <item value="V Supplier Payment Tick List" />
@@ -1027,18 +1039,6 @@
       <item value="private static final int" />
       <item value="private static final int batchHandleSize = 1000;" />
       <item value="remote Teacher Service" />
-      <item value="insert Teacher List" />
-      <item value="register Future" />
-      <item value="Web Socket Server Support" />
-      <item value="send Client Info" />
-      <item value="bc Edu Class Room Service" />
-      <item value="page Data List" />
-      <item value="bc Edu Class Courses Service" />
-      <item value="DELETE" />
-      <item value="FROM" />
-      <item value="bc edu class courses" />
-      <item value="jdbc Template" />
-      <item value="Bc Edu Class Courses" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8513" />
+        <entry key="CHINESE" value="8522" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8513" />
+        <entry key="ENGLISH" value="8523" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="90" />
         <entry key="GALICIAN" value="3" />
-        <entry key="GERMAN" value="15" />
+        <entry key="GERMAN" value="16" />
         <entry key="HINDI" value="8" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
