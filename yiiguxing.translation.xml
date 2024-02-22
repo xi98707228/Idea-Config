@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Buffered Reader" />
       <item value="the length of the sequence of characters represented by this object." />
       <item value="length" />
       <item value="otherwise" />
@@ -1038,7 +1039,6 @@
       <item value="is Blank" />
       <item value="Runtime Exception" />
       <item value="active Publish Template" />
-      <item value="private static final int" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8523" />
+        <entry key="CHINESE" value="8524" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8524" />
+        <entry key="ENGLISH" value="8525" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="90" />
