@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="当前i即为对称轴" />
+      <item value="那么此时的左右窗口位置都是i" />
+      <item value="compare Select" />
       <item value="center Spread Execute" />
       <item value="1. 此方法和 方法一(我自己想的暴力破解法) 最主要的区别就是 方法一确定当前的窗口是通过遍历left和right 而从中心扩散的方式 我们仅需要遍历一次从头到尾(取对称轴-当前了 此轴会区分当前轴为奇数轴还是偶数轴), 奇数轴-以当前元素为回文串最中间位置的元素 偶数轴-以当前位置i和i+1位为对称轴 如果他们不相同则直接返回即可 反之则需要继续判断 i-1,i+1+1位置是否相同 以此对称轴为中心从内到外开始扩散 直到出现对应位置元素不相同位置记录此时的最长回文串" />
       <item value="_02_Leet From Center Spread Method" />
@@ -1036,9 +1039,6 @@
       <item value="get Hc Form Info" />
       <item value="Ajax Result" />
       <item value="Get Mapping" />
-      <item value="public" />
-      <item value="Bpmn Deployer" />
-      <item value="springframework" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8537" />
+        <entry key="CHINESE" value="8540" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8538" />
+        <entry key="ENGLISH" value="8540" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="90" />
