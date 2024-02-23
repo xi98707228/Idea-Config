@@ -989,6 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="already Hash Compute Mapping" />
+      <item value="flow Execute Hashing" />
+      <item value="Query Expression Resolve Executor" />
+      <item value="merge Result Type" />
+      <item value="temp Build Sql" />
+      <item value="horizontal Axis Part Iterator" />
+      <item value="identity" />
+      <item value="Function" />
+      <item value="execute Query" />
+      <item value="query All Oracle Table Field Sql" />
+      <item value="SQL Exception" />
+      <item value="M" />
+      <item value="Collectors" />
+      <item value="综合统计类" />
+      <item value="Field Result Resolve Type" />
       <item value="当前i即为对称轴" />
       <item value="那么此时的左右窗口位置都是i" />
       <item value="compare Select" />
@@ -1024,21 +1039,6 @@
       <item value="V Supplier Payment Tick List" />
       <item value="search Supplier Related Order" />
       <item value="param String" />
-      <item value="show All Data Role Key" />
-      <item value="filtered" />
-      <item value="11:52 Auto build completed with errors" />
-      <item value="is Not Empty" />
-      <item value="Finance Borrow Money User" />
-      <item value="query Data List" />
-      <item value="Assertion Error" />
-      <item value="Druid Abstract Data Source" />
-      <item value="instantiate" />
-      <item value="Gx Oa Office Supplies Relation" />
-      <item value="form Data" />
-      <item value="get Product Unit" />
-      <item value="get Hc Form Info" />
-      <item value="Ajax Result" />
-      <item value="Get Mapping" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8540" />
+        <entry key="CHINESE" value="8551" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8540" />
+        <entry key="ENGLISH" value="8552" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="90" />
