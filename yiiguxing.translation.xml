@@ -989,6 +989,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="先查询出当前模板所有的" />
+      <item value="2022-11-24 需要根据报告类型 筛选出当前模板对应的 周报、月报、月报类型 筛选出对应的 表达式节点" />
+      <item value="1. 先查询出当前模板所有的 不需要查询参数的表达式列表 构建适当数据结构" />
+      <item value="计算多字段累加类型 单独进行计算" />
+      <item value="计算顺序 -- 合并多字段结果值 必须在最后 否则不能获取实时的计算结果" />
+      <item value="Config Expression Node" />
+      <item value="not Require Expression List" />
+      <item value="lambda" />
+      <item value="Objects" />
+      <item value="不需要查询参数的表达式列表" />
+      <item value="result Expression Result List" />
+      <item value="config Expression Node Service" />
+      <item value="筛选出当前模板对应的" />
+      <item value="合并多字段结果值" />
+      <item value="必须在最后" />
+      <item value="否则不能获取实时的计算结果" />
+      <item value="Query Expression Executor" />
+      <item value="Security Utils" />
       <item value="device" />
       <item value="success" />
       <item value="CLIENT KEY SESSION STORE MAP" />
@@ -1021,24 +1039,6 @@
       <item value="综合统计类" />
       <item value="Field Result Resolve Type" />
       <item value="当前i即为对称轴" />
-      <item value="那么此时的左右窗口位置都是i" />
-      <item value="compare Select" />
-      <item value="center Spread Execute" />
-      <item value="1. 此方法和 方法一(我自己想的暴力破解法) 最主要的区别就是 方法一确定当前的窗口是通过遍历left和right 而从中心扩散的方式 我们仅需要遍历一次从头到尾(取对称轴-当前了 此轴会区分当前轴为奇数轴还是偶数轴), 奇数轴-以当前元素为回文串最中间位置的元素 偶数轴-以当前位置i和i+1位为对称轴 如果他们不相同则直接返回即可 反之则需要继续判断 i-1,i+1+1位置是否相同 以此对称轴为中心从内到外开始扩散 直到出现对应位置元素不相同位置记录此时的最长回文串" />
-      <item value="_02_Leet From Center Spread Method" />
-      <item value="to Char Array" />
-      <item value="target Char Arr" />
-      <item value="仅有一个字符 直接返回 一个长度的字符串是回文数" />
-      <item value="inputString = &quot;bababad&quot;; String inputString = &quot;1baab1&quot;; String inputString = &quot;123456&quot;; String inputString" />
-      <item value="input String" />
-      <item value="mozblnzrszxtdjmwvgeovtxoftpcsbnjryogrnibiiqfexljlfikfcxvrzrpfvugtdjrlkgvkmrqgeltifdehsewpdhpjpnuobmuozopmglnocqcozvratjpzrklexqdeuvvzfjkuknkkoynxptrgtzadmpfdkphfjhdulhzncoofmmrwqjxeyhodfavcgpjmohohuztezdxegqzbaaobzrqptuqsvwnfdneyccbkgkjafztytwuppvleukdqqzyeiltsvoqbxupbasiityganofxijucwzqgtdyxljociwwjdrnfnfbwyymmvbuvbrdnvcubzkohknbsneutrcukfiqqhfviqdsbtrldipenqifdcrenpuyaqvkparycksurhbtjppwhezbcgocamurdawimkzzkmiwadrumacogcbzehwppjtbhruskcyrapkvqayupnercdfiqnepidlrtbsdqivfhqqifkucrtuensbnkhokzbucvndrbvubvmmyywbfnfnrdjwwicojlxydtgqzwcujixfonagytiisabpuxbqovstlieyzqqdkuelvppuwtytzfajkgkbccyendfnwvsqutpqrzboaabzqgexdzetzuhohomjpgcvafdohyexjqwrmmfoocnzhludhjfhpkdfpmdaztgrtpxnyokknkukjfzvvuedqxelkrzpjtarvzocqconlgmpozoumbounpjphdpweshedfitlegqrmkvgklrjdtguvfprzrvxcfkifljlxefqiibinrgoyrjnbscptfoxtvoegvwmjdtxzsrznlbzom" />
-      <item value="longest Palindrome" />
-      <item value="solution" />
-      <item value="println" />
-      <item value="System" />
-      <item value="Generic Code Java Doc" />
-      <item value="Buffered Reader" />
-      <item value="the length of the sequence of characters represented by this object." />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,15 +1048,15 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8563" />
+        <entry key="CHINESE" value="8595" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8564" />
+        <entry key="ENGLISH" value="8595" />
         <entry key="FIJIAN" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="90" />
+        <entry key="FRENCH" value="92" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
