@@ -989,6 +989,43 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="THE BILLION YUAN" />
+      <item value="divide" />
+      <item value="DEVICE BING DATA EXCEPTION" />
+      <item value="DEVICE UN BING EXCEPTION" />
+      <item value="SCHOOL ROOM BIND DATA EXCEPTION" />
+      <item value="public static final long EXPIRE_THRESHOLD = 7 24 60 60 1000L;" />
+      <item value="EXPIRE THRESHOLD" />
+      <item value="get Room Code" />
+      <item value="get Day Of Week" />
+      <item value="room Schedule Table List" />
+      <item value="is Empty" />
+      <item value="Collection Utils" />
+      <item value="class Name" />
+      <item value="get Class Name" />
+      <item value="bc Edu Class Room Mapper" />
+      <item value="now Class Room Info" />
+      <item value="Tenement Building Device Screen Data Vo" />
+      <item value="has Schedule" />
+      <item value="should Arrive Number" />
+      <item value="get Capacity" />
+      <item value="Ten" />
+      <item value="now Device Bind Tenement Row Data" />
+      <item value="tenement Building Row Id" />
+      <item value="building Tenement Info" />
+      <item value="room Ly" />
+      <item value="get Room Ly" />
+      <item value="获取楼栋信息 String tenementBuildingRowId" />
+      <item value="获取楼栋信息" />
+      <item value="String deviceCode = loginUser.getDeviceCode();" />
+      <item value="LoginUser loginUser = SecurityUtils.getLoginUser();" />
+      <item value="if (StringUtils.isEmpty(deviceCode)){" />
+      <item value="return AjaxResult.error(&quot;登录账号:&quot; + loginUser.getUsername() + DeviceTenementConstants.DEVICE_UN_BING_EXCEPTION);" />
+      <item value="r" />
+      <item value="Device Tenement Constants" />
+      <item value="error" />
+      <item value="Ajax Result" />
+      <item value="login User" />
       <item value="BitMap 可以理解为 是HashMap的在大数据量查询和存储方面的最优选择" />
       <item value="是Hash Map的在大数据量查询和存储方面的最优选择" />
       <item value="@author: xqh , 987072248@qq.com" />
@@ -1002,43 +1039,6 @@
       <item value="Request Body" />
       <item value="success" />
       <item value="c" />
-      <item value="先查询出当前模板所有的" />
-      <item value="2022-11-24 需要根据报告类型 筛选出当前模板对应的 周报、月报、月报类型 筛选出对应的 表达式节点" />
-      <item value="1. 先查询出当前模板所有的 不需要查询参数的表达式列表 构建适当数据结构" />
-      <item value="计算多字段累加类型 单独进行计算" />
-      <item value="计算顺序 -- 合并多字段结果值 必须在最后 否则不能获取实时的计算结果" />
-      <item value="Config Expression Node" />
-      <item value="not Require Expression List" />
-      <item value="lambda" />
-      <item value="Objects" />
-      <item value="不需要查询参数的表达式列表" />
-      <item value="result Expression Result List" />
-      <item value="config Expression Node Service" />
-      <item value="筛选出当前模板对应的" />
-      <item value="合并多字段结果值" />
-      <item value="必须在最后" />
-      <item value="否则不能获取实时的计算结果" />
-      <item value="Query Expression Executor" />
-      <item value="Security Utils" />
-      <item value="device" />
-      <item value="CLIENT KEY SESSION STORE MAP" />
-      <item value="WEBSOCKET TEMPLATE PUSH LOGGER" />
-      <item value="Indicate" />
-      <item value="Transport" />
-      <item value="parse Transport Indicate" />
-      <item value="Tenement Terminal Device Info Vo" />
-      <item value="terminal Device Info Vo" />
-      <item value="tenement Device Info" />
-      <item value="convert Field Condition List" />
-      <item value="Chart Field Condition Config" />
-      <item value="web容器中进行部署" />
-      <item value="extends" />
-      <item value="Spring Application Builder" />
-      <item value="already Hash Compute Mapping" />
-      <item value="flow Execute Hashing" />
-      <item value="Query Expression Resolve Executor" />
-      <item value="merge Result Type" />
-      <item value="temp Build Sql" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1046,30 +1046,31 @@
         <entry key="ALBANIAN" value="2" />
         <entry key="AMHARIC" value="1" />
         <entry key="BENGALI" value="5" />
-        <entry key="BOSNIAN" value="2" />
+        <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8612" />
+        <entry key="CHINESE" value="8658" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8612" />
+        <entry key="ENGLISH" value="8659" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="92" />
+        <entry key="FRENCH" value="94" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="16" />
+        <entry key="ITALIAN" value="17" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAYALAM" value="2" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PASHTO" value="1" />
         <entry key="PERSIAN" value="1" />
-        <entry key="POLISH" value="3" />
+        <entry key="POLISH" value="4" />
         <entry key="PORTUGUESE_BRAZILIAN" value="18" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
@@ -1077,7 +1078,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="16" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="38" />
+        <entry key="TAHITIAN" value="39" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
         <entry key="URDU" value="1" />
