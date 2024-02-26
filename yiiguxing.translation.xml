@@ -989,6 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="select Current Device Schedule Table Data" />
+      <item value="app Schedule Data Service" />
+      <item value="某一周全部课表数据信息" />
+      <item value="@Get Mapping(&quot;get-device-weeks-schedule&quot;)" />
+      <item value="Request Body" />
+      <item value="success" />
+      <item value="c" />
       <item value="先查询出当前模板所有的" />
       <item value="2022-11-24 需要根据报告类型 筛选出当前模板对应的 周报、月报、月报类型 筛选出对应的 表达式节点" />
       <item value="1. 先查询出当前模板所有的 不需要查询参数的表达式列表 构建适当数据结构" />
@@ -1008,7 +1015,6 @@
       <item value="Query Expression Executor" />
       <item value="Security Utils" />
       <item value="device" />
-      <item value="success" />
       <item value="CLIENT KEY SESSION STORE MAP" />
       <item value="WEBSOCKET TEMPLATE PUSH LOGGER" />
       <item value="Indicate" />
@@ -1033,12 +1039,6 @@
       <item value="Function" />
       <item value="execute Query" />
       <item value="query All Oracle Table Field Sql" />
-      <item value="SQL Exception" />
-      <item value="M" />
-      <item value="Collectors" />
-      <item value="综合统计类" />
-      <item value="Field Result Resolve Type" />
-      <item value="当前i即为对称轴" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,13 +1048,14 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="2" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8595" />
+        <entry key="CHINESE" value="8602" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8595" />
+        <entry key="ENGLISH" value="8603" />
         <entry key="FIJIAN" value="1" />
+        <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="5" />
         <entry key="FRENCH" value="92" />
         <entry key="GALICIAN" value="3" />
