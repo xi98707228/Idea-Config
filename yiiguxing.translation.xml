@@ -989,11 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="room Ly" />
+      <item value="building Room Ly List" />
+      <item value="builder" />
       <item value="lambda" />
       <item value="Bc Edu Class Room" />
       <item value="get Room Ly" />
       <item value="Tenement Building Device Screen Data Vo" />
-      <item value="building Room Ly List" />
       <item value="Building Screen Left Item" />
       <item value="left Item List" />
       <item value="edu Class Room" />
@@ -1024,7 +1026,6 @@
       <item value="Ten" />
       <item value="now Device Bind Tenement Row Data" />
       <item value="tenement Building Row Id" />
-      <item value="room Ly" />
       <item value="获取楼栋信息 String tenementBuildingRowId" />
       <item value="获取楼栋信息" />
       <item value="String deviceCode = loginUser.getDeviceCode();" />
@@ -1038,7 +1039,6 @@
       <item value="login User" />
       <item value="BitMap 可以理解为 是HashMap的在大数据量查询和存储方面的最优选择" />
       <item value="是Hash Map的在大数据量查询和存储方面的最优选择" />
-      <item value="@author: xqh , 987072248@qq.com" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8675" />
+        <entry key="CHINESE" value="8678" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8676" />
+        <entry key="ENGLISH" value="8679" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
