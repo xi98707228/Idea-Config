@@ -989,6 +989,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="edu Class Room" />
+      <item value="tenement Location" />
+      <item value="bc Edu Class Room Mapper" />
+      <item value="Building Screen Left Item" />
+      <item value="building Room Ly List" />
+      <item value="Bc Edu Class Room" />
+      <item value="Tenement Building Device Screen Data Vo" />
+      <item value="add Item" />
+      <item value="add" />
+      <item value="Building Screen Left Part" />
       <item value="building Tenement Info" />
       <item value="THE BILLION YUAN" />
       <item value="divide" />
@@ -1004,9 +1014,7 @@
       <item value="Collection Utils" />
       <item value="class Name" />
       <item value="get Class Name" />
-      <item value="bc Edu Class Room Mapper" />
       <item value="now Class Room Info" />
-      <item value="Tenement Building Device Screen Data Vo" />
       <item value="has Schedule" />
       <item value="should Arrive Number" />
       <item value="get Capacity" />
@@ -1031,14 +1039,6 @@
       <item value="@author: xqh , 987072248@qq.com" />
       <item value="987072248" />
       <item value="author" />
-      <item value="d" />
-      <item value="select Current Device Schedule Table Data" />
-      <item value="app Schedule Data Service" />
-      <item value="某一周全部课表数据信息" />
-      <item value="@Get Mapping(&quot;get-device-weeks-schedule&quot;)" />
-      <item value="Request Body" />
-      <item value="success" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8659" />
+        <entry key="CHINESE" value="8668" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8660" />
+        <entry key="ENGLISH" value="8669" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="94" />
+        <entry key="FRENCH" value="95" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
