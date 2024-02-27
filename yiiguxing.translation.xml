@@ -989,13 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="screen Left Part" />
+      <item value="Comparator" />
+      <item value="left Item List" />
+      <item value="进行排序重组数据" />
+      <item value="sorted" />
+      <item value="stream" />
       <item value="Tenement Building Device Screen Data Vo" />
       <item value="Bc Edu Class Room" />
       <item value="bc Edu Class Room Mapper" />
       <item value="select List" />
       <item value="building Room Ly List" />
       <item value="building Name" />
-      <item value="screen Left Part" />
       <item value="room Ly" />
       <item value="Item" />
       <item value="e" />
@@ -1011,7 +1016,6 @@
       <item value="Application" />
       <item value="Connected" />
       <item value="target" />
-      <item value="left Item List" />
       <item value="Building Screen Left Item" />
       <item value="log Started" />
       <item value="seconds" />
@@ -1035,10 +1039,6 @@
       <item value="public static final long EXPIRE_THRESHOLD = 7 24 60 60 1000L;" />
       <item value="EXPIRE THRESHOLD" />
       <item value="get Room Code" />
-      <item value="get Day Of Week" />
-      <item value="room Schedule Table List" />
-      <item value="is Empty" />
-      <item value="Collection Utils" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8718" />
+        <entry key="CHINESE" value="8728" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8719" />
+        <entry key="ENGLISH" value="8729" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
