@@ -989,12 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Http 11 Nio Protocol" />
+      <item value="Zhkj Application" />
+      <item value="address" />
+      <item value="socket" />
+      <item value="transport" />
+      <item value="Spring Boot Version: 2.5.15" />
+      <item value="Version" />
+      <item value="Application" />
+      <item value="Connected" />
+      <item value="target" />
       <item value="left Item List" />
       <item value="Building Screen Left Item" />
       <item value="Tenement Building Device Screen Data Vo" />
       <item value="Bc Edu Class Room" />
       <item value="screen Left Part" />
-      <item value="Zhkj Application" />
       <item value="log Started" />
       <item value="seconds" />
       <item value="quartz Scheduler NON CLUSTERED" />
@@ -1030,15 +1039,6 @@
       <item value="now Class Room Info" />
       <item value="has Schedule" />
       <item value="should Arrive Number" />
-      <item value="get Capacity" />
-      <item value="Ten" />
-      <item value="now Device Bind Tenement Row Data" />
-      <item value="tenement Building Row Id" />
-      <item value="获取楼栋信息 String tenementBuildingRowId" />
-      <item value="获取楼栋信息" />
-      <item value="String deviceCode = loginUser.getDeviceCode();" />
-      <item value="LoginUser loginUser = SecurityUtils.getLoginUser();" />
-      <item value="if (StringUtils.isEmpty(deviceCode)){" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8692" />
+        <entry key="CHINESE" value="8704" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8693" />
+        <entry key="ENGLISH" value="8704" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
@@ -1071,7 +1071,7 @@
         <entry key="PASHTO" value="1" />
         <entry key="PERSIAN" value="1" />
         <entry key="POLISH" value="4" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="18" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="20" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
