@@ -989,14 +989,17 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Count Down Latch" />
+      <item value="query Reimbursement Pool Data" />
+      <item value="examine Reimbursement Order" />
+      <item value="NOT EXAMINE" />
+      <item value="Examine Store Reimbursement Relationship" />
       <item value="examine Update Date" />
       <item value="need Merge" />
       <item value="create Time" />
       <item value="build" />
       <item value="temp List" />
       <item value="set Reimbursement Item List" />
-      <item value="Examine Store Reimbursement Relationship" />
-      <item value="examine Reimbursement Order" />
       <item value="累加流程审批中的金额" />
       <item value="get Approve Cost" />
       <item value="notice Type" />
@@ -1036,9 +1039,6 @@
       <item value="seconds" />
       <item value="quartz Scheduler NON CLUSTERED" />
       <item value="is Has Schedule" />
-      <item value="has Schedule List" />
-      <item value="not Schedule List" />
-      <item value="lambda" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8742" />
+        <entry key="CHINESE" value="8747" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8743" />
+        <entry key="ENGLISH" value="8748" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
