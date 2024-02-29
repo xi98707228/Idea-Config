@@ -989,6 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ruoyi" />
+      <item value="@author xqh , 987072248@qq.com" />
+      <item value="Active Publish Template" />
+      <item value="I Service" />
+      <item value="extends" />
+      <item value="device Code" />
+      <item value="Active Publish Template Service" />
+      <item value="event Publish Template Heart Flag" />
+      <item value="page Url" />
       <item value="Building Screen Left Item" />
       <item value="building Room Ly List" />
       <item value="add Item" />
@@ -1030,15 +1039,6 @@
       <item value="bc edu class schedule" />
       <item value="temp Batch Size" />
       <item value="Building Screen Right Part" />
-      <item value="notice Data List" />
-      <item value="Examine Reimbursement Order Export Vo" />
-      <item value="get Examine Status Code" />
-      <item value="NOT EXAMINE" />
-      <item value="Examine Personal Reimbursement" />
-      <item value="store Order Item" />
-      <item value="compile" />
-      <item value="compiler" />
-      <item value="Examine Reimbursement Order" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8822" />
+        <entry key="CHINESE" value="8827" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8823" />
+        <entry key="ENGLISH" value="8828" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
