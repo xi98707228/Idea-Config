@@ -989,6 +989,39 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Starting Servlet engine: [Apache Tomcat9.0.75]" />
+      <item value="Initializing" />
+      <item value="Spring" />
+      <item value="embedded" />
+      <item value="Web Application Context" />
+      <item value="Initializing Spring embedded WebApplicationContext" />
+      <item value="Zhkj Application" />
+      <item value="restarted Main" />
+      <item value="Starting" />
+      <item value="Java" />
+      <item value="Feng-HP with PID" />
+      <item value="t" />
+      <item value="log Starting" />
+      <item value="Standard Engine" />
+      <item value="Standard Service" />
+      <item value="Http 11 Nio Protocol" />
+      <item value="Initializing ProtocolHandler [&quot;http-nio-16000&quot;] 14" />
+      <item value="Starting service [Tomcat]" />
+      <item value="- Starting service [Tomcat]" />
+      <item value="o.a.c.c.C" />
+      <item value="Apache Tomcat" />
+      <item value="Apache" />
+      <item value="engine" />
+      <item value="Servlet" />
+      <item value="log Startup Profile Info" />
+      <item value="The" />
+      <item value="following" />
+      <item value="profiles" />
+      <item value="druid" />
+      <item value="configs" />
+      <item value="active" />
+      <item value="Protocol Handler" />
+      <item value="Tomcat" />
       <item value="Sys User Device" />
       <item value="Id Type" />
       <item value="jump Type" />
@@ -1006,39 +1039,6 @@
       <item value="add Item" />
       <item value="left Item List" />
       <item value="sorted" />
-      <item value="stream" />
-      <item value="comparing" />
-      <item value="class Room" />
-      <item value="e" />
-      <item value="Tenement Building Device Screen Data Vo" />
-      <item value="room Ly" />
-      <item value="String" />
-      <item value="获取当前楼栋所有关联的房间信息" />
-      <item value="bc Edu Class Room Mapper" />
-      <item value="Zhkj Application" />
-      <item value="16:38:41.266 [http-nio-16000-exec-1] INFO o.a.c.c.C.[.[.[] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'" />
-      <item value="========== (♥◠‿◠)ﾉﾞ 智慧空间后台Server启动成功 ლ(´ڡ`ლ)ﾞ ==========" />
-      <item value="set Lenient" />
-      <item value="do Filter Internal" />
-      <item value="app Get Now Building Screen Data" />
-      <item value="get Device Code" />
-      <item value="App Device Bind Position Form" />
-      <item value="heartbeat" />
-      <item value="Security Utils" />
-      <item value="heartbeat Open App Page" />
-      <item value="success" />
-      <item value="get Login User" />
-      <item value="now Device Code" />
-      <item value="Ajax Result" />
-      <item value="ri" />
-      <item value="Cyclic Barrier" />
-      <item value="get Or Create" />
-      <item value="Cyclic Buffer" />
-      <item value="BATCH HANDLE SIZE" />
-      <item value="lambda" />
-      <item value="throws" />
-      <item value="Interrupted Exception" />
-      <item value="bc edu class time slot" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8830" />
+        <entry key="CHINESE" value="8882" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8831" />
+        <entry key="ENGLISH" value="8883" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
@@ -1067,11 +1067,12 @@
         <entry key="ITALIAN" value="19" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAYALAM" value="2" />
+        <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PASHTO" value="1" />
         <entry key="PERSIAN" value="1" />
         <entry key="POLISH" value="4" />
-        <entry key="PORTUGUESE_BRAZILIAN" value="20" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="23" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
