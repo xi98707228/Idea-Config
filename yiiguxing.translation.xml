@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@author xqh , 987072248@qq.com" />
+      <item value="Bc Exam Template Mapper" />
+      <item value="exam Config Name" />
       <item value="exam In Use" />
       <item value="row Id" />
       <item value="考场模板名称" />
@@ -1036,9 +1039,6 @@
       <item value="configs" />
       <item value="active" />
       <item value="Tomcat" />
-      <item value="Sys User Device" />
-      <item value="Id Type" />
-      <item value="jump Type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8895" />
+        <entry key="CHINESE" value="8898" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8896" />
+        <entry key="ENGLISH" value="8899" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
