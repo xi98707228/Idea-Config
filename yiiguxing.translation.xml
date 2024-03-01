@@ -989,15 +989,24 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get User Name" />
+      <item value="login Mobile" />
+      <item value="Scheduler" />
+      <item value="Quartz Scheduler" />
+      <item value="Protocol Handler" />
+      <item value="Starting" />
+      <item value="save" />
+      <item value="Job Factory" />
+      <item value="Zhkj Application" />
+      <item value="智慧空间后台Server启动成功" />
+      <item value="base Task Pool" />
       <item value="Starting Servlet engine: [Apache Tomcat9.0.75]" />
       <item value="Initializing" />
       <item value="Spring" />
       <item value="embedded" />
       <item value="Web Application Context" />
       <item value="Initializing Spring embedded WebApplicationContext" />
-      <item value="Zhkj Application" />
       <item value="restarted Main" />
-      <item value="Starting" />
       <item value="Java" />
       <item value="Feng-HP with PID" />
       <item value="t" />
@@ -1020,7 +1029,6 @@
       <item value="druid" />
       <item value="configs" />
       <item value="active" />
-      <item value="Protocol Handler" />
       <item value="Tomcat" />
       <item value="Sys User Device" />
       <item value="Id Type" />
@@ -1031,14 +1039,6 @@
       <item value="I Service" />
       <item value="extends" />
       <item value="device Code" />
-      <item value="Active Publish Template Service" />
-      <item value="event Publish Template Heart Flag" />
-      <item value="page Url" />
-      <item value="Building Screen Left Item" />
-      <item value="building Room Ly List" />
-      <item value="add Item" />
-      <item value="left Item List" />
-      <item value="sorted" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8882" />
+        <entry key="CHINESE" value="8890" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8883" />
+        <entry key="ENGLISH" value="8891" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
