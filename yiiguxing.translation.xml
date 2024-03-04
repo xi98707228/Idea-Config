@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="登录成功" />
+      <item value="退出成功" />
+      <item value="Logout" />
+      <item value="Get Mapping" />
       <item value="get Label Config List" />
       <item value="semi automatic price table" />
       <item value="create Time" />
@@ -1035,10 +1039,6 @@
       <item value="Standard Engine" />
       <item value="Standard Service" />
       <item value="Http 11 Nio Protocol" />
-      <item value="Initializing ProtocolHandler [&quot;http-nio-16000&quot;] 14" />
-      <item value="Starting service [Tomcat]" />
-      <item value="- Starting service [Tomcat]" />
-      <item value="o.a.c.c.C" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8907" />
-        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="CHINESE" value="8910" />
+        <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8908" />
+        <entry key="ENGLISH" value="8910" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
