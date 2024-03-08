@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Config Device Ancestors" />
       <item value="config Device Ancestors" />
       <item value="config Device Position List" />
       <item value="set Config Device Position List" />
@@ -1038,7 +1039,6 @@
       <item value="delete" />
       <item value="@author xqh , 987072248@qq.com" />
       <item value="Bc Exam Template Mapper" />
-      <item value="exam Config Name" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8942" />
+        <entry key="CHINESE" value="8943" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8943" />
+        <entry key="ENGLISH" value="8944" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
