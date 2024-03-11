@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709521899478" />
+    <option name="lastTrimTime" value="1710127863895" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -989,6 +989,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="phy Code" />
+      <item value="select Exam Config Data List" />
+      <item value="fig" />
+      <item value="config" />
+      <item value="Get Mapping" />
+      <item value="Bc Exam Template Composition" />
+      <item value="select Exam Template Config Data List" />
+      <item value="select Bc Template Data List" />
+      <item value="Bc Template List Data Composition" />
+      <item value="Protocol Handler" />
       <item value="floor number" />
       <item value="set Config Device Ancestors" />
       <item value="config Device Ancestors" />
@@ -1026,19 +1036,9 @@
       <item value="登录成功" />
       <item value="退出成功" />
       <item value="Logout" />
-      <item value="Get Mapping" />
       <item value="semi automatic price table" />
       <item value="create Time" />
       <item value="create author" />
-      <item value="update Author" />
-      <item value="List" />
-      <item value="author" />
-      <item value="data" />
-      <item value="Act Publish Label Mapper" />
-      <item value="create User Nick" />
-      <item value="Base Controller" />
-      <item value="delete" />
-      <item value="@author xqh , 987072248@qq.com" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8944" />
+        <entry key="CHINESE" value="8957" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8945" />
+        <entry key="ENGLISH" value="8958" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
