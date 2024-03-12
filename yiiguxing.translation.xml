@@ -989,6 +989,19 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Combine Key" />
+      <item value="U" />
+      <item value="Sys User" />
+      <item value="system" />
+      <item value="user" />
+      <item value="edit" />
+      <item value="s" />
+      <item value="get User Id" />
+      <item value="get Login User" />
+      <item value="Security Utils" />
+      <item value="is Empty" />
+      <item value="set Create By" />
+      <item value="set Create Time" />
       <item value="get Row Info" />
       <item value="source Data" />
       <item value="config Form" />
@@ -1023,22 +1036,9 @@
       <item value="Simple Thread Pool" />
       <item value="best guess" />
       <item value="Out of range value for column 'row_id" />
-      <item value="get User Id" />
       <item value="operate Data" />
       <item value="assets Invest Project Service" />
       <item value="Ajax Result" />
-      <item value="update By Id" />
-      <item value="get Label Config List" />
-      <item value="@Get Mapping(&quot;get-row-data{row Id}&quot;)" />
-      <item value="get Row Data" />
-      <item value="Post Mapping" />
-      <item value="Path Variable" />
-      <item value="String" />
-      <item value="Zhkj Application" />
-      <item value="Starting" />
-      <item value="Act Publish Label" />
-      <item value="get By Id" />
-      <item value="active Publish Label Service" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8972" />
+        <entry key="CHINESE" value="8986" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="DUTCH" value="7" />
-        <entry key="ENGLISH" value="8973" />
+        <entry key="DUTCH" value="8" />
+        <entry key="ENGLISH" value="8987" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
