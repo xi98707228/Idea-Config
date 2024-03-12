@@ -989,12 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Exam Config Table Data" />
+      <item value="config" />
+      <item value="success" />
       <item value="group Atomic Multiple Expression Map" />
       <item value="config Condition Param" />
       <item value="already Hash Compute Mapping" />
       <item value="flow Execute Hashing" />
-      <item value="success" />
-      <item value="get Exam Config Table Data" />
       <item value="get Combine Key" />
       <item value="U" />
       <item value="Sys User" />
@@ -1022,7 +1023,6 @@
       <item value="school Card Flow Service" />
       <item value="select Exam Config Data List" />
       <item value="fig" />
-      <item value="config" />
       <item value="Get Mapping" />
       <item value="Bc Exam Template Composition" />
       <item value="select Exam Template Config Data List" />
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8991" />
+        <entry key="CHINESE" value="8994" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="8992" />
+        <entry key="ENGLISH" value="8995" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
