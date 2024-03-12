@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
       <item value="get Exam Config Table Data" />
       <item value="get Combine Key" />
       <item value="U" />
@@ -1014,7 +1015,6 @@
       <item value="cu Name" />
       <item value="ca State" />
       <item value="c" />
-      <item value="success" />
       <item value="school Card Flow Service" />
       <item value="select Exam Config Data List" />
       <item value="fig" />
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="8987" />
+        <entry key="CHINESE" value="8988" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="8988" />
+        <entry key="ENGLISH" value="8989" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
