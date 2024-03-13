@@ -989,6 +989,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="a" />
+      <item value="i" />
+      <item value="d" />
+      <item value="y" />
+      <item value="class" />
+      <item value="label" />
+      <item value="Service Impl" />
+      <item value="@data 2024-03-13 14:35:16" />
+      <item value="@author xqh , 987072248@qq.com" />
+      <item value="Bc Exam Config Table Service Impl" />
+      <item value="import Config Table Data File" />
+      <item value="supported File Attribute Views" />
+      <item value="seekable Byte Channel" />
+      <item value="async Remote" />
+      <item value="send Client Info" />
+      <item value="Seekable Byte Channel" />
+      <item value="Scheduler quartzScheduler__NON_CLUSTERED started" />
+      <item value="Scheduler" />
+      <item value="import The Exam File" />
+      <item value="导入的当前模板考场考试安排信息" />
+      <item value="get Exam Config Table Data" />
+      <item value="success" />
+      <item value="Bc Exam Config Table Mapper" />
       <item value="Data" />
       <item value="Table Name" />
       <item value="bc exam config table" />
@@ -996,7 +1019,6 @@
       <item value="Table Id" />
       <item value="row Id" />
       <item value="config Id" />
-      <item value="i" />
       <item value="Zhkj Application" />
       <item value="seconds" />
       <item value="is Allowed Extension" />
@@ -1013,32 +1035,10 @@
       <item value="BASE LOCKS SIZE" />
       <item value="Eric Bruneton" />
       <item value="message" />
-      <item value="get Exam Config Table Data" />
       <item value="config" />
-      <item value="success" />
       <item value="group Atomic Multiple Expression Map" />
       <item value="config Condition Param" />
       <item value="already Hash Compute Mapping" />
-      <item value="flow Execute Hashing" />
-      <item value="get Combine Key" />
-      <item value="U" />
-      <item value="Sys User" />
-      <item value="system" />
-      <item value="user" />
-      <item value="edit" />
-      <item value="s" />
-      <item value="get User Id" />
-      <item value="get Login User" />
-      <item value="Security Utils" />
-      <item value="is Empty" />
-      <item value="set Create By" />
-      <item value="set Create Time" />
-      <item value="get Row Info" />
-      <item value="source Data" />
-      <item value="config Form" />
-      <item value="set Update Time" />
-      <item value="School Card Member Info Dto" />
-      <item value="phy Code" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9014" />
+        <entry key="CHINESE" value="9039" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9015" />
+        <entry key="ENGLISH" value="9040" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="98" />
+        <entry key="FRENCH" value="99" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
@@ -1078,7 +1078,7 @@
         <entry key="SERBIAN_LATIN" value="2" />
         <entry key="SLOVAK" value="4" />
         <entry key="SLOVENIAN" value="1" />
-        <entry key="SPANISH" value="16" />
+        <entry key="SPANISH" value="17" />
         <entry key="SWEDISH" value="7" />
         <entry key="TAHITIAN" value="39" />
         <entry key="TAMIL" value="1" />
