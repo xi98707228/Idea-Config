@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Extension" />
+      <item value="File Upload Utils" />
       <item value="compare Swap Count" />
       <item value="read Lock" />
       <item value="retry Count" />
@@ -1037,8 +1039,6 @@
       <item value="select Exam Template Config Data List" />
       <item value="select Bc Template Data List" />
       <item value="Bc Template List Data Composition" />
-      <item value="Protocol Handler" />
-      <item value="floor number" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9003" />
+        <entry key="CHINESE" value="9004" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9004" />
+        <entry key="ENGLISH" value="9005" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="1" />
