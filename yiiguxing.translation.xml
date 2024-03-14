@@ -989,12 +989,15 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Input Stream" />
+      <item value="tour Dog" />
+      <item value="Dispatcher Servlet" />
+      <item value="dispatcher Servlet" />
       <item value="on Exception" />
       <item value="Exam Config Table Info" />
       <item value="head Row Number" />
       <item value="Easy Excel" />
       <item value="Exam Config Table Read Listener" />
-      <item value="get Input Stream" />
       <item value="sheet" />
       <item value="deal Data" />
       <item value="Linked Hash Map" />
@@ -1006,7 +1009,6 @@
       <item value="Rule out empty head, and then take the largest column" />
       <item value="has Next" />
       <item value="Analysis Context" />
-      <item value="tour Dog" />
       <item value="watch Dog" />
       <item value="Analysis Event Listener" />
       <item value="go File Task Rule Edit Page" />
@@ -1037,8 +1039,6 @@
       <item value="Table Name" />
       <item value="bc exam config table" />
       <item value="Bc Exam Config Table" />
-      <item value="Table Id" />
-      <item value="row Id" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9076" />
+        <entry key="CHINESE" value="9079" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9077" />
+        <entry key="ENGLISH" value="9080" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="99" />
+        <entry key="FRENCH" value="100" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
