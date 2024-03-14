@@ -989,10 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="now Sheet" />
       <item value="Override" />
       <item value="do After All Analysed" />
       <item value="Analysis Context" />
-      <item value="now Sheet" />
       <item value="get Time Type Code" />
       <item value="set Config Time Type" />
       <item value="Exam Time Type" />
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9097" />
+        <entry key="CHINESE" value="9098" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9098" />
+        <entry key="ENGLISH" value="9099" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
