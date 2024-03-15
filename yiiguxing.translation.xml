@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="private" />
+      <item value="current Room Code" />
+      <item value="SCHOOL ROOM BIND DATA EXCEPTION" />
       <item value="获取当前设备绑定的楼宇对应信息" />
       <item value="获取当前登陆设备的考试考场安排数据表" />
       <item value="source Data" />
@@ -1036,9 +1039,6 @@
       <item value="deal Data" />
       <item value="Linked Hash Map" />
       <item value="boolean" />
-      <item value="import Config Table Data File" />
-      <item value="import File" />
-      <item value="Multipart File" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9115" />
+        <entry key="CHINESE" value="9116" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9115" />
+        <entry key="ENGLISH" value="9117" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
