@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Allowed Extension" />
+      <item value="Zhkj Application" />
+      <item value="智慧空间后台Server启动成功" />
       <item value="now Sheet" />
       <item value="Override" />
       <item value="do After All Analysed" />
@@ -1036,9 +1039,6 @@
       <item value="@author xqh , 987072248@qq.com" />
       <item value="Bc Exam Config Table Service Impl" />
       <item value="supported File Attribute Views" />
-      <item value="seekable Byte Channel" />
-      <item value="async Remote" />
-      <item value="send Client Info" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9098" />
+        <entry key="CHINESE" value="9100" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9099" />
+        <entry key="ENGLISH" value="9101" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
