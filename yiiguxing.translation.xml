@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取当前登陆设备的考试考场安排数据表" />
+      <item value="source Data" />
+      <item value="now Exam In Use" />
+      <item value="Bc Exam Template" />
       <item value="Cannot" />
       <item value="get Exam In Use" />
       <item value="current Used Template" />
@@ -1035,10 +1039,6 @@
       <item value="import File" />
       <item value="Multipart File" />
       <item value="Rule out empty head, and then take the largest column" />
-      <item value="has Next" />
-      <item value="watch Dog" />
-      <item value="Analysis Event Listener" />
-      <item value="go File Task Rule Edit Page" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9111" />
+        <entry key="CHINESE" value="9115" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9112" />
+        <entry key="ENGLISH" value="9115" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
