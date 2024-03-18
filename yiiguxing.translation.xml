@@ -989,6 +989,21 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="active Publish Template Service" />
+      <item value="save Flag" />
+      <item value="boolean" />
+      <item value="create Communications Exception" />
+      <item value="connect One Try Only" />
+      <item value="Connection timed out: connect" />
+      <item value="Caused by: java.net.ConnectException: Connection timed out: connect" />
+      <item value="timed out: connect" />
+      <item value="Connection" />
+      <item value="template Page Param" />
+      <item value="template Name" />
+      <item value="cookie" />
+      <item value="DEBUG" />
+      <item value="error will be logged at DEBUG level" />
+      <item value="logged at DEBUG level" />
       <item value="heart Active" />
       <item value="page Url" />
       <item value="private" />
@@ -1024,21 +1039,6 @@
       <item value="ASSIGN ID" />
       <item value="Table Id" />
       <item value="col Watch Dog" />
-      <item value="col Exam Place" />
-      <item value="col Class Name" />
-      <item value="exam Place" />
-      <item value="invoke" />
-      <item value="get Input Stream" />
-      <item value="tour Dog" />
-      <item value="Dispatcher Servlet" />
-      <item value="dispatcher Servlet" />
-      <item value="on Exception" />
-      <item value="Exam Config Table Info" />
-      <item value="head Row Number" />
-      <item value="Easy Excel" />
-      <item value="Exam Config Table Read Listener" />
-      <item value="sheet" />
-      <item value="deal Data" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9118" />
+        <entry key="CHINESE" value="9136" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9119" />
+        <entry key="ENGLISH" value="9137" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -1064,7 +1064,7 @@
         <entry key="HINDI" value="10" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="19" />
+        <entry key="ITALIAN" value="20" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAGASY" value="5" />
         <entry key="MALAYALAM" value="2" />
