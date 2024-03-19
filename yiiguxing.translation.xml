@@ -989,24 +989,40 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exception" />
+      <item value="operate Data" />
+      <item value="Sys School Config" />
+      <item value="i Sys School Config Service" />
+      <item value="remove" />
+      <item value="config" />
+      <item value="row Id" />
+      <item value="String" />
+      <item value="remove-row-config" />
+      <item value="Path Variable" />
+      <item value="pattern" />
+      <item value="config End Date" />
+      <item value="dd" />
+      <item value="MM" />
+      <item value="yyyy" />
+      <item value="week Count" />
+      <item value="学期开始日期" />
+      <item value="config Start Date" />
+      <item value="week Counter" />
+      <item value="Resolved" />
+      <item value="log Exception" />
+      <item value="Json Format" />
       <item value="config Year" />
       <item value="config School Term" />
       <item value="success" />
       <item value="Ajax Result" />
-      <item value="config" />
       <item value="row" />
       <item value="get School Configs List" />
-      <item value="Path Variable" />
-      <item value="i Sys School Config Service" />
       <item value="Sys School Config Controller" />
       <item value="I Sys School Config Service" />
       <item value="create Time" />
-      <item value="row Id" />
       <item value="row id" />
-      <item value="config Start Date" />
       <item value="Id Type" />
       <item value="ASSIGN ID" />
-      <item value="Sys School Config" />
       <item value="this Day Of Week" />
       <item value="get Schedule Data Item List" />
       <item value="schedule Data Item Dto" />
@@ -1023,22 +1039,6 @@
       <item value="base Task Pool" />
       <item value="bc Device Tenement" />
       <item value="execute" />
-      <item value="Bc Device Tenement" />
-      <item value="set Publish Time" />
-      <item value="set Publish Author" />
-      <item value="set Tenement Device Id" />
-      <item value="now Publish Device Id" />
-      <item value="operate User Id" />
-      <item value="save Flag" />
-      <item value="boolean" />
-      <item value="create Communications Exception" />
-      <item value="connect One Try Only" />
-      <item value="Connection timed out: connect" />
-      <item value="Caused by: java.net.ConnectException: Connection timed out: connect" />
-      <item value="timed out: connect" />
-      <item value="Connection" />
-      <item value="template Page Param" />
-      <item value="template Name" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9192" />
+        <entry key="CHINESE" value="9220" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9193" />
+        <entry key="DUTCH" value="9" />
+        <entry key="ENGLISH" value="9221" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
