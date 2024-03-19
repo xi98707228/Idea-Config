@@ -989,8 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="success" />
       <item value="config Year" />
+      <item value="config School Term" />
+      <item value="success" />
       <item value="Ajax Result" />
       <item value="config" />
       <item value="row" />
@@ -1001,7 +1002,6 @@
       <item value="I Sys School Config Service" />
       <item value="create Time" />
       <item value="row Id" />
-      <item value="config School Term" />
       <item value="row id" />
       <item value="config Start Date" />
       <item value="Id Type" />
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9189" />
+        <entry key="CHINESE" value="9192" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9190" />
+        <entry key="ENGLISH" value="9193" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
