@@ -989,7 +989,41 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="i Sys School Config Service" />
+      <item value="Sys School Config Controller" />
+      <item value="I Sys School Config Service" />
+      <item value="create Time" />
+      <item value="row Id" />
+      <item value="config Year" />
+      <item value="config School Term" />
+      <item value="row id" />
+      <item value="config Start Date" />
+      <item value="Id Type" />
+      <item value="ASSIGN ID" />
+      <item value="Sys School Config" />
+      <item value="this Day Of Week" />
+      <item value="get Schedule Data Item List" />
+      <item value="schedule Data Item Dto" />
+      <item value="SCHOOL ROOM BIND DATA EXCEPTION" />
+      <item value="Device Tenement Constants" />
+      <item value="get Room Code" />
+      <item value="device Room Tenement Row Data" />
+      <item value="String Utils" />
+      <item value="is Empty" />
+      <item value="room Code" />
+      <item value="error" />
+      <item value="Ajax Result" />
+      <item value="Schedule Head Detail Part Dto" />
       <item value="active Publish Template Service" />
+      <item value="base Task Pool" />
+      <item value="bc Device Tenement" />
+      <item value="execute" />
+      <item value="Bc Device Tenement" />
+      <item value="set Publish Time" />
+      <item value="set Publish Author" />
+      <item value="set Tenement Device Id" />
+      <item value="now Publish Device Id" />
+      <item value="operate User Id" />
       <item value="save Flag" />
       <item value="boolean" />
       <item value="create Communications Exception" />
@@ -1005,40 +1039,6 @@
       <item value="error will be logged at DEBUG level" />
       <item value="logged at DEBUG level" />
       <item value="heart Active" />
-      <item value="page Url" />
-      <item value="private" />
-      <item value="current Room Code" />
-      <item value="SCHOOL ROOM BIND DATA EXCEPTION" />
-      <item value="获取当前设备绑定的楼宇对应信息" />
-      <item value="获取当前登陆设备的考试考场安排数据表" />
-      <item value="source Data" />
-      <item value="now Exam In Use" />
-      <item value="Bc Exam Template" />
-      <item value="Cannot" />
-      <item value="get Exam In Use" />
-      <item value="current Used Template" />
-      <item value="set Exam Configuration" />
-      <item value="Exam Template Config Data Result Vo" />
-      <item value="pm Data List" />
-      <item value="Bc Exam Config Table" />
-      <item value="Exception" />
-      <item value="t Exam In U" />
-      <item value="Quick Iter File" />
-      <item value="导入考场配置文件信息" />
-      <item value="导入的当前模板考场考试安排信息" />
-      <item value="is Allowed Extension" />
-      <item value="Zhkj Application" />
-      <item value="智慧空间后台Server启动成功" />
-      <item value="now Sheet" />
-      <item value="Override" />
-      <item value="do After All Analysed" />
-      <item value="Analysis Context" />
-      <item value="get Time Type Code" />
-      <item value="set Config Time Type" />
-      <item value="Exam Time Type" />
-      <item value="ASSIGN ID" />
-      <item value="Table Id" />
-      <item value="col Watch Dog" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9136" />
+        <entry key="CHINESE" value="9179" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="8" />
-        <entry key="ENGLISH" value="9137" />
+        <entry key="ENGLISH" value="9180" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="101" />
+        <entry key="FRENCH" value="102" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
@@ -1080,7 +1080,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="17" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="39" />
+        <entry key="TAHITIAN" value="41" />
         <entry key="TAMIL" value="1" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
