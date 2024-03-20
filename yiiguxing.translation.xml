@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="登录成功" />
+      <item value="Success" />
       <item value="operate User Id" />
       <item value="form Data" />
       <item value="set Create Time" />
@@ -1037,8 +1039,6 @@
       <item value="row id" />
       <item value="Id Type" />
       <item value="ASSIGN ID" />
-      <item value="this Day Of Week" />
-      <item value="get Schedule Data Item List" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9236" />
+        <entry key="CHINESE" value="9238" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9237" />
+        <entry key="ENGLISH" value="9238" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
