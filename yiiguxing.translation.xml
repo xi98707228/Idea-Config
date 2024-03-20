@@ -989,8 +989,13 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="exist Now School Term Data" />
       <item value="operate User Id" />
+      <item value="form Data" />
+      <item value="set Create Time" />
+      <item value="set Create By" />
+      <item value="now Date" />
+      <item value="return AjaxResult.error(&quot;已存在当前学年-学期的配置信息,请选择其它数据!&quot;);" />
+      <item value="exist Now School Term Data" />
       <item value="Security Utils" />
       <item value="get User Id" />
       <item value="The following 2 profiles are active: &quot;configs&quot;, &quot;druid&quot;" />
@@ -1034,11 +1039,6 @@
       <item value="ASSIGN ID" />
       <item value="this Day Of Week" />
       <item value="get Schedule Data Item List" />
-      <item value="schedule Data Item Dto" />
-      <item value="SCHOOL ROOM BIND DATA EXCEPTION" />
-      <item value="Device Tenement Constants" />
-      <item value="get Room Code" />
-      <item value="device Room Tenement Row Data" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9229" />
+        <entry key="CHINESE" value="9236" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9230" />
+        <entry key="ENGLISH" value="9237" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
