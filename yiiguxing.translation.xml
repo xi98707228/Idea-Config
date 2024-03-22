@@ -989,6 +989,16 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="3306" />
+      <item value="character Encoding" />
+      <item value="use Unicode" />
+      <item value="Same Url Data Interceptor" />
+      <item value="DUAL" />
+      <item value="SELECT 1 FROM DUAL" />
+      <item value="Dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="level" />
+      <item value="DEBUG" />
       <item value="线程安全的计数器" />
       <item value="Web Socket Template Info Push Server" />
       <item value="compareTo} because instances are expected to be mutated, and so are" />
@@ -1029,16 +1039,6 @@
       <item value="row Id" />
       <item value="String" />
       <item value="remove-row-config" />
-      <item value="Path Variable" />
-      <item value="pattern" />
-      <item value="config End Date" />
-      <item value="dd" />
-      <item value="MM" />
-      <item value="yyyy" />
-      <item value="week Count" />
-      <item value="学期开始日期" />
-      <item value="config Start Date" />
-      <item value="week Counter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9251" />
+        <entry key="CHINESE" value="9259" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9251" />
+        <entry key="ENGLISH" value="9260" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="102" />
+        <entry key="FRENCH" value="103" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
