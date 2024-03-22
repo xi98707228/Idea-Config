@@ -989,6 +989,18 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="between" />
+      <item value="DAYS" />
+      <item value="week Count" />
+      <item value="require Between Date Difference To Weeks" />
+      <item value="开始日期大于结束日期" />
+      <item value="operate Row Data" />
+      <item value="get User Id" />
+      <item value="row Id" />
+      <item value="Object" />
+      <item value="source Data" />
+      <item value="Ajax Result" />
+      <item value="return AjaxResult.success((Object) rowId);" />
       <item value="temporal 1 Inclusive" />
       <item value="Time Zone" />
       <item value="Chrono Local Date" />
@@ -1000,7 +1012,6 @@
       <item value="form Data" />
       <item value="set Create Time" />
       <item value="Starting service [Tomcat]" />
-      <item value="Ajax Result" />
       <item value="3306" />
       <item value="character Encoding" />
       <item value="use Unicode" />
@@ -1028,17 +1039,6 @@
       <item value="parameter Map" />
       <item value="登录成功" />
       <item value="Success" />
-      <item value="now Date" />
-      <item value="return AjaxResult.error(&quot;已存在当前学年-学期的配置信息,请选择其它数据!&quot;);" />
-      <item value="exist Now School Term Data" />
-      <item value="Security Utils" />
-      <item value="get User Id" />
-      <item value="The following 2 profiles are active: &quot;configs&quot;, &quot;druid&quot;" />
-      <item value="Hibernate" />
-      <item value="tag No" />
-      <item value="find Unique" />
-      <item value="hb Jdc Info Manager" />
-      <item value="exception" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9271" />
+        <entry key="CHINESE" value="9282" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9272" />
+        <entry key="ENGLISH" value="9283" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
