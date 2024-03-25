@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="当前暂无已激活的学年" />
+      <item value="学期配置数据信息" />
       <item value="登录成功" />
       <item value="now School Config" />
       <item value="dispatcher Servlet" />
@@ -1003,7 +1005,6 @@
       <item value="Ajax Result" />
       <item value="r" />
       <item value="当前暂无已激活的学年-学期配置数据信息" />
-      <item value="当前暂无已激活的学年" />
       <item value="select Current Active Config Info" />
       <item value="get Config Active" />
       <item value="select School Config Data List" />
@@ -1038,7 +1039,6 @@
       <item value="get User Id" />
       <item value="row Id" />
       <item value="return AjaxResult.success((Object) rowId);" />
-      <item value="temporal 1 Inclusive" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9336" />
+        <entry key="CHINESE" value="9338" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9336" />
+        <entry key="ENGLISH" value="9338" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
