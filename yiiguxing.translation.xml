@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dispatcher Servlet" />
       <item value="success" />
       <item value="e" />
       <item value="Ajax Result" />
@@ -1038,7 +1039,6 @@
       <item value="Web Socket Template Info Push Server" />
       <item value="compareTo} because instances are expected to be mutated, and so are" />
       <item value="Striped 64" />
-      <item value="Version" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,7 +1048,7 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9300" />
+        <entry key="CHINESE" value="9301" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
@@ -1058,7 +1058,7 @@
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="103" />
+        <entry key="FRENCH" value="104" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
