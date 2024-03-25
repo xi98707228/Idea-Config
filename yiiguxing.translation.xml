@@ -971,7 +971,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710726204586" />
+    <option name="lastTrimTime" value="1711331068173" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="则直接返回周计数" />
       <item value="between" />
       <item value="DAYS" />
       <item value="week Count" />
@@ -1038,7 +1039,6 @@
       <item value="查询列表" />
       <item value="parameter Map" />
       <item value="登录成功" />
-      <item value="Success" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,7 +1048,7 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9282" />
+        <entry key="CHINESE" value="9283" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
