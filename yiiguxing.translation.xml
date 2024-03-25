@@ -989,18 +989,29 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
+      <item value="e" />
+      <item value="Ajax Result" />
+      <item value="require Between Date Difference To Weeks" />
+      <item value="Security Utils" />
+      <item value="set Now Weeks" />
+      <item value="copy Properties" />
+      <item value="source Data" />
+      <item value="Sys School Config" />
+      <item value="Bean Utils" />
+      <item value="return" />
+      <item value="c" />
+      <item value="Object" />
+      <item value="A cookie header was received" />
+      <item value="update By Id" />
       <item value="则直接返回周计数" />
       <item value="between" />
       <item value="DAYS" />
       <item value="week Count" />
-      <item value="require Between Date Difference To Weeks" />
       <item value="开始日期大于结束日期" />
       <item value="operate Row Data" />
       <item value="get User Id" />
       <item value="row Id" />
-      <item value="Object" />
-      <item value="source Data" />
-      <item value="Ajax Result" />
       <item value="return AjaxResult.success((Object) rowId);" />
       <item value="temporal 1 Inclusive" />
       <item value="Time Zone" />
@@ -1028,17 +1039,6 @@
       <item value="compareTo} because instances are expected to be mutated, and so are" />
       <item value="Striped 64" />
       <item value="Version" />
-      <item value="Doug Lea" />
-      <item value="since" />
-      <item value="Long Adder" />
-      <item value="CLIENT KEY SESSION STORE MAP" />
-      <item value="max Data Calculate" />
-      <item value="Jdbc Template" />
-      <item value="jdbc Template" />
-      <item value="Unsupported Encoding Exception" />
-      <item value="查询列表" />
-      <item value="parameter Map" />
-      <item value="登录成功" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9283" />
+        <entry key="CHINESE" value="9300" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9283" />
+        <entry key="ENGLISH" value="9301" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -1064,7 +1064,7 @@
         <entry key="HINDI" value="10" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="20" />
+        <entry key="ITALIAN" value="21" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAGASY" value="5" />
         <entry key="MALAYALAM" value="2" />
