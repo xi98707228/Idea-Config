@@ -989,12 +989,36 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="登录成功" />
+      <item value="now School Config" />
+      <item value="dispatcher Servlet" />
+      <item value="Dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="sys-user" />
+      <item value="Success" />
+      <item value="error" />
+      <item value="c" />
+      <item value="success" />
+      <item value="i Sys School Config Service" />
+      <item value="Ajax Result" />
+      <item value="r" />
+      <item value="当前暂无已激活的学年-学期配置数据信息" />
+      <item value="当前暂无已激活的学年" />
+      <item value="select Current Active Config Info" />
+      <item value="get Config Active" />
+      <item value="select School Config Data List" />
+      <item value="search Filter" />
+      <item value="return sysSchoolConfigMapper.selectSchoolConfigDataList(searchFilter);" />
+      <item value="sys School Config Mapper" />
+      <item value="section Category Time Spread List" />
+      <item value="T" />
+      <item value="schedule Table Type" />
+      <item value="Collectors" />
+      <item value="to List" />
+      <item value="allow Empty Schedule Type" />
       <item value="lo Date" />
       <item value="require Between Date Difference To Weeks" />
-      <item value="dispatcher Servlet" />
-      <item value="success" />
       <item value="e" />
-      <item value="Ajax Result" />
       <item value="Security Utils" />
       <item value="set Now Weeks" />
       <item value="copy Properties" />
@@ -1002,7 +1026,6 @@
       <item value="Sys School Config" />
       <item value="Bean Utils" />
       <item value="return" />
-      <item value="c" />
       <item value="Object" />
       <item value="A cookie header was received" />
       <item value="update By Id" />
@@ -1016,29 +1039,6 @@
       <item value="row Id" />
       <item value="return AjaxResult.success((Object) rowId);" />
       <item value="temporal 1 Inclusive" />
-      <item value="Time Zone" />
-      <item value="Chrono Local Date" />
-      <item value="Temporal Adjuster" />
-      <item value="Temporal Accessor" />
-      <item value="Temporal" />
-      <item value="operate User Id" />
-      <item value="set Create By" />
-      <item value="form Data" />
-      <item value="set Create Time" />
-      <item value="Starting service [Tomcat]" />
-      <item value="3306" />
-      <item value="character Encoding" />
-      <item value="use Unicode" />
-      <item value="Same Url Data Interceptor" />
-      <item value="DUAL" />
-      <item value="SELECT 1 FROM DUAL" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="level" />
-      <item value="DEBUG" />
-      <item value="线程安全的计数器" />
-      <item value="Web Socket Template Info Push Server" />
-      <item value="compareTo} because instances are expected to be mutated, and so are" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9303" />
+        <entry key="CHINESE" value="9336" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9303" />
+        <entry key="ENGLISH" value="9336" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="104" />
+        <entry key="FRENCH" value="106" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
@@ -1071,7 +1071,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PASHTO" value="1" />
-        <entry key="PERSIAN" value="1" />
+        <entry key="PERSIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="PORTUGUESE_BRAZILIAN" value="24" />
         <entry key="ROMANIAN" value="5" />
