@@ -989,6 +989,9 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dispatcher Servlet" />
+      <item value="Initializing" />
+      <item value="智慧空间后台Server启动成功" />
       <item value="Spring Boot Version: 2.5.15" />
       <item value="Application Version: 3.8.6" />
       <item value="target" />
@@ -1036,9 +1039,6 @@
       <item value="Stores the auto proxy creator classes in escalation order." />
       <item value="APC PRIORITY LIST" />
       <item value="AUTO PROXY CREATOR BEAN NAME" />
-      <item value="Set up the escalation list..." />
-      <item value="unmodifiable List" />
-      <item value="merge If Required" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9429" />
+        <entry key="CHINESE" value="9432" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9430" />
+        <entry key="ENGLISH" value="9432" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="107" />
+        <entry key="FRENCH" value="108" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
