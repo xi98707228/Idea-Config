@@ -989,56 +989,56 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="auto Execute School Config Week Data Info" />
+      <item value="Zone Info File" />
+      <item value="get Custom Time Zone" />
+      <item value="negative" />
+      <item value="jackson Object Mapper Customization" />
+      <item value="访问过于频繁" />
+      <item value="请稍候再试" />
+      <item value="Service Exception" />
+      <item value="info" />
+      <item value="log" />
+      <item value="rate Limiter" />
+      <item value="singleton List" />
+      <item value="get Combine Key" />
+      <item value="time" />
+      <item value="limit Script" />
+      <item value="Object" />
+      <item value="Redis Template" />
+      <item value="redis Template" />
+      <item value="within" />
+      <item value="Around" />
+      <item value="Aop Namespace Utils" />
+      <item value="CREATOR" />
+      <item value="HIGHEST PRECEDENCE" />
+      <item value="get Property Values" />
+      <item value="current Priority" />
+      <item value="find Priority For Class" />
+      <item value="Stores the auto proxy creator classes in escalation order." />
+      <item value="APC PRIORITY LIST" />
+      <item value="AUTO PROXY CREATOR BEAN NAME" />
+      <item value="Set up the escalation list..." />
+      <item value="unmodifiable List" />
+      <item value="merge If Required" />
+      <item value="set Property Value At" />
+      <item value="property Value List" />
+      <item value="The default implementation of the {@link PropertyValues} interface. Allows simple manipulation of properties, and provides constructors to support deep copy and construction from a Map." />
+      <item value="Rod Johnson" />
+      <item value="Juergen Hoeller" />
+      <item value="Rob Harrop" />
+      <item value="author" />
+      <item value="since" />
+      <item value="Mutable Property Values" />
+      <item value="force Auto Proxy Creator To Expose Proxy" />
+      <item value="force" />
+      <item value="Annotation Attributes" />
+      <item value="is Candidate Class" />
+      <item value="system" />
+      <item value="config year" />
       <item value="success" />
       <item value="now School Config" />
       <item value="当前暂无已激活的学年" />
-      <item value="学期配置数据信息" />
-      <item value="登录成功" />
-      <item value="dispatcher Servlet" />
-      <item value="Dispatcher Servlet" />
-      <item value="Initializing" />
-      <item value="sys-user" />
-      <item value="Success" />
-      <item value="error" />
-      <item value="c" />
-      <item value="i Sys School Config Service" />
-      <item value="Ajax Result" />
-      <item value="r" />
-      <item value="当前暂无已激活的学年-学期配置数据信息" />
-      <item value="select Current Active Config Info" />
-      <item value="get Config Active" />
-      <item value="select School Config Data List" />
-      <item value="search Filter" />
-      <item value="return sysSchoolConfigMapper.selectSchoolConfigDataList(searchFilter);" />
-      <item value="sys School Config Mapper" />
-      <item value="section Category Time Spread List" />
-      <item value="T" />
-      <item value="schedule Table Type" />
-      <item value="Collectors" />
-      <item value="to List" />
-      <item value="allow Empty Schedule Type" />
-      <item value="lo Date" />
-      <item value="require Between Date Difference To Weeks" />
-      <item value="e" />
-      <item value="Security Utils" />
-      <item value="set Now Weeks" />
-      <item value="copy Properties" />
-      <item value="source Data" />
-      <item value="Sys School Config" />
-      <item value="Bean Utils" />
-      <item value="return" />
-      <item value="Object" />
-      <item value="A cookie header was received" />
-      <item value="update By Id" />
-      <item value="则直接返回周计数" />
-      <item value="between" />
-      <item value="DAYS" />
-      <item value="week Count" />
-      <item value="开始日期大于结束日期" />
-      <item value="operate Row Data" />
-      <item value="get User Id" />
-      <item value="row Id" />
-      <item value="return AjaxResult.success((Object) rowId);" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,17 +1048,17 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9339" />
+        <entry key="CHINESE" value="9392" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="DUTCH" value="9" />
-        <entry key="ENGLISH" value="9340" />
+        <entry key="DUTCH" value="11" />
+        <entry key="ENGLISH" value="9393" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="106" />
+        <entry key="FRENCH" value="107" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
