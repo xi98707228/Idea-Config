@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bc Device Tenement" />
+      <item value="搜索 根据楼宇类型等数据 搜索集合 , 返回前端下拉框结构数据信息" />
+      <item value="search Filter" />
+      <item value="返回前端下拉框结构数据信息" />
       <item value="dispatcher Servlet" />
       <item value="Initializing" />
       <item value="智慧空间后台Server启动成功" />
@@ -1035,10 +1039,6 @@
       <item value="HIGHEST PRECEDENCE" />
       <item value="get Property Values" />
       <item value="current Priority" />
-      <item value="find Priority For Class" />
-      <item value="Stores the auto proxy creator classes in escalation order." />
-      <item value="APC PRIORITY LIST" />
-      <item value="AUTO PROXY CREATOR BEAN NAME" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9432" />
+        <entry key="CHINESE" value="9433" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9432" />
+        <entry key="ENGLISH" value="9433" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -1080,7 +1080,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="17" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="41" />
+        <entry key="TAHITIAN" value="42" />
         <entry key="TAMIL" value="1" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
