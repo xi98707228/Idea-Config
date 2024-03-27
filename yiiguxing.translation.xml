@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SELECT" />
+      <item value="millis" />
+      <item value="internalAfterStatementExecute,504] - slow sql 3060 millis. SELECT 1 FROM DUAL[] 14:38:53.932 [http-nio-16000-exec-71] ERROR c.a.d.f.s.StatFilter - [internalAfterStatementExecute,504] - slow sql 7171 millis. SELECT count(0) FROM bc_device_tenement bdt JOIN assets_facility_manage afm ON afm.tenement_room_id = bdt.row_id LEFT JOIN assets_facility_dict afd ON afd.row_id = afm.facility_dict_id LEFT JOIN act_template_attach ata ON ata.module_id = afd.row_id WHERE bdt.row_id = ?[&quot;14&quot;] 14:38:53.932 [http-nio-16000-exec-74] ERROR c.a.d.f.s.StatFilter - [internalAfterStatementExecute" />
+      <item value="internal After Statement Execute" />
       <item value="statics" />
       <item value="select Item List" />
       <item value="tenement Device Info" />
@@ -1035,10 +1039,6 @@
       <item value="now School Config" />
       <item value="Transfer Data Base To Really Structure" />
       <item value="Resource" />
-      <item value="Sys School Config Schedule" />
-      <item value="Zone Info File" />
-      <item value="get Custom Time Zone" />
-      <item value="negative" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9456" />
+        <entry key="CHINESE" value="9465" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9457" />
+        <entry key="ENGLISH" value="9466" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
