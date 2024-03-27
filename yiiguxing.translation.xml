@@ -989,6 +989,10 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="statics" />
+      <item value="select Item List" />
+      <item value="tenement Device Info" />
+      <item value="defined Type Array" />
       <item value="get Tenement Terminal Device Info" />
       <item value="设备" />
       <item value="get Tenement Type" />
@@ -1035,10 +1039,6 @@
       <item value="Zone Info File" />
       <item value="get Custom Time Zone" />
       <item value="negative" />
-      <item value="jackson Object Mapper Customization" />
-      <item value="访问过于频繁" />
-      <item value="请稍候再试" />
-      <item value="Service Exception" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9453" />
+        <entry key="CHINESE" value="9456" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9454" />
+        <entry key="ENGLISH" value="9457" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -1080,7 +1080,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="17" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="52" />
+        <entry key="TAHITIAN" value="53" />
         <entry key="TAMIL" value="1" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
