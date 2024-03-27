@@ -989,6 +989,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="return" />
+      <item value="App Heart Now Device Output Dto" />
       <item value="获取楼宇数据列表信息" />
       <item value="Bc Device Tenement" />
       <item value="搜索 根据楼宇类型等数据 搜索集合 , 返回前端下拉框结构数据信息" />
@@ -1037,8 +1039,6 @@
       <item value="Around" />
       <item value="Aop Namespace Utils" />
       <item value="CREATOR" />
-      <item value="HIGHEST PRECEDENCE" />
-      <item value="get Property Values" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9434" />
+        <entry key="CHINESE" value="9435" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9434" />
+        <entry key="ENGLISH" value="9436" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
