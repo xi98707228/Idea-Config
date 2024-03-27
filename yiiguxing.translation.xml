@@ -989,15 +989,28 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bc Device Tenement" />
+      <item value="ROOM" />
+      <item value="Tenement Type" />
+      <item value="设备" />
+      <item value="get Tenement Type" />
+      <item value="system Room Space Data List" />
+      <item value="Dispatcher Servlet" />
+      <item value="Note: further occurrences of this error will be logged at DEBUG level" />
+      <item value="Cookie" />
+      <item value="A cookie header was received" />
+      <item value="received" />
+      <item value="was" />
+      <item value="get Device Statistics Data" />
+      <item value="Bc Device Statistics Vo" />
+      <item value="Initializing" />
       <item value="return" />
       <item value="App Heart Now Device Output Dto" />
       <item value="获取楼宇数据列表信息" />
-      <item value="Bc Device Tenement" />
       <item value="搜索 根据楼宇类型等数据 搜索集合 , 返回前端下拉框结构数据信息" />
       <item value="search Filter" />
       <item value="返回前端下拉框结构数据信息" />
       <item value="dispatcher Servlet" />
-      <item value="Initializing" />
       <item value="智慧空间后台Server启动成功" />
       <item value="Spring Boot Version: 2.5.15" />
       <item value="Application Version: 3.8.6" />
@@ -1026,19 +1039,6 @@
       <item value="请稍候再试" />
       <item value="Service Exception" />
       <item value="info" />
-      <item value="log" />
-      <item value="rate Limiter" />
-      <item value="singleton List" />
-      <item value="get Combine Key" />
-      <item value="time" />
-      <item value="limit Script" />
-      <item value="Object" />
-      <item value="Redis Template" />
-      <item value="redis Template" />
-      <item value="within" />
-      <item value="Around" />
-      <item value="Aop Namespace Utils" />
-      <item value="CREATOR" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,23 +1048,23 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9435" />
+        <entry key="CHINESE" value="9452" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9436" />
+        <entry key="ENGLISH" value="9452" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="5" />
-        <entry key="FRENCH" value="108" />
+        <entry key="FRENCH" value="111" />
         <entry key="GALICIAN" value="3" />
         <entry key="GERMAN" value="17" />
         <entry key="HINDI" value="10" />
         <entry key="HMONG" value="1" />
         <entry key="INDONESIAN" value="4" />
-        <entry key="ITALIAN" value="22" />
+        <entry key="ITALIAN" value="23" />
         <entry key="JAPANESE" value="6" />
         <entry key="MALAGASY" value="5" />
         <entry key="MALAYALAM" value="2" />
@@ -1080,7 +1080,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="17" />
         <entry key="SWEDISH" value="7" />
-        <entry key="TAHITIAN" value="42" />
+        <entry key="TAHITIAN" value="51" />
         <entry key="TAMIL" value="1" />
         <entry key="TELUGU" value="2" />
         <entry key="TONGAN" value="1" />
