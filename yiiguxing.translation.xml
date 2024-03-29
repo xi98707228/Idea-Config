@@ -989,6 +989,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="mode" />
       <item value="CLIENT KEY SESSION STORE MAP" />
       <item value="client Code" />
       <item value="CANNOT ACCEPT" />
@@ -1038,7 +1039,6 @@
       <item value="is Accessible" />
       <item value="parameter" />
       <item value="path" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9604" />
+        <entry key="CHINESE" value="9605" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9605" />
+        <entry key="ENGLISH" value="9606" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
