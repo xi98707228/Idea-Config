@@ -989,56 +989,56 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="set Create By" />
-      <item value="now Date" />
-      <item value="Security Utils" />
-      <item value="Ajax Result" />
-      <item value="device Heart Active" />
-      <item value="get Cache Object" />
-      <item value="redis Cache" />
-      <item value="delete Object" />
-      <item value="Info Publish Constants" />
-      <item value="abstract Method" />
-      <item value="抽象方法重写" />
-      <item value="page Total" />
-      <item value="temp Batch Size" />
-      <item value="SELECT" />
-      <item value="millis" />
-      <item value="internalAfterStatementExecute,504] - slow sql 3060 millis. SELECT 1 FROM DUAL[] 14:38:53.932 [http-nio-16000-exec-71] ERROR c.a.d.f.s.StatFilter - [internalAfterStatementExecute,504] - slow sql 7171 millis. SELECT count(0) FROM bc_device_tenement bdt JOIN assets_facility_manage afm ON afm.tenement_room_id = bdt.row_id LEFT JOIN assets_facility_dict afd ON afd.row_id = afm.facility_dict_id LEFT JOIN act_template_attach ata ON ata.module_id = afd.row_id WHERE bdt.row_id = ?[&quot;14&quot;] 14:38:53.932 [http-nio-16000-exec-74] ERROR c.a.d.f.s.StatFilter - [internalAfterStatementExecute" />
-      <item value="internal After Statement Execute" />
-      <item value="statics" />
-      <item value="select Item List" />
-      <item value="tenement Device Info" />
-      <item value="defined Type Array" />
-      <item value="get Tenement Terminal Device Info" />
-      <item value="设备" />
-      <item value="get Tenement Type" />
-      <item value="Bc Device Tenement" />
-      <item value="ROOM" />
-      <item value="Tenement Type" />
-      <item value="system Room Space Data List" />
-      <item value="Dispatcher Servlet" />
-      <item value="Note: further occurrences of this error will be logged at DEBUG level" />
-      <item value="Cookie" />
-      <item value="A cookie header was received" />
-      <item value="received" />
-      <item value="was" />
-      <item value="get Device Statistics Data" />
-      <item value="Bc Device Statistics Vo" />
-      <item value="Initializing" />
-      <item value="return" />
-      <item value="App Heart Now Device Output Dto" />
-      <item value="获取楼宇数据列表信息" />
-      <item value="搜索 根据楼宇类型等数据 搜索集合 , 返回前端下拉框结构数据信息" />
-      <item value="search Filter" />
-      <item value="返回前端下拉框结构数据信息" />
-      <item value="dispatcher Servlet" />
-      <item value="智慧空间后台Server启动成功" />
-      <item value="Spring Boot Version: 2.5.15" />
-      <item value="Application Version: 3.8.6" />
-      <item value="target" />
-      <item value="socket" />
-      <item value="transport" />
+      <item value="get Session" />
+      <item value="JSON Object" />
+      <item value="web Socket Request" />
+      <item value="socket Client Indicate" />
+      <item value="JSON Exception" />
+      <item value="WEBSOCKET TEMPLATE PUSH LOGGER" />
+      <item value="send Client Info" />
+      <item value="THREAD POOL TASK EXECUTOR" />
+      <item value="async Remote" />
+      <item value="send Binary Data" />
+      <item value="clear" />
+      <item value="is Assignable" />
+      <item value="send Binary" />
+      <item value="IO Exception" />
+      <item value="print Stack Trace" />
+      <item value="Heap Byte Buffer" />
+      <item value="TASK" />
+      <item value="Video Request" />
+      <item value="Suppress Warnings" />
+      <item value="Web Socket Client Indicate" />
+      <item value="execute Business Logic" />
+      <item value="Close Reason" />
+      <item value="Close Codes" />
+      <item value="CANNOT ACCEPT" />
+      <item value="get Message" />
+      <item value="error" />
+      <item value="NORMAL CLOSURE" />
+      <item value="正常则建立连接" />
+      <item value="并返回连接成功" />
+      <item value="存储数据" />
+      <item value="session Id" />
+      <item value="session" />
+      <item value="String" />
+      <item value="正常则建立连接 存储数据 并返回连接成功" />
+      <item value="CLIENT KEY SESSION STORE MAP" />
+      <item value="receive Message" />
+      <item value="Seekable Byte Channel" />
+      <item value="like Right" />
+      <item value="App Room Exam Table Result Vo" />
+      <item value="exam Template Info" />
+      <item value="Defines access modes used to test the accessibility of a file." />
+      <item value="Access Mode" />
+      <item value="Test" />
+      <item value="EXECUTE" />
+      <item value="is Accessible" />
+      <item value="parameter" />
+      <item value="path" />
+      <item value="type" />
+      <item value="options" />
+      <item value="is Directory" />
     </histories>
     <option name="languageScores">
       <map>
@@ -1048,12 +1048,12 @@
         <entry key="BENGALI" value="5" />
         <entry key="BOSNIAN" value="3" />
         <entry key="CATALAN" value="3" />
-        <entry key="CHINESE" value="9481" />
+        <entry key="CHINESE" value="9599" />
         <entry key="CHINESE_TRADITIONAL" value="7" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="DUTCH" value="11" />
-        <entry key="ENGLISH" value="9482" />
+        <entry key="ENGLISH" value="9600" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FIJIAN" value="1" />
         <entry key="FILIPINO" value="2" />
