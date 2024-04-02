@@ -1,23 +1,16 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CodeInsightWorkspaceSettings">
-        <option name="optimizeImportsOnTheFly" value="true" />
-      </component>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <other-services-enabled>true</other-services-enabled>
-        <auto-save>true</auto-save>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="E:/maven/apache-maven-3.5.3" />
-            <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.3\conf\settings.xml" />
+            <option name="localRepository" value="X:\1_DevelopSoft\DevelopTools\Maven\Repository" />
+            <option name="mavenHome" value="X:/1_DevelopSoft/DevelopTools/Maven/apache-maven-3.8.6" />
+            <option name="useMavenConfig" value="false" />
+            <option name="userSettingsFile" value="X:\1_DevelopSoft\DevelopTools\Maven\apache-maven-3.8.6\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
         <option name="importingSettings">
@@ -25,133 +18,37 @@
             <option name="downloadAnnotationsAutomatically" value="true" />
             <option name="downloadDocsAutomatically" value="true" />
             <option name="downloadSourcesAutomatically" value="true" />
-            <option name="importAutomatically" value="true" />
-            <option name="jdkForImporter" value="1.8" />
-            <option name="vmOptionsForImporter" value="-Xmx1597m" />
+            <option name="jdkForImporter" value="#JAVA_HOME" />
           </MavenImportingSettings>
         </option>
       </component>
       <component name="MavenRunner">
-        <option name="jreName" value="1.8" />
-      </component>
-      <component name="ProjectCodeStyleConfiguration">
-        <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
-        <code_scheme name="Project" version="173">
-          <MySQLCodeStyleSettings version="2">
-            <option name="KEYWORD_CASE" value="0" />
-            <option name="TYPE_CASE" value="3" />
-            <option name="IDENTIFIER_CASE" value="1" />
-          </MySQLCodeStyleSettings>
-        </code_scheme>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="笑予" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-              <State>
-                <id>AccessibilityLintAndroid</id>
-              </State>
-              <State>
-                <id>Android</id>
-              </State>
-              <State>
-                <id>CodeSpring CoreSpring</id>
-              </State>
-              <State>
-                <id>Control flow issuesJavaScript</id>
-              </State>
-              <State>
-                <id>CorrectnessLintAndroid</id>
-              </State>
-              <State>
-                <id>ImportsJava</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>LintAndroid</id>
-              </State>
-              <State>
-                <id>MemoryJava</id>
-              </State>
-              <State>
-                <id>Numeric issuesJava</id>
-              </State>
-              <State>
-                <id>PerformanceJava</id>
-              </State>
-              <State>
-                <id>PerformanceLintAndroid</id>
-              </State>
-              <State>
-                <id>Resource managementJava</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring CoreSpring</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-              <State>
-                <id>UsabilityLintAndroid</id>
-              </State>
-              <State>
-                <id>WebSocket</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-        <ConfirmationsSetting value="2" id="Add" />
+        <option name="jreName" value="#JAVA_HOME" />
       </component>
       <component name="ProjectViewState">
-        <option name="abbreviatePackageNames" value="true" />
         <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showExcludedFiles" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\98707\AppData\Roaming\Subversion</configuration>
       </component>
-      <component name="VcsManagerConfiguration">
-        <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-      </component>
-      <component name="YarnPnpManager">
-        <pnp-files />
+      <component name="WindowStateProjectService">
+        <state x="549" y="164" key="FileChooserDialogImpl" timestamp="1693725910411">
+          <screen x="0" y="0" width="1536" height="816" />
+        </state>
+        <state x="549" y="164" key="FileChooserDialogImpl/0.0.1536.816" timestamp="1693725910411" />
+        <state x="270" y="49" key="SettingsEditor" timestamp="1693725925742">
+          <screen x="0" y="0" width="1536" height="816" />
+        </state>
+        <state x="270" y="49" key="SettingsEditor/0.0.1536.816" timestamp="1693725925742" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>

@@ -1,7 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
-    <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -34,6 +32,11 @@
     </filter>
     <filter>
       <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.junit.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
@@ -73,25 +76,20 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="org.mockito.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-  </component>
-  <component name="NodeRendererSettings">
-    <Renderer ID="ClassRenderer">
-      <option name="SHOW_STATIC" value="true" />
-      <option name="SHOW_STATIC_FINAL" value="true" />
-      <option name="SHOW_DECLARED_TYPE" value="true" />
-      <option name="SHOW_STRINGS_TYPE" value="true" />
-    </Renderer>
-  </component>
-  <component name="ThreadsViewSettings">
-    <option name="SHOW_SOURCE_NAME" value="true" />
-    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
-  </component>
-  <component name="ViewsSettings">
-    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
+    <filter>
+      <option name="PATTERN" value="androidx.compose.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />

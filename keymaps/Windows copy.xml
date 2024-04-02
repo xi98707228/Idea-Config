@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
 </keymap>
