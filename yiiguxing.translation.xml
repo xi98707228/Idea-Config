@@ -14,6 +14,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="尚硅谷" />
+      <item value="My Sql" />
+      <item value="视频记录" />
+      <item value="宋红康" />
       <item value="Methods for unpacking primitive values from byte arrays starting at given offsets." />
       <item value="Main" />
       <item value="Datagram" />
@@ -59,8 +63,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
