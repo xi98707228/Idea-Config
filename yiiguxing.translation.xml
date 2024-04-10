@@ -14,6 +14,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="source Or Op Flags" />
+      <item value="stream" />
       <item value="Cloneable" />
       <item value="List Iterator" />
       <item value="spliterator" />
@@ -62,12 +64,11 @@
       <item value="Completable Future Demo 2_then Apply" />
       <item value="result Id" />
       <item value="UUID" />
-      <item value="task B Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
