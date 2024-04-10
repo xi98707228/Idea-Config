@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712025376272" />
+    <option name="lastTrimTime" value="1712719195922" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -14,6 +14,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="List Iterator" />
+      <item value="spliterator" />
       <item value="尚硅谷" />
       <item value="My Sql" />
       <item value="视频记录" />
@@ -63,8 +65,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
