@@ -14,6 +14,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Cloneable" />
       <item value="List Iterator" />
       <item value="spliterator" />
       <item value="尚硅谷" />
