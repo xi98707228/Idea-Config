@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712719195922" />
+    <option name="lastTrimTime" value="1740227538378" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -14,6 +14,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="shutdown" />
       <item value="sum Then Reset" />
       <item value="lazy Set" />
       <item value="source Or Op Flags" />
@@ -63,12 +64,12 @@
       <item value="task B" />
       <item value="task A" />
       <item value="System" />
-      <item value="Completable Future Demo 2_then Apply" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
